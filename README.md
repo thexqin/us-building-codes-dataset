@@ -3,3 +3,5 @@
 - https://up.codes/viewer/new_york/ibc-2024
 - https://up.codes/viewer/georgia/ibc-2024
 - https://up.codes/viewer/iowa/ibc-2024
+- https://up.codes/viewer/general-services-administration/ibc-2024
+- https://up.codes/viewer/general-services-administration/iebc-2024
