@@ -1,0 +1,1662 @@
+{
+    "props": {
+        "pageProps": {
+            "missingRequiredLogin": false,
+            "title": "Chapter 22 Special Piping and Storage Systems: GSA Residential Code 2024 | UpCodes",
+            "leanChapterViewerData": {
+                "basePubName": "International Residential Code 2024 (IRC 2024)",
+                "codeGroupingYear": "2025",
+                "codeName": "GSA Residential Code 2024",
+                "codeUuid": "967cdb24-3249-44b7-91fe-e50a3858e85e",
+                "codeVersions": [
+                    {
+                        "codeUuid": "967cdb24-3249-44b7-91fe-e50a3858e85e",
+                        "name": "Original Adoption",
+                        "effectiveStartDate": "2025-02-24",
+                        "shortformUrlName": "irc-2024",
+                        "activeStatus": "active"
+                    }
+                ],
+                "ingesterAmendmentsEnabled": false,
+                "ingesterCodeUnitsEnabled": false,
+                "isCorrespondable": true,
+                "jurisKey": "general-services-administration",
+                "jurisName": "General Services Administration",
+                "metaInfoUrl": "/viewer/general-services-administration/irc-2024",
+                "modelCodeUrl": null,
+                "placeholder": "Search GSA Residential Code 2024",
+                "pubKey": "int_residential_code_2024",
+                "pubPrefix": "int_residential_code",
+                "shortformPubName": "irc-2024",
+                "withAmendments": false,
+                "chapterRef": "22",
+                "publisher": "icc",
+                "hasLinkedResources": false,
+                "initialNonChapterTocLines": [
+                    {
+                        "amendType": null,
+                        "children": [
+                            {
+                                "amendType": null,
+                                "children": [],
+                                "depth": 2,
+                                "displayTitle": "M2201.1 Materials",
+                                "hasExpanderArrow": false,
+                                "href": "#M2201.1",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "orderIndex": 26670000,
+                                "reference": "M2201.1"
+                            },
+                            {
+                                "amendType": null,
+                                "children": [
+                                    {
+                                        "amendType": null,
+                                        "children": [],
+                                        "depth": 3,
+                                        "displayTitle": "M2201.2.1 Tanks Within Buildings",
+                                        "hasExpanderArrow": false,
+                                        "href": "#M2201.2.1",
+                                        "isCodeDivider": false,
+                                        "isCodeDividerClickable": false,
+                                        "orderIndex": 26690000,
+                                        "reference": "M2201.2.1"
+                                    },
+                                    {
+                                        "amendType": null,
+                                        "children": [],
+                                        "depth": 3,
+                                        "displayTitle": "M2201.2.2 Outdoor Above-Ground Tanks",
+                                        "hasExpanderArrow": false,
+                                        "href": "#M2201.2.2",
+                                        "isCodeDivider": false,
+                                        "isCodeDividerClickable": false,
+                                        "orderIndex": 26700000,
+                                        "reference": "M2201.2.2"
+                                    }
+                                ],
+                                "depth": 2,
+                                "displayTitle": "M2201.2 Above-Ground Tanks",
+                                "hasExpanderArrow": true,
+                                "href": "#M2201.2",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "orderIndex": 26680000,
+                                "reference": "M2201.2"
+                            },
+                            {
+                                "amendType": null,
+                                "children": [],
+                                "depth": 2,
+                                "displayTitle": "M2201.3 Underground Tanks",
+                                "hasExpanderArrow": false,
+                                "href": "#M2201.3",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "orderIndex": 26710000,
+                                "reference": "M2201.3"
+                            },
+                            {
+                                "amendType": null,
+                                "children": [],
+                                "depth": 2,
+                                "displayTitle": "M2201.4 Multiple Tanks",
+                                "hasExpanderArrow": false,
+                                "href": "#M2201.4",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "orderIndex": 26720000,
+                                "reference": "M2201.4"
+                            },
+                            {
+                                "amendType": null,
+                                "children": [],
+                                "depth": 2,
+                                "displayTitle": "M2201.5 Oil Gauges",
+                                "hasExpanderArrow": false,
+                                "href": "#M2201.5",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "orderIndex": 26730000,
+                                "reference": "M2201.5"
+                            },
+                            {
+                                "amendType": null,
+                                "children": [],
+                                "depth": 2,
+                                "displayTitle": "M2201.6 Flood-Resistant Installation",
+                                "hasExpanderArrow": false,
+                                "href": "#M2201.6",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "orderIndex": 26740000,
+                                "reference": "M2201.6"
+                            },
+                            {
+                                "amendType": null,
+                                "children": [],
+                                "depth": 2,
+                                "displayTitle": "M2201.7 Tanks Abandoned or Removed",
+                                "hasExpanderArrow": false,
+                                "href": "#M2201.7",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "orderIndex": 26750000,
+                                "reference": "M2201.7"
+                            }
+                        ],
+                        "depth": 1,
+                        "displayTitle": "M2201 Oil Tanks",
+                        "hasExpanderArrow": true,
+                        "href": "#M2201",
+                        "isCodeDivider": false,
+                        "isCodeDividerClickable": false,
+                        "orderIndex": 26660000,
+                        "reference": "M2201"
+                    },
+                    {
+                        "amendType": null,
+                        "children": [
+                            {
+                                "amendType": null,
+                                "children": [],
+                                "depth": 2,
+                                "displayTitle": "M2202.1 Materials",
+                                "hasExpanderArrow": false,
+                                "href": "#M2202.1",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "orderIndex": 26770000,
+                                "reference": "M2202.1"
+                            },
+                            {
+                                "amendType": null,
+                                "children": [],
+                                "depth": 2,
+                                "displayTitle": "M2202.2 Joints and Fittings",
+                                "hasExpanderArrow": false,
+                                "href": "#M2202.2",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "orderIndex": 26780000,
+                                "reference": "M2202.2"
+                            },
+                            {
+                                "amendType": null,
+                                "children": [],
+                                "depth": 2,
+                                "displayTitle": "M2202.3 Flexible Connectors",
+                                "hasExpanderArrow": false,
+                                "href": "#M2202.3",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "orderIndex": 26790000,
+                                "reference": "M2202.3"
+                            }
+                        ],
+                        "depth": 1,
+                        "displayTitle": "M2202 Oil Piping, Fitting and Connections",
+                        "hasExpanderArrow": true,
+                        "href": "#M2202",
+                        "isCodeDivider": false,
+                        "isCodeDividerClickable": false,
+                        "orderIndex": 26760000,
+                        "reference": "M2202"
+                    },
+                    {
+                        "amendType": null,
+                        "children": [
+                            {
+                                "amendType": null,
+                                "children": [],
+                                "depth": 2,
+                                "displayTitle": "M2203.1 General",
+                                "hasExpanderArrow": false,
+                                "href": "#M2203.1",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "orderIndex": 26810000,
+                                "reference": "M2203.1"
+                            },
+                            {
+                                "amendType": null,
+                                "children": [],
+                                "depth": 2,
+                                "displayTitle": "M2203.2 Supply Piping",
+                                "hasExpanderArrow": false,
+                                "href": "#M2203.2",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "orderIndex": 26820000,
+                                "reference": "M2203.2"
+                            },
+                            {
+                                "amendType": null,
+                                "children": [],
+                                "depth": 2,
+                                "displayTitle": "M2203.3 Fill Piping",
+                                "hasExpanderArrow": false,
+                                "href": "#M2203.3",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "orderIndex": 26830000,
+                                "reference": "M2203.3"
+                            },
+                            {
+                                "amendType": null,
+                                "children": [],
+                                "depth": 2,
+                                "displayTitle": "M2203.4 Vent Piping",
+                                "hasExpanderArrow": false,
+                                "href": "#M2203.4",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "orderIndex": 26840000,
+                                "reference": "M2203.4"
+                            },
+                            {
+                                "amendType": null,
+                                "children": [],
+                                "depth": 2,
+                                "displayTitle": "M2203.5 Vent Termination",
+                                "hasExpanderArrow": false,
+                                "href": "#M2203.5",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "orderIndex": 26850000,
+                                "reference": "M2203.5"
+                            },
+                            {
+                                "amendType": null,
+                                "children": [],
+                                "depth": 2,
+                                "displayTitle": "M2203.6 Cross Connection of Tanks",
+                                "hasExpanderArrow": false,
+                                "href": "#M2203.6",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "orderIndex": 26860000,
+                                "reference": "M2203.6"
+                            },
+                            {
+                                "amendType": null,
+                                "children": [],
+                                "depth": 2,
+                                "displayTitle": "M2203.7 Corrosion Protection",
+                                "hasExpanderArrow": false,
+                                "href": "#M2203.7",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "orderIndex": 26870000,
+                                "reference": "M2203.7"
+                            }
+                        ],
+                        "depth": 1,
+                        "displayTitle": "M2203 Installation",
+                        "hasExpanderArrow": true,
+                        "href": "#M2203",
+                        "isCodeDivider": false,
+                        "isCodeDividerClickable": false,
+                        "orderIndex": 26800000,
+                        "reference": "M2203"
+                    },
+                    {
+                        "amendType": null,
+                        "children": [
+                            {
+                                "amendType": null,
+                                "children": [],
+                                "depth": 2,
+                                "displayTitle": "M2204.1 Pumps",
+                                "hasExpanderArrow": false,
+                                "href": "#M2204.1",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "orderIndex": 26890000,
+                                "reference": "M2204.1"
+                            },
+                            {
+                                "amendType": null,
+                                "children": [],
+                                "depth": 2,
+                                "displayTitle": "M2204.2 Shutoff Valves",
+                                "hasExpanderArrow": false,
+                                "href": "#M2204.2",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "orderIndex": 26900000,
+                                "reference": "M2204.2"
+                            },
+                            {
+                                "amendType": null,
+                                "children": [],
+                                "depth": 2,
+                                "displayTitle": "M2204.3 Maximum Pressure",
+                                "hasExpanderArrow": false,
+                                "href": "#M2204.3",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "orderIndex": 26910000,
+                                "reference": "M2204.3"
+                            },
+                            {
+                                "amendType": null,
+                                "children": [],
+                                "depth": 2,
+                                "displayTitle": "M2204.4 Relief Valves",
+                                "hasExpanderArrow": false,
+                                "href": "#M2204.4",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "orderIndex": 26920000,
+                                "reference": "M2204.4"
+                            }
+                        ],
+                        "depth": 1,
+                        "displayTitle": "M2204 Oil Pumps and Valves",
+                        "hasExpanderArrow": true,
+                        "href": "#M2204",
+                        "isCodeDivider": false,
+                        "isCodeDividerClickable": false,
+                        "orderIndex": 26880000,
+                        "reference": "M2204"
+                    }
+                ],
+                "title": "Chapter 22 Special Piping and Storage Systems: GSA Residential Code 2024 | UpCodes",
+                "leanChapterLines": [
+                    {
+                        "displayTitle": "Part I\u2014 Administrative",
+                        "isCodeDivider": true,
+                        "orderIndex": 10000,
+                        "reference": "divider_0_I\u2014",
+                        "slug": "administrative"
+                    },
+                    {
+                        "displayTitle": "Chapter 1 Scope and Administration",
+                        "isExpandable": true,
+                        "orderIndex": 20000,
+                        "reference": "1",
+                        "slug": "scope-and-administration"
+                    },
+                    {
+                        "displayTitle": "Part II\u2014 Definitions",
+                        "isCodeDivider": true,
+                        "orderIndex": 2440000,
+                        "reference": "divider_0_II\u2014",
+                        "slug": "definitions"
+                    },
+                    {
+                        "displayTitle": "Chapter 2 Definitions",
+                        "isExpandable": true,
+                        "orderIndex": 2450000,
+                        "reference": "2",
+                        "slug": "definitions"
+                    },
+                    {
+                        "displayTitle": "Part III\u2014 Building Planning and Construction",
+                        "isCodeDivider": true,
+                        "orderIndex": 2520000,
+                        "reference": "divider_0_III\u2014",
+                        "slug": "building-planning-and-construction"
+                    },
+                    {
+                        "displayTitle": "Chapter 3 Building Planning",
+                        "isExpandable": true,
+                        "orderIndex": 2530000,
+                        "reference": "3",
+                        "slug": "building-planning"
+                    },
+                    {
+                        "displayTitle": "Chapter 4 Foundations",
+                        "isExpandable": true,
+                        "orderIndex": 8130000,
+                        "reference": "4",
+                        "slug": "foundations"
+                    },
+                    {
+                        "displayTitle": "Chapter 5 Floors",
+                        "isExpandable": true,
+                        "orderIndex": 9580000,
+                        "reference": "5",
+                        "slug": "floors"
+                    },
+                    {
+                        "displayTitle": "Chapter 6 Wall Construction",
+                        "isExpandable": true,
+                        "orderIndex": 11040000,
+                        "reference": "6",
+                        "slug": "wall-construction"
+                    },
+                    {
+                        "displayTitle": "Chapter 7 Wall Covering",
+                        "isExpandable": true,
+                        "orderIndex": 14720000,
+                        "reference": "7",
+                        "slug": "wall-covering"
+                    },
+                    {
+                        "displayTitle": "Chapter 8 Roof-Ceiling Construction",
+                        "isExpandable": true,
+                        "orderIndex": 16050000,
+                        "reference": "8",
+                        "slug": "roof-ceiling-construction"
+                    },
+                    {
+                        "displayTitle": "Chapter 9 Roof Assemblies",
+                        "isExpandable": true,
+                        "orderIndex": 17070000,
+                        "reference": "9",
+                        "slug": "roof-assemblies"
+                    },
+                    {
+                        "displayTitle": "Chapter 10 Chimneys and Fireplaces",
+                        "isExpandable": true,
+                        "orderIndex": 18780000,
+                        "reference": "10",
+                        "slug": "chimneys-and-fireplaces"
+                    },
+                    {
+                        "displayTitle": "Part IV\u2014 Energy Conservation",
+                        "isCodeDivider": true,
+                        "orderIndex": 19720000,
+                        "reference": "divider_0_IV\u2014",
+                        "slug": "energy-conservation"
+                    },
+                    {
+                        "displayTitle": "Chapter 11 [RE] Energy Efficiency",
+                        "isExpandable": true,
+                        "orderIndex": 19730000,
+                        "reference": "11",
+                        "slug": "re-energy-efficiency"
+                    },
+                    {
+                        "displayTitle": "Part V\u2014 Mechanical",
+                        "isCodeDivider": true,
+                        "orderIndex": 22140000,
+                        "reference": "divider_0_V\u2014",
+                        "slug": "mechanical"
+                    },
+                    {
+                        "displayTitle": "Chapter 12 Mechanical Administration",
+                        "isExpandable": true,
+                        "orderIndex": 22150000,
+                        "reference": "12",
+                        "slug": "mechanical-administration"
+                    },
+                    {
+                        "displayTitle": "Chapter 13 General Mechanical System Requirements",
+                        "isExpandable": true,
+                        "orderIndex": 22250000,
+                        "reference": "13",
+                        "slug": "general-mechanical-system-requirements"
+                    },
+                    {
+                        "displayTitle": "Chapter 14 Heating and Cooling Equipment and Appliances",
+                        "isExpandable": true,
+                        "orderIndex": 22750000,
+                        "reference": "14",
+                        "slug": "heating-and-cooling-equipment-and-appliances"
+                    },
+                    {
+                        "displayTitle": "Chapter 15 Exhaust Systems",
+                        "isExpandable": true,
+                        "orderIndex": 23560000,
+                        "reference": "15",
+                        "slug": "exhaust-systems"
+                    },
+                    {
+                        "displayTitle": "Chapter 16 Duct Systems",
+                        "isExpandable": true,
+                        "orderIndex": 24030000,
+                        "reference": "16",
+                        "slug": "duct-systems"
+                    },
+                    {
+                        "displayTitle": "Chapter 17 Combustion Air",
+                        "isExpandable": true,
+                        "orderIndex": 24320000,
+                        "reference": "17",
+                        "slug": "combustion-air"
+                    },
+                    {
+                        "displayTitle": "Chapter 18 Chimneys and Vents",
+                        "isExpandable": true,
+                        "orderIndex": 24370000,
+                        "reference": "18",
+                        "slug": "chimneys-and-vents"
+                    },
+                    {
+                        "displayTitle": "Chapter 19 Special Appliances, Equipment and Systems",
+                        "isExpandable": true,
+                        "orderIndex": 24940000,
+                        "reference": "19",
+                        "slug": "special-appliances-equipment-and-systems"
+                    },
+                    {
+                        "displayTitle": "Chapter 20 Boilers and Water Heaters",
+                        "isExpandable": true,
+                        "orderIndex": 25080000,
+                        "reference": "20",
+                        "slug": "boilers-and-water-heaters"
+                    },
+                    {
+                        "displayTitle": "Chapter 21 Hydronic Piping",
+                        "isExpandable": true,
+                        "orderIndex": 25390000,
+                        "reference": "21",
+                        "slug": "hydronic-piping"
+                    },
+                    {
+                        "displayTitle": "Chapter 22 Special Piping and Storage Systems",
+                        "isExpandable": true,
+                        "orderIndex": 26650000,
+                        "reference": "22",
+                        "slug": "special-piping-and-storage-systems"
+                    },
+                    {
+                        "displayTitle": "Chapter 23 Solar Thermal Energy Systems",
+                        "isExpandable": true,
+                        "orderIndex": 26930000,
+                        "reference": "23",
+                        "slug": "solar-thermal-energy-systems"
+                    },
+                    {
+                        "displayTitle": "Part VI\u2014 Fuel Gas",
+                        "isCodeDivider": true,
+                        "orderIndex": 27250000,
+                        "reference": "divider_0_VI\u2014",
+                        "slug": "fuel-gas"
+                    },
+                    {
+                        "displayTitle": "Chapter 24 Fuel Gas",
+                        "isExpandable": true,
+                        "orderIndex": 27260000,
+                        "reference": "24",
+                        "slug": "fuel-gas"
+                    },
+                    {
+                        "displayTitle": "Part VII\u2014 Plumbing",
+                        "isCodeDivider": true,
+                        "orderIndex": 33070000,
+                        "reference": "divider_0_VII\u2014",
+                        "slug": "plumbing"
+                    },
+                    {
+                        "displayTitle": "Chapter 25 Plumbing Administration",
+                        "isExpandable": true,
+                        "orderIndex": 33080000,
+                        "reference": "25",
+                        "slug": "plumbing-administration"
+                    },
+                    {
+                        "displayTitle": "Chapter 26 General Plumbing Requirements",
+                        "isExpandable": true,
+                        "orderIndex": 33290000,
+                        "reference": "26",
+                        "slug": "general-plumbing-requirements"
+                    },
+                    {
+                        "displayTitle": "Chapter 27 Plumbing Fixtures",
+                        "isExpandable": true,
+                        "orderIndex": 33680000,
+                        "reference": "27",
+                        "slug": "plumbing-fixtures"
+                    },
+                    {
+                        "displayTitle": "Chapter 28 Water Heaters",
+                        "isExpandable": true,
+                        "orderIndex": 34670000,
+                        "reference": "28",
+                        "slug": "water-heaters"
+                    },
+                    {
+                        "displayTitle": "Chapter 29 Water Supply and Distribution",
+                        "isExpandable": true,
+                        "orderIndex": 34950000,
+                        "reference": "29",
+                        "slug": "water-supply-and-distribution"
+                    },
+                    {
+                        "displayTitle": "Chapter 30 Sanitary Drainage",
+                        "isExpandable": true,
+                        "orderIndex": 37790000,
+                        "reference": "30",
+                        "slug": "sanitary-drainage"
+                    },
+                    {
+                        "displayTitle": "Chapter 31 Vents",
+                        "isExpandable": true,
+                        "orderIndex": 39380000,
+                        "reference": "31",
+                        "slug": "vents"
+                    },
+                    {
+                        "displayTitle": "Chapter 32 Traps",
+                        "isExpandable": true,
+                        "orderIndex": 40230000,
+                        "reference": "32",
+                        "slug": "traps"
+                    },
+                    {
+                        "displayTitle": "Chapter 33 Storm Drainage",
+                        "isExpandable": true,
+                        "orderIndex": 40390000,
+                        "reference": "33",
+                        "slug": "storm-drainage"
+                    },
+                    {
+                        "displayTitle": "Part VIII\u2014 Electrical",
+                        "isCodeDivider": true,
+                        "orderIndex": 40500000,
+                        "reference": "divider_0_VIII\u2014",
+                        "slug": "electrical"
+                    },
+                    {
+                        "displayTitle": "Chapter 34 General Requirements",
+                        "isExpandable": true,
+                        "orderIndex": 40510000,
+                        "reference": "34",
+                        "slug": "general-requirements"
+                    },
+                    {
+                        "displayTitle": "Chapter 35 Electrical Definitions",
+                        "isExpandable": true,
+                        "orderIndex": 41250000,
+                        "reference": "35",
+                        "slug": "electrical-definitions"
+                    },
+                    {
+                        "displayTitle": "Chapter 36 Services",
+                        "isExpandable": true,
+                        "orderIndex": 41280000,
+                        "reference": "36",
+                        "slug": "services"
+                    },
+                    {
+                        "displayTitle": "Chapter 37 Branch Circuit and Feeder Requirements",
+                        "isExpandable": true,
+                        "orderIndex": 42550000,
+                        "reference": "37",
+                        "slug": "branch-circuit-and-feeder-requirements"
+                    },
+                    {
+                        "displayTitle": "Chapter 38 Wiring Methods",
+                        "isExpandable": true,
+                        "orderIndex": 43320000,
+                        "reference": "38",
+                        "slug": "wiring-methods"
+                    },
+                    {
+                        "displayTitle": "Chapter 39 Power and Lighting Distribution",
+                        "isExpandable": true,
+                        "orderIndex": 43650000,
+                        "reference": "39",
+                        "slug": "power-and-lighting-distribution"
+                    },
+                    {
+                        "displayTitle": "Chapter 40 Devices and Luminaires",
+                        "isExpandable": true,
+                        "orderIndex": 45400000,
+                        "reference": "40",
+                        "slug": "devices-and-luminaires"
+                    },
+                    {
+                        "displayTitle": "Chapter 41 Appliance Installation",
+                        "isExpandable": true,
+                        "orderIndex": 46160000,
+                        "reference": "41",
+                        "slug": "appliance-installation"
+                    },
+                    {
+                        "displayTitle": "Chapter 42 Swimming Pools",
+                        "isExpandable": true,
+                        "orderIndex": 46280000,
+                        "reference": "42",
+                        "slug": "swimming-pools"
+                    },
+                    {
+                        "displayTitle": "Chapter 43 Class 2 Remote-Control, Signaling and Power-Limited Circuits",
+                        "isExpandable": true,
+                        "orderIndex": 47300000,
+                        "reference": "43",
+                        "slug": "class-2-remote-control-signaling-and-power-limited-circuits"
+                    },
+                    {
+                        "displayTitle": "Part IX\u2014 Referenced Standards",
+                        "isCodeDivider": true,
+                        "orderIndex": 47500000,
+                        "reference": "divider_0_IX\u2014",
+                        "slug": "referenced-standards"
+                    },
+                    {
+                        "displayTitle": "Chapter 44 Referenced Standards",
+                        "orderIndex": 47510000,
+                        "reference": "44",
+                        "slug": "referenced-standards"
+                    },
+                    {
+                        "disabled": true,
+                        "displayTitle": "Appendix AA Board of Appeals",
+                        "orderIndex": 47520000,
+                        "reference": "AA",
+                        "slug": "board-of-appeals"
+                    },
+                    {
+                        "disabled": true,
+                        "displayTitle": "Appendix AB Permit Fees",
+                        "orderIndex": 47770000,
+                        "reference": "AB",
+                        "slug": "permit-fees"
+                    },
+                    {
+                        "displayTitle": "Appendix AC Reserved",
+                        "orderIndex": 47800000,
+                        "reference": "AC",
+                        "slug": "reserved"
+                    },
+                    {
+                        "disabled": true,
+                        "displayTitle": "Appendix BA Manufactured Housing Used as Dwellings",
+                        "orderIndex": 47890000,
+                        "reference": "BA",
+                        "slug": "manufactured-housing-used-as-dwellings"
+                    },
+                    {
+                        "disabled": true,
+                        "displayTitle": "Appendix BB Tiny Houses",
+                        "orderIndex": 49130000,
+                        "reference": "BB",
+                        "slug": "tiny-houses"
+                    },
+                    {
+                        "disabled": true,
+                        "displayTitle": "Appendix BC Accessory Dwelling Units (ADU)",
+                        "orderIndex": 49470000,
+                        "reference": "BC",
+                        "slug": "accessory-dwelling-units-adu"
+                    },
+                    {
+                        "disabled": true,
+                        "displayTitle": "Appendix BD Home Day Care Occupancy",
+                        "orderIndex": 49660000,
+                        "reference": "BD",
+                        "slug": "home-day-care-occupancy"
+                    },
+                    {
+                        "disabled": true,
+                        "displayTitle": "Appendix BE Radon Control Methods",
+                        "orderIndex": 49880000,
+                        "reference": "BE",
+                        "slug": "radon-control-methods"
+                    },
+                    {
+                        "disabled": true,
+                        "displayTitle": "Appendix BF Patio Covers",
+                        "orderIndex": 50240000,
+                        "reference": "BF",
+                        "slug": "patio-covers"
+                    },
+                    {
+                        "disabled": true,
+                        "displayTitle": "Appendix BG Sound Transmission",
+                        "orderIndex": 50510000,
+                        "reference": "BG",
+                        "slug": "sound-transmission"
+                    },
+                    {
+                        "disabled": true,
+                        "displayTitle": "Appendix BH Automatic Vehicular Gates",
+                        "orderIndex": 50610000,
+                        "reference": "BH",
+                        "slug": "automatic-vehicular-gates"
+                    },
+                    {
+                        "disabled": true,
+                        "displayTitle": "Appendix BI Light Straw-Clay Construction",
+                        "orderIndex": 50710000,
+                        "reference": "BI",
+                        "slug": "light-straw-clay-construction"
+                    },
+                    {
+                        "disabled": true,
+                        "displayTitle": "Appendix BJ Strawbale Construction",
+                        "orderIndex": 51070000,
+                        "reference": "BJ",
+                        "slug": "strawbale-construction"
+                    },
+                    {
+                        "disabled": true,
+                        "displayTitle": "Appendix BK Cob Construction (Monolithic Adobe)",
+                        "orderIndex": 52100000,
+                        "reference": "BK",
+                        "slug": "cob-construction-monolithic-adobe"
+                    },
+                    {
+                        "disabled": true,
+                        "displayTitle": "Appendix BL Hemp-Lime (HempCrete) Construction",
+                        "orderIndex": 53080000,
+                        "reference": "BL",
+                        "slug": "hemp-lime-hempcrete-construction"
+                    },
+                    {
+                        "disabled": true,
+                        "displayTitle": "Appendix BM 3D-Printed Building Construction",
+                        "orderIndex": 54030000,
+                        "reference": "BM",
+                        "slug": "3d-printed-building-construction"
+                    },
+                    {
+                        "disabled": true,
+                        "displayTitle": "Appendix BN Extended Plate Wall Construction",
+                        "orderIndex": 54200000,
+                        "reference": "BN",
+                        "slug": "extended-plate-wall-construction"
+                    },
+                    {
+                        "disabled": true,
+                        "displayTitle": "Appendix BO Existing Buildings and Structures",
+                        "orderIndex": 54330000,
+                        "reference": "BO",
+                        "slug": "existing-buildings-and-structures"
+                    },
+                    {
+                        "disabled": true,
+                        "displayTitle": "Appendix CA Sizing and Capacities of Gas Piping",
+                        "orderIndex": 57420000,
+                        "reference": "CA",
+                        "slug": "sizing-and-capacities-of-gas-piping"
+                    },
+                    {
+                        "disabled": true,
+                        "displayTitle": "Appendix CB Sizing of Venting Systems Serving Appliances Equipped With Draft Hoods, Category I Appliances and Appliances Listed for Use With Type B Vents",
+                        "orderIndex": 57640000,
+                        "reference": "CB",
+                        "slug": "sizing-of-venting-systems-serving-appliances-equipped-with-draft-hoods-category"
+                    },
+                    {
+                        "disabled": true,
+                        "displayTitle": "Appendix CC Recommended Procedure for Safety Inspection of an Existing Appliance Installation",
+                        "orderIndex": 57760000,
+                        "reference": "CC",
+                        "slug": "recommended-procedure-for-safety-inspection-of-an-existing-appliance-installatio"
+                    },
+                    {
+                        "displayTitle": "Appendix CD Piping Standards for Various Applications",
+                        "isExpandable": true,
+                        "orderIndex": 57900000,
+                        "reference": "CD",
+                        "slug": "piping-standards-for-various-applications"
+                    },
+                    {
+                        "disabled": true,
+                        "displayTitle": "Appendix CE Venting Methods",
+                        "orderIndex": 57950000,
+                        "reference": "CE",
+                        "slug": "venting-methods"
+                    },
+                    {
+                        "disabled": true,
+                        "displayTitle": "Appendix CF Sizing of Water Piping System",
+                        "orderIndex": 57980000,
+                        "reference": "CF",
+                        "slug": "sizing-of-water-piping-system"
+                    },
+                    {
+                        "disabled": true,
+                        "displayTitle": "Appendix CG Nonsewered Sanitation Systems",
+                        "orderIndex": 58170000,
+                        "reference": "CG",
+                        "slug": "nonsewered-sanitation-systems"
+                    },
+                    {
+                        "disabled": true,
+                        "displayTitle": "Appendix CH Private Sewage Disposal",
+                        "orderIndex": 58370000,
+                        "reference": "CH",
+                        "slug": "private-sewage-disposal"
+                    },
+                    {
+                        "displayTitle": "Appendix NA Reserved",
+                        "orderIndex": 58400000,
+                        "reference": "NA",
+                        "slug": "reserved"
+                    },
+                    {
+                        "disabled": true,
+                        "displayTitle": "Appendix NB (RB) Solar-Ready Provisions\u2014Detached One- And Two-Family Dwellings and Townhouses",
+                        "orderIndex": 58410000,
+                        "reference": "NB",
+                        "slug": "rb-solar-ready-provisions-detached-one-and-two-family-dwellings-and-townhouses"
+                    },
+                    {
+                        "disabled": true,
+                        "displayTitle": "Appendix NC (RC) Zero Net Energy Residential Building Provisions",
+                        "orderIndex": 58560000,
+                        "reference": "NC",
+                        "slug": "rc-zero-net-energy-residential-building-provisions"
+                    },
+                    {
+                        "disabled": true,
+                        "displayTitle": "Appendix ND (rd) Electric Energy Storage Provisions",
+                        "orderIndex": 58730000,
+                        "reference": "ND",
+                        "slug": "rd-electric-energy-storage-provisions"
+                    },
+                    {
+                        "disabled": true,
+                        "displayTitle": "Appendix NE (RE) Electric Vehicle Charging Infrastructure",
+                        "orderIndex": 58860000,
+                        "reference": "NE",
+                        "slug": "re-electric-vehicle-charging-infrastructure"
+                    },
+                    {
+                        "disabled": true,
+                        "displayTitle": "Appendix NF (RF) Alternative Building Thermal Envelope Insulation R -Value Options",
+                        "orderIndex": 58950000,
+                        "reference": "NF",
+                        "slug": "rf-alternative-building-thermal-envelope-insulation-r-value-options"
+                    },
+                    {
+                        "disabled": true,
+                        "displayTitle": "Appendix NG (RG) 2024 IECC Stretch Code",
+                        "orderIndex": 59080000,
+                        "reference": "NG",
+                        "slug": "rg-2024-iecc-stretch-code"
+                    },
+                    {
+                        "disabled": true,
+                        "displayTitle": "Appendix NH (RH) Operational Carbon Rating and Energy Reporting",
+                        "orderIndex": 59130000,
+                        "reference": "NH",
+                        "slug": "rh-operational-carbon-rating-and-energy-reporting"
+                    },
+                    {
+                        "disabled": true,
+                        "displayTitle": "Appendix NI (RI) On-Site Renewable Energy",
+                        "orderIndex": 59200000,
+                        "reference": "NI",
+                        "slug": "ri-on-site-renewable-energy"
+                    },
+                    {
+                        "disabled": true,
+                        "displayTitle": "Appendix NJ (RJ) Demand Responsive Controls",
+                        "orderIndex": 59300000,
+                        "reference": "NJ",
+                        "slug": "rj-demand-responsive-controls"
+                    },
+                    {
+                        "disabled": true,
+                        "displayTitle": "Appendix NK (Rk) Electric-Ready Residential Building Provisions",
+                        "orderIndex": 59350000,
+                        "reference": "NK",
+                        "slug": "rk-electric-ready-residential-building-provisions"
+                    },
+                    {
+                        "disabled": true,
+                        "displayTitle": "Appendix NL (Rl) Renewable Energy Infrastructure",
+                        "orderIndex": 59420000,
+                        "reference": "NL",
+                        "slug": "rl-renewable-energy-infrastructure"
+                    },
+                    {
+                        "disabled": true,
+                        "displayTitle": "Resource A All-Electric Residential Buildings",
+                        "orderIndex": 60640000,
+                        "reference": "resource_A",
+                        "slug": "all-electric-residential-buildings"
+                    }
+                ],
+                "leanCodeSectionsTree": [
+                    {
+                        "ancestorRefs": [],
+                        "body": "<div class=\"u-mt-4\"><div class=\"u-mb-3 u-font-bold u-mt-3\">User notes:</div><div class=\"u-mb-3 u-italic u-mt-3\"><span class=\"u-font-bold\">About this chapter: </span> Chapter 22 addresses fuel oil <a class=\"autolink\" href=\"/viewer/general-services-administration/irc-2024/chapter/2/definitions#piping\">piping</a> and storage related to oil-fired heating appliances. Materials, joining methods, tanks, pumps, <a class=\"autolink\" href=\"/viewer/general-services-administration/irc-2024/chapter/2/definitions#valve\">valves</a> and installation of such are covered.</div><div class=\"u-mb-3 u-italic u-mt-3\"><span class=\"u-font-bold\">Code development reminder:</span> Code change proposals to this chapter will be considered by the IRC\u2014<a class=\"autolink\" href=\"/viewer/general-services-administration/irc-2024/chapter/2/definitions#plumbing\">Plumbing</a>/<a class=\"autolink\" href=\"/viewer/general-services-administration/imc-2024\">Mechanical Code</a> Development Committee during the 2024 (Group A) Code Development Cycle.</div></div>",
+                        "depth": 0,
+                        "diagrams": [],
+                        "displayRef": null,
+                        "displayTitle": "Chapter 22 Special Piping and Storage Systems",
+                        "divisionType": "Chapter",
+                        "hasAssemblies": false,
+                        "isContiguous": true,
+                        "numAssembliesOnRef": 0,
+                        "numBuildingProductsOnRef": 0,
+                        "numDiagramsOnRef": 0,
+                        "orderIndex": 26650000,
+                        "reference": "22",
+                        "slug": "special-piping-and-storage-systems",
+                        "titleText": "Special Piping and Storage Systems",
+                        "children": [
+                            {
+                                "ancestorRefs": [
+                                    "22"
+                                ],
+                                "depth": 1,
+                                "diagrams": [],
+                                "displayRef": null,
+                                "displayTitle": "Section M2201 Oil Tanks",
+                                "divisionType": "Section",
+                                "hasAssemblies": false,
+                                "isContiguous": true,
+                                "numAssembliesOnRef": 0,
+                                "numBuildingProductsOnRef": 0,
+                                "numDiagramsOnRef": 0,
+                                "orderIndex": 26660000,
+                                "reference": "M2201",
+                                "slug": "special-piping-and-storage-systems",
+                                "titleText": "Oil Tanks",
+                                "children": [
+                                    {
+                                        "ancestorRefs": [
+                                            "22",
+                                            "M2201"
+                                        ],
+                                        "body": "<div>Supply tanks shall be <span class=\"u-italic\">listed</span> and <span class=\"u-italic\">labeled</span> and shall conform to UL 58 for underground tanks and UL 80 for indoor tanks.</div>",
+                                        "depth": 2,
+                                        "diagrams": [],
+                                        "displayRef": null,
+                                        "displayTitle": "M2201.1 Materials",
+                                        "hasAssemblies": false,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 0,
+                                        "numDiagramsOnRef": 0,
+                                        "orderIndex": 26670000,
+                                        "reference": "M2201.1",
+                                        "slug": "special-piping-and-storage-systems",
+                                        "titleText": "Materials",
+                                        "children": []
+                                    },
+                                    {
+                                        "ancestorRefs": [
+                                            "22",
+                                            "M2201"
+                                        ],
+                                        "body": "<div><div class=\"u-mb-3 u-mt-3\">The maximum amount of fuel oil stored above ground or inside of a <span class=\"u-italic\">building</span> shall be 660 gallons (2498 L). The supply tank shall be supported on rigid noncombustible <a class=\"autolink\" href=\"/viewer/general-services-administration/irc-2024/chapter/2/definitions#supports\">supports</a> to prevent settling or shifting.</div><div class=\"u-mb-3 u-ml-4 u-mt-3\"><span class=\"u-font-bold\">Exception: </span> The storage of fuel oil, used for space or water heating, above ground or inside <span class=\"u-italic\">buildings</span> in quantities exceeding 660 gallons (2498 L) shall comply with NFPA 31.</div></div>",
+                                        "depth": 2,
+                                        "diagrams": [],
+                                        "displayRef": null,
+                                        "displayTitle": "M2201.2 Above-Ground Tanks",
+                                        "hasAssemblies": false,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 0,
+                                        "numDiagramsOnRef": 0,
+                                        "orderIndex": 26680000,
+                                        "reference": "M2201.2",
+                                        "slug": "special-piping-and-storage-systems",
+                                        "titleText": "Above-Ground Tanks",
+                                        "children": [
+                                            {
+                                                "ancestorRefs": [
+                                                    "22",
+                                                    "M2201",
+                                                    "M2201.2"
+                                                ],
+                                                "body": "<div>Supply tanks for use inside of <span class=\"u-italic\">buildings</span> shall be of such size and shape to <a class=\"autolink\" href=\"/viewer/general-services-administration/irc-2024/chapter/2/definitions#permit\">permit</a> installation and removal from <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/general-services-administration/irc-2024/chapter/2/definitions#dwelling\">dwellings</a></span> as whole units. Supply tanks larger than 10 gallons (38 L) shall be placed not less than 5 feet (1524 mm) from any fire or flame either within or external to any fuel-burning <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/general-services-administration/irc-2024/chapter/2/definitions#appliance_vented\">appliance</a></span>.</div>",
+                                                "depth": 3,
+                                                "diagrams": [],
+                                                "displayRef": null,
+                                                "displayTitle": "M2201.2.1 Tanks Within Buildings",
+                                                "hasAssemblies": false,
+                                                "isContiguous": true,
+                                                "numAssembliesOnRef": 0,
+                                                "numBuildingProductsOnRef": 0,
+                                                "numDiagramsOnRef": 0,
+                                                "orderIndex": 26690000,
+                                                "reference": "M2201.2.1",
+                                                "slug": "special-piping-and-storage-systems",
+                                                "titleText": "Tanks Within Buildings",
+                                                "children": []
+                                            },
+                                            {
+                                                "ancestorRefs": [
+                                                    "22",
+                                                    "M2201",
+                                                    "M2201.2"
+                                                ],
+                                                "body": "<div>Tanks installed outdoors, above ground shall be not less than 5 feet (1524 mm) from an adjoining property line. Such tanks shall be suitably protected from the weather and from physical damage.</div>",
+                                                "depth": 3,
+                                                "diagrams": [],
+                                                "displayRef": null,
+                                                "displayTitle": "M2201.2.2 Outdoor Above-Ground Tanks",
+                                                "hasAssemblies": false,
+                                                "isContiguous": true,
+                                                "numAssembliesOnRef": 0,
+                                                "numBuildingProductsOnRef": 0,
+                                                "numDiagramsOnRef": 0,
+                                                "orderIndex": 26700000,
+                                                "reference": "M2201.2.2",
+                                                "slug": "special-piping-and-storage-systems",
+                                                "titleText": "Outdoor Above-Ground Tanks",
+                                                "children": []
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "ancestorRefs": [
+                                            "22",
+                                            "M2201"
+                                        ],
+                                        "body": "<div>Excavations for underground tanks shall not undermine the foundations of existing structures. The <a class=\"autolink\" href=\"/viewer/general-services-administration/irc-2024/chapter/2/definitions#clearance\">clearance</a> from the tank to the nearest wall of a <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/general-services-administration/irc-2024/chapter/2/definitions#basement\">basement</a></span>, pit or property line shall be not less than 1 foot (305 mm). Tanks shall be set on and surrounded with noncorrosive inert materials such as clean earth, sand or gravel well-tamped in place. Tanks shall be covered with not less than 1 foot (305 mm) of earth. Corrosion protection shall be provided in accordance with <a class=\"autolink\" href=\"#M2203.7\">Section M2203.7</a>.</div>",
+                                        "depth": 2,
+                                        "diagrams": [],
+                                        "displayRef": null,
+                                        "displayTitle": "M2201.3 Underground Tanks",
+                                        "hasAssemblies": false,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 0,
+                                        "numDiagramsOnRef": 0,
+                                        "orderIndex": 26710000,
+                                        "reference": "M2201.3",
+                                        "slug": "special-piping-and-storage-systems",
+                                        "titleText": "Underground Tanks",
+                                        "children": []
+                                    },
+                                    {
+                                        "ancestorRefs": [
+                                            "22",
+                                            "M2201"
+                                        ],
+                                        "body": "<div><a class=\"autolink\" href=\"/viewer/general-services-administration/irc-2024/chapter/2/definitions#cross_connection\">Cross connection</a> of two supply tanks shall be permitted in accordance with <a class=\"autolink\" href=\"#M2203.6\">Section M2203.6</a>.</div>",
+                                        "depth": 2,
+                                        "diagrams": [],
+                                        "displayRef": null,
+                                        "displayTitle": "M2201.4 Multiple Tanks",
+                                        "hasAssemblies": false,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 0,
+                                        "numDiagramsOnRef": 0,
+                                        "orderIndex": 26720000,
+                                        "reference": "M2201.4",
+                                        "slug": "special-piping-and-storage-systems",
+                                        "titleText": "Multiple Tanks",
+                                        "children": []
+                                    },
+                                    {
+                                        "ancestorRefs": [
+                                            "22",
+                                            "M2201"
+                                        ],
+                                        "body": "<div>Inside tanks shall be provided with a device to indicate when the oil in the tank has reached a predetermined safe level. <a class=\"autolink\" href=\"/viewer/general-services-administration/irc-2024/chapter/2/definitions#glass_masonry_unit\">Glass</a> gauges or a gauge subject to breakage that could result in the escape of oil from the tank shall not be used. Liquid-level indicating gauges shall comply with UL 180.</div>",
+                                        "depth": 2,
+                                        "diagrams": [],
+                                        "displayRef": null,
+                                        "displayTitle": "M2201.5 Oil Gauges",
+                                        "hasAssemblies": false,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 0,
+                                        "numDiagramsOnRef": 0,
+                                        "orderIndex": 26730000,
+                                        "reference": "M2201.5",
+                                        "slug": "special-piping-and-storage-systems",
+                                        "titleText": "Oil Gauges",
+                                        "children": []
+                                    },
+                                    {
+                                        "ancestorRefs": [
+                                            "22",
+                                            "M2201"
+                                        ],
+                                        "body": "<div>In <a class=\"autolink\" href=\"/viewer/general-services-administration/irc-2024/chapter/2/definitions#flood_hazard_area\">flood hazard areas</a> as established by <a class=\"autolink\" href=\"/viewer/general-services-administration/irc-2024/chapter/3/building-planning#table_R301.2\">Table R301.2</a>, tanks shall be installed in accordance with <a class=\"autolink\" href=\"/viewer/general-services-administration/irc-2024/chapter/3/building-planning#R306.2.4\">Section R306.2.4</a> or <a class=\"autolink\" href=\"/viewer/general-services-administration/irc-2024/chapter/3/building-planning#R306.3.10\">R306.3.10</a>.</div>",
+                                        "depth": 2,
+                                        "diagrams": [
+                                            {
+                                                "key": "flood_fuel_tank_anchorage",
+                                                "title": "Fuel Tank Anchorage: Flood",
+                                                "descriptionHtml": "<div>A fuel tank that is located above ground but below the Design Flood Elevation (DFE) must be secured against floatation and lateral movement. This can be accomplished by mounting and strapping a tank onto a concrete slab, or strapping a tank onto concrete counterweights on both sides of the tank.</div><br/>\n<div>The anchoring straps are typically connected to anchor bolts by turnbuckles that are installed when the concrete is poured (shown in the illustration on the left). Please refer to the supplier's data when selecting the strap locations for anchoring tanks because a tank can rupture when buoyancy forces are too great. In most applications, brackets, like those shown in the illustration on the right, are designed to withstand the weight of the tank only. Buoyancy forces can exceed the weight of the tank and cause the brackets to fail. A structural engineer or manufacturer's literature should be used to verify that the bracket used to hold the tank can withstand buoyancy forces.</div>",
+                                                "topics": [
+                                                    "Flood",
+                                                    "Structural",
+                                                    "Mechanical"
+                                                ],
+                                                "phases": [
+                                                    "Construction Docs",
+                                                    "Construction Phase"
+                                                ],
+                                                "supressesChildrenAssociations": false,
+                                                "blacklistJurisdictions": [],
+                                                "whitelistJurisdictions": [],
+                                                "imageType": "png"
+                                            },
+                                            {
+                                                "key": "flood_fuel_tank",
+                                                "title": "Fuel Tank Anchorage: Earth Augers",
+                                                "descriptionHtml": "<div>A fuel tank located above ground but below the Design Flood Level must be secured against flotation and lateral movement. This requirement applies as well to portable fuel tanks such as propane tanks.</div><br/>\n<div>When using earth augers, the augers and strapping mechanism must be strong enough to withstand the buoyancy force expected during inundation and the lateral forces expected with wind and water. Earth augers are readily available from many manufacturers. It is important to note that the performance of an auger depends upon the type of soil into which it is embedded. For example, an auger has a greater holding strength in clay soil than in sandy soil. Therefore, if the soil conditions are unknown or if the anchors selected cannot withstand anticipated loads, larger-sized or additional anchors should be used. Generally, the total holding strength of an anchoring system can be increased by increasing the number of augers, the size of the augers, or both. Earth augers and anchoring components are readily available from many manufacturers.</div>",
+                                                "topics": [
+                                                    "Flood",
+                                                    "Structural",
+                                                    "Mechanical"
+                                                ],
+                                                "phases": [
+                                                    "Construction Docs",
+                                                    "Construction Phase"
+                                                ],
+                                                "supressesChildrenAssociations": false,
+                                                "blacklistJurisdictions": [],
+                                                "whitelistJurisdictions": [],
+                                                "imageType": "png"
+                                            }
+                                        ],
+                                        "displayRef": null,
+                                        "displayTitle": "M2201.6 Flood-Resistant Installation",
+                                        "hasAssemblies": false,
+                                        "hasDiagrams": true,
+                                        "hasDiagramsOnRef": true,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 0,
+                                        "numDiagramsOnRef": 2,
+                                        "orderIndex": 26740000,
+                                        "reference": "M2201.6",
+                                        "slug": "special-piping-and-storage-systems",
+                                        "titleText": "Flood-Resistant Installation",
+                                        "children": []
+                                    },
+                                    {
+                                        "ancestorRefs": [
+                                            "22",
+                                            "M2201"
+                                        ],
+                                        "body": "<div>Outdoor above-<a class=\"autolink\" href=\"/viewer/general-services-administration/irc-2024/chapter/2/definitions#grade\">grade</a> fill <a class=\"autolink\" href=\"/viewer/general-services-administration/irc-2024/chapter/2/definitions#piping\">piping</a> shall be removed when tanks are abandoned or removed. Tank abandonment and removal shall be in accordance with the <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/general-services-administration/ifc-2024\">International Fire Code</a></span>.</div>",
+                                        "depth": 2,
+                                        "diagrams": [],
+                                        "displayRef": null,
+                                        "displayTitle": "M2201.7 Tanks Abandoned or Removed",
+                                        "hasAssemblies": false,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 0,
+                                        "numDiagramsOnRef": 0,
+                                        "orderIndex": 26750000,
+                                        "reference": "M2201.7",
+                                        "slug": "special-piping-and-storage-systems",
+                                        "titleText": "Tanks Abandoned or Removed",
+                                        "children": []
+                                    }
+                                ]
+                            },
+                            {
+                                "ancestorRefs": [
+                                    "22"
+                                ],
+                                "depth": 1,
+                                "diagrams": [],
+                                "displayRef": null,
+                                "displayTitle": "Section M2202 Oil Piping, Fitting and Connections",
+                                "divisionType": "Section",
+                                "hasAssemblies": false,
+                                "isContiguous": true,
+                                "numAssembliesOnRef": 0,
+                                "numBuildingProductsOnRef": 0,
+                                "numDiagramsOnRef": 0,
+                                "orderIndex": 26760000,
+                                "reference": "M2202",
+                                "slug": "special-piping-and-storage-systems",
+                                "titleText": "Oil Piping, Fitting and Connections",
+                                "children": [
+                                    {
+                                        "ancestorRefs": [
+                                            "22",
+                                            "M2202"
+                                        ],
+                                        "body": "<div><a class=\"autolink\" href=\"/viewer/general-services-administration/irc-2024/chapter/2/definitions#piping\">Piping</a> shall consist of steel <a class=\"autolink\" href=\"/viewer/general-services-administration/irc-2024/chapter/2/definitions#pipe_piping\">pipe</a>, copper and <a class=\"autolink\" href=\"/viewer/general-services-administration/irc-2024/chapter/2/definitions#copper_alloy\">copper-alloy</a> <a class=\"autolink\" href=\"/viewer/general-services-administration/irc-2024/chapter/2/definitions#pipe_piping\">pipe</a> and <a class=\"autolink\" href=\"/viewer/general-services-administration/irc-2024/chapter/2/definitions#tubing_piping\">tubing</a>, steel <a class=\"autolink\" href=\"/viewer/general-services-administration/irc-2024/chapter/2/definitions#tubing_piping\">tubing</a> conforming to ASTM A539, or stainless&nbsp;steel <a class=\"autolink\" href=\"/viewer/general-services-administration/irc-2024/chapter/2/definitions#tubing_piping\">tubing</a> conforming to&nbsp;ASTM A254 or ASTM A269. Aluminum <a class=\"autolink\" href=\"/viewer/general-services-administration/irc-2024/chapter/2/definitions#tubing_piping\">tubing</a> shall not be used between the fuel-oil tank and the <a class=\"autolink\" href=\"/viewer/general-services-administration/irc-2024/chapter/2/definitions#burner\">burner</a> units.</div>",
+                                        "depth": 2,
+                                        "diagrams": [],
+                                        "displayRef": null,
+                                        "displayTitle": "M2202.1 Materials",
+                                        "hasAssemblies": false,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 0,
+                                        "numDiagramsOnRef": 0,
+                                        "orderIndex": 26770000,
+                                        "reference": "M2202.1",
+                                        "slug": "special-piping-and-storage-systems",
+                                        "titleText": "Materials",
+                                        "children": []
+                                    },
+                                    {
+                                        "ancestorRefs": [
+                                            "22",
+                                            "M2202"
+                                        ],
+                                        "body": "<div><a class=\"autolink\" href=\"/viewer/general-services-administration/irc-2024/chapter/2/definitions#piping\">Piping</a> shall be connected with fittings compatible with the <a class=\"autolink\" href=\"/viewer/general-services-administration/irc-2024/chapter/2/definitions#piping\">piping</a> material. Cast-iron fittings shall not be used for oil <a class=\"autolink\" href=\"/viewer/general-services-administration/irc-2024/chapter/2/definitions#piping\">piping</a>. Unions requiring gaskets or packings, right or left couplings, and sweat fittings employing solder having a melting point less than 1,000\u00b0F (538\u00b0C) shall not be used for oil <a class=\"autolink\" href=\"/viewer/general-services-administration/irc-2024/chapter/2/definitions#piping\">piping</a>. Threaded joints and connections shall be made tight with a lubricant or <a class=\"autolink\" href=\"/viewer/general-services-administration/irc-2024/chapter/2/definitions#pipe_piping\">pipe</a> thread compound.</div>",
+                                        "depth": 2,
+                                        "diagrams": [],
+                                        "displayRef": null,
+                                        "displayTitle": "M2202.2 Joints and Fittings",
+                                        "hasAssemblies": false,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 0,
+                                        "numDiagramsOnRef": 0,
+                                        "orderIndex": 26780000,
+                                        "reference": "M2202.2",
+                                        "slug": "special-piping-and-storage-systems",
+                                        "titleText": "Joints and Fittings",
+                                        "children": []
+                                    },
+                                    {
+                                        "ancestorRefs": [
+                                            "22",
+                                            "M2202"
+                                        ],
+                                        "body": "<div>Flexible metallic hoses shall be <span class=\"u-italic\">listed</span> and <span class=\"u-italic\">labeled</span> in accordance with UL 536 and shall be installed in accordance with their <span class=\"u-italic\">listing</span> and <span class=\"u-italic\">labeling</span> and the <a class=\"autolink\" href=\"/viewer/general-services-administration/irc-2024/chapter/2/definitions#manufacturer_s_installation_instructions\">manufacturer's installation instructions</a>. Connectors made from <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/general-services-administration/irc-2024/chapter/2/definitions#combustible_material\">combustible materials</a></span> shall not be used inside of <span class=\"u-italic\">buildings</span> or above ground outside of buildings.</div>",
+                                        "depth": 2,
+                                        "diagrams": [],
+                                        "displayRef": null,
+                                        "displayTitle": "M2202.3 Flexible Connectors",
+                                        "hasAssemblies": false,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 0,
+                                        "numDiagramsOnRef": 0,
+                                        "orderIndex": 26790000,
+                                        "reference": "M2202.3",
+                                        "slug": "special-piping-and-storage-systems",
+                                        "titleText": "Flexible Connectors",
+                                        "children": []
+                                    }
+                                ]
+                            },
+                            {
+                                "ancestorRefs": [
+                                    "22"
+                                ],
+                                "depth": 1,
+                                "diagrams": [],
+                                "displayRef": null,
+                                "displayTitle": "Section M2203 Installation",
+                                "divisionType": "Section",
+                                "hasAssemblies": false,
+                                "isContiguous": true,
+                                "numAssembliesOnRef": 0,
+                                "numBuildingProductsOnRef": 0,
+                                "numDiagramsOnRef": 0,
+                                "orderIndex": 26800000,
+                                "reference": "M2203",
+                                "slug": "special-piping-and-storage-systems",
+                                "titleText": "Installation",
+                                "children": [
+                                    {
+                                        "ancestorRefs": [
+                                            "22",
+                                            "M2203"
+                                        ],
+                                        "body": "<div><a class=\"autolink\" href=\"/viewer/general-services-administration/irc-2024/chapter/2/definitions#piping\">Piping</a> shall be installed in a manner to avoid placing stresses on the <a class=\"autolink\" href=\"/viewer/general-services-administration/irc-2024/chapter/2/definitions#piping\">piping</a>, and to accommodate expansion and contraction of the <a class=\"autolink\" href=\"/viewer/general-services-administration/irc-2024/chapter/2/definitions#piping_system\">piping system</a>.</div>",
+                                        "depth": 2,
+                                        "diagrams": [],
+                                        "displayRef": null,
+                                        "displayTitle": "M2203.1 General",
+                                        "hasAssemblies": false,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 0,
+                                        "numDiagramsOnRef": 0,
+                                        "orderIndex": 26810000,
+                                        "reference": "M2203.1",
+                                        "slug": "special-piping-and-storage-systems",
+                                        "titleText": "General",
+                                        "children": []
+                                    },
+                                    {
+                                        "ancestorRefs": [
+                                            "22",
+                                            "M2203"
+                                        ],
+                                        "body": "<div>Supply <a class=\"autolink\" href=\"/viewer/general-services-administration/irc-2024/chapter/2/definitions#piping\">piping</a> used in the installation of oil <a class=\"autolink\" href=\"/viewer/general-services-administration/irc-2024/chapter/2/definitions#burner\">burners</a> and <span class=\"u-italic\">appliances</span> shall be not smaller than <sup>3</sup>/<sub>8</sub>-inch (9 mm) <a class=\"autolink\" href=\"/viewer/general-services-administration/irc-2024/chapter/2/definitions#pipe_piping\">pipe</a> or <sup>3</sup>/<sub>8</sub>-inch (9 mm) outside <a class=\"autolink\" href=\"/viewer/general-services-administration/irc-2024/chapter/2/definitions#diameter\">diameter</a> <a class=\"autolink\" href=\"/viewer/general-services-administration/irc-2024/chapter/2/definitions#tubing_piping\">tubing</a>. Copper <a class=\"autolink\" href=\"/viewer/general-services-administration/irc-2024/chapter/2/definitions#tubing_piping\">tubing</a> and fittings shall be Type L or heavier.</div>",
+                                        "depth": 2,
+                                        "diagrams": [],
+                                        "displayRef": null,
+                                        "displayTitle": "M2203.2 Supply Piping",
+                                        "hasAssemblies": false,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 0,
+                                        "numDiagramsOnRef": 0,
+                                        "orderIndex": 26820000,
+                                        "reference": "M2203.2",
+                                        "slug": "special-piping-and-storage-systems",
+                                        "titleText": "Supply Piping",
+                                        "children": []
+                                    },
+                                    {
+                                        "ancestorRefs": [
+                                            "22",
+                                            "M2203"
+                                        ],
+                                        "body": "<div>Fill <a class=\"autolink\" href=\"/viewer/general-services-administration/irc-2024/chapter/2/definitions#piping\">piping</a> shall terminate outside of <span class=\"u-italic\">buildings</span> at a point not less than 2 feet (610 mm) from any building opening at the same or lower level. Fill openings shall be equipped with a tight metal cover.</div>",
+                                        "depth": 2,
+                                        "diagrams": [],
+                                        "displayRef": null,
+                                        "displayTitle": "M2203.3 Fill Piping",
+                                        "hasAssemblies": false,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 0,
+                                        "numDiagramsOnRef": 0,
+                                        "orderIndex": 26830000,
+                                        "reference": "M2203.3",
+                                        "slug": "special-piping-and-storage-systems",
+                                        "titleText": "Fill Piping",
+                                        "children": []
+                                    },
+                                    {
+                                        "ancestorRefs": [
+                                            "22",
+                                            "M2203"
+                                        ],
+                                        "body": "<div><a class=\"autolink\" href=\"/viewer/general-services-administration/irc-2024/chapter/2/definitions#vent_piping\">Vent piping</a> shall be not smaller than 1<sup>1</sup>/<sub>4</sub>-inch (32 mm) <a class=\"autolink\" href=\"/viewer/general-services-administration/irc-2024/chapter/2/definitions#pipe_piping\">pipe</a>. <a class=\"autolink\" href=\"/viewer/general-services-administration/irc-2024/chapter/2/definitions#vent_piping\">Vent piping</a> shall be laid to <a class=\"autolink\" href=\"/viewer/general-services-administration/irc-2024/chapter/2/definitions#drain\">drain</a> toward the tank without sags or <a class=\"autolink\" href=\"/viewer/general-services-administration/irc-2024/chapter/2/definitions#trap\">traps</a> in which the liquid can collect. <a class=\"autolink\" href=\"/viewer/general-services-administration/irc-2024/chapter/2/definitions#vent\">Vent</a> <a class=\"autolink\" href=\"/viewer/general-services-administration/irc-2024/chapter/2/definitions#pipe_piping\">pipes</a> shall not be cross connected with fill <a class=\"autolink\" href=\"/viewer/general-services-administration/irc-2024/chapter/2/definitions#pipe_piping\">pipes</a>, lines from <a class=\"autolink\" href=\"/viewer/general-services-administration/irc-2024/chapter/2/definitions#burner\">burners</a> or overflow lines from auxiliary tanks. The lower end of a <a class=\"autolink\" href=\"/viewer/general-services-administration/irc-2024/chapter/2/definitions#vent\">vent</a> <a class=\"autolink\" href=\"/viewer/general-services-administration/irc-2024/chapter/2/definitions#pipe_piping\">pipe</a> shall enter the tank through the top and shall extend into the tank not more than 1 inch (25 mm).</div>",
+                                        "depth": 2,
+                                        "diagrams": [],
+                                        "displayRef": null,
+                                        "displayTitle": "M2203.4 Vent Piping",
+                                        "hasAssemblies": false,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 0,
+                                        "numDiagramsOnRef": 0,
+                                        "orderIndex": 26840000,
+                                        "reference": "M2203.4",
+                                        "slug": "special-piping-and-storage-systems",
+                                        "titleText": "Vent Piping",
+                                        "children": []
+                                    },
+                                    {
+                                        "ancestorRefs": [
+                                            "22",
+                                            "M2203"
+                                        ],
+                                        "body": "<div><a class=\"autolink\" href=\"/viewer/general-services-administration/irc-2024/chapter/2/definitions#vent_piping\">Vent piping</a> shall terminate outside of <span class=\"u-italic\">buildings</span> at a point not less than 2 feet (610 mm), measured vertically or horizontally, from any building opening. Outer ends of <a class=\"autolink\" href=\"/viewer/general-services-administration/irc-2024/chapter/2/definitions#vent_piping\">vent piping</a> shall terminate in a weather-proof cap or fitting having an unobstructed area equal to or greater than the cross-sectional area of the <a class=\"autolink\" href=\"/viewer/general-services-administration/irc-2024/chapter/2/definitions#vent\">vent</a> <a class=\"autolink\" href=\"/viewer/general-services-administration/irc-2024/chapter/2/definitions#pipe_piping\">pipe</a>, and shall be located sufficiently above the ground to avoid being obstructed by snow and ice.</div>",
+                                        "depth": 2,
+                                        "diagrams": [],
+                                        "displayRef": null,
+                                        "displayTitle": "M2203.5 Vent Termination",
+                                        "hasAssemblies": false,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 0,
+                                        "numDiagramsOnRef": 0,
+                                        "orderIndex": 26850000,
+                                        "reference": "M2203.5",
+                                        "slug": "special-piping-and-storage-systems",
+                                        "titleText": "Vent Termination",
+                                        "children": []
+                                    },
+                                    {
+                                        "ancestorRefs": [
+                                            "22",
+                                            "M2203"
+                                        ],
+                                        "body": "<div><a class=\"autolink\" href=\"/viewer/general-services-administration/irc-2024/chapter/2/definitions#cross_connection\">Cross connection</a> of two supply tanks, not exceeding 660 gallons (2498 L) aggregate capacity, with gravity flow from one tank to another, shall be acceptable providing that the two tanks are on the same horizontal plane.</div>",
+                                        "depth": 2,
+                                        "diagrams": [],
+                                        "displayRef": null,
+                                        "displayTitle": "M2203.6 Cross Connection of Tanks",
+                                        "hasAssemblies": false,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 0,
+                                        "numDiagramsOnRef": 0,
+                                        "orderIndex": 26860000,
+                                        "reference": "M2203.6",
+                                        "slug": "special-piping-and-storage-systems",
+                                        "titleText": "Cross Connection of Tanks",
+                                        "children": []
+                                    },
+                                    {
+                                        "ancestorRefs": [
+                                            "22",
+                                            "M2203"
+                                        ],
+                                        "body": "<div>Underground tanks and buried <a class=\"autolink\" href=\"/viewer/general-services-administration/irc-2024/chapter/2/definitions#piping\">piping</a> shall be protected by corrosion-resistant coatings or special alloys or fiberglass-reinforced plastic. </div>",
+                                        "depth": 2,
+                                        "diagrams": [],
+                                        "displayRef": null,
+                                        "displayTitle": "M2203.7 Corrosion Protection",
+                                        "hasAssemblies": false,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 0,
+                                        "numDiagramsOnRef": 0,
+                                        "orderIndex": 26870000,
+                                        "reference": "M2203.7",
+                                        "slug": "special-piping-and-storage-systems",
+                                        "titleText": "Corrosion Protection",
+                                        "children": []
+                                    }
+                                ]
+                            },
+                            {
+                                "ancestorRefs": [
+                                    "22"
+                                ],
+                                "depth": 1,
+                                "diagrams": [],
+                                "displayRef": null,
+                                "displayTitle": "Section M2204 Oil Pumps and Valves",
+                                "divisionType": "Section",
+                                "hasAssemblies": false,
+                                "isContiguous": true,
+                                "numAssembliesOnRef": 0,
+                                "numBuildingProductsOnRef": 0,
+                                "numDiagramsOnRef": 0,
+                                "orderIndex": 26880000,
+                                "reference": "M2204",
+                                "slug": "special-piping-and-storage-systems",
+                                "titleText": "Oil Pumps and Valves",
+                                "children": [
+                                    {
+                                        "ancestorRefs": [
+                                            "22",
+                                            "M2204"
+                                        ],
+                                        "body": "<div>Oil pumps shall be positive displacement types that automatically shut off the oil supply when stopped. <a class=\"autolink\" href=\"/viewer/general-services-administration/irc-2024/chapter/2/definitions#automatic_valve\">Automatic</a> pumps shall be <span class=\"u-italic\">listed</span> and <span class=\"u-italic\">labeled</span> in accordance with UL 343 and shall be installed in accordance with their <span class=\"u-italic\">listing</span>.</div>",
+                                        "depth": 2,
+                                        "diagrams": [],
+                                        "displayRef": null,
+                                        "displayTitle": "M2204.1 Pumps",
+                                        "hasAssemblies": false,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 0,
+                                        "numDiagramsOnRef": 0,
+                                        "orderIndex": 26890000,
+                                        "reference": "M2204.1",
+                                        "slug": "special-piping-and-storage-systems",
+                                        "titleText": "Pumps",
+                                        "children": []
+                                    },
+                                    {
+                                        "ancestorRefs": [
+                                            "22",
+                                            "M2204"
+                                        ],
+                                        "body": "<div>A manual shutoff <a class=\"autolink\" href=\"/viewer/general-services-administration/irc-2024/chapter/2/definitions#valve\">valve</a> shall be installed between the oil supply tank and the <a class=\"autolink\" href=\"/viewer/general-services-administration/irc-2024/chapter/2/definitions#burner\">burner</a>. Such <a class=\"autolink\" href=\"/viewer/general-services-administration/irc-2024/chapter/2/definitions#valve\">valve</a> shall be provided with <span class=\"u-italic\">ready access</span>. Where the shutoff <a class=\"autolink\" href=\"/viewer/general-services-administration/irc-2024/chapter/2/definitions#valve\">valve</a> is installed in the discharge line of an oil pump, a <a class=\"autolink\" href=\"/viewer/general-services-administration/irc-2024/chapter/2/definitions#relief_valve_pressure\">pressure relief valve</a> shall be incorporated to bypass or return surplus oil. <a class=\"autolink\" href=\"/viewer/general-services-administration/irc-2024/chapter/2/definitions#valve\">Valves</a> shall comply with UL 842.</div>",
+                                        "depth": 2,
+                                        "diagrams": [],
+                                        "displayRef": null,
+                                        "displayTitle": "M2204.2 Shutoff Valves",
+                                        "hasAssemblies": false,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 0,
+                                        "numDiagramsOnRef": 0,
+                                        "orderIndex": 26900000,
+                                        "reference": "M2204.2",
+                                        "slug": "special-piping-and-storage-systems",
+                                        "titleText": "Shutoff Valves",
+                                        "children": []
+                                    },
+                                    {
+                                        "ancestorRefs": [
+                                            "22",
+                                            "M2204"
+                                        ],
+                                        "body": "<div>Pressure at the oil supply inlet to an <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/general-services-administration/irc-2024/chapter/2/definitions#appliance_vented\">appliance</a></span> shall be not greater than 3 pounds per square inch (20.7 kPa).</div>",
+                                        "depth": 2,
+                                        "diagrams": [],
+                                        "displayRef": null,
+                                        "displayTitle": "M2204.3 Maximum Pressure",
+                                        "hasAssemblies": false,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 0,
+                                        "numDiagramsOnRef": 0,
+                                        "orderIndex": 26910000,
+                                        "reference": "M2204.3",
+                                        "slug": "special-piping-and-storage-systems",
+                                        "titleText": "Maximum Pressure",
+                                        "children": []
+                                    },
+                                    {
+                                        "ancestorRefs": [
+                                            "22",
+                                            "M2204"
+                                        ],
+                                        "body": "<div>Fuel-oil lines incorporating heaters shall be provided with <a class=\"autolink\" href=\"/viewer/general-services-administration/irc-2024/chapter/2/definitions#relief_valve_device\">relief valves</a> that will discharge to a return line when excess pressure exists.</div>",
+                                        "depth": 2,
+                                        "diagrams": [],
+                                        "displayRef": null,
+                                        "displayTitle": "M2204.4 Relief Valves",
+                                        "hasAssemblies": false,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 0,
+                                        "numDiagramsOnRef": 0,
+                                        "orderIndex": 26920000,
+                                        "reference": "M2204.4",
+                                        "slug": "special-piping-and-storage-systems",
+                                        "titleText": "Relief Valves",
+                                        "children": []
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            "chapterReference": "22"
+        },
+        "__N_SSP": true
+    },
+    "page": "/viewer/[urlFormPubOrJurisKey]/[urlFormPub]/chapter/[chapterRef]/[chapterName]",
+    "query": {
+        "urlFormPubOrJurisKey": "general-services-administration",
+        "urlFormPub": "irc-2024",
+        "chapterRef": "22",
+        "chapterName": "special-piping-and-storage-systems"
+    },
+    "buildId": "3sK5kbysqJcr5ch6xNgjL",
+    "isFallback": false,
+    "isExperimentalCompile": false,
+    "dynamicIds": [
+        22103,
+        99618
+    ],
+    "gssp": true,
+    "scriptLoader": []
+}
