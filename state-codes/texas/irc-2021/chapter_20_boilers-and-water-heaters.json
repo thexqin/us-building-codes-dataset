@@ -1,0 +1,1731 @@
+{
+    "props": {
+        "pageProps": {
+            "missingRequiredLogin": false,
+            "title": "Chapter 20 Boilers and Water Heaters: Texas IHB Residential Code 2021 | UpCodes",
+            "leanChapterViewerData": {
+                "basePubName": "International Residential Code 2021 (IRC 2021)",
+                "codeGroupingYear": "2024",
+                "codeName": "Texas IHB Residential Code 2021",
+                "codeUuid": "a7570fcc-8a45-47a3-8877-063baff06180",
+                "codeVersions": [
+                    {
+                        "codeUuid": "a7570fcc-8a45-47a3-8877-063baff06180",
+                        "name": "Original Adoption",
+                        "effectiveStartDate": "2024-07-01",
+                        "shortformUrlName": "irc-2021",
+                        "activeStatus": "active"
+                    }
+                ],
+                "ingesterAmendmentsEnabled": false,
+                "ingesterCodeUnitsEnabled": false,
+                "isCorrespondable": true,
+                "jurisKey": "texas",
+                "jurisName": "Texas",
+                "metaInfoUrl": "/viewer/texas/irc-2021",
+                "modelCodeUrl": null,
+                "placeholder": "Search Texas IHB Residential Code 2021",
+                "pubKey": "int_residential_code_2021",
+                "pubPrefix": "int_residential_code",
+                "shortformPubName": "irc-2021",
+                "withAmendments": true,
+                "chapterRef": "20",
+                "publisher": "icc",
+                "hasLinkedResources": false,
+                "initialNonChapterTocLines": [
+                    {
+                        "amendType": null,
+                        "children": [
+                            {
+                                "amendType": null,
+                                "children": [
+                                    {
+                                        "amendType": null,
+                                        "children": [],
+                                        "depth": 3,
+                                        "displayTitle": "M2001.1.1 Standards",
+                                        "hasExpanderArrow": false,
+                                        "href": "#M2001.1.1",
+                                        "isCodeDivider": false,
+                                        "isCodeDividerClickable": false,
+                                        "orderIndex": 45280000,
+                                        "reference": "M2001.1.1"
+                                    }
+                                ],
+                                "depth": 2,
+                                "displayTitle": "M2001.1 Installation",
+                                "hasExpanderArrow": true,
+                                "href": "#M2001.1",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "orderIndex": 45270000,
+                                "reference": "M2001.1"
+                            },
+                            {
+                                "amendType": null,
+                                "children": [],
+                                "depth": 2,
+                                "displayTitle": "M2001.2 Clearance",
+                                "hasExpanderArrow": false,
+                                "href": "#M2001.2",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "orderIndex": 45300000,
+                                "reference": "M2001.2"
+                            },
+                            {
+                                "amendType": null,
+                                "children": [],
+                                "depth": 2,
+                                "displayTitle": "M2001.3 Valves",
+                                "hasExpanderArrow": false,
+                                "href": "#M2001.3",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "orderIndex": 45310000,
+                                "reference": "M2001.3"
+                            },
+                            {
+                                "amendType": null,
+                                "children": [],
+                                "depth": 2,
+                                "displayTitle": "M2001.4 Flood-Resistant Installation",
+                                "hasExpanderArrow": false,
+                                "href": "#M2001.4",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "orderIndex": 45320000,
+                                "reference": "M2001.4"
+                            }
+                        ],
+                        "depth": 1,
+                        "displayTitle": "M2001 Boilers",
+                        "hasExpanderArrow": true,
+                        "href": "#M2001",
+                        "isCodeDivider": false,
+                        "isCodeDividerClickable": false,
+                        "orderIndex": 45260000,
+                        "reference": "M2001"
+                    },
+                    {
+                        "amendType": null,
+                        "children": [
+                            {
+                                "amendType": null,
+                                "children": [],
+                                "depth": 2,
+                                "displayTitle": "M2002.1 Safety Controls",
+                                "hasExpanderArrow": false,
+                                "href": "#M2002.1",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "orderIndex": 45340000,
+                                "reference": "M2002.1"
+                            },
+                            {
+                                "amendType": null,
+                                "children": [],
+                                "depth": 2,
+                                "displayTitle": "M2002.2 Hot Water Boiler Gauges",
+                                "hasExpanderArrow": false,
+                                "href": "#M2002.2",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "orderIndex": 45350000,
+                                "reference": "M2002.2"
+                            },
+                            {
+                                "amendType": null,
+                                "children": [],
+                                "depth": 2,
+                                "displayTitle": "M2002.3 Steam Boiler Gauges",
+                                "hasExpanderArrow": false,
+                                "href": "#M2002.3",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "orderIndex": 45360000,
+                                "reference": "M2002.3"
+                            },
+                            {
+                                "amendType": null,
+                                "children": [],
+                                "depth": 2,
+                                "displayTitle": "M2002.4 Pressure Relief Valve",
+                                "hasExpanderArrow": false,
+                                "href": "#M2002.4",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "orderIndex": 45370000,
+                                "reference": "M2002.4"
+                            },
+                            {
+                                "amendType": null,
+                                "children": [],
+                                "depth": 2,
+                                "displayTitle": "M2002.5 Boiler Low-Water Cutoff",
+                                "hasExpanderArrow": false,
+                                "href": "#M2002.5",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "orderIndex": 45380000,
+                                "reference": "M2002.5"
+                            },
+                            {
+                                "amendType": null,
+                                "children": [],
+                                "depth": 2,
+                                "displayTitle": "M2002.6 Operation",
+                                "hasExpanderArrow": false,
+                                "href": "#M2002.6",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "orderIndex": 45390000,
+                                "reference": "M2002.6"
+                            }
+                        ],
+                        "depth": 1,
+                        "displayTitle": "M2002 Operating and Safety Controls",
+                        "hasExpanderArrow": true,
+                        "href": "#M2002",
+                        "isCodeDivider": false,
+                        "isCodeDividerClickable": false,
+                        "orderIndex": 45330000,
+                        "reference": "M2002"
+                    },
+                    {
+                        "amendType": null,
+                        "children": [
+                            {
+                                "amendType": null,
+                                "children": [
+                                    {
+                                        "amendType": null,
+                                        "children": [],
+                                        "depth": 3,
+                                        "displayTitle": "M2003.1.1 Pressurized Expansion Tanks",
+                                        "hasExpanderArrow": false,
+                                        "href": "#M2003.1.1",
+                                        "isCodeDivider": false,
+                                        "isCodeDividerClickable": false,
+                                        "orderIndex": 45420000,
+                                        "reference": "M2003.1.1"
+                                    }
+                                ],
+                                "depth": 2,
+                                "displayTitle": "M2003.1 General",
+                                "hasExpanderArrow": true,
+                                "href": "#M2003.1",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "orderIndex": 45410000,
+                                "reference": "M2003.1"
+                            },
+                            {
+                                "amendType": null,
+                                "children": [],
+                                "depth": 2,
+                                "displayTitle": "M2003.2 Minimum Capacity",
+                                "hasExpanderArrow": false,
+                                "href": "#M2003.2",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "orderIndex": 45430000,
+                                "reference": "M2003.2"
+                            }
+                        ],
+                        "depth": 1,
+                        "displayTitle": "M2003 Expansion Tanks",
+                        "hasExpanderArrow": true,
+                        "href": "#M2003",
+                        "isCodeDivider": false,
+                        "isCodeDividerClickable": false,
+                        "orderIndex": 45400000,
+                        "reference": "M2003"
+                    },
+                    {
+                        "amendType": null,
+                        "children": [
+                            {
+                                "amendType": null,
+                                "children": [],
+                                "depth": 2,
+                                "displayTitle": "M2004.1 General",
+                                "hasExpanderArrow": false,
+                                "href": "#M2004.1",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "orderIndex": 45450000,
+                                "reference": "M2004.1"
+                            }
+                        ],
+                        "depth": 1,
+                        "displayTitle": "M2004 Water Heaters Used for Space Heating",
+                        "hasExpanderArrow": true,
+                        "href": "#M2004",
+                        "isCodeDivider": false,
+                        "isCodeDividerClickable": false,
+                        "orderIndex": 45440000,
+                        "reference": "M2004"
+                    },
+                    {
+                        "amendType": null,
+                        "children": [
+                            {
+                                "amendType": null,
+                                "children": [],
+                                "depth": 2,
+                                "displayTitle": "M2005.1 General",
+                                "hasExpanderArrow": false,
+                                "href": "#M2005.1",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "orderIndex": 45500000,
+                                "reference": "M2005.1"
+                            },
+                            {
+                                "amendType": null,
+                                "children": [
+                                    {
+                                        "amendType": null,
+                                        "children": [],
+                                        "depth": 3,
+                                        "displayTitle": "M2005.2.1 Water Heater Access",
+                                        "hasExpanderArrow": false,
+                                        "href": "#M2005.2.1",
+                                        "isCodeDivider": false,
+                                        "isCodeDividerClickable": false,
+                                        "orderIndex": 45520000,
+                                        "reference": "M2005.2.1"
+                                    }
+                                ],
+                                "depth": 2,
+                                "displayTitle": "M2005.2 Prohibited Locations",
+                                "hasExpanderArrow": true,
+                                "href": "#M2005.2",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "orderIndex": 45510000,
+                                "reference": "M2005.2"
+                            },
+                            {
+                                "amendType": null,
+                                "children": [],
+                                "depth": 2,
+                                "displayTitle": "M2005.3 Electric Water Heaters",
+                                "hasExpanderArrow": false,
+                                "href": "#M2005.3",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "orderIndex": 45530000,
+                                "reference": "M2005.3"
+                            },
+                            {
+                                "amendType": null,
+                                "children": [],
+                                "depth": 2,
+                                "displayTitle": "M2005.4 Supplemental Water-Heating Devices",
+                                "hasExpanderArrow": false,
+                                "href": "#M2005.4",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "orderIndex": 45540000,
+                                "reference": "M2005.4"
+                            }
+                        ],
+                        "depth": 1,
+                        "displayTitle": "M2005 Water Heaters",
+                        "hasExpanderArrow": true,
+                        "href": "#M2005",
+                        "isCodeDivider": false,
+                        "isCodeDividerClickable": false,
+                        "orderIndex": 45490000,
+                        "reference": "M2005"
+                    },
+                    {
+                        "amendType": null,
+                        "children": [
+                            {
+                                "amendType": null,
+                                "children": [],
+                                "depth": 2,
+                                "displayTitle": "M2006.1 General",
+                                "hasExpanderArrow": false,
+                                "href": "#M2006.1",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "orderIndex": 45560000,
+                                "reference": "M2006.1"
+                            },
+                            {
+                                "amendType": null,
+                                "children": [],
+                                "depth": 2,
+                                "displayTitle": "M2006.2 Clearances",
+                                "hasExpanderArrow": false,
+                                "href": "#M2006.2",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "orderIndex": 45570000,
+                                "reference": "M2006.2"
+                            },
+                            {
+                                "amendType": null,
+                                "children": [],
+                                "depth": 2,
+                                "displayTitle": "M2006.3 Bypass Valves",
+                                "hasExpanderArrow": false,
+                                "href": "#M2006.3",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "orderIndex": 45590000,
+                                "reference": "M2006.3"
+                            }
+                        ],
+                        "depth": 1,
+                        "displayTitle": "M2006 Pool Heaters",
+                        "hasExpanderArrow": true,
+                        "href": "#M2006",
+                        "isCodeDivider": false,
+                        "isCodeDividerClickable": false,
+                        "orderIndex": 45550000,
+                        "reference": "M2006"
+                    }
+                ],
+                "title": "Chapter 20 Boilers and Water Heaters: Texas IHB Residential Code 2021 | UpCodes",
+                "leanChapterLines": [
+                    {
+                        "displayTitle": "Part I Administrative",
+                        "isCodeDivider": true,
+                        "orderIndex": 10000,
+                        "reference": "divider_0_I",
+                        "slug": "administrative"
+                    },
+                    {
+                        "displayTitle": "Chapter 1 Scope and Administration",
+                        "isExpandable": true,
+                        "orderIndex": 20000,
+                        "reference": "1",
+                        "slug": "scope-and-administration"
+                    },
+                    {
+                        "displayTitle": "Part II Definitions",
+                        "isCodeDivider": true,
+                        "orderIndex": 7690000,
+                        "reference": "divider_0_II",
+                        "slug": "definitions"
+                    },
+                    {
+                        "displayTitle": "Chapter 2 Definitions",
+                        "isExpandable": true,
+                        "orderIndex": 7700000,
+                        "reference": "2",
+                        "slug": "definitions"
+                    },
+                    {
+                        "displayTitle": "Part III\u2014 Building Planning and Construction",
+                        "isCodeDivider": true,
+                        "orderIndex": 15770000,
+                        "reference": "III\u2014",
+                        "slug": "building-planning-and-construction"
+                    },
+                    {
+                        "displayTitle": "Chapter 3 Building Planning",
+                        "isExpandable": true,
+                        "orderIndex": 15780000,
+                        "reference": "3",
+                        "slug": "building-planning"
+                    },
+                    {
+                        "displayTitle": "Chapter 4 Foundations",
+                        "isExpandable": true,
+                        "orderIndex": 24400000,
+                        "reference": "4",
+                        "slug": "foundations"
+                    },
+                    {
+                        "displayTitle": "Chapter 5 Floors",
+                        "isExpandable": true,
+                        "orderIndex": 26770000,
+                        "reference": "5",
+                        "slug": "floors"
+                    },
+                    {
+                        "displayTitle": "Chapter 6 Wall Construction",
+                        "isExpandable": true,
+                        "orderIndex": 28160000,
+                        "reference": "6",
+                        "slug": "wall-construction"
+                    },
+                    {
+                        "displayTitle": "Chapter 7 Wall Covering",
+                        "isExpandable": true,
+                        "orderIndex": 32220000,
+                        "reference": "7",
+                        "slug": "wall-covering"
+                    },
+                    {
+                        "displayTitle": "Chapter 8 Roof-Ceiling Construction",
+                        "isExpandable": true,
+                        "orderIndex": 33520000,
+                        "reference": "8",
+                        "slug": "roof-ceiling-construction"
+                    },
+                    {
+                        "displayTitle": "Chapter 9 Roof Assemblies",
+                        "isExpandable": true,
+                        "orderIndex": 34680000,
+                        "reference": "9",
+                        "slug": "roof-assemblies"
+                    },
+                    {
+                        "displayTitle": "Chapter 10 Chimneys and Fireplaces",
+                        "isExpandable": true,
+                        "orderIndex": 36480000,
+                        "reference": "10",
+                        "slug": "chimneys-and-fireplaces"
+                    },
+                    {
+                        "displayTitle": "Part IV\u2014 Energy Conservation",
+                        "isCodeDivider": true,
+                        "orderIndex": 37460000,
+                        "reference": "IV\u2014",
+                        "slug": "energy-conservation"
+                    },
+                    {
+                        "amendType": "edit",
+                        "displayTitle": "Chapter 11 <span class=\"code_deletion\">[RE]</span> Energy Efficiency",
+                        "isExpandable": true,
+                        "orderIndex": 37470000,
+                        "reference": "11",
+                        "slug": "re-energy-efficiency"
+                    },
+                    {
+                        "displayTitle": "Part V\u2014 Mechanical",
+                        "isCodeDivider": true,
+                        "orderIndex": 41090000,
+                        "reference": "V\u2014",
+                        "slug": "mechanical"
+                    },
+                    {
+                        "displayTitle": "Chapter 12 Mechanical Administration",
+                        "isExpandable": true,
+                        "orderIndex": 41100000,
+                        "reference": "12",
+                        "slug": "mechanical-administration"
+                    },
+                    {
+                        "displayTitle": "Chapter 13 General Mechanical System Requirements",
+                        "isExpandable": true,
+                        "orderIndex": 41210000,
+                        "reference": "13",
+                        "slug": "general-mechanical-system-requirements"
+                    },
+                    {
+                        "displayTitle": "Chapter 14 Heating and Cooling Equipment and Appliances",
+                        "isExpandable": true,
+                        "orderIndex": 41900000,
+                        "reference": "14",
+                        "slug": "heating-and-cooling-equipment-and-appliances"
+                    },
+                    {
+                        "displayTitle": "Chapter 15 Exhaust Systems",
+                        "isExpandable": true,
+                        "orderIndex": 43000000,
+                        "reference": "15",
+                        "slug": "exhaust-systems"
+                    },
+                    {
+                        "displayTitle": "Chapter 16 Duct Systems",
+                        "isExpandable": true,
+                        "orderIndex": 43910000,
+                        "reference": "16",
+                        "slug": "duct-systems"
+                    },
+                    {
+                        "displayTitle": "Chapter 17 Combustion Air",
+                        "isExpandable": true,
+                        "orderIndex": 44290000,
+                        "reference": "17",
+                        "slug": "combustion-air"
+                    },
+                    {
+                        "displayTitle": "Chapter 18 Chimneys and Vents",
+                        "isExpandable": true,
+                        "orderIndex": 44350000,
+                        "reference": "18",
+                        "slug": "chimneys-and-vents"
+                    },
+                    {
+                        "displayTitle": "Chapter 19 Special Appliances, Equipment and Systems",
+                        "isExpandable": true,
+                        "orderIndex": 45010000,
+                        "reference": "19",
+                        "slug": "special-appliances-equipment-and-systems"
+                    },
+                    {
+                        "displayTitle": "Chapter 20 Boilers and Water Heaters",
+                        "isExpandable": true,
+                        "orderIndex": 45250000,
+                        "reference": "20",
+                        "slug": "boilers-and-water-heaters"
+                    },
+                    {
+                        "displayTitle": "Chapter 21 Hydronic Piping",
+                        "isExpandable": true,
+                        "orderIndex": 45600000,
+                        "reference": "21",
+                        "slug": "hydronic-piping"
+                    },
+                    {
+                        "displayTitle": "Chapter 22 Special Piping and Storage Systems",
+                        "isExpandable": true,
+                        "orderIndex": 47390000,
+                        "reference": "22",
+                        "slug": "special-piping-and-storage-systems"
+                    },
+                    {
+                        "displayTitle": "Chapter 23 Solar Thermal Energy Systems",
+                        "isExpandable": true,
+                        "orderIndex": 48120000,
+                        "reference": "23",
+                        "slug": "solar-thermal-energy-systems"
+                    },
+                    {
+                        "displayTitle": "Part VI\u2014 Fuel Gas",
+                        "isCodeDivider": true,
+                        "orderIndex": 48460000,
+                        "reference": "VI\u2014",
+                        "slug": "fuel-gas"
+                    },
+                    {
+                        "displayTitle": "Chapter 24 Fuel Gas",
+                        "isExpandable": true,
+                        "orderIndex": 48470000,
+                        "reference": "24",
+                        "slug": "fuel-gas"
+                    },
+                    {
+                        "displayTitle": "Part VII\u2014 Plumbing",
+                        "isCodeDivider": true,
+                        "orderIndex": 54950000,
+                        "reference": "VII\u2014",
+                        "slug": "plumbing"
+                    },
+                    {
+                        "displayTitle": "Chapter 25 Plumbing Administration",
+                        "isExpandable": true,
+                        "orderIndex": 54960000,
+                        "reference": "25",
+                        "slug": "plumbing-administration"
+                    },
+                    {
+                        "displayTitle": "Chapter 26 General Plumbing Requirements",
+                        "isExpandable": true,
+                        "orderIndex": 55560000,
+                        "reference": "26",
+                        "slug": "general-plumbing-requirements"
+                    },
+                    {
+                        "displayTitle": "Chapter 27 Plumbing Fixtures",
+                        "isExpandable": true,
+                        "orderIndex": 56000000,
+                        "reference": "27",
+                        "slug": "plumbing-fixtures"
+                    },
+                    {
+                        "displayTitle": "Chapter 28 Water Heaters",
+                        "isExpandable": true,
+                        "orderIndex": 57060000,
+                        "reference": "28",
+                        "slug": "water-heaters"
+                    },
+                    {
+                        "displayTitle": "Chapter 29 Water Supply and Distribution",
+                        "isExpandable": true,
+                        "orderIndex": 57570000,
+                        "reference": "29",
+                        "slug": "water-supply-and-distribution"
+                    },
+                    {
+                        "displayTitle": "Chapter 30 Sanitary Drainage",
+                        "isExpandable": true,
+                        "orderIndex": 61360000,
+                        "reference": "30",
+                        "slug": "sanitary-drainage"
+                    },
+                    {
+                        "displayTitle": "Chapter 31 Vents",
+                        "isExpandable": true,
+                        "orderIndex": 63050000,
+                        "reference": "31",
+                        "slug": "vents"
+                    },
+                    {
+                        "displayTitle": "Chapter 32 Traps",
+                        "isExpandable": true,
+                        "orderIndex": 63980000,
+                        "reference": "32",
+                        "slug": "traps"
+                    },
+                    {
+                        "displayTitle": "Chapter 33 Storm Drainage",
+                        "isExpandable": true,
+                        "orderIndex": 64120000,
+                        "reference": "33",
+                        "slug": "storm-drainage"
+                    },
+                    {
+                        "alwaysShowDeletionAmend": true,
+                        "amendType": "deletion",
+                        "displayTitle": "Part <span class=\"code_deletion\">VIII\u2014</span> <span class=\"code_deletion\">Electrical</span>",
+                        "isCodeDivider": true,
+                        "orderIndex": 64230000,
+                        "reference": "VIII\u2014",
+                        "slug": "electrical"
+                    },
+                    {
+                        "alwaysShowDeletionAmend": true,
+                        "amendType": "deletion",
+                        "displayTitle": "Chapter <span class=\"code_deletion\">34</span> <span class=\"code_deletion\">General Requirements</span>",
+                        "orderIndex": 64240000,
+                        "reference": "34",
+                        "slug": "general-requirements"
+                    },
+                    {
+                        "alwaysShowDeletionAmend": true,
+                        "amendType": "deletion",
+                        "displayTitle": "Chapter <span class=\"code_deletion\">35</span> <span class=\"code_deletion\">Electrical Definitions</span>",
+                        "orderIndex": 64930000,
+                        "reference": "35",
+                        "slug": "electrical-definitions"
+                    },
+                    {
+                        "alwaysShowDeletionAmend": true,
+                        "amendType": "deletion",
+                        "displayTitle": "Chapter <span class=\"code_deletion\">36</span> <span class=\"code_deletion\">Services</span>",
+                        "orderIndex": 64960000,
+                        "reference": "36",
+                        "slug": "services"
+                    },
+                    {
+                        "alwaysShowDeletionAmend": true,
+                        "amendType": "deletion",
+                        "displayTitle": "Chapter <span class=\"code_deletion\">37</span> <span class=\"code_deletion\">Branch Circuit and Feeder Requirements</span>",
+                        "orderIndex": 66220000,
+                        "reference": "37",
+                        "slug": "branch-circuit-and-feeder-requirements"
+                    },
+                    {
+                        "alwaysShowDeletionAmend": true,
+                        "amendType": "deletion",
+                        "displayTitle": "Chapter <span class=\"code_deletion\">38</span> <span class=\"code_deletion\">Wiring Methods</span>",
+                        "orderIndex": 66940000,
+                        "reference": "38",
+                        "slug": "wiring-methods"
+                    },
+                    {
+                        "alwaysShowDeletionAmend": true,
+                        "amendType": "deletion",
+                        "displayTitle": "Chapter <span class=\"code_deletion\">39</span> <span class=\"code_deletion\">Power and Lighting Distribution</span>",
+                        "orderIndex": 67260000,
+                        "reference": "39",
+                        "slug": "power-and-lighting-distribution"
+                    },
+                    {
+                        "alwaysShowDeletionAmend": true,
+                        "amendType": "deletion",
+                        "displayTitle": "Chapter <span class=\"code_deletion\">40</span> <span class=\"code_deletion\">Devices and Luminaires</span>",
+                        "orderIndex": 68980000,
+                        "reference": "40",
+                        "slug": "devices-and-luminaires"
+                    },
+                    {
+                        "alwaysShowDeletionAmend": true,
+                        "amendType": "deletion",
+                        "displayTitle": "Chapter <span class=\"code_deletion\">41</span> <span class=\"code_deletion\">Appliance Installation</span>",
+                        "orderIndex": 69690000,
+                        "reference": "41",
+                        "slug": "appliance-installation"
+                    },
+                    {
+                        "alwaysShowDeletionAmend": true,
+                        "amendType": "deletion",
+                        "displayTitle": "Chapter <span class=\"code_deletion\">42</span> <span class=\"code_deletion\">Swimming Pools</span>",
+                        "orderIndex": 69810000,
+                        "reference": "42",
+                        "slug": "swimming-pools"
+                    },
+                    {
+                        "alwaysShowDeletionAmend": true,
+                        "amendType": "deletion",
+                        "displayTitle": "Chapter <span class=\"code_deletion\">43</span> <span class=\"code_deletion\">Class 2 Remote-Control, Signaling and Power-Limited Circuits</span>",
+                        "orderIndex": 70830000,
+                        "reference": "43",
+                        "slug": "class-2-remote-control-signaling-and-power-limited-circuits"
+                    },
+                    {
+                        "displayTitle": "Part IX\u2014 Referenced Standards",
+                        "isCodeDivider": true,
+                        "orderIndex": 71560000,
+                        "reference": "IX\u2014",
+                        "slug": "referenced-standards"
+                    },
+                    {
+                        "amendType": "edit",
+                        "displayTitle": "Chapter 44 Referenced Standards",
+                        "orderIndex": 71570000,
+                        "reference": "44",
+                        "slug": "referenced-standards"
+                    },
+                    {
+                        "disabled": true,
+                        "displayTitle": "Appendix AA Sizing and Capacities of Gas Piping",
+                        "orderIndex": 73200000,
+                        "reference": "AA",
+                        "slug": "sizing-and-capacities-of-gas-piping"
+                    },
+                    {
+                        "disabled": true,
+                        "displayTitle": "Appendix AB Sizing of Venting Systems Serving Appliances Equipped With Draft Hoods, Category I Appliances and Appliances Listed for Use With Type B Vents",
+                        "orderIndex": 73420000,
+                        "reference": "AB",
+                        "slug": "sizing-of-venting-systems-serving-appliances-equipped-with-draft-hoods-category"
+                    },
+                    {
+                        "disabled": true,
+                        "displayTitle": "Appendix AC Reserved",
+                        "orderIndex": 73540000,
+                        "reference": "AC",
+                        "slug": "reserved"
+                    },
+                    {
+                        "disabled": true,
+                        "displayTitle": "Appendix AD Recommended Procedure for Safety Inspection of an Existing Appliance Installation",
+                        "orderIndex": 73580000,
+                        "reference": "AD",
+                        "slug": "recommended-procedure-for-safety-inspection-of-an-existing-appliance-installatio"
+                    },
+                    {
+                        "disabled": true,
+                        "displayTitle": "Appendix AE Manufactured Housing Used as Dwellings",
+                        "orderIndex": 73720000,
+                        "reference": "AE",
+                        "slug": "manufactured-housing-used-as-dwellings"
+                    },
+                    {
+                        "disabled": true,
+                        "displayTitle": "Appendix AF Radon Control Methods",
+                        "orderIndex": 75000000,
+                        "reference": "AF",
+                        "slug": "radon-control-methods"
+                    },
+                    {
+                        "displayTitle": "Appendix AG Piping Standards for Various Applications",
+                        "isExpandable": true,
+                        "orderIndex": 75590000,
+                        "reference": "AG",
+                        "slug": "piping-standards-for-various-applications"
+                    },
+                    {
+                        "displayTitle": "Appendix AH Patio Covers",
+                        "hasChapterAdoption": true,
+                        "isExpandable": true,
+                        "orderIndex": 75640000,
+                        "reference": "AH",
+                        "slug": "patio-covers"
+                    },
+                    {
+                        "disabled": true,
+                        "displayTitle": "Appendix AI Private Sewage Disposal",
+                        "orderIndex": 75910000,
+                        "reference": "AI",
+                        "slug": "private-sewage-disposal"
+                    },
+                    {
+                        "disabled": true,
+                        "displayTitle": "Appendix AJ Existing Buildings and Structures",
+                        "orderIndex": 75940000,
+                        "reference": "AJ",
+                        "slug": "existing-buildings-and-structures"
+                    },
+                    {
+                        "displayTitle": "Appendix AK Sound Transmission",
+                        "hasChapterAdoption": true,
+                        "isExpandable": true,
+                        "orderIndex": 78360000,
+                        "reference": "AK",
+                        "slug": "sound-transmission"
+                    },
+                    {
+                        "disabled": true,
+                        "displayTitle": "Appendix AL Permit Fees",
+                        "orderIndex": 78600000,
+                        "reference": "AL",
+                        "slug": "permit-fees"
+                    },
+                    {
+                        "disabled": true,
+                        "displayTitle": "Appendix AM Home Day Care\u2014R-3 Occupancy",
+                        "orderIndex": 78880000,
+                        "reference": "AM",
+                        "slug": "home-day-care-r-3-occupancy"
+                    },
+                    {
+                        "disabled": true,
+                        "displayTitle": "Appendix AN Venting Methods",
+                        "orderIndex": 79100000,
+                        "reference": "AN",
+                        "slug": "venting-methods"
+                    },
+                    {
+                        "disabled": true,
+                        "displayTitle": "Appendix AO Automatic Vehicular Gates",
+                        "orderIndex": 79130000,
+                        "reference": "AO",
+                        "slug": "automatic-vehicular-gates"
+                    },
+                    {
+                        "displayTitle": "Appendix AP Sizing of Water Piping System",
+                        "hasChapterAdoption": true,
+                        "isExpandable": true,
+                        "orderIndex": 79230000,
+                        "reference": "AP",
+                        "slug": "sizing-of-water-piping-system"
+                    },
+                    {
+                        "displayTitle": "Appendix AQ Tiny Houses",
+                        "hasChapterAdoption": true,
+                        "isExpandable": true,
+                        "orderIndex": 79420000,
+                        "reference": "AQ",
+                        "slug": "tiny-houses"
+                    },
+                    {
+                        "disabled": true,
+                        "displayTitle": "Appendix AR Light Straw-Clay Construction",
+                        "orderIndex": 80130000,
+                        "reference": "AR",
+                        "slug": "light-straw-clay-construction"
+                    },
+                    {
+                        "disabled": true,
+                        "displayTitle": "Appendix AS Strawbale Construction",
+                        "orderIndex": 80480000,
+                        "reference": "AS",
+                        "slug": "strawbale-construction"
+                    },
+                    {
+                        "displayTitle": "Appendix AT [RE] Solar-Ready Provisions\u2014Detached One- And Two-Family Dwellings and Townhouses",
+                        "hasChapterAdoption": true,
+                        "isExpandable": true,
+                        "orderIndex": 81520000,
+                        "reference": "AT",
+                        "slug": "re-solar-ready-provisions-detached-one-and-two-family-dwellings-and-townhouses"
+                    },
+                    {
+                        "disabled": true,
+                        "displayTitle": "Appendix AU Cob Construction (Monolithic Adobe)",
+                        "orderIndex": 81730000,
+                        "reference": "AU",
+                        "slug": "cob-construction-monolithic-adobe"
+                    },
+                    {
+                        "disabled": true,
+                        "displayTitle": "Appendix AV Board of Appeals",
+                        "orderIndex": 82910000,
+                        "reference": "AV",
+                        "slug": "board-of-appeals"
+                    },
+                    {
+                        "disabled": true,
+                        "displayTitle": "Appendix AW 3D-Printed Building Construction",
+                        "orderIndex": 83300000,
+                        "reference": "AW",
+                        "slug": "3d-printed-building-construction"
+                    },
+                    {
+                        "disabled": true,
+                        "displayTitle": "Appendix AX (RC) Zero Energy Residential Building Provisions",
+                        "orderIndex": 83960000,
+                        "reference": "AX",
+                        "slug": "rc-zero-energy-residential-building-provisions"
+                    }
+                ],
+                "leanCodeSectionsTree": [
+                    {
+                        "ancestorRefs": [],
+                        "body": "<div class=\"u-mt-4\"><div class=\"u-mt-3 u-mb-3 u-font-bold\">User notes:</div><div class=\"u-mt-3 u-mb-3 u-italic\"><span class=\"u-font-bold\">About this chapter: </span>Chapter 20 is specific to <a class=\"autolink\" href=\"/viewer/texas/irc-2021/chapter/2/definitions#boiler_\">boilers</a> and <a class=\"autolink\" href=\"/viewer/texas/irc-2021/chapter/2/definitions#water_heater_\">water heaters</a>. The provisions of this chapter apply to <a class=\"autolink\" href=\"/viewer/texas/irc-2021/chapter/2/definitions#appliance_\">appliances</a> generally without regard to the energy source. Gas-fired <a class=\"autolink\" href=\"/viewer/texas/irc-2021/chapter/2/definitions#boiler_\">boilers</a> and <a class=\"autolink\" href=\"/viewer/texas/irc-2021/chapter/2/definitions#water_heater_\">water heaters</a> are also addressed in <a class=\"autolink\" href=\"/viewer/texas/irc-2021/chapter/24/fuel-gas#24\">Chapter 24</a>; therefore, Chapters 20 and <a class=\"autolink\" href=\"/viewer/texas/irc-2021/chapter/24/fuel-gas#24\">24</a> both apply to such <a class=\"autolink\" href=\"/viewer/texas/irc-2021/chapter/2/definitions#appliance_\">appliances</a>.</div><div class=\"u-mt-3 u-italic u-mb-3\"><span class=\"u-font-bold\">Code development reminder:</span> Code change proposals to this chapter will be considered by the IRC\u2014<a class=\"autolink\" href=\"/viewer/texas/irc-2021/chapter/2/definitions#plumbing_\">Plumbing</a>/<a class=\"autolink\" href=\"/viewer/texas/imc-2021\">Mechanical Code</a> Development Committee during the 2021 (Group A) Code Development Cycle.</div></div>",
+                        "depth": 0,
+                        "diagrams": [],
+                        "displayRef": null,
+                        "displayTitle": "Chapter 20 Boilers and Water Heaters",
+                        "divisionType": "Chapter",
+                        "hasAssemblies": false,
+                        "isContiguous": true,
+                        "numAssembliesOnRef": 0,
+                        "numBuildingProductsOnRef": 0,
+                        "numDiagramsOnRef": 0,
+                        "orderIndex": 45250000,
+                        "reference": "20",
+                        "slug": "boilers-and-water-heaters",
+                        "titleText": "Boilers and Water Heaters",
+                        "children": [
+                            {
+                                "ancestorRefs": [
+                                    "20"
+                                ],
+                                "depth": 1,
+                                "diagrams": [],
+                                "displayRef": null,
+                                "displayTitle": "Section M2001 Boilers",
+                                "divisionType": "Section",
+                                "hasAssemblies": false,
+                                "isContiguous": true,
+                                "numAssembliesOnRef": 0,
+                                "numBuildingProductsOnRef": 0,
+                                "numDiagramsOnRef": 0,
+                                "orderIndex": 45260000,
+                                "reference": "M2001",
+                                "slug": "boilers-and-water-heaters",
+                                "titleText": "Boilers",
+                                "children": [
+                                    {
+                                        "ancestorRefs": [
+                                            "20",
+                                            "M2001"
+                                        ],
+                                        "body": "In addition to the requirements of this code, the installation of <a class=\"autolink\" href=\"/viewer/texas/irc-2021/chapter/2/definitions#boiler_\">boilers</a> shall conform to the manufacturer's instructions. The manufacturer's rating data, the nameplate and operating instructions of a permanent type shall be attached to the <a class=\"autolink\" href=\"/viewer/texas/irc-2021/chapter/2/definitions#boiler_\">boiler</a>. <a class=\"autolink\" href=\"/viewer/texas/irc-2021/chapter/2/definitions#boiler_\">Boilers</a> shall have their controls set, adjusted and tested by the installer. A complete <a class=\"autolink\" href=\"/viewer/texas/irc-2021/chapter/2/definitions#control_limit_\">control</a> diagram together with complete <a class=\"autolink\" href=\"/viewer/texas/irc-2021/chapter/2/definitions#boiler_\">boiler</a> operating instructions shall be furnished by the installer. Solid and liquid fuel-burning <a class=\"autolink\" href=\"/viewer/texas/irc-2021/chapter/2/definitions#boiler_\">boilers</a> shall be provided with <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/texas/irc-2021/chapter/2/definitions#combustion_air_\">combustion air</a></span> as required by <a class=\"autolink\" href=\"/viewer/texas/irc-2021/chapter/17/combustion-air#17\">Chapter 17</a>.",
+                                        "depth": 2,
+                                        "diagrams": [],
+                                        "displayRef": null,
+                                        "displayTitle": "M2001.1 Installation",
+                                        "hasAssemblies": false,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 0,
+                                        "numDiagramsOnRef": 0,
+                                        "orderIndex": 45270000,
+                                        "reference": "M2001.1",
+                                        "slug": "boilers-and-water-heaters",
+                                        "titleText": "Installation",
+                                        "children": [
+                                            {
+                                                "ancestorRefs": [
+                                                    "20",
+                                                    "M2001",
+                                                    "M2001.1"
+                                                ],
+                                                "body": "Packaged oil-fired <a class=\"autolink\" href=\"/viewer/texas/irc-2021/chapter/2/definitions#boiler_\">boilers</a> shall be <span class=\"u-italic\">listed</span> and <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/texas/irc-2021/chapter/2/definitions#labeled_\">labeled</a></span> in accordance with UL 726. Packaged electric <a class=\"autolink\" href=\"/viewer/texas/irc-2021/chapter/2/definitions#boiler_\">boilers</a> shall be <span class=\"u-italic\">listed</span> and <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/texas/irc-2021/chapter/2/definitions#labeled_\">labeled</a></span> in accordance with UL 834. Solid fuel-fired <a class=\"autolink\" href=\"/viewer/texas/irc-2021/chapter/2/definitions#boiler_\">boilers</a> shall be <span class=\"u-italic\">listed</span> and <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/texas/irc-2021/chapter/2/definitions#labeled_\">labeled</a></span> in accordance with UL 2523. <a class=\"autolink\" href=\"/viewer/texas/irc-2021/chapter/2/definitions#boiler_\">Boilers</a> shall be designed, constructed and certified in accordance with the <span class=\"u-italic\">ASME <a class=\"autolink\" href=\"/viewer/texas/irc-2021/chapter/2/definitions#boiler_\">Boiler</a> and Pressure Vessel Code</span>, Section I or IV. Controls and safety devices for <a class=\"autolink\" href=\"/viewer/texas/irc-2021/chapter/2/definitions#boiler_\">boilers</a> with fuel input ratings of 12,500,000 Btu/hr (3663 kW) or less shall meet the requirements of ASME CSD-1. Gas-fired <a class=\"autolink\" href=\"/viewer/texas/irc-2021/chapter/2/definitions#boiler_\">boilers</a> shall conform to the requirements listed in <a class=\"autolink\" href=\"/viewer/texas/irc-2021/chapter/24/fuel-gas#24\">Chapter 24</a>.",
+                                                "depth": 3,
+                                                "diagrams": [],
+                                                "displayRef": null,
+                                                "displayTitle": "M2001.1.1 Standards",
+                                                "hasAssemblies": false,
+                                                "isContiguous": true,
+                                                "numAssembliesOnRef": 0,
+                                                "numBuildingProductsOnRef": 0,
+                                                "numDiagramsOnRef": 0,
+                                                "orderIndex": 45280000,
+                                                "reference": "M2001.1.1",
+                                                "slug": "boilers-and-water-heaters",
+                                                "titleText": "Standards",
+                                                "children": []
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "ancestorRefs": [
+                                            "20",
+                                            "M2001"
+                                        ],
+                                        "body": "<a class=\"autolink\" href=\"/viewer/texas/irc-2021/chapter/2/definitions#boiler_\">Boilers</a> shall be installed in accordance with their <span class=\"u-italic\">listing</span> and <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/texas/irc-2021/chapter/2/definitions#label_\">label</a></span>.",
+                                        "depth": 2,
+                                        "diagrams": [],
+                                        "displayRef": null,
+                                        "displayTitle": "M2001.2 Clearance",
+                                        "hasAssemblies": false,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 0,
+                                        "numDiagramsOnRef": 0,
+                                        "orderIndex": 45300000,
+                                        "reference": "M2001.2",
+                                        "slug": "boilers-and-water-heaters",
+                                        "titleText": "Clearance",
+                                        "children": []
+                                    },
+                                    {
+                                        "ancestorRefs": [
+                                            "20",
+                                            "M2001"
+                                        ],
+                                        "body": "<div class=\"u-mb-3\">Every <a class=\"autolink\" href=\"/viewer/texas/irc-2021/chapter/2/definitions#boiler_\">boiler</a> or modular <a class=\"autolink\" href=\"/viewer/texas/irc-2021/chapter/2/definitions#boiler_\">boiler</a> shall have a shutoff valve in the supply and return piping. For multiple <a class=\"autolink\" href=\"/viewer/texas/irc-2021/chapter/2/definitions#boiler_\">boiler</a> or multiple modular <a class=\"autolink\" href=\"/viewer/texas/irc-2021/chapter/2/definitions#boiler_\">boiler</a> installations, each <a class=\"autolink\" href=\"/viewer/texas/irc-2021/chapter/2/definitions#boiler_\">boiler</a> or modular <a class=\"autolink\" href=\"/viewer/texas/irc-2021/chapter/2/definitions#boiler_\">boiler</a> shall have individual shutoff valves in the supply and return piping.</div><div class=\"u-ml-4\"><span class=\"u-font-bold\">Exception:</span> Shutoff valves are not required in a system having a single low-pressure steam <a class=\"autolink\" href=\"/viewer/texas/irc-2021/chapter/2/definitions#boiler_\">boiler</a>. </div>",
+                                        "depth": 2,
+                                        "diagrams": [],
+                                        "displayRef": null,
+                                        "displayTitle": "M2001.3 Valves",
+                                        "hasAssemblies": false,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 0,
+                                        "numDiagramsOnRef": 0,
+                                        "orderIndex": 45310000,
+                                        "reference": "M2001.3",
+                                        "slug": "boilers-and-water-heaters",
+                                        "titleText": "Valves",
+                                        "children": []
+                                    },
+                                    {
+                                        "ancestorRefs": [
+                                            "20",
+                                            "M2001"
+                                        ],
+                                        "body": "In flood hazard areas established in <a class=\"autolink\" href=\"/viewer/texas/irc-2021/chapter/3/building-planning#table_R301.2\">Table R301.2</a>, <a class=\"autolink\" href=\"/viewer/texas/irc-2021/chapter/2/definitions#boiler_\">boilers</a>, <a class=\"autolink\" href=\"/viewer/texas/irc-2021/chapter/2/definitions#water_heater_\">water heaters</a> and their <a class=\"autolink\" href=\"/viewer/texas/irc-2021/chapter/2/definitions#control_limit_\">control</a> systems shall be located or installed in accordance with <a class=\"autolink\" href=\"/viewer/texas/irc-2021/chapter/3/building-planning#R322.1.6\">Section R322.1.6</a>.",
+                                        "depth": 2,
+                                        "diagrams": [
+                                            {
+                                                "key": "flood_protection_mpe_systems",
+                                                "title": "Flood: M/P/E Systems",
+                                                "descriptionHtml": "<div>A significant portion of flood damage is attributed to critical building systems including mechanical, electrical,\nplumbing and other utility elements. Residents, communities and businesses are all impacted when building utility systems are damaged and cause delays in post-flood building re-occupancy.</div><br/>\n<div>When buildings are elevated or protected higher than the minimum required flood protection level, equipment serving the buildings should be elevated or located at least to the same height. This measure not only protects the equipment from the same level of risk as the building, but allows access to the best available rates for NFIP insurance policies as well.</div><br/>\n<div>Source: FEMA P-348, www.fema.gov</div>",
+                                                "topics": [
+                                                    "Flood",
+                                                    "Residential",
+                                                    "Mechanical"
+                                                ],
+                                                "phases": [
+                                                    "Construction Docs",
+                                                    "Construction Phase"
+                                                ],
+                                                "supressesChildrenAssociations": false,
+                                                "blacklistJurisdictions": [],
+                                                "whitelistJurisdictions": [],
+                                                "imageType": "png"
+                                            }
+                                        ],
+                                        "displayRef": null,
+                                        "displayTitle": "M2001.4 Flood-Resistant Installation",
+                                        "hasAssemblies": false,
+                                        "hasDiagrams": true,
+                                        "hasDiagramsOnRef": true,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 0,
+                                        "numDiagramsOnRef": 1,
+                                        "orderIndex": 45320000,
+                                        "reference": "M2001.4",
+                                        "slug": "boilers-and-water-heaters",
+                                        "titleText": "Flood-Resistant Installation",
+                                        "children": []
+                                    }
+                                ]
+                            },
+                            {
+                                "ancestorRefs": [
+                                    "20"
+                                ],
+                                "depth": 1,
+                                "diagrams": [],
+                                "displayRef": null,
+                                "displayTitle": "Section M2002 Operating and Safety Controls",
+                                "divisionType": "Section",
+                                "hasAssemblies": false,
+                                "isContiguous": true,
+                                "numAssembliesOnRef": 0,
+                                "numBuildingProductsOnRef": 0,
+                                "numDiagramsOnRef": 0,
+                                "orderIndex": 45330000,
+                                "reference": "M2002",
+                                "slug": "boilers-and-water-heaters",
+                                "titleText": "Operating and Safety Controls",
+                                "children": [
+                                    {
+                                        "ancestorRefs": [
+                                            "20",
+                                            "M2002"
+                                        ],
+                                        "body": "Electrical and mechanical operating and safety controls for <a class=\"autolink\" href=\"/viewer/texas/irc-2021/chapter/2/definitions#boiler_\">boilers</a> shall be <span class=\"u-italic\">listed</span> and <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/texas/irc-2021/chapter/2/definitions#labeled_\">labeled</a></span>.",
+                                        "depth": 2,
+                                        "diagrams": [],
+                                        "displayRef": null,
+                                        "displayTitle": "M2002.1 Safety Controls",
+                                        "hasAssemblies": false,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 0,
+                                        "numDiagramsOnRef": 0,
+                                        "orderIndex": 45340000,
+                                        "reference": "M2002.1",
+                                        "slug": "boilers-and-water-heaters",
+                                        "titleText": "Safety Controls",
+                                        "children": []
+                                    },
+                                    {
+                                        "ancestorRefs": [
+                                            "20",
+                                            "M2002"
+                                        ],
+                                        "body": "Every <a class=\"autolink\" href=\"/viewer/texas/irc-2021/chapter/2/definitions#hot_water_\">hot water</a> <a class=\"autolink\" href=\"/viewer/texas/irc-2021/chapter/2/definitions#boiler_\">boiler</a> shall have a pressure gauge and a temperature gauge, or combination pressure and temperature gauge. The gauges shall indicate the temperature and pressure within the normal range of the system's operation.",
+                                        "depth": 2,
+                                        "diagrams": [],
+                                        "displayRef": null,
+                                        "displayTitle": "M2002.2 Hot Water Boiler Gauges",
+                                        "hasAssemblies": false,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 0,
+                                        "numDiagramsOnRef": 0,
+                                        "orderIndex": 45350000,
+                                        "reference": "M2002.2",
+                                        "slug": "boilers-and-water-heaters",
+                                        "titleText": "Hot Water Boiler Gauges",
+                                        "children": []
+                                    },
+                                    {
+                                        "ancestorRefs": [
+                                            "20",
+                                            "M2002"
+                                        ],
+                                        "body": "Every steam <a class=\"autolink\" href=\"/viewer/texas/irc-2021/chapter/2/definitions#boiler_\">boiler</a> shall have a water-gauge glass and a pressure gauge. The pressure gauge shall indicate the pressure within the normal range of the system's operation. The gauge glass shall be installed so that the midpoint is at the normal water level.",
+                                        "depth": 2,
+                                        "diagrams": [],
+                                        "displayRef": null,
+                                        "displayTitle": "M2002.3 Steam Boiler Gauges",
+                                        "hasAssemblies": false,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 0,
+                                        "numDiagramsOnRef": 0,
+                                        "orderIndex": 45360000,
+                                        "reference": "M2002.3",
+                                        "slug": "boilers-and-water-heaters",
+                                        "titleText": "Steam Boiler Gauges",
+                                        "children": []
+                                    },
+                                    {
+                                        "ancestorRefs": [
+                                            "20",
+                                            "M2002"
+                                        ],
+                                        "body": "<a class=\"autolink\" href=\"/viewer/texas/irc-2021/chapter/2/definitions#boiler_\">Boilers</a> shall be equipped with pressure relief valves with minimum rated capacities for the <a class=\"autolink\" href=\"/viewer/texas/irc-2021/chapter/2/definitions#equipment_\">equipment</a> served. Pressure relief valves shall be set at the maximum rating of the <a class=\"autolink\" href=\"/viewer/texas/irc-2021/chapter/2/definitions#boiler_\">boiler</a>. Discharge shall be piped to <a class=\"autolink\" href=\"/viewer/texas/irc-2021/chapter/2/definitions#drain_\">drains</a> by gravity to within 18 inches (457 mm) of the floor or to an open <a class=\"autolink\" href=\"/viewer/texas/irc-2021/chapter/2/definitions#receptor_\">receptor</a>.",
+                                        "depth": 2,
+                                        "diagrams": [],
+                                        "displayRef": null,
+                                        "displayTitle": "M2002.4 Pressure Relief Valve",
+                                        "hasAssemblies": false,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 0,
+                                        "numDiagramsOnRef": 0,
+                                        "orderIndex": 45370000,
+                                        "reference": "M2002.4",
+                                        "slug": "boilers-and-water-heaters",
+                                        "titleText": "Pressure Relief Valve",
+                                        "children": []
+                                    },
+                                    {
+                                        "ancestorRefs": [
+                                            "20",
+                                            "M2002"
+                                        ],
+                                        "body": "<div class=\"u-mb-3\">Steam and <a class=\"autolink\" href=\"/viewer/texas/irc-2021/chapter/2/definitions#hot_water_\">hot water</a> <a class=\"autolink\" href=\"/viewer/texas/irc-2021/chapter/2/definitions#boiler_\">boilers</a> shall be protected with a low-water cutoff <a class=\"autolink\" href=\"/viewer/texas/irc-2021/chapter/2/definitions#control_limit_\">control</a>.</div><div class=\"u-ml-4\"><span class=\"u-font-bold\">Exception:</span> A low-water cutoff is not required for coil-type and water-tube-type <a class=\"autolink\" href=\"/viewer/texas/irc-2021/chapter/2/definitions#boiler_\">boilers</a> that require forced circulation of water through the <a class=\"autolink\" href=\"/viewer/texas/irc-2021/chapter/2/definitions#boiler_\">boiler</a> and that are protected with a flow-sensing <a class=\"autolink\" href=\"/viewer/texas/irc-2021/chapter/2/definitions#control_limit_\">control</a>. </div>",
+                                        "depth": 2,
+                                        "diagrams": [],
+                                        "displayRef": null,
+                                        "displayTitle": "M2002.5 Boiler Low-Water Cutoff",
+                                        "hasAssemblies": false,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 0,
+                                        "numDiagramsOnRef": 0,
+                                        "orderIndex": 45380000,
+                                        "reference": "M2002.5",
+                                        "slug": "boilers-and-water-heaters",
+                                        "titleText": "Boiler Low-Water Cutoff",
+                                        "children": []
+                                    },
+                                    {
+                                        "ancestorRefs": [
+                                            "20",
+                                            "M2002"
+                                        ],
+                                        "body": "Low-water cutoff controls and flow-sensing controls required by <a class=\"autolink\" href=\"#M2002.5\">Section M2002.5</a> shall automatically stop the combustion operation of the <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/texas/irc-2021/chapter/2/definitions#appliance_\">appliance</a></span> when the water level drops below the lowest safe water level as established by the manufacturer or when the water circulation flow is less than that required for safe operation of the <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/texas/irc-2021/chapter/2/definitions#appliance_\">appliance</a></span>, respectively.",
+                                        "depth": 2,
+                                        "diagrams": [],
+                                        "displayRef": null,
+                                        "displayTitle": "M2002.6 Operation",
+                                        "hasAssemblies": false,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 0,
+                                        "numDiagramsOnRef": 0,
+                                        "orderIndex": 45390000,
+                                        "reference": "M2002.6",
+                                        "slug": "boilers-and-water-heaters",
+                                        "titleText": "Operation",
+                                        "children": []
+                                    }
+                                ]
+                            },
+                            {
+                                "ancestorRefs": [
+                                    "20"
+                                ],
+                                "depth": 1,
+                                "diagrams": [],
+                                "displayRef": null,
+                                "displayTitle": "Section M2003 Expansion Tanks",
+                                "divisionType": "Section",
+                                "hasAssemblies": false,
+                                "isContiguous": true,
+                                "numAssembliesOnRef": 0,
+                                "numBuildingProductsOnRef": 0,
+                                "numDiagramsOnRef": 0,
+                                "orderIndex": 45400000,
+                                "reference": "M2003",
+                                "slug": "boilers-and-water-heaters",
+                                "titleText": "Expansion Tanks",
+                                "children": [
+                                    {
+                                        "ancestorRefs": [
+                                            "20",
+                                            "M2003"
+                                        ],
+                                        "body": "<a class=\"autolink\" href=\"/viewer/texas/irc-2021/chapter/2/definitions#hot_water_\">Hot water</a> <a class=\"autolink\" href=\"/viewer/texas/irc-2021/chapter/2/definitions#boiler_\">boilers</a> shall be provided with expansion tanks. Nonpressurized expansion tanks shall be securely fastened to the structure or <a class=\"autolink\" href=\"/viewer/texas/irc-2021/chapter/2/definitions#boiler_\">boiler</a> and supported to carry twice the weight of the tank filled with water. Provisions shall be made for draining nonpressurized tanks without emptying the system.",
+                                        "depth": 2,
+                                        "diagrams": [],
+                                        "displayRef": null,
+                                        "displayTitle": "M2003.1 General",
+                                        "hasAssemblies": false,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 0,
+                                        "numDiagramsOnRef": 0,
+                                        "orderIndex": 45410000,
+                                        "reference": "M2003.1",
+                                        "slug": "boilers-and-water-heaters",
+                                        "titleText": "General",
+                                        "children": [
+                                            {
+                                                "ancestorRefs": [
+                                                    "20",
+                                                    "M2003",
+                                                    "M2003.1"
+                                                ],
+                                                "body": "Pressurized expansion tanks shall be consistent with the volume and capacity of the system. Tanks shall be capable of withstanding a hydrostatic test pressure of two and one-half times the allowable working pressure of the system.",
+                                                "depth": 3,
+                                                "diagrams": [],
+                                                "displayRef": null,
+                                                "displayTitle": "M2003.1.1 Pressurized Expansion Tanks",
+                                                "hasAssemblies": false,
+                                                "isContiguous": true,
+                                                "numAssembliesOnRef": 0,
+                                                "numBuildingProductsOnRef": 0,
+                                                "numDiagramsOnRef": 0,
+                                                "orderIndex": 45420000,
+                                                "reference": "M2003.1.1",
+                                                "slug": "boilers-and-water-heaters",
+                                                "titleText": "Pressurized Expansion Tanks",
+                                                "children": []
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "ancestorRefs": [
+                                            "20",
+                                            "M2003"
+                                        ],
+                                        "body": "<div>The minimum capacity of expansion tanks shall be determined from Table M2003.2.</div>\n<figure>\n<figcaption>\n<div class=\"u-mb-3 u-mt-3\"><a id=\"table_M2003.2\" href=\"#table_M2003.2\" class=\"autolink_target\">TABLE M2003.2</a></div>\nEXPANSION TANK MINIMUM CAPACITY<sup>a <br/></sup>FOR FORCED <a class=\"autolink\" href=\"/viewer/texas/irc-2021/chapter/2/definitions#hot_water_\">HOT-WATER</a> SYSTEMS</figcaption>\n<table class=\"u-border uc_all_borders\">\n<tbody>\n<tr>\n<td class=\"u-text-center u-align-middle uc_all_borders\" colspan=\"1\" rowspan=\"1\"><span class=\"u-font-bold\">SYSTEM VOLUME<sup>b</sup> (gallons)</span></td>\n<td class=\"u-text-center u-align-middle uc_all_borders\" colspan=\"1\" rowspan=\"1\"><span class=\"u-font-bold\">PRESSURIZED <a class=\"autolink\" href=\"/viewer/texas/irc-2021/chapter/2/definitions#diaphragm_\">DIAPHRAGM</a> TYPE</span></td>\n<td class=\"u-text-center u-align-middle uc_all_borders\" colspan=\"1\" rowspan=\"1\"><span class=\"u-font-bold\">NONPRESSURIZED TYPE</span></td>\n</tr>\n<tr>\n<td class=\"u-text-center u-align-middle uc_all_borders\" colspan=\"1\" rowspan=\"1\">10</td>\n<td class=\"u-text-center u-align-middle uc_all_borders\" colspan=\"1\" rowspan=\"1\">1.0</td>\n<td class=\"u-text-center u-align-middle uc_all_borders\" colspan=\"1\" rowspan=\"1\">1.5</td>\n</tr>\n<tr>\n<td class=\"u-text-center u-align-middle uc_all_borders\" colspan=\"1\" rowspan=\"1\">20</td>\n<td class=\"u-text-center u-align-middle uc_all_borders\" colspan=\"1\" rowspan=\"1\">1.5</td>\n<td class=\"u-text-center u-align-middle uc_all_borders\" colspan=\"1\" rowspan=\"1\">3.0</td>\n</tr>\n<tr>\n<td class=\"u-text-center u-align-middle uc_all_borders\" colspan=\"1\" rowspan=\"1\">30</td>\n<td class=\"u-text-center u-align-middle uc_all_borders\" colspan=\"1\" rowspan=\"1\">2.5</td>\n<td class=\"u-text-center u-align-middle uc_all_borders\" colspan=\"1\" rowspan=\"1\">4.5</td>\n</tr>\n<tr>\n<td class=\"u-text-center u-align-middle uc_all_borders\" colspan=\"1\" rowspan=\"1\">40</td>\n<td class=\"u-text-center u-align-middle uc_all_borders\" colspan=\"1\" rowspan=\"1\">3.0</td>\n<td class=\"u-text-center u-align-middle uc_all_borders\" colspan=\"1\" rowspan=\"1\">6.0</td>\n</tr>\n<tr>\n<td class=\"u-text-center u-align-middle uc_all_borders\" colspan=\"1\" rowspan=\"1\">50</td>\n<td class=\"u-text-center u-align-middle uc_all_borders\" colspan=\"1\" rowspan=\"1\">4.0</td>\n<td class=\"u-text-center u-align-middle uc_all_borders\" colspan=\"1\" rowspan=\"1\">7.5</td>\n</tr>\n<tr>\n<td class=\"u-text-center u-align-middle uc_all_borders\" colspan=\"1\" rowspan=\"1\">60</td>\n<td class=\"u-text-center u-align-middle uc_all_borders\" colspan=\"1\" rowspan=\"1\">5.0</td>\n<td class=\"u-text-center u-align-middle uc_all_borders\" colspan=\"1\" rowspan=\"1\">9.0</td>\n</tr>\n<tr>\n<td class=\"u-text-center u-align-middle uc_all_borders\" colspan=\"1\" rowspan=\"1\">70</td>\n<td class=\"u-text-center u-align-middle uc_all_borders\" colspan=\"1\" rowspan=\"1\">6.0</td>\n<td class=\"u-text-center u-align-middle uc_all_borders\" colspan=\"1\" rowspan=\"1\">10.5</td>\n</tr>\n<tr>\n<td class=\"u-text-center u-align-middle uc_all_borders\" colspan=\"1\" rowspan=\"1\">80</td>\n<td class=\"u-text-center u-align-middle uc_all_borders\" colspan=\"1\" rowspan=\"1\">6.5</td>\n<td class=\"u-text-center u-align-middle uc_all_borders\" colspan=\"1\" rowspan=\"1\">12.0</td>\n</tr>\n<tr>\n<td class=\"u-text-center u-align-middle uc_all_borders\" colspan=\"1\" rowspan=\"1\">90</td>\n<td class=\"u-text-center u-align-middle uc_all_borders\" colspan=\"1\" rowspan=\"1\">7.5</td>\n<td class=\"u-text-center u-align-middle uc_all_borders\" colspan=\"1\" rowspan=\"1\">13.5</td>\n</tr>\n<tr>\n<td class=\"u-text-center u-align-middle uc_all_borders\" colspan=\"1\" rowspan=\"1\">100</td>\n<td class=\"u-text-center u-align-middle uc_all_borders\" colspan=\"1\" rowspan=\"1\">8.0</td>\n<td class=\"u-text-center u-align-middle uc_all_borders\" colspan=\"1\" rowspan=\"1\">15.0</td>\n</tr>\n</tbody>\n</table>\n<div>\n<div class=\"u-text-12px u-pt-2 u-mb-3 u-pb-2\">For SI: 1 gallon = 3.785 L, 1 pound per square inch gauge = 6.895 kPa, \u00b0C = [(\u00b0F) \u2014 32]/1.8.</div>\n<div class=\"u-text-12px u-pt-2 u-pb-2\">\n<ol class=\"u-list-lower-alpha\">\n<li class=\"u-text-12px\">Based on average water temperature of 195\u00b0F, fill pressure of 12 psig and an operating pressure of not greater than 30 psig.</li>\n<li class=\"u-text-12px\">System volume includes volume of water in <a class=\"autolink\" href=\"/viewer/texas/irc-2021/chapter/2/definitions#boiler_\">boiler</a>, <a class=\"autolink\" href=\"/viewer/texas/irc-2021/chapter/2/definitions#convector_\">convectors</a> and piping, not including the expansion tank.</li>\n</ol>\n</div>\n</div>\n</figure>",
+                                        "depth": 2,
+                                        "diagrams": [],
+                                        "displayRef": null,
+                                        "displayTitle": "M2003.2 Minimum Capacity",
+                                        "hasAssemblies": false,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 0,
+                                        "numDiagramsOnRef": 0,
+                                        "orderIndex": 45430000,
+                                        "reference": "M2003.2",
+                                        "slug": "boilers-and-water-heaters",
+                                        "titleText": "Minimum Capacity",
+                                        "children": []
+                                    }
+                                ]
+                            },
+                            {
+                                "ancestorRefs": [
+                                    "20"
+                                ],
+                                "depth": 1,
+                                "diagrams": [],
+                                "displayRef": null,
+                                "displayTitle": "Section M2004 Water Heaters Used for Space Heating",
+                                "divisionType": "Section",
+                                "hasAssemblies": false,
+                                "isContiguous": true,
+                                "numAssembliesOnRef": 0,
+                                "numBuildingProductsOnRef": 0,
+                                "numDiagramsOnRef": 0,
+                                "orderIndex": 45440000,
+                                "reference": "M2004",
+                                "slug": "boilers-and-water-heaters",
+                                "titleText": "Water Heaters Used for Space Heating",
+                                "children": [
+                                    {
+                                        "ancestorRefs": [
+                                            "20",
+                                            "M2004"
+                                        ],
+                                        "body": "<a class=\"autolink\" href=\"/viewer/texas/irc-2021/chapter/2/definitions#water_heater_\">Water heaters</a> used to supply both potable <a class=\"autolink\" href=\"/viewer/texas/irc-2021/chapter/2/definitions#hot_water_\">hot water</a> and <a class=\"autolink\" href=\"/viewer/texas/irc-2021/chapter/2/definitions#hot_water_\">hot water</a> for space heating shall be installed in accordance with this chapter, <a class=\"autolink\" href=\"/viewer/texas/irc-2021/chapter/24/fuel-gas#24\">Chapter 24</a>, <a class=\"autolink\" href=\"/viewer/texas/irc-2021/chapter/28/water-heaters#28\">Chapter 28</a> and the manufacturer's instructions.",
+                                        "depth": 2,
+                                        "diagrams": [],
+                                        "displayRef": null,
+                                        "displayTitle": "M2004.1 General",
+                                        "hasAssemblies": false,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 0,
+                                        "numDiagramsOnRef": 0,
+                                        "orderIndex": 45450000,
+                                        "reference": "M2004.1",
+                                        "slug": "boilers-and-water-heaters",
+                                        "titleText": "General",
+                                        "children": []
+                                    }
+                                ]
+                            },
+                            {
+                                "ancestorRefs": [
+                                    "20"
+                                ],
+                                "depth": 1,
+                                "diagrams": [],
+                                "displayRef": null,
+                                "displayTitle": "Section M2005 Water Heaters",
+                                "divisionType": "Section",
+                                "hasAssemblies": false,
+                                "isContiguous": true,
+                                "numAssembliesOnRef": 0,
+                                "numBuildingProductsOnRef": 0,
+                                "numDiagramsOnRef": 0,
+                                "orderIndex": 45490000,
+                                "reference": "M2005",
+                                "slug": "boilers-and-water-heaters",
+                                "titleText": "Water Heaters",
+                                "children": [
+                                    {
+                                        "ancestorRefs": [
+                                            "20",
+                                            "M2005"
+                                        ],
+                                        "body": "<a class=\"autolink\" href=\"/viewer/texas/irc-2021/chapter/2/definitions#water_heater_\">Water heaters</a> shall be installed in accordance with <a class=\"autolink\" href=\"/viewer/texas/irc-2021/chapter/28/water-heaters#28\">Chapter 28</a>, the manufacturer's instructions and the requirements of this code. <a class=\"autolink\" href=\"/viewer/texas/irc-2021/chapter/2/definitions#water_heater_\">Water heaters</a> installed in an <a class=\"autolink\" href=\"/viewer/texas/irc-2021/chapter/2/definitions#attic_\">attic</a> shall comply with the requirements of <a class=\"autolink\" href=\"/viewer/texas/irc-2021/chapter/13/general-mechanical-system-requirements#M1305.1.2\">Section M1305.1.2</a>. Gas-fired <a class=\"autolink\" href=\"/viewer/texas/irc-2021/chapter/2/definitions#water_heater_\">water heaters</a> shall comply with the requirements in <a class=\"autolink\" href=\"/viewer/texas/irc-2021/chapter/24/fuel-gas#24\">Chapter 24</a>. Domestic electric <a class=\"autolink\" href=\"/viewer/texas/irc-2021/chapter/2/definitions#water_heater_\">water heaters</a> shall comply with UL 174. Oiled-fired <a class=\"autolink\" href=\"/viewer/texas/irc-2021/chapter/2/definitions#water_heater_\">water heaters</a> shall comply with UL 732. Solar thermal water heating systems shall comply with <a class=\"autolink\" href=\"/viewer/texas/irc-2021/chapter/23/solar-thermal-energy-systems#23\">Chapter 23</a> and  ICC 900/SRCC 300. Solid fuel-fired <a class=\"autolink\" href=\"/viewer/texas/irc-2021/chapter/2/definitions#water_heater_\">water heaters</a> shall comply with UL 2523.",
+                                        "depth": 2,
+                                        "diagrams": [
+                                            {
+                                                "key": "gas_vent_terminations",
+                                                "title": "Gas Vent Terminations",
+                                                "descriptionHtml": "",
+                                                "topics": [
+                                                    "Roof / Ceiling",
+                                                    "Mechanical"
+                                                ],
+                                                "phases": [
+                                                    "Construction Docs"
+                                                ],
+                                                "supressesChildrenAssociations": false,
+                                                "blacklistJurisdictions": [],
+                                                "whitelistJurisdictions": [],
+                                                "imageType": "svg"
+                                            },
+                                            {
+                                                "key": "water_heater_relief_valve_locations",
+                                                "title": "Check or Shutoff Valves: Prohibited Locations (IRC)",
+                                                "descriptionHtml": "<div>Installing shutoff or check valves inline with a relief valve can allow a user to make the relief valve ineffective, and create a dangerous condition.  While all plumbing code have similar requirements, the Residential Code is more prescriptive.</div>",
+                                                "topics": [
+                                                    "Plumbing"
+                                                ],
+                                                "phases": [
+                                                    "Construction Docs",
+                                                    "Construction Phase"
+                                                ],
+                                                "supressesChildrenAssociations": false,
+                                                "blacklistJurisdictions": [],
+                                                "whitelistJurisdictions": [],
+                                                "imageType": "svg"
+                                            }
+                                        ],
+                                        "displayRef": null,
+                                        "displayTitle": "M2005.1 General",
+                                        "hasAssemblies": false,
+                                        "hasDiagrams": true,
+                                        "hasDiagramsOnRef": true,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 0,
+                                        "numDiagramsOnRef": 2,
+                                        "orderIndex": 45500000,
+                                        "reference": "M2005.1",
+                                        "slug": "boilers-and-water-heaters",
+                                        "titleText": "General",
+                                        "children": []
+                                    },
+                                    {
+                                        "ancestorRefs": [
+                                            "20",
+                                            "M2005"
+                                        ],
+                                        "body": "Fuel-fired <a class=\"autolink\" href=\"/viewer/texas/irc-2021/chapter/2/definitions#water_heater_\">water heaters</a> shall not be installed in a room used as a storage <a class=\"autolink\" href=\"/viewer/texas/irc-2021/chapter/2/definitions#closet_\">closet</a>. <a class=\"autolink\" href=\"/viewer/texas/irc-2021/chapter/2/definitions#water_heater_\">Water heaters</a> located in a bedroom or bathroom shall be installed in a sealed enclosure so that <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/texas/irc-2021/chapter/2/definitions#combustion_air_\">combustion air</a></span> will not be taken from the <a class=\"autolink\" href=\"/viewer/texas/irc-2021/chapter/2/definitions#living_space_\">living space</a>. Installation of direct-<a class=\"autolink\" href=\"/viewer/texas/irc-2021/chapter/2/definitions#vent_\">vent</a> <a class=\"autolink\" href=\"/viewer/texas/irc-2021/chapter/2/definitions#water_heater_\">water heaters</a> within an enclosure is not required.",
+                                        "depth": 2,
+                                        "diagrams": [
+                                            {
+                                                "key": "water_heaters_prohibited_upc",
+                                                "title": "Water Heaters: Bedrooms / Bathrooms (UPC)",
+                                                "descriptionHtml": "<div>Special consideration of doors between water heaters and sleeping spaces is required to prevent infiltration of carbon monoxide, and to ensure that proper combustion air is provided.</div>",
+                                                "topics": [
+                                                    "Plumbing"
+                                                ],
+                                                "phases": [
+                                                    "Construction Docs",
+                                                    "Construction Phase"
+                                                ],
+                                                "supressesChildrenAssociations": false,
+                                                "blacklistJurisdictions": [],
+                                                "whitelistJurisdictions": [
+                                                    "alaska",
+                                                    "phoenix",
+                                                    "california",
+                                                    "los_angeles",
+                                                    "san_francisco",
+                                                    "hawaii",
+                                                    "iowa",
+                                                    "minnesota",
+                                                    "kansas-city",
+                                                    "montana",
+                                                    "nevada",
+                                                    "clark-nevada",
+                                                    "north_dakota",
+                                                    "texas",
+                                                    "seattle",
+                                                    "wichita-sedgwick",
+                                                    "maine",
+                                                    "new_mexico",
+                                                    "oregon",
+                                                    "portland",
+                                                    "austin",
+                                                    "washington",
+                                                    "san-jose",
+                                                    "los-angeles-county",
+                                                    "san-diego"
+                                                ],
+                                                "imageType": "svg"
+                                            },
+                                            {
+                                                "key": "water_heaters_prohibited",
+                                                "title": "Fuel Fired Water Heaters: Prohibited Locations",
+                                                "descriptionHtml": "",
+                                                "topics": [
+                                                    "Residential"
+                                                ],
+                                                "phases": [
+                                                    "Schematic",
+                                                    "Design Development",
+                                                    "Construction Docs"
+                                                ],
+                                                "supressesChildrenAssociations": false,
+                                                "blacklistJurisdictions": [],
+                                                "whitelistJurisdictions": [],
+                                                "imageType": "svg"
+                                            }
+                                        ],
+                                        "displayRef": null,
+                                        "displayTitle": "M2005.2 Prohibited Locations",
+                                        "hasAssemblies": false,
+                                        "hasDiagrams": true,
+                                        "hasDiagramsOnRef": true,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 0,
+                                        "numDiagramsOnRef": 2,
+                                        "orderIndex": 45510000,
+                                        "reference": "M2005.2",
+                                        "slug": "boilers-and-water-heaters",
+                                        "titleText": "Prohibited Locations",
+                                        "children": [
+                                            {
+                                                "ancestorRefs": [
+                                                    "20",
+                                                    "M2005",
+                                                    "M2005.2"
+                                                ],
+                                                "body": "<a class=\"autolink\" href=\"/viewer/texas/irc-2021/chapter/2/definitions#access_to_\">Access to</a> <a class=\"autolink\" href=\"/viewer/texas/irc-2021/chapter/2/definitions#water_heater_\">water heaters</a> that are located in an <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/texas/irc-2021/chapter/2/definitions#attic_\">attic</a> </span>or underfloor <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/texas/irc-2021/chapter/2/definitions#crawl_space_\">crawl space</a></span> is permitted to be through a <a class=\"autolink\" href=\"/viewer/texas/irc-2021/chapter/2/definitions#closet_\">closet</a> located in a sleeping room or bathroom where <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/texas/irc-2021/chapter/2/definitions#ventilation_\">ventilation</a></span> of those spaces is in accordance with this code.",
+                                                "depth": 3,
+                                                "diagrams": [],
+                                                "displayRef": null,
+                                                "displayTitle": "M2005.2.1 Water Heater Access",
+                                                "hasAssemblies": false,
+                                                "hasDiagrams": true,
+                                                "isContiguous": true,
+                                                "numAssembliesOnRef": 0,
+                                                "numBuildingProductsOnRef": 0,
+                                                "numDiagramsOnRef": 0,
+                                                "orderIndex": 45520000,
+                                                "reference": "M2005.2.1",
+                                                "slug": "boilers-and-water-heaters",
+                                                "titleText": "Water Heater Access",
+                                                "children": []
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "ancestorRefs": [
+                                            "20",
+                                            "M2005"
+                                        ],
+                                        "body": "Electric <a class=\"autolink\" href=\"/viewer/texas/irc-2021/chapter/2/definitions#water_heater_\">water heaters</a> shall be installed in accordance with the applicable provisions of Chapters <a class=\"autolink\" href=\"/viewer/texas/irc-2021/chapter/34/general-requirements#34\">34</a> through <a class=\"autolink\" href=\"/viewer/texas/irc-2021/chapter/43/class-2-remote-control-signaling-and-power-limited-circuits#43\">43</a>.",
+                                        "depth": 2,
+                                        "diagrams": [],
+                                        "displayRef": null,
+                                        "displayTitle": "M2005.3 Electric Water Heaters",
+                                        "hasAssemblies": false,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 0,
+                                        "numDiagramsOnRef": 0,
+                                        "orderIndex": 45530000,
+                                        "reference": "M2005.3",
+                                        "slug": "boilers-and-water-heaters",
+                                        "titleText": "Electric Water Heaters",
+                                        "children": []
+                                    },
+                                    {
+                                        "ancestorRefs": [
+                                            "20",
+                                            "M2005"
+                                        ],
+                                        "body": "<a class=\"autolink\" href=\"/viewer/texas/irc-2021/chapter/2/definitions#potable_water_\">Potable water</a>-heating devices that use <a class=\"autolink\" href=\"/viewer/texas/irc-2021/chapter/2/definitions#refrigerant_\">refrigerant</a>-to-water heat exchangers shall be <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/texas/irc-2021/chapter/2/definitions#approved_\">approved</a></span> and installed in accordance with the manufacturer's instructions.",
+                                        "depth": 2,
+                                        "diagrams": [],
+                                        "displayRef": null,
+                                        "displayTitle": "M2005.4 Supplemental Water-Heating Devices",
+                                        "hasAssemblies": false,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 0,
+                                        "numDiagramsOnRef": 0,
+                                        "orderIndex": 45540000,
+                                        "reference": "M2005.4",
+                                        "slug": "boilers-and-water-heaters",
+                                        "titleText": "Supplemental Water-Heating Devices",
+                                        "children": []
+                                    }
+                                ]
+                            },
+                            {
+                                "ancestorRefs": [
+                                    "20"
+                                ],
+                                "depth": 1,
+                                "diagrams": [],
+                                "displayRef": null,
+                                "displayTitle": "Section M2006 Pool Heaters",
+                                "divisionType": "Section",
+                                "hasAssemblies": false,
+                                "isContiguous": true,
+                                "numAssembliesOnRef": 0,
+                                "numBuildingProductsOnRef": 0,
+                                "numDiagramsOnRef": 0,
+                                "orderIndex": 45550000,
+                                "reference": "M2006",
+                                "slug": "boilers-and-water-heaters",
+                                "titleText": "Pool Heaters",
+                                "children": [
+                                    {
+                                        "ancestorRefs": [
+                                            "20",
+                                            "M2006"
+                                        ],
+                                        "body": "<div class=\"u-mt-3 u-mb-3\">Pool and spa heaters shall be installed in accordance with the <a class=\"autolink\" href=\"/viewer/texas/irc-2021/chapter/2/definitions#manufacturers_installation_instructions_\">manufacturer's installation instructions</a>. Oil-fired pool heaters shall comply with UL 726. Electric pool and spa heaters shall comply with UL 1261. Pool and spa <a class=\"autolink\" href=\"/viewer/texas/irc-2021/chapter/2/definitions#heat_pump_\">heat pump</a> <a class=\"autolink\" href=\"/viewer/texas/irc-2021/chapter/2/definitions#water_heater_\">water heaters</a> shall comply with UL 1995, UL/CSA/ANCE 60335-2-40 or CSA C22.2 No. 236.</div>\n<div class=\"u-mt-3 u-mb-3 u-ml-4\"><span class=\"u-font-bold\">Exception: </span> Portable residential spas and portable residential exercise spas shall comply with UL 1563 or CSA C22.2 No. 218.1.</div>",
+                                        "depth": 2,
+                                        "diagrams": [],
+                                        "displayRef": null,
+                                        "displayTitle": "M2006.1 General",
+                                        "hasAssemblies": false,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 0,
+                                        "numDiagramsOnRef": 0,
+                                        "orderIndex": 45560000,
+                                        "reference": "M2006.1",
+                                        "slug": "boilers-and-water-heaters",
+                                        "titleText": "General",
+                                        "children": []
+                                    },
+                                    {
+                                        "ancestorRefs": [
+                                            "20",
+                                            "M2006"
+                                        ],
+                                        "body": "The clearances shall not interfere with <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/texas/irc-2021/chapter/2/definitions#combustion_air_\">combustion air</a></span>, <a class=\"autolink\" href=\"/viewer/texas/irc-2021/chapter/2/definitions#draft_hood_\">draft hood</a> or <a class=\"autolink\" href=\"/viewer/texas/irc-2021/chapter/2/definitions#flue_\">flue</a> terminal relief, or accessibility for servicing.",
+                                        "depth": 2,
+                                        "diagrams": [],
+                                        "displayRef": null,
+                                        "displayTitle": "M2006.2 Clearances",
+                                        "hasAssemblies": false,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 0,
+                                        "numDiagramsOnRef": 0,
+                                        "orderIndex": 45570000,
+                                        "reference": "M2006.2",
+                                        "slug": "boilers-and-water-heaters",
+                                        "titleText": "Clearances",
+                                        "children": []
+                                    },
+                                    {
+                                        "ancestorRefs": [
+                                            "20",
+                                            "M2006"
+                                        ],
+                                        "body": "Where an integral bypass system is not provided as a part of the pool heater, a bypass line and valve shall be installed between the inlet and outlet piping for use in adjusting the flow of water through the heater.",
+                                        "depth": 2,
+                                        "diagrams": [],
+                                        "displayRef": null,
+                                        "displayTitle": "M2006.3 Bypass Valves",
+                                        "hasAssemblies": false,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 0,
+                                        "numDiagramsOnRef": 0,
+                                        "orderIndex": 45590000,
+                                        "reference": "M2006.3",
+                                        "slug": "boilers-and-water-heaters",
+                                        "titleText": "Bypass Valves",
+                                        "children": []
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            "chapterReference": "20"
+        },
+        "__N_SSP": true
+    },
+    "page": "/viewer/[urlFormPubOrJurisKey]/[urlFormPub]/chapter/[chapterRef]/[chapterName]",
+    "query": {
+        "urlFormPubOrJurisKey": "texas",
+        "urlFormPub": "irc-2021",
+        "chapterRef": "20",
+        "chapterName": "boilers-and-water-heaters"
+    },
+    "buildId": "3sK5kbysqJcr5ch6xNgjL",
+    "isFallback": false,
+    "isExperimentalCompile": false,
+    "dynamicIds": [
+        22103,
+        99618
+    ],
+    "gssp": true,
+    "scriptLoader": []
+}
