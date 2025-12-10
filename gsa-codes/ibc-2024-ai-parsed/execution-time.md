@@ -1,3 +1,5 @@
+- chap 2 2042s
+- chap 3 171s
 - chap 4 1042s
 - chap 5 215s
 - chap 6 84s
