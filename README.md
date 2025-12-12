@@ -22,11 +22,14 @@ The most critical step, Stage 3, utilizes Large Language Models (LLMs) to enrich
 | :--- | :--- | :--- | :--- |
 | **`section`** | The top-level section title (e.g., *Section 202 Definitions*). | Text | High-level rule categorization. |
 | **`reference`** | The specific numerical or alphabetical reference (e.g., `2.202.1`). | Text | Hierarchical rule addressing. |
+| **`display_title`** | The title of the current sub-section or rule. | Text | Local context and identification. |
+| **`depth`** | The hierarchical nesting level of the rule (0 is highest). | Integer | Determines rule priority/specificity. |
 | **`body`** | The cleaned, plain-text content of the rule. | Text | The searchable rule text. |
 | **`ifc_type`** | The relevant IFC elements (e.g., `Wall`, `Slab`, `Door`). | List | Filters rules based on BIM element type. |
 | **`occupancy`** | Applicable IBC Occupancy Groups (e.g., `Assembly (A)`, `Residential (R)`). | List | Filters rules based on project occupancy. |
 | **`design_phase`** | When the rule is addressed (e.g., `concept`, `cd`). | List | Filters rules based on project status. |
-| **`code_category`** | Primary code domain (e.g., `means_of_egress`, `structural_design`). | Single Value | Topic-based rule classification. |
+| **`code_category`** | Primary code domain (e.g., `means_of_egress`). | Single Value | Topic-based rule classification. |
+| **`primary_responsibility`** | The discipline responsible for compliance (e.g., `architect`, `structural_engineer`). | Single Value | Assigning compliance ownership. |
 
 The final output also includes a **`call_id`** field, which is an MD5 hash of the rule body, crucial for deduplication and consistent indexing across different code versions.
 
