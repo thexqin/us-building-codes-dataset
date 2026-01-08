@@ -1,0 +1,645 @@
+{
+    "props": {
+        "pageProps": {
+            "missingRequiredLogin": false,
+            "title": "Chapter 28 Mechanical Systems: California Building Code 2025 (Vol 1 & 2)  | UpCodes",
+            "leanChapterViewerData": {
+                "basePubName": "International Building Code 2024 (IBC 2024)",
+                "codeGroupingYear": "2025",
+                "codeName": "California Building Code 2025 (Vol 1 & 2) ",
+                "codeUuid": "0a50629a-1cc9-40c6-9064-5c666c9dc6ea",
+                "codeVersions": [
+                    {
+                        "codeUuid": "0a50629a-1cc9-40c6-9064-5c666c9dc6ea",
+                        "name": "Original Adoption",
+                        "effectiveStartDate": "2026-01-01",
+                        "shortformUrlName": "ca-building-code-2025",
+                        "activeStatus": "active"
+                    }
+                ],
+                "ingesterAmendmentsEnabled": false,
+                "ingesterCodeUnitsEnabled": false,
+                "isAmendStylingEnabled": false,
+                "isCorrespondable": true,
+                "jurisKey": "california",
+                "jurisName": "California",
+                "metaInfoUrl": "/viewer/california/ca-building-code-2025",
+                "modelCodeUrl": null,
+                "placeholder": "Search California Building Code 2025 (Vol 1 & 2) ",
+                "pubKey": "california_building_code_2025",
+                "pubPrefix": "int_building_code",
+                "shortformPubName": "ca-building-code-2025",
+                "withAmendments": true,
+                "chapterRef": "28",
+                "publisher": "icc",
+                "hasLinkedResources": false,
+                "initialNonChapterTocLines": [
+                    {
+                        "amendType": null,
+                        "children": [
+                            {
+                                "amendType": null,
+                                "children": [],
+                                "depth": 2,
+                                "displayTitle": "2801.1 Scope",
+                                "hasExpanderArrow": false,
+                                "href": "#2801.1",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "reference": "2801.1"
+                            }
+                        ],
+                        "depth": 1,
+                        "displayTitle": "2801 General",
+                        "hasExpanderArrow": true,
+                        "href": "#2801",
+                        "isCodeDivider": false,
+                        "isCodeDividerClickable": false,
+                        "reference": "2801"
+                    },
+                    {
+                        "amendType": null,
+                        "children": [
+                            {
+                                "amendType": null,
+                                "children": [],
+                                "depth": 2,
+                                "displayTitle": "2802.1 <i>Spark Arrestor</i>",
+                                "hasExpanderArrow": false,
+                                "href": "#2802.1",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "reference": "2802.1"
+                            }
+                        ],
+                        "depth": 1,
+                        "displayTitle": "2802 <i>Spark Arrestor [SFM]</i>",
+                        "hasExpanderArrow": true,
+                        "href": "#2802",
+                        "isCodeDivider": false,
+                        "isCodeDividerClickable": false,
+                        "reference": "2802"
+                    }
+                ],
+                "title": "Chapter 28 Mechanical Systems: California Building Code 2025 (Vol 1 & 2)  | UpCodes",
+                "leanChapterLines": [
+                    {
+                        "displayTitle": "Chapter 1 <i>Administration</i>",
+                        "isExpandable": true,
+                        "reference": "1",
+                        "slug": "administration"
+                    },
+                    {
+                        "displayTitle": "Chapter 2 Definitions",
+                        "isExpandable": true,
+                        "reference": "2",
+                        "slug": "definitions"
+                    },
+                    {
+                        "displayTitle": "Chapter 3 Occupancy Classification and Use",
+                        "isExpandable": true,
+                        "reference": "3",
+                        "slug": "occupancy-classification-and-use"
+                    },
+                    {
+                        "displayTitle": "Chapter 4 Special Detailed Requirements Based on Occupancy and Use",
+                        "isExpandable": true,
+                        "reference": "4",
+                        "slug": "special-detailed-requirements-based-on-occupancy-and-use"
+                    },
+                    {
+                        "displayTitle": "Chapter 5 General Building Heights and Areas",
+                        "isExpandable": true,
+                        "reference": "5",
+                        "slug": "general-building-heights-and-areas"
+                    },
+                    {
+                        "displayTitle": "Chapter 6 Types of Construction",
+                        "isExpandable": true,
+                        "reference": "6",
+                        "slug": "types-of-construction"
+                    },
+                    {
+                        "displayTitle": "Chapter 7 Fire and Smoke Protection Features",
+                        "isExpandable": true,
+                        "reference": "7",
+                        "slug": "fire-and-smoke-protection-features"
+                    },
+                    {
+                        "displayTitle": "Chapter 7A <i>Materials and Construction Methods for Exterior Wildfire Exposure</i>",
+                        "reference": "7A",
+                        "slug": "materials-and-construction-methods-for-exterior-wildfire-exposure"
+                    },
+                    {
+                        "displayTitle": "Chapter 8 Interior Finishes",
+                        "isExpandable": true,
+                        "reference": "8",
+                        "slug": "interior-finishes"
+                    },
+                    {
+                        "displayTitle": "Chapter 9 Fire Protection and Life Safety Systems",
+                        "isExpandable": true,
+                        "reference": "9",
+                        "slug": "fire-protection-and-life-safety-systems"
+                    },
+                    {
+                        "displayTitle": "Chapter 10 Means of Egress",
+                        "isExpandable": true,
+                        "reference": "10",
+                        "slug": "means-of-egress"
+                    },
+                    {
+                        "displayTitle": "Chapter 11 <i>Reserved</i>",
+                        "reference": "11",
+                        "slug": "reserved"
+                    },
+                    {
+                        "displayTitle": "Chapter 11A <i>Housing Accessibility</i>",
+                        "isExpandable": true,
+                        "reference": "11A",
+                        "slug": "housing-accessibility"
+                    },
+                    {
+                        "displayTitle": "Chapter 11B Accessibility to Public Buildings, Public Accommodations, Commercial Buildings and Public Housing",
+                        "isExpandable": true,
+                        "reference": "11B",
+                        "slug": "accessibility-to-public-buildings-public-accommodations-commercial-buildings-and"
+                    },
+                    {
+                        "displayTitle": "Chapter 12 Interior Environment",
+                        "isExpandable": true,
+                        "reference": "12",
+                        "slug": "interior-environment"
+                    },
+                    {
+                        "displayTitle": "Chapter 13 Energy Efficiency",
+                        "reference": "13",
+                        "slug": "energy-efficiency"
+                    },
+                    {
+                        "displayTitle": "Chapter 14 Exterior Walls",
+                        "isExpandable": true,
+                        "reference": "14",
+                        "slug": "exterior-walls"
+                    },
+                    {
+                        "displayTitle": "Chapter 15 Roof Assemblies and Rooftop Structures",
+                        "isExpandable": true,
+                        "reference": "15",
+                        "slug": "roof-assemblies-and-rooftop-structures"
+                    },
+                    {
+                        "displayTitle": "Chapter 16 Structural Design",
+                        "isExpandable": true,
+                        "reference": "16",
+                        "slug": "structural-design"
+                    },
+                    {
+                        "displayTitle": "Chapter 16A Structural Design",
+                        "isExpandable": true,
+                        "reference": "16A",
+                        "slug": "structural-design"
+                    },
+                    {
+                        "displayTitle": "Chapter 17 Special Inspections and Tests",
+                        "isExpandable": true,
+                        "reference": "17",
+                        "slug": "special-inspections-and-tests"
+                    },
+                    {
+                        "displayTitle": "Chapter 17A Special Inspections and Tests",
+                        "isExpandable": true,
+                        "reference": "17A",
+                        "slug": "special-inspections-and-tests"
+                    },
+                    {
+                        "displayTitle": "Chapter 18 Soils and Foundations",
+                        "isExpandable": true,
+                        "reference": "18",
+                        "slug": "soils-and-foundations"
+                    },
+                    {
+                        "displayTitle": "Chapter 18A Soils and Foundations",
+                        "isExpandable": true,
+                        "reference": "18A",
+                        "slug": "soils-and-foundations"
+                    },
+                    {
+                        "displayTitle": "Chapter 19 Concrete",
+                        "isExpandable": true,
+                        "reference": "19",
+                        "slug": "concrete"
+                    },
+                    {
+                        "displayTitle": "Chapter 19A Concrete",
+                        "isExpandable": true,
+                        "reference": "19A",
+                        "slug": "concrete"
+                    },
+                    {
+                        "displayTitle": "Chapter 20 Aluminum",
+                        "isExpandable": true,
+                        "reference": "20",
+                        "slug": "aluminum"
+                    },
+                    {
+                        "displayTitle": "Chapter 21 Masonry",
+                        "isExpandable": true,
+                        "reference": "21",
+                        "slug": "masonry"
+                    },
+                    {
+                        "displayTitle": "Chapter 21A Masonry",
+                        "isExpandable": true,
+                        "reference": "21A",
+                        "slug": "masonry"
+                    },
+                    {
+                        "displayTitle": "Chapter 22 Steel",
+                        "isExpandable": true,
+                        "reference": "22",
+                        "slug": "steel"
+                    },
+                    {
+                        "displayTitle": "Chapter 22A Steel",
+                        "isExpandable": true,
+                        "reference": "22A",
+                        "slug": "steel"
+                    },
+                    {
+                        "displayTitle": "Chapter 23 Wood",
+                        "isExpandable": true,
+                        "reference": "23",
+                        "slug": "wood"
+                    },
+                    {
+                        "displayTitle": "Chapter 24 Glass and Glazing",
+                        "isExpandable": true,
+                        "reference": "24",
+                        "slug": "glass-and-glazing"
+                    },
+                    {
+                        "displayTitle": "Chapter 25 Gypsum Panel Products and Plaster",
+                        "isExpandable": true,
+                        "reference": "25",
+                        "slug": "gypsum-panel-products-and-plaster"
+                    },
+                    {
+                        "displayTitle": "Chapter 26 Plastic",
+                        "isExpandable": true,
+                        "reference": "26",
+                        "slug": "plastic"
+                    },
+                    {
+                        "displayTitle": "Chapter 27 Electrical",
+                        "isExpandable": true,
+                        "reference": "27",
+                        "slug": "electrical"
+                    },
+                    {
+                        "displayTitle": "Chapter 28 Mechanical Systems",
+                        "isExpandable": true,
+                        "reference": "28",
+                        "slug": "mechanical-systems"
+                    },
+                    {
+                        "displayTitle": "Chapter 29 Plumbing Systems",
+                        "reference": "29",
+                        "slug": "plumbing-systems"
+                    },
+                    {
+                        "displayTitle": "Chapter 30 Elevators and Conveying Systems",
+                        "isExpandable": true,
+                        "reference": "30",
+                        "slug": "elevators-and-conveying-systems"
+                    },
+                    {
+                        "displayTitle": "Chapter 31 Special Construction",
+                        "isExpandable": true,
+                        "reference": "31",
+                        "slug": "special-construction"
+                    },
+                    {
+                        "displayTitle": "Chapter 31A <i>Systems for Window Cleaning or Exterior Building Maintenance</i>",
+                        "reference": "31A",
+                        "slug": "systems-for-window-cleaning-or-exterior-building-maintenance"
+                    },
+                    {
+                        "displayTitle": "Chapter 31B [DPH] Public Pools",
+                        "isExpandable": true,
+                        "reference": "31B",
+                        "slug": "dph-public-pools"
+                    },
+                    {
+                        "displayTitle": "Chapter 31C [DPH] Radiation",
+                        "isExpandable": true,
+                        "reference": "31C",
+                        "slug": "dph-radiation"
+                    },
+                    {
+                        "displayTitle": "Chapter 31D [DPH] Food Establishments",
+                        "isExpandable": true,
+                        "reference": "31D",
+                        "slug": "dph-food-establishments"
+                    },
+                    {
+                        "displayTitle": "Chapter 31E [DPH]",
+                        "reference": "31E",
+                        "slug": "dph"
+                    },
+                    {
+                        "displayTitle": "Chapter 31F <i>[SLC] Marine Oil Terminals</i>",
+                        "isExpandable": true,
+                        "reference": "31F",
+                        "slug": "slc-marine-oil-terminals"
+                    },
+                    {
+                        "displayTitle": "Chapter 32 Encroachments Into the Public Right-of-Way",
+                        "isExpandable": true,
+                        "reference": "32",
+                        "slug": "encroachments-into-the-public-right-of-way"
+                    },
+                    {
+                        "displayTitle": "Chapter 33 Safeguards During Construction",
+                        "isExpandable": true,
+                        "reference": "33",
+                        "slug": "safeguards-during-construction"
+                    },
+                    {
+                        "displayTitle": "Chapter 34 Reserved",
+                        "reference": "34",
+                        "slug": "reserved"
+                    },
+                    {
+                        "displayTitle": "Chapter 35 Referenced Standards",
+                        "reference": "35",
+                        "slug": "referenced-standards"
+                    },
+                    {
+                        "disabled": true,
+                        "displayTitle": "Appendix A Employee Qualifications",
+                        "reference": "A",
+                        "slug": "employee-qualifications"
+                    },
+                    {
+                        "disabled": true,
+                        "displayTitle": "Appendix B Board of Appeals",
+                        "reference": "B",
+                        "slug": "board-of-appeals"
+                    },
+                    {
+                        "disabled": true,
+                        "displayTitle": "Appendix C Group U Agricultural Buildings",
+                        "reference": "C",
+                        "slug": "group-u-agricultural-buildings"
+                    },
+                    {
+                        "disabled": true,
+                        "displayTitle": "Appendix D Fire Districts",
+                        "reference": "D",
+                        "slug": "fire-districts"
+                    },
+                    {
+                        "disabled": true,
+                        "displayTitle": "Appendix E <i>Reserved</i>",
+                        "reference": "E",
+                        "slug": "reserved"
+                    },
+                    {
+                        "disabled": true,
+                        "displayTitle": "Appendix F Rodentproofing",
+                        "reference": "F",
+                        "slug": "rodentproofing"
+                    },
+                    {
+                        "disabled": true,
+                        "displayTitle": "Appendix G Flood-Resistant Construction",
+                        "reference": "G",
+                        "slug": "flood-resistant-construction"
+                    },
+                    {
+                        "disabled": true,
+                        "displayTitle": "Appendix H Signs",
+                        "reference": "H",
+                        "slug": "signs"
+                    },
+                    {
+                        "displayTitle": "Appendix I Patio Covers",
+                        "isExpandable": true,
+                        "reference": "I",
+                        "slug": "patio-covers"
+                    },
+                    {
+                        "displayTitle": "Appendix J Grading",
+                        "isExpandable": true,
+                        "reference": "J",
+                        "slug": "grading"
+                    },
+                    {
+                        "displayTitle": "Appendix K <i>Group R-3 and Group R-3.1 Occupancies Protected by the Facilities of the Central Valley Flood Protection Plan</i>",
+                        "isExpandable": true,
+                        "reference": "K",
+                        "slug": "group-r-3-and-group-r-3-1-occupancies-protected-by-the-facilities-of-the-central"
+                    },
+                    {
+                        "displayTitle": "Appendix L Earthquake Recording Instrumentation",
+                        "isExpandable": true,
+                        "reference": "L",
+                        "slug": "earthquake-recording-instrumentation"
+                    },
+                    {
+                        "disabled": true,
+                        "displayTitle": "Appendix M Tsunami-Generated Flood Hazards",
+                        "reference": "M",
+                        "slug": "tsunami-generated-flood-hazards"
+                    },
+                    {
+                        "disabled": true,
+                        "displayTitle": "Appendix N Replicable Buildings",
+                        "reference": "N",
+                        "slug": "replicable-buildings"
+                    },
+                    {
+                        "disabled": true,
+                        "displayTitle": "[A] Appendix O Performance-Based Application",
+                        "reference": "O",
+                        "slug": "performance-based-application"
+                    },
+                    {
+                        "displayTitle": "Appendix P Sleeping Lofts",
+                        "isExpandable": true,
+                        "reference": "P",
+                        "slug": "sleeping-lofts"
+                    },
+                    {
+                        "displayTitle": "Appendix Q <i>Emergency Housing</i>",
+                        "isExpandable": true,
+                        "reference": "Q",
+                        "slug": "emergency-housing"
+                    },
+                    {
+                        "displayTitle": "History Note Appendix",
+                        "reference": "history_note_appendix_",
+                        "slug": "history-note-appendix"
+                    }
+                ],
+                "leanCodeSectionsTree": [
+                    {
+                        "ancestorRefs": [],
+                        "body": "<figure>\n<figcaption>\n<div class=\"u-mt-3 u-mb-3\"><span class=\"u-font-bold\">CALIFORNIA BUILDING CODE \u2014 MATRIX ADOPTION <a class=\"autolink\" href=\"/viewer/california/ca-building-code-2025/chapter/11B/accessibility-to-public-buildings-public-accommodations-commercial-buildings-and#table\">TABLE</a> <br/>CHAPTER 28 \u2014 MECHANICAL SYSTEMS</span></div>\n<div class=\"u-mb-3 u-mt-3 u-text-center\">(Matrix Adoption <a class=\"autolink\" href=\"/viewer/california/ca-building-code-2025/chapter/11B/accessibility-to-public-buildings-public-accommodations-commercial-buildings-and#table\">Tables</a> are nonregulatory, intended only as an aid to the code user. <br/>See <a class=\"autolink\" href=\"/viewer/california/ca-building-code-2025/chapter/1/administration#1\">Chapter 1</a> for state agency authority and building <a class=\"autolink\" href=\"/viewer/california/ca-building-code-2025/chapter/25/gypsum-panel-products-and-plaster#2501.1.1\">applications</a>.)</div>\n</figcaption>\n<table class=\"uc_all_borders\">\n<thead>\n<tr>\n<th class=\"u-align-middle u-bg-gray-200 u-text-left\" rowspan=\"2\">Adopting agency</th>\n<th class=\"u-align-middle u-bg-gray-200 u-text-center uc_all_borders\" rowspan=\"2\"><span class=\"u-font-bold\">BSC</span></th>\n<th class=\"u-align-middle u-bg-gray-200 u-text-center uc_all_borders\" rowspan=\"2\"><span class=\"u-font-bold\">BSC-</span>\n<div><span class=\"u-font-bold\">CG</span></div>\n</th>\n<th class=\"u-align-middle u-bg-gray-200 u-text-center uc_all_borders\" rowspan=\"2\"><span class=\"u-font-bold\">SFM</span></th>\n<th class=\"u-align-middle u-bg-gray-200 u-text-center uc_all_borders\" colspan=\"3\"><span class=\"u-font-bold\">HCD</span></th>\n<th class=\"u-align-middle u-bg-gray-200 u-text-center uc_all_borders\" colspan=\"3\"><span class=\"u-font-bold\">DSA</span></th>\n<th class=\"u-align-middle u-bg-gray-200 u-text-center uc_all_borders\" colspan=\"7\"><span class=\"u-font-bold\">OSHPD</span></th>\n<th class=\"u-align-middle u-bg-gray-200 u-text-center uc_all_borders\" rowspan=\"2\"><span class=\"u-font-bold\">BSCC</span></th>\n<th class=\"u-align-middle u-bg-gray-200 u-text-center uc_all_borders\" rowspan=\"2\"><span class=\"u-font-bold\">DPH</span></th>\n<th class=\"u-align-middle u-bg-gray-200 u-text-center uc_all_borders\" rowspan=\"2\"><span class=\"u-font-bold\">AGR</span></th>\n<th class=\"u-align-middle u-bg-gray-200 u-text-center uc_all_borders\" rowspan=\"2\"><span class=\"u-font-bold\">DWR</span></th>\n<th class=\"u-align-middle u-bg-gray-200 u-text-center uc_all_borders\" rowspan=\"2\"><span class=\"u-font-bold\">CEC</span></th>\n<th class=\"u-align-middle u-bg-gray-200 u-text-center uc_all_borders\" rowspan=\"2\"><span class=\"u-font-bold\">CA</span></th>\n<th class=\"u-align-middle u-bg-gray-200 u-text-center uc_all_borders\" rowspan=\"2\"><span class=\"u-font-bold\">SL</span></th>\n<th class=\"u-align-middle u-bg-gray-200 u-text-center uc_all_borders\" rowspan=\"2\"><span class=\"u-font-bold\">SLC</span></th>\n</tr>\n<tr>\n<th class=\"u-align-middle u-bg-gray-200 u-text-center\"><span class=\"u-font-bold\">1</span></th>\n<th class=\"u-align-middle u-bg-gray-200 u-text-center\"><span class=\"u-font-bold\">2</span></th>\n<th class=\"u-align-middle u-bg-gray-200 u-text-center\"><span class=\"u-font-bold\">1/AC</span></th>\n<th class=\"u-align-middle u-bg-gray-200 u-text-center\"><span class=\"u-font-bold\">AC</span></th>\n<th class=\"u-align-middle u-bg-gray-200 u-text-center\"><span class=\"u-font-bold\">SS</span></th>\n<th class=\"u-align-middle u-bg-gray-200 u-text-center\"><span class=\"u-font-bold\">SS/CC</span></th>\n<th class=\"u-align-middle u-bg-gray-200 u-text-center\"><span class=\"u-font-bold\">1</span></th>\n<th class=\"u-align-middle u-bg-gray-200 u-text-center\"><span class=\"u-font-bold\">1R</span></th>\n<th class=\"u-align-middle u-bg-gray-200 u-text-center\"><span class=\"u-font-bold\">2</span></th>\n<th class=\"u-align-middle u-bg-gray-200 u-text-center\"><span class=\"u-font-bold\">3</span></th>\n<th class=\"u-align-middle u-bg-gray-200 u-text-center\"><span class=\"u-font-bold\">4</span></th>\n<th class=\"u-align-middle u-bg-gray-200 u-text-center\"><span class=\"u-font-bold\">5</span></th>\n<th class=\"u-align-middle u-bg-gray-200 u-text-center\"><span class=\"u-font-bold\">6</span></th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td class=\"u-align-middle u-text-left uc_all_borders\">Adopt entire chapter</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n</tr>\n<tr>\n<td class=\"u-align-middle u-text-left uc_all_borders\">Adopt entire chapter as amended (amended sections listed below)</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\"><span class=\"u-font-bold\">X</span></td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n</tr>\n<tr>\n<td class=\"u-align-middle u-text-left uc_all_borders\">Adopt only those sections that are listed below</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n</tr>\n<tr>\n<td class=\"u-align-middle u-text-left uc_all_borders\">Chapter / Section</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n</tr>\n<tr>\n<td class=\"u-align-middle u-text-left uc_all_borders\"><i>2802</i></td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">X</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n</tr>\n</tbody>\n</table>\n<div>\n<div class=\"u-text-12px u-mt-3 u-mb-3\">The state agency does not adopt sections identified with the following symbol: \u2020</div>\n<div class=\"u-text-12px u-mt-3 u-mb-3\">The Office of the State Fire Marshal's adoption of this chapter or individual sections is applicable to structures regulated by other state agencies pursuant to <a class=\"autolink\" href=\"/viewer/california/ca-building-code-2025/chapter/1/administration#1.11\">Section 1.11</a>.</div>\n</div>\n</figure>\n<div class=\"u-mt-4\">\n<div class=\"u-font-bold u-mt-3 u-mb-3\"><i>User notes:</i></div>\n<div class=\"u-mt-3 u-mb-3\"><i><b>About this chapter:</b> Mechanical systems are a key <a class=\"autolink\" href=\"/viewer/california/ca-building-code-2025/chapter/2/definitions#element_dsa_ac_\">element</a> of any building. Chapter 28 regulates such systems by linking to the <a class=\"autolink\" href=\"/viewer/california/ca-mechanical-code-2025\">California Mechanical Code</a> and California Plumbing Code, where details of mechanical system requirements are provided.</i></div>\n</div>",
+                        "depth": 0,
+                        "diagrams": [],
+                        "displayRef": null,
+                        "displayTitle": "Chapter 28 Mechanical Systems",
+                        "divisionType": "Chapter",
+                        "hasAssemblies": false,
+                        "isContiguous": true,
+                        "numAssembliesOnRef": 0,
+                        "numBuildingProductsOnRef": 0,
+                        "numDiagramsOnRef": 0,
+                        "reference": "28",
+                        "slug": "mechanical-systems",
+                        "titleText": "Mechanical Systems",
+                        "children": [
+                            {
+                                "ancestorRefs": [
+                                    "28"
+                                ],
+                                "depth": 1,
+                                "diagrams": [],
+                                "displayRef": null,
+                                "displayTitle": "Section 2801 General",
+                                "divisionType": "Section",
+                                "hasAssemblies": false,
+                                "isContiguous": true,
+                                "numAssembliesOnRef": 0,
+                                "numBuildingProductsOnRef": 0,
+                                "numDiagramsOnRef": 0,
+                                "reference": "2801",
+                                "slug": "mechanical-systems",
+                                "titleText": "General",
+                                "children": [
+                                    {
+                                        "ancestorRefs": [
+                                            "28",
+                                            "2801"
+                                        ],
+                                        "body": "The provisions of this chapter, the <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/california/ca-mechanical-code-2025\">California Mechanical Code</a></span> and the <span class=\"u-italic\">California Plumbing Code</span> shall govern the <a class=\"autolink\" href=\"/viewer/california/ca-building-code-2025/chapter/22A/steel#2210A.1.1\">design</a>, <a class=\"autolink\" href=\"/viewer/california/ca-building-code-2025/chapter/4/special-detailed-requirements-based-on-occupancy-and-use#407.1.1\">construction</a>, erection and <a class=\"autolink\" href=\"/viewer/california/ca-building-code-2025/chapter/27/electrical#2702.1.3\">installation</a> of mechanical appliances, <a class=\"autolink\" href=\"/viewer/california/ca-building-code-2025/chapter/2/definitions#equipment_dsa_ss_dsa_ss_cc_oshpd_1_2_4_5_\">equipment</a> and systems used in buildings and structures covered by this code. <a class=\"autolink\" href=\"/viewer/california/ca-building-code-2025/chapter/7/fire-and-smoke-protection-features#712.1.8\">Masonry chimneys</a>, <a class=\"autolink\" href=\"/viewer/california/ca-building-code-2025/chapter/2/definitions#fireplace_\">fireplaces</a> and barbecues shall comply with the <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/california/ca-mechanical-code-2025\">California Mechanical Code</a></span> and <a class=\"autolink\" href=\"/viewer/california/ca-building-code-2025/chapter/21/masonry#21\">Chapter 21</a> of this code. The <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/california/ca-fire-code-2025\">California Fire Code</a></span>, the <span class=\"u-italic\">International Property <a class=\"autolink\" href=\"/viewer/california/ca-building-code-2025/chapter/L/earthquake-recording-instrumentation#L101.3\">Maintenance</a> Code</span>, the <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/california/ca-mechanical-code-2025\">California Mechanical Code</a></span> and the <span class=\"u-italic\">California Plumbing Code</span> shall govern the use and <a class=\"autolink\" href=\"/viewer/california/ca-building-code-2025/chapter/L/earthquake-recording-instrumentation#L101.3\">maintenance</a> of mechanical components, appliances, <a class=\"autolink\" href=\"/viewer/california/ca-building-code-2025/chapter/2/definitions#equipment_dsa_ss_dsa_ss_cc_oshpd_1_2_4_5_\">equipment</a> and systems. The <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/california/ca-existing-building-code-2025\">California Existing Building Code</a></span>, the <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/california/ca-mechanical-code-2025\">California Mechanical Code</a></span> and the <span class=\"u-italic\">California Plumbing Code</span> shall govern the <a class=\"autolink\" href=\"/viewer/california/ca-building-code-2025/chapter/2/definitions#alteration_\">alteration</a>, <a class=\"autolink\" href=\"/viewer/california/ca-building-code-2025/chapter/2/definitions#repair_\">repair</a>, relocation, replacement and <a class=\"autolink\" href=\"/viewer/california/ca-building-code-2025/chapter/2/definitions#addition_\">addition</a> of mechanical components, appliances, <a class=\"autolink\" href=\"/viewer/california/ca-building-code-2025/chapter/2/definitions#equipment_dsa_ss_dsa_ss_cc_oshpd_1_2_4_5_\">equipment</a> and systems.",
+                                        "depth": 2,
+                                        "diagrams": [
+                                            {
+                                                "key": "breathing_zone",
+                                                "title": "Breathing Zone",
+                                                "descriptionHtml": "",
+                                                "topics": [
+                                                    "Definition",
+                                                    "Mechanical"
+                                                ],
+                                                "phases": [
+                                                    "Construction Docs"
+                                                ],
+                                                "supressesChildrenAssociations": false,
+                                                "blacklistJurisdictions": [],
+                                                "whitelistJurisdictions": [],
+                                                "imageType": "svg"
+                                            },
+                                            {
+                                                "key": "ducts_weather_protection",
+                                                "title": "Weather Protection of Ducts",
+                                                "descriptionHtml": "<div>Exterior ducts including  linings, insulation, coverings and vibration isolation are required to be protected from the elements.  If the exterior duct is insulated the duct's protection against the elements must be an approved weatherproof barrier.</div>",
+                                                "topics": [
+                                                    "Mechanical",
+                                                    "Example",
+                                                    "Exterior"
+                                                ],
+                                                "phases": [
+                                                    "Construction Docs"
+                                                ],
+                                                "supressesChildrenAssociations": false,
+                                                "blacklistJurisdictions": [],
+                                                "whitelistJurisdictions": [],
+                                                "imageType": "svg"
+                                            }
+                                        ],
+                                        "displayRef": null,
+                                        "displayTitle": "[M]  2801.1 Scope",
+                                        "hasAssemblies": false,
+                                        "hasDiagrams": true,
+                                        "hasDiagramsOnRef": true,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 0,
+                                        "numDiagramsOnRef": 2,
+                                        "reference": "2801.1",
+                                        "refPrefix": "[M]",
+                                        "slug": "mechanical-systems",
+                                        "titleText": "Scope",
+                                        "children": []
+                                    }
+                                ]
+                            },
+                            {
+                                "ancestorRefs": [
+                                    "28"
+                                ],
+                                "depth": 1,
+                                "diagrams": [],
+                                "displayRef": null,
+                                "displayTitle": "Section 2802 <i>Spark Arrestor [SFM]</i>",
+                                "divisionType": "Section",
+                                "hasAssemblies": false,
+                                "isContiguous": true,
+                                "numAssembliesOnRef": 0,
+                                "numBuildingProductsOnRef": 0,
+                                "numDiagramsOnRef": 0,
+                                "reference": "2802",
+                                "slug": "mechanical-systems",
+                                "titleText": "<i>Spark Arrestor [SFM]</i>",
+                                "children": [
+                                    {
+                                        "ancestorRefs": [
+                                            "28",
+                                            "2802"
+                                        ],
+                                        "body": "<div><i><b>[SFM]</b> All <a class=\"autolink\" href=\"/viewer/california/ca-building-code-2025/chapter/2/definitions#chimney_\">chimneys</a> attached to any appliance or <a class=\"autolink\" href=\"/viewer/california/ca-building-code-2025/chapter/2/definitions#fireplace_\">fireplace</a> that burns <a class=\"autolink\" href=\"/viewer/california/ca-building-code-2025/chapter/2/definitions#solid_\">solid</a> fuel shall be equipped with an <a class=\"autolink\" href=\"/viewer/california/ca-building-code-2025/chapter/11B/accessibility-to-public-buildings-public-accommodations-commercial-buildings-and#approved\">approved</a> spark arrester. The spark arrestor shall meet all of the following requirements:</i></div>\n<ol>\n<li class=\"u-italic\">The net free area of the spark arrestor shall be not less than four times the net free area of the outlet of the <a class=\"autolink\" href=\"/viewer/california/ca-building-code-2025/chapter/2/definitions#chimney_\">chimney</a>.</li>\n<li class=\"u-italic\">The spark arrestor screen shall have heat and <a class=\"autolink\" href=\"/viewer/california/ca-building-code-2025/chapter/2/definitions#corrosion_resistance_\">corrosion resistance</a> equivalent to 19-gage galvanized steel or 24-gage stainless steel.</li>\n<li class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/california/ca-building-code-2025/chapter/7/fire-and-smoke-protection-features#712.1.13\">Openings</a> shall not <a class=\"autolink\" href=\"/viewer/california/ca-building-code-2025/chapter/2/definitions#permit_\">permit</a> the passage of spheres having a diameter larger than <sup>1</sup>/<sub>2 </sub>inch (12.7 mm) nor block the passage of spheres having a diameter of less than <sup>3</sup>/<sub>8 </sub>inch (9.5 mm).</li>\n<li class=\"u-italic\">The spark arrestor shall be accessible for cleaning and the screen or <a class=\"autolink\" href=\"/viewer/california/ca-building-code-2025/chapter/2/definitions#chimney_\">chimney</a> cap shall be removable to allow for cleaning of the <a class=\"autolink\" href=\"/viewer/california/ca-building-code-2025/chapter/2/definitions#chimney_\">chimney</a> flue.</li>\n</ol>",
+                                        "depth": 2,
+                                        "diagrams": [],
+                                        "displayRef": null,
+                                        "displayTitle": "2802.1 <i>Spark Arrestor</i>",
+                                        "hasAssemblies": false,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 0,
+                                        "numDiagramsOnRef": 0,
+                                        "reference": "2802.1",
+                                        "slug": "mechanical-systems",
+                                        "titleText": "<i>Spark Arrestor</i>",
+                                        "children": []
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            "chapterReference": "28"
+        },
+        "__N_SSP": true
+    },
+    "page": "/viewer/[urlFormPubOrJurisKey]/[urlFormPub]/chapter/[chapterRef]/[chapterName]",
+    "query": {
+        "urlFormPubOrJurisKey": "california",
+        "urlFormPub": "ca-building-code-2025",
+        "chapterRef": "28",
+        "chapterName": "mechanical-systems"
+    },
+    "buildId": "RZSwz8uFB9jvXr56FjNnx",
+    "isFallback": false,
+    "isExperimentalCompile": false,
+    "dynamicIds": [
+        61621,
+        54065
+    ],
+    "gssp": true,
+    "scriptLoader": []
+}

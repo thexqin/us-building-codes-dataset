@@ -1,0 +1,618 @@
+{
+    "props": {
+        "pageProps": {
+            "missingRequiredLogin": false,
+            "title": "Chapter 35 Electrical Definitions: Alaska AHFC Residential Code 2018 | UpCodes",
+            "leanChapterViewerData": {
+                "basePubName": "International Residential Code 2018 (IRC 2018)",
+                "codeGroupingYear": "2022",
+                "codeName": "Alaska AHFC Residential Code 2018",
+                "codeUuid": "e3fa4eda-38ba-4e34-b2fc-91e87f838034",
+                "codeVersions": [
+                    {
+                        "codeUuid": "e3fa4eda-38ba-4e34-b2fc-91e87f838034",
+                        "name": "Original Adoption",
+                        "effectiveStartDate": "2019-01-01",
+                        "shortformUrlName": "irc-2018",
+                        "activeStatus": "active"
+                    }
+                ],
+                "ingesterAmendmentsEnabled": false,
+                "ingesterCodeUnitsEnabled": false,
+                "isAmendStylingEnabled": true,
+                "isCorrespondable": true,
+                "jurisKey": "alaska",
+                "jurisName": "Alaska",
+                "metaInfoUrl": "/viewer/alaska/irc-2018",
+                "modelCodeUrl": null,
+                "placeholder": "Search Alaska AHFC Residential Code 2018",
+                "pubKey": "int_residential_code_2018",
+                "pubPrefix": "int_residential_code",
+                "shortformPubName": "irc-2018",
+                "withAmendments": true,
+                "chapterRef": "35",
+                "publisher": "icc",
+                "hasLinkedResources": false,
+                "initialNonChapterTocLines": [
+                    {
+                        "amendType": null,
+                        "children": [
+                            {
+                                "amendType": null,
+                                "children": [],
+                                "depth": 2,
+                                "displayTitle": "E3501.1 Scope",
+                                "hasExpanderArrow": false,
+                                "href": "#E3501.1",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "reference": "E3501.1"
+                            }
+                        ],
+                        "depth": 1,
+                        "displayTitle": "E3501 General",
+                        "hasExpanderArrow": true,
+                        "href": "#E3501",
+                        "isCodeDivider": false,
+                        "isCodeDividerClickable": false,
+                        "reference": "E3501"
+                    }
+                ],
+                "title": "Chapter 35 Electrical Definitions: Alaska AHFC Residential Code 2018 | UpCodes",
+                "leanChapterLines": [
+                    {
+                        "displayTitle": "Part I \u2014 Administrative",
+                        "isCodeDivider": true,
+                        "reference": "divider_I",
+                        "slug": "administrative"
+                    },
+                    {
+                        "displayTitle": "Chapter 1 Scope and Administration",
+                        "isExpandable": true,
+                        "reference": "1",
+                        "slug": "scope-and-administration"
+                    },
+                    {
+                        "displayTitle": "Part II \u2014 Definitions",
+                        "isCodeDivider": true,
+                        "reference": "divider_II",
+                        "slug": "definitions"
+                    },
+                    {
+                        "displayTitle": "Chapter 2 Definitions",
+                        "isExpandable": true,
+                        "reference": "2",
+                        "slug": "definitions"
+                    },
+                    {
+                        "displayTitle": "Part III \u2014 Building Planning and Construction",
+                        "isCodeDivider": true,
+                        "reference": "divider_III",
+                        "slug": "building-planning-and-construction"
+                    },
+                    {
+                        "displayTitle": "Chapter 3 Building Planning",
+                        "isExpandable": true,
+                        "reference": "3",
+                        "slug": "building-planning"
+                    },
+                    {
+                        "displayTitle": "Chapter 4 Foundations",
+                        "isExpandable": true,
+                        "reference": "4",
+                        "slug": "foundations"
+                    },
+                    {
+                        "displayTitle": "Chapter 5 Floors",
+                        "isExpandable": true,
+                        "reference": "5",
+                        "slug": "floors"
+                    },
+                    {
+                        "displayTitle": "Chapter 6 Wall Construction",
+                        "isExpandable": true,
+                        "reference": "6",
+                        "slug": "wall-construction"
+                    },
+                    {
+                        "displayTitle": "Chapter 7 Wall Covering",
+                        "isExpandable": true,
+                        "reference": "7",
+                        "slug": "wall-covering"
+                    },
+                    {
+                        "displayTitle": "Chapter 8 Roof-Ceiling Construction",
+                        "isExpandable": true,
+                        "reference": "8",
+                        "slug": "roof-ceiling-construction"
+                    },
+                    {
+                        "displayTitle": "Chapter 9 Roof Assemblies",
+                        "isExpandable": true,
+                        "reference": "9",
+                        "slug": "roof-assemblies"
+                    },
+                    {
+                        "displayTitle": "Chapter 10 Chimneys and Fireplaces",
+                        "isExpandable": true,
+                        "reference": "10",
+                        "slug": "chimneys-and-fireplaces"
+                    },
+                    {
+                        "displayTitle": "Part IV \u2014 Energy Conservation",
+                        "isCodeDivider": true,
+                        "reference": "divider_IV",
+                        "slug": "energy-conservation"
+                    },
+                    {
+                        "amendType": "deletion",
+                        "displayTitle": "Chapter <span class=\"code_deletion\">11</span> <span class=\"code_deletion\">[RE] Energy Efficiency</span>",
+                        "reference": "11",
+                        "slug": "re-energy-efficiency"
+                    },
+                    {
+                        "amendType": "addition",
+                        "displayTitle": "Chapter 11 Energy Efficiency",
+                        "reference": "new_11",
+                        "slug": "energy-efficiency"
+                    },
+                    {
+                        "displayTitle": "Part V \u2014 Mechanical",
+                        "isCodeDivider": true,
+                        "reference": "divider_V",
+                        "slug": "mechanical"
+                    },
+                    {
+                        "displayTitle": "Chapter 12 Mechanical Administration",
+                        "isExpandable": true,
+                        "reference": "12",
+                        "slug": "mechanical-administration"
+                    },
+                    {
+                        "displayTitle": "Chapter 13 General Mechanical System Requirements",
+                        "isExpandable": true,
+                        "reference": "13",
+                        "slug": "general-mechanical-system-requirements"
+                    },
+                    {
+                        "displayTitle": "Chapter 14 Heating and Cooling Equipment and Appliances",
+                        "isExpandable": true,
+                        "reference": "14",
+                        "slug": "heating-and-cooling-equipment-and-appliances"
+                    },
+                    {
+                        "displayTitle": "Chapter 15 Exhaust Systems",
+                        "isExpandable": true,
+                        "reference": "15",
+                        "slug": "exhaust-systems"
+                    },
+                    {
+                        "displayTitle": "Chapter 16 Duct Systems",
+                        "isExpandable": true,
+                        "reference": "16",
+                        "slug": "duct-systems"
+                    },
+                    {
+                        "displayTitle": "Chapter 17 Combustion Air",
+                        "isExpandable": true,
+                        "reference": "17",
+                        "slug": "combustion-air"
+                    },
+                    {
+                        "displayTitle": "Chapter 18 Chimneys and Vents",
+                        "isExpandable": true,
+                        "reference": "18",
+                        "slug": "chimneys-and-vents"
+                    },
+                    {
+                        "displayTitle": "Chapter 19 Special Appliances, Equipment and Systems",
+                        "isExpandable": true,
+                        "reference": "19",
+                        "slug": "special-appliances-equipment-and-systems"
+                    },
+                    {
+                        "displayTitle": "Chapter 20 Boilers and Water Heaters",
+                        "isExpandable": true,
+                        "reference": "20",
+                        "slug": "boilers-and-water-heaters"
+                    },
+                    {
+                        "displayTitle": "Chapter 21 Hydronic Piping",
+                        "isExpandable": true,
+                        "reference": "21",
+                        "slug": "hydronic-piping"
+                    },
+                    {
+                        "displayTitle": "Chapter 22 Special Piping and Storage Systems",
+                        "isExpandable": true,
+                        "reference": "22",
+                        "slug": "special-piping-and-storage-systems"
+                    },
+                    {
+                        "displayTitle": "Chapter 23 Solar Thermal Energy Systems",
+                        "isExpandable": true,
+                        "reference": "23",
+                        "slug": "solar-thermal-energy-systems"
+                    },
+                    {
+                        "displayTitle": "Part VI \u2014 Fuel Gas",
+                        "isCodeDivider": true,
+                        "reference": "divider_VI",
+                        "slug": "fuel-gas"
+                    },
+                    {
+                        "displayTitle": "Chapter 24 Fuel Gas",
+                        "isExpandable": true,
+                        "reference": "24",
+                        "slug": "fuel-gas"
+                    },
+                    {
+                        "displayTitle": "Part VII \u2014 Plumbing",
+                        "isCodeDivider": true,
+                        "reference": "divider_VII",
+                        "slug": "plumbing"
+                    },
+                    {
+                        "displayTitle": "Chapter 25 Plumbing Administration",
+                        "isExpandable": true,
+                        "reference": "25",
+                        "slug": "plumbing-administration"
+                    },
+                    {
+                        "displayTitle": "Chapter 26 General Plumbing Requirements",
+                        "isExpandable": true,
+                        "reference": "26",
+                        "slug": "general-plumbing-requirements"
+                    },
+                    {
+                        "displayTitle": "Chapter 27 Plumbing Fixtures",
+                        "isExpandable": true,
+                        "reference": "27",
+                        "slug": "plumbing-fixtures"
+                    },
+                    {
+                        "displayTitle": "Chapter 28 Water Heaters",
+                        "isExpandable": true,
+                        "reference": "28",
+                        "slug": "water-heaters"
+                    },
+                    {
+                        "displayTitle": "Chapter 29 Water Supply and Distribution",
+                        "isExpandable": true,
+                        "reference": "29",
+                        "slug": "water-supply-and-distribution"
+                    },
+                    {
+                        "displayTitle": "Chapter 30 Sanitary Drainage",
+                        "isExpandable": true,
+                        "reference": "30",
+                        "slug": "sanitary-drainage"
+                    },
+                    {
+                        "displayTitle": "Chapter 31 Vents",
+                        "isExpandable": true,
+                        "reference": "31",
+                        "slug": "vents"
+                    },
+                    {
+                        "displayTitle": "Chapter 32 Traps",
+                        "isExpandable": true,
+                        "reference": "32",
+                        "slug": "traps"
+                    },
+                    {
+                        "displayTitle": "Chapter 33 Storm Drainage",
+                        "isExpandable": true,
+                        "reference": "33",
+                        "slug": "storm-drainage"
+                    },
+                    {
+                        "displayTitle": "Part VIII \u2014 Electrical",
+                        "isCodeDivider": true,
+                        "reference": "divider_VIII",
+                        "slug": "electrical"
+                    },
+                    {
+                        "displayTitle": "Chapter 34 General Requirements",
+                        "isExpandable": true,
+                        "reference": "34",
+                        "slug": "general-requirements"
+                    },
+                    {
+                        "displayTitle": "Chapter 35 Electrical Definitions",
+                        "isExpandable": true,
+                        "reference": "35",
+                        "slug": "electrical-definitions"
+                    },
+                    {
+                        "displayTitle": "Chapter 36 Services",
+                        "isExpandable": true,
+                        "reference": "36",
+                        "slug": "services"
+                    },
+                    {
+                        "displayTitle": "Chapter 37 Branch Circuit and Feeder Requirements",
+                        "isExpandable": true,
+                        "reference": "37",
+                        "slug": "branch-circuit-and-feeder-requirements"
+                    },
+                    {
+                        "displayTitle": "Chapter 38 Wiring Methods",
+                        "isExpandable": true,
+                        "reference": "38",
+                        "slug": "wiring-methods"
+                    },
+                    {
+                        "displayTitle": "Chapter 39 Power and Lighting Distribution",
+                        "isExpandable": true,
+                        "reference": "39",
+                        "slug": "power-and-lighting-distribution"
+                    },
+                    {
+                        "displayTitle": "Chapter 40 Devices and Luminaires",
+                        "isExpandable": true,
+                        "reference": "40",
+                        "slug": "devices-and-luminaires"
+                    },
+                    {
+                        "displayTitle": "Chapter 41 Appliance Installation",
+                        "isExpandable": true,
+                        "reference": "41",
+                        "slug": "appliance-installation"
+                    },
+                    {
+                        "displayTitle": "Chapter 42 Swimming Pools",
+                        "isExpandable": true,
+                        "reference": "42",
+                        "slug": "swimming-pools"
+                    },
+                    {
+                        "displayTitle": "Chapter 43 Class 2 Remote-Control, Signaling and Power-Limited Circuits",
+                        "isExpandable": true,
+                        "reference": "43",
+                        "slug": "class-2-remote-control-signaling-and-power-limited-circuits"
+                    },
+                    {
+                        "displayTitle": "Part IX \u2014 Referenced Standards",
+                        "isCodeDivider": true,
+                        "reference": "divider_IX",
+                        "slug": "referenced-standards"
+                    },
+                    {
+                        "displayTitle": "Chapter 44 Referenced Standards",
+                        "reference": "44",
+                        "slug": "referenced-standards"
+                    },
+                    {
+                        "amendType": "addition",
+                        "displayTitle": "Appendix",
+                        "reference": "new_",
+                        "slug": "_"
+                    },
+                    {
+                        "disabled": true,
+                        "displayTitle": "Appendix A Sizing and Capacities of Gas Piping",
+                        "reference": "A",
+                        "slug": "sizing-and-capacities-of-gas-piping"
+                    },
+                    {
+                        "disabled": true,
+                        "displayTitle": "Appendix B Sizing of Venting Systems Serving Appliances Equipped With Draft Hoods, Category I Appliances and Appliances Listed for Use With Type B Vents",
+                        "reference": "B",
+                        "slug": "sizing-of-venting-systems-serving-appliances-equipped-with-draft-hoods-category"
+                    },
+                    {
+                        "disabled": true,
+                        "displayTitle": "Appendix C Exit Terminals of Mechanical Draft and Direct-Vent Venting Systems",
+                        "reference": "C",
+                        "slug": "exit-terminals-of-mechanical-draft-and-direct-vent-venting-systems"
+                    },
+                    {
+                        "disabled": true,
+                        "displayTitle": "Appendix D Recommended Procedure for Safety Inspection of an Existing Appliance Installation",
+                        "reference": "D",
+                        "slug": "recommended-procedure-for-safety-inspection-of-an-existing-appliance-installatio"
+                    },
+                    {
+                        "disabled": true,
+                        "displayTitle": "Appendix E Manufactured Housing Used as Dwellings",
+                        "reference": "E",
+                        "slug": "manufactured-housing-used-as-dwellings"
+                    },
+                    {
+                        "disabled": true,
+                        "displayTitle": "Appendix F Radon Control Methods",
+                        "reference": "F",
+                        "slug": "radon-control-methods"
+                    },
+                    {
+                        "displayTitle": "Appendix G Piping Standards for Various Applications",
+                        "isExpandable": true,
+                        "reference": "G",
+                        "slug": "piping-standards-for-various-applications"
+                    },
+                    {
+                        "disabled": true,
+                        "displayTitle": "Appendix H Patio Covers",
+                        "reference": "H",
+                        "slug": "patio-covers"
+                    },
+                    {
+                        "disabled": true,
+                        "displayTitle": "Appendix I Private Sewage Disposal",
+                        "reference": "I",
+                        "slug": "private-sewage-disposal"
+                    },
+                    {
+                        "disabled": true,
+                        "displayTitle": "Appendix J Existing Buildings and Structures",
+                        "reference": "J",
+                        "slug": "existing-buildings-and-structures"
+                    },
+                    {
+                        "disabled": true,
+                        "displayTitle": "Appendix K Sound Transmission",
+                        "reference": "K",
+                        "slug": "sound-transmission"
+                    },
+                    {
+                        "disabled": true,
+                        "displayTitle": "Appendix L Permit Fees",
+                        "reference": "L",
+                        "slug": "permit-fees"
+                    },
+                    {
+                        "disabled": true,
+                        "displayTitle": "Appendix M Home Day Care\u2014R-3 Occupancy",
+                        "reference": "M",
+                        "slug": "home-day-care-r-3-occupancy"
+                    },
+                    {
+                        "disabled": true,
+                        "displayTitle": "Appendix N Venting Methods",
+                        "reference": "N",
+                        "slug": "venting-methods"
+                    },
+                    {
+                        "disabled": true,
+                        "displayTitle": "Appendix O Automatic Vehicular Gates",
+                        "reference": "O",
+                        "slug": "automatic-vehicular-gates"
+                    },
+                    {
+                        "displayTitle": "Appendix P Sizing of Water Piping System",
+                        "isExpandable": true,
+                        "reference": "P",
+                        "slug": "sizing-of-water-piping-system"
+                    },
+                    {
+                        "disabled": true,
+                        "displayTitle": "Appendix Q Tiny Houses",
+                        "reference": "Q",
+                        "slug": "tiny-houses"
+                    },
+                    {
+                        "disabled": true,
+                        "displayTitle": "Appendix R Light Straw-Clay Construction",
+                        "reference": "R",
+                        "slug": "light-straw-clay-construction"
+                    },
+                    {
+                        "disabled": true,
+                        "displayTitle": "Appendix S Strawbale Construction",
+                        "reference": "S",
+                        "slug": "strawbale-construction"
+                    },
+                    {
+                        "disabled": true,
+                        "displayTitle": "Appendix T [RE] Solar-Ready Provisions\u2014Detached One- And Two-Family Dwellings and Townhouses",
+                        "reference": "T",
+                        "slug": "re-solar-ready-provisions-detached-one-and-two-family-dwellings-and-townhouses"
+                    }
+                ],
+                "leanCodeSectionsTree": [
+                    {
+                        "ancestorRefs": [],
+                        "body": "<div class=\"u-mb-3\"><span class=\"u-font-bold\">ICC user note:</span></div>\n<div class=\"u-italic u-mt-3 u-mb-3\"><span class=\"u-font-bold\">About this chapter:</span>  The electrical trade, like other construction trades, has its vernacular. If people do not understand the language of the code text, they will have difficulty interpreting that text. Many words have a unique meaning in the context of a particular code and may be defined differently in a dictionary.</div>\n<div class=\"u-italic u-mt-3\">Because much code text meaning depends on the definitions of the terms used in the text,  Chapter 35  lists the definitions of terms that do not have everyday, common, universally accepted or dictionary-defined meanings.  Chapter 35  is provided as the key to understanding the electrical text.</div>",
+                        "depth": 0,
+                        "diagrams": [],
+                        "displayRef": null,
+                        "displayTitle": "Chapter 35 Electrical Definitions",
+                        "divisionType": "Chapter",
+                        "hasAssemblies": false,
+                        "isContiguous": true,
+                        "numAssembliesOnRef": 0,
+                        "numBuildingProductsOnRef": 0,
+                        "numDiagramsOnRef": 0,
+                        "reference": "35",
+                        "slug": "electrical-definitions",
+                        "titleText": "Electrical Definitions",
+                        "children": [
+                            {
+                                "ancestorRefs": [
+                                    "35"
+                                ],
+                                "depth": 1,
+                                "diagrams": [],
+                                "displayRef": null,
+                                "displayTitle": "Section E3501 General",
+                                "divisionType": "Section",
+                                "hasAssemblies": false,
+                                "isContiguous": true,
+                                "numAssembliesOnRef": 0,
+                                "numBuildingProductsOnRef": 0,
+                                "numDiagramsOnRef": 0,
+                                "reference": "E3501",
+                                "slug": "electrical-definitions",
+                                "titleText": "General",
+                                "children": [
+                                    {
+                                        "ancestorRefs": [
+                                            "35",
+                                            "E3501"
+                                        ],
+                                        "body": "<div class=\"u-mb-3\">This chapter contains definitions that shall apply only to the electrical requirements of Chapters <a class=\"autolink\" href=\"/viewer/alaska/irc-2018/chapter/34/general-requirements#34\">34</a> through <a class=\"autolink\" href=\"/viewer/alaska/irc-2018/chapter/43/class-2-remote-control-signaling-and-power-limited-circuits#43\">43</a>. Unless otherwise expressly stated, the following terms shall, for the purpose of this code, have the meanings indicated in this chapter. Words used in the present tense include the future; the singular number includes the plural and the plural the singular. Where terms are not defined in this section and are defined in <a class=\"autolink\" href=\"/viewer/alaska/irc-2018/chapter/2/definitions#R202\">Section R202</a> of this code, such terms shall have the meanings ascribed to them in that section. Where terms are not defined in these sections, they shall have their ordinarily accepted meanings or such as the context implies.</div>\n<div>\n<div class=\"u-mb-3\"><span class=\"u-font-bold\"><a id=\"accessible\" href=\"#accessible\" class=\"autolink_target\">ACCESSIBLE</a>. </span> (As applied to <a class=\"autolink\" href=\"#equipment\">equipment</a>.) Admitting close approach; not <a class=\"autolink\" href=\"#guarded\">guarded</a> by locked doors, elevation or other effective means.</div>\n<div class=\"u-mt-3 u-mb-3\"><span class=\"u-font-bold\"><a class=\"autolink\" href=\"#accessible_readily\">ACCESSIBLE</a>. </span> (As applied to wiring methods.) Capable of being removed or <a class=\"autolink\" href=\"#exposed\">exposed</a> without damaging the building structure or finish, or not permanently closed in by the structure or finish of the building.</div>\n<div class=\"u-mt-3 u-mb-3\"><span class=\"u-font-bold\"><a id=\"accessible_readily\" href=\"#accessible_readily\" class=\"autolink_target\">ACCESSIBLE, READILY</a>. </span> Capable of being reached quickly for operation, renewal or inspections, without requiring those to whom <a class=\"autolink\" href=\"/viewer/alaska/irc-2018/chapter/2/definitions#ready_access_to_\">ready access</a> is requisite to take actions such as to use tools, other than keys, to climb over or under, to remove obstacles or to resort to portable ladders, etc.</div>\n<div class=\"u-mt-3 u-mb-3\"><span class=\"u-font-bold\"><a id=\"ampacity\" href=\"#ampacity\" class=\"autolink_target\">AMPACITY</a>. </span> The maximum current in amperes that a <a class=\"autolink\" href=\"#conductor\">conductor</a> can carry continuously under the conditions of use without exceeding its temperature rating.</div>\n<div class=\"u-mt-3 u-mb-3\"><span class=\"u-font-bold\"><a id=\"appliance\" href=\"#appliance\" class=\"autolink_target\">APPLIANCE</a>. </span> <a class=\"autolink\" href=\"#utilization_equipment\">Utilization equipment</a>, normally built in standardized sizes or types, that is installed or connected as a unit to perform one or more functions such as clothes washing, air conditioning, food mixing, deep frying, etc.</div>\n<div class=\"u-mt-3 u-mb-3\"><span class=\"u-font-bold\"><a id=\"approved\" href=\"#approved\" class=\"autolink_target\">APPROVED</a>. </span> Acceptable to the authority having <a class=\"autolink\" href=\"/viewer/alaska/irc-2018/chapter/2/definitions#jurisdiction_\">jurisdiction</a>.</div>\n<div class=\"u-mt-3 u-mb-3\"><span class=\"u-font-bold\"><a id=\"arc-fault_circuit-interrupter\" href=\"#arc-fault_circuit-interrupter\" class=\"autolink_target\">ARC-FAULT CIRCUIT-INTERRUPTER</a>. </span> A <a class=\"autolink\" href=\"#device\">device</a> intended to provide protection from the effects of arc-faults by recognizing characteristics unique to arcing and by functioning to de-energize the circuit when an arc-fault is detected.</div>\n<div class=\"u-mt-3 u-mb-3\"><span class=\"u-font-bold\"><a id=\"attachment_plug_plug_cap_plug\" href=\"#attachment_plug_plug_cap_plug\" class=\"autolink_target\">ATTACHMENT PLUG (PLUG CAP) (PLUG)</a>. </span> A <a class=\"autolink\" href=\"#device\">device</a> that, by insertion into a <a class=\"autolink\" href=\"#receptacle\">receptacle</a>, establishes connection between the <a class=\"autolink\" href=\"#conductor\">conductors</a> of the attached flexible cord and the <a class=\"autolink\" href=\"#conductor\">conductors</a> connected permanently to the <a class=\"autolink\" href=\"#receptacle\">receptacle</a>.</div>\n<div class=\"u-mt-3 u-mb-3\"><span class=\"u-font-bold\"><a id=\"automatic\" href=\"#automatic\" class=\"autolink_target\">AUTOMATIC</a>. </span> Performing a function without the necessity of human intervention.</div>\n<div class=\"u-mt-3 u-mb-3\"><span class=\"u-font-bold\"><a id=\"bathroom\" href=\"#bathroom\" class=\"autolink_target\">BATHROOM</a>. </span> An area, including a basin, with one or more of the following: a toilet, a urinal, a tub, a shower, a bidet, or similar <a class=\"autolink\" href=\"/viewer/alaska/irc-2018/chapter/2/definitions#plumbing_fixture_\">plumbing fixture</a>.</div>\n<div class=\"u-mt-3 u-mb-3\"><span class=\"u-font-bold\"><a id=\"bonded_bonding\" href=\"#bonded_bonding\" class=\"autolink_target\">BONDED (BONDING)</a>. </span> Connected to establish electrical continuity and conductivity.</div>\n<div class=\"u-mt-3 u-mb-3\"><span class=\"u-font-bold\"><a id=\"bonding_conductor_or_jumper\" href=\"#bonding_conductor_or_jumper\" class=\"autolink_target\">BONDING CONDUCTOR OR JUMPER</a>. </span> A reliable <a class=\"autolink\" href=\"#conductor\">conductor</a> to ensure the required electrical conductivity between metal parts required to be electrically connected.</div>\n<div class=\"u-mt-3 u-mb-3\"><span class=\"u-font-bold\">BONDING JUMPER (<a class=\"autolink\" href=\"/viewer/alaska/irc-2018/chapter/2/definitions#equipment_\">EQUIPMENT</a>). </span> The connection between two or more portions of the <a class=\"autolink\" href=\"#grounding_conductor_equipment_egc\">equipment grounding conductor</a>.</div>\n<div class=\"u-mt-3 u-mb-3\"><span class=\"u-font-bold\">BONDING JUMPER, <a class=\"autolink\" href=\"/viewer/alaska/irc-2018/chapter/2/definitions#main_\">MAIN</a>. </span> The connection between the <a class=\"autolink\" href=\"#grounded_grounding\">grounded</a> circuit <a class=\"autolink\" href=\"#conductor\">conductor</a> and the <a class=\"autolink\" href=\"#grounding_conductor_equipment_egc\">equipment grounding conductor</a> at the <a class=\"autolink\" href=\"#service\">service</a>.</div>\n<div class=\"u-mt-3 u-mb-3\"><span class=\"u-font-bold\"><a id=\"bonding_jumper_supply-side\" href=\"#bonding_jumper_supply-side\" class=\"autolink_target\">BONDING JUMPER, SUPPLY-SIDE</a>. </span> A <a class=\"autolink\" href=\"#conductor\">conductor</a> installed on the supply side of a <a class=\"autolink\" href=\"#service\">service</a> or within a <a class=\"autolink\" href=\"#service_equipment\">service equipment</a> <a class=\"autolink\" href=\"#enclosure\">enclosure</a>(s) that ensures the required electrical conductivity between metal parts required to be electrically connected.</div>\n<div class=\"u-mt-3 u-mb-3\"><span class=\"u-font-bold\"><a id=\"branch_circuit\" href=\"#branch_circuit\" class=\"autolink_target\">BRANCH CIRCUIT</a>. </span> The circuit <a class=\"autolink\" href=\"#conductor\">conductors</a> between the final <a class=\"autolink\" href=\"#overcurrent\">overcurrent</a> <a class=\"autolink\" href=\"#device\">device</a> protecting the circuit and the <a class=\"autolink\" href=\"#outlet\">outlet</a>(s).</div>\n<div class=\"u-mt-3 u-mb-3\"><span class=\"u-font-bold\"><a class=\"autolink\" href=\"/viewer/alaska/irc-2018/chapter/2/definitions#branch_\">BRANCH</a> CIRCUIT, <a class=\"autolink\" href=\"/viewer/alaska/irc-2018/chapter/2/definitions#appliance_\">APPLIANCE</a>. </span> A <a class=\"autolink\" href=\"#branch_circuit_appliance\">branch circuit</a> that supplies energy to one or more <a class=\"autolink\" href=\"#outlet\">outlets</a> to which <a class=\"autolink\" href=\"#appliance\">appliances</a> are to be connected, and that has no permanently connected <a class=\"autolink\" href=\"#luminaire\">luminaires</a> that are not a part of an <a class=\"autolink\" href=\"#appliance\">appliance</a>.</div>\n<div class=\"u-mt-3 u-mb-3\"><span class=\"u-font-bold\"><a id=\"branch_circuit_general_purpose\" href=\"#branch_circuit_general_purpose\" class=\"autolink_target\">BRANCH CIRCUIT, GENERAL PURPOSE</a>. </span> A <a class=\"autolink\" href=\"#branch_circuit_general_purpose\">branch circuit</a> that supplies two or more <a class=\"autolink\" href=\"#receptacle_outlet\">receptacle outlets</a> or <a class=\"autolink\" href=\"#outlet\">outlets</a> for lighting and <a class=\"autolink\" href=\"#appliance\">appliances</a>.</div>\n<div class=\"u-mt-3 u-mb-3\"><span class=\"u-font-bold\"><a id=\"branch_circuit_individual\" href=\"#branch_circuit_individual\" class=\"autolink_target\">BRANCH CIRCUIT, INDIVIDUAL</a>. </span> A <a class=\"autolink\" href=\"#branch_circuit_individual\">branch circuit</a> that supplies only one <a class=\"autolink\" href=\"#utilization_equipment\">utilization equipment</a>.</div>\n<div class=\"u-mt-3 u-mb-3\"><span class=\"u-font-bold\"><a id=\"branch_circuit_multiwire\" href=\"#branch_circuit_multiwire\" class=\"autolink_target\">BRANCH CIRCUIT, MULTIWIRE</a>. </span> A <a class=\"autolink\" href=\"#branch_circuit_multiwire\">branch circuit</a> consisting of two or more <a class=\"autolink\" href=\"#ungrounded\">ungrounded</a> <a class=\"autolink\" href=\"#conductor\">conductors</a> having <a class=\"autolink\" href=\"#voltage_of_a_circuit\">voltage</a> difference between them, and a <a class=\"autolink\" href=\"#grounded_conductor\">grounded conductor</a> having equal <a class=\"autolink\" href=\"#voltage_of_a_circuit\">voltage</a> difference between it and each <a class=\"autolink\" href=\"#ungrounded\">ungrounded</a> <a class=\"autolink\" href=\"#conductor\">conductor</a> of the circuit, and that is connected to the neutral or <a class=\"autolink\" href=\"#grounded_conductor\">grounded conductor</a> of the system.</div>\n<div class=\"u-mt-3 u-mb-3\"><span class=\"u-font-bold\"><a id=\"cabinet\" href=\"#cabinet\" class=\"autolink_target\">CABINET</a>. </span> An <a class=\"autolink\" href=\"#enclosure\">enclosure</a> designed either for surface or flush mounting and provided with a frame, mat or <a class=\"autolink\" href=\"/viewer/alaska/irc-2018/chapter/2/definitions#trim_\">trim</a> in which a swinging door or doors are or may be hung.</div>\n<div class=\"u-mt-3 u-mb-3\"><span class=\"u-font-bold\"><a id=\"circuit_breaker\" href=\"#circuit_breaker\" class=\"autolink_target\">CIRCUIT BREAKER</a>. </span> A <a class=\"autolink\" href=\"#device\">device</a> designed to open and close a circuit by nonautomatic means and to open the circuit automatically on a predetermined <a class=\"autolink\" href=\"#overcurrent\">overcurrent</a> without damage to itself when properly applied within its rating.</div>\n<div class=\"u-mt-3 u-mb-3\"><span class=\"u-font-bold\">CLOTHES <a class=\"autolink\" href=\"/viewer/alaska/irc-2018/chapter/2/definitions#closet_\">CLOSET</a>. </span> A nonhabitable room or space intended primarily for storage of garments and apparel.</div>\n<div class=\"u-mt-3 u-mb-3\"><span class=\"u-font-bold\"><a id=\"concealed\" href=\"#concealed\" class=\"autolink_target\">CONCEALED</a>. </span> Rendered inaccessible by the structure or finish of the building.</div>\n<div>\n<div class=\"u-mb-3\"><span class=\"u-font-bold\"><a id=\"conductor\" href=\"#conductor\" class=\"autolink_target\">CONDUCTOR</a>.</span></div>\n<div class=\"u-mt-3 u-mb-3 u-ml-4\"><span class=\"u-font-bold\"><a id=\"bare_conductor\" href=\"#bare_conductor\" class=\"autolink_target\">Bare</a>. </span> A <a class=\"autolink\" href=\"#conductor\">conductor</a> having no covering or electrical insulation whatsoever.</div>\n<div class=\"u-mt-3 u-mb-3 u-ml-4\"><span class=\"u-font-bold\"><a id=\"covered_conductor\" href=\"#covered_conductor\" class=\"autolink_target\">Covered</a>. </span> A <a class=\"autolink\" href=\"#conductor\">conductor</a> encased within material of composition or thickness that is not recognized by this code as electrical insulation.</div>\n<div class=\"u-mt-3 u-ml-4\"><span class=\"u-font-bold\"><a id=\"insulated_conductor\" href=\"#insulated_conductor\" class=\"autolink_target\">Insulated</a>. </span> A <a class=\"autolink\" href=\"#conductor\">conductor</a> encased within material of composition and thickness that is recognized by this code as electrical insulation.</div>\n</div>\n<div class=\"u-mt-3 u-mb-3\"><span class=\"u-font-bold\"><a id=\"conduit_body\" href=\"#conduit_body\" class=\"autolink_target\">CONDUIT BODY</a>. </span> A separate portion of a conduit or tubing system that provides <a class=\"autolink\" href=\"/viewer/alaska/irc-2018/chapter/2/definitions#access_to_\">access</a> through a removable cover(s) to the interior of the system at a junction of two or more sections of the system or at a terminal point of the system. Boxes such as FS and FD or larger cast or sheet metal boxes are not classified as <a class=\"autolink\" href=\"#conduit_body\">conduit bodies</a>.</div>\n<div class=\"u-mt-3 u-mb-3\"><span class=\"u-font-bold\"><a id=\"connector_pressure_solderless\" href=\"#connector_pressure_solderless\" class=\"autolink_target\">CONNECTOR, PRESSURE (SOLDERLESS)</a>. </span> A <a class=\"autolink\" href=\"#device\">device</a> that establishes a connection between two or more <a class=\"autolink\" href=\"#conductor\">conductors</a> or between one or more <a class=\"autolink\" href=\"#conductor\">conductors</a> and a terminal by means of mechanical pressure and without the use of solder.</div>\n<div class=\"u-mt-3 u-mb-3\"><span class=\"u-font-bold\"><a id=\"continuous_load\" href=\"#continuous_load\" class=\"autolink_target\">CONTINUOUS LOAD</a>. </span> A load where the maximum current is expected to continue for 3 hours or more.</div>\n<div class=\"u-mt-3 u-mb-3\"><span class=\"u-font-bold\"><a id=\"cooking_unit_counter-mounted\" href=\"#cooking_unit_counter-mounted\" class=\"autolink_target\">COOKING UNIT, COUNTER-MOUNTED</a>. </span> A cooking <a class=\"autolink\" href=\"#appliance\">appliance</a> designed for mounting in or on a counter and consisting of one or more heating elements, internal wiring and built-in or separately mountable controls.</div>\n<div class=\"u-mt-3 u-mb-3\"><span class=\"u-font-bold\"><a id=\"copper-clad_aluminum_conductors\" href=\"#copper-clad_aluminum_conductors\" class=\"autolink_target\">COPPER-CLAD ALUMINUM CONDUCTORS</a>. </span> <a class=\"autolink\" href=\"#conductor\">Conductors</a> drawn from a copper-clad aluminum rod with the copper metallurgically bonded to an aluminum <a class=\"autolink\" href=\"/viewer/alaska/irc-2018/chapter/2/definitions#core_\">core</a>. The copper forms a minimum of 10 percent of the cross-sectional area of a solid <a class=\"autolink\" href=\"#conductor\">conductor</a> or each strand of a stranded <a class=\"autolink\" href=\"#conductor\">conductor</a>.</div>\n<div class=\"u-mt-3 u-mb-3\"><span class=\"u-font-bold\"><a id=\"cutout_box\" href=\"#cutout_box\" class=\"autolink_target\">CUTOUT BOX</a>. </span> An <a class=\"autolink\" href=\"#enclosure\">enclosure</a> designed for surface mounting and having swinging doors or covers secured directly to and telescoping with the <a class=\"autolink\" href=\"/viewer/alaska/irc-2018/chapter/2/definitions#walls_\">walls</a> of the box proper (see \"<a class=\"autolink\" href=\"#cabinet\">Cabinet</a>\").</div>\n<div class=\"u-mt-3 u-mb-3\"><span class=\"u-font-bold\"><a id=\"dead_front\" href=\"#dead_front\" class=\"autolink_target\">DEAD FRONT</a>. </span> Without <a class=\"autolink\" href=\"#live_parts\">live parts</a> <a class=\"autolink\" href=\"#exposed\">exposed</a> to a person on the operating side of the <a class=\"autolink\" href=\"#equipment\">equipment</a>.</div>\n<div class=\"u-mt-3 u-mb-3\"><span class=\"u-font-bold\"><a id=\"demand_factor\" href=\"#demand_factor\" class=\"autolink_target\">DEMAND FACTOR</a>. </span> The ratio of the maximum demand of a system, or part of a system, to the total connected load of a system or the part of the system under consideration.</div>\n<div class=\"u-mt-3 u-mb-3\"><span class=\"u-font-bold\"><a id=\"device\" href=\"#device\" class=\"autolink_target\">DEVICE</a>. </span> A unit of an electrical system that carries or controls electrical energy as its principal function.</div>\n<div class=\"u-mt-3 u-mb-3\"><span class=\"u-font-bold\"><a id=\"disconnecting_means\" href=\"#disconnecting_means\" class=\"autolink_target\">DISCONNECTING MEANS</a>. </span> A <a class=\"autolink\" href=\"#device\">device</a>, or group of <a class=\"autolink\" href=\"#device\">devices</a>, or other means by which the <a class=\"autolink\" href=\"#conductor\">conductors</a> of a circuit can be disconnected from their source of supply.</div>\n<div>\n<div class=\"u-mb-3\"><span class=\"u-font-bold\"><a id=\"dwelling\" href=\"#dwelling\" class=\"autolink_target\">DWELLING</a>.</span></div>\n<div class=\"u-mt-3 u-mb-3 u-ml-4\"><span class=\"u-font-bold\"><a id=\"dwelling_unit_dwelling\" href=\"#dwelling_unit_dwelling\" class=\"autolink_target\">Dwelling unit</a>. </span> A single unit, providing complete and independent living facilities for one or more persons, including permanent provisions for living, sleeping, cooking and sanitation.</div>\n<div class=\"u-mt-3 u-mb-3 u-ml-4\"><span class=\"u-font-bold\">One-family <a class=\"autolink\" href=\"/viewer/alaska/irc-2018/chapter/2/definitions#dwelling_\">dwelling</a>. </span> A building consisting solely of one <a class=\"autolink\" href=\"#dwelling_unit_dwelling\">dwelling unit</a>.</div>\n<div class=\"u-mt-3 u-ml-4\"><span class=\"u-font-bold\">Two-family <a class=\"autolink\" href=\"/viewer/alaska/irc-2018/chapter/2/definitions#dwelling_\">dwelling</a>. </span> A building consisting solely of two <a class=\"autolink\" href=\"#dwelling_unit_dwelling\">dwelling units</a>.</div>\n</div>\n<div class=\"u-mt-3 u-mb-3\"><span class=\"u-font-bold\"><a id=\"effective_ground-fault_current_path\" href=\"#effective_ground-fault_current_path\" class=\"autolink_target\">EFFECTIVE GROUND-FAULT CURRENT PATH</a>. </span> An intentionally constructed, low-impedance electrically conductive path designed and intended to carry current under <a class=\"autolink\" href=\"#ground\">ground</a>-fault conditions from the point of a <a class=\"autolink\" href=\"#ground\">ground</a> fault on a wiring system to the electrical supply source and that facilitates the operation of the <a class=\"autolink\" href=\"#overcurrent\">overcurrent</a> protective <a class=\"autolink\" href=\"#device\">device</a> or <a class=\"autolink\" href=\"#ground\">ground</a>-fault detectors.</div>\n<div class=\"u-mt-3 u-mb-3\"><span class=\"u-font-bold\"><a id=\"enclosed\" href=\"#enclosed\" class=\"autolink_target\">ENCLOSED</a>. </span> Surrounded by a case, housing, fence or <a class=\"autolink\" href=\"/viewer/alaska/irc-2018/chapter/2/definitions#walls_\">walls</a> that will prevent persons from accidentally contacting <a class=\"autolink\" href=\"#energized\">energized</a> parts.</div>\n<div class=\"u-mt-3 u-mb-3\"><span class=\"u-font-bold\"><a id=\"enclosure\" href=\"#enclosure\" class=\"autolink_target\">ENCLOSURE</a>. </span> The case or housing of apparatus, or the fence or <a class=\"autolink\" href=\"/viewer/alaska/irc-2018/chapter/2/definitions#walls_\">walls</a> surrounding an installation, to prevent personnel from accidentally contacting <a class=\"autolink\" href=\"#energized\">energized</a> parts or to protect the <a class=\"autolink\" href=\"#equipment\">equipment</a> from physical damage.</div>\n<div class=\"u-mt-3 u-mb-3\"><span class=\"u-font-bold\"><a id=\"energized\" href=\"#energized\" class=\"autolink_target\">ENERGIZED</a>. </span> Electrically connected to, or is, a source of voltage.</div>\n<div class=\"u-mt-3 u-mb-3\"><span class=\"u-font-bold\"><a id=\"equipment\" href=\"#equipment\" class=\"autolink_target\">EQUIPMENT</a>. </span> A general term including material, <a class=\"autolink\" href=\"#fitting\">fittings</a>, <a class=\"autolink\" href=\"#device\">devices</a>, <a class=\"autolink\" href=\"#appliance\">appliances</a>, <a class=\"autolink\" href=\"#luminaire\">luminaires</a>, apparatus, machinery and the like used as a part of, or in connection with, an electrical installation.</div>\n<div class=\"u-mt-3 u-mb-3\"><span class=\"u-font-bold\"><a id=\"exposed\" href=\"#exposed\" class=\"autolink_target\">EXPOSED</a>. </span> (As applied to <a class=\"autolink\" href=\"#live_parts\">live parts</a>.) Capable of being inadvertently touched or approached nearer than a safe distance by a person.</div>\n<div class=\"u-mt-3 u-mb-3\"><span class=\"u-font-bold\"><a class=\"autolink\" href=\"#exposed\">EXPOSED</a>. </span> (As applied to wiring methods.) On or attached to the surface or behind panels designed to allow <a class=\"autolink\" href=\"/viewer/alaska/irc-2018/chapter/2/definitions#access_to_\">access</a>.</div>\n<div class=\"u-mt-3 u-mb-3\"><span class=\"u-font-bold\"><a id=\"externally_operable\" href=\"#externally_operable\" class=\"autolink_target\">EXTERNALLY OPERABLE</a>. </span> Capable of being operated without exposing the operator to contact with <a class=\"autolink\" href=\"#live_parts\">live parts</a>.</div>\n<div class=\"u-mt-3 u-mb-3\"><span class=\"u-font-bold\"><a id=\"feeder\" href=\"#feeder\" class=\"autolink_target\">FEEDER</a>. </span> All circuit <a class=\"autolink\" href=\"#conductor\">conductors</a> between the <a class=\"autolink\" href=\"#service_equipment\">service equipment</a>, or the source of a separately derived system, or other power supply source and the final <a class=\"autolink\" href=\"#branch_circuit\">branch-circuit</a> <a class=\"autolink\" href=\"#overcurrent\">overcurrent</a> <a class=\"autolink\" href=\"#device\">device</a>.</div>\n<div class=\"u-mt-3 u-mb-3\"><span class=\"u-font-bold\"><a id=\"fitting\" href=\"#fitting\" class=\"autolink_target\">FITTING</a>. </span> An accessory such as a locknut, bushing or other part of a wiring system that is intended primarily to perform a mechanical rather than an electrical function.</div>\n<div class=\"u-mt-3 u-mb-3\"><span class=\"u-font-bold\"><a id=\"ground\" href=\"#ground\" class=\"autolink_target\">GROUND</a>. </span> The earth.</div>\n<div class=\"u-mt-3 u-mb-3\"><span class=\"u-font-bold\"><a id=\"grounded_grounding\" href=\"#grounded_grounding\" class=\"autolink_target\">GROUNDED (GROUNDING)</a>. </span> Connected (connecting) to <a class=\"autolink\" href=\"#ground\">ground</a> or to a conductive body that extends the <a class=\"autolink\" href=\"#ground\">ground</a> connection.</div>\n<div class=\"u-mt-3 u-mb-3\"><span class=\"u-font-bold\"><a id=\"grounded_effectively\" href=\"#grounded_effectively\" class=\"autolink_target\">GROUNDED, EFFECTIVELY</a>. </span> Intentionally connected to earth through a <a class=\"autolink\" href=\"#ground\">ground</a> connection or connections of sufficiently low impedance and having sufficient current-carrying capacity to prevent the buildup of voltages that may result in undue hazards to connected <a class=\"autolink\" href=\"#equipment\">equipment</a> or to persons.</div>\n<div class=\"u-mt-3 u-mb-3\"><span class=\"u-font-bold\"><a id=\"grounded_conductor\" href=\"#grounded_conductor\" class=\"autolink_target\">GROUNDED CONDUCTOR</a>. </span> A system or circuit <a class=\"autolink\" href=\"#conductor\">conductor</a> that is intentionally <a class=\"autolink\" href=\"#grounded_effectively\">grounded</a>.</div>\n<div class=\"u-mt-3 u-mb-3\"><span class=\"u-font-bold\">GROUNDING CONDUCTOR, <a class=\"autolink\" href=\"/viewer/alaska/irc-2018/chapter/2/definitions#equipment_\">EQUIPMENT</a> (EGC). </span> The conductive path(s) that provides a <a class=\"autolink\" href=\"#ground-fault_current_path\">ground-fault current path</a> and connects normally noncurrent-carrying metal parts of <a class=\"autolink\" href=\"#equipment\">equipment</a> together and, to the system <a class=\"autolink\" href=\"#grounded_conductor\">grounded conductor</a>, the <a class=\"autolink\" href=\"#grounding_electrode_conductor\">grounding electrode conductor</a> or both.</div>\n<div class=\"u-mt-3 u-mb-3\"><span class=\"u-font-bold\"><a id=\"grounding_electrode\" href=\"#grounding_electrode\" class=\"autolink_target\">GROUNDING ELECTRODE</a>. </span> A conducting object through which a direct connection to earth is established.</div>\n<div class=\"u-mt-3 u-mb-3\"><span class=\"u-font-bold\"><a id=\"grounding_electrode_conductor\" href=\"#grounding_electrode_conductor\" class=\"autolink_target\">GROUNDING ELECTRODE CONDUCTOR</a>. </span> A <a class=\"autolink\" href=\"#conductor\">conductor</a> used to connect the system <a class=\"autolink\" href=\"#grounded_conductor\">grounded conductor</a> or the <a class=\"autolink\" href=\"#equipment\">equipment</a> to a <a class=\"autolink\" href=\"#grounding_electrode\">grounding electrode</a> or to a point on the <a class=\"autolink\" href=\"#grounding_electrode\">grounding electrode</a> system.</div>\n<div class=\"u-mt-3 u-mb-3\"><span class=\"u-font-bold\"><a id=\"ground-fault_circuit-interrupter\" href=\"#ground-fault_circuit-interrupter\" class=\"autolink_target\">GROUND-FAULT CIRCUIT-INTERRUPTER</a>. </span> A <a class=\"autolink\" href=\"#device\">device</a> intended for the protection of personnel that functions to de-energize a circuit or portion thereof within an established period of time when a current to <a class=\"autolink\" href=\"#ground\">ground</a> exceeds the value for a Class A <a class=\"autolink\" href=\"#device\">device</a>.</div>\n<div>\n<div class=\"u-mb-3\"><span class=\"u-font-bold\"><a id=\"ground-fault_current_path\" href=\"#ground-fault_current_path\" class=\"autolink_target\">GROUND-FAULT CURRENT PATH</a>. </span> An electrically conductive path from the point of a <a class=\"autolink\" href=\"#ground\">ground</a> fault on a wiring system through normally noncurrent-carrying <a class=\"autolink\" href=\"#conductor\">conductors</a>, <a class=\"autolink\" href=\"#equipment\">equipment</a>, or the earth to the electrical supply source.</div>\n<div class=\"u-mt-3\">Examples of <a class=\"autolink\" href=\"#ground-fault_current_path\">ground-fault current paths</a> are any combination of <a class=\"autolink\" href=\"#grounding_conductor_equipment_egc\">equipment grounding conductors</a>, metallic <a class=\"autolink\" href=\"#raceway\">raceways</a>, metallic cable sheaths, electrical <a class=\"autolink\" href=\"#equipment\">equipment</a>, and any other electrically conductive material such as metal, water, and gas piping; steel framing members; stucco mesh; metal ducting; reinforcing steel; shields of communications cables; and the earth itself.</div>\n</div>\n<div class=\"u-mt-3 u-mb-3\"><span class=\"u-font-bold\"><a id=\"guarded\" href=\"#guarded\" class=\"autolink_target\">GUARDED</a>. </span> <a class=\"autolink\" href=\"#covered_conductor\">Covered</a>, shielded, fenced, <a class=\"autolink\" href=\"#enclosed\">enclosed</a> or otherwise protected by means of suitable covers, casings, barriers, rails, screens, mats or platforms to remove the likelihood of approach or contact by persons or objects to a point of danger.</div>\n<div class=\"u-mt-3 u-mb-3\"><span class=\"u-font-bold\"><a id=\"identified\" href=\"#identified\" class=\"autolink_target\">IDENTIFIED</a>. </span> (As applied to <a class=\"autolink\" href=\"#equipment\">equipment</a>.) Recognizable as suitable for the specific purpose, function, use, environment, application, etc., where described in a particular code requirement.</div>\n<div class=\"u-mt-3 u-mb-3\"><span class=\"u-font-bold\"><a id=\"in_sight_from_within_sight_from_within_sight\" href=\"#in_sight_from_within_sight_from_within_sight\" class=\"autolink_target\">IN SIGHT FROM (Within sight from, within sight)</a>. </span> Where this code specifies that one piece of <a class=\"autolink\" href=\"#equipment\">equipment</a> shall be \"<a class=\"autolink\" href=\"#in_sight_from_within_sight_from_within_sight\">in sight from</a>,\" \"within sight from,\" \"within sight of,\" or similarly stated from/of another piece of <a class=\"autolink\" href=\"#equipment\">equipment</a>, the specified <a class=\"autolink\" href=\"#equipment\">equipment</a> must be visible and not more than 50 feet (15.2 m) distant from the other.</div>\n<div class=\"u-mt-3 u-mb-3\"><span class=\"u-font-bold\"><a id=\"interrupting_rating\" href=\"#interrupting_rating\" class=\"autolink_target\">INTERRUPTING RATING</a>. </span> The highest current at rated voltage that a <a class=\"autolink\" href=\"#device\">device</a> is <a class=\"autolink\" href=\"#identified\">identified</a> to interrupt under standard test conditions.</div>\n<div class=\"u-mt-3 u-mb-3\"><span class=\"u-font-bold\"><a id=\"intersystem_bonding_termination\" href=\"#intersystem_bonding_termination\" class=\"autolink_target\">INTERSYSTEM BONDING TERMINATION</a>. </span> A <a class=\"autolink\" href=\"#device\">device</a> that provides a means for connecting intersystem bonding <a class=\"autolink\" href=\"#conductor\">conductors</a> for communications systems to the <a class=\"autolink\" href=\"#grounding_electrode\">grounding electrode</a> system.</div>\n<div class=\"u-mt-3 u-mb-3\"><span class=\"u-font-bold\"><a id=\"isolated\" href=\"#isolated\" class=\"autolink_target\">ISOLATED</a>. </span> (As applied to <a class=\"autolink\" href=\"#location_damp\">location</a>.) Not <a class=\"autolink\" href=\"#accessible_readily\">readily accessible</a> to persons unless special means for <a class=\"autolink\" href=\"/viewer/alaska/irc-2018/chapter/2/definitions#access_to_\">access</a> are used.</div>\n<div class=\"u-mt-3 u-mb-3\"><span class=\"u-font-bold\"><a id=\"kitchen\" href=\"#kitchen\" class=\"autolink_target\">KITCHEN</a>. </span> An area with a sink and permanent provisions for food preparation and cooking.</div>\n<div class=\"u-mt-3 u-mb-3\"><span class=\"u-font-bold\"><a id=\"labeled\" href=\"#labeled\" class=\"autolink_target\">LABELED</a>. </span> <a class=\"autolink\" href=\"#equipment\">Equipment</a> or materials to which has been attached a <a class=\"autolink\" href=\"/viewer/alaska/irc-2018/chapter/2/definitions#label_\">label</a>, symbol or other identifying mark of an organization acceptable to the authority having <a class=\"autolink\" href=\"/viewer/alaska/irc-2018/chapter/2/definitions#jurisdiction_\">jurisdiction</a> and concerned with product evaluation that maintains periodic inspection of production of <a class=\"autolink\" href=\"/viewer/alaska/irc-2018/chapter/2/definitions#labeled_\">labeled</a> <a class=\"autolink\" href=\"#equipment\">equipment</a> or materials and by whose labeling the manufacturer indicates compliance with appropriate standards or performance in a specified manner.</div>\n<div class=\"u-mt-3 u-mb-3\"><span class=\"u-font-bold\"><a id=\"lighting_outlet\" href=\"#lighting_outlet\" class=\"autolink_target\">LIGHTING OUTLET</a>. </span> An <a class=\"autolink\" href=\"#outlet\">outlet</a> intended for the direct connection of a lampholder or <a class=\"autolink\" href=\"#luminaire\">luminaire</a>.</div>\n<div class=\"u-mt-3 u-mb-3\"><span class=\"u-font-bold\"><a id=\"lighting_track_track_lighting\" href=\"#lighting_track_track_lighting\" class=\"autolink_target\">LIGHTING TRACK (Track Lighting)</a>. </span> A manufactured assembly designed to support and energize <a class=\"autolink\" href=\"#luminaire\">luminaires</a> that are capable of being readily repositioned on the track. Its length can be altered by the <a class=\"autolink\" href=\"/viewer/alaska/irc-2018/chapter/2/definitions#addition_\">addition</a> or subtraction of sections of track.</div>\n<div class=\"u-mt-3 u-mb-3\"><span class=\"u-font-bold\"><a id=\"listed\" href=\"#listed\" class=\"autolink_target\">LISTED</a>. </span> <a class=\"autolink\" href=\"#equipment\">Equipment</a>, materials or <a class=\"autolink\" href=\"#service\">services</a> included in a list published by an organization that is acceptable to the authority having <a class=\"autolink\" href=\"/viewer/alaska/irc-2018/chapter/2/definitions#jurisdiction_\">jurisdiction</a> and concerned with evaluation of products or <a class=\"autolink\" href=\"#service\">services</a>, that maintains periodic inspection of production of listed <a class=\"autolink\" href=\"#equipment\">equipment</a> or materials or periodic evaluation of <a class=\"autolink\" href=\"#service\">services</a>, and whose listing states either that the <a class=\"autolink\" href=\"#equipment\">equipment</a>, material or <a class=\"autolink\" href=\"#service\">services</a> meets <a class=\"autolink\" href=\"#identified\">identified</a> standards or has been tested and found suitable for a specified purpose.</div>\n<div class=\"u-mt-3 u-mb-3\"><span class=\"u-font-bold\"><a id=\"live_parts\" href=\"#live_parts\" class=\"autolink_target\">LIVE PARTS</a>. </span> <a class=\"autolink\" href=\"#energized\">Energized</a> conductive components.</div>\n<div class=\"u-mt-3 u-mb-3\"><span class=\"u-font-bold\"><a id=\"location_damp\" href=\"#location_damp\" class=\"autolink_target\">LOCATION, DAMP</a>. </span> <a class=\"autolink\" href=\"#location_damp\">Location</a> protected from weather and not subject to saturation with water or other liquids but subject to moderate degrees of moisture.</div>\n<div class=\"u-mt-3 u-mb-3\"><span class=\"u-font-bold\"><a id=\"location_dry\" href=\"#location_dry\" class=\"autolink_target\">LOCATION, DRY</a>. </span> A <a class=\"autolink\" href=\"#location_dry\">location</a> not normally subject to dampness or wetness. A <a class=\"autolink\" href=\"#location_dry\">location</a> classified as dry may be temporarily subject to dampness or wetness, as in the case of a building under construction.</div>\n<div class=\"u-mt-3 u-mb-3\"><span class=\"u-font-bold\"><a id=\"location_wet\" href=\"#location_wet\" class=\"autolink_target\">LOCATION, WET</a>. </span> Installations underground or in concrete slabs or <a class=\"autolink\" href=\"/viewer/alaska/irc-2018/chapter/2/definitions#masonry_solid_\">masonry</a> in direct contact with the earth and locations subject to saturation with water or other liquids, such as vehicle-washing areas, and locations <a class=\"autolink\" href=\"#exposed\">exposed</a> to weather.</div>\n<div class=\"u-mt-3 u-mb-3\"><span class=\"u-font-bold\"><a id=\"luminaire\" href=\"#luminaire\" class=\"autolink_target\">LUMINAIRE</a>. </span> A complete lighting unit consisting of a light source such as a lamp or lamps together with the parts designed to position the light source and connect it to the power supply. A <a class=\"autolink\" href=\"#luminaire\">luminaire</a> can include parts to protect the light source or the ballast or to distribute the light. A lamp-holder itself is not a <a class=\"autolink\" href=\"#luminaire\">luminaire</a>.</div>\n<div class=\"u-mt-3 u-mb-3\"><span class=\"u-font-bold\"><a id=\"multioutlet_assembly\" href=\"#multioutlet_assembly\" class=\"autolink_target\">MULTIOUTLET ASSEMBLY</a>. </span> A type of surface, or flush, or freestanding <a class=\"autolink\" href=\"#raceway\">raceway</a>; designed to hold <a class=\"autolink\" href=\"#conductor\">conductors</a> and <a class=\"autolink\" href=\"#receptacle\">receptacles</a>, assembled in the field or at the factory.</div>\n<div class=\"u-mt-3 u-mb-3\"><span class=\"u-font-bold\"><a id=\"neutral_conductor\" href=\"#neutral_conductor\" class=\"autolink_target\">NEUTRAL CONDUCTOR</a>. </span> The <a class=\"autolink\" href=\"#conductor\">conductor</a> connected to the <a class=\"autolink\" href=\"#neutral_point\">neutral point</a> of a system that is intended to carry current under normal conditions.</div>\n<div class=\"u-mt-3 u-mb-3\"><span class=\"u-font-bold\"><a id=\"neutral_point\" href=\"#neutral_point\" class=\"autolink_target\">NEUTRAL POINT</a>. </span> The common point on a wye connection in a polyphase system or midpoint on a single-phase, 3-wire system, or midpoint of a single-phase portion of a 3-phase delta system, or a midpoint of a 3-wire, direct-current system.</div>\n<div class=\"u-mt-3 u-mb-3\"><span class=\"u-font-bold\"><a id=\"outlet\" href=\"#outlet\" class=\"autolink_target\">OUTLET</a>. </span> A point on the wiring system at which current is taken to supply <a class=\"autolink\" href=\"#utilization_equipment\">utilization equipment</a>.</div>\n<div class=\"u-mt-3 u-mb-3\"><span class=\"u-font-bold\"><a id=\"overcurrent\" href=\"#overcurrent\" class=\"autolink_target\">OVERCURRENT</a>. </span> Any current in excess of the rated current of <a class=\"autolink\" href=\"#equipment\">equipment</a> or the <a class=\"autolink\" href=\"#ampacity\">ampacity</a> of a <a class=\"autolink\" href=\"#conductor\">conductor</a>. Such current might result from <a class=\"autolink\" href=\"#overload\">overload</a>, short circuit or <a class=\"autolink\" href=\"#ground\">ground</a> fault.</div>\n<div class=\"u-mt-3 u-mb-3\"><span class=\"u-font-bold\"><a id=\"overload\" href=\"#overload\" class=\"autolink_target\">OVERLOAD</a>. </span> Operation of <a class=\"autolink\" href=\"#equipment\">equipment</a> in excess of normal, full-load rating, or of a <a class=\"autolink\" href=\"#conductor\">conductor</a> in excess of rated <a class=\"autolink\" href=\"#ampacity\">ampacity</a> that, when it persists for a sufficient length of time, would cause damage or dangerous overheating. A fault, such as a short circuit or <a class=\"autolink\" href=\"#ground\">ground</a> fault, is not an <a class=\"autolink\" href=\"#overload\">overload</a>.</div>\n<div class=\"u-mt-3 u-mb-3\"><span class=\"u-font-bold\"><a id=\"panelboard\" href=\"#panelboard\" class=\"autolink_target\">PANELBOARD</a>. </span> A single panel or group of panel units designed for assembly in the form of a single panel, including buses and <a class=\"autolink\" href=\"/viewer/alaska/irc-2018/chapter/2/definitions#automatic_\">automatic</a> <a class=\"autolink\" href=\"#overcurrent\">overcurrent</a> <a class=\"autolink\" href=\"#device\">devices</a>, and equipped with or without <a class=\"autolink\" href=\"#switches\">switches</a> for the <a class=\"autolink\" href=\"/viewer/alaska/irc-2018/chapter/2/definitions#control_limit_\">control</a> of light, heat or power circuits, designed to be placed in a <a class=\"autolink\" href=\"#cabinet\">cabinet</a> or <a class=\"autolink\" href=\"#cutout_box\">cutout box</a> placed in or against a wall, partition or other support and <a class=\"autolink\" href=\"#accessible_readily\">accessible</a> only from the front.</div>\n<div class=\"u-mt-3 u-mb-3\"><span class=\"u-font-bold\"><a id=\"plenum\" href=\"#plenum\" class=\"autolink_target\">PLENUM</a>. </span> A compartment or chamber to which one or more air <a class=\"autolink\" href=\"/viewer/alaska/irc-2018/chapter/2/definitions#duct_\">ducts</a> are connected and that forms part of the air distribution system.</div>\n<div class=\"u-mt-3 u-mb-3\"><span class=\"u-font-bold\"><a id=\"power_outlet\" href=\"#power_outlet\" class=\"autolink_target\">POWER OUTLET</a>. </span> An <a class=\"autolink\" href=\"#enclosed\">enclosed</a> assembly that may include <a class=\"autolink\" href=\"#receptacle\">receptacles</a>, <a class=\"autolink\" href=\"#circuit_breaker\">circuit breakers</a>, fuseholders, fused <a class=\"autolink\" href=\"#switches\">switches</a>, buses and watt-hour meter mounting means, intended to supply and <a class=\"autolink\" href=\"/viewer/alaska/irc-2018/chapter/2/definitions#control_limit_\">control</a> power to mobile homes, recreational vehicles or boats, or to serve as a means for distributing power required to operate mobile or temporarily installed <a class=\"autolink\" href=\"#equipment\">equipment</a>.</div>\n<div class=\"u-mt-3 u-mb-3\"><span class=\"u-font-bold\"><a id=\"premises_wiring_system\" href=\"#premises_wiring_system\" class=\"autolink_target\">PREMISES WIRING (SYSTEM)</a>. </span> Interior and exterior wiring, including power, lighting, <a class=\"autolink\" href=\"/viewer/alaska/irc-2018/chapter/2/definitions#control_limit_\">control</a> and signal circuit wiring together with all of their associated hardware, <a class=\"autolink\" href=\"#fitting\">fittings</a> and wiring <a class=\"autolink\" href=\"#device\">devices</a>, both permanently and temporarily installed. This includes wiring from the <a class=\"autolink\" href=\"#service_point\">service point</a> or power source to the <a class=\"autolink\" href=\"#outlet\">outlets</a> and wiring from and including the power source to the <a class=\"autolink\" href=\"#outlet\">outlets</a> where there is no <a class=\"autolink\" href=\"#service_point\">service point</a>. Such wiring does not include wiring internal to <a class=\"autolink\" href=\"#appliance\">appliances</a>, <a class=\"autolink\" href=\"#luminaire\">luminaires</a>, motors, controllers, and similar <a class=\"autolink\" href=\"#equipment\">equipment</a>.</div>\n<div class=\"u-mt-3 u-mb-3\"><span class=\"u-font-bold\"><a id=\"qualified_person\" href=\"#qualified_person\" class=\"autolink_target\">QUALIFIED PERSON</a>. </span> One who has the skills and knowledge related to the construction and operation of the electrical <a class=\"autolink\" href=\"#equipment\">equipment</a> and installations and has received safety training to recognize and avoid the hazards involved.</div>\n<div class=\"u-mt-3 u-mb-3\"><span class=\"u-font-bold\"><a id=\"raceway\" href=\"#raceway\" class=\"autolink_target\">RACEWAY</a>. </span> An <a class=\"autolink\" href=\"#enclosed\">enclosed</a> channel expressly for holding wires, cables, or busbars, with additional functions as permitted in this code.</div>\n<div class=\"u-mt-3 u-mb-3\"><span class=\"u-font-bold\"><a id=\"rainproof\" href=\"#rainproof\" class=\"autolink_target\">RAINPROOF</a>. </span> Constructed, protected or treated so as to prevent rain from interfering with the successful operation of the apparatus under specified test conditions.</div>\n<div class=\"u-mt-3 u-mb-3\"><span class=\"u-font-bold\"><a id=\"rain_tight\" href=\"#rain_tight\" class=\"autolink_target\">RAIN TIGHT</a>. </span> Constructed or protected so that exposure to a beating rain will not result in the entrance of water under specified test conditions.</div>\n<div class=\"u-mt-3 u-mb-3\"><span class=\"u-font-bold\"><a id=\"receptacle\" href=\"#receptacle\" class=\"autolink_target\">RECEPTACLE</a>. </span> A contact <a class=\"autolink\" href=\"#device\">device</a> installed at the <a class=\"autolink\" href=\"#outlet\">outlet</a> for the connection of an <a class=\"autolink\" href=\"#attachment_plug_plug_cap_plug\">attachment plug</a>, or for the direct connection of electrical <a class=\"autolink\" href=\"#utilization_equipment\">utilization equipment</a> designed to mate with the corresponding contact <a class=\"autolink\" href=\"#device\">device</a>. A single <a class=\"autolink\" href=\"#receptacle\">receptacle</a> is a single contact <a class=\"autolink\" href=\"#device\">device</a> with no other contact <a class=\"autolink\" href=\"#device\">device</a> on the same yoke. A multiple <a class=\"autolink\" href=\"#receptacle\">receptacle</a> is two or more contact <a class=\"autolink\" href=\"#device\">devices</a> on the same yoke.</div>\n<div class=\"u-mt-3 u-mb-3\"><span class=\"u-font-bold\"><a id=\"receptacle_outlet\" href=\"#receptacle_outlet\" class=\"autolink_target\">RECEPTACLE OUTLET</a>. </span> An <a class=\"autolink\" href=\"#outlet\">outlet</a> where one or more <a class=\"autolink\" href=\"#receptacle\">receptacles</a> are installed.</div>\n<div class=\"u-mt-3 u-mb-3\"><span class=\"u-font-bold\"><a id=\"service\" href=\"#service\" class=\"autolink_target\">SERVICE</a>. </span> The <a class=\"autolink\" href=\"#conductor\">conductors</a> and <a class=\"autolink\" href=\"#equipment\">equipment</a> for delivering energy from the serving utility to the wiring system of the premises served.</div>\n<div class=\"u-mt-3 u-mb-3\"><span class=\"u-font-bold\"><a id=\"service_cable\" href=\"#service_cable\" class=\"autolink_target\">SERVICE CABLE</a>. </span> <a class=\"autolink\" href=\"#service_conductors\">Service conductors</a> made up in the form of a cable.</div>\n<div class=\"u-mt-3 u-mb-3\"><span class=\"u-font-bold\"><a id=\"service_conductors\" href=\"#service_conductors\" class=\"autolink_target\">SERVICE CONDUCTORS</a>. </span> The <a class=\"autolink\" href=\"#conductor\">conductors</a> from the <a class=\"autolink\" href=\"#service_point\">service point</a> to the <a class=\"autolink\" href=\"#service\">service</a> <a class=\"autolink\" href=\"#disconnecting_means\">disconnecting means</a>.</div>\n<div class=\"u-mt-3 u-mb-3\"><span class=\"u-font-bold\"><a id=\"service_conductors_overhead\" href=\"#service_conductors_overhead\" class=\"autolink_target\">SERVICE CONDUCTORS, OVERHEAD</a>. </span> The overhead <a class=\"autolink\" href=\"#conductor\">conductors</a> between the <a class=\"autolink\" href=\"#service_point\">service point</a> and the first point of connection to the <a class=\"autolink\" href=\"#service-entrance_conductors_underground_system\">service-entrance conductors</a> at the building or other structure.</div>\n<div class=\"u-mt-3 u-mb-3\"><span class=\"u-font-bold\"><a id=\"service_conductors_underground\" href=\"#service_conductors_underground\" class=\"autolink_target\">SERVICE CONDUCTORS, UNDERGROUND</a>. </span> The underground <a class=\"autolink\" href=\"#conductor\">conductors</a> between the <a class=\"autolink\" href=\"#service_point\">service point</a> and the first point of connection to the <a class=\"autolink\" href=\"#service-entrance_conductors_underground_system\">service-entrance conductors</a> in a terminal box, meter, or other <a class=\"autolink\" href=\"#enclosure\">enclosure</a>, inside or outside of the building wall.</div>\n<div class=\"u-mt-3 u-mb-3\"><span class=\"u-font-bold\"><a id=\"service_drop\" href=\"#service_drop\" class=\"autolink_target\">SERVICE DROP</a>. </span> The <a class=\"autolink\" href=\"#service_conductors_overhead\">overhead service conductors</a> between the utility electric supply system and the <a class=\"autolink\" href=\"#service_point\">service point</a>.</div>\n<div class=\"u-mt-3 u-mb-3\"><span class=\"u-font-bold\"><a id=\"service-entrance_conductors_overhead_system\" href=\"#service-entrance_conductors_overhead_system\" class=\"autolink_target\">SERVICE-ENTRANCE CONDUCTORS, OVERHEAD SYSTEM</a>. </span> The <a class=\"autolink\" href=\"#service_conductors_overhead\">service conductors</a> between the terminals of the <a class=\"autolink\" href=\"#service_equipment\">service equipment</a> and a point usually outside of the building, clear of building <a class=\"autolink\" href=\"/viewer/alaska/irc-2018/chapter/2/definitions#walls_\">walls</a>, where joined by tap or splice to the <a class=\"autolink\" href=\"#service_drop\">service drop</a> or <a class=\"autolink\" href=\"#service_conductors_overhead\">overhead service conductors</a>.</div>\n<div class=\"u-mt-3 u-mb-3\"><span class=\"u-font-bold\"><a id=\"service-entrance_conductors_underground_system\" href=\"#service-entrance_conductors_underground_system\" class=\"autolink_target\">SERVICE-ENTRANCE CONDUCTORS, UNDERGROUND SYSTEM</a>. </span> The <a class=\"autolink\" href=\"#service_conductors\">service conductors</a> between the terminals of the <a class=\"autolink\" href=\"#service_equipment\">service equipment</a> and the point of connection to the <a class=\"autolink\" href=\"#service_lateral\">service lateral</a> or <a class=\"autolink\" href=\"#service_conductors_underground\">underground service conductors</a>.</div>\n<div class=\"u-mt-3 u-mb-3\"><span class=\"u-font-bold\">SERVICE <a class=\"autolink\" href=\"/viewer/alaska/irc-2018/chapter/2/definitions#equipment_\">EQUIPMENT</a>. </span> The necessary <a class=\"autolink\" href=\"#equipment\">equipment</a>, usually consisting of a <a class=\"autolink\" href=\"#circuit_breaker\">circuit breaker</a>(s) or switch(es) and fuse(s), and their accessories, connected to the load end of the <a class=\"autolink\" href=\"#service_conductors_overhead\">service conductors</a> to a building or other structure, or an otherwise designated area, and intended to constitute the <a class=\"autolink\" href=\"/viewer/alaska/irc-2018/chapter/2/definitions#main_\">main</a> <a class=\"autolink\" href=\"/viewer/alaska/irc-2018/chapter/2/definitions#control_limit_\">control</a> and cutoff of the supply.</div>\n<div class=\"u-mt-3 u-mb-3\"><span class=\"u-font-bold\"><a id=\"service_lateral\" href=\"#service_lateral\" class=\"autolink_target\">SERVICE LATERAL</a>. </span> The <a class=\"autolink\" href=\"#service_conductors_underground\">underground service conductors</a> between the electric utility supply system and the <a class=\"autolink\" href=\"#service_point\">service point</a>.</div>\n<div class=\"u-mt-3 u-mb-3\"><span class=\"u-font-bold\"><a id=\"service_point\" href=\"#service_point\" class=\"autolink_target\">SERVICE POINT</a>. </span> The point of connection between the facilities of the serving utility and the <a class=\"autolink\" href=\"#premises_wiring_system\">premises wiring</a>.</div>\n<div class=\"u-mt-3 u-mb-3\"><span class=\"u-font-bold\"><a id=\"structure\" href=\"#structure\" class=\"autolink_target\">STRUCTURE</a>. </span> That which is built or constructed, other than <a class=\"autolink\" href=\"#equipment\">equipment</a>.</div>\n<div>\n<div class=\"u-mb-3\"><span class=\"u-font-bold\"><a id=\"switches\" href=\"#switches\" class=\"autolink_target\">SWITCHES</a>.</span></div>\n<div class=\"u-mt-3 u-mb-3 u-ml-4\"><span class=\"u-font-bold\"><a id=\"general-use_switch_switches\" href=\"#general-use_switch_switches\" class=\"autolink_target\">General-use switch</a>. </span> A switch intended for use in general distribution and <a class=\"autolink\" href=\"#branch_circuit\">branch circuits</a>. It is rated in amperes and is capable of interrupting its rated current at its rated voltage.</div>\n<div class=\"u-mt-3 u-mb-3 u-ml-4\"><span class=\"u-font-bold\"><a id=\"general-use_snap_switch_switches\" href=\"#general-use_snap_switch_switches\" class=\"autolink_target\">General-use snap switch</a>. </span> A form of <a class=\"autolink\" href=\"#general-use_switch_switches\">general-use switch</a> constructed so that it can be installed in <a class=\"autolink\" href=\"#device\">device</a> boxes or on box covers or otherwise used in conjunction with wiring systems recognized by this code.</div>\n<div class=\"u-mt-3 u-mb-3 u-ml-4\"><span class=\"u-font-bold\"><a id=\"isolating_switch_switches\" href=\"#isolating_switch_switches\" class=\"autolink_target\">Isolating switch</a>. </span> A switch intended for isolating an electric circuit from the source of power. It has no <a class=\"autolink\" href=\"#interrupting_rating\">interrupting rating</a> and is intended to be operated only after the circuit has been opened by some other means.</div>\n<div class=\"u-mt-3 u-ml-4\"><span class=\"u-font-bold\"><a id=\"motor-circuit_switch_switches\" href=\"#motor-circuit_switch_switches\" class=\"autolink_target\">Motor-circuit switch</a>. </span> A switch, rated in horsepower that is capable of interrupting the maximum operating <a class=\"autolink\" href=\"#overload\">overload</a> current of a motor of the same horsepower rating as the switch at the rated voltage.</div>\n</div>\n<div class=\"u-mt-3 u-mb-3\"><span class=\"u-font-bold\"><a id=\"ungrounded\" href=\"#ungrounded\" class=\"autolink_target\">UNGROUNDED</a>. </span> Not connected to <a class=\"autolink\" href=\"#ground\">ground</a> or to a conductive body that extends the <a class=\"autolink\" href=\"#ground\">ground</a> connection.</div>\n<div class=\"u-mt-3 u-mb-3\"><span class=\"u-font-bold\">UTILIZATION <a class=\"autolink\" href=\"/viewer/alaska/irc-2018/chapter/2/definitions#equipment_\">EQUIPMENT</a>. </span> <a class=\"autolink\" href=\"#equipment\">Equipment</a> that utilizes electric energy for electronic, electromechanical, chemical, heating, lighting or similar purposes.</div>\n<div class=\"u-mt-3 u-mb-3\"><span class=\"u-font-bold\"><a id=\"ventilated\" href=\"#ventilated\" class=\"autolink_target\">VENTILATED</a>. </span> Provided with a means to <a class=\"autolink\" href=\"/viewer/alaska/irc-2018/chapter/2/definitions#permit_\">permit</a> circulation of air sufficient to remove an excess of heat, fumes or vapors.</div>\n<div class=\"u-mt-3 u-mb-3\"><span class=\"u-font-bold\"><a id=\"voltage_of_a_circuit\" href=\"#voltage_of_a_circuit\" class=\"autolink_target\">VOLTAGE (OF A CIRCUIT)</a>. </span> The greatest root-mean-square (rms) (effective) difference of potential between any two <a class=\"autolink\" href=\"#conductor\">conductors</a> of the circuit concerned.</div>\n<div class=\"u-mt-3 u-mb-3\"><span class=\"u-font-bold\"><a id=\"voltage_nominal\" href=\"#voltage_nominal\" class=\"autolink_target\">VOLTAGE, NOMINAL</a>. </span> A nominal value assigned to a circuit or system for the purpose of conveniently designating its <a class=\"autolink\" href=\"#voltage_nominal\">voltage</a> class (e.g., 120/240). The actual <a class=\"autolink\" href=\"#voltage_nominal\">voltage</a> at which a circuit operates can vary from the nominal within a range that <a class=\"autolink\" href=\"/viewer/alaska/irc-2018/chapter/2/definitions#permit_\">permits</a> satisfactory operation of <a class=\"autolink\" href=\"#equipment\">equipment</a>.</div>\n<div class=\"u-mt-3 u-mb-3\"><span class=\"u-font-bold\"><a id=\"voltage_to_ground\" href=\"#voltage_to_ground\" class=\"autolink_target\">VOLTAGE TO GROUND</a>. </span> For <a class=\"autolink\" href=\"#grounded_grounding\">grounded</a> circuits, the voltage between the given <a class=\"autolink\" href=\"#conductor\">conductor</a> and that point or <a class=\"autolink\" href=\"#conductor\">conductor</a> of the circuit that is grounded. For <a class=\"autolink\" href=\"#ungrounded\">ungrounded</a> circuits, the greatest <a class=\"autolink\" href=\"#voltage_of_a_circuit\">voltage</a> between the given <a class=\"autolink\" href=\"#conductor\">conductor</a> and any other <a class=\"autolink\" href=\"#conductor\">conductor</a> of the circuit.</div>\n<div class=\"u-mt-3 u-mb-3\"><span class=\"u-font-bold\"><a id=\"watertight\" href=\"#watertight\" class=\"autolink_target\">WATERTIGHT</a>. </span> Constructed so that moisture will not enter the <a class=\"autolink\" href=\"#enclosure\">enclosure</a> under specified test conditions.</div>\n<div class=\"u-mt-3\"><span class=\"u-font-bold\"><a id=\"weatherproof\" href=\"#weatherproof\" class=\"autolink_target\">WEATHERPROOF</a>. </span> Constructed or protected so that exposure to the weather will not interfere with successful operation.</div>\n</div>",
+                                        "depth": 2,
+                                        "diagrams": [
+                                            {
+                                                "key": "corded_luminaires_bathtub",
+                                                "title": "Luminaires in Bathtub and Shower Areas",
+                                                "descriptionHtml": "",
+                                                "topics": [
+                                                    "Electrical",
+                                                    "Interior"
+                                                ],
+                                                "phases": [
+                                                    "Construction Docs",
+                                                    "Construction Phase"
+                                                ],
+                                                "supressesChildrenAssociations": false,
+                                                "blacklistJurisdictions": [
+                                                    "seattle",
+                                                    "dupage-illinois"
+                                                ],
+                                                "whitelistJurisdictions": [],
+                                                "imageType": "svg"
+                                            }
+                                        ],
+                                        "displayRef": null,
+                                        "displayTitle": "E3501.1 Scope",
+                                        "hasAssemblies": false,
+                                        "hasDiagrams": true,
+                                        "hasDiagramsOnRef": true,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 0,
+                                        "numDiagramsOnRef": 1,
+                                        "reference": "E3501.1",
+                                        "slug": "electrical-definitions",
+                                        "titleText": "Scope",
+                                        "children": []
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            "chapterReference": "35"
+        },
+        "__N_SSP": true
+    },
+    "page": "/viewer/[urlFormPubOrJurisKey]/[urlFormPub]/chapter/[chapterRef]/[chapterName]",
+    "query": {
+        "urlFormPubOrJurisKey": "alaska",
+        "urlFormPub": "irc-2018",
+        "chapterRef": "35",
+        "chapterName": "electrical-definitions"
+    },
+    "buildId": "RZSwz8uFB9jvXr56FjNnx",
+    "isFallback": false,
+    "isExperimentalCompile": false,
+    "dynamicIds": [
+        61621,
+        54065
+    ],
+    "gssp": true,
+    "scriptLoader": []
+}

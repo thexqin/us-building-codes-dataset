@@ -1,0 +1,1727 @@
+{
+    "props": {
+        "pageProps": {
+            "missingRequiredLogin": false,
+            "title": "Chapter 29 Plumbing Systems: Alabama Building Code 2021 | UpCodes",
+            "leanChapterViewerData": {
+                "basePubName": "International Building Code 2021 (IBC 2021)",
+                "codeGroupingYear": "2022",
+                "codeName": "Alabama Building Code 2021",
+                "codeUuid": "24fa5ee0-c2a2-41a2-89aa-9070d3af1804",
+                "codeVersions": [
+                    {
+                        "codeUuid": "24fa5ee0-c2a2-41a2-89aa-9070d3af1804",
+                        "name": "Original Adoption",
+                        "effectiveStartDate": "2022-07-01",
+                        "shortformUrlName": "ibc-2021",
+                        "activeStatus": "active"
+                    }
+                ],
+                "ingesterAmendmentsEnabled": false,
+                "ingesterCodeUnitsEnabled": false,
+                "isAmendStylingEnabled": true,
+                "isCorrespondable": true,
+                "jurisKey": "alabama",
+                "jurisName": "Alabama",
+                "metaInfoUrl": "/viewer/alabama/ibc-2021",
+                "modelCodeUrl": null,
+                "placeholder": "Search Alabama Building Code 2021",
+                "pubKey": "int_building_code_2021",
+                "pubPrefix": "int_building_code",
+                "shortformPubName": "ibc-2021",
+                "withAmendments": true,
+                "chapterRef": "29",
+                "publisher": "icc",
+                "hasLinkedResources": false,
+                "initialNonChapterTocLines": [
+                    {
+                        "amendType": null,
+                        "children": [
+                            {
+                                "amendType": null,
+                                "children": [],
+                                "depth": 2,
+                                "displayTitle": "2901.1 Scope",
+                                "hasExpanderArrow": false,
+                                "href": "#2901.1",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "reference": "2901.1"
+                            }
+                        ],
+                        "depth": 1,
+                        "displayTitle": "2901 General",
+                        "hasExpanderArrow": true,
+                        "href": "#2901",
+                        "isCodeDivider": false,
+                        "isCodeDividerClickable": false,
+                        "reference": "2901"
+                    },
+                    {
+                        "amendType": null,
+                        "children": [
+                            {
+                                "amendType": null,
+                                "children": [
+                                    {
+                                        "amendType": null,
+                                        "children": [],
+                                        "depth": 3,
+                                        "displayTitle": "2902.1.1 Fixture Calculations",
+                                        "hasExpanderArrow": false,
+                                        "href": "#2902.1.1",
+                                        "isCodeDivider": false,
+                                        "isCodeDividerClickable": false,
+                                        "reference": "2902.1.1"
+                                    },
+                                    {
+                                        "amendType": null,
+                                        "children": [],
+                                        "depth": 3,
+                                        "displayTitle": "2902.1.2 Single-User Toilet and Bathing Room Fixtures",
+                                        "hasExpanderArrow": false,
+                                        "href": "#2902.1.2",
+                                        "isCodeDivider": false,
+                                        "isCodeDividerClickable": false,
+                                        "reference": "2902.1.2"
+                                    },
+                                    {
+                                        "amendType": null,
+                                        "children": [],
+                                        "depth": 3,
+                                        "displayTitle": "2902.1.3 Lavatory Distribution",
+                                        "hasExpanderArrow": false,
+                                        "href": "#2902.1.3",
+                                        "isCodeDivider": false,
+                                        "isCodeDividerClickable": false,
+                                        "reference": "2902.1.3"
+                                    }
+                                ],
+                                "depth": 2,
+                                "displayTitle": "2902.1 Minimum Number of Fixtures",
+                                "hasExpanderArrow": true,
+                                "href": "#2902.1",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "reference": "2902.1"
+                            },
+                            {
+                                "amendType": null,
+                                "children": [
+                                    {
+                                        "amendType": null,
+                                        "children": [],
+                                        "depth": 3,
+                                        "displayTitle": "2902.2.1 Family or Assisted-Use Toilet Facilities Serving as Separate Facilities",
+                                        "hasExpanderArrow": false,
+                                        "href": "#2902.2.1",
+                                        "isCodeDivider": false,
+                                        "isCodeDividerClickable": false,
+                                        "reference": "2902.2.1"
+                                    }
+                                ],
+                                "depth": 2,
+                                "displayTitle": "2902.2 Separate Facilities",
+                                "hasExpanderArrow": true,
+                                "href": "#2902.2",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "reference": "2902.2"
+                            },
+                            {
+                                "amendType": null,
+                                "children": [
+                                    {
+                                        "amendType": null,
+                                        "children": [],
+                                        "depth": 3,
+                                        "displayTitle": "2902.3.1 Access",
+                                        "hasExpanderArrow": false,
+                                        "href": "#2902.3.1",
+                                        "isCodeDivider": false,
+                                        "isCodeDividerClickable": false,
+                                        "reference": "2902.3.1"
+                                    },
+                                    {
+                                        "amendType": null,
+                                        "children": [],
+                                        "depth": 3,
+                                        "displayTitle": "2902.3.2 Prohibited Toilet Room Location",
+                                        "hasExpanderArrow": false,
+                                        "href": "#2902.3.2",
+                                        "isCodeDivider": false,
+                                        "isCodeDividerClickable": false,
+                                        "reference": "2902.3.2"
+                                    },
+                                    {
+                                        "amendType": null,
+                                        "children": [],
+                                        "depth": 3,
+                                        "displayTitle": "2902.3.3 Location of Toilet Facilities in Occupancies Other Than Malls",
+                                        "hasExpanderArrow": false,
+                                        "href": "#2902.3.3",
+                                        "isCodeDivider": false,
+                                        "isCodeDividerClickable": false,
+                                        "reference": "2902.3.3"
+                                    },
+                                    {
+                                        "amendType": null,
+                                        "children": [],
+                                        "depth": 3,
+                                        "displayTitle": "2902.3.4 Location of Toilet Facilities in Malls",
+                                        "hasExpanderArrow": false,
+                                        "href": "#2902.3.4",
+                                        "isCodeDivider": false,
+                                        "isCodeDividerClickable": false,
+                                        "reference": "2902.3.4"
+                                    },
+                                    {
+                                        "amendType": null,
+                                        "children": [],
+                                        "depth": 3,
+                                        "displayTitle": "2902.3.5 Pay Facilities",
+                                        "hasExpanderArrow": false,
+                                        "href": "#2902.3.5",
+                                        "isCodeDivider": false,
+                                        "isCodeDividerClickable": false,
+                                        "reference": "2902.3.5"
+                                    },
+                                    {
+                                        "amendType": null,
+                                        "children": [],
+                                        "depth": 3,
+                                        "displayTitle": "2902.3.6 Door Locking",
+                                        "hasExpanderArrow": false,
+                                        "href": "#2902.3.6",
+                                        "isCodeDivider": false,
+                                        "isCodeDividerClickable": false,
+                                        "reference": "2902.3.6"
+                                    }
+                                ],
+                                "depth": 2,
+                                "displayTitle": "2902.3 Employee and Public Toilet Facilities",
+                                "hasExpanderArrow": true,
+                                "href": "#2902.3",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "reference": "2902.3"
+                            },
+                            {
+                                "amendType": null,
+                                "children": [
+                                    {
+                                        "amendType": null,
+                                        "children": [],
+                                        "depth": 3,
+                                        "displayTitle": "2902.4.1 Directional Signage",
+                                        "hasExpanderArrow": false,
+                                        "href": "#2902.4.1",
+                                        "isCodeDivider": false,
+                                        "isCodeDividerClickable": false,
+                                        "reference": "2902.4.1"
+                                    }
+                                ],
+                                "depth": 2,
+                                "displayTitle": "2902.4 Signage",
+                                "hasExpanderArrow": true,
+                                "href": "#2902.4",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "reference": "2902.4"
+                            },
+                            {
+                                "amendType": null,
+                                "children": [],
+                                "depth": 2,
+                                "displayTitle": "2902.5 Drinking Fountain Location",
+                                "hasExpanderArrow": false,
+                                "href": "#2902.5",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "reference": "2902.5"
+                            },
+                            {
+                                "amendType": null,
+                                "children": [],
+                                "depth": 2,
+                                "displayTitle": "2902.6 Small Occupancies",
+                                "hasExpanderArrow": false,
+                                "href": "#2902.6",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "reference": "2902.6"
+                            },
+                            {
+                                "amendType": null,
+                                "children": [],
+                                "depth": 2,
+                                "displayTitle": "2902.7 Service Sink Location",
+                                "hasExpanderArrow": false,
+                                "href": "#2902.7",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "reference": "2902.7"
+                            }
+                        ],
+                        "depth": 1,
+                        "displayTitle": "2902 Minimum Plumbing Facilities",
+                        "hasExpanderArrow": true,
+                        "href": "#2902",
+                        "isCodeDivider": false,
+                        "isCodeDividerClickable": false,
+                        "reference": "2902"
+                    },
+                    {
+                        "amendType": null,
+                        "children": [
+                            {
+                                "amendType": null,
+                                "children": [
+                                    {
+                                        "amendType": null,
+                                        "children": [],
+                                        "depth": 3,
+                                        "displayTitle": "2903.1.1 Water Closets, Urinals, Lavatories and Bidets",
+                                        "hasExpanderArrow": false,
+                                        "href": "#2903.1.1",
+                                        "isCodeDivider": false,
+                                        "isCodeDividerClickable": false,
+                                        "reference": "2903.1.1"
+                                    },
+                                    {
+                                        "amendType": null,
+                                        "children": [],
+                                        "depth": 3,
+                                        "displayTitle": "2903.1.2 Public Lavatories",
+                                        "hasExpanderArrow": false,
+                                        "href": "#2903.1.2",
+                                        "isCodeDivider": false,
+                                        "isCodeDividerClickable": false,
+                                        "reference": "2903.1.2"
+                                    },
+                                    {
+                                        "amendType": null,
+                                        "children": [],
+                                        "depth": 3,
+                                        "displayTitle": "2903.1.3 Location of Fixtures and Piping",
+                                        "hasExpanderArrow": false,
+                                        "href": "#2903.1.3",
+                                        "isCodeDivider": false,
+                                        "isCodeDividerClickable": false,
+                                        "reference": "2903.1.3"
+                                    },
+                                    {
+                                        "amendType": null,
+                                        "children": [],
+                                        "depth": 3,
+                                        "displayTitle": "2903.1.4 Water Closet Compartment",
+                                        "hasExpanderArrow": false,
+                                        "href": "#2903.1.4",
+                                        "isCodeDivider": false,
+                                        "isCodeDividerClickable": false,
+                                        "reference": "2903.1.4"
+                                    },
+                                    {
+                                        "amendType": null,
+                                        "children": [],
+                                        "depth": 3,
+                                        "displayTitle": "2903.1.5 Urinal Partitions",
+                                        "hasExpanderArrow": false,
+                                        "href": "#2903.1.5",
+                                        "isCodeDivider": false,
+                                        "isCodeDividerClickable": false,
+                                        "reference": "2903.1.5"
+                                    }
+                                ],
+                                "depth": 2,
+                                "displayTitle": "2903.1 Setting",
+                                "hasExpanderArrow": true,
+                                "href": "#2903.1",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "reference": "2903.1"
+                            }
+                        ],
+                        "depth": 1,
+                        "displayTitle": "2903 Installation of Fixtures",
+                        "hasExpanderArrow": true,
+                        "href": "#2903",
+                        "isCodeDivider": false,
+                        "isCodeDividerClickable": false,
+                        "reference": "2903"
+                    }
+                ],
+                "title": "Chapter 29 Plumbing Systems: Alabama Building Code 2021 | UpCodes",
+                "leanChapterLines": [
+                    {
+                        "displayTitle": "Chapter 1 Scope and Administration",
+                        "isExpandable": true,
+                        "reference": "1",
+                        "slug": "scope-and-administration"
+                    },
+                    {
+                        "displayTitle": "Chapter 2 Definitions",
+                        "isExpandable": true,
+                        "reference": "2",
+                        "slug": "definitions"
+                    },
+                    {
+                        "displayTitle": "Chapter 3 Occupancy Classification and Use",
+                        "isExpandable": true,
+                        "reference": "3",
+                        "slug": "occupancy-classification-and-use"
+                    },
+                    {
+                        "displayTitle": "Chapter 4 Special Detailed Requirements Based on Occupancy and Use",
+                        "isExpandable": true,
+                        "reference": "4",
+                        "slug": "special-detailed-requirements-based-on-occupancy-and-use"
+                    },
+                    {
+                        "displayTitle": "Chapter 5 General Building Heights and Areas",
+                        "isExpandable": true,
+                        "reference": "5",
+                        "slug": "general-building-heights-and-areas"
+                    },
+                    {
+                        "displayTitle": "Chapter 6 Types of Construction",
+                        "isExpandable": true,
+                        "reference": "6",
+                        "slug": "types-of-construction"
+                    },
+                    {
+                        "displayTitle": "Chapter 7 Fire and Smoke Protection Features",
+                        "isExpandable": true,
+                        "reference": "7",
+                        "slug": "fire-and-smoke-protection-features"
+                    },
+                    {
+                        "displayTitle": "Chapter 8 Interior Finishes",
+                        "isExpandable": true,
+                        "reference": "8",
+                        "slug": "interior-finishes"
+                    },
+                    {
+                        "displayTitle": "Chapter 9 Fire Protection and Life Safety Systems",
+                        "isExpandable": true,
+                        "reference": "9",
+                        "slug": "fire-protection-and-life-safety-systems"
+                    },
+                    {
+                        "displayTitle": "Chapter 10 Means of Egress",
+                        "isExpandable": true,
+                        "reference": "10",
+                        "slug": "means-of-egress"
+                    },
+                    {
+                        "displayTitle": "Chapter 11 Accessibility",
+                        "isExpandable": true,
+                        "reference": "11",
+                        "slug": "accessibility"
+                    },
+                    {
+                        "displayTitle": "Chapter 12 Interior Environment",
+                        "isExpandable": true,
+                        "reference": "12",
+                        "slug": "interior-environment"
+                    },
+                    {
+                        "displayTitle": "Chapter 13 Energy Efficiency",
+                        "isExpandable": true,
+                        "reference": "13",
+                        "slug": "energy-efficiency"
+                    },
+                    {
+                        "displayTitle": "Chapter 14 Exterior Walls",
+                        "isExpandable": true,
+                        "reference": "14",
+                        "slug": "exterior-walls"
+                    },
+                    {
+                        "displayTitle": "Chapter 15 Roof Assemblies and Rooftop Structures",
+                        "isExpandable": true,
+                        "reference": "15",
+                        "slug": "roof-assemblies-and-rooftop-structures"
+                    },
+                    {
+                        "displayTitle": "Chapter 16 Structural Design",
+                        "isExpandable": true,
+                        "reference": "16",
+                        "slug": "structural-design"
+                    },
+                    {
+                        "displayTitle": "Chapter 17 Special Inspections and Tests",
+                        "isExpandable": true,
+                        "reference": "17",
+                        "slug": "special-inspections-and-tests"
+                    },
+                    {
+                        "displayTitle": "Chapter 18 Soils and Foundations",
+                        "isExpandable": true,
+                        "reference": "18",
+                        "slug": "soils-and-foundations"
+                    },
+                    {
+                        "displayTitle": "Chapter 19 Concrete",
+                        "isExpandable": true,
+                        "reference": "19",
+                        "slug": "concrete"
+                    },
+                    {
+                        "displayTitle": "Chapter 20 Aluminum",
+                        "isExpandable": true,
+                        "reference": "20",
+                        "slug": "aluminum"
+                    },
+                    {
+                        "displayTitle": "Chapter 21 Masonry",
+                        "isExpandable": true,
+                        "reference": "21",
+                        "slug": "masonry"
+                    },
+                    {
+                        "displayTitle": "Chapter 22 Steel",
+                        "isExpandable": true,
+                        "reference": "22",
+                        "slug": "steel"
+                    },
+                    {
+                        "displayTitle": "Chapter 23 Wood",
+                        "isExpandable": true,
+                        "reference": "23",
+                        "slug": "wood"
+                    },
+                    {
+                        "displayTitle": "Chapter 24 Glass and Glazing",
+                        "isExpandable": true,
+                        "reference": "24",
+                        "slug": "glass-and-glazing"
+                    },
+                    {
+                        "displayTitle": "Chapter 25 Gypsum Board, Gypsum Panel Products and Plaster",
+                        "isExpandable": true,
+                        "reference": "25",
+                        "slug": "gypsum-board-gypsum-panel-products-and-plaster"
+                    },
+                    {
+                        "displayTitle": "Chapter 26 Plastic",
+                        "isExpandable": true,
+                        "reference": "26",
+                        "slug": "plastic"
+                    },
+                    {
+                        "displayTitle": "Chapter 27 Electrical",
+                        "isExpandable": true,
+                        "reference": "27",
+                        "slug": "electrical"
+                    },
+                    {
+                        "displayTitle": "Chapter 28 Mechanical Systems",
+                        "isExpandable": true,
+                        "reference": "28",
+                        "slug": "mechanical-systems"
+                    },
+                    {
+                        "displayTitle": "Chapter 29 Plumbing Systems",
+                        "isExpandable": true,
+                        "reference": "29",
+                        "slug": "plumbing-systems"
+                    },
+                    {
+                        "displayTitle": "Chapter 30 Elevators and Conveying Systems",
+                        "isExpandable": true,
+                        "reference": "30",
+                        "slug": "elevators-and-conveying-systems"
+                    },
+                    {
+                        "displayTitle": "Chapter 31 Special Construction",
+                        "isExpandable": true,
+                        "reference": "31",
+                        "slug": "special-construction"
+                    },
+                    {
+                        "displayTitle": "Chapter 32 Encroachments Into the Public Right-of-Way",
+                        "isExpandable": true,
+                        "reference": "32",
+                        "slug": "encroachments-into-the-public-right-of-way"
+                    },
+                    {
+                        "displayTitle": "Chapter 33 Safeguards During Construction",
+                        "isExpandable": true,
+                        "reference": "33",
+                        "slug": "safeguards-during-construction"
+                    },
+                    {
+                        "displayTitle": "Chapter 34 Reserved",
+                        "reference": "34",
+                        "slug": "reserved"
+                    },
+                    {
+                        "displayTitle": "Chapter 35 Referenced Standards",
+                        "reference": "35",
+                        "slug": "referenced-standards"
+                    },
+                    {
+                        "disabled": true,
+                        "displayTitle": "Appendix A Employee Qualifications",
+                        "reference": "A",
+                        "slug": "employee-qualifications"
+                    },
+                    {
+                        "disabled": true,
+                        "displayTitle": "Appendix B Board of Appeals",
+                        "reference": "B",
+                        "slug": "board-of-appeals"
+                    },
+                    {
+                        "disabled": true,
+                        "displayTitle": "Appendix C Group U\u2014Agricultural Buildings",
+                        "reference": "C",
+                        "slug": "group-u-agricultural-buildings"
+                    },
+                    {
+                        "disabled": true,
+                        "displayTitle": "Appendix D Fire Districts",
+                        "reference": "D",
+                        "slug": "fire-districts"
+                    },
+                    {
+                        "disabled": true,
+                        "displayTitle": "Appendix E Supplementary Accessibility Requirements",
+                        "reference": "E",
+                        "slug": "supplementary-accessibility-requirements"
+                    },
+                    {
+                        "disabled": true,
+                        "displayTitle": "Appendix F Rodentproofing",
+                        "reference": "F",
+                        "slug": "rodentproofing"
+                    },
+                    {
+                        "disabled": true,
+                        "displayTitle": "Appendix G Flood-Resistant Construction",
+                        "reference": "G",
+                        "slug": "flood-resistant-construction"
+                    },
+                    {
+                        "disabled": true,
+                        "displayTitle": "Appendix H Signs",
+                        "reference": "H",
+                        "slug": "signs"
+                    },
+                    {
+                        "disabled": true,
+                        "displayTitle": "Appendix I Patio Covers",
+                        "reference": "I",
+                        "slug": "patio-covers"
+                    },
+                    {
+                        "disabled": true,
+                        "displayTitle": "Appendix J Grading",
+                        "reference": "J",
+                        "slug": "grading"
+                    },
+                    {
+                        "disabled": true,
+                        "displayTitle": "Appendix K Administrative Provisions",
+                        "reference": "K",
+                        "slug": "administrative-provisions"
+                    },
+                    {
+                        "disabled": true,
+                        "displayTitle": "Appendix L Earthquake Recording Instrumentation",
+                        "reference": "L",
+                        "slug": "earthquake-recording-instrumentation"
+                    },
+                    {
+                        "disabled": true,
+                        "displayTitle": "Appendix M Tsunami-Generated Flood Hazards",
+                        "reference": "M",
+                        "slug": "tsunami-generated-flood-hazards"
+                    },
+                    {
+                        "disabled": true,
+                        "displayTitle": "Appendix N Replicable Buildings",
+                        "reference": "N",
+                        "slug": "replicable-buildings"
+                    },
+                    {
+                        "disabled": true,
+                        "displayTitle": "[A] Appendix O Performance-Based Application",
+                        "reference": "O",
+                        "slug": "performance-based-application"
+                    }
+                ],
+                "leanCodeSectionsTree": [
+                    {
+                        "ancestorRefs": [],
+                        "body": "<span class=\"u-font-bold\">User note:</span>\n<div><span class=\"u-italic\"><span class=\"u-font-bold\">About this chapter:</span> Plumbing systems are another key element of any building. Chapter 29 provides the necessary number of plumbing fixtures, including water closets, lavatories, bathtubs and showers. The quality and design of each fixture must be in accordance with the </span><a class=\"autolink\" href=\"/viewer/alabama/ipc-2021\">International Plumbing Code</a><sup>\u00ae</sup>.</div>",
+                        "depth": 0,
+                        "diagrams": [],
+                        "displayRef": null,
+                        "displayTitle": "Chapter 29 Plumbing Systems",
+                        "divisionType": "Chapter",
+                        "hasAssemblies": false,
+                        "isContiguous": true,
+                        "numAssembliesOnRef": 0,
+                        "numBuildingProductsOnRef": 0,
+                        "numDiagramsOnRef": 0,
+                        "reference": "29",
+                        "slug": "plumbing-systems",
+                        "titleText": "Plumbing Systems",
+                        "children": [
+                            {
+                                "ancestorRefs": [
+                                    "29"
+                                ],
+                                "depth": 1,
+                                "diagrams": [],
+                                "displayRef": null,
+                                "displayTitle": "Section 2901 General",
+                                "divisionType": "Section",
+                                "hasAssemblies": false,
+                                "isContiguous": true,
+                                "numAssembliesOnRef": 0,
+                                "numBuildingProductsOnRef": 0,
+                                "numDiagramsOnRef": 0,
+                                "reference": "2901",
+                                "slug": "plumbing-systems",
+                                "titleText": "General",
+                                "children": [
+                                    {
+                                        "ancestorRefs": [
+                                            "29",
+                                            "2901"
+                                        ],
+                                        "body": "The provisions of this chapter and the <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/alabama/ipc-2021\">International Plumbing Code</a></span> shall govern the design, construction, erection and installation of plumbing components, appliances, equipment and systems used in <span class=\"u-italic\">buildings</span> and structures covered by this code. Toilet and bathing rooms shall be constructed in accordance with <a class=\"autolink\" href=\"/viewer/alabama/ibc-2021/chapter/12/interior-environment#1210\">Section 1210</a>. Private sewage disposal systems shall conform to the <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/alabama/ipsdc-2021\">International Private Sewage Disposal Code</a></span>. The <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/alabama/ifc-2021\">International Fire Code</a></span>, the <span class=\"u-italic\">International Property Maintenance Code</span> and the <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/alabama/ipc-2021\">International Plumbing Code</a></span> shall govern the use and maintenance of plumbing components, appliances, equipment and systems. The <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/alabama/iebc-2021\">International Existing Building Code</a></span> and the <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/alabama/ipc-2021\">International Plumbing Code</a></span> shall govern the <a class=\"autolink\" href=\"/viewer/alabama/ibc-2021/chapter/2/definitions#alteration_\">alteration</a>, <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/alabama/ibc-2021/chapter/2/definitions#repair_\">repair</a></span>, relocation, replacement and <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/alabama/ibc-2021/chapter/2/definitions#addition_\">addition</a></span> of plumbing components, <span class=\"u-italic\">appliances</span>, <span class=\"u-italic\">equipment</span> and systems.",
+                                        "depth": 2,
+                                        "diagrams": [],
+                                        "displayRef": null,
+                                        "displayTitle": "[P]  2901.1 Scope",
+                                        "hasAssemblies": false,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 0,
+                                        "numDiagramsOnRef": 0,
+                                        "reference": "2901.1",
+                                        "refPrefix": "[P]",
+                                        "slug": "plumbing-systems",
+                                        "titleText": "Scope",
+                                        "children": []
+                                    }
+                                ]
+                            },
+                            {
+                                "ancestorRefs": [
+                                    "29"
+                                ],
+                                "depth": 1,
+                                "diagrams": [
+                                    {
+                                        "key": "multiple_drinking_fountains",
+                                        "title": "Multiple Drinking Fountains",
+                                        "descriptionHtml": "<div>The requirements for drinking fountain heights are that spout outlets for standing persons must be 38 inches (965 mm) minimum and 43 inches (1090 mm) maximum above the finish floor or ground. The spout height should not exceed 36 inches (915 mm) above the finish floor or ground. Two drinking fountains must be provided, one for standing persons which complies with requirements 602.1 through 602.6, and one for people using wheelchairs which complies with section 602.7. 50% of the total number of drinking fountains beyond the minimum number required by section 211.2 must comply with sections 602.1 through 602.6, and 50% of the total number of drinking fountains provided must comply with section 602.7.</div>",
+                                        "topics": [
+                                            "Access",
+                                            "ADA"
+                                        ],
+                                        "phases": [
+                                            "Design Development",
+                                            "Construction Docs"
+                                        ],
+                                        "supressesChildrenAssociations": false,
+                                        "blacklistJurisdictions": [],
+                                        "whitelistJurisdictions": [],
+                                        "imageType": "svg"
+                                    },
+                                    {
+                                        "key": "drinking_fountain_accessibility_scope",
+                                        "title": "Drinking Fountain Accessibility: Scoping",
+                                        "descriptionHtml": "",
+                                        "topics": [
+                                            "Access",
+                                            "Plumbing",
+                                            "Example"
+                                        ],
+                                        "phases": [
+                                            "Design Development",
+                                            "Construction Docs"
+                                        ],
+                                        "supressesChildrenAssociations": false,
+                                        "blacklistJurisdictions": [
+                                            "california",
+                                            "los_angeles",
+                                            "los-angeles-county",
+                                            "san_francisco",
+                                            "san-diego",
+                                            "san-jose",
+                                            "sioux-falls",
+                                            "montana",
+                                            "maine"
+                                        ],
+                                        "whitelistJurisdictions": [],
+                                        "imageType": "svg"
+                                    },
+                                    {
+                                        "key": "plumbing_fixture_calc_1",
+                                        "title": "Plumbing Fixture Count: Retail",
+                                        "descriptionHtml": "<div>The calculation shown is based on Section 2902 of the building code using the occupant load factors of Section 1004, assuming half of the occupants are male and half are female.  Other states and local jurisdictions may allow other methods which may provide a reduced occupant load, such as certain uses in California such as public schools or state owned buildings (See CPC 422.1, Table 4-1 for example). In addition, other plumbing codes may supersede Chapter 29 and/or have different plumbing fixture ratios than those shown here.</div>",
+                                        "topics": [
+                                            "Example",
+                                            "Fixtures",
+                                            "Plumbing"
+                                        ],
+                                        "phases": [
+                                            "Design Development",
+                                            "Construction Docs"
+                                        ],
+                                        "supressesChildrenAssociations": false,
+                                        "blacklistJurisdictions": [
+                                            "new_york_city",
+                                            "austin",
+                                            "illinois",
+                                            "chicago",
+                                            "new_jersey",
+                                            "massachusetts",
+                                            "california",
+                                            "san_francisco",
+                                            "los_angeles",
+                                            "san-jose",
+                                            "los-angeles-county",
+                                            "alaska",
+                                            "san-diego",
+                                            "kentucky",
+                                            "north_carolina",
+                                            "michigan"
+                                        ],
+                                        "whitelistJurisdictions": [],
+                                        "imageType": "svg"
+                                    },
+                                    {
+                                        "key": "travel_dist_drinking_fountain_mall",
+                                        "title": "Travel Distance to Drinking Fountains - Covered or Open Mall",
+                                        "descriptionHtml": "<div>Drinking fountains are not required in individual tenant spaces where a public drinking fountain is provided.  In other than a covered or open mall the public drinking fountain must be within one story and a travel distance of 500 from the most remote location within the tenant spaces.  In a covered or open mall the public drinking fountain must be within one story and a travel distance of 300 from the most remote location within the tenant spaces.</div>",
+                                        "topics": [
+                                            "Plumbing"
+                                        ],
+                                        "phases": [
+                                            "Construction Docs",
+                                            "Design Development"
+                                        ],
+                                        "supressesChildrenAssociations": false,
+                                        "blacklistJurisdictions": [],
+                                        "whitelistJurisdictions": [],
+                                        "imageType": "svg"
+                                    },
+                                    {
+                                        "key": "travel_dist_drinking_fountain_other",
+                                        "title": "Travel Distance to Drinking Fountains - Other Buildings",
+                                        "descriptionHtml": "<div>Drinking fountains are not required in individual tenant spaces where a public drinking fountain is provided.  In other than a covered or open mall the public drinking fountain must be within one story and a travel distance of 500 from the most remote location within the tenant spaces.  In a covered or open mall the public drinking fountain must be within one story and a travel distance of 300 from the most remote location within the tenant spaces.</div>",
+                                        "topics": [
+                                            "Plumbing"
+                                        ],
+                                        "phases": [
+                                            "Design Development",
+                                            "Construction Docs"
+                                        ],
+                                        "supressesChildrenAssociations": false,
+                                        "blacklistJurisdictions": [],
+                                        "whitelistJurisdictions": [],
+                                        "imageType": "svg"
+                                    }
+                                ],
+                                "displayRef": null,
+                                "displayTitle": "Section 2902 Minimum Plumbing Facilities",
+                                "divisionType": "Section",
+                                "hasAssemblies": false,
+                                "hasDiagrams": true,
+                                "hasDiagramsOnRef": true,
+                                "isContiguous": true,
+                                "numAssembliesOnRef": 0,
+                                "numBuildingProductsOnRef": 0,
+                                "numDiagramsOnRef": 5,
+                                "reference": "2902",
+                                "slug": "plumbing-systems",
+                                "titleText": "Minimum Plumbing Facilities",
+                                "children": [
+                                    {
+                                        "ancestorRefs": [
+                                            "29",
+                                            "2902"
+                                        ],
+                                        "body": "<div>Plumbing fixtures shall be provided in the minimum number as shown in Table 2902.1 based on the actual use of the building or space. Uses not shown in Table 2902.1 shall be considered individually by the code official. The number of occupants shall be determined by this code.</div>\n<figure>\n<figcaption><br/>[P] TABLE 2902.1\n<div class=\"u-mb-3\">MINIMUM NUMBER OF REQUIRED PLUMBING FIXTURES<sup>a</sup> (See Sections <a class=\"autolink\" href=\"#2902.1.1\">2902.1.1</a> and <a class=\"autolink\" href=\"#2902.2\">2902.2</a>)</div>\n</figcaption>\n<table class=\"uc_all_borders\">\n<tbody>\n<tr>\n<td class=\"u-align-middle u-text-center uc_all_borders\" colspan=\"1\" rowspan=\"2\"><span class=\"u-font-bold\">No.</span></td>\n<td class=\"u-align-middle u-text-center uc_all_borders\" colspan=\"1\" rowspan=\"2\"><span class=\"u-font-bold\">CLASSIFICATION</span></td>\n<td class=\"u-align-middle u-text-center uc_all_borders\" colspan=\"1\" rowspan=\"2\"><span class=\"u-font-bold\">DESCRIPTION</span></td>\n<td class=\"u-align-middle u-text-center uc_all_borders\" colspan=\"2\" rowspan=\"1\"><span class=\"u-font-bold\">WATER CLOSETS (URINALS SEE <a class=\"autolink\" href=\"/viewer/alabama/ipc-2021/chapter/4/fixtures-faucets-and-fixture-fittings#424.2\">SECTION 424.2</a> OF THE <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/alabama/ipc-2021\">INTERNATIONAL PLUMBING CODE</a></span>)</span></td>\n<td class=\"u-align-middle u-text-center uc_all_borders\" colspan=\"2\" rowspan=\"1\"><span class=\"u-font-bold\">LAVATORIES</span></td>\n<td class=\"u-align-middle u-text-center uc_all_borders\" colspan=\"1\" rowspan=\"2\"><span class=\"u-font-bold\">BATHTUBS/SHOWERS</span></td>\n<td class=\"u-align-middle u-text-center uc_all_borders\" colspan=\"1\" rowspan=\"2\"><span class=\"u-font-bold\">DRINKING FOUNTAINS (SEE <a class=\"autolink\" href=\"/viewer/alabama/ipc-2021/chapter/4/fixtures-faucets-and-fixture-fittings#410\">SECTION 410</a> OF THE <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/alabama/ipc-2021\">INTERNATIONAL PLUMBING CODE</a></span>)</span></td>\n<td class=\"u-align-middle u-text-center uc_all_borders\" colspan=\"1\" rowspan=\"2\"><span class=\"u-font-bold\">OTHER</span></td>\n</tr>\n<tr>\n<td class=\"u-align-middle u-text-center uc_all_borders\" colspan=\"1\" rowspan=\"1\"><span class=\"u-font-bold\">Male</span></td>\n<td class=\"u-align-middle u-text-center uc_all_borders\" colspan=\"1\" rowspan=\"1\"><span class=\"u-font-bold\">Female</span></td>\n<td class=\"u-align-middle u-text-center uc_all_borders\" colspan=\"1\" rowspan=\"1\"><span class=\"u-font-bold\">Male</span></td>\n<td class=\"u-align-middle u-text-center uc_all_borders\" colspan=\"1\" rowspan=\"1\"><span class=\"u-font-bold\">Female</span></td>\n</tr>\n<tr>\n<td class=\"uc_all_borders\" colspan=\"1\" rowspan=\"9\">1</td>\n<td class=\"u-align-middle u-text-left uc_all_borders\" colspan=\"1\" rowspan=\"9\">Assembly</td>\n<td class=\"u-align-middle u-text-left uc_all_borders\" colspan=\"1\" rowspan=\"1\">Theaters and other buildings for the performing arts and motion pictures<sup>d</sup></td>\n<td class=\"u-align-middle u-text-center uc_all_borders\" colspan=\"1\" rowspan=\"1\">1 per 125</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\" colspan=\"1\" rowspan=\"1\">1 per 65</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\" colspan=\"2\" rowspan=\"1\">1 per 200</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\" colspan=\"1\" rowspan=\"1\">\u2014</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\" colspan=\"1\" rowspan=\"1\">1 per 500</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\" colspan=\"1\" rowspan=\"1\">1 service sink</td>\n</tr>\n<tr>\n<td class=\"u-align-middle u-text-left uc_all_borders\" colspan=\"1\" rowspan=\"1\">Nightclubs, bars, taverns, dance halls and buildings for similar purposes<sup>d</sup></td>\n<td class=\"u-align-middle u-text-center uc_all_borders\" colspan=\"1\" rowspan=\"1\">1 per 40</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\" colspan=\"1\" rowspan=\"1\">1 per 40</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\" colspan=\"2\" rowspan=\"1\">1 per 75</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\" colspan=\"1\" rowspan=\"1\">\u2014</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\" colspan=\"1\" rowspan=\"1\">1 per 500</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\" colspan=\"1\" rowspan=\"1\">1 service sink</td>\n</tr>\n<tr>\n<td class=\"u-align-middle u-text-left uc_all_borders\" colspan=\"1\" rowspan=\"1\">Restaurants, banquet halls and <a class=\"autolink\" href=\"/viewer/alabama/ibc-2021/chapter/2/definitions#food_court_\">food courts</a><sup>d</sup></td>\n<td class=\"u-align-middle u-text-center uc_all_borders\" colspan=\"1\" rowspan=\"1\">1 per 75</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\" colspan=\"1\" rowspan=\"1\">1 per 75</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\" colspan=\"2\" rowspan=\"1\">1 per 200</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\" colspan=\"1\" rowspan=\"1\">\u2014</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\" colspan=\"1\" rowspan=\"1\">1 per 500</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\" colspan=\"1\" rowspan=\"1\">1 service sink</td>\n</tr>\n<tr>\n<td class=\"u-align-middle u-text-left uc_all_borders\" colspan=\"1\" rowspan=\"1\">Casino <a class=\"autolink\" href=\"/viewer/alabama/ibc-2021/chapter/2/definitions#gaming_area_\">gaming areas</a></td>\n<td class=\"u-align-middle u-text-center uc_all_borders\" colspan=\"1\" rowspan=\"1\">1 per 100 for the first 400 and 1 per 250 for the remainder exceeding 400</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\" colspan=\"1\" rowspan=\"1\">1 per 50 for the first 400 and 1 per 150 for the remainder exceeding 400</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\" colspan=\"2\" rowspan=\"1\">1 per 250 for the first 750 and 1 per 500 for the remainder exceeding 750</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\" colspan=\"1\" rowspan=\"1\">\u2014</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\" colspan=\"1\" rowspan=\"1\">1 per 1,000</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\" colspan=\"1\" rowspan=\"1\">1 service sink</td>\n</tr>\n<tr>\n<td class=\"u-align-middle u-text-left uc_all_borders\" colspan=\"1\" rowspan=\"1\">Auditoriums without permanent seating, art galleries, exhibition halls, museums, lecture halls, libraries, arcades and gymnasiums<sup>d</sup></td>\n<td class=\"u-align-middle u-text-center uc_all_borders\" colspan=\"1\" rowspan=\"1\">1 per 125</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\" colspan=\"1\" rowspan=\"1\">1 per 65</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\" colspan=\"2\" rowspan=\"1\">1 per 200</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\" colspan=\"1\" rowspan=\"1\">\u2014</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\" colspan=\"1\" rowspan=\"1\">1 per 500</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\" colspan=\"1\" rowspan=\"1\">1 service sink</td>\n</tr>\n<tr>\n<td class=\"u-align-middle u-text-left uc_all_borders\" colspan=\"1\" rowspan=\"1\">Passenger terminals and transportation <a class=\"autolink\" href=\"/viewer/alabama/ibc-2021/chapter/2/definitions#facility_\">facilities</a><sup>d</sup></td>\n<td class=\"u-align-middle u-text-center uc_all_borders\" colspan=\"1\" rowspan=\"1\">1 per 500</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\" colspan=\"1\" rowspan=\"1\">1 per 500</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\" colspan=\"2\" rowspan=\"1\">1 per 750</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\" colspan=\"1\" rowspan=\"1\">\u2014</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\" colspan=\"1\" rowspan=\"1\">1 per 1,000</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\" colspan=\"1\" rowspan=\"1\">1 service sink</td>\n</tr>\n<tr>\n<td class=\"u-align-middle u-text-left uc_all_borders\" colspan=\"1\" rowspan=\"1\">Places of worship and other religious services<sup>d</sup></td>\n<td class=\"u-align-middle u-text-center uc_all_borders\" colspan=\"1\" rowspan=\"1\">1 per 150</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\" colspan=\"1\" rowspan=\"1\">1 per 75</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\" colspan=\"2\" rowspan=\"1\">1 per 200</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\" colspan=\"1\" rowspan=\"1\">\u2014</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\" colspan=\"1\" rowspan=\"1\">1 per 1,000</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\" colspan=\"1\" rowspan=\"1\">1 service sink</td>\n</tr>\n<tr>\n<td class=\"u-align-middle u-text-left uc_all_borders\" colspan=\"1\" rowspan=\"1\">Coliseums, arenas, skating rinks, pools and tennis <a class=\"autolink\" href=\"/viewer/alabama/ibc-2021/chapter/2/definitions#court_\">courts</a> for indoor sporting events and activities</td>\n<td class=\"u-align-middle u-text-left u-text-center uc_all_borders\" colspan=\"1\" rowspan=\"1\">1 per 75 for the first 1,500 and 1 per 120 for the remainder exceeding 1,500</td>\n<td class=\"u-align-middle u-text-left u-text-center uc_all_borders\" colspan=\"1\" rowspan=\"1\">1 per 40 for the first 1,520 and 1 per 60 for the remainder exceeding 1,520</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\" colspan=\"1\" rowspan=\"1\">1 per 200</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\" colspan=\"1\" rowspan=\"1\">1 per 150</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\" colspan=\"1\" rowspan=\"1\">\u2014</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\" colspan=\"1\" rowspan=\"1\">1 per 1,000</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\" colspan=\"1\" rowspan=\"1\">1 service sink</td>\n</tr>\n<tr>\n<td class=\"u-align-middle u-text-left uc_all_borders\" colspan=\"1\" rowspan=\"1\">Stadiums, amusement parks, <a class=\"autolink\" href=\"/viewer/alabama/ibc-2021/chapter/2/definitions#bleachers_\">bleachers</a> and <a class=\"autolink\" href=\"/viewer/alabama/ibc-2021/chapter/2/definitions#grandstand_\">grandstands</a> for outdoor sporting events and activities<sup>f</sup></td>\n<td class=\"u-align-middle u-text-left u-text-center uc_all_borders\" colspan=\"1\" rowspan=\"1\">1 per 75 for the first 1,500 and 1 per 120 for the remainder exceeding 1,500</td>\n<td class=\"u-align-middle u-text-left u-text-center uc_all_borders\" colspan=\"1\" rowspan=\"1\">1 per 40 for the first 1,520 and 1 per 60 for the remainder exceeding 1,520</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\" colspan=\"1\" rowspan=\"1\">1 per 200</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\" colspan=\"1\" rowspan=\"1\">1 per 150</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\" colspan=\"1\" rowspan=\"1\">\u2014</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\" colspan=\"1\" rowspan=\"1\">1 per 1,000</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\" colspan=\"1\" rowspan=\"1\">1 service sink</td>\n</tr>\n<tr>\n<td class=\"u-align-middle u-text-center uc_all_borders\" colspan=\"1\" rowspan=\"1\">2</td>\n<td class=\"u-align-middle u-text-left uc_all_borders\" colspan=\"1\" rowspan=\"1\">Business</td>\n<td class=\"u-align-middle u-text-left uc_all_borders\" colspan=\"1\" rowspan=\"1\">Buildings for the transaction of business, professional services, other services involving merchandise, office buildings, banks, light industrial, ambulatory care and similar uses</td>\n<td class=\"u-align-middle u-text-left u-text-center uc_all_borders\" colspan=\"2\" rowspan=\"1\">1 per 25 for the first 50 and 1 per 50 for the remainder exceeding 50</td>\n<td class=\"u-align-middle u-text-left u-text-center uc_all_borders\" colspan=\"2\" rowspan=\"1\">1 per 40 for the first 80 and 1 per 80 for the remainder exceeding 80</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\" colspan=\"1\" rowspan=\"1\">\u2014</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\" colspan=\"1\" rowspan=\"1\">1 per 100</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\" colspan=\"1\" rowspan=\"1\">1 service sink<sup>e</sup></td>\n</tr>\n<tr>\n<td class=\"u-align-middle u-text-center uc_all_borders\" colspan=\"1\" rowspan=\"1\">3</td>\n<td class=\"u-align-middle u-text-left uc_all_borders\" colspan=\"1\" rowspan=\"1\">Educational</td>\n<td class=\"u-align-middle u-text-left uc_all_borders\" colspan=\"1\" rowspan=\"1\">Educational <a class=\"autolink\" href=\"/viewer/alabama/ibc-2021/chapter/2/definitions#facility_\">facilities</a></td>\n<td class=\"u-align-middle u-text-center uc_all_borders\" colspan=\"2\" rowspan=\"1\">1 per 50</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\" colspan=\"2\" rowspan=\"1\">1 per 50</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\" colspan=\"1\" rowspan=\"1\">\u2014</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\" colspan=\"1\" rowspan=\"1\">1 per 100</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\" colspan=\"1\" rowspan=\"1\">1 service sink</td>\n</tr>\n<tr>\n<td class=\"u-align-middle u-text-center uc_all_borders\" colspan=\"1\" rowspan=\"1\">4</td>\n<td class=\"u-align-middle u-text-left uc_all_borders\" colspan=\"1\" rowspan=\"1\">Factory and industrial</td>\n<td class=\"u-align-middle u-text-left uc_all_borders\" colspan=\"1\" rowspan=\"1\">Structures in which occupants are engaged in work fabricating, assembly or processing of products or materials</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\" colspan=\"2\" rowspan=\"1\">1 per 100</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\" colspan=\"2\" rowspan=\"1\">1 per 100</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\" colspan=\"1\" rowspan=\"1\">\u2014</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\" colspan=\"1\" rowspan=\"1\">1 per 400</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\" colspan=\"1\" rowspan=\"1\">1 service sink</td>\n</tr>\n<tr>\n<td class=\"u-align-middle u-text-center uc_all_borders\" colspan=\"1\" rowspan=\"8\">5</td>\n<td class=\"u-align-middle u-text-left uc_all_borders\" colspan=\"1\" rowspan=\"8\">Institutional</td>\n<td class=\"u-align-middle u-text-left uc_all_borders\" colspan=\"1\" rowspan=\"1\"><a class=\"autolink\" href=\"/viewer/alabama/ibc-2021/chapter/2/definitions#custodial_care_\">Custodial care</a> <a class=\"autolink\" href=\"/viewer/alabama/ibc-2021/chapter/2/definitions#facility_\">facilities</a></td>\n<td class=\"u-align-middle u-text-center uc_all_borders\" colspan=\"2\" rowspan=\"1\">1 per 10</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\" colspan=\"2\" rowspan=\"1\">1 per 10</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\" colspan=\"1\" rowspan=\"1\">1 per 8</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\" colspan=\"1\" rowspan=\"1\">1 per 100</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\" colspan=\"1\" rowspan=\"1\">1 service sink</td>\n</tr>\n<tr>\n<td class=\"u-align-middle u-text-left uc_all_borders\" colspan=\"1\" rowspan=\"1\"><a class=\"autolink\" href=\"/viewer/alabama/ibc-2021/chapter/2/definitions#medical_care_\">Medical care</a> recipients in hospitals and <a class=\"autolink\" href=\"/viewer/alabama/ibc-2021/chapter/2/definitions#nursing_homes_\">nursing homes</a><sup>b</sup></td>\n<td class=\"u-align-middle u-text-center uc_all_borders\" colspan=\"2\" rowspan=\"1\">1 per room<sup>c</sup></td>\n<td class=\"u-align-middle u-text-center uc_all_borders\" colspan=\"2\" rowspan=\"1\">1 per room<sup>c</sup></td>\n<td class=\"u-align-middle u-text-center uc_all_borders\" colspan=\"1\" rowspan=\"1\">1 per 15</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\" colspan=\"1\" rowspan=\"1\">1 per 100</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\" colspan=\"1\" rowspan=\"1\">1 service sink</td>\n</tr>\n<tr>\n<td class=\"u-align-middle u-text-left uc_all_borders\" colspan=\"1\" rowspan=\"1\">Employees in hospitals and <a class=\"autolink\" href=\"/viewer/alabama/ibc-2021/chapter/2/definitions#nursing_homes_\">nursing homes</a><sup>b</sup></td>\n<td class=\"u-align-middle u-text-center uc_all_borders\" colspan=\"2\" rowspan=\"1\">1 per 25</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\" colspan=\"2\" rowspan=\"1\">1 per 35</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\" colspan=\"1\" rowspan=\"1\">\u2014</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\" colspan=\"1\" rowspan=\"1\">1 per 100</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\" colspan=\"1\" rowspan=\"1\">\u2014</td>\n</tr>\n<tr>\n<td class=\"u-align-middle u-text-left uc_all_borders\" colspan=\"1\" rowspan=\"1\">Visitors in hospitals and <a class=\"autolink\" href=\"/viewer/alabama/ibc-2021/chapter/2/definitions#nursing_homes_\">nursing homes</a></td>\n<td class=\"u-align-middle u-text-center uc_all_borders\" colspan=\"2\" rowspan=\"1\">1 per 75</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\" colspan=\"2\" rowspan=\"1\">1 per 100</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\" colspan=\"1\" rowspan=\"1\">\u2014</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\" colspan=\"1\" rowspan=\"1\">1 per 500</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\" colspan=\"1\" rowspan=\"1\">\u2014</td>\n</tr>\n<tr>\n<td class=\"u-align-middle u-text-left uc_all_borders\" colspan=\"1\" rowspan=\"1\">Prisons<sup>b</sup></td>\n<td class=\"u-align-middle u-text-center uc_all_borders\" colspan=\"2\" rowspan=\"1\">1 per cell</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\" colspan=\"2\" rowspan=\"1\">1 per cell</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\" colspan=\"1\" rowspan=\"1\">1 per 15</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\" colspan=\"1\" rowspan=\"1\">1 per 100</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\" colspan=\"1\" rowspan=\"1\">1 service sink</td>\n</tr>\n<tr>\n<td class=\"u-align-middle u-text-left uc_all_borders\" colspan=\"1\" rowspan=\"1\">Reformatories, detention centers and correctional centers<sup>b</sup></td>\n<td class=\"u-align-middle u-text-center uc_all_borders\" colspan=\"2\" rowspan=\"1\">1 per 15</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\" colspan=\"2\" rowspan=\"1\">1 per 15</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\" colspan=\"1\" rowspan=\"1\">1 per 15</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\" colspan=\"1\" rowspan=\"1\">1 per 100</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\" colspan=\"1\" rowspan=\"1\">1 service sink</td>\n</tr>\n<tr>\n<td class=\"u-align-middle u-text-left uc_all_borders\" colspan=\"1\" rowspan=\"1\">Employees in reformitories, detention centers and correctional centers<sup>b</sup></td>\n<td class=\"u-align-middle u-text-center uc_all_borders\" colspan=\"2\" rowspan=\"1\">1 per 25</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\" colspan=\"2\" rowspan=\"1\">1 per 35</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\" colspan=\"1\" rowspan=\"1\">\u2014</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\" colspan=\"1\" rowspan=\"1\">1 per 100</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\" colspan=\"1\" rowspan=\"1\">\u2014</td>\n</tr>\n<tr>\n<td class=\"u-align-middle u-text-left uc_all_borders\" colspan=\"1\" rowspan=\"1\">Adult day care and child day care</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\" colspan=\"2\" rowspan=\"1\">1 per 15</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\" colspan=\"2\" rowspan=\"1\">1 per 15</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\" colspan=\"1\" rowspan=\"1\">1</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\" colspan=\"1\" rowspan=\"1\">1 per 100</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\" colspan=\"1\" rowspan=\"1\">1 service sink</td>\n</tr>\n<tr>\n<td class=\"u-align-middle u-text-center uc_all_borders\" colspan=\"1\" rowspan=\"1\">6</td>\n<td class=\"u-align-middle u-text-left uc_all_borders\" colspan=\"1\" rowspan=\"1\">Mercantile</td>\n<td class=\"u-align-middle u-text-left uc_all_borders\" colspan=\"1\" rowspan=\"1\">Retail stores, service stations, shops, salesrooms, markets and shopping centers</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\" colspan=\"2\" rowspan=\"1\">1 per 500</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\" colspan=\"2\" rowspan=\"1\">1 per 750</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\" colspan=\"1\" rowspan=\"1\">\u2014</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\" colspan=\"1\" rowspan=\"1\">1 per 1,000</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\" colspan=\"1\" rowspan=\"1\">1 service sink<sup>e</sup></td>\n</tr>\n<tr>\n<td class=\"u-align-middle u-text-center uc_all_borders\" colspan=\"1\" rowspan=\"5\">7</td>\n<td class=\"u-align-middle u-text-left uc_all_borders\" colspan=\"1\" rowspan=\"5\">Residential</td>\n<td class=\"u-align-middle u-text-left uc_all_borders\" colspan=\"1\" rowspan=\"1\">Hotels, motels, <a class=\"autolink\" href=\"/viewer/alabama/ibc-2021/chapter/2/definitions#boarding_house_\">boarding houses</a> (<a class=\"autolink\" href=\"/viewer/alabama/ibc-2021/chapter/2/definitions#transient_\">transient</a>)</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\" colspan=\"2\" rowspan=\"1\">1 per <a class=\"autolink\" href=\"/viewer/alabama/ibc-2021/chapter/2/definitions#sleeping_unit_\">sleeping unit</a></td>\n<td class=\"u-align-middle u-text-center uc_all_borders\" colspan=\"2\" rowspan=\"1\">1 per <a class=\"autolink\" href=\"/viewer/alabama/ibc-2021/chapter/2/definitions#sleeping_unit_\">sleeping unit</a></td>\n<td class=\"u-align-middle u-text-center uc_all_borders\" colspan=\"1\" rowspan=\"1\">1 per <a class=\"autolink\" href=\"/viewer/alabama/ibc-2021/chapter/2/definitions#sleeping_unit_\">sleeping unit</a></td>\n<td class=\"u-align-middle u-text-center uc_all_borders\" colspan=\"1\" rowspan=\"1\">\u2014</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\" colspan=\"1\" rowspan=\"1\">1 service sink</td>\n</tr>\n<tr>\n<td class=\"u-align-middle u-text-left uc_all_borders\" colspan=\"1\" rowspan=\"1\"><a class=\"autolink\" href=\"/viewer/alabama/ibc-2021/chapter/2/definitions#dormitory_\">Dormitories</a>, fraternities, sororities and <a class=\"autolink\" href=\"/viewer/alabama/ibc-2021/chapter/2/definitions#boarding_house_\">boarding houses</a> (not <a class=\"autolink\" href=\"/viewer/alabama/ibc-2021/chapter/2/definitions#transient_\">transient</a>)</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\" colspan=\"2\" rowspan=\"1\">1 per 10</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\" colspan=\"2\" rowspan=\"1\">1 per 10</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\" colspan=\"1\" rowspan=\"1\">1 per 8</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\" colspan=\"1\" rowspan=\"1\">1 per 100</td>\n<td class=\"u-align-middle u-text-left u-text-center uc_all_borders\" colspan=\"1\" rowspan=\"1\">1 service sink</td>\n</tr>\n<tr>\n<td class=\"u-align-middle u-text-left uc_all_borders\" colspan=\"1\" rowspan=\"1\">Apartment house</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\" colspan=\"2\" rowspan=\"1\">1 per <a class=\"autolink\" href=\"/viewer/alabama/ibc-2021/chapter/2/definitions#dwelling_unit_\">dwelling unit</a></td>\n<td class=\"u-align-middle u-text-center uc_all_borders\" colspan=\"2\" rowspan=\"1\">1 per <a class=\"autolink\" href=\"/viewer/alabama/ibc-2021/chapter/2/definitions#dwelling_unit_\">dwelling unit</a></td>\n<td class=\"u-align-middle u-text-center uc_all_borders\" colspan=\"1\" rowspan=\"1\">1 per <a class=\"autolink\" href=\"/viewer/alabama/ibc-2021/chapter/2/definitions#dwelling_unit_\">dwelling unit</a></td>\n<td class=\"u-align-middle u-text-center uc_all_borders\" colspan=\"1\" rowspan=\"1\">\u2014</td>\n<td class=\"u-align-middle u-text-left u-text-center uc_all_borders\" colspan=\"1\" rowspan=\"1\">1 kitchen sink per <a class=\"autolink\" href=\"/viewer/alabama/ibc-2021/chapter/2/definitions#dwelling_unit_\">dwelling unit</a>; 1 <a class=\"autolink\" href=\"/viewer/alabama/ibc-2021/chapter/2/definitions#automatic_\">automatic</a> clothes washer connection per 20 <a class=\"autolink\" href=\"/viewer/alabama/ibc-2021/chapter/2/definitions#dwelling_unit_\">dwelling units</a></td>\n</tr>\n<tr>\n<td class=\"u-align-middle u-text-left uc_all_borders\" colspan=\"1\" rowspan=\"1\">One- and two-family <a class=\"autolink\" href=\"/viewer/alabama/ibc-2021/chapter/2/definitions#dwelling_\">dwellings</a> and <a class=\"autolink\" href=\"/viewer/alabama/ibc-2021/chapter/2/definitions#lodging_house_\">lodging houses</a> with five or fewer <a class=\"autolink\" href=\"/viewer/alabama/ibc-2021/chapter/2/definitions#guestroom_\">guestrooms</a></td>\n<td class=\"u-align-middle u-text-center uc_all_borders\" colspan=\"2\" rowspan=\"1\">1 per <a class=\"autolink\" href=\"/viewer/alabama/ibc-2021/chapter/2/definitions#dwelling_unit_\">dwelling unit</a></td>\n<td class=\"u-align-middle u-text-center uc_all_borders\" colspan=\"2\" rowspan=\"1\">1 per 10</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\" colspan=\"1\" rowspan=\"1\">1 per <a class=\"autolink\" href=\"/viewer/alabama/ibc-2021/chapter/2/definitions#dwelling_unit_\">dwelling unit</a></td>\n<td class=\"u-align-middle u-text-center uc_all_borders\" colspan=\"1\" rowspan=\"1\">\u2014</td>\n<td class=\"u-align-middle u-text-left u-text-center uc_all_borders\" colspan=\"1\" rowspan=\"1\">1 kitchen sink per <a class=\"autolink\" href=\"/viewer/alabama/ibc-2021/chapter/2/definitions#dwelling_unit_\">dwelling unit</a>; 1 <a class=\"autolink\" href=\"/viewer/alabama/ibc-2021/chapter/2/definitions#automatic_\">automatic</a> clothes washer connection per <a class=\"autolink\" href=\"/viewer/alabama/ibc-2021/chapter/2/definitions#dwelling_unit_\">dwelling unit</a></td>\n</tr>\n<tr>\n<td class=\"u-align-middle u-text-left uc_all_borders\" colspan=\"1\" rowspan=\"1\"><a class=\"autolink\" href=\"/viewer/alabama/ibc-2021/chapter/2/definitions#congregate_living_facilities_\">Congregate living facilities</a> with 16 or fewer persons</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\" colspan=\"2\" rowspan=\"1\">1 per 10</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\" colspan=\"2\" rowspan=\"1\">1 per 10</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\" colspan=\"1\" rowspan=\"1\">1 per 8</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\" colspan=\"1\" rowspan=\"1\">1 per 100</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\" colspan=\"1\" rowspan=\"1\">1 service sink</td>\n</tr>\n<tr>\n<td class=\"u-align-middle u-text-center uc_all_borders\" colspan=\"1\" rowspan=\"1\">8</td>\n<td class=\"u-align-middle u-text-left uc_all_borders\" colspan=\"1\" rowspan=\"1\">Storage</td>\n<td class=\"u-align-middle u-text-left uc_all_borders\" colspan=\"1\" rowspan=\"1\">Structures for the storage of goods, warehouses, storehouses and freight depots, low and moderate hazard</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\" colspan=\"2\" rowspan=\"1\">1 per 100</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\" colspan=\"2\" rowspan=\"1\">1 per 100</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\" colspan=\"1\" rowspan=\"1\">\u2014</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\" colspan=\"1\" rowspan=\"1\">1 per 1,000</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\" colspan=\"1\" rowspan=\"1\">1 service sink</td>\n</tr>\n</tbody>\n</table>\n<div>\n<div class=\"u-pb-2 u-pt-2 u-text-12px\">\n<ol class=\"u-list-lower-alpha\">\n<li class=\"u-text-12px\">The fixtures shown are based on one fixture being the minimum required for the number of persons indicated or any fraction of the number of persons indicated. The number of occupants shall be determined by this code.</li>\n<li class=\"u-text-12px\">Toilet <a class=\"autolink\" href=\"/viewer/alabama/ibc-2021/chapter/2/definitions#facility_\">facilities</a> for employees shall be separate from <a class=\"autolink\" href=\"/viewer/alabama/ibc-2021/chapter/2/definitions#facility_\">facilities</a> for inmates or care recipients.</li>\n<li class=\"u-text-12px\">A single-occupant toilet room with one water closet and one lavatory serving not more than two adjacent patient <a class=\"autolink\" href=\"/viewer/alabama/ibc-2021/chapter/2/definitions#sleeping_unit_\">sleeping units</a> shall be permitted, provided that each patient <a class=\"autolink\" href=\"/viewer/alabama/ibc-2021/chapter/2/definitions#sleeping_unit_\">sleeping unit</a> has <a class=\"autolink\" href=\"/viewer/alabama/ibc-2021/chapter/2/definitions#direct_access_\">direct access</a> to the toilet room and provisions for privacy for the toilet room user are provided.</li>\n<li class=\"u-text-12px\">The <a class=\"autolink\" href=\"/viewer/alabama/ibc-2021/chapter/2/definitions#occupant_load_\">occupant load</a> for seasonal outdoor seating and entertainment areas shall be included when determining the minimum number of <a class=\"autolink\" href=\"/viewer/alabama/ibc-2021/chapter/2/definitions#facility_\">facilities</a> required.</li>\n<li class=\"u-text-12px\">For business and mercantile classifications with an <a class=\"autolink\" href=\"/viewer/alabama/ibc-2021/chapter/2/definitions#occupant_load_\">occupant load</a> of 15 or fewer, a service sink shall not be required.</li>\n<li class=\"u-text-12px\">The required number and type of plumbing fixtures for outdoor <a class=\"autolink\" href=\"/viewer/alabama/ibc-2021/chapter/2/definitions#swimming_pool_\">swimming pools</a> shall be in accordance with Section 609 of the <span class=\"u-italic\">International Swimming Pool and Spa Code</span>.</li>\n</ol>\n</div>\n</div>\n</figure>",
+                                        "depth": 2,
+                                        "diagrams": [
+                                            {
+                                                "key": "family_assisted_use_toilet_2021",
+                                                "title": "Family or Assisted-Use Toilet Rooms - Example",
+                                                "descriptionHtml": "",
+                                                "topics": [
+                                                    "Example",
+                                                    "Plumbing",
+                                                    "Access"
+                                                ],
+                                                "phases": [
+                                                    "Construction Docs"
+                                                ],
+                                                "supressesChildrenAssociations": false,
+                                                "blacklistJurisdictions": [],
+                                                "whitelistJurisdictions": [],
+                                                "imageType": "svg"
+                                            },
+                                            {
+                                                "key": "plumbing_fixture_calc_1",
+                                                "title": "Plumbing Fixture Count: Retail",
+                                                "descriptionHtml": "<div>The calculation shown is based on Section 2902 of the building code using the occupant load factors of Section 1004, assuming half of the occupants are male and half are female.  Other states and local jurisdictions may allow other methods which may provide a reduced occupant load, such as certain uses in California such as public schools or state owned buildings (See CPC 422.1, Table 4-1 for example). In addition, other plumbing codes may supersede Chapter 29 and/or have different plumbing fixture ratios than those shown here.</div>",
+                                                "topics": [
+                                                    "Example",
+                                                    "Fixtures",
+                                                    "Plumbing"
+                                                ],
+                                                "phases": [
+                                                    "Design Development",
+                                                    "Construction Docs"
+                                                ],
+                                                "supressesChildrenAssociations": false,
+                                                "blacklistJurisdictions": [
+                                                    "new_york_city",
+                                                    "austin",
+                                                    "illinois",
+                                                    "chicago",
+                                                    "new_jersey",
+                                                    "massachusetts",
+                                                    "california",
+                                                    "san_francisco",
+                                                    "los_angeles",
+                                                    "san-jose",
+                                                    "los-angeles-county",
+                                                    "alaska",
+                                                    "san-diego",
+                                                    "kentucky",
+                                                    "north_carolina",
+                                                    "michigan"
+                                                ],
+                                                "whitelistJurisdictions": [],
+                                                "imageType": "svg"
+                                            }
+                                        ],
+                                        "displayRef": null,
+                                        "displayTitle": "[P]  2902.1 Minimum Number of Fixtures",
+                                        "hasAssemblies": false,
+                                        "hasDiagrams": true,
+                                        "hasDiagramsOnRef": true,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 31,
+                                        "numDiagramsOnRef": 2,
+                                        "reference": "2902.1",
+                                        "refPrefix": "[P]",
+                                        "slug": "plumbing-systems",
+                                        "titleText": "Minimum Number of Fixtures",
+                                        "children": [
+                                            {
+                                                "ancestorRefs": [
+                                                    "29",
+                                                    "2902",
+                                                    "2902.1"
+                                                ],
+                                                "body": "<div class=\"u-mt-3 u-mb-3\">To determine the <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/alabama/ibc-2021/chapter/2/definitions#occupant_load_\">occupant load</a></span> of each sex, the total <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/alabama/ibc-2021/chapter/2/definitions#occupant_load_\">occupant load</a></span> shall be divided in half. To determine the required number of fixtures, the fixture ratio or ratios for each fixture type shall be applied to the <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/alabama/ibc-2021/chapter/2/definitions#occupant_load_\">occupant load</a></span> of each sex in accordance with Table 2902.1. Fractional numbers resulting from applying the fixture ratios of Table 2902.1 shall be rounded up to the next whole number. For calculations involving multiple occupancies, such fractional numbers for each occupancy shall first be summed and then rounded up to the next whole number.</div><div class=\"u-ml-4\"><div class=\"u-mb-3\"><span class=\"u-font-bold\">Exceptions: </span></div><ol><li>The total <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/alabama/ibc-2021/chapter/2/definitions#occupant_load_\">occupant load</a></span> shall not be required to be divided in half where <a class=\"autolink\" href=\"/viewer/alabama/ibc-2021/chapter/2/definitions#approved_\">approved</a> statistical data indicates a distribution of the sexes of other than 50 percent of each sex.</li><li>Where multiple-user <a class=\"autolink\" href=\"/viewer/alabama/ibc-2021/chapter/2/definitions#facility_\">facilities</a> are designed to serve all genders, the minimum fixture count shall be calculated 100 percent, based on total <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/alabama/ibc-2021/chapter/2/definitions#occupant_load_\">occupant load</a></span>. In such multiple-user user <a class=\"autolink\" href=\"/viewer/alabama/ibc-2021/chapter/2/definitions#facility_\">facilities</a>, each fixture type shall be in accordance with ICC A117.1 and each urinal that is provided shall be located in a stall.</li><li>Distribution of the sexes is not required where single-user water closets and bathing room fixtures are provided in accordance with <a class=\"autolink\" href=\"#2902.1.2\">Section 2902.1.2</a>.</li></ol></div>",
+                                                "depth": 3,
+                                                "diagrams": [],
+                                                "displayRef": null,
+                                                "displayTitle": "[P]  2902.1.1 Fixture Calculations",
+                                                "hasAssemblies": false,
+                                                "hasDiagrams": true,
+                                                "isContiguous": true,
+                                                "numAssembliesOnRef": 0,
+                                                "numBuildingProductsOnRef": 0,
+                                                "numDiagramsOnRef": 0,
+                                                "reference": "2902.1.1",
+                                                "refPrefix": "[P]",
+                                                "slug": "plumbing-systems",
+                                                "titleText": "Fixture Calculations",
+                                                "children": []
+                                            },
+                                            {
+                                                "ancestorRefs": [
+                                                    "29",
+                                                    "2902",
+                                                    "2902.1"
+                                                ],
+                                                "body": "<div class=\"u-mt-3 u-mb-3\">The plumbing fixtures located in single-user toilet and bathing rooms, including family or assisted-use toilet and bathing rooms that are required by <a class=\"autolink\" href=\"/viewer/alabama/ibc-2021/chapter/11/accessibility#1110.2.1\">Section 1110.2.1</a>, shall contribute toward the total number of required plumbing fixtures for a building or tenant space. Single-user toilet  and bathing rooms, and family or assisted-use toilet rooms and bathing rooms shall be identified as being available for use by all persons regardless of their sex.</div><div class=\"u-mt-3 u-indent-6 u-mb-3\">The total number of fixtures shall be permitted to be based on the required number of separate <a class=\"autolink\" href=\"/viewer/alabama/ibc-2021/chapter/2/definitions#facility_\">facilities</a> or based on the aggregate of any combination of single-user or separate <a class=\"autolink\" href=\"/viewer/alabama/ibc-2021/chapter/2/definitions#facility_\">facilities</a>.</div>",
+                                                "depth": 3,
+                                                "diagrams": [],
+                                                "displayRef": null,
+                                                "displayTitle": "[P]  2902.1.2 Single-User Toilet and Bathing Room Fixtures",
+                                                "hasAssemblies": false,
+                                                "hasDiagrams": true,
+                                                "isContiguous": true,
+                                                "numAssembliesOnRef": 0,
+                                                "numBuildingProductsOnRef": 4,
+                                                "numDiagramsOnRef": 0,
+                                                "reference": "2902.1.2",
+                                                "refPrefix": "[P]",
+                                                "slug": "plumbing-systems",
+                                                "titleText": "Single-User Toilet and Bathing Room Fixtures",
+                                                "children": []
+                                            },
+                                            {
+                                                "ancestorRefs": [
+                                                    "29",
+                                                    "2902",
+                                                    "2902.1"
+                                                ],
+                                                "body": "Where two or more toilet rooms are provided for each sex, the required number of lavatories shall be distributed proportionately to the required number of water closets.",
+                                                "depth": 3,
+                                                "diagrams": [],
+                                                "displayRef": null,
+                                                "displayTitle": "[P]  2902.1.3 Lavatory Distribution",
+                                                "hasAssemblies": false,
+                                                "hasDiagrams": true,
+                                                "isContiguous": true,
+                                                "numAssembliesOnRef": 0,
+                                                "numBuildingProductsOnRef": 11,
+                                                "numDiagramsOnRef": 0,
+                                                "reference": "2902.1.3",
+                                                "refPrefix": "[P]",
+                                                "slug": "plumbing-systems",
+                                                "titleText": "Lavatory Distribution",
+                                                "children": []
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "ancestorRefs": [
+                                            "29",
+                                            "2902"
+                                        ],
+                                        "body": "<div class=\"u-mt-3 u-mb-3\">Where plumbing fixtures are required, separate <a class=\"autolink\" href=\"/viewer/alabama/ibc-2021/chapter/2/definitions#facility_\">facilities</a> shall be provided for each sex.</div><div class=\"u-ml-4\"><div class=\"u-mb-3\"><span class=\"u-font-bold\">Exceptions: </span></div><ol><li>Separate <a class=\"autolink\" href=\"/viewer/alabama/ibc-2021/chapter/2/definitions#facility_\">facilities</a> shall not be required for <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/alabama/ibc-2021/chapter/2/definitions#dwelling_unit_\">dwelling units</a></span> and <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/alabama/ibc-2021/chapter/2/definitions#sleeping_unit_\">sleeping units</a></span>.</li><li>Separate <a class=\"autolink\" href=\"/viewer/alabama/ibc-2021/chapter/2/definitions#facility_\">facilities</a> shall not be required in structures or tenant spaces with a total <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/alabama/ibc-2021/chapter/2/definitions#occupant_load_\">occupant load</a></span>, including both employees and customers, of 15 or fewer.</li><li>Separate <a class=\"autolink\" href=\"/viewer/alabama/ibc-2021/chapter/2/definitions#facility_\">facilities</a> shall not be required in mercantile occupancies in which the maximum <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/alabama/ibc-2021/chapter/2/definitions#occupant_load_\">occupant load</a></span> is 100 or fewer.</li><li>Separate <a class=\"autolink\" href=\"/viewer/alabama/ibc-2021/chapter/2/definitions#facility_\">facilities</a> shall not be required in business occupancies in which the maximum <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/alabama/ibc-2021/chapter/2/definitions#occupant_load_\">occupant load</a></span> is 25 or fewer.</li><li>Separate <a class=\"autolink\" href=\"/viewer/alabama/ibc-2021/chapter/2/definitions#facility_\">facilities</a> shall not be required to be designated by sex where single-user toilets rooms are provided in accordance with <a class=\"autolink\" href=\"#2902.1.2\">Section 2902.1.2</a>.</li><li>Separate <a class=\"autolink\" href=\"/viewer/alabama/ibc-2021/chapter/2/definitions#facility_\">facilities</a> shall not be required where rooms having both water closets and lavatory fixtures are designed for use by both sexes and privacy for water closets are installed in accordance with <a class=\"autolink\" href=\"/viewer/alabama/ipc-2021/chapter/4/fixtures-faucets-and-fixture-fittings#405.3.4\">Section 405.3.4</a> of the <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/alabama/ipc-2021\">International Plumbing Code</a></span>. Urinals shall be located in an area visually separated from the remainder of the <a class=\"autolink\" href=\"/viewer/alabama/ibc-2021/chapter/2/definitions#facility_\">facility</a> or each urinal that is provided shall be located in a stall.</li></ol></div>",
+                                        "depth": 2,
+                                        "diagrams": [
+                                            {
+                                                "key": "plumbing_fixture_calc_1",
+                                                "title": "Plumbing Fixture Count: Retail",
+                                                "descriptionHtml": "<div>The calculation shown is based on Section 2902 of the building code using the occupant load factors of Section 1004, assuming half of the occupants are male and half are female.  Other states and local jurisdictions may allow other methods which may provide a reduced occupant load, such as certain uses in California such as public schools or state owned buildings (See CPC 422.1, Table 4-1 for example). In addition, other plumbing codes may supersede Chapter 29 and/or have different plumbing fixture ratios than those shown here.</div>",
+                                                "topics": [
+                                                    "Example",
+                                                    "Fixtures",
+                                                    "Plumbing"
+                                                ],
+                                                "phases": [
+                                                    "Design Development",
+                                                    "Construction Docs"
+                                                ],
+                                                "supressesChildrenAssociations": false,
+                                                "blacklistJurisdictions": [
+                                                    "new_york_city",
+                                                    "austin",
+                                                    "illinois",
+                                                    "chicago",
+                                                    "new_jersey",
+                                                    "massachusetts",
+                                                    "california",
+                                                    "san_francisco",
+                                                    "los_angeles",
+                                                    "san-jose",
+                                                    "los-angeles-county",
+                                                    "alaska",
+                                                    "san-diego",
+                                                    "kentucky",
+                                                    "north_carolina",
+                                                    "michigan"
+                                                ],
+                                                "whitelistJurisdictions": [],
+                                                "imageType": "svg"
+                                            }
+                                        ],
+                                        "displayRef": null,
+                                        "displayTitle": "[P]  2902.2 Separate Facilities",
+                                        "hasAssemblies": false,
+                                        "hasDiagrams": true,
+                                        "hasDiagramsOnRef": true,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 14,
+                                        "numDiagramsOnRef": 1,
+                                        "reference": "2902.2",
+                                        "refPrefix": "[P]",
+                                        "slug": "plumbing-systems",
+                                        "titleText": "Separate Facilities",
+                                        "children": [
+                                            {
+                                                "ancestorRefs": [
+                                                    "29",
+                                                    "2902",
+                                                    "2902.2"
+                                                ],
+                                                "body": "Where a building or tenant space requires a separate toilet <a class=\"autolink\" href=\"/viewer/alabama/ibc-2021/chapter/2/definitions#facility_\">facility</a> for each sex and each toilet <a class=\"autolink\" href=\"/viewer/alabama/ibc-2021/chapter/2/definitions#facility_\">facility</a> is required to have only one water closet, two family or assisted-use toilet <a class=\"autolink\" href=\"/viewer/alabama/ibc-2021/chapter/2/definitions#facility_\">facilities</a> shall be permitted to serve as the required separate <a class=\"autolink\" href=\"/viewer/alabama/ibc-2021/chapter/2/definitions#facility_\">facilities</a>. Family or assisted-use toilet <a class=\"autolink\" href=\"/viewer/alabama/ibc-2021/chapter/2/definitions#facility_\">facilities</a> shall not be required to be identified for exclusive use by either sex as required by <a class=\"autolink\" href=\"#2902.4\">Section 2902.4</a>.",
+                                                "depth": 3,
+                                                "diagrams": [],
+                                                "displayRef": null,
+                                                "displayTitle": "[P]  2902.2.1 Family or Assisted-Use Toilet Facilities Serving as Separate Facilities",
+                                                "hasAssemblies": false,
+                                                "hasDiagrams": true,
+                                                "isContiguous": true,
+                                                "numAssembliesOnRef": 0,
+                                                "numBuildingProductsOnRef": 0,
+                                                "numDiagramsOnRef": 0,
+                                                "reference": "2902.2.1",
+                                                "refPrefix": "[P]",
+                                                "slug": "plumbing-systems",
+                                                "titleText": "Family or Assisted-Use Toilet Facilities Serving as Separate Facilities",
+                                                "children": []
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "ancestorRefs": [
+                                            "29",
+                                            "2902"
+                                        ],
+                                        "body": "<div class=\"u-mt-3 u-mb-3\">For structures and tenant spaces intended for public utilization, customers, patrons and visitors shall be provided with public toilet <a class=\"autolink\" href=\"/viewer/alabama/ibc-2021/chapter/2/definitions#facility_\">facilities</a>. Employees associated with structures and tenant spaces shall be provided with toilet <a class=\"autolink\" href=\"/viewer/alabama/ibc-2021/chapter/2/definitions#facility_\">facilities</a>. The number of plumbing fixtures located within the required toilet <a class=\"autolink\" href=\"/viewer/alabama/ibc-2021/chapter/2/definitions#facility_\">facilities</a> shall be provided in accordance with <a class=\"autolink\" href=\"#2902\">Section 2902</a> for all users. Employee toilet <a class=\"autolink\" href=\"/viewer/alabama/ibc-2021/chapter/2/definitions#facility_\">facilities</a> shall be either separate or combined employee and public toilet <a class=\"autolink\" href=\"/viewer/alabama/ibc-2021/chapter/2/definitions#facility_\">facilities</a>.</div><div class=\"u-ml-4\"><div class=\"u-mb-3\"><span class=\"u-font-bold\">Exception:</span> Public toilet <a class=\"autolink\" href=\"/viewer/alabama/ibc-2021/chapter/2/definitions#facility_\">facilities</a> shall not be required for:</div><ol><li>Parking garages where operated without parking attendants.</li><li>Structures and tenant spaces intended for quick transactions, including takeout, pickup and drop-off, having a public access area less than or equal to 300 square feet (28 m<sup>2</sup>).</li></ol></div>",
+                                        "depth": 2,
+                                        "diagrams": [],
+                                        "displayRef": null,
+                                        "displayTitle": "[P]  2902.3 Employee and Public Toilet Facilities",
+                                        "hasAssemblies": false,
+                                        "hasDiagrams": true,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 0,
+                                        "numDiagramsOnRef": 0,
+                                        "reference": "2902.3",
+                                        "refPrefix": "[P]",
+                                        "slug": "plumbing-systems",
+                                        "titleText": "Employee and Public Toilet Facilities",
+                                        "children": [
+                                            {
+                                                "ancestorRefs": [
+                                                    "29",
+                                                    "2902",
+                                                    "2902.3"
+                                                ],
+                                                "body": "The route to the public toilet <a class=\"autolink\" href=\"/viewer/alabama/ibc-2021/chapter/2/definitions#facility_\">facilities</a> required by <a class=\"autolink\" href=\"#2902.3\">Section 2902.3</a> shall not pass through kitchens, storage rooms or closets. Access to the required <a class=\"autolink\" href=\"/viewer/alabama/ibc-2021/chapter/2/definitions#facility_\">facilities</a> shall be from within the building or from the exterior of the building. The public shall have access to the required toilet <a class=\"autolink\" href=\"/viewer/alabama/ibc-2021/chapter/2/definitions#facility_\">facilities</a> at all times that the building is occupied.",
+                                                "depth": 3,
+                                                "diagrams": [
+                                                    {
+                                                        "key": "plumbing_fixture_calc_1",
+                                                        "title": "Plumbing Fixture Count: Retail",
+                                                        "descriptionHtml": "<div>The calculation shown is based on Section 2902 of the building code using the occupant load factors of Section 1004, assuming half of the occupants are male and half are female.  Other states and local jurisdictions may allow other methods which may provide a reduced occupant load, such as certain uses in California such as public schools or state owned buildings (See CPC 422.1, Table 4-1 for example). In addition, other plumbing codes may supersede Chapter 29 and/or have different plumbing fixture ratios than those shown here.</div>",
+                                                        "topics": [
+                                                            "Example",
+                                                            "Fixtures",
+                                                            "Plumbing"
+                                                        ],
+                                                        "phases": [
+                                                            "Design Development",
+                                                            "Construction Docs"
+                                                        ],
+                                                        "supressesChildrenAssociations": false,
+                                                        "blacklistJurisdictions": [
+                                                            "new_york_city",
+                                                            "austin",
+                                                            "illinois",
+                                                            "chicago",
+                                                            "new_jersey",
+                                                            "massachusetts",
+                                                            "california",
+                                                            "san_francisco",
+                                                            "los_angeles",
+                                                            "san-jose",
+                                                            "los-angeles-county",
+                                                            "alaska",
+                                                            "san-diego",
+                                                            "kentucky",
+                                                            "north_carolina",
+                                                            "michigan"
+                                                        ],
+                                                        "whitelistJurisdictions": [],
+                                                        "imageType": "svg"
+                                                    }
+                                                ],
+                                                "displayRef": null,
+                                                "displayTitle": "[P]  2902.3.1 Access",
+                                                "hasAssemblies": false,
+                                                "hasDiagrams": true,
+                                                "hasDiagramsOnRef": true,
+                                                "isContiguous": true,
+                                                "numAssembliesOnRef": 0,
+                                                "numBuildingProductsOnRef": 0,
+                                                "numDiagramsOnRef": 1,
+                                                "reference": "2902.3.1",
+                                                "refPrefix": "[P]",
+                                                "slug": "plumbing-systems",
+                                                "titleText": "Access",
+                                                "children": []
+                                            },
+                                            {
+                                                "ancestorRefs": [
+                                                    "29",
+                                                    "2902",
+                                                    "2902.3"
+                                                ],
+                                                "body": "Toilet rooms shall not open directly into a room used for the preparation of food for service to the public.",
+                                                "depth": 3,
+                                                "diagrams": [],
+                                                "displayRef": null,
+                                                "displayTitle": "[P]  2902.3.2 Prohibited Toilet Room Location",
+                                                "hasAssemblies": false,
+                                                "hasDiagrams": true,
+                                                "isContiguous": true,
+                                                "numAssembliesOnRef": 0,
+                                                "numBuildingProductsOnRef": 0,
+                                                "numDiagramsOnRef": 0,
+                                                "reference": "2902.3.2",
+                                                "refPrefix": "[P]",
+                                                "slug": "plumbing-systems",
+                                                "titleText": "Prohibited Toilet Room Location",
+                                                "children": []
+                                            },
+                                            {
+                                                "ancestorRefs": [
+                                                    "29",
+                                                    "2902",
+                                                    "2902.3"
+                                                ],
+                                                "body": "<div class=\"u-mt-3 u-mb-3\">In occupancies other than covered and <span class=\"u-italic\">open mall buildings</span>, the required public and employee toilet <a class=\"autolink\" href=\"/viewer/alabama/ibc-2021/chapter/2/definitions#facility_\">facilities</a> shall be located not more than one <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/alabama/ibc-2021/chapter/2/definitions#story_\">story</a></span> above or below the space required to be provided with toilet <a class=\"autolink\" href=\"/viewer/alabama/ibc-2021/chapter/2/definitions#facility_\">facilities</a>, and the path of travel to such <a class=\"autolink\" href=\"/viewer/alabama/ibc-2021/chapter/2/definitions#facility_\">facilities</a> shall not exceed a distance of 500 feet (152 m).</div><div class=\"u-ml-4\"><div class=\"u-mb-3\"><span class=\"u-font-bold\"><span class=\"u-font-bold\">Exceptions: </span> </span></div><ol><li>The location and maximum distances of travel to required employee <a class=\"autolink\" href=\"/viewer/alabama/ibc-2021/chapter/2/definitions#facility_\">facilities</a> in factory and industrial <span class=\"u-italic\">occupancies </span>shall be permitted to exceed that required by this section, provided that the location and maximum distances of travel are <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/alabama/ibc-2021/chapter/2/definitions#approved_\">approved</a></span>.</li><li>The location and maximum distances of travel to required public and employee <a class=\"autolink\" href=\"/viewer/alabama/ibc-2021/chapter/2/definitions#facility_\">facilities</a> in <a class=\"autolink\" href=\"/viewer/alabama/ibc-2021/chapter/3/occupancy-classification-and-use#311\">Group S</a> <span class=\"u-italic\">occupancies </span>shall be permitted to exceed that required by this section, provided that the location and maximum distances of travel are <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/alabama/ibc-2021/chapter/2/definitions#approved_\">approved</a></span>.</li></ol></div>",
+                                                "depth": 3,
+                                                "diagrams": [],
+                                                "displayRef": null,
+                                                "displayTitle": "[P]  2902.3.3 Location of Toilet Facilities in Occupancies Other Than Malls",
+                                                "hasAssemblies": false,
+                                                "hasDiagrams": true,
+                                                "isContiguous": true,
+                                                "numAssembliesOnRef": 0,
+                                                "numBuildingProductsOnRef": 0,
+                                                "numDiagramsOnRef": 0,
+                                                "reference": "2902.3.3",
+                                                "refPrefix": "[P]",
+                                                "slug": "plumbing-systems",
+                                                "titleText": "Location of Toilet Facilities in Occupancies Other Than Malls",
+                                                "children": []
+                                            },
+                                            {
+                                                "ancestorRefs": [
+                                                    "29",
+                                                    "2902",
+                                                    "2902.3"
+                                                ],
+                                                "body": "In covered and <span class=\"u-italic\">open mall buildings</span>, the required public and employee toilet <a class=\"autolink\" href=\"/viewer/alabama/ibc-2021/chapter/2/definitions#facility_\">facilities</a> shall be located not more than one <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/alabama/ibc-2021/chapter/2/definitions#story_\">story</a></span> above or below the space required to be provided with toilet <a class=\"autolink\" href=\"/viewer/alabama/ibc-2021/chapter/2/definitions#facility_\">facilities</a>, and the path of travel to such <a class=\"autolink\" href=\"/viewer/alabama/ibc-2021/chapter/2/definitions#facility_\">facilities</a> shall not exceed a distance of 300 feet (91 m). In mall buildings, the required <a class=\"autolink\" href=\"/viewer/alabama/ibc-2021/chapter/2/definitions#facility_\">facilities</a> shall be based on total square footage (m<sup>2</sup>) within a <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/alabama/ibc-2021/chapter/2/definitions#covered_mall_building_\">covered mall building</a></span> or within the perimeter line of an <span class=\"u-italic\">open mall building</span>, and <a class=\"autolink\" href=\"/viewer/alabama/ibc-2021/chapter/2/definitions#facility_\">facilities</a> shall be installed in each individual store or in a central toilet area located in accordance with this section. The maximum distance of travel to central toilet <a class=\"autolink\" href=\"/viewer/alabama/ibc-2021/chapter/2/definitions#facility_\">facilities</a> in mall buildings shall be measured from the main <a class=\"autolink\" href=\"/viewer/alabama/ibc-2021/chapter/2/definitions#entrance_public_\">entrance</a> of any store or tenant space. In mall buildings, where employees' toilet <a class=\"autolink\" href=\"/viewer/alabama/ibc-2021/chapter/2/definitions#facility_\">facilities</a> are not provided in the individual store, the maximum distance of travel shall be measured from the employees' work area of the store or tenant space.",
+                                                "depth": 3,
+                                                "diagrams": [],
+                                                "displayRef": null,
+                                                "displayTitle": "[P]  2902.3.4 Location of Toilet Facilities in Malls",
+                                                "hasAssemblies": false,
+                                                "hasDiagrams": true,
+                                                "isContiguous": true,
+                                                "numAssembliesOnRef": 0,
+                                                "numBuildingProductsOnRef": 0,
+                                                "numDiagramsOnRef": 0,
+                                                "reference": "2902.3.4",
+                                                "refPrefix": "[P]",
+                                                "slug": "plumbing-systems",
+                                                "titleText": "Location of Toilet Facilities in Malls",
+                                                "children": []
+                                            },
+                                            {
+                                                "ancestorRefs": [
+                                                    "29",
+                                                    "2902",
+                                                    "2902.3"
+                                                ],
+                                                "body": "Where pay <a class=\"autolink\" href=\"/viewer/alabama/ibc-2021/chapter/2/definitions#facility_\">facilities</a> are installed, such <a class=\"autolink\" href=\"/viewer/alabama/ibc-2021/chapter/2/definitions#facility_\">facilities</a> shall be in excess of the required minimum <a class=\"autolink\" href=\"/viewer/alabama/ibc-2021/chapter/2/definitions#facility_\">facilities</a>. Required <a class=\"autolink\" href=\"/viewer/alabama/ibc-2021/chapter/2/definitions#facility_\">facilities</a> shall be free of charge.",
+                                                "depth": 3,
+                                                "diagrams": [],
+                                                "displayRef": null,
+                                                "displayTitle": "[P]  2902.3.5 Pay Facilities",
+                                                "hasAssemblies": false,
+                                                "hasDiagrams": true,
+                                                "isContiguous": true,
+                                                "numAssembliesOnRef": 0,
+                                                "numBuildingProductsOnRef": 0,
+                                                "numDiagramsOnRef": 0,
+                                                "reference": "2902.3.5",
+                                                "refPrefix": "[P]",
+                                                "slug": "plumbing-systems",
+                                                "titleText": "Pay Facilities",
+                                                "children": []
+                                            },
+                                            {
+                                                "ancestorRefs": [
+                                                    "29",
+                                                    "2902",
+                                                    "2902.3"
+                                                ],
+                                                "body": "Where a toilet room is provided for the use of multiple occupants, the egress door for the room shall not be lockable from the inside of the room. This section does not apply to family or assisted-use toilet rooms.",
+                                                "depth": 3,
+                                                "diagrams": [],
+                                                "displayRef": null,
+                                                "displayTitle": "[P]  2902.3.6 Door Locking",
+                                                "hasAssemblies": false,
+                                                "hasDiagrams": true,
+                                                "isContiguous": true,
+                                                "numAssembliesOnRef": 0,
+                                                "numBuildingProductsOnRef": 0,
+                                                "numDiagramsOnRef": 0,
+                                                "reference": "2902.3.6",
+                                                "refPrefix": "[P]",
+                                                "slug": "plumbing-systems",
+                                                "titleText": "Door Locking",
+                                                "children": []
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "ancestorRefs": [
+                                            "29",
+                                            "2902"
+                                        ],
+                                        "body": "Required public <a class=\"autolink\" href=\"/viewer/alabama/ibc-2021/chapter/2/definitions#facility_\">facilities</a> shall be provided with signs that designate the sex as required by <a class=\"autolink\" href=\"#2902.2\">Section 2902.2</a>. Signs shall be readily visible and located near the <a class=\"autolink\" href=\"/viewer/alabama/ibc-2021/chapter/2/definitions#entrance_public_\">entrance</a> to each toilet <a class=\"autolink\" href=\"/viewer/alabama/ibc-2021/chapter/2/definitions#facility_\">facility</a>. Signs for <span class=\"u-italic\">accessible</span> toilet <a class=\"autolink\" href=\"/viewer/alabama/ibc-2021/chapter/2/definitions#facility_\">facilities</a> shall comply with <a class=\"autolink\" href=\"/viewer/alabama/ibc-2021/chapter/11/accessibility#1112\">Section 1112</a>.",
+                                        "depth": 2,
+                                        "diagrams": [],
+                                        "displayRef": null,
+                                        "displayTitle": "[P]  2902.4 Signage",
+                                        "hasAssemblies": false,
+                                        "hasDiagrams": true,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 0,
+                                        "numDiagramsOnRef": 0,
+                                        "reference": "2902.4",
+                                        "refPrefix": "[P]",
+                                        "slug": "plumbing-systems",
+                                        "titleText": "Signage",
+                                        "children": [
+                                            {
+                                                "ancestorRefs": [
+                                                    "29",
+                                                    "2902",
+                                                    "2902.4"
+                                                ],
+                                                "body": "Directional signage indicating the route to the required public toilet <a class=\"autolink\" href=\"/viewer/alabama/ibc-2021/chapter/2/definitions#facility_\">facilities</a> shall be posted in a lobby, <a class=\"autolink\" href=\"/viewer/alabama/ibc-2021/chapter/2/definitions#corridor_\">corridor</a>, <a class=\"autolink\" href=\"/viewer/alabama/ibc-2021/chapter/2/definitions#aisle_\">aisle</a> or similar space, such that the sign can be readily seen from the main <a class=\"autolink\" href=\"/viewer/alabama/ibc-2021/chapter/2/definitions#entrance_public_\">entrance</a> to the building or tenant space.",
+                                                "depth": 3,
+                                                "diagrams": [],
+                                                "displayRef": null,
+                                                "displayTitle": "[P]  2902.4.1 Directional Signage",
+                                                "hasAssemblies": false,
+                                                "hasDiagrams": true,
+                                                "isContiguous": true,
+                                                "numAssembliesOnRef": 0,
+                                                "numBuildingProductsOnRef": 0,
+                                                "numDiagramsOnRef": 0,
+                                                "reference": "2902.4.1",
+                                                "refPrefix": "[P]",
+                                                "slug": "plumbing-systems",
+                                                "titleText": "Directional Signage",
+                                                "children": []
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "ancestorRefs": [
+                                            "29",
+                                            "2902"
+                                        ],
+                                        "body": "Drinking fountains shall not be required to be located in individual tenant spaces provided that public drinking fountains are located within a distance of travel of 500 feet (152 m) of the most remote location in the tenant space and not more than one <a class=\"autolink\" href=\"/viewer/alabama/ibc-2021/chapter/2/definitions#story_\">story</a> above or below the tenant space. Where the tenant space is in a covered or open mall, such distance shall not exceed 300 feet (91 m).",
+                                        "depth": 2,
+                                        "diagrams": [
+                                            {
+                                                "key": "travel_dist_drinking_fountain_mall",
+                                                "title": "Travel Distance to Drinking Fountains - Covered or Open Mall",
+                                                "descriptionHtml": "<div>Drinking fountains are not required in individual tenant spaces where a public drinking fountain is provided.  In other than a covered or open mall the public drinking fountain must be within one story and a travel distance of 500 from the most remote location within the tenant spaces.  In a covered or open mall the public drinking fountain must be within one story and a travel distance of 300 from the most remote location within the tenant spaces.</div>",
+                                                "topics": [
+                                                    "Plumbing"
+                                                ],
+                                                "phases": [
+                                                    "Construction Docs",
+                                                    "Design Development"
+                                                ],
+                                                "supressesChildrenAssociations": false,
+                                                "blacklistJurisdictions": [],
+                                                "whitelistJurisdictions": [],
+                                                "imageType": "svg"
+                                            },
+                                            {
+                                                "key": "travel_dist_drinking_fountain_other",
+                                                "title": "Travel Distance to Drinking Fountains - Other Buildings",
+                                                "descriptionHtml": "<div>Drinking fountains are not required in individual tenant spaces where a public drinking fountain is provided.  In other than a covered or open mall the public drinking fountain must be within one story and a travel distance of 500 from the most remote location within the tenant spaces.  In a covered or open mall the public drinking fountain must be within one story and a travel distance of 300 from the most remote location within the tenant spaces.</div>",
+                                                "topics": [
+                                                    "Plumbing"
+                                                ],
+                                                "phases": [
+                                                    "Design Development",
+                                                    "Construction Docs"
+                                                ],
+                                                "supressesChildrenAssociations": false,
+                                                "blacklistJurisdictions": [],
+                                                "whitelistJurisdictions": [],
+                                                "imageType": "svg"
+                                            }
+                                        ],
+                                        "displayRef": null,
+                                        "displayTitle": "[P]  2902.5 Drinking Fountain Location",
+                                        "hasAssemblies": false,
+                                        "hasDiagrams": true,
+                                        "hasDiagramsOnRef": true,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 4,
+                                        "numDiagramsOnRef": 2,
+                                        "reference": "2902.5",
+                                        "refPrefix": "[P]",
+                                        "slug": "plumbing-systems",
+                                        "titleText": "Drinking Fountain Location",
+                                        "children": []
+                                    },
+                                    {
+                                        "ancestorRefs": [
+                                            "29",
+                                            "2902"
+                                        ],
+                                        "body": "Drinking fountains shall not be required for an <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/alabama/ibc-2021/chapter/2/definitions#occupant_load_\">occupant load</a></span> of 15 or fewer.",
+                                        "depth": 2,
+                                        "diagrams": [],
+                                        "displayRef": null,
+                                        "displayTitle": "[P]  2902.6 Small Occupancies",
+                                        "hasAssemblies": false,
+                                        "hasDiagrams": true,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 0,
+                                        "numDiagramsOnRef": 0,
+                                        "reference": "2902.6",
+                                        "refPrefix": "[P]",
+                                        "slug": "plumbing-systems",
+                                        "titleText": "Small Occupancies",
+                                        "children": []
+                                    },
+                                    {
+                                        "ancestorRefs": [
+                                            "29",
+                                            "2902"
+                                        ],
+                                        "body": "Service sinks shall not be required to be located in individual tenant spaces in a covered mall provided that service sinks are located within a distance of travel of 300 feet (91 m) of the most remote location in the tenant space and not more than one <a class=\"autolink\" href=\"/viewer/alabama/ibc-2021/chapter/2/definitions#story_\">story</a> above or below the tenant space. Service sinks shall be located on an <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/alabama/ibc-2021/chapter/2/definitions#accessible_route_\">accessible route</a></span>.",
+                                        "depth": 2,
+                                        "diagrams": [],
+                                        "displayRef": null,
+                                        "displayTitle": "[P]  2902.7 Service Sink Location",
+                                        "hasAssemblies": false,
+                                        "hasDiagrams": true,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 0,
+                                        "numDiagramsOnRef": 0,
+                                        "reference": "2902.7",
+                                        "refPrefix": "[P]",
+                                        "slug": "plumbing-systems",
+                                        "titleText": "Service Sink Location",
+                                        "children": []
+                                    }
+                                ]
+                            },
+                            {
+                                "ancestorRefs": [
+                                    "29"
+                                ],
+                                "depth": 1,
+                                "diagrams": [
+                                    {
+                                        "key": "watertight_joints_fixtures",
+                                        "title": "Watertight Joints at Fixtures",
+                                        "descriptionHtml": "<div>Openings or gaps between fixtures and walls or floors can collect dirt and moisture. They are unsanitary and can cause water damage to the building structure. These openings must be caulked or otherwise sealed. </div>",
+                                        "topics": [
+                                            "Plumbing",
+                                            "Fixtures"
+                                        ],
+                                        "phases": [
+                                            "Construction Docs",
+                                            "Construction Phase"
+                                        ],
+                                        "supressesChildrenAssociations": false,
+                                        "blacklistJurisdictions": [],
+                                        "whitelistJurisdictions": [],
+                                        "imageType": "svg"
+                                    },
+                                    {
+                                        "key": "ambulatory_accessible_water_closets",
+                                        "title": "Ambulatory and Wheelchair Accessible Water Closets",
+                                        "descriptionHtml": "<div>Ambulatory accessible toilet compartments provide parallel grab bars and benefit people who use crutches, canes, walkers and similar devices or who need support in sitting or standing. They do not accommodate wheelchairs or scooters and are required in addition to the wheelchair accessible compartment in toilet rooms with six or more toilet compartments or where the combined total of toilets and urinals is six or more. They are sized so that both grab bars are within reach. Grab bars must meet specifications for size, location, and securement.</div>",
+                                        "topics": [
+                                            "Plumbing",
+                                            "Access"
+                                        ],
+                                        "phases": [
+                                            "Construction Docs",
+                                            "Design Development"
+                                        ],
+                                        "supressesChildrenAssociations": false,
+                                        "blacklistJurisdictions": [
+                                            "texas",
+                                            "california",
+                                            "san_francisco",
+                                            "san-diego",
+                                            "san-jose",
+                                            "los_angeles",
+                                            "los-angeles-county",
+                                            "houston",
+                                            "florida"
+                                        ],
+                                        "whitelistJurisdictions": [],
+                                        "imageType": "svg"
+                                    },
+                                    {
+                                        "key": "nonaccessible_fixture_clrs",
+                                        "title": "Water Closets, Urinals, Lavatories and Bidets Clearances (non-accessible)",
+                                        "descriptionHtml": "",
+                                        "topics": [
+                                            "Plumbing"
+                                        ],
+                                        "phases": [
+                                            "Construction Docs"
+                                        ],
+                                        "supressesChildrenAssociations": false,
+                                        "blacklistJurisdictions": [],
+                                        "whitelistJurisdictions": [],
+                                        "imageType": "svg"
+                                    },
+                                    {
+                                        "key": "size_fixture_supply",
+                                        "title": "Size of Fixture Supply",
+                                        "descriptionHtml": "<div>According to the plumbing code, a <strong>fixture supply</strong> is the water supply pipe connecting a fixture to a branch water supply pipe or directly to a main water supply pipe.</div>",
+                                        "topics": [
+                                            "Plumbing"
+                                        ],
+                                        "phases": [
+                                            "Construction Docs"
+                                        ],
+                                        "supressesChildrenAssociations": false,
+                                        "blacklistJurisdictions": [],
+                                        "whitelistJurisdictions": [],
+                                        "imageType": "svg"
+                                    }
+                                ],
+                                "displayRef": null,
+                                "displayTitle": "[P] Section 2903 Installation of Fixtures",
+                                "divisionType": "Section",
+                                "hasAssemblies": false,
+                                "hasDiagrams": true,
+                                "hasDiagramsOnRef": true,
+                                "isContiguous": true,
+                                "numAssembliesOnRef": 0,
+                                "numBuildingProductsOnRef": 0,
+                                "numDiagramsOnRef": 4,
+                                "reference": "2903",
+                                "refPrefix": "[P]",
+                                "slug": "plumbing-systems",
+                                "titleText": "Installation of Fixtures",
+                                "children": [
+                                    {
+                                        "ancestorRefs": [
+                                            "29",
+                                            "2903"
+                                        ],
+                                        "body": "Fixtures shall be set level and in proper alignment with reference to adjacent <a class=\"autolink\" href=\"/viewer/alabama/ibc-2021/chapter/2/definitions#wall_\">walls</a>.",
+                                        "depth": 2,
+                                        "diagrams": [],
+                                        "displayRef": null,
+                                        "displayTitle": "[P]  2903.1 Setting",
+                                        "hasAssemblies": false,
+                                        "hasDiagrams": true,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 1,
+                                        "numDiagramsOnRef": 0,
+                                        "reference": "2903.1",
+                                        "refPrefix": "[P]",
+                                        "slug": "plumbing-systems",
+                                        "titleText": "Setting",
+                                        "children": [
+                                            {
+                                                "ancestorRefs": [
+                                                    "29",
+                                                    "2903",
+                                                    "2903.1"
+                                                ],
+                                                "body": "A water closet, urinal, lavatory or bidet shall not be set closer than 15 inches (381 mm) from its center to any side <a class=\"autolink\" href=\"/viewer/alabama/ibc-2021/chapter/2/definitions#wall_\">wall</a>, partition, vanity or other obstruction. Where partitions or other obstructions do not separate adjacent water closets, urinals, or\nbidets, the fixtures shall not be set closer than 30 inches (762 mm) center to center between adjacent fixtures or adjacent water closets, urinals, or bidets. There shall be not less than a 21-inch (533 mm) clearance in front of a water closet, urinal, lavatory or bidet to any <a class=\"autolink\" href=\"/viewer/alabama/ibc-2021/chapter/2/definitions#wall_\">wall</a>, fixture or door. Water closet compartments shall be not less than 30 inches (762 mm) in width and not less than 60 inches (1524 mm) in depth for floor-mounted water closets and not less than 30 inches (762 mm) in width and 56 inches (1422 mm) in depth for <a class=\"autolink\" href=\"/viewer/alabama/ibc-2021/chapter/2/definitions#wall_\">wall</a>-hung water closets. <div class=\"u-mt-3 u-mb-3 u-ml-4\"><span class=\"u-font-bold\">Exception: </span> An accessible children's water closet shall be set not closer than 12 inches (305 mm) from its center to the required partition or to the <a class=\"autolink\" href=\"/viewer/alabama/ibc-2021/chapter/2/definitions#wall_\">wall</a> on one side.</div>",
+                                                "depth": 3,
+                                                "diagrams": [
+                                                    {
+                                                        "key": "nonaccessible_fixture_clrs",
+                                                        "title": "Water Closets, Urinals, Lavatories and Bidets Clearances (non-accessible)",
+                                                        "descriptionHtml": "",
+                                                        "topics": [
+                                                            "Plumbing"
+                                                        ],
+                                                        "phases": [
+                                                            "Construction Docs"
+                                                        ],
+                                                        "supressesChildrenAssociations": false,
+                                                        "blacklistJurisdictions": [],
+                                                        "whitelistJurisdictions": [],
+                                                        "imageType": "svg"
+                                                    }
+                                                ],
+                                                "displayRef": null,
+                                                "displayTitle": "[P]  2903.1.1 Water Closets, Urinals, Lavatories and Bidets",
+                                                "hasAssemblies": false,
+                                                "hasDiagrams": true,
+                                                "hasDiagramsOnRef": true,
+                                                "isContiguous": true,
+                                                "numAssembliesOnRef": 0,
+                                                "numBuildingProductsOnRef": 30,
+                                                "numDiagramsOnRef": 1,
+                                                "reference": "2903.1.1",
+                                                "refPrefix": "[P]",
+                                                "slug": "plumbing-systems",
+                                                "titleText": "Water Closets, Urinals, Lavatories and Bidets",
+                                                "children": []
+                                            },
+                                            {
+                                                "ancestorRefs": [
+                                                    "29",
+                                                    "2903",
+                                                    "2903.1"
+                                                ],
+                                                "body": "In employee and public toilet rooms, the required lavatory shall be located in the same room as the required water closet.",
+                                                "depth": 3,
+                                                "diagrams": [],
+                                                "displayRef": null,
+                                                "displayTitle": "[P]  2903.1.2 Public Lavatories",
+                                                "hasAssemblies": false,
+                                                "hasDiagrams": true,
+                                                "isContiguous": true,
+                                                "numAssembliesOnRef": 0,
+                                                "numBuildingProductsOnRef": 0,
+                                                "numDiagramsOnRef": 0,
+                                                "reference": "2903.1.2",
+                                                "refPrefix": "[P]",
+                                                "slug": "plumbing-systems",
+                                                "titleText": "Public Lavatories",
+                                                "children": []
+                                            },
+                                            {
+                                                "ancestorRefs": [
+                                                    "29",
+                                                    "2903",
+                                                    "2903.1"
+                                                ],
+                                                "body": "Piping, fixtures or equipment shall not be located in such a manner as to interfere with the normal operation of windows, doors or other <a class=\"autolink\" href=\"/viewer/alabama/ibc-2021/chapter/2/definitions#means_of_egress_\">means of egress</a> openings.",
+                                                "depth": 3,
+                                                "diagrams": [],
+                                                "displayRef": null,
+                                                "displayTitle": "[P]  2903.1.3 Location of Fixtures and Piping",
+                                                "hasAssemblies": false,
+                                                "hasDiagrams": true,
+                                                "isContiguous": true,
+                                                "numAssembliesOnRef": 0,
+                                                "numBuildingProductsOnRef": 0,
+                                                "numDiagramsOnRef": 0,
+                                                "reference": "2903.1.3",
+                                                "refPrefix": "[P]",
+                                                "slug": "plumbing-systems",
+                                                "titleText": "Location of Fixtures and Piping",
+                                                "children": []
+                                            },
+                                            {
+                                                "ancestorRefs": [
+                                                    "29",
+                                                    "2903",
+                                                    "2903.1"
+                                                ],
+                                                "body": "Each water closet utilized by the public or employees shall occupy a separate compartment with <a class=\"autolink\" href=\"/viewer/alabama/ibc-2021/chapter/2/definitions#wall_\">walls</a> or partitions and a door enclosing the fixtures to ensure privacy. <div class=\"u-ml-4\"><div class=\"u-mt-3 u-mb-3\"><span class=\"u-font-bold\">Exceptions: </span></div><ol><li>Water closet compartments shall not be required in a single-occupant toilet room with a lockable door.</li><li>Toilet rooms located in child day care <a class=\"autolink\" href=\"/viewer/alabama/ibc-2021/chapter/2/definitions#facility_\">facilities</a> and containing two or more water closets shall be permitted to have one water closet without an enclosing compartment.</li><li>This provision is not applicable to toilet areas located within Group <a class=\"autolink\" href=\"/viewer/alabama/ibc-2021/chapter/3/occupancy-classification-and-use#308.4\">I-3</a> housing areas.</li></ol></div>",
+                                                "depth": 3,
+                                                "diagrams": [],
+                                                "displayRef": null,
+                                                "displayTitle": "[P]  2903.1.4 Water Closet Compartment",
+                                                "hasAssemblies": false,
+                                                "hasDiagrams": true,
+                                                "isContiguous": true,
+                                                "numAssembliesOnRef": 0,
+                                                "numBuildingProductsOnRef": 0,
+                                                "numDiagramsOnRef": 0,
+                                                "reference": "2903.1.4",
+                                                "refPrefix": "[P]",
+                                                "slug": "plumbing-systems",
+                                                "titleText": "Water Closet Compartment",
+                                                "children": []
+                                            },
+                                            {
+                                                "ancestorRefs": [
+                                                    "29",
+                                                    "2903",
+                                                    "2903.1"
+                                                ],
+                                                "body": "Each urinal utilized by the public or employees shall occupy a separate area with <a class=\"autolink\" href=\"/viewer/alabama/ibc-2021/chapter/2/definitions#wall_\">walls</a> or partitions to provide privacy. The horizontal dimension between <a class=\"autolink\" href=\"/viewer/alabama/ibc-2021/chapter/2/definitions#wall_\">walls</a> or partitions at each urinal shall be not less than 30 inches (762 mm). The <a class=\"autolink\" href=\"/viewer/alabama/ibc-2021/chapter/2/definitions#wall_\">walls</a> or partitions shall begin at a height not greater than 12 inches (305 mm) from and extend not less than 60 inches (1524 mm) above the finished floor surface. The <a class=\"autolink\" href=\"/viewer/alabama/ibc-2021/chapter/2/definitions#wall_\">walls</a> or partitions shall extend from the <a class=\"autolink\" href=\"/viewer/alabama/ibc-2021/chapter/2/definitions#wall_\">wall</a> surface at each side of the urinal not less than 18 inches (457 mm) or to a point not less than 6inches (152 mm) beyond the outermost front lip of the urinal measured from the finished backwall surface, whichever is greater. <div class=\"u-ml-4\"><div class=\"u-mt-3 u-mb-3\"><span class=\"u-font-bold\">Exceptions: </span></div><ol><li>Urinal partitions shall not be required in a single-occupant or family/assisted-use toilet room with a lockable door.</li><li>Toilet rooms located in child day care <a class=\"autolink\" href=\"/viewer/alabama/ibc-2021/chapter/2/definitions#facility_\">facilities</a> and containing two or more urinals shall be permitted to have one urinal without partitions.</li></ol></div>",
+                                                "depth": 3,
+                                                "diagrams": [
+                                                    {
+                                                        "key": "urinals_accessible",
+                                                        "title": "Urinals and Partitions",
+                                                        "descriptionHtml": "<div>Urinals are required to have privacy partitions in accordance with building code 1209.3.2. When such partitions are provided, the clearance between them shall comply with ADA Standards 605. When the space that a wheelchair uses exceeds 24\", the area is treated like a deep alcove to be able to give the user room to maneuver backward to get out of the space. See building and plumbing codes for the required numbers of fixtures, and ADA Standards 213.3.3 for the number of urinals required to be accessible. Check also with state or local accessibility requirements for more restrictive scoping, clearance or installation requirements.</div>",
+                                                        "topics": [
+                                                            "Access",
+                                                            "Fixtures",
+                                                            "ADA"
+                                                        ],
+                                                        "phases": [
+                                                            "Construction Docs",
+                                                            "Construction Phase",
+                                                            "Design Development"
+                                                        ],
+                                                        "supressesChildrenAssociations": false,
+                                                        "blacklistJurisdictions": [
+                                                            "california",
+                                                            "san_francisco",
+                                                            "los_angeles",
+                                                            "san-jose",
+                                                            "los-angeles-county",
+                                                            "san-diego"
+                                                        ],
+                                                        "whitelistJurisdictions": [],
+                                                        "imageType": "svg"
+                                                    }
+                                                ],
+                                                "displayRef": null,
+                                                "displayTitle": "[P]  2903.1.5 Urinal Partitions",
+                                                "hasAssemblies": false,
+                                                "hasDiagrams": true,
+                                                "hasDiagramsOnRef": true,
+                                                "isContiguous": true,
+                                                "numAssembliesOnRef": 0,
+                                                "numBuildingProductsOnRef": 0,
+                                                "numDiagramsOnRef": 1,
+                                                "reference": "2903.1.5",
+                                                "refPrefix": "[P]",
+                                                "slug": "plumbing-systems",
+                                                "titleText": "Urinal Partitions",
+                                                "children": []
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            "chapterReference": "29"
+        },
+        "__N_SSP": true
+    },
+    "page": "/viewer/[urlFormPubOrJurisKey]/[urlFormPub]/chapter/[chapterRef]/[chapterName]",
+    "query": {
+        "urlFormPubOrJurisKey": "alabama",
+        "urlFormPub": "ibc-2021",
+        "chapterRef": "29",
+        "chapterName": "plumbing-systems"
+    },
+    "buildId": "RZSwz8uFB9jvXr56FjNnx",
+    "isFallback": false,
+    "isExperimentalCompile": false,
+    "dynamicIds": [
+        61621,
+        54065
+    ],
+    "gssp": true,
+    "scriptLoader": []
+}

@@ -1,0 +1,480 @@
+{
+    "props": {
+        "pageProps": {
+            "missingRequiredLogin": false,
+            "title": "Chapter 13 Energy Efficiency: California Building Code 2025 (Vol 1 & 2)  | UpCodes",
+            "leanChapterViewerData": {
+                "basePubName": "International Building Code 2024 (IBC 2024)",
+                "codeGroupingYear": "2025",
+                "codeName": "California Building Code 2025 (Vol 1 & 2) ",
+                "codeUuid": "0a50629a-1cc9-40c6-9064-5c666c9dc6ea",
+                "codeVersions": [
+                    {
+                        "codeUuid": "0a50629a-1cc9-40c6-9064-5c666c9dc6ea",
+                        "name": "Original Adoption",
+                        "effectiveStartDate": "2026-01-01",
+                        "shortformUrlName": "ca-building-code-2025",
+                        "activeStatus": "active"
+                    }
+                ],
+                "ingesterAmendmentsEnabled": false,
+                "ingesterCodeUnitsEnabled": false,
+                "isAmendStylingEnabled": false,
+                "isCorrespondable": true,
+                "jurisKey": "california",
+                "jurisName": "California",
+                "metaInfoUrl": "/viewer/california/ca-building-code-2025",
+                "modelCodeUrl": null,
+                "placeholder": "Search California Building Code 2025 (Vol 1 & 2) ",
+                "pubKey": "california_building_code_2025",
+                "pubPrefix": "int_building_code",
+                "shortformPubName": "ca-building-code-2025",
+                "withAmendments": true,
+                "chapterRef": "13",
+                "publisher": "icc",
+                "hasLinkedResources": false,
+                "initialNonChapterTocLines": [],
+                "title": "Chapter 13 Energy Efficiency: California Building Code 2025 (Vol 1 & 2)  | UpCodes",
+                "leanChapterLines": [
+                    {
+                        "displayTitle": "Chapter 1 <i>Administration</i>",
+                        "isExpandable": true,
+                        "reference": "1",
+                        "slug": "administration"
+                    },
+                    {
+                        "displayTitle": "Chapter 2 Definitions",
+                        "isExpandable": true,
+                        "reference": "2",
+                        "slug": "definitions"
+                    },
+                    {
+                        "displayTitle": "Chapter 3 Occupancy Classification and Use",
+                        "isExpandable": true,
+                        "reference": "3",
+                        "slug": "occupancy-classification-and-use"
+                    },
+                    {
+                        "displayTitle": "Chapter 4 Special Detailed Requirements Based on Occupancy and Use",
+                        "isExpandable": true,
+                        "reference": "4",
+                        "slug": "special-detailed-requirements-based-on-occupancy-and-use"
+                    },
+                    {
+                        "displayTitle": "Chapter 5 General Building Heights and Areas",
+                        "isExpandable": true,
+                        "reference": "5",
+                        "slug": "general-building-heights-and-areas"
+                    },
+                    {
+                        "displayTitle": "Chapter 6 Types of Construction",
+                        "isExpandable": true,
+                        "reference": "6",
+                        "slug": "types-of-construction"
+                    },
+                    {
+                        "displayTitle": "Chapter 7 Fire and Smoke Protection Features",
+                        "isExpandable": true,
+                        "reference": "7",
+                        "slug": "fire-and-smoke-protection-features"
+                    },
+                    {
+                        "displayTitle": "Chapter 7A <i>Materials and Construction Methods for Exterior Wildfire Exposure</i>",
+                        "reference": "7A",
+                        "slug": "materials-and-construction-methods-for-exterior-wildfire-exposure"
+                    },
+                    {
+                        "displayTitle": "Chapter 8 Interior Finishes",
+                        "isExpandable": true,
+                        "reference": "8",
+                        "slug": "interior-finishes"
+                    },
+                    {
+                        "displayTitle": "Chapter 9 Fire Protection and Life Safety Systems",
+                        "isExpandable": true,
+                        "reference": "9",
+                        "slug": "fire-protection-and-life-safety-systems"
+                    },
+                    {
+                        "displayTitle": "Chapter 10 Means of Egress",
+                        "isExpandable": true,
+                        "reference": "10",
+                        "slug": "means-of-egress"
+                    },
+                    {
+                        "displayTitle": "Chapter 11 <i>Reserved</i>",
+                        "reference": "11",
+                        "slug": "reserved"
+                    },
+                    {
+                        "displayTitle": "Chapter 11A <i>Housing Accessibility</i>",
+                        "isExpandable": true,
+                        "reference": "11A",
+                        "slug": "housing-accessibility"
+                    },
+                    {
+                        "displayTitle": "Chapter 11B Accessibility to Public Buildings, Public Accommodations, Commercial Buildings and Public Housing",
+                        "isExpandable": true,
+                        "reference": "11B",
+                        "slug": "accessibility-to-public-buildings-public-accommodations-commercial-buildings-and"
+                    },
+                    {
+                        "displayTitle": "Chapter 12 Interior Environment",
+                        "isExpandable": true,
+                        "reference": "12",
+                        "slug": "interior-environment"
+                    },
+                    {
+                        "displayTitle": "Chapter 13 Energy Efficiency",
+                        "reference": "13",
+                        "slug": "energy-efficiency"
+                    },
+                    {
+                        "displayTitle": "Chapter 14 Exterior Walls",
+                        "isExpandable": true,
+                        "reference": "14",
+                        "slug": "exterior-walls"
+                    },
+                    {
+                        "displayTitle": "Chapter 15 Roof Assemblies and Rooftop Structures",
+                        "isExpandable": true,
+                        "reference": "15",
+                        "slug": "roof-assemblies-and-rooftop-structures"
+                    },
+                    {
+                        "displayTitle": "Chapter 16 Structural Design",
+                        "isExpandable": true,
+                        "reference": "16",
+                        "slug": "structural-design"
+                    },
+                    {
+                        "displayTitle": "Chapter 16A Structural Design",
+                        "isExpandable": true,
+                        "reference": "16A",
+                        "slug": "structural-design"
+                    },
+                    {
+                        "displayTitle": "Chapter 17 Special Inspections and Tests",
+                        "isExpandable": true,
+                        "reference": "17",
+                        "slug": "special-inspections-and-tests"
+                    },
+                    {
+                        "displayTitle": "Chapter 17A Special Inspections and Tests",
+                        "isExpandable": true,
+                        "reference": "17A",
+                        "slug": "special-inspections-and-tests"
+                    },
+                    {
+                        "displayTitle": "Chapter 18 Soils and Foundations",
+                        "isExpandable": true,
+                        "reference": "18",
+                        "slug": "soils-and-foundations"
+                    },
+                    {
+                        "displayTitle": "Chapter 18A Soils and Foundations",
+                        "isExpandable": true,
+                        "reference": "18A",
+                        "slug": "soils-and-foundations"
+                    },
+                    {
+                        "displayTitle": "Chapter 19 Concrete",
+                        "isExpandable": true,
+                        "reference": "19",
+                        "slug": "concrete"
+                    },
+                    {
+                        "displayTitle": "Chapter 19A Concrete",
+                        "isExpandable": true,
+                        "reference": "19A",
+                        "slug": "concrete"
+                    },
+                    {
+                        "displayTitle": "Chapter 20 Aluminum",
+                        "isExpandable": true,
+                        "reference": "20",
+                        "slug": "aluminum"
+                    },
+                    {
+                        "displayTitle": "Chapter 21 Masonry",
+                        "isExpandable": true,
+                        "reference": "21",
+                        "slug": "masonry"
+                    },
+                    {
+                        "displayTitle": "Chapter 21A Masonry",
+                        "isExpandable": true,
+                        "reference": "21A",
+                        "slug": "masonry"
+                    },
+                    {
+                        "displayTitle": "Chapter 22 Steel",
+                        "isExpandable": true,
+                        "reference": "22",
+                        "slug": "steel"
+                    },
+                    {
+                        "displayTitle": "Chapter 22A Steel",
+                        "isExpandable": true,
+                        "reference": "22A",
+                        "slug": "steel"
+                    },
+                    {
+                        "displayTitle": "Chapter 23 Wood",
+                        "isExpandable": true,
+                        "reference": "23",
+                        "slug": "wood"
+                    },
+                    {
+                        "displayTitle": "Chapter 24 Glass and Glazing",
+                        "isExpandable": true,
+                        "reference": "24",
+                        "slug": "glass-and-glazing"
+                    },
+                    {
+                        "displayTitle": "Chapter 25 Gypsum Panel Products and Plaster",
+                        "isExpandable": true,
+                        "reference": "25",
+                        "slug": "gypsum-panel-products-and-plaster"
+                    },
+                    {
+                        "displayTitle": "Chapter 26 Plastic",
+                        "isExpandable": true,
+                        "reference": "26",
+                        "slug": "plastic"
+                    },
+                    {
+                        "displayTitle": "Chapter 27 Electrical",
+                        "isExpandable": true,
+                        "reference": "27",
+                        "slug": "electrical"
+                    },
+                    {
+                        "displayTitle": "Chapter 28 Mechanical Systems",
+                        "isExpandable": true,
+                        "reference": "28",
+                        "slug": "mechanical-systems"
+                    },
+                    {
+                        "displayTitle": "Chapter 29 Plumbing Systems",
+                        "reference": "29",
+                        "slug": "plumbing-systems"
+                    },
+                    {
+                        "displayTitle": "Chapter 30 Elevators and Conveying Systems",
+                        "isExpandable": true,
+                        "reference": "30",
+                        "slug": "elevators-and-conveying-systems"
+                    },
+                    {
+                        "displayTitle": "Chapter 31 Special Construction",
+                        "isExpandable": true,
+                        "reference": "31",
+                        "slug": "special-construction"
+                    },
+                    {
+                        "displayTitle": "Chapter 31A <i>Systems for Window Cleaning or Exterior Building Maintenance</i>",
+                        "reference": "31A",
+                        "slug": "systems-for-window-cleaning-or-exterior-building-maintenance"
+                    },
+                    {
+                        "displayTitle": "Chapter 31B [DPH] Public Pools",
+                        "isExpandable": true,
+                        "reference": "31B",
+                        "slug": "dph-public-pools"
+                    },
+                    {
+                        "displayTitle": "Chapter 31C [DPH] Radiation",
+                        "isExpandable": true,
+                        "reference": "31C",
+                        "slug": "dph-radiation"
+                    },
+                    {
+                        "displayTitle": "Chapter 31D [DPH] Food Establishments",
+                        "isExpandable": true,
+                        "reference": "31D",
+                        "slug": "dph-food-establishments"
+                    },
+                    {
+                        "displayTitle": "Chapter 31E [DPH]",
+                        "reference": "31E",
+                        "slug": "dph"
+                    },
+                    {
+                        "displayTitle": "Chapter 31F <i>[SLC] Marine Oil Terminals</i>",
+                        "isExpandable": true,
+                        "reference": "31F",
+                        "slug": "slc-marine-oil-terminals"
+                    },
+                    {
+                        "displayTitle": "Chapter 32 Encroachments Into the Public Right-of-Way",
+                        "isExpandable": true,
+                        "reference": "32",
+                        "slug": "encroachments-into-the-public-right-of-way"
+                    },
+                    {
+                        "displayTitle": "Chapter 33 Safeguards During Construction",
+                        "isExpandable": true,
+                        "reference": "33",
+                        "slug": "safeguards-during-construction"
+                    },
+                    {
+                        "displayTitle": "Chapter 34 Reserved",
+                        "reference": "34",
+                        "slug": "reserved"
+                    },
+                    {
+                        "displayTitle": "Chapter 35 Referenced Standards",
+                        "reference": "35",
+                        "slug": "referenced-standards"
+                    },
+                    {
+                        "disabled": true,
+                        "displayTitle": "Appendix A Employee Qualifications",
+                        "reference": "A",
+                        "slug": "employee-qualifications"
+                    },
+                    {
+                        "disabled": true,
+                        "displayTitle": "Appendix B Board of Appeals",
+                        "reference": "B",
+                        "slug": "board-of-appeals"
+                    },
+                    {
+                        "disabled": true,
+                        "displayTitle": "Appendix C Group U Agricultural Buildings",
+                        "reference": "C",
+                        "slug": "group-u-agricultural-buildings"
+                    },
+                    {
+                        "disabled": true,
+                        "displayTitle": "Appendix D Fire Districts",
+                        "reference": "D",
+                        "slug": "fire-districts"
+                    },
+                    {
+                        "disabled": true,
+                        "displayTitle": "Appendix E <i>Reserved</i>",
+                        "reference": "E",
+                        "slug": "reserved"
+                    },
+                    {
+                        "disabled": true,
+                        "displayTitle": "Appendix F Rodentproofing",
+                        "reference": "F",
+                        "slug": "rodentproofing"
+                    },
+                    {
+                        "disabled": true,
+                        "displayTitle": "Appendix G Flood-Resistant Construction",
+                        "reference": "G",
+                        "slug": "flood-resistant-construction"
+                    },
+                    {
+                        "disabled": true,
+                        "displayTitle": "Appendix H Signs",
+                        "reference": "H",
+                        "slug": "signs"
+                    },
+                    {
+                        "displayTitle": "Appendix I Patio Covers",
+                        "isExpandable": true,
+                        "reference": "I",
+                        "slug": "patio-covers"
+                    },
+                    {
+                        "displayTitle": "Appendix J Grading",
+                        "isExpandable": true,
+                        "reference": "J",
+                        "slug": "grading"
+                    },
+                    {
+                        "displayTitle": "Appendix K <i>Group R-3 and Group R-3.1 Occupancies Protected by the Facilities of the Central Valley Flood Protection Plan</i>",
+                        "isExpandable": true,
+                        "reference": "K",
+                        "slug": "group-r-3-and-group-r-3-1-occupancies-protected-by-the-facilities-of-the-central"
+                    },
+                    {
+                        "displayTitle": "Appendix L Earthquake Recording Instrumentation",
+                        "isExpandable": true,
+                        "reference": "L",
+                        "slug": "earthquake-recording-instrumentation"
+                    },
+                    {
+                        "disabled": true,
+                        "displayTitle": "Appendix M Tsunami-Generated Flood Hazards",
+                        "reference": "M",
+                        "slug": "tsunami-generated-flood-hazards"
+                    },
+                    {
+                        "disabled": true,
+                        "displayTitle": "Appendix N Replicable Buildings",
+                        "reference": "N",
+                        "slug": "replicable-buildings"
+                    },
+                    {
+                        "disabled": true,
+                        "displayTitle": "[A] Appendix O Performance-Based Application",
+                        "reference": "O",
+                        "slug": "performance-based-application"
+                    },
+                    {
+                        "displayTitle": "Appendix P Sleeping Lofts",
+                        "isExpandable": true,
+                        "reference": "P",
+                        "slug": "sleeping-lofts"
+                    },
+                    {
+                        "displayTitle": "Appendix Q <i>Emergency Housing</i>",
+                        "isExpandable": true,
+                        "reference": "Q",
+                        "slug": "emergency-housing"
+                    },
+                    {
+                        "displayTitle": "History Note Appendix",
+                        "reference": "history_note_appendix_",
+                        "slug": "history-note-appendix"
+                    }
+                ],
+                "leanCodeSectionsTree": [
+                    {
+                        "ancestorRefs": [],
+                        "body": "<div class=\"u-italic u-text-center\"><span class=\"u-font-bold\">Refer to <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/california/ca-energy-code-2025\">California Energy Code</a></span>, Title 24, Part 6.</span></div>",
+                        "depth": 0,
+                        "diagrams": [],
+                        "displayRef": null,
+                        "displayTitle": "Chapter 13 Energy Efficiency",
+                        "divisionType": "Chapter",
+                        "hasAssemblies": false,
+                        "isContiguous": true,
+                        "numAssembliesOnRef": 0,
+                        "numBuildingProductsOnRef": 0,
+                        "numDiagramsOnRef": 0,
+                        "reference": "13",
+                        "slug": "energy-efficiency",
+                        "titleText": "Energy Efficiency",
+                        "children": []
+                    }
+                ]
+            },
+            "chapterReference": "13"
+        },
+        "__N_SSP": true
+    },
+    "page": "/viewer/[urlFormPubOrJurisKey]/[urlFormPub]/chapter/[chapterRef]/[chapterName]",
+    "query": {
+        "urlFormPubOrJurisKey": "california",
+        "urlFormPub": "ca-building-code-2025",
+        "chapterRef": "13",
+        "chapterName": "energy-efficiency"
+    },
+    "buildId": "RZSwz8uFB9jvXr56FjNnx",
+    "isFallback": false,
+    "isExperimentalCompile": false,
+    "dynamicIds": [
+        61621,
+        54065
+    ],
+    "gssp": true,
+    "scriptLoader": []
+}

@@ -1,0 +1,915 @@
+{
+    "props": {
+        "pageProps": {
+            "missingRequiredLogin": false,
+            "title": "Chapter 11 Additions: California Existing Building Code 2025 | UpCodes",
+            "leanChapterViewerData": {
+                "basePubName": "International Existing Building Code 2024 (IEBC 2024)",
+                "codeGroupingYear": "2025",
+                "codeName": "California Existing Building Code 2025",
+                "codeUuid": "f9c6e25d-6ff2-4742-95f0-d003b39053bd",
+                "codeVersions": [
+                    {
+                        "codeUuid": "f9c6e25d-6ff2-4742-95f0-d003b39053bd",
+                        "name": "Original Adoption",
+                        "effectiveStartDate": "2026-01-01",
+                        "shortformUrlName": "ca-existing-building-code-2025",
+                        "activeStatus": "active"
+                    }
+                ],
+                "ingesterAmendmentsEnabled": false,
+                "ingesterCodeUnitsEnabled": false,
+                "isAmendStylingEnabled": false,
+                "isCorrespondable": true,
+                "jurisKey": "california",
+                "jurisName": "California",
+                "metaInfoUrl": "/viewer/california/ca-existing-building-code-2025",
+                "modelCodeUrl": null,
+                "placeholder": "Search California Existing Building Code 2025",
+                "pubKey": "california_ebc_2025",
+                "pubPrefix": "int_ebc",
+                "shortformPubName": "ca-existing-building-code-2025",
+                "withAmendments": true,
+                "chapterRef": "11",
+                "publisher": "icc",
+                "hasLinkedResources": false,
+                "initialNonChapterTocLines": [
+                    {
+                        "amendType": null,
+                        "children": [
+                            {
+                                "amendType": null,
+                                "children": [],
+                                "depth": 2,
+                                "displayTitle": "1101.1 Scope",
+                                "hasExpanderArrow": false,
+                                "href": "#1101.1",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "reference": "1101.1"
+                            },
+                            {
+                                "amendType": null,
+                                "children": [],
+                                "depth": 2,
+                                "displayTitle": "1101.2 Creation or Extension of Nonconformity",
+                                "hasExpanderArrow": false,
+                                "href": "#1101.2",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "reference": "1101.2"
+                            },
+                            {
+                                "amendType": null,
+                                "children": [],
+                                "depth": 2,
+                                "displayTitle": "1101.3 Risk Category Assignment",
+                                "hasExpanderArrow": false,
+                                "href": "#1101.3",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "reference": "1101.3"
+                            },
+                            {
+                                "amendType": null,
+                                "children": [],
+                                "depth": 2,
+                                "displayTitle": "1101.4 Other Work",
+                                "hasExpanderArrow": false,
+                                "href": "#1101.4",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "reference": "1101.4"
+                            },
+                            {
+                                "amendType": null,
+                                "children": [],
+                                "depth": 2,
+                                "displayTitle": "1101.5 Smoke Barriers in Group <i>R-2.1</i>",
+                                "hasExpanderArrow": false,
+                                "href": "#1101.5",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "reference": "1101.5"
+                            },
+                            {
+                                "amendType": null,
+                                "children": [],
+                                "depth": 2,
+                                "displayTitle": "1101.6 Enhanced Classroom Acoustics",
+                                "hasExpanderArrow": false,
+                                "href": "#1101.6",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "reference": "1101.6"
+                            },
+                            {
+                                "amendType": null,
+                                "children": [],
+                                "depth": 2,
+                                "displayTitle": "1101.7 Occupiable Roofs",
+                                "hasExpanderArrow": false,
+                                "href": "#1101.7",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "reference": "1101.7"
+                            }
+                        ],
+                        "depth": 1,
+                        "displayTitle": "1101 General",
+                        "hasExpanderArrow": true,
+                        "href": "#1101",
+                        "isCodeDivider": false,
+                        "isCodeDividerClickable": false,
+                        "reference": "1101"
+                    },
+                    {
+                        "amendType": null,
+                        "children": [
+                            {
+                                "amendType": null,
+                                "children": [],
+                                "depth": 2,
+                                "displayTitle": "1102.1 Height Limitations",
+                                "hasExpanderArrow": false,
+                                "href": "#1102.1",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "reference": "1102.1"
+                            },
+                            {
+                                "amendType": null,
+                                "children": [],
+                                "depth": 2,
+                                "displayTitle": "1102.2 Area Limitations",
+                                "hasExpanderArrow": false,
+                                "href": "#1102.2",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "reference": "1102.2"
+                            },
+                            {
+                                "amendType": null,
+                                "children": [],
+                                "depth": 2,
+                                "displayTitle": "1102.3 Fire Protection Systems",
+                                "hasExpanderArrow": false,
+                                "href": "#1102.3",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "reference": "1102.3"
+                            },
+                            {
+                                "amendType": null,
+                                "children": [],
+                                "depth": 2,
+                                "displayTitle": "1102.4 <i>Systems Out of Service</i>",
+                                "hasExpanderArrow": false,
+                                "href": "#1102.4",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "reference": "1102.4"
+                            }
+                        ],
+                        "depth": 1,
+                        "displayTitle": "1102 Heights and Areas",
+                        "hasExpanderArrow": true,
+                        "href": "#1102",
+                        "isCodeDivider": false,
+                        "isCodeDividerClickable": false,
+                        "reference": "1102"
+                    },
+                    {
+                        "amendType": null,
+                        "children": [
+                            {
+                                "amendType": null,
+                                "children": [],
+                                "depth": 2,
+                                "displayTitle": "1103.1 Additional Gravity Loads",
+                                "hasExpanderArrow": false,
+                                "href": "#1103.1",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "reference": "1103.1"
+                            },
+                            {
+                                "amendType": null,
+                                "children": [],
+                                "depth": 2,
+                                "displayTitle": "1103.2 Lateral Force-Resisting System",
+                                "hasExpanderArrow": false,
+                                "href": "#1103.2",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "reference": "1103.2"
+                            },
+                            {
+                                "amendType": null,
+                                "children": [],
+                                "depth": 2,
+                                "displayTitle": "1103.3 Flood Hazard Areas",
+                                "hasExpanderArrow": false,
+                                "href": "#1103.3",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "reference": "1103.3"
+                            }
+                        ],
+                        "depth": 1,
+                        "displayTitle": "1103 Structural",
+                        "hasExpanderArrow": true,
+                        "href": "#1103",
+                        "isCodeDivider": false,
+                        "isCodeDividerClickable": false,
+                        "reference": "1103"
+                    },
+                    {
+                        "amendType": null,
+                        "children": [
+                            {
+                                "amendType": null,
+                                "children": [],
+                                "depth": 2,
+                                "displayTitle": "1104.1 Minimum Requirements",
+                                "hasExpanderArrow": false,
+                                "href": "#1104.1",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "reference": "1104.1"
+                            }
+                        ],
+                        "depth": 1,
+                        "displayTitle": "1104 Energy Conservation",
+                        "hasExpanderArrow": true,
+                        "href": "#1104",
+                        "isCodeDivider": false,
+                        "isCodeDividerClickable": false,
+                        "reference": "1104"
+                    }
+                ],
+                "title": "Chapter 11 Additions: California Existing Building Code 2025 | UpCodes",
+                "leanChapterLines": [
+                    {
+                        "displayTitle": "Chapter 1 <i>Administration</i>",
+                        "isExpandable": true,
+                        "reference": "1",
+                        "slug": "administration"
+                    },
+                    {
+                        "displayTitle": "Chapter 2 Definitions",
+                        "isExpandable": true,
+                        "reference": "2",
+                        "slug": "definitions"
+                    },
+                    {
+                        "displayTitle": "Chapter 3 Provisions for All Compliance Methods",
+                        "isExpandable": true,
+                        "reference": "3",
+                        "slug": "provisions-for-all-compliance-methods"
+                    },
+                    {
+                        "displayTitle": "Chapter 3A Provisions for All Compliance Methods",
+                        "isExpandable": true,
+                        "reference": "3A",
+                        "slug": "provisions-for-all-compliance-methods"
+                    },
+                    {
+                        "displayTitle": "Chapter 4 Repairs",
+                        "isExpandable": true,
+                        "reference": "4",
+                        "slug": "repairs"
+                    },
+                    {
+                        "displayTitle": "Chapter 4A Repairs",
+                        "isExpandable": true,
+                        "reference": "4A",
+                        "slug": "repairs"
+                    },
+                    {
+                        "displayTitle": "Chapter 5 Prescriptive Compliance Method",
+                        "isExpandable": true,
+                        "reference": "5",
+                        "slug": "prescriptive-compliance-method"
+                    },
+                    {
+                        "displayTitle": "Chapter 5A Prescriptive Compliance Method",
+                        "isExpandable": true,
+                        "reference": "5A",
+                        "slug": "prescriptive-compliance-method"
+                    },
+                    {
+                        "displayTitle": "Chapter 6 Classification of Work",
+                        "isExpandable": true,
+                        "reference": "6",
+                        "slug": "classification-of-work"
+                    },
+                    {
+                        "displayTitle": "Chapter 7 Alterations\u2014Level 1",
+                        "isExpandable": true,
+                        "reference": "7",
+                        "slug": "alterations-level-1"
+                    },
+                    {
+                        "displayTitle": "Chapter 8 Alterations\u2014Level 2",
+                        "isExpandable": true,
+                        "reference": "8",
+                        "slug": "alterations-level-2"
+                    },
+                    {
+                        "displayTitle": "Chapter 9 Alterations\u2014Level 3",
+                        "isExpandable": true,
+                        "reference": "9",
+                        "slug": "alterations-level-3"
+                    },
+                    {
+                        "displayTitle": "Chapter 10 Change of Occupancy",
+                        "isExpandable": true,
+                        "reference": "10",
+                        "slug": "change-of-occupancy"
+                    },
+                    {
+                        "displayTitle": "Chapter 11 Additions",
+                        "isExpandable": true,
+                        "reference": "11",
+                        "slug": "additions"
+                    },
+                    {
+                        "displayTitle": "Chapter 12 Historic Buildings",
+                        "reference": "12",
+                        "slug": "historic-buildings"
+                    },
+                    {
+                        "displayTitle": "Chapter 13 Performance Compliance Methods",
+                        "isExpandable": true,
+                        "reference": "13",
+                        "slug": "performance-compliance-methods"
+                    },
+                    {
+                        "displayTitle": "Chapter 14 Relocated or Moved Buildings",
+                        "isExpandable": true,
+                        "reference": "14",
+                        "slug": "relocated-or-moved-buildings"
+                    },
+                    {
+                        "displayTitle": "Chapter 15 Construction Safeguards",
+                        "isExpandable": true,
+                        "reference": "15",
+                        "slug": "construction-safeguards"
+                    },
+                    {
+                        "displayTitle": "Chapter 16 Referenced Standards",
+                        "reference": "16",
+                        "slug": "referenced-standards"
+                    },
+                    {
+                        "displayTitle": "Appendix A Guidelines for the Seismic Retrofit of Existing Buildings",
+                        "isExpandable": true,
+                        "reference": "A",
+                        "slug": "guidelines-for-the-seismic-retrofit-of-existing-buildings"
+                    },
+                    {
+                        "disabled": true,
+                        "displayTitle": "Appendix B Supplementary Accessibility Requirements for Existing Buildings and Facilities",
+                        "reference": "B",
+                        "slug": "supplementary-accessibility-requirements-for-existing-buildings-and-facilities"
+                    },
+                    {
+                        "disabled": true,
+                        "displayTitle": "Appendix C Guidelines for the Wind Retrofit of Existing Buildings",
+                        "reference": "C",
+                        "slug": "guidelines-for-the-wind-retrofit-of-existing-buildings"
+                    },
+                    {
+                        "disabled": true,
+                        "displayTitle": "Appendix D Board of Appeals",
+                        "reference": "D",
+                        "slug": "board-of-appeals"
+                    },
+                    {
+                        "disabled": true,
+                        "displayTitle": "Appendix E Temporary Emergency Uses",
+                        "reference": "E",
+                        "slug": "temporary-emergency-uses"
+                    },
+                    {
+                        "disabled": true,
+                        "displayTitle": "Resource A Guidelines on Fire Ratings of Archaic Materials and Assemblies",
+                        "reference": "resource_A",
+                        "slug": "guidelines-on-fire-ratings-of-archaic-materials-and-assemblies"
+                    },
+                    {
+                        "displayTitle": "History Note Appendix",
+                        "reference": "history_note_appendix_",
+                        "slug": "history-note-appendix"
+                    }
+                ],
+                "leanCodeSectionsTree": [
+                    {
+                        "ancestorRefs": [],
+                        "body": "<figure>\n<figcaption>\n<div class=\"u-mb-3 u-mt-3\"><span class=\"u-font-bold\">CALIFORNIA <a class=\"autolink\" href=\"/viewer/california/ca-existing-building-code-2025/chapter/2/definitions#existing_building_\">EXISTING BUILDING</a> CODE \u2014 MATRIX ADOPTION TABLE<br/>CHAPTER 11 \u2014 <a class=\"autolink\" href=\"/viewer/california/ca-existing-building-code-2025/chapter/2/definitions#addition_\">ADDITIONS</a></span></div>\n<div class=\"u-text-center u-mb-3 u-mt-3\">(Matrix Adoption Tables are nonregulatory, intended only as an aid to the code user.<br/>See <a class=\"autolink\" href=\"/viewer/california/ca-existing-building-code-2025/chapter/1/administration#1\">Chapter 1</a> for state agency authority and building applications.)</div>\n</figcaption>\n<table class=\"uc_all_borders\">\n<thead>\n<tr>\n<td class=\"u-align-middle u-text-left uc_all_borders\" rowspan=\"2\">Adopting Agency</td>\n<th class=\"u-align-middle u-text-center\" rowspan=\"2\"><span class=\"u-font-bold\">BSC</span></th>\n<th class=\"u-align-middle u-text-center\" rowspan=\"2\"><span class=\"u-font-bold\">BSC-</span>\n<div><span class=\"u-font-bold\">CG</span></div>\n</th>\n<th class=\"u-align-middle u-text-center\" rowspan=\"2\"><span class=\"u-font-bold\">SFM</span></th>\n<th class=\"u-align-middle u-text-center\" colspan=\"3\"><span class=\"u-font-bold\">HCD</span></th>\n<th class=\"u-align-middle u-text-center\" colspan=\"3\"><span class=\"u-font-bold\">DSA</span></th>\n<th class=\"u-align-middle u-text-center\" colspan=\"6\"><span class=\"u-font-bold\">OSHPD</span></th>\n<th class=\"u-align-middle u-text-center\">&nbsp;</th>\n<th class=\"u-align-middle u-text-center\" rowspan=\"2\"><span class=\"u-font-bold\">BSCC</span></th>\n<th class=\"u-align-middle u-text-center\" rowspan=\"2\"><span class=\"u-font-bold\">DPH</span></th>\n<th class=\"u-align-middle u-text-center\" rowspan=\"2\"><span class=\"u-font-bold\">AGR</span></th>\n<th class=\"u-align-middle u-text-center\" rowspan=\"2\"><span class=\"u-font-bold\">DWR</span></th>\n<th class=\"u-align-middle u-text-center\" rowspan=\"2\"><span class=\"u-font-bold\">CEC</span></th>\n<th class=\"u-align-middle u-text-center\" rowspan=\"2\"><span class=\"u-font-bold\">CA</span></th>\n<th class=\"u-align-middle u-text-center\" rowspan=\"2\"><span class=\"u-font-bold\">SL</span></th>\n<th class=\"u-align-middle u-text-center\" rowspan=\"2\"><span class=\"u-font-bold\">SLC</span></th>\n</tr>\n<tr>\n<th class=\"u-align-middle u-text-center\"><span class=\"u-font-bold\">1</span></th>\n<th class=\"u-align-middle u-text-center\"><span class=\"u-font-bold\">2</span></th>\n<th class=\"u-align-middle u-text-center\"><span class=\"u-font-bold\">1/AC</span></th>\n<th class=\"u-align-middle u-text-center\"><span class=\"u-font-bold\">AC</span></th>\n<th class=\"u-align-middle u-text-center\"><span class=\"u-font-bold\">SS</span></th>\n<th class=\"u-align-middle u-text-center\"><span class=\"u-font-bold\">SS/CC</span></th>\n<th class=\"u-align-middle u-text-center\"><span class=\"u-font-bold\">1</span></th>\n<th class=\"u-align-middle u-text-center\"><span class=\"u-font-bold\">1R</span></th>\n<th class=\"u-align-middle u-text-center\"><span class=\"u-font-bold\">2</span></th>\n<th class=\"u-align-middle u-text-center\"><span class=\"u-font-bold\">3</span></th>\n<th class=\"u-align-middle u-text-center\"><span class=\"u-font-bold\">4</span></th>\n<th class=\"u-align-middle u-text-center\"><span class=\"u-font-bold\">5</span></th>\n<th class=\"u-align-middle u-text-center\"><span class=\"u-font-bold\">6</span></th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td class=\"u-align-middle u-text-left uc_all_borders\">Adopt Entire Chapter</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\"><span class=\"u-font-bold\">X</span></td>\n<td class=\"u-align-middle u-text-center uc_all_borders\"><span class=\"u-font-bold\">X</span></td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n</tr>\n<tr>\n<td class=\"u-align-middle u-text-left uc_all_borders\">Adopt Entire Chapter as amended (amended sections listed below)</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\"><span class=\"u-font-bold\">X</span></td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n</tr>\n<tr>\n<td class=\"u-align-middle u-text-left uc_all_borders\">Adopt only those sections that are listed below</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n</tr>\n<tr>\n<td class=\"u-align-middle u-text-left uc_all_borders\">Chapter / Section</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n</tr>\n<tr>\n<td class=\"u-align-middle u-text-left uc_all_borders\"><a class=\"autolink\" href=\"#1101.1\">1101.1</a></td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">X</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n</tr>\n<tr>\n<td class=\"u-align-middle u-text-left uc_all_borders\"><a class=\"autolink\" href=\"#1101.5\">1101.5</a></td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">X</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">\u2020</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">\u2020</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n</tr>\n<tr>\n<td class=\"u-align-middle u-text-left uc_all_borders\"><a class=\"autolink\" href=\"#1101.6\">1101.6</a></td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">\u2020</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">\u2020</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n</tr>\n<tr>\n<td class=\"u-align-middle u-text-left uc_all_borders\"><a class=\"autolink\" href=\"#1102.2\">1102.2</a></td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">X</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n</tr>\n<tr>\n<td class=\"u-align-middle u-text-left uc_all_borders\"><a class=\"autolink\" href=\"#1102.3\">1102.3</a> Exception</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">\u2020</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">\u2020</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n</tr>\n<tr>\n<td class=\"u-align-middle u-text-left uc_all_borders\"><a class=\"autolink\" href=\"#1102.4\">1102.4</a></td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">X</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n</tr>\n</tbody>\n</table>\n<div>\n<div class=\"u-text-12px u-mb-3 u-mt-3\">The state agency does not adopt sections identified with the following symbol: \u2020</div>\n<div class=\"u-text-12px u-mb-3 u-mt-3\">The Office of the State Fire Marshal's adoption of this chapter or individual sections is applicable to structures regulated by other state agencies pursuant to <a class=\"autolink\" href=\"/viewer/california/ca-existing-building-code-2025/chapter/1/administration#1.11\">Section 1.11</a>.</div>\n</div>\n</figure>\n<div class=\"u-mt-4\">\n<div class=\"u-font-bold u-mb-3 u-mt-3\"><i>User notes:</i></div>\n<div class=\"u-mb-3 u-mt-3\"><i><b>About this chapter:</b> Chapter 11 provides the requirements for <a class=\"autolink\" href=\"/viewer/california/ca-existing-building-code-2025/chapter/2/definitions#addition_\">additions</a>, which correlate to the code requirements for new <a class=\"autolink\" href=\"/viewer/california/ca-existing-building-code-2025/chapter/3/provisions-for-all-compliance-methods#303.1.1\">construction</a>. There are, however, some exceptions that are specifically stated within this chapter. An \"<a class=\"autolink\" href=\"/viewer/california/ca-existing-building-code-2025/chapter/2/definitions#addition_\">Addition</a>\" is defined in <a class=\"autolink\" href=\"/viewer/california/ca-existing-building-code-2025/chapter/2/definitions#2\">Chapter 2</a> as \"an extension or increase in the floor area, number of <a class=\"autolink\" href=\"/viewer/california/ca-existing-building-code-2025/chapter/A/guidelines-for-the-seismic-retrofit-of-existing-buildings#story_\">stories</a> or height of a building or structure.\" Chapter 11 contains the minimum requirements for an <a class=\"autolink\" href=\"/viewer/california/ca-existing-building-code-2025/chapter/2/definitions#addition_\">addition</a> that is not separated from the <a class=\"autolink\" href=\"/viewer/california/ca-existing-building-code-2025/chapter/2/definitions#existing_building_\">existing building</a> by a fire wall.</i></div>\n</div>",
+                        "depth": 0,
+                        "diagrams": [],
+                        "displayRef": null,
+                        "displayTitle": "Chapter 11 Additions",
+                        "divisionType": "Chapter",
+                        "hasAssemblies": false,
+                        "isContiguous": true,
+                        "numAssembliesOnRef": 0,
+                        "numBuildingProductsOnRef": 0,
+                        "numDiagramsOnRef": 0,
+                        "reference": "11",
+                        "slug": "additions",
+                        "titleText": "Additions",
+                        "children": [
+                            {
+                                "ancestorRefs": [
+                                    "11"
+                                ],
+                                "depth": 1,
+                                "diagrams": [],
+                                "displayRef": null,
+                                "displayTitle": "Section 1101 General",
+                                "divisionType": "Section",
+                                "hasAssemblies": false,
+                                "isContiguous": true,
+                                "numAssembliesOnRef": 0,
+                                "numBuildingProductsOnRef": 0,
+                                "numDiagramsOnRef": 0,
+                                "reference": "1101",
+                                "slug": "additions",
+                                "titleText": "General",
+                                "children": [
+                                    {
+                                        "ancestorRefs": [
+                                            "11",
+                                            "1101"
+                                        ],
+                                        "body": "An <a class=\"autolink\" href=\"/viewer/california/ca-existing-building-code-2025/chapter/2/definitions#addition_\">addition</a> to a building or structure shall comply with the \n<span class=\"u-italic\">California Building Standards</span>\n Codes as adopted for new <a class=\"autolink\" href=\"/viewer/california/ca-existing-building-code-2025/chapter/3/provisions-for-all-compliance-methods#303.1.1\">construction</a> without requiring the <a class=\"autolink\" href=\"/viewer/california/ca-existing-building-code-2025/chapter/2/definitions#existing_building_\">existing building</a> or structure to comply with any requirements of those codes or of these provisions, except as required by this chapter. Where an <a class=\"autolink\" href=\"/viewer/california/ca-existing-building-code-2025/chapter/2/definitions#addition_\">addition</a> or \n<span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/california/ca-existing-building-code-2025/chapter/2/definitions#alteration_\">alteration</a></span>\n impacts the <a class=\"autolink\" href=\"/viewer/california/ca-existing-building-code-2025/chapter/2/definitions#existing_building_\">existing building</a> or structure, \n<span class=\"u-italic\">the result of the <a class=\"autolink\" href=\"/viewer/california/ca-existing-building-code-2025/chapter/2/definitions#addition_\">addition</a> or <a class=\"autolink\" href=\"/viewer/california/ca-existing-building-code-2025/chapter/2/definitions#alteration_\">alteration</a> shall not put the <a class=\"autolink\" href=\"/viewer/california/ca-existing-building-code-2025/chapter/2/definitions#existing_building_\">existing building</a> or structure out of <a class=\"autolink\" href=\"/viewer/california/ca-existing-building-code-2025/chapter/9/alterations-level-3#901.2\">compliance</a> with the <span class=\"u-italic\">California Building</span> or <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/california/ca-residential-code-2025\">Residential Code</a></span> as applicable. The provisions of height and area of the <span class=\"u-italic\">California Building</span> or <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/california/ca-residential-code-2025\">Residential Code</a></span> shall apply to the entire <a class=\"autolink\" href=\"/viewer/california/ca-existing-building-code-2025/chapter/2/definitions#existing_building_\">existing building</a> with the <a class=\"autolink\" href=\"/viewer/california/ca-existing-building-code-2025/chapter/13/performance-compliance-methods#1302.1.3\">additions</a>.</span>",
+                                        "depth": 2,
+                                        "diagrams": [
+                                            {
+                                                "key": "dwelling_additions_emergency_escape",
+                                                "title": "Dwelling Additions - Emergency Escape",
+                                                "descriptionHtml": "<div><strong>Emergency Escape and Rescue Opening:</strong> An operable window, door or similar device that provides for a means of escape and access for rescue in the event of an emergency. </div><br/>",
+                                                "topics": [
+                                                    "Residential",
+                                                    "Egress"
+                                                ],
+                                                "phases": [
+                                                    "Construction Docs",
+                                                    "Construction Phase",
+                                                    "Design Development"
+                                                ],
+                                                "supressesChildrenAssociations": false,
+                                                "blacklistJurisdictions": [
+                                                    "ohio"
+                                                ],
+                                                "whitelistJurisdictions": [],
+                                                "imageType": "svg"
+                                            },
+                                            {
+                                                "key": "existing_bldg_additions",
+                                                "title": "Existing Building Additions - Area",
+                                                "descriptionHtml": "<div>According to the Existing Building Code, an <strong>addition</strong> is an extension or increase in floor area, number of stories, or height of a building or structure.</div>",
+                                                "topics": [
+                                                    "Example",
+                                                    "Height and Area"
+                                                ],
+                                                "phases": [
+                                                    "Design Development",
+                                                    "Schematic"
+                                                ],
+                                                "supressesChildrenAssociations": false,
+                                                "blacklistJurisdictions": [],
+                                                "whitelistJurisdictions": [],
+                                                "imageType": "svg"
+                                            }
+                                        ],
+                                        "displayRef": null,
+                                        "displayTitle": "1101.1 Scope",
+                                        "hasAssemblies": false,
+                                        "hasDiagrams": true,
+                                        "hasDiagramsOnRef": true,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 0,
+                                        "numDiagramsOnRef": 2,
+                                        "reference": "1101.1",
+                                        "slug": "additions",
+                                        "titleText": "Scope",
+                                        "children": []
+                                    },
+                                    {
+                                        "ancestorRefs": [
+                                            "11",
+                                            "1101"
+                                        ],
+                                        "body": "<div class=\"u-mb-3\">An <a class=\"autolink\" href=\"/viewer/california/ca-existing-building-code-2025/chapter/2/definitions#addition_\">addition</a> shall not create or extend any nonconformity in the <a class=\"autolink\" href=\"/viewer/california/ca-existing-building-code-2025/chapter/2/definitions#existing_building_\">existing building</a> to which the <a class=\"autolink\" href=\"/viewer/california/ca-existing-building-code-2025/chapter/2/definitions#addition_\">addition</a> is being made with regard to accessibility, structural strength, supports and attachments for nonstructural components, fire safety, means of egress or the capacity of mechanical, plumbing or electrical systems.</div>\n<div class=\"uc_exception\">\n    <span class=\"u-font-bold\">Exception: </span>Nonconforming supports and attachments for nonstructural components that serve the <a class=\"autolink\" href=\"/viewer/california/ca-existing-building-code-2025/chapter/2/definitions#addition_\">addition</a> from within the <a class=\"autolink\" href=\"/viewer/california/ca-existing-building-code-2025/chapter/2/definitions#existing_building_\">existing building</a> need not be altered to comply with <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/california/ca-building-code-2025\">California  Building Code</a> </span> Section 1613 unless the components are part of the <a class=\"autolink\" href=\"/viewer/california/ca-existing-building-code-2025/chapter/2/definitions#addition_\">addition</a>'s life safety system or are required to serve an <a class=\"autolink\" href=\"/viewer/california/ca-existing-building-code-2025/chapter/2/definitions#addition_\">addition</a> assigned to <a class=\"autolink\" href=\"/viewer/california/ca-existing-building-code-2025/chapter/2/definitions#risk_category_\">Risk Category</a> IV.</div>",
+                                        "depth": 2,
+                                        "diagrams": [],
+                                        "displayRef": null,
+                                        "displayTitle": "1101.2 Creation or Extension of Nonconformity",
+                                        "hasAssemblies": false,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 0,
+                                        "numDiagramsOnRef": 0,
+                                        "reference": "1101.2",
+                                        "slug": "additions",
+                                        "titleText": "Creation or Extension of Nonconformity",
+                                        "children": []
+                                    },
+                                    {
+                                        "ancestorRefs": [
+                                            "11",
+                                            "1101"
+                                        ],
+                                        "body": "<div>Where the <a class=\"autolink\" href=\"/viewer/california/ca-existing-building-code-2025/chapter/2/definitions#addition_\">addition</a> and the <a class=\"autolink\" href=\"/viewer/california/ca-existing-building-code-2025/chapter/2/definitions#existing_building_\">existing building</a> have different occupancies, the <a class=\"autolink\" href=\"/viewer/california/ca-existing-building-code-2025/chapter/2/definitions#risk_category_\">risk category</a> of each existing and added occupancy shall be determined in accordance with <a class=\"autolink\" href=\"/viewer/california/ca-building-code-2025/chapter/16/structural-design#1604.5.1\">Section 1604.5.1</a> of the <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/california/ca-building-code-2025\">California Building Code</a></span>. Where application of that section results in a higher <a class=\"autolink\" href=\"/viewer/california/ca-existing-building-code-2025/chapter/2/definitions#risk_category_\">risk category</a> for the <a class=\"autolink\" href=\"/viewer/california/ca-existing-building-code-2025/chapter/2/definitions#existing_building_\">existing building</a> compared with the <a class=\"autolink\" href=\"/viewer/california/ca-existing-building-code-2025/chapter/2/definitions#risk_category_\">risk category</a> for the <a class=\"autolink\" href=\"/viewer/california/ca-existing-building-code-2025/chapter/2/definitions#existing_building_\">existing building</a> before the <a class=\"autolink\" href=\"/viewer/california/ca-existing-building-code-2025/chapter/2/definitions#addition_\">addition</a>, such a change shall be considered a <a class=\"autolink\" href=\"/viewer/california/ca-existing-building-code-2025/chapter/2/definitions#change_of_occupancy_\">change of occupancy</a> and shall comply with <a class=\"autolink\" href=\"/viewer/california/ca-existing-building-code-2025/chapter/10/change-of-occupancy#10\">Chapter 10</a> of this code. Where application of that section results in a higher <a class=\"autolink\" href=\"/viewer/california/ca-existing-building-code-2025/chapter/2/definitions#risk_category_\">risk category</a> for the <a class=\"autolink\" href=\"/viewer/california/ca-existing-building-code-2025/chapter/2/definitions#addition_\">addition</a> compared with the <a class=\"autolink\" href=\"/viewer/california/ca-existing-building-code-2025/chapter/2/definitions#risk_category_\">risk category</a> for the <a class=\"autolink\" href=\"/viewer/california/ca-existing-building-code-2025/chapter/2/definitions#addition_\">addition</a> by itself, the <a class=\"autolink\" href=\"/viewer/california/ca-existing-building-code-2025/chapter/2/definitions#addition_\">addition</a> and any systems in the <a class=\"autolink\" href=\"/viewer/california/ca-existing-building-code-2025/chapter/2/definitions#existing_building_\">existing building</a> required to serve the <a class=\"autolink\" href=\"/viewer/california/ca-existing-building-code-2025/chapter/2/definitions#addition_\">addition</a> shall comply with the requirements of the <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/california/ca-building-code-2025\">California Building Code</a></span> for new <a class=\"autolink\" href=\"/viewer/california/ca-existing-building-code-2025/chapter/3/provisions-for-all-compliance-methods#303.1.1\">construction</a> for the higher <a class=\"autolink\" href=\"/viewer/california/ca-existing-building-code-2025/chapter/2/definitions#risk_category_\">risk category</a>.</div>",
+                                        "depth": 2,
+                                        "diagrams": [],
+                                        "displayRef": null,
+                                        "displayTitle": "[BS]  1101.3 Risk Category Assignment",
+                                        "hasAssemblies": false,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 0,
+                                        "numDiagramsOnRef": 0,
+                                        "reference": "1101.3",
+                                        "refPrefix": "[BS]",
+                                        "slug": "additions",
+                                        "titleText": "Risk Category Assignment",
+                                        "children": []
+                                    },
+                                    {
+                                        "ancestorRefs": [
+                                            "11",
+                                            "1101"
+                                        ],
+                                        "body": "<div>Any <a class=\"autolink\" href=\"/viewer/california/ca-existing-building-code-2025/chapter/2/definitions#repair_oshpd_1_\">repair</a> or <a class=\"autolink\" href=\"/viewer/california/ca-existing-building-code-2025/chapter/2/definitions#alteration_\">alteration</a> work within an <a class=\"autolink\" href=\"/viewer/california/ca-existing-building-code-2025/chapter/2/definitions#existing_building_\">existing building</a> to which an <a class=\"autolink\" href=\"/viewer/california/ca-existing-building-code-2025/chapter/2/definitions#addition_\">addition</a> is being made shall comply with the applicable requirements for the work as classified in <a class=\"autolink\" href=\"/viewer/california/ca-existing-building-code-2025/chapter/6/classification-of-work#6\">Chapter 6</a>.</div>",
+                                        "depth": 2,
+                                        "diagrams": [],
+                                        "displayRef": null,
+                                        "displayTitle": "1101.4 Other Work",
+                                        "hasAssemblies": false,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 0,
+                                        "numDiagramsOnRef": 0,
+                                        "reference": "1101.4",
+                                        "slug": "additions",
+                                        "titleText": "Other Work",
+                                        "children": []
+                                    },
+                                    {
+                                        "ancestorRefs": [
+                                            "11",
+                                            "1101"
+                                        ],
+                                        "body": "<div class=\"u-mb-3\">Where an <a class=\"autolink\" href=\"/viewer/california/ca-existing-building-code-2025/chapter/2/definitions#addition_\">addition</a> to an existing Group <span class=\"u-italic\">R-2.1 </span>building adds sleeping areas that result in more than 50 care recipients on a <a class=\"autolink\" href=\"/viewer/california/ca-existing-building-code-2025/chapter/A/guidelines-for-the-seismic-retrofit-of-existing-buildings#story_\">story</a>, smoke barriers shall be provided to subdivide such <a class=\"autolink\" href=\"/viewer/california/ca-existing-building-code-2025/chapter/A/guidelines-for-the-seismic-retrofit-of-existing-buildings#story_\">story</a> into not fewer than two smoke compartments in accordance with <a class=\"autolink\" href=\"/viewer/california/ca-building-code-2025/chapter/4/special-detailed-requirements-based-on-occupancy-and-use#420.6\">Section 420.6</a> of the <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/california/ca-building-code-2025\">California Building Code</a></span>.</div>\n<div class=\"uc_exception\">\n    <span class=\"u-font-bold\">Exception: </span>Where the <a class=\"autolink\" href=\"/viewer/california/ca-existing-building-code-2025/chapter/2/definitions#existing_building_\">existing building</a> is divided into smoke compartments and the <a class=\"autolink\" href=\"/viewer/california/ca-existing-building-code-2025/chapter/2/definitions#addition_\">addition</a> does not result in any individual smoke compartment exceeding the size and travel distance requirements in <a class=\"autolink\" href=\"/viewer/california/ca-building-code-2025/chapter/4/special-detailed-requirements-based-on-occupancy-and-use#420.6\">Section 420.6</a> of the <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/california/ca-building-code-2025\">California Building Code</a></span>, additional smoke barriers are not required.</div>",
+                                        "depth": 2,
+                                        "diagrams": [],
+                                        "displayRef": null,
+                                        "displayTitle": "1101.5 Smoke Barriers in Group <i>R-2.1</i>",
+                                        "hasAssemblies": false,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 0,
+                                        "numDiagramsOnRef": 0,
+                                        "reference": "1101.5",
+                                        "slug": "additions",
+                                        "titleText": "Smoke Barriers in Group <i>R-2.1</i>",
+                                        "children": []
+                                    },
+                                    {
+                                        "ancestorRefs": [
+                                            "11",
+                                            "1101"
+                                        ],
+                                        "body": "<div>In Group E occupancies, enhanced classroom acoustics shall be provided in all classrooms in the <a class=\"autolink\" href=\"/viewer/california/ca-existing-building-code-2025/chapter/2/definitions#addition_\">addition</a> with a volume of 20,000 cubic feet (565 m<sup>3</sup>) or less. Enhanced classroom acoustics shall comply with the reverberation time in Section 808 of ICC A117.1.</div>",
+                                        "depth": 2,
+                                        "diagrams": [],
+                                        "displayRef": null,
+                                        "displayTitle": "1101.6 Enhanced Classroom Acoustics",
+                                        "hasAssemblies": false,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 4,
+                                        "numDiagramsOnRef": 0,
+                                        "reference": "1101.6",
+                                        "slug": "additions",
+                                        "titleText": "Enhanced Classroom Acoustics",
+                                        "children": []
+                                    },
+                                    {
+                                        "ancestorRefs": [
+                                            "11",
+                                            "1101"
+                                        ],
+                                        "body": "<div>Where a new <a class=\"autolink\" href=\"/viewer/california/ca-existing-building-code-2025/chapter/2/definitions#occupiable_roof_\">occupiable roof</a> is added to a building or structure, the <a class=\"autolink\" href=\"/viewer/california/ca-existing-building-code-2025/chapter/2/definitions#occupiable_roof_\">occupiable roof</a> shall comply with the provisions of the <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/california/ca-building-code-2025\">California Building Code</a></span>.</div>",
+                                        "depth": 2,
+                                        "diagrams": [],
+                                        "displayRef": null,
+                                        "displayTitle": "1101.7 Occupiable Roofs",
+                                        "hasAssemblies": false,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 0,
+                                        "numDiagramsOnRef": 0,
+                                        "reference": "1101.7",
+                                        "slug": "additions",
+                                        "titleText": "Occupiable Roofs",
+                                        "children": []
+                                    }
+                                ]
+                            },
+                            {
+                                "ancestorRefs": [
+                                    "11"
+                                ],
+                                "depth": 1,
+                                "diagrams": [],
+                                "displayRef": null,
+                                "displayTitle": "Section 1102 Heights and Areas",
+                                "divisionType": "Section",
+                                "hasAssemblies": false,
+                                "isContiguous": true,
+                                "numAssembliesOnRef": 0,
+                                "numBuildingProductsOnRef": 0,
+                                "numDiagramsOnRef": 0,
+                                "reference": "1102",
+                                "slug": "additions",
+                                "titleText": "Heights and Areas",
+                                "children": [
+                                    {
+                                        "ancestorRefs": [
+                                            "11",
+                                            "1102"
+                                        ],
+                                        "body": "<div>An <a class=\"autolink\" href=\"/viewer/california/ca-existing-building-code-2025/chapter/2/definitions#addition_\">addition</a> shall not increase the height of an <a class=\"autolink\" href=\"/viewer/california/ca-existing-building-code-2025/chapter/2/definitions#existing_building_\">existing building</a> beyond that permitted under the applicable provisions of <a class=\"autolink\" href=\"/viewer/california/ca-building-code-2025/chapter/5/general-building-heights-and-areas#5\">Chapter 5</a> of the <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/california/ca-building-code-2025\">California Building Code</a></span> for new buildings.</div>",
+                                        "depth": 2,
+                                        "diagrams": [],
+                                        "displayRef": null,
+                                        "displayTitle": "1102.1 Height Limitations",
+                                        "hasAssemblies": false,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 0,
+                                        "numDiagramsOnRef": 0,
+                                        "reference": "1102.1",
+                                        "slug": "additions",
+                                        "titleText": "Height Limitations",
+                                        "children": []
+                                    },
+                                    {
+                                        "ancestorRefs": [
+                                            "11",
+                                            "1102"
+                                        ],
+                                        "body": "<div>An <a class=\"autolink\" href=\"/viewer/california/ca-existing-building-code-2025/chapter/2/definitions#addition_\">addition</a> shall not increase the area of an <a class=\"autolink\" href=\"/viewer/california/ca-existing-building-code-2025/chapter/2/definitions#existing_building_\">existing building</a> beyond that permitted under the applicable provisions of <a class=\"autolink\" href=\"/viewer/california/ca-building-code-2025/chapter/5/general-building-heights-and-areas#5\">Chapter 5</a> of the <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/california/ca-building-code-2025\">California Building Code</a></span> for new buildings unless fire separation as required by the <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/california/ca-building-code-2025\">California Building Code</a></span> is provided.</div>",
+                                        "depth": 2,
+                                        "diagrams": [
+                                            {
+                                                "key": "existing_bldg_additions",
+                                                "title": "Existing Building Additions - Area",
+                                                "descriptionHtml": "<div>According to the Existing Building Code, an <strong>addition</strong> is an extension or increase in floor area, number of stories, or height of a building or structure.</div>",
+                                                "topics": [
+                                                    "Example",
+                                                    "Height and Area"
+                                                ],
+                                                "phases": [
+                                                    "Design Development",
+                                                    "Schematic"
+                                                ],
+                                                "supressesChildrenAssociations": false,
+                                                "blacklistJurisdictions": [],
+                                                "whitelistJurisdictions": [],
+                                                "imageType": "svg"
+                                            }
+                                        ],
+                                        "displayRef": null,
+                                        "displayTitle": "1102.2 Area Limitations",
+                                        "hasAssemblies": false,
+                                        "hasDiagrams": true,
+                                        "hasDiagramsOnRef": true,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 0,
+                                        "numDiagramsOnRef": 1,
+                                        "reference": "1102.2",
+                                        "slug": "additions",
+                                        "titleText": "Area Limitations",
+                                        "children": []
+                                    },
+                                    {
+                                        "ancestorRefs": [
+                                            "11",
+                                            "1102"
+                                        ],
+                                        "body": "<div class=\"u-mb-3\">Existing fire areas increased by the <a class=\"autolink\" href=\"/viewer/california/ca-existing-building-code-2025/chapter/2/definitions#addition_\">addition</a> shall comply with <a class=\"autolink\" href=\"/viewer/california/ca-building-code-2025/chapter/9/fire-protection-and-life-safety-systems#9\">Chapter 9</a> of the <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/california/ca-building-code-2025\">California Building Code</a></span>.</div>\n<div class=\"uc_exception\"><span class=\"u-font-bold\">Exception: </span>Nonoccupiable appendages, such as elevator and exit stairway shafts, shall be permitted beyond that permitted by the <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/california/ca-building-code-2025\">California Building Code</a></span>.</div>",
+                                        "depth": 2,
+                                        "diagrams": [
+                                            {
+                                                "key": "addition_fire_areas",
+                                                "title": "Fire Areas: Additions to Buildings",
+                                                "descriptionHtml": "<div>When an existing building's size is increased, it must comply with the fire protection requirements of chapter 9 of the building code. An addition is defined as, \"An extension or increase in floor area, number of stories, or height of a building or structure.\" For building additions, the existing building code must be consulted. Additions are specifically addressed in Ch. 11. The user note at the beginning of this chapter states that,\"...contains the minimum requirements for an addition that is not separated from the existing building by a fire wall\u2026\"</div><br/>\n<div> In our example we have a Group A-2 occupancy that is currently 3,000 sq. ft., as is no fire sprinkler protection is required. An addition to the building will increase the total area to 6,000 sq. ft. Based on the fire protection requirements for a Group A-2 in the building code section 903.2.1.2, an A-2 that exceeds 5,000 sq.ft. is required to be equipped throughout with an automatic fire sprinkler system. </div><br/>\n<div>Alternatively, if a fire sprinkler was not to be installed, the new addition could be separated from the existing by a fire-rated wall. As long as each fire area remains below the requirements for sprinklering, none would be required.</div>",
+                                                "topics": [
+                                                    "Sprinklers",
+                                                    "Height and Area"
+                                                ],
+                                                "phases": [
+                                                    "Schematic",
+                                                    "Design Development"
+                                                ],
+                                                "supressesChildrenAssociations": false,
+                                                "blacklistJurisdictions": [
+                                                    "massachusetts"
+                                                ],
+                                                "whitelistJurisdictions": [],
+                                                "imageType": "svg"
+                                            }
+                                        ],
+                                        "displayRef": null,
+                                        "displayTitle": "1102.3 Fire Protection Systems",
+                                        "hasAssemblies": false,
+                                        "hasDiagrams": true,
+                                        "hasDiagramsOnRef": true,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 0,
+                                        "numDiagramsOnRef": 1,
+                                        "reference": "1102.3",
+                                        "slug": "additions",
+                                        "titleText": "Fire Protection Systems",
+                                        "children": []
+                                    },
+                                    {
+                                        "ancestorRefs": [
+                                            "11",
+                                            "1102"
+                                        ],
+                                        "body": "<div><span class=\"u-italic\">Existing fire alarm and detection systems shall be maintained in accordance with <a class=\"autolink\" href=\"/viewer/california/ca-fire-code-2025/chapter/9/fire-protection-and-life-safety-systems#901.7\">Section 901.7</a> of the <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/california/ca-fire-code-2025\">California Fire Code</a></span>. Site fire protection during <a class=\"autolink\" href=\"/viewer/california/ca-existing-building-code-2025/chapter/3/provisions-for-all-compliance-methods#303.1.1\">construction</a> shall be in accordance with <a class=\"autolink\" href=\"/viewer/california/ca-fire-code-2025/chapter/33/fire-safety-during-construction-and-demolition#33\">Chapter 33</a> of the California Building and <a class=\"autolink\" href=\"/viewer/california/ca-fire-code-2025\">California Fire Code</a>s.</span></div>",
+                                        "depth": 2,
+                                        "diagrams": [],
+                                        "displayRef": null,
+                                        "displayTitle": "1102.4 <i>Systems Out of Service</i>",
+                                        "hasAssemblies": false,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 0,
+                                        "numDiagramsOnRef": 0,
+                                        "reference": "1102.4",
+                                        "slug": "additions",
+                                        "titleText": "<i>Systems Out of Service</i>",
+                                        "children": []
+                                    }
+                                ]
+                            },
+                            {
+                                "ancestorRefs": [
+                                    "11"
+                                ],
+                                "depth": 1,
+                                "diagrams": [],
+                                "displayRef": null,
+                                "displayTitle": "Section 1103 Structural",
+                                "divisionType": "Section",
+                                "hasAssemblies": false,
+                                "isContiguous": true,
+                                "numAssembliesOnRef": 0,
+                                "numBuildingProductsOnRef": 0,
+                                "numDiagramsOnRef": 0,
+                                "reference": "1103",
+                                "slug": "additions",
+                                "titleText": "Structural",
+                                "children": [
+                                    {
+                                        "ancestorRefs": [
+                                            "11",
+                                            "1103"
+                                        ],
+                                        "body": "<div class=\"u-mb-3\">Any existing gravity load-carrying structural element for which an <a class=\"autolink\" href=\"/viewer/california/ca-existing-building-code-2025/chapter/2/definitions#addition_\">addition</a> and its related <a class=\"autolink\" href=\"/viewer/california/ca-existing-building-code-2025/chapter/2/definitions#alteration_\">alterations</a> cause an increase in design dead, live or snow load, including snow drift effects, of more than 5 percent shall be replaced or altered as needed to carry the gravity loads required by the <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/california/ca-building-code-2025\">California Building Code</a></span> for new structures. Any existing gravity load-carrying structural element whose gravity load-carrying capacity is decreased as part of the <a class=\"autolink\" href=\"/viewer/california/ca-existing-building-code-2025/chapter/2/definitions#addition_\">addition</a> and its related <a class=\"autolink\" href=\"/viewer/california/ca-existing-building-code-2025/chapter/2/definitions#alteration_\">alterations</a> shall be considered to be an altered element subject to the requirements of <a class=\"autolink\" href=\"/viewer/california/ca-existing-building-code-2025/chapter/8/alterations-level-2#805.2\">Section 805.2</a>. Any existing element that will form part of the lateral load path for any part of the <a class=\"autolink\" href=\"/viewer/california/ca-existing-building-code-2025/chapter/2/definitions#addition_\">addition</a> shall be considered to be an existing lateral load-carrying structural element subject to the requirements of <a class=\"autolink\" href=\"#1103.2\">Section 1103.2</a>.</div>\n<div class=\"uc_exception\"><span class=\"u-font-bold\">Exception: </span>Buildings of <a class=\"autolink\" href=\"/viewer/california/ca-existing-building-code-2025/chapter/5/prescriptive-compliance-method#501.4\">Group R</a> occupancy with not more than five dwelling units or sleeping units used solely for residential <a class=\"autolink\" href=\"/viewer/california/ca-existing-building-code-2025/chapter/A/guidelines-for-the-seismic-retrofit-of-existing-buildings#A401.1\">purposes</a> where the <a class=\"autolink\" href=\"/viewer/california/ca-existing-building-code-2025/chapter/2/definitions#existing_building_\">existing building</a> and the <a class=\"autolink\" href=\"/viewer/california/ca-existing-building-code-2025/chapter/2/definitions#addition_\">addition</a> together comply with the conventional light-frame <a class=\"autolink\" href=\"/viewer/california/ca-existing-building-code-2025/chapter/3/provisions-for-all-compliance-methods#303.1.1\">construction</a> methods of the <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/california/ca-building-code-2025\">California Building Code</a></span> or the provisions of the <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/california/ca-residential-code-2025\">California Residential Code</a></span>.</div>",
+                                        "depth": 2,
+                                        "diagrams": [],
+                                        "displayRef": null,
+                                        "displayTitle": "[BS]  1103.1 Additional Gravity Loads",
+                                        "hasAssemblies": false,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 0,
+                                        "numDiagramsOnRef": 0,
+                                        "reference": "1103.1",
+                                        "refPrefix": "[BS]",
+                                        "slug": "additions",
+                                        "titleText": "Additional Gravity Loads",
+                                        "children": []
+                                    },
+                                    {
+                                        "ancestorRefs": [
+                                            "11",
+                                            "1103"
+                                        ],
+                                        "body": "<div class=\"u-mb-3\">Where the <a class=\"autolink\" href=\"/viewer/california/ca-existing-building-code-2025/chapter/2/definitions#addition_\">addition</a> is structurally independent of the existing <a class=\"autolink\" href=\"/viewer/california/ca-existing-building-code-2025/chapter/2/definitions#existing_structure_\">structure, existing</a> lateral load-carrying structural elements shall be permitted to remain unaltered. Where the <a class=\"autolink\" href=\"/viewer/california/ca-existing-building-code-2025/chapter/2/definitions#addition_\">addition</a> is not structurally independent of the <a class=\"autolink\" href=\"/viewer/california/ca-existing-building-code-2025/chapter/2/definitions#existing_structure_\">existing structure</a>, the lateral force-resisting system of the <a class=\"autolink\" href=\"/viewer/california/ca-existing-building-code-2025/chapter/2/definitions#existing_structure_\">existing structure</a> and its <a class=\"autolink\" href=\"/viewer/california/ca-existing-building-code-2025/chapter/2/definitions#addition_\">addition</a> acting together as a single structure shall comply with <a class=\"autolink\" href=\"/viewer/california/ca-building-code-2025/chapter/16/structural-design#1609\">Section 1609</a>  of the <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/california/ca-building-code-2025\">California Building Code</a></span> and <a class=\"autolink\" href=\"/viewer/california/ca-existing-building-code-2025/chapter/3/provisions-for-all-compliance-methods#304.3.1\">Section 304.3.1</a> of this code.</div>\n<div class=\"uc_exception\">\n        <span class=\"u-font-bold\">Exceptions: </span>\n        <ol><li>Buildings of <a class=\"autolink\" href=\"/viewer/california/ca-existing-building-code-2025/chapter/5/prescriptive-compliance-method#501.4\">Group R</a> occupancy with not more than five dwelling or sleeping units used solely for residential <a class=\"autolink\" href=\"/viewer/california/ca-existing-building-code-2025/chapter/A/guidelines-for-the-seismic-retrofit-of-existing-buildings#A401.1\">purposes</a> where the <a class=\"autolink\" href=\"/viewer/california/ca-existing-building-code-2025/chapter/2/definitions#existing_building_\">existing building</a> and the <a class=\"autolink\" href=\"/viewer/california/ca-existing-building-code-2025/chapter/2/definitions#addition_\">addition</a> comply with the conventional light-frame <a class=\"autolink\" href=\"/viewer/california/ca-existing-building-code-2025/chapter/3/provisions-for-all-compliance-methods#303.1.1\">construction</a> methods of the <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/california/ca-building-code-2025\">California Building Code</a></span> or the provisions of the <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/california/ca-residential-code-2025\">California Residential Code</a></span>.</li><li>Any existing lateral load-carrying structural element whose demand-capacity ratio with the <a class=\"autolink\" href=\"/viewer/california/ca-existing-building-code-2025/chapter/2/definitions#addition_\">addition</a> considered is not more than 10 percent greater than its demand-capacity ratio with the <a class=\"autolink\" href=\"/viewer/california/ca-existing-building-code-2025/chapter/2/definitions#addition_\">addition</a> ignored shall be permitted to remain unaltered. For <a class=\"autolink\" href=\"/viewer/california/ca-existing-building-code-2025/chapter/A/guidelines-for-the-seismic-retrofit-of-existing-buildings#A401.1\">purposes</a> of calculating demand-capacity ratios, the demand shall consider applicable load combinations with design lateral loads or forces in accordance with <a class=\"autolink\" href=\"/viewer/california/ca-building-code-2025/chapter/16/structural-design#1609\">Section 1609</a> of the <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/california/ca-building-code-2025\">California Building Code</a></span> and <a class=\"autolink\" href=\"/viewer/california/ca-existing-building-code-2025/chapter/3/provisions-for-all-compliance-methods#304.3.1\">Section 304.3.1</a> of this code. <span class=\"u-italic\">For <a class=\"autolink\" href=\"/viewer/california/ca-existing-building-code-2025/chapter/A/guidelines-for-the-seismic-retrofit-of-existing-buildings#A401.1\">purposes</a> of this exception, comparisons of demand-capacity ratios and calculation of design lateral loads, forces and capacities shall account for the cumulative effects of <a class=\"autolink\" href=\"/viewer/california/ca-existing-building-code-2025/chapter/2/definitions#addition_\">additions</a> and <a class=\"autolink\" href=\"/viewer/california/ca-existing-building-code-2025/chapter/2/definitions#alteration_\">alterations</a> since original <a class=\"autolink\" href=\"/viewer/california/ca-existing-building-code-2025/chapter/3/provisions-for-all-compliance-methods#303.1.1\">construction</a>.</span></li></ol></div><div class=\"u-indent-6 u-mt-3\">When calculating demand-capacity ratios for wind, the date of original <a class=\"autolink\" href=\"/viewer/california/ca-existing-building-code-2025/chapter/3/provisions-for-all-compliance-methods#303.1.1\">construction</a> shall be permitted to be taken as the date of completion of a prior <a class=\"autolink\" href=\"/viewer/california/ca-existing-building-code-2025/chapter/2/definitions#addition_\">addition</a>, <a class=\"autolink\" href=\"/viewer/california/ca-existing-building-code-2025/chapter/2/definitions#alteration_\">alteration</a> or <a class=\"autolink\" href=\"/viewer/california/ca-existing-building-code-2025/chapter/2/definitions#repair_oshpd_1_\">repair</a> in <a class=\"autolink\" href=\"/viewer/california/ca-existing-building-code-2025/chapter/9/alterations-level-3#901.2\">compliance</a> with <a class=\"autolink\" href=\"/viewer/california/ca-building-code-2025/chapter/16/structural-design#1609\">Section 1609</a> of the <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/california/ca-building-code-2025\">California Building Code</a></span> or the code wind forces in effect at the time. When calculating demand-capacity ratios for earthquake, the date of original <a class=\"autolink\" href=\"/viewer/california/ca-existing-building-code-2025/chapter/3/provisions-for-all-compliance-methods#303.1.1\">construction</a> shall be permitted to be taken as the date of completion of a prior <a class=\"autolink\" href=\"/viewer/california/ca-existing-building-code-2025/chapter/2/definitions#addition_\">addition</a>, <a class=\"autolink\" href=\"/viewer/california/ca-existing-building-code-2025/chapter/2/definitions#alteration_\">alteration</a> or <a class=\"autolink\" href=\"/viewer/california/ca-existing-building-code-2025/chapter/2/definitions#repair_oshpd_1_\">repair</a> in <a class=\"autolink\" href=\"/viewer/california/ca-existing-building-code-2025/chapter/9/alterations-level-3#901.2\">compliance</a> with <a class=\"autolink\" href=\"/viewer/california/ca-existing-building-code-2025/chapter/3/provisions-for-all-compliance-methods#304.3.1\">Section 304.3.1</a> or the full seismic forces in effect at the time.</div>",
+                                        "depth": 2,
+                                        "diagrams": [],
+                                        "displayRef": null,
+                                        "displayTitle": "[BS]  1103.2 Lateral Force-Resisting System",
+                                        "hasAssemblies": false,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 0,
+                                        "numDiagramsOnRef": 0,
+                                        "reference": "1103.2",
+                                        "refPrefix": "[BS]",
+                                        "slug": "additions",
+                                        "titleText": "Lateral Force-Resisting System",
+                                        "children": []
+                                    },
+                                    {
+                                        "ancestorRefs": [
+                                            "11",
+                                            "1103"
+                                        ],
+                                        "body": "<div class=\"u-mb-3\"><a class=\"autolink\" href=\"/viewer/california/ca-existing-building-code-2025/chapter/13/performance-compliance-methods#1302.1.3\">Additions</a> and foundations in <a class=\"autolink\" href=\"/viewer/california/ca-existing-building-code-2025/chapter/7/alterations-level-1#701.3\">flood hazard areas</a> shall comply with the following requirements:</div>\n<ol class=\"u-list-decimal-separated\">\n<li>For horizontal <a class=\"autolink\" href=\"/viewer/california/ca-existing-building-code-2025/chapter/13/performance-compliance-methods#1302.1.3\">additions</a> that are structurally interconnected to the <a class=\"autolink\" href=\"/viewer/california/ca-existing-building-code-2025/chapter/2/definitions#existing_building_\">existing building</a>:\n<ol class=\"u-list-decimal-separated\">\n<li>If the <a class=\"autolink\" href=\"/viewer/california/ca-existing-building-code-2025/chapter/2/definitions#addition_\">addition</a> and all other proposed work, when combined, constitute <a class=\"autolink\" href=\"/viewer/california/ca-existing-building-code-2025/chapter/2/definitions#substantial_improvement_\">substantial improvement</a>, the <a class=\"autolink\" href=\"/viewer/california/ca-existing-building-code-2025/chapter/2/definitions#existing_building_\">existing building</a> and the <a class=\"autolink\" href=\"/viewer/california/ca-existing-building-code-2025/chapter/2/definitions#addition_\">addition</a> shall comply with <a class=\"autolink\" href=\"/viewer/california/ca-building-code-2025/chapter/16/structural-design#1612\">Section 1612</a> of the <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/california/ca-building-code-2025\">California Building Code</a></span>, or <a class=\"autolink\" href=\"/viewer/california/ca-residential-code-2025/chapter/3/building-planning#R306\">Section R306</a> of the <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/california/ca-residential-code-2025\">California Residential Code</a></span>, as applicable.</li>\n<li>If the <a class=\"autolink\" href=\"/viewer/california/ca-existing-building-code-2025/chapter/2/definitions#addition_\">addition</a> constitutes <a class=\"autolink\" href=\"/viewer/california/ca-existing-building-code-2025/chapter/2/definitions#substantial_improvement_\">substantial improvement</a>, the <a class=\"autolink\" href=\"/viewer/california/ca-existing-building-code-2025/chapter/2/definitions#existing_building_\">existing building</a> and the <a class=\"autolink\" href=\"/viewer/california/ca-existing-building-code-2025/chapter/2/definitions#addition_\">addition</a> shall comply with <a class=\"autolink\" href=\"/viewer/california/ca-building-code-2025/chapter/16/structural-design#1612\">Section 1612</a> of the <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/california/ca-building-code-2025\">California Building Code</a></span>, or <a class=\"autolink\" href=\"/viewer/california/ca-residential-code-2025/chapter/3/building-planning#R306\">Section R306</a> of the <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/california/ca-residential-code-2025\">California Residential Code</a></span>, as applicable.</li>\n<li>If the <a class=\"autolink\" href=\"/viewer/california/ca-existing-building-code-2025/chapter/2/definitions#addition_\">addition</a> does not constitute <a class=\"autolink\" href=\"/viewer/california/ca-existing-building-code-2025/chapter/2/definitions#substantial_improvement_\">substantial improvement</a>, the <a class=\"autolink\" href=\"/viewer/california/ca-existing-building-code-2025/chapter/2/definitions#addition_\">addition</a> is not required to comply with the flood design requirements for new <a class=\"autolink\" href=\"/viewer/california/ca-existing-building-code-2025/chapter/3/provisions-for-all-compliance-methods#303.1.1\">construction</a>, provided that both of the following apply:\n<ol class=\"u-list-decimal-separated\">\n<li>The <a class=\"autolink\" href=\"/viewer/california/ca-existing-building-code-2025/chapter/2/definitions#addition_\">addition</a> shall not create or extend any nonconformity of the <a class=\"autolink\" href=\"/viewer/california/ca-existing-building-code-2025/chapter/2/definitions#existing_building_\">existing building</a> with the flood-resistant <a class=\"autolink\" href=\"/viewer/california/ca-existing-building-code-2025/chapter/3/provisions-for-all-compliance-methods#303.1.1\">construction</a> requirements.</li>\n<li>The <a class=\"autolink\" href=\"/viewer/california/ca-existing-building-code-2025/chapter/2/definitions#lowest_floor_\">lowest floor</a> of the <a class=\"autolink\" href=\"/viewer/california/ca-existing-building-code-2025/chapter/2/definitions#addition_\">addition</a> shall be at or above the lower of the <a class=\"autolink\" href=\"/viewer/california/ca-existing-building-code-2025/chapter/2/definitions#lowest_floor_\">lowest floor</a> of the <a class=\"autolink\" href=\"/viewer/california/ca-existing-building-code-2025/chapter/2/definitions#existing_building_\">existing building</a> or the <a class=\"autolink\" href=\"/viewer/california/ca-existing-building-code-2025/chapter/2/definitions#lowest_floor_\">lowest floor</a> elevation required in <a class=\"autolink\" href=\"/viewer/california/ca-building-code-2025/chapter/16/structural-design#1612\">Section 1612</a> of the <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/california/ca-building-code-2025\">California Building Code</a></span>, or <a class=\"autolink\" href=\"/viewer/california/ca-residential-code-2025/chapter/3/building-planning#R306\">Section R306</a> of the <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/california/ca-residential-code-2025\">California Residential Code</a></span>, as applicable.</li>\n</ol>\n</li>\n</ol>\n</li>\n<li>For horizontal <a class=\"autolink\" href=\"/viewer/california/ca-existing-building-code-2025/chapter/13/performance-compliance-methods#1302.1.3\">additions</a> that are not structurally interconnected to the <a class=\"autolink\" href=\"/viewer/california/ca-existing-building-code-2025/chapter/2/definitions#existing_building_\">existing building</a>:\n<ol class=\"u-list-decimal-separated\">\n<li>The <a class=\"autolink\" href=\"/viewer/california/ca-existing-building-code-2025/chapter/2/definitions#addition_\">addition</a> shall comply with <a class=\"autolink\" href=\"/viewer/california/ca-building-code-2025/chapter/16/structural-design#1612\">Section 1612</a> of the <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/california/ca-building-code-2025\">California Building Code</a></span>, or <a class=\"autolink\" href=\"/viewer/california/ca-residential-code-2025/chapter/3/building-planning#R306\">Section R306</a> of the <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/california/ca-residential-code-2025\">California Residential Code</a></span>, as applicable.</li>\n<li>If the <a class=\"autolink\" href=\"/viewer/california/ca-existing-building-code-2025/chapter/2/definitions#addition_\">addition</a> and all other proposed work, when combined, constitute <a class=\"autolink\" href=\"/viewer/california/ca-existing-building-code-2025/chapter/2/definitions#substantial_improvement_\">substantial improvement</a>, the <a class=\"autolink\" href=\"/viewer/california/ca-existing-building-code-2025/chapter/2/definitions#existing_building_\">existing building</a> and the <a class=\"autolink\" href=\"/viewer/california/ca-existing-building-code-2025/chapter/2/definitions#addition_\">addition</a> shall comply with <a class=\"autolink\" href=\"/viewer/california/ca-building-code-2025/chapter/16/structural-design#1612\">Section 1612</a> of the&nbsp;<span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/california/ca-building-code-2025\">California Building Code</a></span>, or <a class=\"autolink\" href=\"/viewer/california/ca-residential-code-2025/chapter/3/building-planning#R306\">Section R306</a> of the <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/california/ca-residential-code-2025\">California Residential Code</a></span>, as applicable.</li>\n</ol>\n</li>\n<li>For vertical <a class=\"autolink\" href=\"/viewer/california/ca-existing-building-code-2025/chapter/13/performance-compliance-methods#1302.1.3\">additions</a> and all other proposed work that, when combined, constitute <a class=\"autolink\" href=\"/viewer/california/ca-existing-building-code-2025/chapter/2/definitions#substantial_improvement_\">substantial improvement</a>, the <a class=\"autolink\" href=\"/viewer/california/ca-existing-building-code-2025/chapter/2/definitions#existing_building_\">existing building</a> shall comply with <a class=\"autolink\" href=\"/viewer/california/ca-building-code-2025/chapter/16/structural-design#1612\">Section 1612</a> of the <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/california/ca-building-code-2025\">California Building Code</a></span>, or <a class=\"autolink\" href=\"/viewer/california/ca-residential-code-2025/chapter/3/building-planning#R306\">Section R306</a> of the <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/california/ca-residential-code-2025\">California Residential Code</a></span>, as applicable.</li>\n<li>For a new foundation, replacement foundation or a foundation raised or extended upward, the foundation shall comply with <a class=\"autolink\" href=\"/viewer/california/ca-building-code-2025/chapter/16/structural-design#1612\">Section 1612</a> of the <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/california/ca-building-code-2025\">California Building Code</a></span>, or <a class=\"autolink\" href=\"/viewer/california/ca-residential-code-2025/chapter/3/building-planning#R306\">Section R306</a> of the <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/california/ca-residential-code-2025\">California Residential Code</a></span>, as applicable.</li>\n</ol>",
+                                        "depth": 2,
+                                        "diagrams": [],
+                                        "displayRef": null,
+                                        "displayTitle": "[BS]  1103.3 Flood Hazard Areas",
+                                        "hasAssemblies": false,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 0,
+                                        "numDiagramsOnRef": 0,
+                                        "reference": "1103.3",
+                                        "refPrefix": "[BS]",
+                                        "slug": "additions",
+                                        "titleText": "Flood Hazard Areas",
+                                        "children": []
+                                    }
+                                ]
+                            },
+                            {
+                                "ancestorRefs": [
+                                    "11"
+                                ],
+                                "depth": 1,
+                                "diagrams": [],
+                                "displayRef": null,
+                                "displayTitle": "Section 1104 Energy Conservation",
+                                "divisionType": "Section",
+                                "hasAssemblies": false,
+                                "isContiguous": true,
+                                "numAssembliesOnRef": 0,
+                                "numBuildingProductsOnRef": 0,
+                                "numDiagramsOnRef": 0,
+                                "reference": "1104",
+                                "slug": "additions",
+                                "titleText": "Energy Conservation",
+                                "children": [
+                                    {
+                                        "ancestorRefs": [
+                                            "11",
+                                            "1104"
+                                        ],
+                                        "body": "<div><a class=\"autolink\" href=\"/viewer/california/ca-existing-building-code-2025/chapter/13/performance-compliance-methods#1302.1.3\">Additions</a> to <a class=\"autolink\" href=\"/viewer/california/ca-existing-building-code-2025/chapter/2/definitions#existing_building_\">existing buildings</a> shall <span class=\"u-italic\"> comply with applicable provisions of the <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/california/ca-energy-code-2025\">California Energy Code</a></span> (Part 6, Title 24, C.C.R).</span></div>",
+                                        "depth": 2,
+                                        "diagrams": [],
+                                        "displayRef": null,
+                                        "displayTitle": "1104.1 Minimum Requirements",
+                                        "hasAssemblies": false,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 0,
+                                        "numDiagramsOnRef": 0,
+                                        "reference": "1104.1",
+                                        "slug": "additions",
+                                        "titleText": "Minimum Requirements",
+                                        "children": []
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            "chapterReference": "11"
+        },
+        "__N_SSP": true
+    },
+    "page": "/viewer/[urlFormPubOrJurisKey]/[urlFormPub]/chapter/[chapterRef]/[chapterName]",
+    "query": {
+        "urlFormPubOrJurisKey": "california",
+        "urlFormPub": "ca-existing-building-code-2025",
+        "chapterRef": "11",
+        "chapterName": "additions"
+    },
+    "buildId": "RZSwz8uFB9jvXr56FjNnx",
+    "isFallback": false,
+    "isExperimentalCompile": false,
+    "dynamicIds": [
+        61621,
+        54065
+    ],
+    "gssp": true,
+    "scriptLoader": []
+}

@@ -1,0 +1,1508 @@
+{
+    "props": {
+        "pageProps": {
+            "missingRequiredLogin": false,
+            "title": "Chapter 27 Electrical: Arkansas Building Code 2021 | UpCodes",
+            "leanChapterViewerData": {
+                "basePubName": "International Building Code 2021 (IBC 2021)",
+                "codeGroupingYear": "2022",
+                "codeName": "Arkansas Building Code 2021",
+                "codeUuid": "63a3f0ca-d25d-480e-8c93-dbe6006ece6a",
+                "codeVersions": [
+                    {
+                        "codeUuid": "63a3f0ca-d25d-480e-8c93-dbe6006ece6a",
+                        "name": "Original Adoption",
+                        "effectiveStartDate": "2023-01-01",
+                        "shortformUrlName": "ibc-2021",
+                        "activeStatus": "active"
+                    }
+                ],
+                "ingesterAmendmentsEnabled": false,
+                "ingesterCodeUnitsEnabled": false,
+                "isAmendStylingEnabled": true,
+                "isCorrespondable": true,
+                "jurisKey": "arkansas",
+                "jurisName": "Arkansas",
+                "metaInfoUrl": "/viewer/arkansas/ibc-2021",
+                "modelCodeUrl": null,
+                "placeholder": "Search Arkansas Building Code 2021",
+                "pubKey": "int_building_code_2021",
+                "pubPrefix": "int_building_code",
+                "shortformPubName": "ibc-2021",
+                "withAmendments": true,
+                "chapterRef": "27",
+                "publisher": "icc",
+                "hasLinkedResources": false,
+                "initialNonChapterTocLines": [
+                    {
+                        "amendType": "deletion",
+                        "children": [
+                            {
+                                "amendType": "deletion",
+                                "children": [],
+                                "depth": 2,
+                                "displayTitle": "<span class=\"code_deletion\">2701.1</span> <span class=\"code_deletion\">Scope</span>",
+                                "hasExpanderArrow": false,
+                                "href": "#2701.1",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "reference": "2701.1"
+                            }
+                        ],
+                        "depth": 1,
+                        "displayTitle": "<span class=\"code_deletion\">2701</span> <span class=\"code_deletion\">General</span>",
+                        "hasExpanderArrow": true,
+                        "href": "#2701",
+                        "isCodeDivider": false,
+                        "isCodeDividerClickable": false,
+                        "reference": "2701"
+                    },
+                    {
+                        "amendType": "deletion",
+                        "children": [
+                            {
+                                "amendType": "deletion",
+                                "children": [
+                                    {
+                                        "amendType": "deletion",
+                                        "children": [],
+                                        "depth": 3,
+                                        "displayTitle": "<span class=\"code_deletion\">2702.1.1</span> <span class=\"code_deletion\">Stationary Generators</span>",
+                                        "hasExpanderArrow": false,
+                                        "href": "#2702.1.1",
+                                        "isCodeDivider": false,
+                                        "isCodeDividerClickable": false,
+                                        "reference": "2702.1.1"
+                                    },
+                                    {
+                                        "amendType": "deletion",
+                                        "children": [],
+                                        "depth": 3,
+                                        "displayTitle": "<span class=\"code_deletion\">2702.1.2</span> <span class=\"code_deletion\">Fuel-Line Piping Protection</span>",
+                                        "hasExpanderArrow": false,
+                                        "href": "#2702.1.2",
+                                        "isCodeDivider": false,
+                                        "isCodeDividerClickable": false,
+                                        "reference": "2702.1.2"
+                                    },
+                                    {
+                                        "amendType": "deletion",
+                                        "children": [],
+                                        "depth": 3,
+                                        "displayTitle": "<span class=\"code_deletion\">2702.1.3</span> <span class=\"code_deletion\">Installation</span>",
+                                        "hasExpanderArrow": false,
+                                        "href": "#2702.1.3",
+                                        "isCodeDivider": false,
+                                        "isCodeDividerClickable": false,
+                                        "reference": "2702.1.3"
+                                    },
+                                    {
+                                        "amendType": "deletion",
+                                        "children": [],
+                                        "depth": 3,
+                                        "displayTitle": "<span class=\"code_deletion\">2702.1.4</span> <span class=\"code_deletion\">Load Transfer</span>",
+                                        "hasExpanderArrow": false,
+                                        "href": "#2702.1.4",
+                                        "isCodeDivider": false,
+                                        "isCodeDividerClickable": false,
+                                        "reference": "2702.1.4"
+                                    },
+                                    {
+                                        "amendType": "deletion",
+                                        "children": [],
+                                        "depth": 3,
+                                        "displayTitle": "<span class=\"code_deletion\">2702.1.5</span> <span class=\"code_deletion\">Load Duration</span>",
+                                        "hasExpanderArrow": false,
+                                        "href": "#2702.1.5",
+                                        "isCodeDivider": false,
+                                        "isCodeDividerClickable": false,
+                                        "reference": "2702.1.5"
+                                    },
+                                    {
+                                        "amendType": "deletion",
+                                        "children": [],
+                                        "depth": 3,
+                                        "displayTitle": "<span class=\"code_deletion\">2702.1.6</span> <span class=\"code_deletion\">Uninterruptable Power Source</span>",
+                                        "hasExpanderArrow": false,
+                                        "href": "#2702.1.6",
+                                        "isCodeDivider": false,
+                                        "isCodeDividerClickable": false,
+                                        "reference": "2702.1.6"
+                                    },
+                                    {
+                                        "amendType": "deletion",
+                                        "children": [],
+                                        "depth": 3,
+                                        "displayTitle": "<span class=\"code_deletion\">2702.1.7</span> <span class=\"code_deletion\">Interchangeability</span>",
+                                        "hasExpanderArrow": false,
+                                        "href": "#2702.1.7",
+                                        "isCodeDivider": false,
+                                        "isCodeDividerClickable": false,
+                                        "reference": "2702.1.7"
+                                    },
+                                    {
+                                        "amendType": "deletion",
+                                        "children": [],
+                                        "depth": 3,
+                                        "displayTitle": "<span class=\"code_deletion\">2702.1.8</span> <span class=\"code_deletion\">Group I-2 Occupancies</span>",
+                                        "hasExpanderArrow": false,
+                                        "href": "#2702.1.8",
+                                        "isCodeDivider": false,
+                                        "isCodeDividerClickable": false,
+                                        "reference": "2702.1.8"
+                                    }
+                                ],
+                                "depth": 2,
+                                "displayTitle": "<span class=\"code_deletion\">2702.1</span> <span class=\"code_deletion\">General</span>",
+                                "hasExpanderArrow": true,
+                                "href": "#2702.1",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "reference": "2702.1"
+                            },
+                            {
+                                "amendType": "deletion",
+                                "children": [
+                                    {
+                                        "amendType": "deletion",
+                                        "children": [],
+                                        "depth": 3,
+                                        "displayTitle": "<span class=\"code_deletion\">2702.2.1</span> <span class=\"code_deletion\">Ambulatory Care Facilities</span>",
+                                        "hasExpanderArrow": false,
+                                        "href": "#2702.2.1",
+                                        "isCodeDivider": false,
+                                        "isCodeDividerClickable": false,
+                                        "reference": "2702.2.1"
+                                    },
+                                    {
+                                        "amendType": "deletion",
+                                        "children": [],
+                                        "depth": 3,
+                                        "displayTitle": "<span class=\"code_deletion\">2702.2.2</span> <span class=\"code_deletion\">Elevators and Platform Lifts</span>",
+                                        "hasExpanderArrow": false,
+                                        "href": "#2702.2.2",
+                                        "isCodeDivider": false,
+                                        "isCodeDividerClickable": false,
+                                        "reference": "2702.2.2"
+                                    },
+                                    {
+                                        "amendType": "deletion",
+                                        "children": [],
+                                        "depth": 3,
+                                        "displayTitle": "<span class=\"code_deletion\">2702.2.3</span> <span class=\"code_deletion\">Emergency Responder Communication Coverage Systems</span>",
+                                        "hasExpanderArrow": false,
+                                        "href": "#2702.2.3",
+                                        "isCodeDivider": false,
+                                        "isCodeDividerClickable": false,
+                                        "reference": "2702.2.3"
+                                    },
+                                    {
+                                        "amendType": "deletion",
+                                        "children": [],
+                                        "depth": 3,
+                                        "displayTitle": "<span class=\"code_deletion\">2702.2.4</span> <span class=\"code_deletion\">Emergency Voice/Alarm Communication Systems</span>",
+                                        "hasExpanderArrow": false,
+                                        "href": "#2702.2.4",
+                                        "isCodeDivider": false,
+                                        "isCodeDividerClickable": false,
+                                        "reference": "2702.2.4"
+                                    },
+                                    {
+                                        "amendType": "deletion",
+                                        "children": [],
+                                        "depth": 3,
+                                        "displayTitle": "<span class=\"code_deletion\">2702.2.5</span> <span class=\"code_deletion\">Exhaust Systems</span>",
+                                        "hasExpanderArrow": false,
+                                        "href": "#2702.2.5",
+                                        "isCodeDivider": false,
+                                        "isCodeDividerClickable": false,
+                                        "reference": "2702.2.5"
+                                    },
+                                    {
+                                        "amendType": "deletion",
+                                        "children": [],
+                                        "depth": 3,
+                                        "displayTitle": "<span class=\"code_deletion\">2702.2.6</span> <span class=\"code_deletion\">Exit Signs</span>",
+                                        "hasExpanderArrow": false,
+                                        "href": "#2702.2.6",
+                                        "isCodeDivider": false,
+                                        "isCodeDividerClickable": false,
+                                        "reference": "2702.2.6"
+                                    },
+                                    {
+                                        "amendType": "deletion",
+                                        "children": [],
+                                        "depth": 3,
+                                        "displayTitle": "<span class=\"code_deletion\">2702.2.7</span> <span class=\"code_deletion\">Gas Detection System</span>",
+                                        "hasExpanderArrow": false,
+                                        "href": "#2702.2.7",
+                                        "isCodeDivider": false,
+                                        "isCodeDividerClickable": false,
+                                        "reference": "2702.2.7"
+                                    },
+                                    {
+                                        "amendType": "deletion",
+                                        "children": [],
+                                        "depth": 3,
+                                        "displayTitle": "<span class=\"code_deletion\">2702.2.8</span> <span class=\"code_deletion\">Group I-2 Occupancies</span>",
+                                        "hasExpanderArrow": false,
+                                        "href": "#2702.2.8",
+                                        "isCodeDivider": false,
+                                        "isCodeDividerClickable": false,
+                                        "reference": "2702.2.8"
+                                    },
+                                    {
+                                        "amendType": "deletion",
+                                        "children": [],
+                                        "depth": 3,
+                                        "displayTitle": "<span class=\"code_deletion\">2702.2.9</span> <span class=\"code_deletion\">Group I-3 Occupancies</span>",
+                                        "hasExpanderArrow": false,
+                                        "href": "#2702.2.9",
+                                        "isCodeDivider": false,
+                                        "isCodeDividerClickable": false,
+                                        "reference": "2702.2.9"
+                                    },
+                                    {
+                                        "amendType": "deletion",
+                                        "children": [],
+                                        "depth": 3,
+                                        "displayTitle": "<span class=\"code_deletion\">2702.2.10</span> <span class=\"code_deletion\">Hazardous Materials</span>",
+                                        "hasExpanderArrow": false,
+                                        "href": "#2702.2.10",
+                                        "isCodeDivider": false,
+                                        "isCodeDividerClickable": false,
+                                        "reference": "2702.2.10"
+                                    },
+                                    {
+                                        "amendType": "deletion",
+                                        "children": [],
+                                        "depth": 3,
+                                        "displayTitle": "<span class=\"code_deletion\">2702.2.11</span> <span class=\"code_deletion\">High-Rise Buildings</span>",
+                                        "hasExpanderArrow": false,
+                                        "href": "#2702.2.11",
+                                        "isCodeDivider": false,
+                                        "isCodeDividerClickable": false,
+                                        "reference": "2702.2.11"
+                                    },
+                                    {
+                                        "amendType": "deletion",
+                                        "children": [],
+                                        "depth": 3,
+                                        "displayTitle": "<span class=\"code_deletion\">2702.2.12</span> <span class=\"code_deletion\">Hydrogen Fuel Gas Rooms</span>",
+                                        "hasExpanderArrow": false,
+                                        "href": "#2702.2.12",
+                                        "isCodeDivider": false,
+                                        "isCodeDividerClickable": false,
+                                        "reference": "2702.2.12"
+                                    },
+                                    {
+                                        "amendType": "deletion",
+                                        "children": [],
+                                        "depth": 3,
+                                        "displayTitle": "<span class=\"code_deletion\">2702.2.13</span> <span class=\"code_deletion\">Laboratory Suites</span>",
+                                        "hasExpanderArrow": false,
+                                        "href": "#2702.2.13",
+                                        "isCodeDivider": false,
+                                        "isCodeDividerClickable": false,
+                                        "reference": "2702.2.13"
+                                    },
+                                    {
+                                        "amendType": "deletion",
+                                        "children": [],
+                                        "depth": 3,
+                                        "displayTitle": "<span class=\"code_deletion\">2702.2.14</span> <span class=\"code_deletion\">Means of Egress Illumination</span>",
+                                        "hasExpanderArrow": false,
+                                        "href": "#2702.2.14",
+                                        "isCodeDivider": false,
+                                        "isCodeDividerClickable": false,
+                                        "reference": "2702.2.14"
+                                    },
+                                    {
+                                        "amendType": "deletion",
+                                        "children": [],
+                                        "depth": 3,
+                                        "displayTitle": "<span class=\"code_deletion\">2702.2.15</span> <span class=\"code_deletion\">Membrane Structures</span>",
+                                        "hasExpanderArrow": false,
+                                        "href": "#2702.2.15",
+                                        "isCodeDivider": false,
+                                        "isCodeDividerClickable": false,
+                                        "reference": "2702.2.15"
+                                    },
+                                    {
+                                        "amendType": "deletion",
+                                        "children": [],
+                                        "depth": 3,
+                                        "displayTitle": "<span class=\"code_deletion\">2702.2.16</span> <span class=\"code_deletion\">Semiconductor Fabrication Facilities</span>",
+                                        "hasExpanderArrow": false,
+                                        "href": "#2702.2.16",
+                                        "isCodeDivider": false,
+                                        "isCodeDividerClickable": false,
+                                        "reference": "2702.2.16"
+                                    },
+                                    {
+                                        "amendType": "deletion",
+                                        "children": [],
+                                        "depth": 3,
+                                        "displayTitle": "<span class=\"code_deletion\">2702.2.17</span> <span class=\"code_deletion\">Smoke Control Systems</span>",
+                                        "hasExpanderArrow": false,
+                                        "href": "#2702.2.17",
+                                        "isCodeDivider": false,
+                                        "isCodeDividerClickable": false,
+                                        "reference": "2702.2.17"
+                                    },
+                                    {
+                                        "amendType": "deletion",
+                                        "children": [],
+                                        "depth": 3,
+                                        "displayTitle": "<span class=\"code_deletion\">2702.2.18</span> <span class=\"code_deletion\">Special Purpose Horizontal Sliding, Accordion or Folding Doors</span>",
+                                        "hasExpanderArrow": false,
+                                        "href": "#2702.2.18",
+                                        "isCodeDivider": false,
+                                        "isCodeDividerClickable": false,
+                                        "reference": "2702.2.18"
+                                    },
+                                    {
+                                        "amendType": "deletion",
+                                        "children": [],
+                                        "depth": 3,
+                                        "displayTitle": "<span class=\"code_deletion\">2702.2.19</span> <span class=\"code_deletion\">Underground Buildings</span>",
+                                        "hasExpanderArrow": false,
+                                        "href": "#2702.2.19",
+                                        "isCodeDivider": false,
+                                        "isCodeDividerClickable": false,
+                                        "reference": "2702.2.19"
+                                    }
+                                ],
+                                "depth": 2,
+                                "displayTitle": "<span class=\"code_deletion\">2702.2</span> <span class=\"code_deletion\">Where Required</span>",
+                                "hasExpanderArrow": true,
+                                "href": "#2702.2",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "reference": "2702.2"
+                            },
+                            {
+                                "amendType": "deletion",
+                                "children": [],
+                                "depth": 2,
+                                "displayTitle": "<span class=\"code_deletion\">2702.3</span> <span class=\"code_deletion\">Critical Circuits</span>",
+                                "hasExpanderArrow": false,
+                                "href": "#2702.3",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "reference": "2702.3"
+                            },
+                            {
+                                "amendType": "deletion",
+                                "children": [],
+                                "depth": 2,
+                                "displayTitle": "<span class=\"code_deletion\">2702.4</span> <span class=\"code_deletion\">Maintenance</span>",
+                                "hasExpanderArrow": false,
+                                "href": "#2702.4",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "reference": "2702.4"
+                            }
+                        ],
+                        "depth": 1,
+                        "displayTitle": "<span class=\"code_deletion\">2702</span> <span class=\"code_deletion\">Emergency and Standby Power Systems</span>",
+                        "hasExpanderArrow": true,
+                        "href": "#2702",
+                        "isCodeDivider": false,
+                        "isCodeDividerClickable": false,
+                        "reference": "2702"
+                    }
+                ],
+                "title": "Chapter 27 Electrical: Arkansas Building Code 2021 | UpCodes",
+                "leanChapterLines": [
+                    {
+                        "displayTitle": "Chapter 1 Scope and Administration",
+                        "isExpandable": true,
+                        "reference": "1",
+                        "slug": "scope-and-administration"
+                    },
+                    {
+                        "displayTitle": "Chapter 2 Definitions",
+                        "isExpandable": true,
+                        "reference": "2",
+                        "slug": "definitions"
+                    },
+                    {
+                        "displayTitle": "Chapter 3 Occupancy Classification and Use",
+                        "isExpandable": true,
+                        "reference": "3",
+                        "slug": "occupancy-classification-and-use"
+                    },
+                    {
+                        "displayTitle": "Chapter 4 Special Detailed Requirements Based on Occupancy and Use",
+                        "isExpandable": true,
+                        "reference": "4",
+                        "slug": "special-detailed-requirements-based-on-occupancy-and-use"
+                    },
+                    {
+                        "displayTitle": "Chapter 5 General Building Heights and Areas",
+                        "isExpandable": true,
+                        "reference": "5",
+                        "slug": "general-building-heights-and-areas"
+                    },
+                    {
+                        "displayTitle": "Chapter 6 Types of Construction",
+                        "isExpandable": true,
+                        "reference": "6",
+                        "slug": "types-of-construction"
+                    },
+                    {
+                        "displayTitle": "Chapter 7 Fire and Smoke Protection Features",
+                        "isExpandable": true,
+                        "reference": "7",
+                        "slug": "fire-and-smoke-protection-features"
+                    },
+                    {
+                        "displayTitle": "Chapter 8 Interior Finishes",
+                        "isExpandable": true,
+                        "reference": "8",
+                        "slug": "interior-finishes"
+                    },
+                    {
+                        "displayTitle": "Chapter 9 Fire Protection and Life Safety Systems",
+                        "isExpandable": true,
+                        "reference": "9",
+                        "slug": "fire-protection-and-life-safety-systems"
+                    },
+                    {
+                        "displayTitle": "Chapter 10 Means of Egress",
+                        "isExpandable": true,
+                        "reference": "10",
+                        "slug": "means-of-egress"
+                    },
+                    {
+                        "displayTitle": "Chapter 11 Accessibility",
+                        "isExpandable": true,
+                        "reference": "11",
+                        "slug": "accessibility"
+                    },
+                    {
+                        "displayTitle": "Chapter 12 Interior Environment",
+                        "isExpandable": true,
+                        "reference": "12",
+                        "slug": "interior-environment"
+                    },
+                    {
+                        "displayTitle": "Chapter 13 Energy Efficiency",
+                        "isExpandable": true,
+                        "reference": "13",
+                        "slug": "energy-efficiency"
+                    },
+                    {
+                        "displayTitle": "Chapter 14 Exterior Walls",
+                        "isExpandable": true,
+                        "reference": "14",
+                        "slug": "exterior-walls"
+                    },
+                    {
+                        "displayTitle": "Chapter 15 Roof Assemblies and Rooftop Structures",
+                        "isExpandable": true,
+                        "reference": "15",
+                        "slug": "roof-assemblies-and-rooftop-structures"
+                    },
+                    {
+                        "displayTitle": "Chapter 16 Structural Design",
+                        "isExpandable": true,
+                        "reference": "16",
+                        "slug": "structural-design"
+                    },
+                    {
+                        "displayTitle": "Chapter 17 Special Inspections and Tests",
+                        "isExpandable": true,
+                        "reference": "17",
+                        "slug": "special-inspections-and-tests"
+                    },
+                    {
+                        "displayTitle": "Chapter 18 Soils and Foundations",
+                        "isExpandable": true,
+                        "reference": "18",
+                        "slug": "soils-and-foundations"
+                    },
+                    {
+                        "displayTitle": "Chapter 19 Concrete",
+                        "isExpandable": true,
+                        "reference": "19",
+                        "slug": "concrete"
+                    },
+                    {
+                        "displayTitle": "Chapter 20 Aluminum",
+                        "isExpandable": true,
+                        "reference": "20",
+                        "slug": "aluminum"
+                    },
+                    {
+                        "displayTitle": "Chapter 21 Masonry",
+                        "isExpandable": true,
+                        "reference": "21",
+                        "slug": "masonry"
+                    },
+                    {
+                        "displayTitle": "Chapter 22 Steel",
+                        "isExpandable": true,
+                        "reference": "22",
+                        "slug": "steel"
+                    },
+                    {
+                        "displayTitle": "Chapter 23 Wood",
+                        "isExpandable": true,
+                        "reference": "23",
+                        "slug": "wood"
+                    },
+                    {
+                        "displayTitle": "Chapter 24 Glass and Glazing",
+                        "isExpandable": true,
+                        "reference": "24",
+                        "slug": "glass-and-glazing"
+                    },
+                    {
+                        "displayTitle": "Chapter 25 Gypsum Board, Gypsum Panel Products and Plaster",
+                        "isExpandable": true,
+                        "reference": "25",
+                        "slug": "gypsum-board-gypsum-panel-products-and-plaster"
+                    },
+                    {
+                        "displayTitle": "Chapter 26 Plastic",
+                        "isExpandable": true,
+                        "reference": "26",
+                        "slug": "plastic"
+                    },
+                    {
+                        "amendType": "edit",
+                        "displayTitle": "Chapter 27 Electrical",
+                        "isExpandable": true,
+                        "reference": "27",
+                        "slug": "electrical"
+                    },
+                    {
+                        "displayTitle": "Chapter 28 Mechanical Systems",
+                        "isExpandable": true,
+                        "reference": "28",
+                        "slug": "mechanical-systems"
+                    },
+                    {
+                        "amendType": "edit",
+                        "displayTitle": "Chapter 29 Plumbing Systems",
+                        "isExpandable": true,
+                        "reference": "29",
+                        "slug": "plumbing-systems"
+                    },
+                    {
+                        "displayTitle": "Chapter 30 Elevators and Conveying Systems",
+                        "isExpandable": true,
+                        "reference": "30",
+                        "slug": "elevators-and-conveying-systems"
+                    },
+                    {
+                        "displayTitle": "Chapter 31 Special Construction",
+                        "isExpandable": true,
+                        "reference": "31",
+                        "slug": "special-construction"
+                    },
+                    {
+                        "displayTitle": "Chapter 32 Encroachments Into the Public Right-of-Way",
+                        "isExpandable": true,
+                        "reference": "32",
+                        "slug": "encroachments-into-the-public-right-of-way"
+                    },
+                    {
+                        "displayTitle": "Chapter 33 Safeguards During Construction",
+                        "isExpandable": true,
+                        "reference": "33",
+                        "slug": "safeguards-during-construction"
+                    },
+                    {
+                        "displayTitle": "Chapter 34 Reserved",
+                        "reference": "34",
+                        "slug": "reserved"
+                    },
+                    {
+                        "displayTitle": "Chapter 35 Referenced Standards",
+                        "reference": "35",
+                        "slug": "referenced-standards"
+                    },
+                    {
+                        "disabled": true,
+                        "displayTitle": "Appendix A Employee Qualifications",
+                        "reference": "A",
+                        "slug": "employee-qualifications"
+                    },
+                    {
+                        "disabled": true,
+                        "displayTitle": "Appendix B Board of Appeals",
+                        "reference": "B",
+                        "slug": "board-of-appeals"
+                    },
+                    {
+                        "displayTitle": "Appendix C Group U\u2014Agricultural Buildings",
+                        "hasChapterAdoption": true,
+                        "isExpandable": true,
+                        "reference": "C",
+                        "slug": "group-u-agricultural-buildings"
+                    },
+                    {
+                        "displayTitle": "Appendix D Fire Districts",
+                        "hasChapterAdoption": true,
+                        "isExpandable": true,
+                        "reference": "D",
+                        "slug": "fire-districts"
+                    },
+                    {
+                        "displayTitle": "Appendix E Supplementary Accessibility Requirements",
+                        "hasChapterAdoption": true,
+                        "isExpandable": true,
+                        "reference": "E",
+                        "slug": "supplementary-accessibility-requirements"
+                    },
+                    {
+                        "disabled": true,
+                        "displayTitle": "Appendix F Rodentproofing",
+                        "reference": "F",
+                        "slug": "rodentproofing"
+                    },
+                    {
+                        "disabled": true,
+                        "displayTitle": "Appendix G Flood-Resistant Construction",
+                        "reference": "G",
+                        "slug": "flood-resistant-construction"
+                    },
+                    {
+                        "disabled": true,
+                        "displayTitle": "Appendix H Signs",
+                        "reference": "H",
+                        "slug": "signs"
+                    },
+                    {
+                        "disabled": true,
+                        "displayTitle": "Appendix I Patio Covers",
+                        "reference": "I",
+                        "slug": "patio-covers"
+                    },
+                    {
+                        "disabled": true,
+                        "displayTitle": "Appendix J Grading",
+                        "reference": "J",
+                        "slug": "grading"
+                    },
+                    {
+                        "disabled": true,
+                        "displayTitle": "Appendix K Administrative Provisions",
+                        "reference": "K",
+                        "slug": "administrative-provisions"
+                    },
+                    {
+                        "disabled": true,
+                        "displayTitle": "Appendix L Earthquake Recording Instrumentation",
+                        "reference": "L",
+                        "slug": "earthquake-recording-instrumentation"
+                    },
+                    {
+                        "disabled": true,
+                        "displayTitle": "Appendix M Tsunami-Generated Flood Hazards",
+                        "reference": "M",
+                        "slug": "tsunami-generated-flood-hazards"
+                    },
+                    {
+                        "disabled": true,
+                        "displayTitle": "Appendix N Replicable Buildings",
+                        "reference": "N",
+                        "slug": "replicable-buildings"
+                    },
+                    {
+                        "displayTitle": "[A] Appendix O Performance-Based Application",
+                        "hasChapterAdoption": true,
+                        "isExpandable": true,
+                        "reference": "O",
+                        "slug": "performance-based-application"
+                    }
+                ],
+                "leanCodeSectionsTree": [
+                    {
+                        "amendType": "edit",
+                        "ancestorRefs": [],
+                        "body": "<span class=\"code_addition\">Refer to the National Electrical Code of the National Fire\nProtection Association as adopted by the Arkansas Board of Electrical Examiners.</span>",
+                        "depth": 0,
+                        "diagrams": [],
+                        "displayRef": null,
+                        "displayTitle": "Chapter 27 Electrical",
+                        "divisionType": "Chapter",
+                        "hasAssemblies": false,
+                        "isContiguous": true,
+                        "numAssembliesOnRef": 0,
+                        "numBuildingProductsOnRef": 0,
+                        "numDiagramsOnRef": 0,
+                        "reference": "27",
+                        "slug": "electrical",
+                        "titleText": "Electrical",
+                        "children": [
+                            {
+                                "amendType": "deletion",
+                                "ancestorRefs": [
+                                    "27"
+                                ],
+                                "depth": 1,
+                                "diagrams": [],
+                                "displayRef": "<span class=\"code_deletion\">2701</span>",
+                                "displayTitle": "Section <span class=\"code_deletion\">2701</span> <span class=\"code_deletion\">General</span>",
+                                "divisionType": "Section",
+                                "hasAssemblies": false,
+                                "isContiguous": true,
+                                "numAssembliesOnRef": 0,
+                                "numBuildingProductsOnRef": 0,
+                                "numDiagramsOnRef": 0,
+                                "reference": "2701",
+                                "slug": "electrical",
+                                "titleText": "<span class=\"code_deletion\">General</span>",
+                                "children": [
+                                    {
+                                        "amendType": "deletion",
+                                        "ancestorRefs": [
+                                            "27",
+                                            "2701"
+                                        ],
+                                        "depth": 2,
+                                        "diagrams": [],
+                                        "displayRef": "<span class=\"code_deletion\">2701.1</span>",
+                                        "displayTitle": "<span class=\"code_deletion\">2701.1</span> <span class=\"code_deletion\">Scope</span>",
+                                        "hasAssemblies": false,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 0,
+                                        "numDiagramsOnRef": 0,
+                                        "reference": "2701.1",
+                                        "slug": "electrical",
+                                        "titleText": "<span class=\"code_deletion\">Scope</span>",
+                                        "children": []
+                                    }
+                                ]
+                            },
+                            {
+                                "amendType": "deletion",
+                                "ancestorRefs": [
+                                    "27"
+                                ],
+                                "depth": 1,
+                                "diagrams": [],
+                                "displayRef": "<span class=\"code_deletion\">2702</span>",
+                                "displayTitle": "Section <span class=\"code_deletion\">2702</span> <span class=\"code_deletion\">Emergency and Standby Power Systems</span>",
+                                "divisionType": "Section",
+                                "hasAssemblies": false,
+                                "isContiguous": true,
+                                "numAssembliesOnRef": 0,
+                                "numBuildingProductsOnRef": 0,
+                                "numDiagramsOnRef": 0,
+                                "reference": "2702",
+                                "slug": "electrical",
+                                "titleText": "<span class=\"code_deletion\">Emergency and Standby Power Systems</span>",
+                                "children": [
+                                    {
+                                        "amendType": "deletion",
+                                        "ancestorRefs": [
+                                            "27",
+                                            "2702"
+                                        ],
+                                        "depth": 2,
+                                        "diagrams": [],
+                                        "displayRef": "<span class=\"code_deletion\">2702.1</span>",
+                                        "displayTitle": "[F]  <span class=\"code_deletion\">2702.1</span> <span class=\"code_deletion\">General</span>",
+                                        "hasAssemblies": false,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 0,
+                                        "numDiagramsOnRef": 0,
+                                        "reference": "2702.1",
+                                        "refPrefix": "[F]",
+                                        "slug": "electrical",
+                                        "titleText": "<span class=\"code_deletion\">General</span>",
+                                        "children": [
+                                            {
+                                                "amendType": "deletion",
+                                                "ancestorRefs": [
+                                                    "27",
+                                                    "2702",
+                                                    "2702.1"
+                                                ],
+                                                "depth": 3,
+                                                "diagrams": [],
+                                                "displayRef": "<span class=\"code_deletion\">2702.1.1</span>",
+                                                "displayTitle": "[F]  <span class=\"code_deletion\">2702.1.1</span> <span class=\"code_deletion\">Stationary Generators</span>",
+                                                "hasAssemblies": false,
+                                                "isContiguous": true,
+                                                "numAssembliesOnRef": 0,
+                                                "numBuildingProductsOnRef": 0,
+                                                "numDiagramsOnRef": 0,
+                                                "reference": "2702.1.1",
+                                                "refPrefix": "[F]",
+                                                "slug": "electrical",
+                                                "titleText": "<span class=\"code_deletion\">Stationary Generators</span>",
+                                                "children": []
+                                            },
+                                            {
+                                                "amendType": "deletion",
+                                                "ancestorRefs": [
+                                                    "27",
+                                                    "2702",
+                                                    "2702.1"
+                                                ],
+                                                "depth": 3,
+                                                "diagrams": [],
+                                                "displayRef": "<span class=\"code_deletion\">2702.1.2</span>",
+                                                "displayTitle": "[F]  <span class=\"code_deletion\">2702.1.2</span> <span class=\"code_deletion\">Fuel-Line Piping Protection</span>",
+                                                "hasAssemblies": false,
+                                                "isContiguous": true,
+                                                "numAssembliesOnRef": 0,
+                                                "numBuildingProductsOnRef": 0,
+                                                "numDiagramsOnRef": 0,
+                                                "reference": "2702.1.2",
+                                                "refPrefix": "[F]",
+                                                "slug": "electrical",
+                                                "titleText": "<span class=\"code_deletion\">Fuel-Line Piping Protection</span>",
+                                                "children": []
+                                            },
+                                            {
+                                                "amendType": "deletion",
+                                                "ancestorRefs": [
+                                                    "27",
+                                                    "2702",
+                                                    "2702.1"
+                                                ],
+                                                "depth": 3,
+                                                "diagrams": [],
+                                                "displayRef": "<span class=\"code_deletion\">2702.1.3</span>",
+                                                "displayTitle": "[F]  <span class=\"code_deletion\">2702.1.3</span> <span class=\"code_deletion\">Installation</span>",
+                                                "hasAssemblies": false,
+                                                "isContiguous": true,
+                                                "numAssembliesOnRef": 0,
+                                                "numBuildingProductsOnRef": 0,
+                                                "numDiagramsOnRef": 0,
+                                                "reference": "2702.1.3",
+                                                "refPrefix": "[F]",
+                                                "slug": "electrical",
+                                                "titleText": "<span class=\"code_deletion\">Installation</span>",
+                                                "children": []
+                                            },
+                                            {
+                                                "amendType": "deletion",
+                                                "ancestorRefs": [
+                                                    "27",
+                                                    "2702",
+                                                    "2702.1"
+                                                ],
+                                                "depth": 3,
+                                                "diagrams": [],
+                                                "displayRef": "<span class=\"code_deletion\">2702.1.4</span>",
+                                                "displayTitle": "[F]  <span class=\"code_deletion\">2702.1.4</span> <span class=\"code_deletion\">Load Transfer</span>",
+                                                "hasAssemblies": false,
+                                                "isContiguous": true,
+                                                "numAssembliesOnRef": 0,
+                                                "numBuildingProductsOnRef": 0,
+                                                "numDiagramsOnRef": 0,
+                                                "reference": "2702.1.4",
+                                                "refPrefix": "[F]",
+                                                "slug": "electrical",
+                                                "titleText": "<span class=\"code_deletion\">Load Transfer</span>",
+                                                "children": []
+                                            },
+                                            {
+                                                "amendType": "deletion",
+                                                "ancestorRefs": [
+                                                    "27",
+                                                    "2702",
+                                                    "2702.1"
+                                                ],
+                                                "depth": 3,
+                                                "diagrams": [],
+                                                "displayRef": "<span class=\"code_deletion\">2702.1.5</span>",
+                                                "displayTitle": "[F]  <span class=\"code_deletion\">2702.1.5</span> <span class=\"code_deletion\">Load Duration</span>",
+                                                "hasAssemblies": false,
+                                                "isContiguous": true,
+                                                "numAssembliesOnRef": 0,
+                                                "numBuildingProductsOnRef": 0,
+                                                "numDiagramsOnRef": 0,
+                                                "reference": "2702.1.5",
+                                                "refPrefix": "[F]",
+                                                "slug": "electrical",
+                                                "titleText": "<span class=\"code_deletion\">Load Duration</span>",
+                                                "children": []
+                                            },
+                                            {
+                                                "amendType": "deletion",
+                                                "ancestorRefs": [
+                                                    "27",
+                                                    "2702",
+                                                    "2702.1"
+                                                ],
+                                                "depth": 3,
+                                                "diagrams": [],
+                                                "displayRef": "<span class=\"code_deletion\">2702.1.6</span>",
+                                                "displayTitle": "[F]  <span class=\"code_deletion\">2702.1.6</span> <span class=\"code_deletion\">Uninterruptable Power Source</span>",
+                                                "hasAssemblies": false,
+                                                "isContiguous": true,
+                                                "numAssembliesOnRef": 0,
+                                                "numBuildingProductsOnRef": 0,
+                                                "numDiagramsOnRef": 0,
+                                                "reference": "2702.1.6",
+                                                "refPrefix": "[F]",
+                                                "slug": "electrical",
+                                                "titleText": "<span class=\"code_deletion\">Uninterruptable Power Source</span>",
+                                                "children": []
+                                            },
+                                            {
+                                                "amendType": "deletion",
+                                                "ancestorRefs": [
+                                                    "27",
+                                                    "2702",
+                                                    "2702.1"
+                                                ],
+                                                "depth": 3,
+                                                "diagrams": [],
+                                                "displayRef": "<span class=\"code_deletion\">2702.1.7</span>",
+                                                "displayTitle": "[F]  <span class=\"code_deletion\">2702.1.7</span> <span class=\"code_deletion\">Interchangeability</span>",
+                                                "hasAssemblies": false,
+                                                "isContiguous": true,
+                                                "numAssembliesOnRef": 0,
+                                                "numBuildingProductsOnRef": 0,
+                                                "numDiagramsOnRef": 0,
+                                                "reference": "2702.1.7",
+                                                "refPrefix": "[F]",
+                                                "slug": "electrical",
+                                                "titleText": "<span class=\"code_deletion\">Interchangeability</span>",
+                                                "children": []
+                                            },
+                                            {
+                                                "amendType": "deletion",
+                                                "ancestorRefs": [
+                                                    "27",
+                                                    "2702",
+                                                    "2702.1"
+                                                ],
+                                                "depth": 3,
+                                                "diagrams": [],
+                                                "displayRef": "<span class=\"code_deletion\">2702.1.8</span>",
+                                                "displayTitle": "[F]  <span class=\"code_deletion\">2702.1.8</span> <span class=\"code_deletion\">Group I-2 Occupancies</span>",
+                                                "hasAssemblies": false,
+                                                "isContiguous": true,
+                                                "numAssembliesOnRef": 0,
+                                                "numBuildingProductsOnRef": 0,
+                                                "numDiagramsOnRef": 0,
+                                                "reference": "2702.1.8",
+                                                "refPrefix": "[F]",
+                                                "slug": "electrical",
+                                                "titleText": "<span class=\"code_deletion\">Group I-2 Occupancies</span>",
+                                                "children": []
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "amendType": "deletion",
+                                        "ancestorRefs": [
+                                            "27",
+                                            "2702"
+                                        ],
+                                        "depth": 2,
+                                        "diagrams": [],
+                                        "displayRef": "<span class=\"code_deletion\">2702.2</span>",
+                                        "displayTitle": "[F]  <span class=\"code_deletion\">2702.2</span> <span class=\"code_deletion\">Where Required</span>",
+                                        "hasAssemblies": false,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 0,
+                                        "numDiagramsOnRef": 0,
+                                        "reference": "2702.2",
+                                        "refPrefix": "[F]",
+                                        "slug": "electrical",
+                                        "titleText": "<span class=\"code_deletion\">Where Required</span>",
+                                        "children": [
+                                            {
+                                                "amendType": "deletion",
+                                                "ancestorRefs": [
+                                                    "27",
+                                                    "2702",
+                                                    "2702.2"
+                                                ],
+                                                "depth": 3,
+                                                "diagrams": [],
+                                                "displayRef": "<span class=\"code_deletion\">2702.2.1</span>",
+                                                "displayTitle": "[F]  <span class=\"code_deletion\">2702.2.1</span> <span class=\"code_deletion\">Ambulatory Care Facilities</span>",
+                                                "hasAssemblies": false,
+                                                "isContiguous": true,
+                                                "numAssembliesOnRef": 0,
+                                                "numBuildingProductsOnRef": 0,
+                                                "numDiagramsOnRef": 0,
+                                                "reference": "2702.2.1",
+                                                "refPrefix": "[F]",
+                                                "slug": "electrical",
+                                                "titleText": "<span class=\"code_deletion\">Ambulatory Care Facilities</span>",
+                                                "children": []
+                                            },
+                                            {
+                                                "amendType": "deletion",
+                                                "ancestorRefs": [
+                                                    "27",
+                                                    "2702",
+                                                    "2702.2"
+                                                ],
+                                                "depth": 3,
+                                                "diagrams": [],
+                                                "displayRef": "<span class=\"code_deletion\">2702.2.2</span>",
+                                                "displayTitle": "[F]  <span class=\"code_deletion\">2702.2.2</span> <span class=\"code_deletion\">Elevators and Platform Lifts</span>",
+                                                "hasAssemblies": false,
+                                                "isContiguous": true,
+                                                "numAssembliesOnRef": 0,
+                                                "numBuildingProductsOnRef": 0,
+                                                "numDiagramsOnRef": 0,
+                                                "reference": "2702.2.2",
+                                                "refPrefix": "[F]",
+                                                "slug": "electrical",
+                                                "titleText": "<span class=\"code_deletion\">Elevators and Platform Lifts</span>",
+                                                "children": []
+                                            },
+                                            {
+                                                "amendType": "deletion",
+                                                "ancestorRefs": [
+                                                    "27",
+                                                    "2702",
+                                                    "2702.2"
+                                                ],
+                                                "depth": 3,
+                                                "diagrams": [],
+                                                "displayRef": "<span class=\"code_deletion\">2702.2.3</span>",
+                                                "displayTitle": "[F]  <span class=\"code_deletion\">2702.2.3</span> <span class=\"code_deletion\">Emergency Responder Communication Coverage Systems</span>",
+                                                "hasAssemblies": false,
+                                                "isContiguous": true,
+                                                "numAssembliesOnRef": 0,
+                                                "numBuildingProductsOnRef": 0,
+                                                "numDiagramsOnRef": 0,
+                                                "reference": "2702.2.3",
+                                                "refPrefix": "[F]",
+                                                "slug": "electrical",
+                                                "titleText": "<span class=\"code_deletion\">Emergency Responder Communication Coverage Systems</span>",
+                                                "children": []
+                                            },
+                                            {
+                                                "amendType": "deletion",
+                                                "ancestorRefs": [
+                                                    "27",
+                                                    "2702",
+                                                    "2702.2"
+                                                ],
+                                                "depth": 3,
+                                                "diagrams": [],
+                                                "displayRef": "<span class=\"code_deletion\">2702.2.4</span>",
+                                                "displayTitle": "[F]  <span class=\"code_deletion\">2702.2.4</span> <span class=\"code_deletion\">Emergency Voice/Alarm Communication Systems</span>",
+                                                "hasAssemblies": false,
+                                                "isContiguous": true,
+                                                "numAssembliesOnRef": 0,
+                                                "numBuildingProductsOnRef": 0,
+                                                "numDiagramsOnRef": 0,
+                                                "reference": "2702.2.4",
+                                                "refPrefix": "[F]",
+                                                "slug": "electrical",
+                                                "titleText": "<span class=\"code_deletion\">Emergency Voice/Alarm Communication Systems</span>",
+                                                "children": []
+                                            },
+                                            {
+                                                "amendType": "deletion",
+                                                "ancestorRefs": [
+                                                    "27",
+                                                    "2702",
+                                                    "2702.2"
+                                                ],
+                                                "depth": 3,
+                                                "diagrams": [],
+                                                "displayRef": "<span class=\"code_deletion\">2702.2.5</span>",
+                                                "displayTitle": "[F]  <span class=\"code_deletion\">2702.2.5</span> <span class=\"code_deletion\">Exhaust Systems</span>",
+                                                "hasAssemblies": false,
+                                                "isContiguous": true,
+                                                "numAssembliesOnRef": 0,
+                                                "numBuildingProductsOnRef": 0,
+                                                "numDiagramsOnRef": 0,
+                                                "reference": "2702.2.5",
+                                                "refPrefix": "[F]",
+                                                "slug": "electrical",
+                                                "titleText": "<span class=\"code_deletion\">Exhaust Systems</span>",
+                                                "children": []
+                                            },
+                                            {
+                                                "amendType": "deletion",
+                                                "ancestorRefs": [
+                                                    "27",
+                                                    "2702",
+                                                    "2702.2"
+                                                ],
+                                                "depth": 3,
+                                                "diagrams": [],
+                                                "displayRef": "<span class=\"code_deletion\">2702.2.6</span>",
+                                                "displayTitle": "[F]  <span class=\"code_deletion\">2702.2.6</span> <span class=\"code_deletion\">Exit Signs</span>",
+                                                "hasAssemblies": false,
+                                                "isContiguous": true,
+                                                "numAssembliesOnRef": 0,
+                                                "numBuildingProductsOnRef": 0,
+                                                "numDiagramsOnRef": 0,
+                                                "reference": "2702.2.6",
+                                                "refPrefix": "[F]",
+                                                "slug": "electrical",
+                                                "titleText": "<span class=\"code_deletion\">Exit Signs</span>",
+                                                "children": []
+                                            },
+                                            {
+                                                "amendType": "deletion",
+                                                "ancestorRefs": [
+                                                    "27",
+                                                    "2702",
+                                                    "2702.2"
+                                                ],
+                                                "depth": 3,
+                                                "diagrams": [],
+                                                "displayRef": "<span class=\"code_deletion\">2702.2.7</span>",
+                                                "displayTitle": "[F]  <span class=\"code_deletion\">2702.2.7</span> <span class=\"code_deletion\">Gas Detection System</span>",
+                                                "hasAssemblies": false,
+                                                "isContiguous": true,
+                                                "numAssembliesOnRef": 0,
+                                                "numBuildingProductsOnRef": 0,
+                                                "numDiagramsOnRef": 0,
+                                                "reference": "2702.2.7",
+                                                "refPrefix": "[F]",
+                                                "slug": "electrical",
+                                                "titleText": "<span class=\"code_deletion\">Gas Detection System</span>",
+                                                "children": []
+                                            },
+                                            {
+                                                "amendType": "deletion",
+                                                "ancestorRefs": [
+                                                    "27",
+                                                    "2702",
+                                                    "2702.2"
+                                                ],
+                                                "depth": 3,
+                                                "diagrams": [],
+                                                "displayRef": "<span class=\"code_deletion\">2702.2.8</span>",
+                                                "displayTitle": "[F]  <span class=\"code_deletion\">2702.2.8</span> <span class=\"code_deletion\">Group I-2 Occupancies</span>",
+                                                "hasAssemblies": false,
+                                                "isContiguous": true,
+                                                "numAssembliesOnRef": 0,
+                                                "numBuildingProductsOnRef": 0,
+                                                "numDiagramsOnRef": 0,
+                                                "reference": "2702.2.8",
+                                                "refPrefix": "[F]",
+                                                "slug": "electrical",
+                                                "titleText": "<span class=\"code_deletion\">Group I-2 Occupancies</span>",
+                                                "children": []
+                                            },
+                                            {
+                                                "amendType": "deletion",
+                                                "ancestorRefs": [
+                                                    "27",
+                                                    "2702",
+                                                    "2702.2"
+                                                ],
+                                                "depth": 3,
+                                                "diagrams": [],
+                                                "displayRef": "<span class=\"code_deletion\">2702.2.9</span>",
+                                                "displayTitle": "[F]  <span class=\"code_deletion\">2702.2.9</span> <span class=\"code_deletion\">Group I-3 Occupancies</span>",
+                                                "hasAssemblies": false,
+                                                "isContiguous": true,
+                                                "numAssembliesOnRef": 0,
+                                                "numBuildingProductsOnRef": 0,
+                                                "numDiagramsOnRef": 0,
+                                                "reference": "2702.2.9",
+                                                "refPrefix": "[F]",
+                                                "slug": "electrical",
+                                                "titleText": "<span class=\"code_deletion\">Group I-3 Occupancies</span>",
+                                                "children": []
+                                            },
+                                            {
+                                                "amendType": "deletion",
+                                                "ancestorRefs": [
+                                                    "27",
+                                                    "2702",
+                                                    "2702.2"
+                                                ],
+                                                "depth": 3,
+                                                "diagrams": [],
+                                                "displayRef": "<span class=\"code_deletion\">2702.2.10</span>",
+                                                "displayTitle": "[F]  <span class=\"code_deletion\">2702.2.10</span> <span class=\"code_deletion\">Hazardous Materials</span>",
+                                                "hasAssemblies": false,
+                                                "isContiguous": true,
+                                                "numAssembliesOnRef": 0,
+                                                "numBuildingProductsOnRef": 0,
+                                                "numDiagramsOnRef": 0,
+                                                "reference": "2702.2.10",
+                                                "refPrefix": "[F]",
+                                                "slug": "electrical",
+                                                "titleText": "<span class=\"code_deletion\">Hazardous Materials</span>",
+                                                "children": []
+                                            },
+                                            {
+                                                "amendType": "deletion",
+                                                "ancestorRefs": [
+                                                    "27",
+                                                    "2702",
+                                                    "2702.2"
+                                                ],
+                                                "depth": 3,
+                                                "diagrams": [],
+                                                "displayRef": "<span class=\"code_deletion\">2702.2.11</span>",
+                                                "displayTitle": "[F]  <span class=\"code_deletion\">2702.2.11</span> <span class=\"code_deletion\">High-Rise Buildings</span>",
+                                                "hasAssemblies": false,
+                                                "isContiguous": true,
+                                                "numAssembliesOnRef": 0,
+                                                "numBuildingProductsOnRef": 0,
+                                                "numDiagramsOnRef": 0,
+                                                "reference": "2702.2.11",
+                                                "refPrefix": "[F]",
+                                                "slug": "electrical",
+                                                "titleText": "<span class=\"code_deletion\">High-Rise Buildings</span>",
+                                                "children": []
+                                            },
+                                            {
+                                                "amendType": "deletion",
+                                                "ancestorRefs": [
+                                                    "27",
+                                                    "2702",
+                                                    "2702.2"
+                                                ],
+                                                "depth": 3,
+                                                "diagrams": [],
+                                                "displayRef": "<span class=\"code_deletion\">2702.2.12</span>",
+                                                "displayTitle": "[F]  <span class=\"code_deletion\">2702.2.12</span> <span class=\"code_deletion\">Hydrogen Fuel Gas Rooms</span>",
+                                                "hasAssemblies": false,
+                                                "isContiguous": true,
+                                                "numAssembliesOnRef": 0,
+                                                "numBuildingProductsOnRef": 0,
+                                                "numDiagramsOnRef": 0,
+                                                "reference": "2702.2.12",
+                                                "refPrefix": "[F]",
+                                                "slug": "electrical",
+                                                "titleText": "<span class=\"code_deletion\">Hydrogen Fuel Gas Rooms</span>",
+                                                "children": []
+                                            },
+                                            {
+                                                "amendType": "deletion",
+                                                "ancestorRefs": [
+                                                    "27",
+                                                    "2702",
+                                                    "2702.2"
+                                                ],
+                                                "depth": 3,
+                                                "diagrams": [],
+                                                "displayRef": "<span class=\"code_deletion\">2702.2.13</span>",
+                                                "displayTitle": "[F]  <span class=\"code_deletion\">2702.2.13</span> <span class=\"code_deletion\">Laboratory Suites</span>",
+                                                "hasAssemblies": false,
+                                                "isContiguous": true,
+                                                "numAssembliesOnRef": 0,
+                                                "numBuildingProductsOnRef": 0,
+                                                "numDiagramsOnRef": 0,
+                                                "reference": "2702.2.13",
+                                                "refPrefix": "[F]",
+                                                "slug": "electrical",
+                                                "titleText": "<span class=\"code_deletion\">Laboratory Suites</span>",
+                                                "children": []
+                                            },
+                                            {
+                                                "amendType": "deletion",
+                                                "ancestorRefs": [
+                                                    "27",
+                                                    "2702",
+                                                    "2702.2"
+                                                ],
+                                                "depth": 3,
+                                                "diagrams": [],
+                                                "displayRef": "<span class=\"code_deletion\">2702.2.14</span>",
+                                                "displayTitle": "[F]  <span class=\"code_deletion\">2702.2.14</span> <span class=\"code_deletion\">Means of Egress Illumination</span>",
+                                                "hasAssemblies": false,
+                                                "isContiguous": true,
+                                                "numAssembliesOnRef": 0,
+                                                "numBuildingProductsOnRef": 0,
+                                                "numDiagramsOnRef": 0,
+                                                "reference": "2702.2.14",
+                                                "refPrefix": "[F]",
+                                                "slug": "electrical",
+                                                "titleText": "<span class=\"code_deletion\">Means of Egress Illumination</span>",
+                                                "children": []
+                                            },
+                                            {
+                                                "amendType": "deletion",
+                                                "ancestorRefs": [
+                                                    "27",
+                                                    "2702",
+                                                    "2702.2"
+                                                ],
+                                                "depth": 3,
+                                                "diagrams": [],
+                                                "displayRef": "<span class=\"code_deletion\">2702.2.15</span>",
+                                                "displayTitle": "[F]  <span class=\"code_deletion\">2702.2.15</span> <span class=\"code_deletion\">Membrane Structures</span>",
+                                                "hasAssemblies": false,
+                                                "isContiguous": true,
+                                                "numAssembliesOnRef": 0,
+                                                "numBuildingProductsOnRef": 0,
+                                                "numDiagramsOnRef": 0,
+                                                "reference": "2702.2.15",
+                                                "refPrefix": "[F]",
+                                                "slug": "electrical",
+                                                "titleText": "<span class=\"code_deletion\">Membrane Structures</span>",
+                                                "children": []
+                                            },
+                                            {
+                                                "amendType": "deletion",
+                                                "ancestorRefs": [
+                                                    "27",
+                                                    "2702",
+                                                    "2702.2"
+                                                ],
+                                                "depth": 3,
+                                                "diagrams": [],
+                                                "displayRef": "<span class=\"code_deletion\">2702.2.16</span>",
+                                                "displayTitle": "[F]  <span class=\"code_deletion\">2702.2.16</span> <span class=\"code_deletion\">Semiconductor Fabrication Facilities</span>",
+                                                "hasAssemblies": false,
+                                                "isContiguous": true,
+                                                "numAssembliesOnRef": 0,
+                                                "numBuildingProductsOnRef": 0,
+                                                "numDiagramsOnRef": 0,
+                                                "reference": "2702.2.16",
+                                                "refPrefix": "[F]",
+                                                "slug": "electrical",
+                                                "titleText": "<span class=\"code_deletion\">Semiconductor Fabrication Facilities</span>",
+                                                "children": []
+                                            },
+                                            {
+                                                "amendType": "deletion",
+                                                "ancestorRefs": [
+                                                    "27",
+                                                    "2702",
+                                                    "2702.2"
+                                                ],
+                                                "depth": 3,
+                                                "diagrams": [],
+                                                "displayRef": "<span class=\"code_deletion\">2702.2.17</span>",
+                                                "displayTitle": "[F]  <span class=\"code_deletion\">2702.2.17</span> <span class=\"code_deletion\">Smoke Control Systems</span>",
+                                                "hasAssemblies": false,
+                                                "isContiguous": true,
+                                                "numAssembliesOnRef": 0,
+                                                "numBuildingProductsOnRef": 0,
+                                                "numDiagramsOnRef": 0,
+                                                "reference": "2702.2.17",
+                                                "refPrefix": "[F]",
+                                                "slug": "electrical",
+                                                "titleText": "<span class=\"code_deletion\">Smoke Control Systems</span>",
+                                                "children": []
+                                            },
+                                            {
+                                                "amendType": "deletion",
+                                                "ancestorRefs": [
+                                                    "27",
+                                                    "2702",
+                                                    "2702.2"
+                                                ],
+                                                "depth": 3,
+                                                "diagrams": [],
+                                                "displayRef": "<span class=\"code_deletion\">2702.2.18</span>",
+                                                "displayTitle": "[F]  <span class=\"code_deletion\">2702.2.18</span> <span class=\"code_deletion\">Special Purpose Horizontal Sliding, Accordion or Folding Doors</span>",
+                                                "hasAssemblies": false,
+                                                "isContiguous": true,
+                                                "numAssembliesOnRef": 0,
+                                                "numBuildingProductsOnRef": 0,
+                                                "numDiagramsOnRef": 0,
+                                                "reference": "2702.2.18",
+                                                "refPrefix": "[F]",
+                                                "slug": "electrical",
+                                                "titleText": "<span class=\"code_deletion\">Special Purpose Horizontal Sliding, Accordion or Folding Doors</span>",
+                                                "children": []
+                                            },
+                                            {
+                                                "amendType": "deletion",
+                                                "ancestorRefs": [
+                                                    "27",
+                                                    "2702",
+                                                    "2702.2"
+                                                ],
+                                                "depth": 3,
+                                                "diagrams": [],
+                                                "displayRef": "<span class=\"code_deletion\">2702.2.19</span>",
+                                                "displayTitle": "[F]  <span class=\"code_deletion\">2702.2.19</span> <span class=\"code_deletion\">Underground Buildings</span>",
+                                                "hasAssemblies": false,
+                                                "isContiguous": true,
+                                                "numAssembliesOnRef": 0,
+                                                "numBuildingProductsOnRef": 0,
+                                                "numDiagramsOnRef": 0,
+                                                "reference": "2702.2.19",
+                                                "refPrefix": "[F]",
+                                                "slug": "electrical",
+                                                "titleText": "<span class=\"code_deletion\">Underground Buildings</span>",
+                                                "children": []
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "amendType": "deletion",
+                                        "ancestorRefs": [
+                                            "27",
+                                            "2702"
+                                        ],
+                                        "depth": 2,
+                                        "diagrams": [],
+                                        "displayRef": "<span class=\"code_deletion\">2702.3</span>",
+                                        "displayTitle": "[F]  <span class=\"code_deletion\">2702.3</span> <span class=\"code_deletion\">Critical Circuits</span>",
+                                        "hasAssemblies": false,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 0,
+                                        "numDiagramsOnRef": 0,
+                                        "reference": "2702.3",
+                                        "refPrefix": "[F]",
+                                        "slug": "electrical",
+                                        "titleText": "<span class=\"code_deletion\">Critical Circuits</span>",
+                                        "children": []
+                                    },
+                                    {
+                                        "amendType": "deletion",
+                                        "ancestorRefs": [
+                                            "27",
+                                            "2702"
+                                        ],
+                                        "depth": 2,
+                                        "diagrams": [],
+                                        "displayRef": "<span class=\"code_deletion\">2702.4</span>",
+                                        "displayTitle": "[F]  <span class=\"code_deletion\">2702.4</span> <span class=\"code_deletion\">Maintenance</span>",
+                                        "hasAssemblies": false,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 0,
+                                        "numDiagramsOnRef": 0,
+                                        "reference": "2702.4",
+                                        "refPrefix": "[F]",
+                                        "slug": "electrical",
+                                        "titleText": "<span class=\"code_deletion\">Maintenance</span>",
+                                        "children": []
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            "chapterReference": "27"
+        },
+        "__N_SSP": true
+    },
+    "page": "/viewer/[urlFormPubOrJurisKey]/[urlFormPub]/chapter/[chapterRef]/[chapterName]",
+    "query": {
+        "urlFormPubOrJurisKey": "arkansas",
+        "urlFormPub": "ibc-2021",
+        "chapterRef": "27",
+        "chapterName": "electrical"
+    },
+    "buildId": "RZSwz8uFB9jvXr56FjNnx",
+    "isFallback": false,
+    "isExperimentalCompile": false,
+    "dynamicIds": [
+        61621,
+        54065
+    ],
+    "gssp": true,
+    "scriptLoader": []
+}
