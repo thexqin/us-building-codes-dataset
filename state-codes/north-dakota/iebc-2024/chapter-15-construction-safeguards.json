@@ -1,0 +1,2123 @@
+{
+    "props": {
+        "pageProps": {
+            "missingRequiredLogin": false,
+            "title": "Chapter 15 Construction Safeguards: North Dakota Existing Building Code 2024 | UpCodes",
+            "leanChapterViewerData": {
+                "basePubName": "International Existing Building Code 2024 (IEBC 2024)",
+                "codeGroupingYear": "2026",
+                "codeName": "North Dakota Existing Building Code 2024",
+                "codeUuid": "17ba62c3-e537-45eb-922e-8e1b48e2166e",
+                "codeVersions": [
+                    {
+                        "codeUuid": "17ba62c3-e537-45eb-922e-8e1b48e2166e",
+                        "name": "Original Adoption",
+                        "effectiveStartDate": "2026-01-01",
+                        "shortformUrlName": "iebc-2024",
+                        "activeStatus": "active"
+                    }
+                ],
+                "ingesterAmendmentsEnabled": false,
+                "ingesterCodeUnitsEnabled": false,
+                "isAmendStylingEnabled": true,
+                "isCorrespondable": true,
+                "jurisKey": "north_dakota",
+                "jurisName": "North Dakota",
+                "metaInfoUrl": "/viewer/north_dakota/iebc-2024",
+                "modelCodeUrl": null,
+                "placeholder": "Search North Dakota Existing Building Code 2024",
+                "pubKey": "int_ebc_2024",
+                "pubPrefix": "int_ebc",
+                "shortformPubName": "iebc-2024",
+                "withAmendments": true,
+                "chapterRef": "15",
+                "publisher": "icc",
+                "hasLinkedResources": false,
+                "initialNonChapterTocLines": [
+                    {
+                        "amendType": null,
+                        "children": [
+                            {
+                                "amendType": null,
+                                "children": [],
+                                "depth": 2,
+                                "displayTitle": "1501.1 Scope",
+                                "hasExpanderArrow": false,
+                                "href": "#1501.1",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "reference": "1501.1"
+                            },
+                            {
+                                "amendType": null,
+                                "children": [],
+                                "depth": 2,
+                                "displayTitle": "1501.2 Storage and Placement of Construction Equipment and Materials",
+                                "hasExpanderArrow": false,
+                                "href": "#1501.2",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "reference": "1501.2"
+                            },
+                            {
+                                "amendType": null,
+                                "children": [],
+                                "depth": 2,
+                                "displayTitle": "1501.3 Roof Loads",
+                                "hasExpanderArrow": false,
+                                "href": "#1501.3",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "reference": "1501.3"
+                            },
+                            {
+                                "amendType": null,
+                                "children": [],
+                                "depth": 2,
+                                "displayTitle": "1501.4 Maintenance of Exits, Existing Structural Elements, Fire Protection Devices and Sanitary Safeguards",
+                                "hasExpanderArrow": false,
+                                "href": "#1501.4",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "reference": "1501.4"
+                            },
+                            {
+                                "amendType": null,
+                                "children": [],
+                                "depth": 2,
+                                "displayTitle": "1501.5 Removal of Waste Materials",
+                                "hasExpanderArrow": false,
+                                "href": "#1501.5",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "reference": "1501.5"
+                            }
+                        ],
+                        "depth": 1,
+                        "displayTitle": "1501 General",
+                        "hasExpanderArrow": true,
+                        "href": "#1501",
+                        "isCodeDivider": false,
+                        "isCodeDividerClickable": false,
+                        "reference": "1501"
+                    },
+                    {
+                        "amendType": null,
+                        "children": [
+                            {
+                                "amendType": null,
+                                "children": [
+                                    {
+                                        "amendType": null,
+                                        "children": [],
+                                        "depth": 3,
+                                        "displayTitle": "1502.1.1 Components of Site Safety Plans",
+                                        "hasExpanderArrow": false,
+                                        "href": "#1502.1.1",
+                                        "isCodeDivider": false,
+                                        "isCodeDividerClickable": false,
+                                        "reference": "1502.1.1"
+                                    }
+                                ],
+                                "depth": 2,
+                                "displayTitle": "1502.1 Site Safety Plan",
+                                "hasExpanderArrow": true,
+                                "href": "#1502.1",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "reference": "1502.1"
+                            },
+                            {
+                                "amendType": null,
+                                "children": [],
+                                "depth": 2,
+                                "displayTitle": "1502.2 Site Safety Director",
+                                "hasExpanderArrow": false,
+                                "href": "#1502.2",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "reference": "1502.2"
+                            },
+                            {
+                                "amendType": null,
+                                "children": [
+                                    {
+                                        "amendType": null,
+                                        "children": [],
+                                        "depth": 3,
+                                        "displayTitle": "1502.3.1 Violations",
+                                        "hasExpanderArrow": false,
+                                        "href": "#1502.3.1",
+                                        "isCodeDivider": false,
+                                        "isCodeDividerClickable": false,
+                                        "reference": "1502.3.1"
+                                    }
+                                ],
+                                "depth": 2,
+                                "displayTitle": "1502.3 Daily Fire Safety Inspection",
+                                "hasExpanderArrow": true,
+                                "href": "#1502.3",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "reference": "1502.3"
+                            }
+                        ],
+                        "depth": 1,
+                        "displayTitle": "1502 Owner's Responsibility for Fire Protection",
+                        "hasExpanderArrow": true,
+                        "href": "#1502",
+                        "isCodeDivider": false,
+                        "isCodeDividerClickable": false,
+                        "reference": "1502"
+                    },
+                    {
+                        "amendType": null,
+                        "children": [
+                            {
+                                "amendType": "edit",
+                                "children": [],
+                                "depth": 2,
+                                "displayTitle": "1503.1 Facilities Required",
+                                "hasExpanderArrow": false,
+                                "href": "#1503.1",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "reference": "1503.1"
+                            }
+                        ],
+                        "depth": 1,
+                        "displayTitle": "1503 Sanitary",
+                        "hasExpanderArrow": true,
+                        "href": "#1503",
+                        "isCodeDivider": false,
+                        "isCodeDividerClickable": false,
+                        "reference": "1503"
+                    },
+                    {
+                        "amendType": null,
+                        "children": [
+                            {
+                                "amendType": null,
+                                "children": [
+                                    {
+                                        "amendType": null,
+                                        "children": [],
+                                        "depth": 3,
+                                        "displayTitle": "1504.1.1 Walkways",
+                                        "hasExpanderArrow": false,
+                                        "href": "#1504.1.1",
+                                        "isCodeDivider": false,
+                                        "isCodeDividerClickable": false,
+                                        "reference": "1504.1.1"
+                                    },
+                                    {
+                                        "amendType": null,
+                                        "children": [],
+                                        "depth": 3,
+                                        "displayTitle": "1504.1.2 Directional Barricades",
+                                        "hasExpanderArrow": false,
+                                        "href": "#1504.1.2",
+                                        "isCodeDivider": false,
+                                        "isCodeDividerClickable": false,
+                                        "reference": "1504.1.2"
+                                    },
+                                    {
+                                        "amendType": null,
+                                        "children": [],
+                                        "depth": 3,
+                                        "displayTitle": "1504.1.3 Construction Railings",
+                                        "hasExpanderArrow": false,
+                                        "href": "#1504.1.3",
+                                        "isCodeDivider": false,
+                                        "isCodeDividerClickable": false,
+                                        "reference": "1504.1.3"
+                                    },
+                                    {
+                                        "amendType": null,
+                                        "children": [
+                                            {
+                                                "amendType": null,
+                                                "children": [],
+                                                "depth": 4,
+                                                "displayTitle": "1504.1.4.1 Barrier Design",
+                                                "hasExpanderArrow": false,
+                                                "href": "#1504.1.4.1",
+                                                "isCodeDivider": false,
+                                                "isCodeDividerClickable": false,
+                                                "reference": "1504.1.4.1"
+                                            }
+                                        ],
+                                        "depth": 3,
+                                        "displayTitle": "1504.1.4 Barriers",
+                                        "hasExpanderArrow": true,
+                                        "href": "#1504.1.4",
+                                        "isCodeDivider": false,
+                                        "isCodeDividerClickable": false,
+                                        "reference": "1504.1.4"
+                                    },
+                                    {
+                                        "amendType": null,
+                                        "children": [],
+                                        "depth": 3,
+                                        "displayTitle": "1504.1.5 Covered Walkways",
+                                        "hasExpanderArrow": false,
+                                        "href": "#1504.1.5",
+                                        "isCodeDivider": false,
+                                        "isCodeDividerClickable": false,
+                                        "reference": "1504.1.5"
+                                    },
+                                    {
+                                        "amendType": null,
+                                        "children": [],
+                                        "depth": 3,
+                                        "displayTitle": "1504.1.6 Repair, Maintenance and Removal",
+                                        "hasExpanderArrow": false,
+                                        "href": "#1504.1.6",
+                                        "isCodeDivider": false,
+                                        "isCodeDividerClickable": false,
+                                        "reference": "1504.1.6"
+                                    },
+                                    {
+                                        "amendType": null,
+                                        "children": [],
+                                        "depth": 3,
+                                        "displayTitle": "1504.1.7 Adjacent to Excavations",
+                                        "hasExpanderArrow": false,
+                                        "href": "#1504.1.7",
+                                        "isCodeDivider": false,
+                                        "isCodeDividerClickable": false,
+                                        "reference": "1504.1.7"
+                                    }
+                                ],
+                                "depth": 2,
+                                "displayTitle": "1504.1 Protection of Pedestrians",
+                                "hasExpanderArrow": true,
+                                "href": "#1504.1",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "reference": "1504.1"
+                            }
+                        ],
+                        "depth": 1,
+                        "displayTitle": "1504 Protection of Pedestrians",
+                        "hasExpanderArrow": true,
+                        "href": "#1504",
+                        "isCodeDivider": false,
+                        "isCodeDividerClickable": false,
+                        "reference": "1504"
+                    },
+                    {
+                        "amendType": null,
+                        "children": [
+                            {
+                                "amendType": null,
+                                "children": [],
+                                "depth": 2,
+                                "displayTitle": "1505.1 Protection Required",
+                                "hasExpanderArrow": false,
+                                "href": "#1505.1",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "reference": "1505.1"
+                            },
+                            {
+                                "amendType": null,
+                                "children": [
+                                    {
+                                        "amendType": null,
+                                        "children": [],
+                                        "depth": 3,
+                                        "displayTitle": "1505.2.1 Excavation Retention System Design",
+                                        "hasExpanderArrow": false,
+                                        "href": "#1505.2.1",
+                                        "isCodeDivider": false,
+                                        "isCodeDividerClickable": false,
+                                        "reference": "1505.2.1"
+                                    },
+                                    {
+                                        "amendType": null,
+                                        "children": [],
+                                        "depth": 3,
+                                        "displayTitle": "1505.2.2 Excavation Retention System Monitoring",
+                                        "hasExpanderArrow": false,
+                                        "href": "#1505.2.2",
+                                        "isCodeDivider": false,
+                                        "isCodeDividerClickable": false,
+                                        "reference": "1505.2.2"
+                                    },
+                                    {
+                                        "amendType": null,
+                                        "children": [],
+                                        "depth": 3,
+                                        "displayTitle": "1505.2.3 Retention System Removal",
+                                        "hasExpanderArrow": false,
+                                        "href": "#1505.2.3",
+                                        "isCodeDivider": false,
+                                        "isCodeDividerClickable": false,
+                                        "reference": "1505.2.3"
+                                    }
+                                ],
+                                "depth": 2,
+                                "displayTitle": "1505.2 Excavation Retention Systems",
+                                "hasExpanderArrow": true,
+                                "href": "#1505.2",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "reference": "1505.2"
+                            }
+                        ],
+                        "depth": 1,
+                        "displayTitle": "1505 Protection of Adjoining Property",
+                        "hasExpanderArrow": true,
+                        "href": "#1505",
+                        "isCodeDivider": false,
+                        "isCodeDividerClickable": false,
+                        "reference": "1505"
+                    },
+                    {
+                        "amendType": null,
+                        "children": [
+                            {
+                                "amendType": null,
+                                "children": [],
+                                "depth": 2,
+                                "displayTitle": "1506.1 Storage and Handling of Materials",
+                                "hasExpanderArrow": false,
+                                "href": "#1506.1",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "reference": "1506.1"
+                            },
+                            {
+                                "amendType": null,
+                                "children": [],
+                                "depth": 2,
+                                "displayTitle": "1506.2 Obstructions",
+                                "hasExpanderArrow": false,
+                                "href": "#1506.2",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "reference": "1506.2"
+                            },
+                            {
+                                "amendType": null,
+                                "children": [],
+                                "depth": 2,
+                                "displayTitle": "1506.3 Utility Fixtures",
+                                "hasExpanderArrow": false,
+                                "href": "#1506.3",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "reference": "1506.3"
+                            }
+                        ],
+                        "depth": 1,
+                        "displayTitle": "1506 Temporary Use of Streets, Alleys and Public Property",
+                        "hasExpanderArrow": true,
+                        "href": "#1506",
+                        "isCodeDivider": false,
+                        "isCodeDividerClickable": false,
+                        "reference": "1506"
+                    },
+                    {
+                        "amendType": null,
+                        "children": [
+                            {
+                                "amendType": null,
+                                "children": [],
+                                "depth": 2,
+                                "displayTitle": "1507.1 Where Required",
+                                "hasExpanderArrow": false,
+                                "href": "#1507.1",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "reference": "1507.1"
+                            },
+                            {
+                                "amendType": null,
+                                "children": [],
+                                "depth": 2,
+                                "displayTitle": "1507.2 Fire Hazards",
+                                "hasExpanderArrow": false,
+                                "href": "#1507.2",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "reference": "1507.2"
+                            }
+                        ],
+                        "depth": 1,
+                        "displayTitle": "1507 Fire Extinguishers",
+                        "hasExpanderArrow": true,
+                        "href": "#1507",
+                        "isCodeDivider": false,
+                        "isCodeDividerClickable": false,
+                        "reference": "1507"
+                    },
+                    {
+                        "amendType": null,
+                        "children": [
+                            {
+                                "amendType": null,
+                                "children": [],
+                                "depth": 2,
+                                "displayTitle": "1508.1 Stairways Required",
+                                "hasExpanderArrow": false,
+                                "href": "#1508.1",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "reference": "1508.1"
+                            },
+                            {
+                                "amendType": null,
+                                "children": [],
+                                "depth": 2,
+                                "displayTitle": "1508.2 Maintenance of Means of Egress",
+                                "hasExpanderArrow": false,
+                                "href": "#1508.2",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "reference": "1508.2"
+                            }
+                        ],
+                        "depth": 1,
+                        "displayTitle": "1508 Means of Egress",
+                        "hasExpanderArrow": true,
+                        "href": "#1508",
+                        "isCodeDivider": false,
+                        "isCodeDividerClickable": false,
+                        "reference": "1508"
+                    },
+                    {
+                        "amendType": null,
+                        "children": [
+                            {
+                                "amendType": null,
+                                "children": [],
+                                "depth": 2,
+                                "displayTitle": "1509.1 Where Required",
+                                "hasExpanderArrow": false,
+                                "href": "#1509.1",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "reference": "1509.1"
+                            },
+                            {
+                                "amendType": null,
+                                "children": [],
+                                "depth": 2,
+                                "displayTitle": "1509.2 Buildings Being Demolished",
+                                "hasExpanderArrow": false,
+                                "href": "#1509.2",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "reference": "1509.2"
+                            },
+                            {
+                                "amendType": null,
+                                "children": [],
+                                "depth": 2,
+                                "displayTitle": "1509.3 Detailed Requirements",
+                                "hasExpanderArrow": false,
+                                "href": "#1509.3",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "reference": "1509.3"
+                            }
+                        ],
+                        "depth": 1,
+                        "displayTitle": "1509 Standpipes",
+                        "hasExpanderArrow": true,
+                        "href": "#1509",
+                        "isCodeDivider": false,
+                        "isCodeDividerClickable": false,
+                        "reference": "1509"
+                    },
+                    {
+                        "amendType": null,
+                        "children": [
+                            {
+                                "amendType": null,
+                                "children": [],
+                                "depth": 2,
+                                "displayTitle": "1510.1 Completion Before Occupancy",
+                                "hasExpanderArrow": false,
+                                "href": "#1510.1",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "reference": "1510.1"
+                            },
+                            {
+                                "amendType": null,
+                                "children": [],
+                                "depth": 2,
+                                "displayTitle": "1510.2 Operation of Valves",
+                                "hasExpanderArrow": false,
+                                "href": "#1510.2",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "reference": "1510.2"
+                            }
+                        ],
+                        "depth": 1,
+                        "displayTitle": "1510 Automatic Sprinkler System",
+                        "hasExpanderArrow": true,
+                        "href": "#1510",
+                        "isCodeDivider": false,
+                        "isCodeDividerClickable": false,
+                        "reference": "1510"
+                    },
+                    {
+                        "amendType": null,
+                        "children": [
+                            {
+                                "amendType": null,
+                                "children": [],
+                                "depth": 2,
+                                "displayTitle": "1511.1 Construction Sites",
+                                "hasExpanderArrow": false,
+                                "href": "#1511.1",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "reference": "1511.1"
+                            }
+                        ],
+                        "depth": 1,
+                        "displayTitle": "1511 Accessibility",
+                        "hasExpanderArrow": true,
+                        "href": "#1511",
+                        "isCodeDivider": false,
+                        "isCodeDividerClickable": false,
+                        "reference": "1511"
+                    },
+                    {
+                        "amendType": null,
+                        "children": [
+                            {
+                                "amendType": null,
+                                "children": [],
+                                "depth": 2,
+                                "displayTitle": "1512.1 When Required",
+                                "hasExpanderArrow": false,
+                                "href": "#1512.1",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "reference": "1512.1"
+                            },
+                            {
+                                "amendType": null,
+                                "children": [],
+                                "depth": 2,
+                                "displayTitle": "1512.2 Combustible Building Materials",
+                                "hasExpanderArrow": false,
+                                "href": "#1512.2",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "reference": "1512.2"
+                            },
+                            {
+                                "amendType": null,
+                                "children": [
+                                    {
+                                        "amendType": null,
+                                        "children": [],
+                                        "depth": 3,
+                                        "displayTitle": "1512.3.1 Fire Separation Up to 30 Feet",
+                                        "hasExpanderArrow": false,
+                                        "href": "#1512.3.1",
+                                        "isCodeDivider": false,
+                                        "isCodeDividerClickable": false,
+                                        "reference": "1512.3.1"
+                                    },
+                                    {
+                                        "amendType": null,
+                                        "children": [],
+                                        "depth": 3,
+                                        "displayTitle": "1512.3.2 Fire Separation of 30 Feet Up to 60 Feet",
+                                        "hasExpanderArrow": false,
+                                        "href": "#1512.3.2",
+                                        "isCodeDivider": false,
+                                        "isCodeDividerClickable": false,
+                                        "reference": "1512.3.2"
+                                    },
+                                    {
+                                        "amendType": null,
+                                        "children": [],
+                                        "depth": 3,
+                                        "displayTitle": "1512.3.3 Fire Separation of 60 Feet or Greater",
+                                        "hasExpanderArrow": false,
+                                        "href": "#1512.3.3",
+                                        "isCodeDivider": false,
+                                        "isCodeDividerClickable": false,
+                                        "reference": "1512.3.3"
+                                    }
+                                ],
+                                "depth": 2,
+                                "displayTitle": "1512.3 Vertical Construction of Types III, IV and V Construction",
+                                "hasExpanderArrow": true,
+                                "href": "#1512.3",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "reference": "1512.3"
+                            },
+                            {
+                                "amendType": null,
+                                "children": [],
+                                "depth": 2,
+                                "displayTitle": "1512.4 Vertical Construction, Types I and II Construction",
+                                "hasExpanderArrow": false,
+                                "href": "#1512.4",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "reference": "1512.4"
+                            },
+                            {
+                                "amendType": null,
+                                "children": [],
+                                "depth": 2,
+                                "displayTitle": "1512.5 Standpipe Supply",
+                                "hasExpanderArrow": false,
+                                "href": "#1512.5",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "reference": "1512.5"
+                            }
+                        ],
+                        "depth": 1,
+                        "displayTitle": "1512 Water Supply for Fire Protection",
+                        "hasExpanderArrow": true,
+                        "href": "#1512",
+                        "isCodeDivider": false,
+                        "isCodeDividerClickable": false,
+                        "reference": "1512"
+                    }
+                ],
+                "title": "Chapter 15 Construction Safeguards: North Dakota Existing Building Code 2024 | UpCodes",
+                "leanChapterLines": [
+                    {
+                        "displayTitle": "Chapter 1 Scope and Administration",
+                        "isExpandable": true,
+                        "reference": "1",
+                        "slug": "scope-and-administration"
+                    },
+                    {
+                        "displayTitle": "Chapter 2 Definitions",
+                        "isExpandable": true,
+                        "reference": "2",
+                        "slug": "definitions"
+                    },
+                    {
+                        "displayTitle": "Chapter 3 Provisions for All Compliance Methods",
+                        "isExpandable": true,
+                        "reference": "3",
+                        "slug": "provisions-for-all-compliance-methods"
+                    },
+                    {
+                        "displayTitle": "Chapter 4 Repairs",
+                        "isExpandable": true,
+                        "reference": "4",
+                        "slug": "repairs"
+                    },
+                    {
+                        "displayTitle": "Chapter 5 Prescriptive Compliance Method",
+                        "isExpandable": true,
+                        "reference": "5",
+                        "slug": "prescriptive-compliance-method"
+                    },
+                    {
+                        "displayTitle": "Chapter 6 Classification of Work",
+                        "isExpandable": true,
+                        "reference": "6",
+                        "slug": "classification-of-work"
+                    },
+                    {
+                        "displayTitle": "Chapter 7 Alterations\u2014Level 1",
+                        "isExpandable": true,
+                        "reference": "7",
+                        "slug": "alterations-level-1"
+                    },
+                    {
+                        "displayTitle": "Chapter 8 Alterations\u2014Level 2",
+                        "isExpandable": true,
+                        "reference": "8",
+                        "slug": "alterations-level-2"
+                    },
+                    {
+                        "displayTitle": "Chapter 9 Alterations\u2014Level 3",
+                        "isExpandable": true,
+                        "reference": "9",
+                        "slug": "alterations-level-3"
+                    },
+                    {
+                        "displayTitle": "Chapter 10 Change of Occupancy",
+                        "isExpandable": true,
+                        "reference": "10",
+                        "slug": "change-of-occupancy"
+                    },
+                    {
+                        "displayTitle": "Chapter 11 Additions",
+                        "isExpandable": true,
+                        "reference": "11",
+                        "slug": "additions"
+                    },
+                    {
+                        "displayTitle": "Chapter 12 Historic Buildings",
+                        "isExpandable": true,
+                        "reference": "12",
+                        "slug": "historic-buildings"
+                    },
+                    {
+                        "displayTitle": "Chapter 13 Performance Compliance Methods",
+                        "isExpandable": true,
+                        "reference": "13",
+                        "slug": "performance-compliance-methods"
+                    },
+                    {
+                        "displayTitle": "Chapter 14 Relocated or Moved Buildings",
+                        "isExpandable": true,
+                        "reference": "14",
+                        "slug": "relocated-or-moved-buildings"
+                    },
+                    {
+                        "displayTitle": "Chapter 15 Construction Safeguards",
+                        "isExpandable": true,
+                        "reference": "15",
+                        "slug": "construction-safeguards"
+                    },
+                    {
+                        "amendType": "edit",
+                        "displayTitle": "Chapter 16 Referenced Standards",
+                        "reference": "16",
+                        "slug": "referenced-standards"
+                    },
+                    {
+                        "disabled": true,
+                        "displayTitle": "Appendix A Guidelines for the Seismic Retrofit of Existing Buildings",
+                        "reference": "A",
+                        "slug": "guidelines-for-the-seismic-retrofit-of-existing-buildings"
+                    },
+                    {
+                        "disabled": true,
+                        "displayTitle": "Appendix B Supplementary Accessibility Requirements for Existing Buildings and Facilities",
+                        "reference": "B",
+                        "slug": "supplementary-accessibility-requirements-for-existing-buildings-and-facilities"
+                    },
+                    {
+                        "disabled": true,
+                        "displayTitle": "Appendix C Guidelines for the Wind Retrofit of Existing Buildings",
+                        "reference": "C",
+                        "slug": "guidelines-for-the-wind-retrofit-of-existing-buildings"
+                    },
+                    {
+                        "disabled": true,
+                        "displayTitle": "Appendix D Board of Appeals",
+                        "reference": "D",
+                        "slug": "board-of-appeals"
+                    },
+                    {
+                        "disabled": true,
+                        "displayTitle": "Appendix E Temporary Emergency Uses",
+                        "reference": "E",
+                        "slug": "temporary-emergency-uses"
+                    },
+                    {
+                        "disabled": true,
+                        "displayTitle": "Resource A Guidelines on Fire Ratings of Archaic Materials and Assemblies",
+                        "reference": "resource_A",
+                        "slug": "guidelines-on-fire-ratings-of-archaic-materials-and-assemblies"
+                    }
+                ],
+                "leanCodeSectionsTree": [
+                    {
+                        "ancestorRefs": [],
+                        "body": "<div class=\"u-mt-4\"><div class=\"u-mt-3 u-font-bold u-mb-3\">User notes:</div><div class=\"u-italic u-mt-3 u-mb-3\"><span class=\"u-font-bold\">About this chapter: </span>Chapter 15                             looks to the construction process. Parameters are provided for                             demolition and for protecting adjacent property during demolition and                             construction. Issues such as how to provide egress and adequate water                             supply while the building is growing, the timing of standpipe and                             sprinkler installation, and protection of pedestrians are addressed.                             Note that this chapter is consistent with <a class=\"autolink\" href=\"/viewer/north_dakota/ibc-2024/chapter/33/safeguards-during-construction#33\">Chapter 33</a> of the <a class=\"autolink\" href=\"/viewer/north_dakota/ibc-2024\">International Building                             Code</a> and Chapter 33 of the International Fire Code.</div></div>",
+                        "depth": 0,
+                        "diagrams": [],
+                        "displayRef": null,
+                        "displayTitle": "Chapter 15 Construction Safeguards",
+                        "divisionType": "Chapter",
+                        "hasAssemblies": false,
+                        "isContiguous": true,
+                        "numAssembliesOnRef": 0,
+                        "numBuildingProductsOnRef": 0,
+                        "numDiagramsOnRef": 0,
+                        "reference": "15",
+                        "slug": "construction-safeguards",
+                        "titleText": "Construction Safeguards",
+                        "children": [
+                            {
+                                "ancestorRefs": [
+                                    "15"
+                                ],
+                                "depth": 1,
+                                "diagrams": [],
+                                "displayRef": null,
+                                "displayTitle": "Section 1501 General",
+                                "divisionType": "Section",
+                                "hasAssemblies": false,
+                                "isContiguous": true,
+                                "numAssembliesOnRef": 0,
+                                "numBuildingProductsOnRef": 0,
+                                "numDiagramsOnRef": 0,
+                                "reference": "1501",
+                                "slug": "construction-safeguards",
+                                "titleText": "General",
+                                "children": [
+                                    {
+                                        "ancestorRefs": [
+                                            "15",
+                                            "1501"
+                                        ],
+                                        "body": "<div>The provisions of this chapter shall govern safety during construction                             and the protection of adjacent public and private properties.&nbsp;Fire                                 safety during construction shall also comply with the applicable                                 provisions of Chapter 33 of the <span class=\"u-italic\">International Fire Code.</span></div>",
+                                        "depth": 2,
+                                        "diagrams": [],
+                                        "displayRef": null,
+                                        "displayTitle": "[BG]  1501.1 Scope",
+                                        "hasAssemblies": false,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 0,
+                                        "numDiagramsOnRef": 0,
+                                        "reference": "1501.1",
+                                        "refPrefix": "[BG]",
+                                        "slug": "construction-safeguards",
+                                        "titleText": "Scope",
+                                        "children": []
+                                    },
+                                    {
+                                        "ancestorRefs": [
+                                            "15",
+                                            "1501"
+                                        ],
+                                        "body": "<div>Construction equipment and materials shall be stored and placed so as                             not to endanger the public, the workers or adjoining property for the                             duration of the construction project.</div>",
+                                        "depth": 2,
+                                        "diagrams": [],
+                                        "displayRef": null,
+                                        "displayTitle": "[BG]  1501.2 Storage and Placement of Construction Equipment and Materials",
+                                        "hasAssemblies": false,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 0,
+                                        "numDiagramsOnRef": 0,
+                                        "reference": "1501.2",
+                                        "refPrefix": "[BG]",
+                                        "slug": "construction-safeguards",
+                                        "titleText": "Storage and Placement of Construction Equipment and Materials",
+                                        "children": []
+                                    },
+                                    {
+                                        "ancestorRefs": [
+                                            "15",
+                                            "1501"
+                                        ],
+                                        "body": "<div>Structural roof components shall be capable of supporting the                             roof-covering system and the material and equipment loads that will be                             encountered during installation of the system.</div>",
+                                        "depth": 2,
+                                        "diagrams": [],
+                                        "displayRef": null,
+                                        "displayTitle": "[BS]  1501.3 Roof Loads",
+                                        "hasAssemblies": false,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 0,
+                                        "numDiagramsOnRef": 0,
+                                        "reference": "1501.3",
+                                        "refPrefix": "[BS]",
+                                        "slug": "construction-safeguards",
+                                        "titleText": "Roof Loads",
+                                        "children": []
+                                    },
+                                    {
+                                        "ancestorRefs": [
+                                            "15",
+                                            "1501"
+                                        ],
+                                        "body": "<div><div class=\"u-mt-3 u-mb-3\">Required exits, existing structural elements, fire protection devices                                 and sanitary safeguards shall be maintained at all times during                                     <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/north_dakota/iebc-2024/chapter/2/definitions#alteration_\">alterations</a></span>, <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/north_dakota/iebc-2024/chapter/2/definitions#repair_\">repairs</a></span> or <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/north_dakota/iebc-2024/chapter/2/definitions#addition_\">additions</a></span> to any building or                                 structure.</div><div class=\"u-ml-4\"><div class=\"u-mt-3 u-mb-3\"><span class=\"u-font-bold\">Exceptions:</span></div><ol><li>Where such required                                                 elements or devices are being altered or repaired,                                                 adequate substitute provisions shall be made.</li><li>Maintenance of such                                                 elements and devices is not required where the <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/north_dakota/iebc-2024/chapter/2/definitions#existing_building_\">existing building</a></span> is                                                 not occupied.</li></ol></div></div>",
+                                        "depth": 2,
+                                        "diagrams": [],
+                                        "displayRef": null,
+                                        "displayTitle": "[BG]  1501.4 Maintenance of Exits, Existing Structural Elements, Fire Protection Devices and Sanitary Safeguards",
+                                        "hasAssemblies": false,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 0,
+                                        "numDiagramsOnRef": 0,
+                                        "reference": "1501.4",
+                                        "refPrefix": "[BG]",
+                                        "slug": "construction-safeguards",
+                                        "titleText": "Maintenance of Exits, Existing Structural Elements, Fire Protection Devices and Sanitary Safeguards",
+                                        "children": []
+                                    },
+                                    {
+                                        "ancestorRefs": [
+                                            "15",
+                                            "1501"
+                                        ],
+                                        "body": "<div>Waste materials shall be removed in a manner that prevents injury or                             damage to persons, adjoining properties and public rights-of-way.</div>",
+                                        "depth": 2,
+                                        "diagrams": [],
+                                        "displayRef": null,
+                                        "displayTitle": "[BG]  1501.5 Removal of Waste Materials",
+                                        "hasAssemblies": false,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 0,
+                                        "numDiagramsOnRef": 0,
+                                        "reference": "1501.5",
+                                        "refPrefix": "[BG]",
+                                        "slug": "construction-safeguards",
+                                        "titleText": "Removal of Waste Materials",
+                                        "children": []
+                                    }
+                                ]
+                            },
+                            {
+                                "ancestorRefs": [
+                                    "15"
+                                ],
+                                "depth": 1,
+                                "diagrams": [],
+                                "displayRef": null,
+                                "displayTitle": "Section 1502 Owner's Responsibility for Fire Protection",
+                                "divisionType": "Section",
+                                "hasAssemblies": false,
+                                "isContiguous": true,
+                                "numAssembliesOnRef": 0,
+                                "numBuildingProductsOnRef": 0,
+                                "numDiagramsOnRef": 0,
+                                "reference": "1502",
+                                "slug": "construction-safeguards",
+                                "titleText": "Owner's Responsibility for Fire Protection",
+                                "children": [
+                                    {
+                                        "ancestorRefs": [
+                                            "15",
+                                            "1502"
+                                        ],
+                                        "body": "<div>The                                 owner or owner's authorized agent shall be responsible for the                                 development, implementation and maintenance of an <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/north_dakota/iebc-2024/chapter/2/definitions#approved_\">approved</a></span>, written site safety plan                                 establishing a fire prevention program at the project site                                 applicable throughout all phases of the construction, <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/north_dakota/iebc-2024/chapter/2/definitions#repair_\">repair</a></span>, <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/north_dakota/iebc-2024/chapter/2/definitions#alteration_\">alteration</a></span> or demolition work. The plan shall be                                 submitted and <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/north_dakota/iebc-2024/chapter/2/definitions#approved_\">approved</a></span> before a                                 building permit is issued, Any changes to the plan shall address the                                 requirements of this chapter and other applicable portions of the                                     <span class=\"u-italic\">International Fire Code</span>, the duties of staff and                                 staff training requirements. The plan shall be submitted for                                 approval in accordance with the <span class=\"u-italic\">International Fire Code</span>. </div>",
+                                        "depth": 2,
+                                        "diagrams": [],
+                                        "displayRef": null,
+                                        "displayTitle": "[F]  1502.1 Site Safety Plan",
+                                        "hasAssemblies": false,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 0,
+                                        "numDiagramsOnRef": 0,
+                                        "reference": "1502.1",
+                                        "refPrefix": "[F]",
+                                        "slug": "construction-safeguards",
+                                        "titleText": "Site Safety Plan",
+                                        "children": [
+                                            {
+                                                "ancestorRefs": [
+                                                    "15",
+                                                    "1502",
+                                                    "1502.1"
+                                                ],
+                                                "body": "<div>Site                                     safety plans shall include the following as applicable: <ol><li>Name and contact                                                   information of site safety director.</li><li>Documentation of the                                                   training of the site safety director and fire                                                   watch personnel.</li><li>Procedures for                                                   reporting emergencies.</li><li>Fire department                                                   vehicle access routes.</li><li>Location of fire                                                   protection equipment, including portable fire                                                   extinguishers, standpipes, fire department                                                   connections and fire hydrants.</li><li>Smoking and cooking                                                   policies, designated areas to be used where                                                   <a class=\"autolink\" href=\"/viewer/north_dakota/iebc-2024/chapter/2/definitions#approved_\">approved</a> and signage locations in accordance with                                                   the International Fire Code.</li><li>Location and safety                                                   considerations for temporary heating                                                   equipment.</li><li>Hot work permit                                                   plan.</li><li>Plans for control of                                                   combustible waste material.</li><li>Locations and                                                   methods for storage and use of flammable and                                                   combustible liquids and other hazardous                                                   materials.</li><li>Provisions for site                                                   security and, where required, for a fire                                                   watch.</li><li>Changes that affect                                                   this plan.</li><li>Other site-specific                                                   information required by the International Fire Code.</li></ol>                                 </div>",
+                                                "depth": 3,
+                                                "diagrams": [],
+                                                "displayRef": null,
+                                                "displayTitle": "[F]  1502.1.1 Components of Site Safety Plans",
+                                                "hasAssemblies": false,
+                                                "isContiguous": true,
+                                                "numAssembliesOnRef": 0,
+                                                "numBuildingProductsOnRef": 0,
+                                                "numDiagramsOnRef": 0,
+                                                "reference": "1502.1.1",
+                                                "refPrefix": "[F]",
+                                                "slug": "construction-safeguards",
+                                                "titleText": "Components of Site Safety Plans",
+                                                "children": []
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "ancestorRefs": [
+                                            "15",
+                                            "1502"
+                                        ],
+                                        "body": "<div>The                                 owner shall designate a person to be the site safety director. The                                 site safety director shall be responsible for ensuring compliance                                 with the site safety plan. The site safety director shall have the                                 authority to enforce the provisions of this chapter and other                                 provisions as necessary to secure the intent of this chapter. Where                                 guard service is provided in accordance with the <span class=\"u-italic\">International Fire Code</span>, the site safety                                 director shall be responsible for the guard service.</div>",
+                                        "depth": 2,
+                                        "diagrams": [],
+                                        "displayRef": null,
+                                        "displayTitle": "[F]  1502.2 Site Safety Director",
+                                        "hasAssemblies": false,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 0,
+                                        "numDiagramsOnRef": 0,
+                                        "reference": "1502.2",
+                                        "refPrefix": "[F]",
+                                        "slug": "construction-safeguards",
+                                        "titleText": "Site Safety Director",
+                                        "children": []
+                                    },
+                                    {
+                                        "ancestorRefs": [
+                                            "15",
+                                            "1502"
+                                        ],
+                                        "body": "<div>The site                                 safety director shall be responsible for completion of a daily fire                                 safety inspection at the project site. Each day, all building and                                 outdoor areas shall be inspected to ensure compliance with the                                 inspection list in this section. The results of each inspection                                 shall be documented and maintained on-site until a certificate of                                 occupancy has been issued. Documentation shall be immediately                                 available on-site for inspection and review.<div><ol><li>Any contractors                                                   entering the site to perform hot work each day                                                   have been instructed in the hot work safety                                                   requirements in the <span class=\"u-italic\">International Fire Code</span>, and hot work                                                   is performed only in areas <a class=\"autolink\" href=\"/viewer/north_dakota/iebc-2024/chapter/2/definitions#approved_\">approved</a> by the site                                                   safety director.</li><li>Temporary heating                                                   equipment is maintained away from combustible                                                   materials in accordance with the equipment                                                   manufacturer's instructions.</li><li>Combustible debris,                                                   rubbish and waste material is removed from the                                                   building in areas where work is not being                                                   performed.</li><li>Temporary wiring                                                   does not have exposed conductors.</li><li>Flammable liquids                                                   and other hazardous materials are stored in                                                   locations that have been <a class=\"autolink\" href=\"/viewer/north_dakota/iebc-2024/chapter/2/definitions#approved_\">approved</a> by the site                                                   safety director when not involved in work that is                                                   being performed.</li><li>Fire apparatus                                                   access roads required by the <span class=\"u-italic\">International Fire Code</span> are maintained                                                   clear of obstructions that reduce the width of the                                                   usable roadway to less than 20 feet (6096 mm).</li><li>Fire hydrants are                                                   clearly visible from access roads and are not                                                   obstructed.</li><li>The location of fire                                                   department connections to standpipe and in-service                                                   sprinkler systems are clearly identifiable from                                                   the access road and such connections are not                                                   obstructed.</li><li>Standpipe systems                                                   are in service and continuous to the highest work                                                   floor, as specified in <a class=\"autolink\" href=\"#1509\">Section                                                   1509</a>.</li><li>Portable fire                                                   extinguishers are available in locations required                                                   by <a class=\"autolink\" href=\"#1507\">Section 1507</a>                                                   and for roofing operations in accordance with the                                                   <span class=\"u-italic\">International Fire Code</span>.</li><li>Where a fire watch                                                   is required, fire watch records complying with                                                   the <span class=\"u-italic\">International Fire Code</span> are                                                   up-to-date.</li></ol></div></div>",
+                                        "depth": 2,
+                                        "diagrams": [],
+                                        "displayRef": null,
+                                        "displayTitle": "[F]  1502.3 Daily Fire Safety Inspection",
+                                        "hasAssemblies": false,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 0,
+                                        "numDiagramsOnRef": 0,
+                                        "reference": "1502.3",
+                                        "refPrefix": "[F]",
+                                        "slug": "construction-safeguards",
+                                        "titleText": "Daily Fire Safety Inspection",
+                                        "children": [
+                                            {
+                                                "ancestorRefs": [
+                                                    "15",
+                                                    "1502",
+                                                    "1502.3"
+                                                ],
+                                                "body": "<div>Failure to properly conduct, document and maintain                                     documentation required by this section shall constitute an                                     unlawful act in accordance with <a class=\"autolink\" href=\"/viewer/north_dakota/iebc-2024/chapter/1/scope-and-administration#113.1\">Section 113.1</a> and shall                                     result in the issuance of a notice of violation to the site                                     safety director in accordance with <a class=\"autolink\" href=\"/viewer/north_dakota/iebc-2024/chapter/1/scope-and-administration#113.2\">Section 113.2</a>. Upon the                                     third offense, the <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/north_dakota/iebc-2024/chapter/2/definitions#code_official_\">code                                         official</a></span> is authorized to issue a stop work order in                                     accordance with <a class=\"autolink\" href=\"/viewer/north_dakota/iebc-2024/chapter/1/scope-and-administration#114\">Section 114</a>, and work                                     shall not resume until satisfactory assurances of future                                     compliance have been presented to and <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/north_dakota/iebc-2024/chapter/2/definitions#approved_\">approved</a></span> by the <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/north_dakota/iebc-2024/chapter/2/definitions#code_official_\">code                                         official</a></span>.</div>",
+                                                "depth": 3,
+                                                "diagrams": [],
+                                                "displayRef": null,
+                                                "displayTitle": "[F]  1502.3.1 Violations",
+                                                "hasAssemblies": false,
+                                                "isContiguous": true,
+                                                "numAssembliesOnRef": 0,
+                                                "numBuildingProductsOnRef": 0,
+                                                "numDiagramsOnRef": 0,
+                                                "reference": "1502.3.1",
+                                                "refPrefix": "[F]",
+                                                "slug": "construction-safeguards",
+                                                "titleText": "Violations",
+                                                "children": []
+                                            }
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "ancestorRefs": [
+                                    "15"
+                                ],
+                                "depth": 1,
+                                "diagrams": [],
+                                "displayRef": null,
+                                "displayTitle": "Section 1503 Sanitary",
+                                "divisionType": "Section",
+                                "hasAssemblies": false,
+                                "isContiguous": true,
+                                "numAssembliesOnRef": 0,
+                                "numBuildingProductsOnRef": 0,
+                                "numDiagramsOnRef": 0,
+                                "reference": "1503",
+                                "slug": "construction-safeguards",
+                                "titleText": "Sanitary",
+                                "children": [
+                                    {
+                                        "amendType": "edit",
+                                        "ancestorRefs": [
+                                            "15",
+                                            "1503"
+                                        ],
+                                        "body": "<div>Sanitary facilities shall be provided during construction or demolition activities in accordance with the <span class=\"code_addition\">North Dakota State </span>Plumbing Code.</div>",
+                                        "depth": 2,
+                                        "diagrams": [],
+                                        "displayRef": null,
+                                        "displayTitle": "[BG]  1503.1 Facilities Required",
+                                        "hasAssemblies": false,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 0,
+                                        "numDiagramsOnRef": 0,
+                                        "reference": "1503.1",
+                                        "refPrefix": "[BG]",
+                                        "slug": "construction-safeguards",
+                                        "titleText": "Facilities Required",
+                                        "children": []
+                                    }
+                                ]
+                            },
+                            {
+                                "ancestorRefs": [
+                                    "15"
+                                ],
+                                "depth": 1,
+                                "diagrams": [],
+                                "displayRef": null,
+                                "displayTitle": "Section 1504 Protection of Pedestrians",
+                                "divisionType": "Section",
+                                "hasAssemblies": false,
+                                "isContiguous": true,
+                                "numAssembliesOnRef": 0,
+                                "numBuildingProductsOnRef": 0,
+                                "numDiagramsOnRef": 0,
+                                "reference": "1504",
+                                "slug": "construction-safeguards",
+                                "titleText": "Protection of Pedestrians",
+                                "children": [
+                                    {
+                                        "ancestorRefs": [
+                                            "15",
+                                            "1504"
+                                        ],
+                                        "body": "<div>Pedestrians shall be protected during construction and demolition                             activities as required by Sections <a class=\"autolink\" href=\"#1504.1.1\">1504.1.1</a> through <a class=\"autolink\" href=\"#1504.1.7\">1504.1.7</a> and Table 1504.1. Signs                             shall be provided to direct pedestrian traffic.</div><figure><figcaption><div class=\"u-mt-3 u-mb-3\"><a id=\"table_1504.1\" href=\"#table_1504.1\" class=\"autolink_target\">TABLE 1504.1</a></div><div class=\"u-mt-3 u-mb-3\">PROTECTION OF                                     PEDESTRIANS</div></figcaption><table class=\"uc_all_borders\">             <tbody><tr>                                                                                                                     <td class=\"uc_all_borders u-align-middle u-text-center\" colspan=\"1\" rowspan=\"1\"><span class=\"u-font-bold\">HEIGHT OF                                                 CONSTRUCTION</span></td>                                                                                                        <td class=\"uc_all_borders u-align-middle u-text-center\" colspan=\"1\" rowspan=\"1\"><span class=\"u-font-bold\">DISTANCE OF                                                 CONSTRUCTION TO LOT LINE</span></td>                                                                                                        <td class=\"uc_all_borders u-align-middle u-text-center\" colspan=\"1\" rowspan=\"1\"><span class=\"u-font-bold\">TYPE OF PROTECTION                                                 REQUIRED</span></td>        </tr>             <tr>                                                                                                                     <td class=\"u-align-middle u-text-left uc_all_borders\" colspan=\"1\" rowspan=\"2\">8                                             feet or less</td>                                                                                                        <td class=\"uc_all_borders u-align-middle u-text-center\" colspan=\"1\" rowspan=\"1\">Less than 5 feet</td>                                                                                                        <td class=\"uc_all_borders u-align-middle u-text-center\" colspan=\"1\" rowspan=\"1\">Construction railings</td>        </tr>             <tr>                                                                                                                     <td class=\"uc_all_borders u-align-middle u-text-center\" colspan=\"1\" rowspan=\"1\">5 feet or more</td>                                                                                                        <td class=\"uc_all_borders u-align-middle u-text-center\" colspan=\"1\" rowspan=\"1\">None</td>        </tr>             <tr>                                                                                                                     <td class=\"u-align-middle u-text-left uc_all_borders\" colspan=\"1\" rowspan=\"4\">More than 8 feet</td>                                                                                                        <td class=\"uc_all_borders u-align-middle u-text-center\" colspan=\"1\" rowspan=\"1\">Less than 5 feet</td>                                                                                                        <td class=\"uc_all_borders u-align-middle u-text-center\" colspan=\"1\" rowspan=\"1\">Barrier and covered walkway</td>        </tr>             <tr>                                                                                                                     <td class=\"uc_all_borders u-align-middle u-text-center\" colspan=\"1\" rowspan=\"1\">5 feet or more, but not more than                                             one-fourth the height of construction</td>                                                                                                        <td class=\"uc_all_borders u-align-middle u-text-center\" colspan=\"1\" rowspan=\"1\">Barrier and covered walkway</td>        </tr>             <tr>                                                                                                                     <td class=\"uc_all_borders u-align-middle u-text-center\" colspan=\"1\" rowspan=\"1\">5 feet or more, but between one-fourth                                             and one-half the height of construction</td>                                                                                                        <td class=\"uc_all_borders u-align-middle u-text-center\" colspan=\"1\" rowspan=\"1\">Barrier</td>        </tr>             <tr>                                                                                                                     <td class=\"uc_all_borders u-align-middle u-text-center\" colspan=\"1\" rowspan=\"1\">5 feet or more, but exceeding one-half                                             the height of construction</td>                                                                                                        <td class=\"uc_all_borders u-align-middle u-text-center\" colspan=\"1\" rowspan=\"1\">None</td>        </tr>     </tbody></table>  <div class=\"u-text-12px u-mt-3 u-mb-3\"><span>For SI:</span> 1 foot = 304.8 mm.</div></figure>",
+                                        "depth": 2,
+                                        "diagrams": [],
+                                        "displayRef": null,
+                                        "displayTitle": "[BS]  1504.1 Protection of Pedestrians",
+                                        "hasAssemblies": false,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 0,
+                                        "numDiagramsOnRef": 0,
+                                        "reference": "1504.1",
+                                        "refPrefix": "[BS]",
+                                        "slug": "construction-safeguards",
+                                        "titleText": "Protection of Pedestrians",
+                                        "children": [
+                                            {
+                                                "ancestorRefs": [
+                                                    "15",
+                                                    "1504",
+                                                    "1504.1"
+                                                ],
+                                                "body": "<div>A walkway shall be provided for pedestrian travel in front of every                                 construction and demolition site unless the applicable governing                                 authority authorizes the sidewalk to be fenced or closed. A walkway                                 shall be provided for pedestrian travel that leads from a building                                 entrance or exit of an occupied structure to a public way. Walkways                                 shall be of sufficient width to accommodate the pedestrian traffic,                                 but shall be not less than 4 feet (1219 mm) in width. Walkways shall                                 be provided with a durable walking surface and shall be accessible                                 in accordance with <a class=\"autolink\" href=\"/viewer/north_dakota/ibc-2024/chapter/11/accessibility#11\">Chapter 11</a> of the <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/north_dakota/ibc-2024\">International Building Code</a></span>. Walkways                                 shall be designed to support all imposed loads and the design live                                 load shall be not less than 150 pounds per square foot (psf) (7.2                                     kN/m<sup>2</sup>).</div>",
+                                                "depth": 3,
+                                                "diagrams": [],
+                                                "displayRef": null,
+                                                "displayTitle": "[BS]  1504.1.1 Walkways",
+                                                "hasAssemblies": false,
+                                                "isContiguous": true,
+                                                "numAssembliesOnRef": 0,
+                                                "numBuildingProductsOnRef": 0,
+                                                "numDiagramsOnRef": 0,
+                                                "reference": "1504.1.1",
+                                                "refPrefix": "[BS]",
+                                                "slug": "construction-safeguards",
+                                                "titleText": "Walkways",
+                                                "children": []
+                                            },
+                                            {
+                                                "ancestorRefs": [
+                                                    "15",
+                                                    "1504",
+                                                    "1504.1"
+                                                ],
+                                                "body": "<div>Pedestrian traffic shall be protected by a directional barricade                                 where the walkway extends into the street. The directional barricade                                 shall be of sufficient size and construction to direct vehicular                                 traffic away from the pedestrian path.</div>",
+                                                "depth": 3,
+                                                "diagrams": [],
+                                                "displayRef": null,
+                                                "displayTitle": "[BS]  1504.1.2 Directional Barricades",
+                                                "hasAssemblies": false,
+                                                "isContiguous": true,
+                                                "numAssembliesOnRef": 0,
+                                                "numBuildingProductsOnRef": 0,
+                                                "numDiagramsOnRef": 0,
+                                                "reference": "1504.1.2",
+                                                "refPrefix": "[BS]",
+                                                "slug": "construction-safeguards",
+                                                "titleText": "Directional Barricades",
+                                                "children": []
+                                            },
+                                            {
+                                                "ancestorRefs": [
+                                                    "15",
+                                                    "1504",
+                                                    "1504.1"
+                                                ],
+                                                "body": "<div>Construction railings shall be not less than 42 inches (1067 mm) in                                 height and shall be sufficient to direct pedestrians around                                 construction areas.</div>",
+                                                "depth": 3,
+                                                "diagrams": [],
+                                                "displayRef": null,
+                                                "displayTitle": "[BS]  1504.1.3 Construction Railings",
+                                                "hasAssemblies": false,
+                                                "isContiguous": true,
+                                                "numAssembliesOnRef": 0,
+                                                "numBuildingProductsOnRef": 0,
+                                                "numDiagramsOnRef": 0,
+                                                "reference": "1504.1.3",
+                                                "refPrefix": "[BS]",
+                                                "slug": "construction-safeguards",
+                                                "titleText": "Construction Railings",
+                                                "children": []
+                                            },
+                                            {
+                                                "ancestorRefs": [
+                                                    "15",
+                                                    "1504",
+                                                    "1504.1"
+                                                ],
+                                                "body": "<div>Barriers shall be not less than 8 feet (2438 mm) in height and                                 shall be placed on the side of the walkway nearest the construction.                                 Barriers shall extend the entire length of the construction site.                                 Openings in such barriers shall be protected by doors that are                                 normally kept closed.</div>",
+                                                "depth": 3,
+                                                "diagrams": [],
+                                                "displayRef": null,
+                                                "displayTitle": "[BS]  1504.1.4 Barriers",
+                                                "hasAssemblies": false,
+                                                "isContiguous": true,
+                                                "numAssembliesOnRef": 0,
+                                                "numBuildingProductsOnRef": 0,
+                                                "numDiagramsOnRef": 0,
+                                                "reference": "1504.1.4",
+                                                "refPrefix": "[BS]",
+                                                "slug": "construction-safeguards",
+                                                "titleText": "Barriers",
+                                                "children": [
+                                                    {
+                                                        "ancestorRefs": [
+                                                            "15",
+                                                            "1504",
+                                                            "1504.1",
+                                                            "1504.1.4"
+                                                        ],
+                                                        "body": "<div>\n<div class=\"u-mt-3 u-mb-3\">Barriers shall be designed to resist loads required in <a class=\"autolink\" href=\"/viewer/north_dakota/ibc-2024/chapter/16/structural-design#16\">Chapter 16</a> of the <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/north_dakota/ibc-2024\">International Building Code</a></span> unless constructed as follows:</div>\n<ol>\n<li>Barriers shall be provided with 2-inch by 4-inch (51 mm by 102 mm) top and bottom plates.</li>\n<li>The barrier material shall be boards not less than <sup>3</sup>/<sub>4</sub> inch (19.1 mm) in thickness or wood structural use panels not less than <sup>1</sup>/<sub>4</sub> inch (6.4 mm) in thickness.</li>\n<li>Wood structural use panels shall be bonded with an adhesive identical to that for exterior wood structural use panels.</li>\n<li>Wood structural use panels <sup>1</sup>/<sub>4&nbsp;</sub>inch (6.4 mm) or&nbsp;<sup>5</sup>/<sub>16</sub> inch (7.9 mm) in thickness shall have studs spaced not more than 2 feet (610 mm) on center.</li>\n<li>Wood structural use panels <sup>3</sup>/<sub>8</sub> inch (9.5 mm) or <sup>1</sup>/<sub>2</sub> inch (12.7 mm) in thickness shall have studs spaced not more than 4 feet (1219 mm) on center, provided that a 2-inch by 4-inch (51 mm by 102 mm) stiffener is placed horizontally at mid-height where the stud spacing is greater than 2 feet (610 mm) on center.</li>\n<li>Wood structural use panels <sup>5</sup>/<sub>8</sub> inch (15.9 mm) or thicker shall not span over 8 feet (2438 mm).</li>\n</ol>\n</div>",
+                                                        "depth": 4,
+                                                        "diagrams": [],
+                                                        "displayRef": null,
+                                                        "displayTitle": "[BS]  1504.1.4.1 Barrier Design",
+                                                        "hasAssemblies": false,
+                                                        "isContiguous": true,
+                                                        "numAssembliesOnRef": 0,
+                                                        "numBuildingProductsOnRef": 0,
+                                                        "numDiagramsOnRef": 0,
+                                                        "reference": "1504.1.4.1",
+                                                        "refPrefix": "[BS]",
+                                                        "slug": "construction-safeguards",
+                                                        "titleText": "Barrier Design",
+                                                        "children": []
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "ancestorRefs": [
+                                                    "15",
+                                                    "1504",
+                                                    "1504.1"
+                                                ],
+                                                "body": "<div><div class=\"u-mt-3 u-mb-3\">Covered walkways shall have a clear height of not less than 8                                     feet (2438 mm) as measured from the floor surface to the canopy                                     overhead. Adequate lighting shall be provided at all times.                                     Covered walkways shall be designed to support all imposed loads.                                     The design live load shall be not less than 150 psf (7.2                                         kN/m<sup>2</sup>) for the entire structure.</div><div class=\"u-ml-4\"><div class=\"u-mt-3 u-mb-3\"><span class=\"u-font-bold\">Exception:                                             </span>Roofs and supporting structures of covered                                         walkways for new, light-frame construction not exceeding two                                         stories above grade plane are permitted to be designed for a                                         live load of 75 psf (3.6 kN/m<sup>2</sup>) or the loads                                         imposed on them, whichever is greater. In lieu of such                                         designs, the roof and supporting structure of a covered                                         walkway are permitted to be constructed as follows:</div><ol><li>Footings shall be                                                   continuous 2-inch by 6-inch (51 mm by 152 mm)                                                   members.</li><li>Posts not less than                                                   4 inches by 6 inches (102 mm by 152 mm) shall be                                                   provided on both sides of the roof and spaced not                                                   more than 12 feet (3658 mm) on center.</li><li>Stringers not less                                                   than 4 inches by 12 inches (102 mm by 305 mm)                                                   shall be placed on edge on the posts.</li><li>Joists resting on                                                   the stringers shall be not less than 2 inches by 8                                                   inches (51 mm by 203 mm) and shall be spaced not                                                   more than 2 feet (610 mm) on center.</li><li>The deck shall be                                                   planks not less than 2 inches (51 mm) thick or                                                   wood structural panels with an exterior exposure                                                   durability classification not less than                                                   <sup>23</sup>/<sub>32</sub> inch (18.3 mm) thick                                                   nailed to the joists.</li><li>Each post shall be                                                   knee-braced to joists and stringers by members not                                                   less than 2 inches by 4 inches (51 mm by 102 mm);                                                   4 feet (1219 mm) in length.</li><li>A curb that is not                                                   less than 2 inches by 4 inches (51 mm by 102 mm)                                                   shall be set on edge along the outside edge of the                                                   deck.</li></ol></div></div>",
+                                                "depth": 3,
+                                                "diagrams": [],
+                                                "displayRef": null,
+                                                "displayTitle": "[BS]  1504.1.5 Covered Walkways",
+                                                "hasAssemblies": false,
+                                                "isContiguous": true,
+                                                "numAssembliesOnRef": 0,
+                                                "numBuildingProductsOnRef": 0,
+                                                "numDiagramsOnRef": 0,
+                                                "reference": "1504.1.5",
+                                                "refPrefix": "[BS]",
+                                                "slug": "construction-safeguards",
+                                                "titleText": "Covered Walkways",
+                                                "children": []
+                                            },
+                                            {
+                                                "ancestorRefs": [
+                                                    "15",
+                                                    "1504",
+                                                    "1504.1"
+                                                ],
+                                                "body": "<div>Pedestrian protection required by <a class=\"autolink\" href=\"#1504.1\">Section 1504.1</a> shall be                                 maintained in place and kept in good order for the entire length of                                 time pedestrians are subject to being endangered. The owner or the                                 owner's authorized agent, on completion of the construction                                 activity, shall immediately remove walkways, debris and other                                 obstructions and leave such public property in as good a condition                                 as it was before such work was commenced.</div>",
+                                                "depth": 3,
+                                                "diagrams": [],
+                                                "displayRef": null,
+                                                "displayTitle": "[BS]  1504.1.6 Repair, Maintenance and Removal",
+                                                "hasAssemblies": false,
+                                                "isContiguous": true,
+                                                "numAssembliesOnRef": 0,
+                                                "numBuildingProductsOnRef": 0,
+                                                "numDiagramsOnRef": 0,
+                                                "reference": "1504.1.6",
+                                                "refPrefix": "[BS]",
+                                                "slug": "construction-safeguards",
+                                                "titleText": "Repair, Maintenance and Removal",
+                                                "children": []
+                                            },
+                                            {
+                                                "ancestorRefs": [
+                                                    "15",
+                                                    "1504",
+                                                    "1504.1"
+                                                ],
+                                                "body": "<div>Every excavation on a site located 5 feet (1524 mm) or less from                                 the street lot line shall be enclosed with a barrier not less than 6                                 feet (1829 mm) in height. Where located more than 5 feet (1524 mm)                                 from the street lot line, a barrier shall be erected where required                                 by the <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/north_dakota/iebc-2024/chapter/2/definitions#code_official_\">code official</a></span>. Barriers                                 shall be of adequate strength to resist wind pressure as specified                                 in Chapter                                     16 of the <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/north_dakota/ibc-2024\">International Building                                     Code</a></span>.</div>",
+                                                "depth": 3,
+                                                "diagrams": [],
+                                                "displayRef": null,
+                                                "displayTitle": "[BS]  1504.1.7 Adjacent to Excavations",
+                                                "hasAssemblies": false,
+                                                "isContiguous": true,
+                                                "numAssembliesOnRef": 0,
+                                                "numBuildingProductsOnRef": 0,
+                                                "numDiagramsOnRef": 0,
+                                                "reference": "1504.1.7",
+                                                "refPrefix": "[BS]",
+                                                "slug": "construction-safeguards",
+                                                "titleText": "Adjacent to Excavations",
+                                                "children": []
+                                            }
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "ancestorRefs": [
+                                    "15"
+                                ],
+                                "depth": 1,
+                                "diagrams": [],
+                                "displayRef": null,
+                                "displayTitle": "Section 1505 Protection of Adjoining Property",
+                                "divisionType": "Section",
+                                "hasAssemblies": false,
+                                "isContiguous": true,
+                                "numAssembliesOnRef": 0,
+                                "numBuildingProductsOnRef": 0,
+                                "numDiagramsOnRef": 0,
+                                "reference": "1505",
+                                "slug": "construction-safeguards",
+                                "titleText": "Protection of Adjoining Property",
+                                "children": [
+                                    {
+                                        "ancestorRefs": [
+                                            "15",
+                                            "1505"
+                                        ],
+                                        "body": "<div>Adjoining public and private property shall be protected from damage                             during construction and demolition work. Protection must be provided for                             footings, foundations, party walls, chimneys, skylights and roofs.                             Provisions shall be made to control water runoff and erosion during                             construction or demolition activities. The person making or causing an                             excavation to be made shall provide written notice to the owners of                             adjoining buildings advising them that the excavation is to be made and                             that the adjoining buildings should be protected. Said notification                             shall be delivered not less than 10 days prior to the scheduled starting                             date of the excavation.</div>",
+                                        "depth": 2,
+                                        "diagrams": [
+                                            {
+                                                "key": "protection_footing_during_trenching",
+                                                "title": "Protection of Footings during Trenching",
+                                                "descriptionHtml": "<div>Protection of footings during trenching for underground piping is addressed in multiple sections of the code. Plumbing Code and the Residential Code both mention that trenching parallel to footings and walls should not extend into the bearing plane of a footing or wall. Additionally, the Existing Building Code requires adjoining public and private property to be protected from damage during construction and excavation activities. Another relevant section is 1301.11 of the Plumbing Code 2018, which establishes trenching requirements for nonpotable water piping, stating that nonpotable water collection and distribution piping should be separated from the building sewer and potable water piping underground by 5 feet of undisturbed or compacted earth. It is important to follow these guidelines while performing trenching for underground piping to ensure the protection of footings and other structures.</div>",
+                                                "topics": [
+                                                    "Plumbing",
+                                                    "Structural"
+                                                ],
+                                                "phases": [
+                                                    "Construction Docs",
+                                                    "Construction Phase"
+                                                ],
+                                                "supressesChildrenAssociations": false,
+                                                "blacklistJurisdictions": [
+                                                    "new_york_city"
+                                                ],
+                                                "whitelistJurisdictions": [],
+                                                "imageType": "png"
+                                            }
+                                        ],
+                                        "displayRef": null,
+                                        "displayTitle": "[BS]  1505.1 Protection Required",
+                                        "hasAssemblies": false,
+                                        "hasDiagrams": true,
+                                        "hasDiagramsOnRef": true,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 0,
+                                        "numDiagramsOnRef": 1,
+                                        "reference": "1505.1",
+                                        "refPrefix": "[BS]",
+                                        "slug": "construction-safeguards",
+                                        "titleText": "Protection Required",
+                                        "children": []
+                                    },
+                                    {
+                                        "ancestorRefs": [
+                                            "15",
+                                            "1505"
+                                        ],
+                                        "body": "<div>Where a retention system is used to provide support of an excavation                             for protection of adjacent structures, the system shall conform to the                             requirements in <a class=\"autolink\" href=\"#1505.2.1\">Section 1505.2.1</a> through <a class=\"autolink\" href=\"#1505.2.3\">1505.2.3</a>.</div>",
+                                        "depth": 2,
+                                        "diagrams": [],
+                                        "displayRef": null,
+                                        "displayTitle": "[BS]  1505.2 Excavation Retention Systems",
+                                        "hasAssemblies": false,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 0,
+                                        "numDiagramsOnRef": 0,
+                                        "reference": "1505.2",
+                                        "refPrefix": "[BS]",
+                                        "slug": "construction-safeguards",
+                                        "titleText": "Excavation Retention Systems",
+                                        "children": [
+                                            {
+                                                "ancestorRefs": [
+                                                    "15",
+                                                    "1505",
+                                                    "1505.2"
+                                                ],
+                                                "body": "<div>Excavation retention systems shall be designed by a <span class=\"u-italic\">registered design professional</span> to provide                                 vertical and lateral support.</div>",
+                                                "depth": 3,
+                                                "diagrams": [],
+                                                "displayRef": null,
+                                                "displayTitle": "[BS]  1505.2.1 Excavation Retention System Design",
+                                                "hasAssemblies": false,
+                                                "isContiguous": true,
+                                                "numAssembliesOnRef": 0,
+                                                "numBuildingProductsOnRef": 0,
+                                                "numDiagramsOnRef": 0,
+                                                "reference": "1505.2.1",
+                                                "refPrefix": "[BS]",
+                                                "slug": "construction-safeguards",
+                                                "titleText": "Excavation Retention System Design",
+                                                "children": []
+                                            },
+                                            {
+                                                "ancestorRefs": [
+                                                    "15",
+                                                    "1505",
+                                                    "1505.2"
+                                                ],
+                                                "body": "<div>The retention system design shall include requirements for                                 monitoring of the system and adjacent structures for horizontal and                                 vertical movement.</div>",
+                                                "depth": 3,
+                                                "diagrams": [],
+                                                "displayRef": null,
+                                                "displayTitle": "[BS]  1505.2.2 Excavation Retention System Monitoring",
+                                                "hasAssemblies": false,
+                                                "isContiguous": true,
+                                                "numAssembliesOnRef": 0,
+                                                "numBuildingProductsOnRef": 0,
+                                                "numDiagramsOnRef": 0,
+                                                "reference": "1505.2.2",
+                                                "refPrefix": "[BS]",
+                                                "slug": "construction-safeguards",
+                                                "titleText": "Excavation Retention System Monitoring",
+                                                "children": []
+                                            },
+                                            {
+                                                "ancestorRefs": [
+                                                    "15",
+                                                    "1505",
+                                                    "1505.2"
+                                                ],
+                                                "body": "<div>Elements of the system shall only be removed or decommissioned                                 where&nbsp;adequate replacement support is provided by backfill or by the                                 new structure. Removal or decommissioning shall be performed in such                                 a manner that protects the adjacent property.</div>",
+                                                "depth": 3,
+                                                "diagrams": [],
+                                                "displayRef": null,
+                                                "displayTitle": "[BS]  1505.2.3 Retention System Removal",
+                                                "hasAssemblies": false,
+                                                "isContiguous": true,
+                                                "numAssembliesOnRef": 0,
+                                                "numBuildingProductsOnRef": 0,
+                                                "numDiagramsOnRef": 0,
+                                                "reference": "1505.2.3",
+                                                "refPrefix": "[BS]",
+                                                "slug": "construction-safeguards",
+                                                "titleText": "Retention System Removal",
+                                                "children": []
+                                            }
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "ancestorRefs": [
+                                    "15"
+                                ],
+                                "depth": 1,
+                                "diagrams": [],
+                                "displayRef": null,
+                                "displayTitle": "Section 1506 Temporary Use of Streets, Alleys and Public Property",
+                                "divisionType": "Section",
+                                "hasAssemblies": false,
+                                "isContiguous": true,
+                                "numAssembliesOnRef": 0,
+                                "numBuildingProductsOnRef": 0,
+                                "numDiagramsOnRef": 0,
+                                "reference": "1506",
+                                "slug": "construction-safeguards",
+                                "titleText": "Temporary Use of Streets, Alleys and Public Property",
+                                "children": [
+                                    {
+                                        "ancestorRefs": [
+                                            "15",
+                                            "1506"
+                                        ],
+                                        "body": "<div>The temporary use of streets or public property for the storage or                             handling of materials or equipment required for construction or                             demolition, and the protection provided to the public shall comply with                             the provisions of the applicable governing authority and this                             chapter.</div>",
+                                        "depth": 2,
+                                        "diagrams": [],
+                                        "displayRef": null,
+                                        "displayTitle": "[BG]  1506.1 Storage and Handling of Materials",
+                                        "hasAssemblies": false,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 0,
+                                        "numDiagramsOnRef": 0,
+                                        "reference": "1506.1",
+                                        "refPrefix": "[BG]",
+                                        "slug": "construction-safeguards",
+                                        "titleText": "Storage and Handling of Materials",
+                                        "children": []
+                                    },
+                                    {
+                                        "ancestorRefs": [
+                                            "15",
+                                            "1506"
+                                        ],
+                                        "body": "<div>Construction materials and equipment shall not be placed or stored so                             as to obstruct access to fire hydrants, standpipes, fire or police alarm                             boxes, catch basins or manholes, nor shall such material or equipment be                             located within 20 feet (6096 mm) of a street intersection, or placed so                             as to obstruct normal observations of traffic signals or to hinder the                             use of public transit loading platforms.</div>",
+                                        "depth": 2,
+                                        "diagrams": [],
+                                        "displayRef": null,
+                                        "displayTitle": "[BG]  1506.2 Obstructions",
+                                        "hasAssemblies": false,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 0,
+                                        "numDiagramsOnRef": 0,
+                                        "reference": "1506.2",
+                                        "refPrefix": "[BG]",
+                                        "slug": "construction-safeguards",
+                                        "titleText": "Obstructions",
+                                        "children": []
+                                    },
+                                    {
+                                        "ancestorRefs": [
+                                            "15",
+                                            "1506"
+                                        ],
+                                        "body": "<div>Building materials, fences, sheds or any obstruction of any kind shall                             not be placed so as to obstruct free approach to any fire hydrant, fire                             department connection, utility pole, manhole, fire alarm box or catch                             basin, or so as to interfere with the passage of water in the gutter.                             Protection against damage shall be provided to such utility fixtures                             during the progress of the work, but sight of them shall not be                             obstructed.</div>",
+                                        "depth": 2,
+                                        "diagrams": [],
+                                        "displayRef": null,
+                                        "displayTitle": "[BG]  1506.3 Utility Fixtures",
+                                        "hasAssemblies": false,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 0,
+                                        "numDiagramsOnRef": 0,
+                                        "reference": "1506.3",
+                                        "refPrefix": "[BG]",
+                                        "slug": "construction-safeguards",
+                                        "titleText": "Utility Fixtures",
+                                        "children": []
+                                    }
+                                ]
+                            },
+                            {
+                                "ancestorRefs": [
+                                    "15"
+                                ],
+                                "depth": 1,
+                                "diagrams": [],
+                                "displayRef": null,
+                                "displayTitle": "Section 1507 Fire Extinguishers",
+                                "divisionType": "Section",
+                                "hasAssemblies": false,
+                                "isContiguous": true,
+                                "numAssembliesOnRef": 0,
+                                "numBuildingProductsOnRef": 0,
+                                "numDiagramsOnRef": 0,
+                                "reference": "1507",
+                                "slug": "construction-safeguards",
+                                "titleText": "Fire Extinguishers",
+                                "children": [
+                                    {
+                                        "ancestorRefs": [
+                                            "15",
+                                            "1507"
+                                        ],
+                                        "body": "<div><div class=\"u-mt-3 u-mb-3\">Structures under construction, <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/north_dakota/iebc-2024/chapter/2/definitions#alteration_\">alteration</a></span> or demolition shall be provided with not                                 fewer than one <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/north_dakota/iebc-2024/chapter/2/definitions#approved_\">approved</a></span> portable                                 fire extinguisher in accordance with Section 906 of the <span class=\"u-italic\">International Fire Code</span> and sized for not                                 less than ordinary hazard as follows:</div><ol><li>At each stairway on all                                             floor levels where combustible materials have                                             accumulated.</li><li>In every storage and                                             construction shed.</li><li>Additional portable fire                                             extinguishers shall be provided where special hazards                                             exist, such as the storage and use of flammable and                                             combustible liquids.</li></ol></div>",
+                                        "depth": 2,
+                                        "diagrams": [],
+                                        "displayRef": null,
+                                        "displayTitle": "[F]  1507.1 Where Required",
+                                        "hasAssemblies": false,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 0,
+                                        "numDiagramsOnRef": 0,
+                                        "reference": "1507.1",
+                                        "refPrefix": "[F]",
+                                        "slug": "construction-safeguards",
+                                        "titleText": "Where Required",
+                                        "children": []
+                                    },
+                                    {
+                                        "ancestorRefs": [
+                                            "15",
+                                            "1507"
+                                        ],
+                                        "body": "<div>The provisions of this code and of the <span class=\"u-italic\">International Fire Code</span> shall be strictly observed                             to safeguard against all fire hazards attendant upon construction                             operations.</div>",
+                                        "depth": 2,
+                                        "diagrams": [],
+                                        "displayRef": null,
+                                        "displayTitle": "[F]  1507.2 Fire Hazards",
+                                        "hasAssemblies": false,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 0,
+                                        "numDiagramsOnRef": 0,
+                                        "reference": "1507.2",
+                                        "refPrefix": "[F]",
+                                        "slug": "construction-safeguards",
+                                        "titleText": "Fire Hazards",
+                                        "children": []
+                                    }
+                                ]
+                            },
+                            {
+                                "ancestorRefs": [
+                                    "15"
+                                ],
+                                "depth": 1,
+                                "diagrams": [],
+                                "displayRef": null,
+                                "displayTitle": "Section 1508 Means of Egress",
+                                "divisionType": "Section",
+                                "hasAssemblies": false,
+                                "isContiguous": true,
+                                "numAssembliesOnRef": 0,
+                                "numBuildingProductsOnRef": 0,
+                                "numDiagramsOnRef": 0,
+                                "reference": "1508",
+                                "slug": "construction-safeguards",
+                                "titleText": "Means of Egress",
+                                "children": [
+                                    {
+                                        "ancestorRefs": [
+                                            "15",
+                                            "1508"
+                                        ],
+                                        "body": "<div>Where building construction exceeds 40 feet (12 192 mm) in height above                             the lowest level of fire department vehicle access, a temporary or                             permanent stairway shall be provided. As construction progresses, such                             stairway shall be extended to within one floor of the highest point of                             construction having secured decking or flooring.</div>",
+                                        "depth": 2,
+                                        "diagrams": [],
+                                        "displayRef": null,
+                                        "displayTitle": "[BE]  1508.1 Stairways Required",
+                                        "hasAssemblies": false,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 0,
+                                        "numDiagramsOnRef": 0,
+                                        "reference": "1508.1",
+                                        "refPrefix": "[BE]",
+                                        "slug": "construction-safeguards",
+                                        "titleText": "Stairways Required",
+                                        "children": []
+                                    },
+                                    {
+                                        "ancestorRefs": [
+                                            "15",
+                                            "1508"
+                                        ],
+                                        "body": "<div><div class=\"u-mt-3 u-mb-3\">Means of egress and required accessible means of egress shall be                                 maintained at all times during construction, demolition, remodeling                                 or <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/north_dakota/iebc-2024/chapter/2/definitions#alteration_\">alterations</a></span> and <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/north_dakota/iebc-2024/chapter/2/definitions#addition_\">additions</a></span> to any building.</div><div class=\"u-mt-3 u-ml-4 u-mb-3\"><span class=\"u-font-bold\">Exception:  </span> Existing means of egress need not be maintained where                                         <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/north_dakota/iebc-2024/chapter/2/definitions#approved_\">approved</a></span> temporary means                                     of egress and accessible means of egress systems and <a class=\"autolink\" href=\"/viewer/north_dakota/iebc-2024/chapter/2/definitions#facility_\">facilities</a>                                     are provided.</div></div>",
+                                        "depth": 2,
+                                        "diagrams": [],
+                                        "displayRef": null,
+                                        "displayTitle": "[F]  1508.2 Maintenance of Means of Egress",
+                                        "hasAssemblies": false,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 0,
+                                        "numDiagramsOnRef": 0,
+                                        "reference": "1508.2",
+                                        "refPrefix": "[F]",
+                                        "slug": "construction-safeguards",
+                                        "titleText": "Maintenance of Means of Egress",
+                                        "children": []
+                                    }
+                                ]
+                            },
+                            {
+                                "ancestorRefs": [
+                                    "15"
+                                ],
+                                "depth": 1,
+                                "diagrams": [],
+                                "displayRef": null,
+                                "displayTitle": "Section 1509 Standpipes",
+                                "divisionType": "Section",
+                                "hasAssemblies": false,
+                                "isContiguous": true,
+                                "numAssembliesOnRef": 0,
+                                "numBuildingProductsOnRef": 0,
+                                "numDiagramsOnRef": 0,
+                                "reference": "1509",
+                                "slug": "construction-safeguards",
+                                "titleText": "Standpipes",
+                                "children": [
+                                    {
+                                        "ancestorRefs": [
+                                            "15",
+                                            "1509"
+                                        ],
+                                        "body": "<div>In buildings required to have standpipes by <a class=\"autolink\" href=\"/viewer/north_dakota/ibc-2024/chapter/9/fire-protection-and-life-safety-systems#905.3.1\">Section                                 905.3.1</a> of the <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/north_dakota/ibc-2024\">International Building                                 Code</a></span>, not less than one standpipe shall be provided for use                             during construction. Such standpipes shall be installed prior to                             construction exceeding 40 feet (12 192 mm) in height above the lowest                             level of fire department vehicle access. Such standpipes shall be                             provided with fire department hose connections at locations adjacent to                                 <span class=\"u-italic\">stairways</span>, complying with <a class=\"autolink\" href=\"#1508.1\">Section                                 1508.1</a>. As construction progresses, such standpipes shall be                             extended to within one floor of the highest point of construction having                             secured decking or flooring.</div>",
+                                        "depth": 2,
+                                        "diagrams": [],
+                                        "displayRef": null,
+                                        "displayTitle": "[F]  1509.1 Where Required",
+                                        "hasAssemblies": false,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 0,
+                                        "numDiagramsOnRef": 0,
+                                        "reference": "1509.1",
+                                        "refPrefix": "[F]",
+                                        "slug": "construction-safeguards",
+                                        "titleText": "Where Required",
+                                        "children": []
+                                    },
+                                    {
+                                        "ancestorRefs": [
+                                            "15",
+                                            "1509"
+                                        ],
+                                        "body": "<div>Where a building or portion of a building is being demolished and a                             standpipe is existing within such a building, such standpipe shall be                             maintained in an operable condition so as to be available for use by the                             fire department. Such standpipe shall be demolished with the building                             but shall not be demolished more than one floor below the floor being                             demolished.</div>",
+                                        "depth": 2,
+                                        "diagrams": [],
+                                        "displayRef": null,
+                                        "displayTitle": "[F]  1509.2 Buildings Being Demolished",
+                                        "hasAssemblies": false,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 0,
+                                        "numDiagramsOnRef": 0,
+                                        "reference": "1509.2",
+                                        "refPrefix": "[F]",
+                                        "slug": "construction-safeguards",
+                                        "titleText": "Buildings Being Demolished",
+                                        "children": []
+                                    },
+                                    {
+                                        "ancestorRefs": [
+                                            "15",
+                                            "1509"
+                                        ],
+                                        "body": "<div><div class=\"u-mt-3 u-mb-3\">Standpipes shall be installed in accordance with the provisions of <a class=\"autolink\" href=\"/viewer/north_dakota/ibc-2024/chapter/9/fire-protection-and-life-safety-systems#9\">Chapter 9</a>                                 of the <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/north_dakota/ibc-2024\">International Building Code</a></span>.</div><div class=\"u-mt-3 u-ml-4 u-mb-3\"><span class=\"u-font-bold\">Exception:  </span> Standpipes shall be either temporary or permanent in                                     nature, and with or without a water supply, provided that such                                     standpipes conform to the requirements of <a class=\"autolink\" href=\"/viewer/north_dakota/ibc-2024/chapter/9/fire-protection-and-life-safety-systems#905\">Section 905</a> of the <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/north_dakota/ibc-2024\">International                                         Building Code</a></span> as to capacity, outlets and                                     materials.</div></div>",
+                                        "depth": 2,
+                                        "diagrams": [],
+                                        "displayRef": null,
+                                        "displayTitle": "[F]  1509.3 Detailed Requirements",
+                                        "hasAssemblies": false,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 0,
+                                        "numDiagramsOnRef": 0,
+                                        "reference": "1509.3",
+                                        "refPrefix": "[F]",
+                                        "slug": "construction-safeguards",
+                                        "titleText": "Detailed Requirements",
+                                        "children": []
+                                    }
+                                ]
+                            },
+                            {
+                                "ancestorRefs": [
+                                    "15"
+                                ],
+                                "depth": 1,
+                                "diagrams": [],
+                                "displayRef": null,
+                                "displayTitle": "Section 1510 Automatic Sprinkler System",
+                                "divisionType": "Section",
+                                "hasAssemblies": false,
+                                "isContiguous": true,
+                                "numAssembliesOnRef": 0,
+                                "numBuildingProductsOnRef": 0,
+                                "numDiagramsOnRef": 0,
+                                "reference": "1510",
+                                "slug": "construction-safeguards",
+                                "titleText": "Automatic Sprinkler System",
+                                "children": [
+                                    {
+                                        "ancestorRefs": [
+                                            "15",
+                                            "1510"
+                                        ],
+                                        "body": "<div>In buildings where an automatic sprinkler system is required by this                             code or the <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/north_dakota/ibc-2024\">International Building Code</a></span>, it shall be unlawful to                             occupy any portions of a building or structure until the automatic                             sprinkler system installation has been tested and <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/north_dakota/iebc-2024/chapter/2/definitions#approved_\">approved</a></span>, except as provided in <a class=\"autolink\" href=\"/viewer/north_dakota/iebc-2024/chapter/1/scope-and-administration#110.3\">Section                                 110.3</a>.</div>",
+                                        "depth": 2,
+                                        "diagrams": [],
+                                        "displayRef": null,
+                                        "displayTitle": "[F]  1510.1 Completion Before Occupancy",
+                                        "hasAssemblies": false,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 0,
+                                        "numDiagramsOnRef": 0,
+                                        "reference": "1510.1",
+                                        "refPrefix": "[F]",
+                                        "slug": "construction-safeguards",
+                                        "titleText": "Completion Before Occupancy",
+                                        "children": []
+                                    },
+                                    {
+                                        "ancestorRefs": [
+                                            "15",
+                                            "1510"
+                                        ],
+                                        "body": "<div>Operation of sprinkler control valves shall be permitted only by                             properly authorized personnel and shall be accompanied by notification                             of duly designated parties. When the sprinkler protection is being                             regularly turned off and on to facilitate connection of newly completed                             segments, the sprinkler control valves shall be checked at the end of                             each work period to ascertain that protection is in service.</div>",
+                                        "depth": 2,
+                                        "diagrams": [],
+                                        "displayRef": null,
+                                        "displayTitle": "[F]  1510.2 Operation of Valves",
+                                        "hasAssemblies": false,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 0,
+                                        "numDiagramsOnRef": 0,
+                                        "reference": "1510.2",
+                                        "refPrefix": "[F]",
+                                        "slug": "construction-safeguards",
+                                        "titleText": "Operation of Valves",
+                                        "children": []
+                                    }
+                                ]
+                            },
+                            {
+                                "ancestorRefs": [
+                                    "15"
+                                ],
+                                "depth": 1,
+                                "diagrams": [],
+                                "displayRef": null,
+                                "displayTitle": "Section 1511 Accessibility",
+                                "divisionType": "Section",
+                                "hasAssemblies": false,
+                                "isContiguous": true,
+                                "numAssembliesOnRef": 0,
+                                "numBuildingProductsOnRef": 0,
+                                "numDiagramsOnRef": 0,
+                                "reference": "1511",
+                                "slug": "construction-safeguards",
+                                "titleText": "Accessibility",
+                                "children": [
+                                    {
+                                        "ancestorRefs": [
+                                            "15",
+                                            "1511"
+                                        ],
+                                        "body": "<div>Structures, sites and equipment directly associated with the actual                             process of construction, including, but not limited to, scaffolding,                             bridging, material hoists, material storage or construction trailers,                             are not required to be accessible.</div>",
+                                        "depth": 2,
+                                        "diagrams": [],
+                                        "displayRef": null,
+                                        "displayTitle": "[BE]  1511.1 Construction Sites",
+                                        "hasAssemblies": false,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 0,
+                                        "numDiagramsOnRef": 0,
+                                        "reference": "1511.1",
+                                        "refPrefix": "[BE]",
+                                        "slug": "construction-safeguards",
+                                        "titleText": "Construction Sites",
+                                        "children": []
+                                    }
+                                ]
+                            },
+                            {
+                                "ancestorRefs": [
+                                    "15"
+                                ],
+                                "depth": 1,
+                                "diagrams": [],
+                                "displayRef": null,
+                                "displayTitle": "Section 1512 Water Supply for Fire Protection",
+                                "divisionType": "Section",
+                                "hasAssemblies": false,
+                                "isContiguous": true,
+                                "numAssembliesOnRef": 0,
+                                "numBuildingProductsOnRef": 0,
+                                "numDiagramsOnRef": 0,
+                                "reference": "1512",
+                                "slug": "construction-safeguards",
+                                "titleText": "Water Supply for Fire Protection",
+                                "children": [
+                                    {
+                                        "ancestorRefs": [
+                                            "15",
+                                            "1512"
+                                        ],
+                                        "body": "<div><div class=\"u-mt-3 u-mb-3\">An <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/north_dakota/iebc-2024/chapter/2/definitions#approved_\">approved</a></span> water supply for fire                                 protection, either temporary or permanent, shall be made available                                 as soon as combustible&nbsp;building material arrives on the site,                                 on&nbsp;commencement of vertical combustible construction, and                                 on&nbsp;installation of a standpipe system in buildings under                                 construction, in accordance with Sections 1512.1 through <a class=\"autolink\" href=\"#1512.5\">1512.5</a>.</div><div class=\"u-mt-3 u-ml-4 u-mb-3\"><span class=\"u-font-bold\">Exception: </span> The fire <a class=\"autolink\" href=\"/viewer/north_dakota/iebc-2024/chapter/2/definitions#code_official_\">code official</a> is authorized to reduce the                                     fire-flow requirements for isolated buildings or a group of                                     buildings in rural areas or small communities where the                                     development of full fire-flow requirements is impractical.</div></div>",
+                                        "depth": 2,
+                                        "diagrams": [],
+                                        "displayRef": null,
+                                        "displayTitle": "[F]  1512.1 When Required",
+                                        "hasAssemblies": false,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 0,
+                                        "numDiagramsOnRef": 0,
+                                        "reference": "1512.1",
+                                        "refPrefix": "[F]",
+                                        "slug": "construction-safeguards",
+                                        "titleText": "When Required",
+                                        "children": []
+                                    },
+                                    {
+                                        "ancestorRefs": [
+                                            "15",
+                                            "1512"
+                                        ],
+                                        "body": "<div>When combustible&nbsp;building materials&nbsp;of the building under construction                             are delivered to a site, a minimum fire flow of 500 gallons per                             minute&nbsp;(1893 L/m) shall be provided. The fire hydrant used to provide                             this fire flow supply shall be within 500 feet (152 m) of the                             combustible&nbsp;building materials&nbsp;as measured along an <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/north_dakota/iebc-2024/chapter/2/definitions#approved_\">approved</a></span> fire apparatus access lane.                             Where the site configuration is such that one fire hydrant cannot be                             located within 500 feet (152 m)&nbsp;of all combustible&nbsp;building materials,                             additional fire hydrants shall be required to provide coverage in                             accordance with this section.</div>",
+                                        "depth": 2,
+                                        "diagrams": [],
+                                        "displayRef": null,
+                                        "displayTitle": "[F]  1512.2 Combustible Building Materials",
+                                        "hasAssemblies": false,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 0,
+                                        "numDiagramsOnRef": 0,
+                                        "reference": "1512.2",
+                                        "refPrefix": "[F]",
+                                        "slug": "construction-safeguards",
+                                        "titleText": "Combustible Building Materials",
+                                        "children": []
+                                    },
+                                    {
+                                        "ancestorRefs": [
+                                            "15",
+                                            "1512"
+                                        ],
+                                        "body": "<div>Prior to commencement of vertical construction of Type III, IV or V                             buildings that utilize any combustible&nbsp;building materials, the fire flow                             required by Sections&nbsp;<a class=\"autolink\" href=\"#1512.3.1\">1512.3.1</a> through <a class=\"autolink\" href=\"#1512.3.3\">1512.3.3</a> shall be provided, accompanied by fire hydrants in                             sufficient quantity to deliver the required fire flow and proper                             coverage.</div>",
+                                        "depth": 2,
+                                        "diagrams": [],
+                                        "displayRef": null,
+                                        "displayTitle": "[F]  1512.3 Vertical Construction of Types III, IV and V Construction",
+                                        "hasAssemblies": false,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 0,
+                                        "numDiagramsOnRef": 0,
+                                        "reference": "1512.3",
+                                        "refPrefix": "[F]",
+                                        "slug": "construction-safeguards",
+                                        "titleText": "Vertical Construction of Types III, IV and V Construction",
+                                        "children": [
+                                            {
+                                                "ancestorRefs": [
+                                                    "15",
+                                                    "1512",
+                                                    "1512.3"
+                                                ],
+                                                "body": "<div>Where a building of Type III, IV or V construction has a fire                                 separation distance of less than 30 feet (9144 mm) from property lot                                 lines, and an adjacent property has an <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/north_dakota/iebc-2024/chapter/2/definitions#existing_structure_\">existing structure</a></span> or otherwise can be built on, the                                 water supply shall provide either a minimum of 500&nbsp;gallons per                                 minute (1893 L/m), or the entire fire flow required for the building                                 when constructed, whichever is greater.</div>",
+                                                "depth": 3,
+                                                "diagrams": [],
+                                                "displayRef": null,
+                                                "displayTitle": "[F]  1512.3.1 Fire Separation Up to 30 Feet",
+                                                "hasAssemblies": false,
+                                                "isContiguous": true,
+                                                "numAssembliesOnRef": 0,
+                                                "numBuildingProductsOnRef": 0,
+                                                "numDiagramsOnRef": 0,
+                                                "reference": "1512.3.1",
+                                                "refPrefix": "[F]",
+                                                "slug": "construction-safeguards",
+                                                "titleText": "Fire Separation Up to 30 Feet",
+                                                "children": []
+                                            },
+                                            {
+                                                "ancestorRefs": [
+                                                    "15",
+                                                    "1512",
+                                                    "1512.3"
+                                                ],
+                                                "body": "<div>Where a building of Type III, IV or V construction has a fire                                 separation distance of 30 feet (9144 mm) up to 60 feet (18 288 mm)                                 from property lot lines, and an adjacent property has an <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/north_dakota/iebc-2024/chapter/2/definitions#existing_structure_\">existing structure</a></span> or otherwise can                                 be constructed upon, the water supply shall provide a minimum of                                 500&nbsp;gallons per minute (1893 L/m), or 50 percent&nbsp;of the fire flow                                 required for the building when constructed, whichever is                                 greater.</div>",
+                                                "depth": 3,
+                                                "diagrams": [],
+                                                "displayRef": null,
+                                                "displayTitle": "[F]  1512.3.2 Fire Separation of 30 Feet Up to 60 Feet",
+                                                "hasAssemblies": false,
+                                                "isContiguous": true,
+                                                "numAssembliesOnRef": 0,
+                                                "numBuildingProductsOnRef": 0,
+                                                "numDiagramsOnRef": 0,
+                                                "reference": "1512.3.2",
+                                                "refPrefix": "[F]",
+                                                "slug": "construction-safeguards",
+                                                "titleText": "Fire Separation of 30 Feet Up to 60 Feet",
+                                                "children": []
+                                            },
+                                            {
+                                                "ancestorRefs": [
+                                                    "15",
+                                                    "1512",
+                                                    "1512.3"
+                                                ],
+                                                "body": "<div>Where a building of Type III, IV or V construction has a fire                                 separation of 60 feet (18 288 mm) or greater from a property lot                                 line, a water supply of 500&nbsp;gallons per minute (1893 L/m) shall be                                 provided.</div>",
+                                                "depth": 3,
+                                                "diagrams": [],
+                                                "displayRef": null,
+                                                "displayTitle": "[F]  1512.3.3 Fire Separation of 60 Feet or Greater",
+                                                "hasAssemblies": false,
+                                                "isContiguous": true,
+                                                "numAssembliesOnRef": 0,
+                                                "numBuildingProductsOnRef": 0,
+                                                "numDiagramsOnRef": 0,
+                                                "reference": "1512.3.3",
+                                                "refPrefix": "[F]",
+                                                "slug": "construction-safeguards",
+                                                "titleText": "Fire Separation of 60 Feet or Greater",
+                                                "children": []
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "ancestorRefs": [
+                                            "15",
+                                            "1512"
+                                        ],
+                                        "body": "<div>If combustible construction materials are delivered to the construction                             site, water supply in accordance with <a class=\"autolink\" href=\"#1509.2\">Section 1509.2</a> shall be                             provided. Additional water supply for fire flow is not required prior to                             commencing vertical construction of Type I and II buildings.</div>",
+                                        "depth": 2,
+                                        "diagrams": [],
+                                        "displayRef": null,
+                                        "displayTitle": "[F]  1512.4 Vertical Construction, Types I and II Construction",
+                                        "hasAssemblies": false,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 0,
+                                        "numDiagramsOnRef": 0,
+                                        "reference": "1512.4",
+                                        "refPrefix": "[F]",
+                                        "slug": "construction-safeguards",
+                                        "titleText": "Vertical Construction, Types I and II Construction",
+                                        "children": []
+                                    },
+                                    {
+                                        "ancestorRefs": [
+                                            "15",
+                                            "1512"
+                                        ],
+                                        "body": "<div>Regardless of the presence of combustible building&nbsp;materials, the                             construction type or the fire separation distance, where a standpipe is                             required in accordance with&nbsp;<a class=\"autolink\" href=\"#1509\">Section 1509</a>, a water                             supply providing a minimum flow of 500 gallons per minute (1893 L/m)                             shall be provided. The fire hydrant used for this water supply shall be                             located within 100 feet (30 480 mm) of the fire department connection                             supplying the standpipe.</div>",
+                                        "depth": 2,
+                                        "diagrams": [],
+                                        "displayRef": null,
+                                        "displayTitle": "[F]  1512.5 Standpipe Supply",
+                                        "hasAssemblies": false,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 0,
+                                        "numDiagramsOnRef": 0,
+                                        "reference": "1512.5",
+                                        "refPrefix": "[F]",
+                                        "slug": "construction-safeguards",
+                                        "titleText": "Standpipe Supply",
+                                        "children": []
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            "chapterReference": "15"
+        },
+        "__N_SSP": true
+    },
+    "page": "/viewer/[urlFormPubOrJurisKey]/[urlFormPub]/chapter/[chapterRef]/[chapterName]",
+    "query": {
+        "urlFormPubOrJurisKey": "north_dakota",
+        "urlFormPub": "iebc-2024",
+        "chapterRef": "15",
+        "chapterName": "construction-safeguards"
+    },
+    "buildId": "bq6oGVuYGAxmtMzrvJDng",
+    "isFallback": false,
+    "isExperimentalCompile": false,
+    "dynamicIds": [
+        61621,
+        54065
+    ],
+    "gssp": true,
+    "scriptLoader": []
+}

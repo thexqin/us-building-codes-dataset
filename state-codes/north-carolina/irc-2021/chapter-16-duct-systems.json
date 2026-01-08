@@ -1,0 +1,1654 @@
+{
+    "props": {
+        "pageProps": {
+            "missingRequiredLogin": false,
+            "title": "Chapter 16 Duct Systems: North Carolina Residential Code for One- and Two-Family Dwellings 2024 | UpCodes",
+            "leanChapterViewerData": {
+                "basePubName": "International Residential Code 2021 (IRC 2021)",
+                "codeGroupingYear": "2024",
+                "codeName": "North Carolina Residential Code for One- and Two-Family Dwellings 2024",
+                "codeUuid": "1f40b175-29c6-47d9-9dd5-2d9f8d422f85",
+                "codeVersions": [
+                    {
+                        "codeUuid": "1f40b175-29c6-47d9-9dd5-2d9f8d422f85",
+                        "name": "Original Adoption",
+                        "effectiveStartDate": null,
+                        "shortformUrlName": "irc-2021",
+                        "activeStatus": "active"
+                    }
+                ],
+                "ingesterAmendmentsEnabled": false,
+                "ingesterCodeUnitsEnabled": false,
+                "isAmendStylingEnabled": true,
+                "isCorrespondable": true,
+                "jurisKey": "north_carolina",
+                "jurisName": "North Carolina",
+                "metaInfoUrl": "/viewer/north_carolina/irc-2021",
+                "modelCodeUrl": null,
+                "placeholder": "Search North Carolina Residential Code for One- and ...",
+                "pubKey": "int_residential_code_2021",
+                "pubPrefix": "int_residential_code",
+                "shortformPubName": "irc-2021",
+                "withAmendments": true,
+                "chapterRef": "16",
+                "publisher": "icc",
+                "hasLinkedResources": false,
+                "initialNonChapterTocLines": [
+                    {
+                        "amendType": null,
+                        "children": [
+                            {
+                                "amendType": "edit",
+                                "children": [
+                                    {
+                                        "amendType": "edit",
+                                        "children": [],
+                                        "depth": 3,
+                                        "displayTitle": "M1601.1.1 Above-Ground Duct Systems",
+                                        "hasExpanderArrow": false,
+                                        "href": "#M1601.1.1",
+                                        "isCodeDivider": false,
+                                        "isCodeDividerClickable": false,
+                                        "reference": "M1601.1.1"
+                                    },
+                                    {
+                                        "amendType": "edit",
+                                        "children": [],
+                                        "depth": 3,
+                                        "displayTitle": "M1601.1.2 <span class=\"code_addition\">(603.8) </span>Underground Duct Systems",
+                                        "hasExpanderArrow": false,
+                                        "href": "#M1601.1.2",
+                                        "isCodeDivider": false,
+                                        "isCodeDividerClickable": false,
+                                        "reference": "M1601.1.2"
+                                    }
+                                ],
+                                "depth": 2,
+                                "displayTitle": "M1601.1 <span class=\"code_addition\">(601.1) </span>Duct Design",
+                                "hasExpanderArrow": true,
+                                "href": "#M1601.1",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "reference": "M1601.1"
+                            },
+                            {
+                                "amendType": "deletion",
+                                "children": [],
+                                "depth": 2,
+                                "displayTitle": "<span class=\"code_deletion\">M1601.2</span> <span class=\"code_deletion\">Vibration Isolators</span>",
+                                "hasExpanderArrow": false,
+                                "href": "#M1601.2",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "reference": "M1601.2"
+                            },
+                            {
+                                "amendType": "addition",
+                                "children": [],
+                                "depth": 2,
+                                "displayTitle": "M1601.2 Flexible Connections",
+                                "hasExpanderArrow": false,
+                                "href": "#new_M1601.2",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "reference": "new_M1601.2"
+                            },
+                            {
+                                "amendType": "edit",
+                                "children": [],
+                                "depth": 2,
+                                "displayTitle": "M1601.3 <span class=\"code_addition\">(604.4) </span>Duct Insulation Materials",
+                                "hasExpanderArrow": false,
+                                "href": "#M1601.3",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "reference": "M1601.3"
+                            },
+                            {
+                                "amendType": null,
+                                "children": [
+                                    {
+                                        "amendType": "edit",
+                                        "children": [],
+                                        "depth": 3,
+                                        "displayTitle": "M1601.4.1 Joints, Seams and Connections",
+                                        "hasExpanderArrow": false,
+                                        "href": "#M1601.4.1",
+                                        "isCodeDivider": false,
+                                        "isCodeDividerClickable": false,
+                                        "reference": "M1601.4.1"
+                                    },
+                                    {
+                                        "amendType": "edit",
+                                        "children": [],
+                                        "depth": 3,
+                                        "displayTitle": "M1601.4.2 Duct Lap",
+                                        "hasExpanderArrow": false,
+                                        "href": "#M1601.4.2",
+                                        "isCodeDivider": false,
+                                        "isCodeDividerClickable": false,
+                                        "reference": "M1601.4.2"
+                                    },
+                                    {
+                                        "amendType": null,
+                                        "children": [],
+                                        "depth": 3,
+                                        "displayTitle": "M1601.4.3 Plastic Duct Joints",
+                                        "hasExpanderArrow": false,
+                                        "href": "#M1601.4.3",
+                                        "isCodeDivider": false,
+                                        "isCodeDividerClickable": false,
+                                        "reference": "M1601.4.3"
+                                    },
+                                    {
+                                        "amendType": "edit",
+                                        "children": [
+                                            {
+                                                "amendType": "addition",
+                                                "children": [],
+                                                "depth": 4,
+                                                "displayTitle": "M1601.4.4.1 (603.10.1) Metal Duct Minimal Support",
+                                                "hasExpanderArrow": false,
+                                                "href": "#new_M1601.4.4.1",
+                                                "isCodeDivider": false,
+                                                "isCodeDividerClickable": false,
+                                                "reference": "new_M1601.4.4.1"
+                                            }
+                                        ],
+                                        "depth": 3,
+                                        "displayTitle": "M1601.4.4 Support",
+                                        "hasExpanderArrow": true,
+                                        "href": "#M1601.4.4",
+                                        "isCodeDivider": false,
+                                        "isCodeDividerClickable": false,
+                                        "reference": "M1601.4.4"
+                                    },
+                                    {
+                                        "amendType": "edit",
+                                        "children": [],
+                                        "depth": 3,
+                                        "displayTitle": "M1601.4.5 Fireblocking",
+                                        "hasExpanderArrow": false,
+                                        "href": "#M1601.4.5",
+                                        "isCodeDivider": false,
+                                        "isCodeDividerClickable": false,
+                                        "reference": "M1601.4.5"
+                                    },
+                                    {
+                                        "amendType": "edit",
+                                        "children": [],
+                                        "depth": 3,
+                                        "displayTitle": "M1601.4.6 <span class=\"code_addition\">(604.1) </span>Duct Insulation",
+                                        "hasExpanderArrow": false,
+                                        "href": "#M1601.4.6",
+                                        "isCodeDivider": false,
+                                        "isCodeDividerClickable": false,
+                                        "reference": "M1601.4.6"
+                                    },
+                                    {
+                                        "amendType": null,
+                                        "children": [],
+                                        "depth": 3,
+                                        "displayTitle": "M1601.4.7 Factory-Made Air Ducts",
+                                        "hasExpanderArrow": false,
+                                        "href": "#M1601.4.7",
+                                        "isCodeDivider": false,
+                                        "isCodeDividerClickable": false,
+                                        "reference": "M1601.4.7"
+                                    },
+                                    {
+                                        "amendType": "edit",
+                                        "children": [],
+                                        "depth": 3,
+                                        "displayTitle": "M1601.4.8 <span class=\"code_addition\">(603.14) </span>Duct Separation",
+                                        "hasExpanderArrow": false,
+                                        "href": "#M1601.4.8",
+                                        "isCodeDivider": false,
+                                        "isCodeDividerClickable": false,
+                                        "reference": "M1601.4.8"
+                                    },
+                                    {
+                                        "amendType": null,
+                                        "children": [],
+                                        "depth": 3,
+                                        "displayTitle": "M1601.4.9 Ducts Located in Garages",
+                                        "hasExpanderArrow": false,
+                                        "href": "#M1601.4.9",
+                                        "isCodeDivider": false,
+                                        "isCodeDividerClickable": false,
+                                        "reference": "M1601.4.9"
+                                    },
+                                    {
+                                        "amendType": "edit",
+                                        "children": [],
+                                        "depth": 3,
+                                        "displayTitle": "M1601.4.10 Flood Hazard Areas",
+                                        "hasExpanderArrow": false,
+                                        "href": "#M1601.4.10",
+                                        "isCodeDivider": false,
+                                        "isCodeDividerClickable": false,
+                                        "reference": "M1601.4.10"
+                                    }
+                                ],
+                                "depth": 2,
+                                "displayTitle": "M1601.4 Installation",
+                                "hasExpanderArrow": true,
+                                "href": "#M1601.4",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "reference": "M1601.4"
+                            },
+                            {
+                                "amendType": null,
+                                "children": [
+                                    {
+                                        "amendType": "edit",
+                                        "children": [],
+                                        "depth": 3,
+                                        "displayTitle": "M1601.5.1 General",
+                                        "hasExpanderArrow": false,
+                                        "href": "#M1601.5.1",
+                                        "isCodeDivider": false,
+                                        "isCodeDividerClickable": false,
+                                        "reference": "M1601.5.1"
+                                    },
+                                    {
+                                        "amendType": null,
+                                        "children": [],
+                                        "depth": 3,
+                                        "displayTitle": "M1601.5.2 Materials",
+                                        "hasExpanderArrow": false,
+                                        "href": "#M1601.5.2",
+                                        "isCodeDivider": false,
+                                        "isCodeDividerClickable": false,
+                                        "reference": "M1601.5.2"
+                                    },
+                                    {
+                                        "amendType": null,
+                                        "children": [],
+                                        "depth": 3,
+                                        "displayTitle": "M1601.5.3 Furnace Connections",
+                                        "hasExpanderArrow": false,
+                                        "href": "#M1601.5.3",
+                                        "isCodeDivider": false,
+                                        "isCodeDividerClickable": false,
+                                        "reference": "M1601.5.3"
+                                    },
+                                    {
+                                        "amendType": null,
+                                        "children": [],
+                                        "depth": 3,
+                                        "displayTitle": "M1601.5.4 Access",
+                                        "hasExpanderArrow": false,
+                                        "href": "#M1601.5.4",
+                                        "isCodeDivider": false,
+                                        "isCodeDividerClickable": false,
+                                        "reference": "M1601.5.4"
+                                    },
+                                    {
+                                        "amendType": null,
+                                        "children": [],
+                                        "depth": 3,
+                                        "displayTitle": "M1601.5.5 Furnace Controls",
+                                        "hasExpanderArrow": false,
+                                        "href": "#M1601.5.5",
+                                        "isCodeDivider": false,
+                                        "isCodeDividerClickable": false,
+                                        "reference": "M1601.5.5"
+                                    }
+                                ],
+                                "depth": 2,
+                                "displayTitle": "M1601.5 Under-Floor Plenums",
+                                "hasExpanderArrow": true,
+                                "href": "#M1601.5",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "reference": "M1601.5"
+                            },
+                            {
+                                "amendType": null,
+                                "children": [],
+                                "depth": 2,
+                                "displayTitle": "M1601.6 Independent Garage HVAC Systems",
+                                "hasExpanderArrow": false,
+                                "href": "#M1601.6",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "reference": "M1601.6"
+                            }
+                        ],
+                        "depth": 1,
+                        "displayTitle": "M1601 Duct Construction",
+                        "hasExpanderArrow": true,
+                        "href": "#M1601",
+                        "isCodeDivider": false,
+                        "isCodeDividerClickable": false,
+                        "reference": "M1601"
+                    },
+                    {
+                        "amendType": null,
+                        "children": [
+                            {
+                                "amendType": null,
+                                "children": [],
+                                "depth": 2,
+                                "displayTitle": "M1602.1 Outdoor Air Openings",
+                                "hasExpanderArrow": false,
+                                "href": "#M1602.1",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "reference": "M1602.1"
+                            },
+                            {
+                                "amendType": "edit",
+                                "children": [],
+                                "depth": 2,
+                                "displayTitle": "M1602.2 Return Air Openings",
+                                "hasExpanderArrow": false,
+                                "href": "#M1602.2",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "reference": "M1602.2"
+                            },
+                            {
+                                "amendType": "addition",
+                                "children": [],
+                                "depth": 2,
+                                "displayTitle": "M1602.3 (603.18) Return-Air Intake (Nonengineered Systems)",
+                                "hasExpanderArrow": false,
+                                "href": "#new_M1602.3",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "reference": "new_M1602.3"
+                            }
+                        ],
+                        "depth": 1,
+                        "displayTitle": "M1602 Return Air",
+                        "hasExpanderArrow": true,
+                        "href": "#M1602",
+                        "isCodeDivider": false,
+                        "isCodeDividerClickable": false,
+                        "reference": "M1602"
+                    }
+                ],
+                "title": "Chapter 16 Duct Systems: North Carolina Residential Code for One- and Two-Family Dwellings 2024 | UpCodes",
+                "leanChapterLines": [
+                    {
+                        "displayTitle": "Part I Administrative",
+                        "isCodeDivider": true,
+                        "reference": "divider_0_I",
+                        "slug": "administrative"
+                    },
+                    {
+                        "displayTitle": "Chapter 1 Scope and Administration",
+                        "isExpandable": true,
+                        "reference": "1",
+                        "slug": "scope-and-administration"
+                    },
+                    {
+                        "displayTitle": "Part II Definitions",
+                        "isCodeDivider": true,
+                        "reference": "divider_0_II",
+                        "slug": "definitions"
+                    },
+                    {
+                        "displayTitle": "Chapter 2 Definitions",
+                        "isExpandable": true,
+                        "reference": "2",
+                        "slug": "definitions"
+                    },
+                    {
+                        "displayTitle": "Part III\u2014 Building Planning and Construction",
+                        "isCodeDivider": true,
+                        "reference": "III\u2014",
+                        "slug": "building-planning-and-construction"
+                    },
+                    {
+                        "displayTitle": "Chapter 3 Building Planning",
+                        "isExpandable": true,
+                        "reference": "3",
+                        "slug": "building-planning"
+                    },
+                    {
+                        "displayTitle": "Chapter 4 Foundations",
+                        "isExpandable": true,
+                        "reference": "4",
+                        "slug": "foundations"
+                    },
+                    {
+                        "displayTitle": "Chapter 5 Floors",
+                        "isExpandable": true,
+                        "reference": "5",
+                        "slug": "floors"
+                    },
+                    {
+                        "displayTitle": "Chapter 6 Wall Construction",
+                        "isExpandable": true,
+                        "reference": "6",
+                        "slug": "wall-construction"
+                    },
+                    {
+                        "displayTitle": "Chapter 7 Wall Covering",
+                        "isExpandable": true,
+                        "reference": "7",
+                        "slug": "wall-covering"
+                    },
+                    {
+                        "displayTitle": "Chapter 8 Roof-Ceiling Construction",
+                        "isExpandable": true,
+                        "reference": "8",
+                        "slug": "roof-ceiling-construction"
+                    },
+                    {
+                        "displayTitle": "Chapter 9 Roof Assemblies",
+                        "isExpandable": true,
+                        "reference": "9",
+                        "slug": "roof-assemblies"
+                    },
+                    {
+                        "displayTitle": "Chapter 10 Chimneys and Fireplaces",
+                        "isExpandable": true,
+                        "reference": "10",
+                        "slug": "chimneys-and-fireplaces"
+                    },
+                    {
+                        "displayTitle": "Part IV\u2014 Energy Conservation",
+                        "isCodeDivider": true,
+                        "reference": "IV\u2014",
+                        "slug": "energy-conservation"
+                    },
+                    {
+                        "amendType": "edit",
+                        "displayTitle": "Chapter 11 [RE] Energy Efficiency",
+                        "isExpandable": true,
+                        "reference": "11",
+                        "slug": "re-energy-efficiency"
+                    },
+                    {
+                        "displayTitle": "Part V\u2014 Mechanical",
+                        "isCodeDivider": true,
+                        "reference": "V\u2014",
+                        "slug": "mechanical"
+                    },
+                    {
+                        "amendType": "edit",
+                        "displayTitle": "Chapter 12 Mechanical Administration",
+                        "isExpandable": true,
+                        "reference": "12",
+                        "slug": "mechanical-administration"
+                    },
+                    {
+                        "amendType": "edit",
+                        "displayTitle": "Chapter 13 General Mechanical System Requirements",
+                        "isExpandable": true,
+                        "reference": "13",
+                        "slug": "general-mechanical-system-requirements"
+                    },
+                    {
+                        "amendType": "edit",
+                        "displayTitle": "Chapter 14 Heating and Cooling Equipment and Appliances",
+                        "isExpandable": true,
+                        "reference": "14",
+                        "slug": "heating-and-cooling-equipment-and-appliances"
+                    },
+                    {
+                        "amendType": "edit",
+                        "displayTitle": "Chapter 15 Exhaust Systems",
+                        "isExpandable": true,
+                        "reference": "15",
+                        "slug": "exhaust-systems"
+                    },
+                    {
+                        "amendType": "edit",
+                        "displayTitle": "Chapter 16 Duct Systems",
+                        "isExpandable": true,
+                        "reference": "16",
+                        "slug": "duct-systems"
+                    },
+                    {
+                        "amendType": "edit",
+                        "displayTitle": "Chapter 17 Combustion Air",
+                        "isExpandable": true,
+                        "reference": "17",
+                        "slug": "combustion-air"
+                    },
+                    {
+                        "amendType": "edit",
+                        "displayTitle": "Chapter 18 Chimneys and Vents",
+                        "isExpandable": true,
+                        "reference": "18",
+                        "slug": "chimneys-and-vents"
+                    },
+                    {
+                        "amendType": "edit",
+                        "displayTitle": "Chapter 19 Special Appliances, Equipment and Systems",
+                        "isExpandable": true,
+                        "reference": "19",
+                        "slug": "special-appliances-equipment-and-systems"
+                    },
+                    {
+                        "amendType": "edit",
+                        "displayTitle": "Chapter 20 Boilers and Water Heaters",
+                        "isExpandable": true,
+                        "reference": "20",
+                        "slug": "boilers-and-water-heaters"
+                    },
+                    {
+                        "amendType": "edit",
+                        "displayTitle": "Chapter 21 Hydronic Piping",
+                        "isExpandable": true,
+                        "reference": "21",
+                        "slug": "hydronic-piping"
+                    },
+                    {
+                        "amendType": "edit",
+                        "displayTitle": "Chapter 22 <span class=\"code_deletion\">Special</span><span class=\"code_addition\">Fuel Oil</span> Piping and Storage Systems",
+                        "isExpandable": true,
+                        "reference": "22",
+                        "slug": "special-piping-and-storage-systems"
+                    },
+                    {
+                        "amendType": "edit",
+                        "displayTitle": "Chapter 23 Solar Thermal Energy Systems",
+                        "isExpandable": true,
+                        "reference": "23",
+                        "slug": "solar-thermal-energy-systems"
+                    },
+                    {
+                        "displayTitle": "Part VI\u2014 Fuel Gas",
+                        "isCodeDivider": true,
+                        "reference": "VI\u2014",
+                        "slug": "fuel-gas"
+                    },
+                    {
+                        "amendType": "edit",
+                        "displayTitle": "Chapter 24 Fuel Gas",
+                        "isExpandable": true,
+                        "reference": "24",
+                        "slug": "fuel-gas"
+                    },
+                    {
+                        "displayTitle": "Part VII\u2014 Plumbing",
+                        "isCodeDivider": true,
+                        "reference": "VII\u2014",
+                        "slug": "plumbing"
+                    },
+                    {
+                        "amendType": "edit",
+                        "displayTitle": "Chapter 25 Plumbing Administration",
+                        "isExpandable": true,
+                        "reference": "25",
+                        "slug": "plumbing-administration"
+                    },
+                    {
+                        "amendType": "edit",
+                        "displayTitle": "Chapter 26 General Plumbing Requirements",
+                        "isExpandable": true,
+                        "reference": "26",
+                        "slug": "general-plumbing-requirements"
+                    },
+                    {
+                        "amendType": "edit",
+                        "displayTitle": "Chapter 27 Plumbing Fixtures",
+                        "isExpandable": true,
+                        "reference": "27",
+                        "slug": "plumbing-fixtures"
+                    },
+                    {
+                        "amendType": "edit",
+                        "displayTitle": "Chapter 28 Water Heaters",
+                        "isExpandable": true,
+                        "reference": "28",
+                        "slug": "water-heaters"
+                    },
+                    {
+                        "displayTitle": "Chapter 29 Water Supply and Distribution",
+                        "isExpandable": true,
+                        "reference": "29",
+                        "slug": "water-supply-and-distribution"
+                    },
+                    {
+                        "displayTitle": "Chapter 30 Sanitary Drainage",
+                        "isExpandable": true,
+                        "reference": "30",
+                        "slug": "sanitary-drainage"
+                    },
+                    {
+                        "displayTitle": "Chapter 31 Vents",
+                        "isExpandable": true,
+                        "reference": "31",
+                        "slug": "vents"
+                    },
+                    {
+                        "displayTitle": "Chapter 32 Traps",
+                        "isExpandable": true,
+                        "reference": "32",
+                        "slug": "traps"
+                    },
+                    {
+                        "alwaysShowDeletionAmend": true,
+                        "amendType": "deletion",
+                        "displayTitle": "Chapter <span class=\"code_deletion\">33</span> <span class=\"code_deletion\">Storm Drainage</span>",
+                        "reference": "33",
+                        "slug": "storm-drainage"
+                    },
+                    {
+                        "displayTitle": "Part VIII\u2014 Electrical",
+                        "isCodeDivider": true,
+                        "reference": "VIII\u2014",
+                        "slug": "electrical"
+                    },
+                    {
+                        "amendType": "edit",
+                        "displayTitle": "Chapter 34 General Requirements",
+                        "isExpandable": true,
+                        "reference": "34",
+                        "slug": "general-requirements"
+                    },
+                    {
+                        "amendType": "edit",
+                        "displayTitle": "Chapter 35 Electrical Definitions",
+                        "isExpandable": true,
+                        "reference": "35",
+                        "slug": "electrical-definitions"
+                    },
+                    {
+                        "amendType": "edit",
+                        "displayTitle": "Chapter 36 Services",
+                        "isExpandable": true,
+                        "reference": "36",
+                        "slug": "services"
+                    },
+                    {
+                        "amendType": "edit",
+                        "displayTitle": "Chapter 37 Branch Circuit and Feeder Requirements",
+                        "isExpandable": true,
+                        "reference": "37",
+                        "slug": "branch-circuit-and-feeder-requirements"
+                    },
+                    {
+                        "amendType": "edit",
+                        "displayTitle": "Chapter 38 Wiring Methods",
+                        "isExpandable": true,
+                        "reference": "38",
+                        "slug": "wiring-methods"
+                    },
+                    {
+                        "amendType": "edit",
+                        "displayTitle": "Chapter 39 Power and Lighting Distribution",
+                        "isExpandable": true,
+                        "reference": "39",
+                        "slug": "power-and-lighting-distribution"
+                    },
+                    {
+                        "amendType": "edit",
+                        "displayTitle": "Chapter 40 Devices and Luminaires",
+                        "isExpandable": true,
+                        "reference": "40",
+                        "slug": "devices-and-luminaires"
+                    },
+                    {
+                        "amendType": "edit",
+                        "displayTitle": "Chapter 41 Appliance Installation",
+                        "isExpandable": true,
+                        "reference": "41",
+                        "slug": "appliance-installation"
+                    },
+                    {
+                        "amendType": "edit",
+                        "displayTitle": "Chapter 42 Swimming Pools",
+                        "isExpandable": true,
+                        "reference": "42",
+                        "slug": "swimming-pools"
+                    },
+                    {
+                        "amendType": "edit",
+                        "displayTitle": "Chapter 43 Class 2 Remote-Control, Signaling and Power-Limited Circuits",
+                        "isExpandable": true,
+                        "reference": "43",
+                        "slug": "class-2-remote-control-signaling-and-power-limited-circuits"
+                    },
+                    {
+                        "displayTitle": "Part IX\u2014 Referenced Standards",
+                        "isCodeDivider": true,
+                        "reference": "IX\u2014",
+                        "slug": "referenced-standards"
+                    },
+                    {
+                        "amendType": "edit",
+                        "displayTitle": "Chapter 44 Referenced Standards",
+                        "reference": "44",
+                        "slug": "referenced-standards"
+                    },
+                    {
+                        "amendType": "addition",
+                        "displayTitle": "Chapter 45 High Wind Zones",
+                        "isExpandable": true,
+                        "reference": "new_45",
+                        "slug": "high-wind-zones"
+                    },
+                    {
+                        "amendType": "addition",
+                        "displayTitle": "Chapter 46 Coastal and Flood Plain Construction  Standards",
+                        "isExpandable": true,
+                        "reference": "new_46",
+                        "slug": "coastal-and-flood-plain-construction-standards"
+                    },
+                    {
+                        "amendType": "addition",
+                        "displayTitle": "Chapter 47 Wood Decks",
+                        "isExpandable": true,
+                        "reference": "new_47",
+                        "slug": "wood-decks"
+                    },
+                    {
+                        "disabled": true,
+                        "displayTitle": "Appendix AA Sizing and Capacities of Gas Piping",
+                        "reference": "AA",
+                        "slug": "sizing-and-capacities-of-gas-piping"
+                    },
+                    {
+                        "disabled": true,
+                        "displayTitle": "Appendix AB Sizing of Venting Systems Serving Appliances Equipped With Draft Hoods, Category I Appliances and Appliances Listed for Use With Type B Vents",
+                        "reference": "AB",
+                        "slug": "sizing-of-venting-systems-serving-appliances-equipped-with-draft-hoods-category"
+                    },
+                    {
+                        "amendType": "deletion",
+                        "disabled": true,
+                        "displayTitle": "Appendix <span class=\"code_deletion\">AC</span> <span class=\"code_deletion\">Reserved</span>",
+                        "reference": "AC",
+                        "slug": "reserved"
+                    },
+                    {
+                        "amendType": "addition",
+                        "displayTitle": "Appendix AC Exit Terminals of Mechanical Draft and Direct-Vent Venting Systems",
+                        "isExpandable": true,
+                        "reference": "new_AC",
+                        "slug": "exit-terminals-of-mechanical-draft-and-direct-vent-venting-systems"
+                    },
+                    {
+                        "disabled": true,
+                        "displayTitle": "Appendix AD Recommended Procedure for Safety Inspection of an Existing Appliance Installation",
+                        "reference": "AD",
+                        "slug": "recommended-procedure-for-safety-inspection-of-an-existing-appliance-installatio"
+                    },
+                    {
+                        "alwaysShowDeletionAmend": true,
+                        "amendType": "deletion",
+                        "disabled": true,
+                        "displayTitle": "Appendix <span class=\"code_deletion\">AE</span> <span class=\"code_deletion\">Manufactured Housing Used as Dwellings</span>",
+                        "reference": "AE",
+                        "slug": "manufactured-housing-used-as-dwellings"
+                    },
+                    {
+                        "amendType": "edit",
+                        "disabled": true,
+                        "displayTitle": "Appendix AF Radon Control Methods",
+                        "reference": "AF",
+                        "slug": "radon-control-methods"
+                    },
+                    {
+                        "displayTitle": "Appendix AG Piping Standards for Various Applications",
+                        "isExpandable": true,
+                        "reference": "AG",
+                        "slug": "piping-standards-for-various-applications"
+                    },
+                    {
+                        "alwaysShowDeletionAmend": true,
+                        "amendType": "deletion",
+                        "disabled": true,
+                        "displayTitle": "Appendix <span class=\"code_deletion\">AH</span> <span class=\"code_deletion\">Patio Covers</span>",
+                        "reference": "AH",
+                        "slug": "patio-covers"
+                    },
+                    {
+                        "alwaysShowDeletionAmend": true,
+                        "amendType": "deletion",
+                        "disabled": true,
+                        "displayTitle": "Appendix <span class=\"code_deletion\">AI</span> <span class=\"code_deletion\">Private Sewage Disposal</span>",
+                        "reference": "AI",
+                        "slug": "private-sewage-disposal"
+                    },
+                    {
+                        "alwaysShowDeletionAmend": true,
+                        "amendType": "deletion",
+                        "disabled": true,
+                        "displayTitle": "Appendix <span class=\"code_deletion\">AJ</span> <span class=\"code_deletion\">Existing Buildings and Structures</span>",
+                        "reference": "AJ",
+                        "slug": "existing-buildings-and-structures"
+                    },
+                    {
+                        "disabled": true,
+                        "displayTitle": "Appendix AK Sound Transmission",
+                        "reference": "AK",
+                        "slug": "sound-transmission"
+                    },
+                    {
+                        "alwaysShowDeletionAmend": true,
+                        "amendType": "deletion",
+                        "disabled": true,
+                        "displayTitle": "Appendix <span class=\"code_deletion\">AL</span> <span class=\"code_deletion\">Permit Fees</span>",
+                        "reference": "AL",
+                        "slug": "permit-fees"
+                    },
+                    {
+                        "alwaysShowDeletionAmend": true,
+                        "amendType": "deletion",
+                        "disabled": true,
+                        "displayTitle": "Appendix <span class=\"code_deletion\">AM</span> <span class=\"code_deletion\">Home Day Care\u2014R-3 Occupancy</span>",
+                        "reference": "AM",
+                        "slug": "home-day-care-r-3-occupancy"
+                    },
+                    {
+                        "disabled": true,
+                        "displayTitle": "Appendix AN Venting Methods",
+                        "reference": "AN",
+                        "slug": "venting-methods"
+                    },
+                    {
+                        "disabled": true,
+                        "displayTitle": "Appendix AO Automatic Vehicular Gates",
+                        "reference": "AO",
+                        "slug": "automatic-vehicular-gates"
+                    },
+                    {
+                        "disabled": true,
+                        "displayTitle": "Appendix AP Sizing of Water Piping System",
+                        "reference": "AP",
+                        "slug": "sizing-of-water-piping-system"
+                    },
+                    {
+                        "amendType": "edit",
+                        "displayTitle": "Appendix AQ Tiny Houses",
+                        "hasChapterAdoption": true,
+                        "isExpandable": true,
+                        "reference": "AQ",
+                        "slug": "tiny-houses"
+                    },
+                    {
+                        "alwaysShowDeletionAmend": true,
+                        "amendType": "deletion",
+                        "disabled": true,
+                        "displayTitle": "Appendix <span class=\"code_deletion\">AR</span> <span class=\"code_deletion\">Light Straw-Clay Construction</span>",
+                        "reference": "AR",
+                        "slug": "light-straw-clay-construction"
+                    },
+                    {
+                        "alwaysShowDeletionAmend": true,
+                        "amendType": "deletion",
+                        "disabled": true,
+                        "displayTitle": "Appendix <span class=\"code_deletion\">AS</span> <span class=\"code_deletion\">Strawbale Construction</span>",
+                        "reference": "AS",
+                        "slug": "strawbale-construction"
+                    },
+                    {
+                        "alwaysShowDeletionAmend": true,
+                        "amendType": "deletion",
+                        "disabled": true,
+                        "displayTitle": "Appendix <span class=\"code_deletion\">AT</span> <span class=\"code_deletion\">[RE] Solar-Ready Provisions\u2014Detached One- And Two-Family Dwellings and Townhouses</span>",
+                        "reference": "AT",
+                        "slug": "re-solar-ready-provisions-detached-one-and-two-family-dwellings-and-townhouses"
+                    },
+                    {
+                        "alwaysShowDeletionAmend": true,
+                        "amendType": "deletion",
+                        "disabled": true,
+                        "displayTitle": "Appendix <span class=\"code_deletion\">AU</span> <span class=\"code_deletion\">Cob Construction (Monolithic Adobe)</span>",
+                        "reference": "AU",
+                        "slug": "cob-construction-monolithic-adobe"
+                    },
+                    {
+                        "alwaysShowDeletionAmend": true,
+                        "amendType": "deletion",
+                        "disabled": true,
+                        "displayTitle": "Appendix <span class=\"code_deletion\">AV</span> <span class=\"code_deletion\">Board of Appeals</span>",
+                        "reference": "AV",
+                        "slug": "board-of-appeals"
+                    },
+                    {
+                        "amendType": "edit",
+                        "displayTitle": "Appendix AW 3D-Printed Building Construction",
+                        "hasChapterAdoption": true,
+                        "isExpandable": true,
+                        "reference": "AW",
+                        "slug": "3d-printed-building-construction"
+                    },
+                    {
+                        "amendType": "addition",
+                        "displayTitle": "Appendix NC-A Swimming Pools, Spas and Hot Tubs",
+                        "isExpandable": true,
+                        "reference": "new_NC-A",
+                        "slug": "swimming-pools-spas-and-hot-tubs"
+                    },
+                    {
+                        "amendType": "addition",
+                        "displayTitle": "Appendix NC-B",
+                        "reference": "new_NC-B",
+                        "slug": "_"
+                    },
+                    {
+                        "amendType": "addition",
+                        "displayTitle": "Appendix NC-C Basic Load Estimating",
+                        "reference": "new_NC-C",
+                        "slug": "basic-load-estimating"
+                    },
+                    {
+                        "amendType": "addition",
+                        "displayTitle": "Appendix NC-D Foam Plastic Diagrams",
+                        "isExpandable": true,
+                        "reference": "new_NC-D",
+                        "slug": "foam-plastic-diagrams"
+                    },
+                    {
+                        "disabled": true,
+                        "displayTitle": "Appendix AX (RC) Zero Energy Residential Building Provisions",
+                        "reference": "AX",
+                        "slug": "rc-zero-energy-residential-building-provisions"
+                    }
+                ],
+                "leanCodeSectionsTree": [
+                    {
+                        "amendType": "edit",
+                        "ancestorRefs": [],
+                        "body": "<span class=\"code_addition\">The text of this chapter is extracted from the 2018 edition of the <i>North Carolina Mechanical Code</i> and has been modified where necessary to conform to the <a class=\"autolink\" href=\"/viewer/north_carolina/irc-2021/chapter/2/definitions#R201.1\">scope</a> of application of the <i>North Carolina Residential Code for One- and Two-Family <a class=\"autolink\" href=\"/viewer/north_carolina/irc-2021/chapter/2/definitions#dwelling_\">Dwellings</a></i>. The section numbers appearing in parentheses after each section number are the section numbers of the corresponding text in the <i>North Carolina Mechanical Code</i>.</span>",
+                        "depth": 0,
+                        "diagrams": [],
+                        "displayRef": null,
+                        "displayTitle": "Chapter 16 Duct Systems",
+                        "divisionType": "Chapter",
+                        "hasAssemblies": false,
+                        "isContiguous": true,
+                        "numAssembliesOnRef": 0,
+                        "numBuildingProductsOnRef": 0,
+                        "numDiagramsOnRef": 0,
+                        "reference": "16",
+                        "slug": "duct-systems",
+                        "titleText": "Duct Systems",
+                        "children": [
+                            {
+                                "ancestorRefs": [
+                                    "16"
+                                ],
+                                "depth": 1,
+                                "diagrams": [],
+                                "displayRef": null,
+                                "displayTitle": "Section M1601 Duct Construction",
+                                "divisionType": "Section",
+                                "hasAssemblies": false,
+                                "isContiguous": true,
+                                "numAssembliesOnRef": 0,
+                                "numBuildingProductsOnRef": 0,
+                                "numDiagramsOnRef": 0,
+                                "reference": "M1601",
+                                "slug": "duct-systems",
+                                "titleText": "Duct Construction",
+                                "children": [
+                                    {
+                                        "amendType": "edit",
+                                        "ancestorRefs": [
+                                            "16",
+                                            "M1601"
+                                        ],
+                                        "body": "<span class=\"u-italic\">Duct systems</span> serving heating, cooling and <span class=\"u-italic\">ventilation equipment</span> shall be installed in accordance with the provisions of this section and ACCA <i>Manual D</i>, the <span class=\"u-italic\">appliance</span> manufacturer's installation instructions or other <span class=\"u-italic\">approved</span> methods.",
+                                        "depth": 2,
+                                        "diagrams": [],
+                                        "displayRef": null,
+                                        "displayTitle": "M1601.1 <span class=\"code_addition\">(601.1) </span>Duct Design",
+                                        "hasAssemblies": false,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 0,
+                                        "numDiagramsOnRef": 0,
+                                        "reference": "M1601.1",
+                                        "slug": "duct-systems",
+                                        "titleText": "<span class=\"code_addition\">(601.1) </span>Duct Design",
+                                        "children": [
+                                            {
+                                                "amendType": "edit",
+                                                "ancestorRefs": [
+                                                    "16",
+                                                    "M1601",
+                                                    "M1601.1"
+                                                ],
+                                                "body": "<div>\n<div class=\"u-mt-3 u-mb-3\">Above-ground <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/north_carolina/irc-2021/chapter/2/definitions#duct_system_\">duct systems</a> </span>shall conform to the following:</div>\n<div class=\"u-list-dot-separated-deprecated\">\n<ol>\n<li><span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/north_carolina/irc-2021/chapter/2/definitions#equipment_\">Equipment</a> </span>connected to <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/north_carolina/irc-2021/chapter/2/definitions#duct_system_\">duct systems</a></span> shall be designed to limit discharge air temperature to not greater than 250\u00b0F (121\u00b0C).</li>\n<li>Factory-made <a class=\"autolink\" href=\"/viewer/north_carolina/irc-2021/chapter/2/definitions#duct_\">ducts</a> shall be <span class=\"u-italic\">listed</span> and <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/north_carolina/irc-2021/chapter/2/definitions#labeled_\">labeled</a></span> in accordance with UL 181 and installed in accordance with the manufacturer's instructions.</li>\n<li>Fibrous glass <a class=\"autolink\" href=\"/viewer/north_carolina/irc-2021/chapter/2/definitions#duct_\">duct</a> construction shall conform to the SMACNA Fibrous Glass <a class=\"autolink\" href=\"/viewer/north_carolina/irc-2021/chapter/2/definitions#duct_\">Duct</a> Construction Standards or <span class=\"u-italic\">NAIMA Fibrous Glass <a class=\"autolink\" href=\"/viewer/north_carolina/irc-2021/chapter/2/definitions#duct_\">Duct</a> Construction Standards<span class=\"u-italic\">.</span></span></li>\n<li>Field-fabricated and shop-fabricated metal and flexible <a class=\"autolink\" href=\"/viewer/north_carolina/irc-2021/chapter/2/definitions#duct_\">duct</a> constructions shall conform to the SMACNA HVAC <a class=\"autolink\" href=\"/viewer/north_carolina/irc-2021/chapter/2/definitions#duct_\">Duct</a> Construction Standards\u2014Metal and Flexible except as allowed by Table M1601.1.1. Galvanized steel shall conform to ASTM A653.</li>\n<li>The use of gypsum products to construct <a class=\"autolink\" href=\"/viewer/north_carolina/irc-2021/chapter/2/definitions#return_air_\">return air</a> <a class=\"autolink\" href=\"/viewer/north_carolina/irc-2021/chapter/2/definitions#duct_\">ducts</a> or <a class=\"autolink\" href=\"/viewer/north_carolina/irc-2021/chapter/2/definitions#plenum_\">plenums</a> is permitted, provided that the air temperature does not exceed 125\u00b0F (52\u00b0C) and exposed surfaces are not subject to condensation.</li>\n<li><span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/north_carolina/irc-2021/chapter/2/definitions#duct_system_\">Duct systems</a></span> shall be constructed of materials having a <a class=\"autolink\" href=\"/viewer/north_carolina/irc-2021/chapter/2/definitions#flame_spread_index_\">flame spread index</a> of not greater than 200.</li>\n<li>Stud wall cavities and the spaces between solid floor joists to be used as air <a class=\"autolink\" href=\"/viewer/north_carolina/irc-2021/chapter/2/definitions#plenum_\">plenums</a> shall comply with the following conditions:\n<ol>\n<li>These cavities or spaces shall not be used as a <a class=\"autolink\" href=\"/viewer/north_carolina/irc-2021/chapter/2/definitions#plenum_\">plenum</a> for <a class=\"autolink\" href=\"/viewer/north_carolina/irc-2021/chapter/2/definitions#supply_air_\">supply air</a>.</li>\n<li>These cavities or spaces shall not be part of a required fire-resistance-rated assembly.</li>\n<li>Stud wall cavities shall not convey air from more than one floor level.</li>\n<li>Stud wall cavities and joist-space <a class=\"autolink\" href=\"/viewer/north_carolina/irc-2021/chapter/2/definitions#plenum_\">plenums</a> shall be isolated from adjacent concealed spaces by tight-fitting <a class=\"autolink\" href=\"/viewer/north_carolina/irc-2021/chapter/2/definitions#fireblocking_\">fireblocking</a> in accordance with <a class=\"autolink\" href=\"/viewer/north_carolina/irc-2021/chapter/6/wall-construction#R602.8\">Section <span class=\"code_addition\">R602.8</span></a>.</li>\n<li>Stud wall cavities in the outside <a class=\"autolink\" href=\"/viewer/north_carolina/irc-2021/chapter/2/definitions#walls_\">walls</a> of building envelope assemblies shall not be utilized as air <a class=\"autolink\" href=\"/viewer/north_carolina/irc-2021/chapter/2/definitions#plenum_\">plenums</a>.</li>\n\n</ol>\n</li>\n\n</ol>\n</div>\n</div>\n<table class=\"u-table-fixed uc_table u-w-700px code_addition\"><caption><a id=\"table_M1601.1.1\" href=\"#table_M1601.1.1\" class=\"autolink_target\">TABLE M1601.1.1</a><br/><a class=\"autolink\" href=\"/viewer/north_carolina/irc-2021/chapter/2/definitions#duct_\">DUCT</a> CONSTRUCTION MINIMUM SHEET METAL THICKNESS FOR SINGLE <a class=\"autolink\" href=\"/viewer/north_carolina/irc-2021/chapter/2/definitions#dwelling_unit_\">DWELLING UNITS</a><sup>a</sup></caption><colgroup><col class=\"u-w-100px\"/><col class=\"u-w-150px\"/><col class=\"u-w-150px\"/><col class=\"u-w-250px\"/></colgroup>\n<tbody>\n<tr>\n<th><span class=\"u-font-bold\"><a class=\"autolink\" href=\"/viewer/north_carolina/irc-2021/chapter/2/definitions#duct_\">DUCT</a> SIZE</span></th>\n<th><span class=\"u-font-bold\">MINIMUM THICKNESS (inches)</span></th>\n<th><span class=\"u-font-bold\">EQUIVALENT GAGE (galvanized)</span></th>\n<th><span class=\"u-font-bold\">ALUMINUM MINIMUM THICKNESS (inches) [gage]</span></th>\n</tr>\n<tr>\n<td colspan=\"4\"><span class=\"u-font-bold\">Round <a class=\"autolink\" href=\"/viewer/north_carolina/irc-2021/chapter/2/definitions#duct_\">Ducts</a> and Enclosed Rectangular <a class=\"autolink\" href=\"/viewer/north_carolina/irc-2021/chapter/2/definitions#duct_\">Ducts</a></span></td>\n</tr>\n<tr>\n<td>14 inches or less</td>\n<td>0.013</td>\n<td>30</td>\n<td>0.0159 [26]</td>\n</tr>\n<tr>\n<td>Over 14 inches</td>\n<td>0.016</td>\n<td>28</td>\n<td>0.0201 [24]</td>\n</tr>\n<tr>\n<td colspan=\"4\"><span class=\"u-font-bold\">Exposed Rectangular <a class=\"autolink\" href=\"/viewer/north_carolina/irc-2021/chapter/2/definitions#duct_\">Ducts</a></span></td>\n</tr>\n<tr>\n<td>14 inches or less</td>\n<td>0.016</td>\n<td>28</td>\n<td>0.0201 [24]</td>\n</tr>\n<tr>\n<td>Over 14 inches</td>\n<td>0.019</td>\n<td>26</td>\n<td>0.0253 [22]</td>\n</tr>\n</tbody>\n</table>\n<div class=\"u-mt-3\"><span class=\"u-text-12px\">For SI: 1 inch = 25.4 mm.</span></div>",
+                                                "depth": 3,
+                                                "diagrams": [],
+                                                "displayRef": null,
+                                                "displayTitle": "M1601.1.1 Above-Ground Duct Systems",
+                                                "hasAssemblies": false,
+                                                "isContiguous": true,
+                                                "numAssembliesOnRef": 0,
+                                                "numBuildingProductsOnRef": 0,
+                                                "numDiagramsOnRef": 0,
+                                                "reference": "M1601.1.1",
+                                                "slug": "duct-systems",
+                                                "titleText": "Above-Ground Duct Systems",
+                                                "children": []
+                                            },
+                                            {
+                                                "amendType": "edit",
+                                                "ancestorRefs": [
+                                                    "16",
+                                                    "M1601",
+                                                    "M1601.1"
+                                                ],
+                                                "body": "Underground <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/north_carolina/irc-2021/chapter/2/definitions#duct_system_\">duct systems</a> </span>shall be constructed of <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/north_carolina/irc-2021/chapter/2/definitions#approved_\">approved</a> </span>concrete, clay, metal or plastic. The maximum <span class=\"code_addition\"><a class=\"autolink\" href=\"/viewer/north_carolina/irc-2021/chapter/2/definitions#duct_\">duct</a></span> temperature for plastic <span class=\"code_addition\"><a class=\"autolink\" href=\"/viewer/north_carolina/irc-2021/chapter/2/definitions#duct_\">ducts</a></span> shall <span class=\"code_addition\">not</span> be <span class=\"code_addition\">greater than</span> 150\u00b0F (66\u00b0C). Metal <a class=\"autolink\" href=\"/viewer/north_carolina/irc-2021/chapter/2/definitions#duct_\">ducts</a> shall be protected from corrosion in an <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/north_carolina/irc-2021/chapter/2/definitions#approved_\">approved</a> </span>manner or shall be completely encased in concrete not less than 2 inches (51 mm) thick. Nonmetallic <a class=\"autolink\" href=\"/viewer/north_carolina/irc-2021/chapter/2/definitions#duct_\">ducts</a> shall be installed in accordance with the manufacturer's instructions. Plastic pipe and fitting materials shall conform to cell classification 12454-B of ASTM D 1248 or ASTM D 1784 and external loading properties of ASTM D 2412. <a class=\"autolink\" href=\"/viewer/north_carolina/irc-2021/chapter/2/definitions#duct_\">Ducts</a> shall <a class=\"autolink\" href=\"/viewer/north_carolina/irc-2021/chapter/2/definitions#slope_\">slope</a> to <span class=\"code_addition\">an accessible point for</span> drainage. <span class=\"code_addition\">Where encased in concrete,</span> <a class=\"autolink\" href=\"/viewer/north_carolina/irc-2021/chapter/2/definitions#duct_\">ducts</a> shall be sealed <span class=\"code_addition\">and</span> secured prior to <span class=\"code_addition\">any</span> concrete <span class=\"code_addition\">being poured</span>. Metallic <a class=\"autolink\" href=\"/viewer/north_carolina/irc-2021/chapter/2/definitions#duct_\">ducts</a> having an <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/north_carolina/irc-2021/chapter/2/definitions#approved_\">approved</a> </span>protective coating and nonmetallic <a class=\"autolink\" href=\"/viewer/north_carolina/irc-2021/chapter/2/definitions#duct_\">ducts</a> shall be installed in accordance with the manufacturer's instructions.",
+                                                "depth": 3,
+                                                "diagrams": [],
+                                                "displayRef": null,
+                                                "displayTitle": "M1601.1.2 <span class=\"code_addition\">(603.8) </span>Underground Duct Systems",
+                                                "hasAssemblies": false,
+                                                "isContiguous": true,
+                                                "numAssembliesOnRef": 0,
+                                                "numBuildingProductsOnRef": 0,
+                                                "numDiagramsOnRef": 0,
+                                                "reference": "M1601.1.2",
+                                                "slug": "duct-systems",
+                                                "titleText": "<span class=\"code_addition\">(603.8) </span>Underground Duct Systems",
+                                                "children": []
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "amendType": "deletion",
+                                        "ancestorRefs": [
+                                            "16",
+                                            "M1601"
+                                        ],
+                                        "depth": 2,
+                                        "diagrams": [],
+                                        "displayRef": "<span class=\"code_deletion\">M1601.2</span>",
+                                        "displayTitle": "<span class=\"code_deletion\">M1601.2</span> <span class=\"code_deletion\">Vibration Isolators</span>",
+                                        "hasAssemblies": false,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 0,
+                                        "numDiagramsOnRef": 0,
+                                        "reference": "M1601.2",
+                                        "slug": "duct-systems",
+                                        "titleText": "<span class=\"code_deletion\">Vibration Isolators</span>",
+                                        "children": []
+                                    },
+                                    {
+                                        "amendType": "addition",
+                                        "ancestorRefs": [
+                                            "16",
+                                            "M1601"
+                                        ],
+                                        "body": "Flexible connectors installed between mechanical <i><a class=\"autolink\" href=\"/viewer/north_carolina/irc-2021/chapter/2/definitions#equipment_\">equipment</a></i> and metal <a class=\"autolink\" href=\"/viewer/north_carolina/irc-2021/chapter/2/definitions#duct_\">ducts</a> shall be fabricated from <i><a class=\"autolink\" href=\"/viewer/north_carolina/irc-2021/chapter/2/definitions#approved_\">approved</a></i> materials and shall not exceed 10 inches (254 mm) in length.",
+                                        "depth": 2,
+                                        "diagrams": [],
+                                        "displayRef": "M1601.2",
+                                        "displayTitle": "M1601.2 Flexible Connections",
+                                        "hasAssemblies": false,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 0,
+                                        "numDiagramsOnRef": 0,
+                                        "reference": "new_M1601.2",
+                                        "slug": "duct-systems",
+                                        "titleText": "Flexible Connections",
+                                        "children": []
+                                    },
+                                    {
+                                        "amendType": "edit",
+                                        "ancestorRefs": [
+                                            "16",
+                                            "M1601"
+                                        ],
+                                        "body": "<div class=\"u-mt-3 u-mb-3\"><a class=\"autolink\" href=\"/viewer/north_carolina/irc-2021/chapter/2/definitions#duct_\">Duct</a> insulation materials shall conform to the following requirements:</div>\n<ol class=\"u-list-decimal-separated\">\n<li><a class=\"autolink\" href=\"/viewer/north_carolina/irc-2021/chapter/2/definitions#duct_\">Duct</a> coverings and linings, including adhesives where used, shall have a <a class=\"autolink\" href=\"/viewer/north_carolina/irc-2021/chapter/2/definitions#flame_spread_index_\">flame spread index</a> not higher than 25, and a <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/north_carolina/irc-2021/chapter/2/definitions#smoke_developed_index_\">smoke-developed index</a></span> not over 50 when tested in accordance with ASTM E84 or UL 723, using the specimen preparation and mounting procedures of ASTM E2231.\n<div class=\"uc_exception\"><span class=\"u-font-bold\">Exception:</span> Spray application of polyurethane foam to the exterior of <a class=\"autolink\" href=\"/viewer/north_carolina/irc-2021/chapter/2/definitions#duct_\">ducts</a> in <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/north_carolina/irc-2021/chapter/2/definitions#attic_\">attics</a></span> and <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/north_carolina/irc-2021/chapter/2/definitions#crawl_space_\">crawl spaces</a></span> shall be permitted subject to all of the following:\n<ol>\n<li>The <a class=\"autolink\" href=\"/viewer/north_carolina/irc-2021/chapter/2/definitions#flame_spread_index_\">flame spread index</a> is not greater than <a class=\"autolink\" href=\"/viewer/north_carolina/irc-2021/chapter/25/plumbing-administration#25\">25</a> and the <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/north_carolina/irc-2021/chapter/2/definitions#smoke_developed_index_\">smoke-developed index</a></span> is not greater than 450 at the specified installed thickness.</li>\n<li>The foam plastic is protected in accordance with the ignition <a class=\"autolink\" href=\"/viewer/north_carolina/irc-2021/chapter/new_NC-A/swimming-pools-spas-and-hot-tubs#barrier\">barrier</a> requirements of Sections <a class=\"autolink\" href=\"/viewer/north_carolina/irc-2021/chapter/3/building-planning#R316.5.3\">R316.5.3</a> and <a class=\"autolink\" href=\"/viewer/north_carolina/irc-2021/chapter/3/building-planning#R316.5.4\">R316.5.4</a>.</li>\n<li>The foam plastic complies with the requirements of Section R316.</li>\n</ol>\n</div>\n</li>\n<li><a class=\"autolink\" href=\"/viewer/north_carolina/irc-2021/chapter/2/definitions#duct_\">Duct</a> coverings and linings shall not flame, glow, smolder or smoke when tested in accordance with ASTM C411 at the temperature to which they are exposed in service. The test temperature shall not fall below 250\u00b0F (121\u00b0C). Coverings and linings shall be <span class=\"u-italic\">listed</span> and <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/north_carolina/irc-2021/chapter/2/definitions#labeled_\">labeled</a></span>.</li>\n<li>External reflective <a class=\"autolink\" href=\"/viewer/north_carolina/irc-2021/chapter/2/definitions#duct_\">duct</a> insulation shall be legibly printed or identified at intervals not greater than 36 inches (914 mm) with the name of the manufacturer, the product <span class=\"u-italic\">R</span>-value at the specified installed thickness and the <a class=\"autolink\" href=\"/viewer/north_carolina/irc-2021/chapter/2/definitions#flame_spread_\">flame spread</a> and <a class=\"autolink\" href=\"/viewer/north_carolina/irc-2021/chapter/2/definitions#smoke_developed_index_\">smoke-developed indices</a>. The installed thickness of the external <a class=\"autolink\" href=\"/viewer/north_carolina/irc-2021/chapter/2/definitions#duct_\">duct</a> insulation shall include the enclosed air space(s). The product&nbsp;<span class=\"u-italic\">R</span>-value for external reflective <a class=\"autolink\" href=\"/viewer/north_carolina/irc-2021/chapter/2/definitions#duct_\">duct</a> insulation shall be determined in accordance with ASTM C1668.</li>\n<li>External <a class=\"autolink\" href=\"/viewer/north_carolina/irc-2021/chapter/2/definitions#duct_\">duct</a> insulation and factory-insulated flexible <a class=\"autolink\" href=\"/viewer/north_carolina/irc-2021/chapter/2/definitions#duct_\">ducts</a> shall be legibly printed or identified at intervals not longer than 36 inches (914 mm) with the name of the manufacturer, the <a class=\"autolink\" href=\"/viewer/north_carolina/irc-2021/chapter/2/definitions#thermal_resistance_r_value_\">thermal resistance</a> <span class=\"u-italic\">R</span>-value at the specified installed thickness and the <a class=\"autolink\" href=\"/viewer/north_carolina/irc-2021/chapter/2/definitions#flame_spread_\">flame spread</a> and smoke-developed <span class=\"code_addition\">indexes</span> of the composite materials. Spray polyurethane foam manufacturers shall provide the same product information and properties, at the nominal installed thickness, to the customer in writing at the time of foam application. Nonreflective <a class=\"autolink\" href=\"/viewer/north_carolina/irc-2021/chapter/2/definitions#duct_\">duct</a> insulation product <span class=\"u-italic\">R</span>-values shall be based on insulation only, excluding air films, vapor retarders or other <a class=\"autolink\" href=\"/viewer/north_carolina/irc-2021/chapter/2/definitions#duct_\">duct</a> components, and shall be based on tested C-values at 75\u00b0F (24\u00b0C) mean temperature at the installed thickness, in accordance with recognized industry procedures. The installed thickness of <a class=\"autolink\" href=\"/viewer/north_carolina/irc-2021/chapter/2/definitions#duct_\">duct</a> insulation used to determine its <span class=\"u-italic\">R</span>-value shall be determined as follows:\n<ol class=\"u-list-decimal-separated\">\n<li>For <a class=\"autolink\" href=\"/viewer/north_carolina/irc-2021/chapter/2/definitions#duct_\">duct</a> board, <a class=\"autolink\" href=\"/viewer/north_carolina/irc-2021/chapter/2/definitions#duct_\">duct</a> liner and factory-made rigid <a class=\"autolink\" href=\"/viewer/north_carolina/irc-2021/chapter/2/definitions#duct_\">ducts</a> not normally subjected to compression, the nominal insulation thickness shall be used.</li>\n<li>For ductwrap, the installed thickness shall be assumed to be 75 percent (25-percent compression) of nominal thickness.</li>\n<li>For factory-made flexible air <a class=\"autolink\" href=\"/viewer/north_carolina/irc-2021/chapter/2/definitions#duct_\">ducts</a>, The installed thickness shall be determined by dividing the difference between the actual outside <a class=\"autolink\" href=\"/viewer/north_carolina/irc-2021/chapter/2/definitions#diameter_\">diameter</a> and nominal inside <a class=\"autolink\" href=\"/viewer/north_carolina/irc-2021/chapter/2/definitions#diameter_\">diameter</a> by two.</li>\n<li>For spray polyurethane foam, the aged <span class=\"u-italic\">R</span>-value per inch measured in accordance with recognized industry standards shall be provided to the customer in writing at the time of foam application. In addition, the total <span class=\"u-italic\">R</span>-value for the nominal application thickness shall be provided.</li>\n</ol>\n</li>\n</ol>",
+                                        "depth": 2,
+                                        "diagrams": [],
+                                        "displayRef": null,
+                                        "displayTitle": "M1601.3 <span class=\"code_addition\">(604.4) </span>Duct Insulation Materials",
+                                        "hasAssemblies": false,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 0,
+                                        "numDiagramsOnRef": 0,
+                                        "reference": "M1601.3",
+                                        "slug": "duct-systems",
+                                        "titleText": "<span class=\"code_addition\">(604.4) </span>Duct Insulation Materials",
+                                        "children": []
+                                    },
+                                    {
+                                        "ancestorRefs": [
+                                            "16",
+                                            "M1601"
+                                        ],
+                                        "body": "<a class=\"autolink\" href=\"/viewer/north_carolina/irc-2021/chapter/2/definitions#duct_\">Duct</a> installation shall comply with Sections <a class=\"autolink\" href=\"#M1601.4.1\">M1601.4.1</a> through <a class=\"autolink\" href=\"#M1601.4.10\">M1601.4.10</a>.",
+                                        "depth": 2,
+                                        "diagrams": [],
+                                        "displayRef": null,
+                                        "displayTitle": "M1601.4 Installation",
+                                        "hasAssemblies": false,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 0,
+                                        "numDiagramsOnRef": 0,
+                                        "reference": "M1601.4",
+                                        "slug": "duct-systems",
+                                        "titleText": "Installation",
+                                        "children": [
+                                            {
+                                                "amendType": "edit",
+                                                "ancestorRefs": [
+                                                    "16",
+                                                    "M1601",
+                                                    "M1601.4"
+                                                ],
+                                                "body": "<div class=\"u-mt-3 u-mb-3\">Longitudinal and transverse joints, seams and connections in metallic and nonmetallic <a class=\"autolink\" href=\"/viewer/north_carolina/irc-2021/chapter/2/definitions#duct_\">ducts</a> shall be constructed as specified in SMACNA <i>HVAC <a class=\"autolink\" href=\"/viewer/north_carolina/irc-2021/chapter/2/definitions#duct_\">Duct</a> Construction Standards\u2014Metal and Flexible</i> and NAIMA <i>Fibrous Glass <a class=\"autolink\" href=\"/viewer/north_carolina/irc-2021/chapter/2/definitions#duct_\">Duct</a> Construction Standards</i>. Joints, longitudinal and transverse seams, and connections in ductwork shall be securely fastened and sealed with welds, gaskets, mastics (adhesives), mastic-plus-embedded-fabric systems, liquid sealants or tapes. Tapes and mastics used to seal fibrous glass ductwork shall be <span class=\"u-italic\">listed</span> and <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/north_carolina/irc-2021/chapter/2/definitions#labeled_\">labeled</a></span> in accordance with UL 181A and shall be marked \"181A-P\" for pressure-sensitive tape, \"181 A-M\" for mastic or \"181 A-H\" for heat-sensitive tape.</div>\n<div class=\"u-mt-3 u-mb-3\">Tapes and mastics used to seal metallic and flexible air <a class=\"autolink\" href=\"/viewer/north_carolina/irc-2021/chapter/2/definitions#duct_\">ducts</a> and <a class=\"autolink\" href=\"/viewer/north_carolina/irc-2021/chapter/2/definitions#flexible_air_connector_\">flexible air connectors</a> shall comply with UL 181B and shall be marked \"181 B-FX\" for pressure-sensitive tape or \"181 BM\" for mastic. <a class=\"autolink\" href=\"/viewer/north_carolina/irc-2021/chapter/2/definitions#duct_\">Duct</a> connections to flanges of air distribution system <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/north_carolina/irc-2021/chapter/2/definitions#equipment_\">equipment</a></span> shall be sealed and mechanically fastened. Mechanical fasteners for use with flexible nonmetallic air <a class=\"autolink\" href=\"/viewer/north_carolina/irc-2021/chapter/2/definitions#duct_\">ducts</a> shall comply with UL 181B and shall be marked 181B-C. Crimp joints for round metallic <a class=\"autolink\" href=\"/viewer/north_carolina/irc-2021/chapter/2/definitions#duct_\">ducts</a> shall have a contact lap of not less than 1 inch (25 mm) and shall be mechanically fastened by means of not less than three sheet-metal screws or rivets equally spaced around the joint. <span class=\"code_addition\">Unlisted <a class=\"autolink\" href=\"/viewer/north_carolina/irc-2021/chapter/2/definitions#duct_\">duct</a> tape is not permitted as a sealant on any metal <a class=\"autolink\" href=\"/viewer/north_carolina/irc-2021/chapter/2/definitions#duct_\">ducts</a>.</span></div>\n<div class=\"u-mt-3\">Closure systems used to seal all ductwork shall be installed in accordance with the manufacturers' instructions.<br/><br/></div>\n<div class=\"u-ml-4\">\n<div class=\"u-mb-3\"><span class=\"u-font-bold\">Exceptions:</span></div>\n<ol>\n<li>Spray polyurethane foam shall be permitted to be applied without additional joint seals.</li>\n<li>Where a <a class=\"autolink\" href=\"/viewer/north_carolina/irc-2021/chapter/2/definitions#duct_\">duct</a> connection is made that is partially <span class=\"code_addition\">inaccessible</span>, three screws or rivets shall be equally spaced on the exposed portion of the joint so as to prevent a hinge effect.</li>\n<li><span class=\"code_addition\">Deleted.</span></li>\n<li class=\"code_addition\">Continuously welded joints and seams in <a class=\"autolink\" href=\"/viewer/north_carolina/irc-2021/chapter/2/definitions#duct_\">ducts</a>.</li>\n<li class=\"code_addition\"><a class=\"autolink\" href=\"/viewer/north_carolina/irc-2021/chapter/2/definitions#duct_\">Ducts</a> exposed within the <a class=\"autolink\" href=\"/viewer/north_carolina/irc-2021/chapter/2/definitions#conditioned_space_\">conditioned space</a> that the <a class=\"autolink\" href=\"/viewer/north_carolina/irc-2021/chapter/2/definitions#duct_\">ducts</a> serve shall not be required to be sealed.</li>\n</ol>\n</div>",
+                                                "depth": 3,
+                                                "diagrams": [],
+                                                "displayRef": null,
+                                                "displayTitle": "M1601.4.1 Joints, Seams and Connections",
+                                                "hasAssemblies": false,
+                                                "isContiguous": true,
+                                                "numAssembliesOnRef": 0,
+                                                "numBuildingProductsOnRef": 0,
+                                                "numDiagramsOnRef": 0,
+                                                "reference": "M1601.4.1",
+                                                "slug": "duct-systems",
+                                                "titleText": "Joints, Seams and Connections",
+                                                "children": []
+                                            },
+                                            {
+                                                "amendType": "edit",
+                                                "ancestorRefs": [
+                                                    "16",
+                                                    "M1601",
+                                                    "M1601.4"
+                                                ],
+                                                "body": "Crimp joints for round and oval metal <a class=\"autolink\" href=\"/viewer/north_carolina/irc-2021/chapter/2/definitions#duct_\">ducts</a> shall be lapped not less than 1 inch (25 mm).",
+                                                "depth": 3,
+                                                "diagrams": [],
+                                                "displayRef": null,
+                                                "displayTitle": "M1601.4.2 Duct Lap",
+                                                "hasAssemblies": false,
+                                                "isContiguous": true,
+                                                "numAssembliesOnRef": 0,
+                                                "numBuildingProductsOnRef": 0,
+                                                "numDiagramsOnRef": 0,
+                                                "reference": "M1601.4.2",
+                                                "slug": "duct-systems",
+                                                "titleText": "Duct Lap",
+                                                "children": []
+                                            },
+                                            {
+                                                "ancestorRefs": [
+                                                    "16",
+                                                    "M1601",
+                                                    "M1601.4"
+                                                ],
+                                                "body": "Joints between plastic <a class=\"autolink\" href=\"/viewer/north_carolina/irc-2021/chapter/2/definitions#duct_\">ducts</a> and plastic fittings shall be made in accordance with the <a class=\"autolink\" href=\"/viewer/north_carolina/irc-2021/chapter/2/definitions#manufacturers_installation_instructions_\">manufacturer's installation instructions</a>.",
+                                                "depth": 3,
+                                                "diagrams": [],
+                                                "displayRef": null,
+                                                "displayTitle": "M1601.4.3 Plastic Duct Joints",
+                                                "hasAssemblies": false,
+                                                "isContiguous": true,
+                                                "numAssembliesOnRef": 0,
+                                                "numBuildingProductsOnRef": 0,
+                                                "numDiagramsOnRef": 0,
+                                                "reference": "M1601.4.3",
+                                                "slug": "duct-systems",
+                                                "titleText": "Plastic Duct Joints",
+                                                "children": []
+                                            },
+                                            {
+                                                "amendType": "edit",
+                                                "ancestorRefs": [
+                                                    "16",
+                                                    "M1601",
+                                                    "M1601.4"
+                                                ],
+                                                "body": "Factory-made <a class=\"autolink\" href=\"/viewer/north_carolina/irc-2021/chapter/2/definitions#duct_\">ducts</a> <span class=\"u-italic\">listed</span> in accordance with UL 181 shall be supported in accordance with the <a class=\"autolink\" href=\"/viewer/north_carolina/irc-2021/chapter/2/definitions#manufacturers_installation_instructions_\">manufacturer's installation instructions</a>. Field- and shop-fabricated fibrous glass <a class=\"autolink\" href=\"/viewer/north_carolina/irc-2021/chapter/2/definitions#duct_\">ducts</a> shall be supported in accordance with the SMACNA <i>Fibrous Glass <a class=\"autolink\" href=\"/viewer/north_carolina/irc-2021/chapter/2/definitions#duct_\">Duct</a> Construction Standards</i> or the NAIMA <i>Fibrous Glass <a class=\"autolink\" href=\"/viewer/north_carolina/irc-2021/chapter/2/definitions#duct_\">Duct</a> Construction Standards</i>. Field- and shop-fabricated metal and flexible <a class=\"autolink\" href=\"/viewer/north_carolina/irc-2021/chapter/2/definitions#duct_\">ducts</a> shall be supported in accordance with the SMACNA <i>HVAC <a class=\"autolink\" href=\"/viewer/north_carolina/irc-2021/chapter/2/definitions#duct_\">Duct</a> Construction Standards\u2014Metal and Flexible</i> <span class=\"code_addition\">or in accordance with <a class=\"autolink\" href=\"#new_M1601.4.4.1\">Section M1601.4.4.1</a></span>.\n<div class=\"u-mt-3\"><span class=\"code_addition\">All <a class=\"autolink\" href=\"/viewer/north_carolina/irc-2021/chapter/2/definitions#equipment_\">equipment</a> shall be supported independently of the <a class=\"autolink\" href=\"/viewer/north_carolina/irc-2021/chapter/2/definitions#duct_system_\">duct system</a> except when the <a class=\"autolink\" href=\"/viewer/north_carolina/irc-2021/chapter/2/definitions#duct_\">duct</a> is used as a support base. When used as a support base, the <a class=\"autolink\" href=\"/viewer/north_carolina/irc-2021/chapter/2/definitions#duct_\">duct</a> shall be of sufficient strength and designed to support the weight of the unit. Listed bases shall be installed in accordance with the <a class=\"autolink\" href=\"/viewer/north_carolina/irc-2021/chapter/2/definitions#manufacturers_installation_instructions_\">manufacturer's installation instructions</a>.</span></div>",
+                                                "depth": 3,
+                                                "diagrams": [
+                                                    {
+                                                        "key": "transverse_cable_bracing_round_duct",
+                                                        "title": "Transverse Cable Bracing for Strap Sup. Round Duct",
+                                                        "descriptionHtml": "",
+                                                        "topics": [
+                                                            "Mechanical",
+                                                            "Structural",
+                                                            "Example"
+                                                        ],
+                                                        "phases": [
+                                                            "Construction Phase",
+                                                            "Construction Docs"
+                                                        ],
+                                                        "supressesChildrenAssociations": false,
+                                                        "blacklistJurisdictions": [],
+                                                        "whitelistJurisdictions": [],
+                                                        "imageType": "svg"
+                                                    }
+                                                ],
+                                                "displayRef": null,
+                                                "displayTitle": "M1601.4.4 Support",
+                                                "hasAssemblies": false,
+                                                "hasDiagrams": true,
+                                                "hasDiagramsOnRef": true,
+                                                "isContiguous": true,
+                                                "numAssembliesOnRef": 0,
+                                                "numBuildingProductsOnRef": 0,
+                                                "numDiagramsOnRef": 1,
+                                                "reference": "M1601.4.4",
+                                                "slug": "duct-systems",
+                                                "titleText": "Support",
+                                                "children": [
+                                                    {
+                                                        "amendType": "addition",
+                                                        "ancestorRefs": [
+                                                            "16",
+                                                            "M1601",
+                                                            "M1601.4",
+                                                            "M1601.4.4"
+                                                        ],
+                                                        "body": "Metal <a class=\"autolink\" href=\"/viewer/north_carolina/irc-2021/chapter/2/definitions#duct_\">ducts</a> shall be securely supported. Where hung or suspended, metal straps a minimum of 1 inch (25 mm) in width and equivalent to or heavier gage than the <a class=\"autolink\" href=\"/viewer/north_carolina/irc-2021/chapter/2/definitions#duct_\">duct</a> being supported shall be used. Straps, when used, shall be at maximum 64-inch (1626 mm) intervals and shall be securely attached to the building structure. Straps shall be attached to the <a class=\"autolink\" href=\"/viewer/north_carolina/irc-2021/chapter/2/definitions#duct_\">duct</a> at a minimum of two points with screws or rivets.",
+                                                        "depth": 4,
+                                                        "diagrams": [],
+                                                        "displayRef": "M1601.4.4.1",
+                                                        "displayTitle": "M1601.4.4.1 (603.10.1) Metal Duct Minimal Support",
+                                                        "hasAssemblies": false,
+                                                        "hasDiagrams": true,
+                                                        "isContiguous": true,
+                                                        "numAssembliesOnRef": 0,
+                                                        "numBuildingProductsOnRef": 0,
+                                                        "numDiagramsOnRef": 0,
+                                                        "reference": "new_M1601.4.4.1",
+                                                        "slug": "duct-systems",
+                                                        "titleText": "(603.10.1) Metal Duct Minimal Support",
+                                                        "children": []
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "amendType": "edit",
+                                                "ancestorRefs": [
+                                                    "16",
+                                                    "M1601",
+                                                    "M1601.4"
+                                                ],
+                                                "body": "<a class=\"autolink\" href=\"/viewer/north_carolina/irc-2021/chapter/2/definitions#duct_\">Duct</a> installations shall be fireblocked in accordance with <a class=\"autolink\" href=\"/viewer/north_carolina/irc-2021/chapter/6/wall-construction#R602.8\">Section <span class=\"code_addition\">R602.8</span></a>.",
+                                                "depth": 3,
+                                                "diagrams": [],
+                                                "displayRef": null,
+                                                "displayTitle": "M1601.4.5 Fireblocking",
+                                                "hasAssemblies": false,
+                                                "isContiguous": true,
+                                                "numAssembliesOnRef": 0,
+                                                "numBuildingProductsOnRef": 0,
+                                                "numDiagramsOnRef": 0,
+                                                "reference": "M1601.4.5",
+                                                "slug": "duct-systems",
+                                                "titleText": "Fireblocking",
+                                                "children": []
+                                            },
+                                            {
+                                                "amendType": "edit",
+                                                "ancestorRefs": [
+                                                    "16",
+                                                    "M1601",
+                                                    "M1601.4"
+                                                ],
+                                                "body": "<div class=\"u-mb-3 u-mt-3\"><a class=\"autolink\" href=\"/viewer/north_carolina/irc-2021/chapter/2/definitions#duct_\">Duct</a> insulation shall be installed in accordance with the following requirements:</div>\n<ol>\n<li>A vapor retarder having a <span class=\"code_addition\">maximum</span> permeance of 0.05 perm [2.87 ng/(s <span class=\"code_addition\"><b>\u2022</b></span> m<sup>2 </sup><span class=\"code_addition\"><b>\u2022</b></span> Pa)] in accordance with ASTM E 96, or aluminum foil with a <span class=\"code_addition\">minimum</span> thickness of 2 mils (0.05 mm), shall be installed on the exterior of insulation on cooling supply <a class=\"autolink\" href=\"/viewer/north_carolina/irc-2021/chapter/2/definitions#duct_\">ducts</a> that pass through unconditioned spaces conducive to condensation except where the insulation is spray polyurethane foam with a <span class=\"code_addition\">maximum</span> water vapor permeance of 3 perm per inch [1722 ng/(s <span class=\"code_addition\"><b>\u2022</b></span> m<sup>2 </sup><span class=\"code_addition\"><b>\u2022</b></span> Pa)] at the installed thickness.</li>\n<li><span class=\"code_addition\">Exterior</span> <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/north_carolina/irc-2021/chapter/2/definitions#duct_system_\">duct systems</a> </span>shall be protected against the elements.</li>\n<li><a class=\"autolink\" href=\"/viewer/north_carolina/irc-2021/chapter/2/definitions#duct_\">Duct</a> coverings shall not penetrate a fireblocked wall or floor.</li>\n</ol>\n<span class=\"code_addition\">Replacement or <a class=\"autolink\" href=\"/viewer/north_carolina/irc-2021/chapter/2/definitions#addition_\">addition</a> of cooling <a class=\"autolink\" href=\"/viewer/north_carolina/irc-2021/chapter/2/definitions#equipment_\">equipment</a> to existing ductwork located in an <a class=\"autolink\" href=\"/viewer/north_carolina/irc-2021/chapter/2/definitions#attic_\">attic</a> shall require the ductwork to be insulated. Replacement of heating or the <a class=\"autolink\" href=\"/viewer/north_carolina/irc-2021/chapter/2/definitions#addition_\">addition</a> of cooling <a class=\"autolink\" href=\"/viewer/north_carolina/irc-2021/chapter/2/definitions#equipment_\">equipment</a> in a <a class=\"autolink\" href=\"/viewer/north_carolina/irc-2021/chapter/2/definitions#crawl_space_\">crawl space</a> or conditioned <a class=\"autolink\" href=\"/viewer/north_carolina/irc-2021/chapter/2/definitions#basement_\">basements</a> shall not require the existing ductwork to be insulated. Unconditioned <a class=\"autolink\" href=\"/viewer/north_carolina/irc-2021/chapter/2/definitions#basement_\">basement</a> ductwork shall require insulation with the <a class=\"autolink\" href=\"/viewer/north_carolina/irc-2021/chapter/2/definitions#addition_\">addition</a> of cooling <a class=\"autolink\" href=\"/viewer/north_carolina/irc-2021/chapter/2/definitions#equipment_\">equipment</a>.</span>",
+                                                "depth": 3,
+                                                "diagrams": [],
+                                                "displayRef": null,
+                                                "displayTitle": "M1601.4.6 <span class=\"code_addition\">(604.1) </span>Duct Insulation",
+                                                "hasAssemblies": false,
+                                                "isContiguous": true,
+                                                "numAssembliesOnRef": 0,
+                                                "numBuildingProductsOnRef": 0,
+                                                "numDiagramsOnRef": 0,
+                                                "reference": "M1601.4.6",
+                                                "slug": "duct-systems",
+                                                "titleText": "<span class=\"code_addition\">(604.1) </span>Duct Insulation",
+                                                "children": []
+                                            },
+                                            {
+                                                "ancestorRefs": [
+                                                    "16",
+                                                    "M1601",
+                                                    "M1601.4"
+                                                ],
+                                                "body": "<a class=\"autolink\" href=\"/viewer/north_carolina/irc-2021/chapter/2/definitions#factory_made_air_duct_\">Factory-made air ducts</a> shall not be installed in or on the ground, in tile or metal pipe, or within <a class=\"autolink\" href=\"/viewer/north_carolina/irc-2021/chapter/2/definitions#masonry_solid_\">masonry</a> or concrete.",
+                                                "depth": 3,
+                                                "diagrams": [],
+                                                "displayRef": null,
+                                                "displayTitle": "M1601.4.7 Factory-Made Air Ducts",
+                                                "hasAssemblies": false,
+                                                "isContiguous": true,
+                                                "numAssembliesOnRef": 0,
+                                                "numBuildingProductsOnRef": 0,
+                                                "numDiagramsOnRef": 0,
+                                                "reference": "M1601.4.7",
+                                                "slug": "duct-systems",
+                                                "titleText": "Factory-Made Air Ducts",
+                                                "children": []
+                                            },
+                                            {
+                                                "amendType": "edit",
+                                                "ancestorRefs": [
+                                                    "16",
+                                                    "M1601",
+                                                    "M1601.4"
+                                                ],
+                                                "body": "Ducts shall be installed with not less than 4 inches (102 mm) separation from earth except where they meet the requirements of Section M1601.1.2.",
+                                                "depth": 3,
+                                                "diagrams": [],
+                                                "displayRef": null,
+                                                "displayTitle": "M1601.4.8 <span class=\"code_addition\">(603.14) </span>Duct Separation",
+                                                "hasAssemblies": false,
+                                                "isContiguous": true,
+                                                "numAssembliesOnRef": 0,
+                                                "numBuildingProductsOnRef": 0,
+                                                "numDiagramsOnRef": 0,
+                                                "reference": "M1601.4.8",
+                                                "slug": "duct-systems",
+                                                "titleText": "<span class=\"code_addition\">(603.14) </span>Duct Separation",
+                                                "children": []
+                                            },
+                                            {
+                                                "ancestorRefs": [
+                                                    "16",
+                                                    "M1601",
+                                                    "M1601.4"
+                                                ],
+                                                "body": "<a class=\"autolink\" href=\"/viewer/north_carolina/irc-2021/chapter/2/definitions#duct_\">Ducts</a> in garages shall comply with the requirements of <a class=\"autolink\" href=\"/viewer/north_carolina/irc-2021/chapter/3/building-planning#R302.5.2\">Section R302.5.2</a>.",
+                                                "depth": 3,
+                                                "diagrams": [],
+                                                "displayRef": null,
+                                                "displayTitle": "M1601.4.9 Ducts Located in Garages",
+                                                "hasAssemblies": false,
+                                                "isContiguous": true,
+                                                "numAssembliesOnRef": 0,
+                                                "numBuildingProductsOnRef": 0,
+                                                "numDiagramsOnRef": 0,
+                                                "reference": "M1601.4.9",
+                                                "slug": "duct-systems",
+                                                "titleText": "Ducts Located in Garages",
+                                                "children": []
+                                            },
+                                            {
+                                                "amendType": "edit",
+                                                "ancestorRefs": [
+                                                    "16",
+                                                    "M1601",
+                                                    "M1601.4"
+                                                ],
+                                                "body": "In flood hazard areas as established by Table <span class=\"code_addition\">R301.2(1)</span>, <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/north_carolina/irc-2021/chapter/2/definitions#duct_system_\">duct systems</a> </span>shall be located or installed in accordance with <a class=\"autolink\" href=\"/viewer/north_carolina/irc-2021/chapter/3/building-planning#R322.1.6\">Section R322.1.6</a>.",
+                                                "depth": 3,
+                                                "diagrams": [],
+                                                "displayRef": null,
+                                                "displayTitle": "M1601.4.10 Flood Hazard Areas",
+                                                "hasAssemblies": false,
+                                                "isContiguous": true,
+                                                "numAssembliesOnRef": 0,
+                                                "numBuildingProductsOnRef": 0,
+                                                "numDiagramsOnRef": 0,
+                                                "reference": "M1601.4.10",
+                                                "slug": "duct-systems",
+                                                "titleText": "Flood Hazard Areas",
+                                                "children": []
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "ancestorRefs": [
+                                            "16",
+                                            "M1601"
+                                        ],
+                                        "body": "Under-floor <a class=\"autolink\" href=\"/viewer/north_carolina/irc-2021/chapter/2/definitions#plenum_\">plenums</a> shall be prohibited in new structures. Modification or <a class=\"autolink\" href=\"/viewer/north_carolina/irc-2021/chapter/2/definitions#repair_\">repairs</a> to under-floor <a class=\"autolink\" href=\"/viewer/north_carolina/irc-2021/chapter/2/definitions#plenum_\">plenums</a> in existing structures shall conform to the requirements of this section.",
+                                        "depth": 2,
+                                        "diagrams": [],
+                                        "displayRef": null,
+                                        "displayTitle": "M1601.5 Under-Floor Plenums",
+                                        "hasAssemblies": false,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 0,
+                                        "numDiagramsOnRef": 0,
+                                        "reference": "M1601.5",
+                                        "slug": "duct-systems",
+                                        "titleText": "Under-Floor Plenums",
+                                        "children": [
+                                            {
+                                                "amendType": "edit",
+                                                "ancestorRefs": [
+                                                    "16",
+                                                    "M1601",
+                                                    "M1601.5"
+                                                ],
+                                                "body": "<div class=\"u-mb-3 u-mt-3\">The space shall be cleaned of loose <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/north_carolina/irc-2021/chapter/2/definitions#combustible_material_\">combustible materials</a></span> and scrap, and shall be tightly enclosed. The ground surface of the space shall be covered with a moisture <a class=\"autolink\" href=\"/viewer/north_carolina/irc-2021/chapter/new_NC-A/swimming-pools-spas-and-hot-tubs#barrier\">barrier</a> having a <span class=\"code_addition\">minimum</span> thickness of 4 mils (0.1 mm). <a class=\"autolink\" href=\"/viewer/north_carolina/irc-2021/chapter/2/definitions#plumbing_\">Plumbing</a> <a class=\"autolink\" href=\"/viewer/north_carolina/irc-2021/chapter/2/definitions#waste_\">waste</a> <a class=\"autolink\" href=\"/viewer/north_carolina/irc-2021/chapter/2/definitions#cleanout_\">cleanouts</a> shall not be located within the space.</div>\n<div class=\"u-mb-3 u-ml-4 u-mt-3\"><span class=\"u-font-bold\">Exception: </span> <a class=\"autolink\" href=\"/viewer/north_carolina/irc-2021/chapter/2/definitions#plumbing_\">Plumbing</a> <a class=\"autolink\" href=\"/viewer/north_carolina/irc-2021/chapter/2/definitions#waste_\">waste</a> <a class=\"autolink\" href=\"/viewer/north_carolina/irc-2021/chapter/2/definitions#cleanout_\">cleanouts</a> shall be permitted to be located in unvented <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/north_carolina/irc-2021/chapter/2/definitions#crawl_space_\">crawl spaces</a></span> that receive <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/north_carolina/irc-2021/chapter/2/definitions#conditioned_air_\">conditioned air</a> </span>in accordance with <a class=\"autolink\" href=\"/viewer/north_carolina/irc-2021/chapter/4/foundations#new_R408.3\">Section R408.3</a>.</div>",
+                                                "depth": 3,
+                                                "diagrams": [],
+                                                "displayRef": null,
+                                                "displayTitle": "M1601.5.1 General",
+                                                "hasAssemblies": false,
+                                                "isContiguous": true,
+                                                "numAssembliesOnRef": 0,
+                                                "numBuildingProductsOnRef": 0,
+                                                "numDiagramsOnRef": 0,
+                                                "reference": "M1601.5.1",
+                                                "slug": "duct-systems",
+                                                "titleText": "General",
+                                                "children": []
+                                            },
+                                            {
+                                                "ancestorRefs": [
+                                                    "16",
+                                                    "M1601",
+                                                    "M1601.5"
+                                                ],
+                                                "body": "The under-floor space, including the sidewall insulation, shall be formed by materials having <a class=\"autolink\" href=\"/viewer/north_carolina/irc-2021/chapter/2/definitions#flame_spread_index_\">flame spread index</a> values not greater than 200 when tested in accordance with ASTM E84 or UL 723.",
+                                                "depth": 3,
+                                                "diagrams": [],
+                                                "displayRef": null,
+                                                "displayTitle": "M1601.5.2 Materials",
+                                                "hasAssemblies": false,
+                                                "isContiguous": true,
+                                                "numAssembliesOnRef": 0,
+                                                "numBuildingProductsOnRef": 0,
+                                                "numDiagramsOnRef": 0,
+                                                "reference": "M1601.5.2",
+                                                "slug": "duct-systems",
+                                                "titleText": "Materials",
+                                                "children": []
+                                            },
+                                            {
+                                                "ancestorRefs": [
+                                                    "16",
+                                                    "M1601",
+                                                    "M1601.5"
+                                                ],
+                                                "body": "<div class=\"u-mb-3 u-mt-3\">A <a class=\"autolink\" href=\"/viewer/north_carolina/irc-2021/chapter/2/definitions#duct_\">duct</a> shall extend from the <a class=\"autolink\" href=\"/viewer/north_carolina/irc-2021/chapter/2/definitions#furnace_\">furnace</a> supply outlet to not less than 6 inches (152 mm) below the combustible framing. This <a class=\"autolink\" href=\"/viewer/north_carolina/irc-2021/chapter/2/definitions#duct_\">duct</a> shall comply with the provisions of <a class=\"autolink\" href=\"#M1601.1\">Section M1601.1</a>. A noncombustible receptacle shall be installed below any floor opening into the <a class=\"autolink\" href=\"/viewer/north_carolina/irc-2021/chapter/2/definitions#plenum_\">plenum</a> in accordance with the following requirements:</div><ol><li>The receptacle shall be securely suspended from the floor members and shall be not more than 18 inches (457 mm) below the floor opening.</li><li>The area of the receptacle shall extend 3 inches (76 mm) beyond the opening on all sides.</li><li>The perimeter of the receptacle shall have a vertical lip not less than 1 inch (25 mm) in height at the open sides.</li></ol>",
+                                                "depth": 3,
+                                                "diagrams": [],
+                                                "displayRef": null,
+                                                "displayTitle": "M1601.5.3 Furnace Connections",
+                                                "hasAssemblies": false,
+                                                "isContiguous": true,
+                                                "numAssembliesOnRef": 0,
+                                                "numBuildingProductsOnRef": 0,
+                                                "numDiagramsOnRef": 0,
+                                                "reference": "M1601.5.3",
+                                                "slug": "duct-systems",
+                                                "titleText": "Furnace Connections",
+                                                "children": []
+                                            },
+                                            {
+                                                "ancestorRefs": [
+                                                    "16",
+                                                    "M1601",
+                                                    "M1601.5"
+                                                ],
+                                                "body": "<a class=\"autolink\" href=\"/viewer/north_carolina/irc-2021/chapter/2/definitions#access_to_\">Access to</a> an under-floor <a class=\"autolink\" href=\"/viewer/north_carolina/irc-2021/chapter/2/definitions#plenum_\">plenum</a> shall be provided through an opening in the floor with minimum dimensions of 18 inches by 24 inches (457 mm by 610 mm).",
+                                                "depth": 3,
+                                                "diagrams": [],
+                                                "displayRef": null,
+                                                "displayTitle": "M1601.5.4 Access",
+                                                "hasAssemblies": false,
+                                                "isContiguous": true,
+                                                "numAssembliesOnRef": 0,
+                                                "numBuildingProductsOnRef": 0,
+                                                "numDiagramsOnRef": 0,
+                                                "reference": "M1601.5.4",
+                                                "slug": "duct-systems",
+                                                "titleText": "Access",
+                                                "children": []
+                                            },
+                                            {
+                                                "ancestorRefs": [
+                                                    "16",
+                                                    "M1601",
+                                                    "M1601.5"
+                                                ],
+                                                "body": "The <a class=\"autolink\" href=\"/viewer/north_carolina/irc-2021/chapter/2/definitions#furnace_\">furnace</a> shall be equipped with an <a class=\"autolink\" href=\"/viewer/north_carolina/irc-2021/chapter/2/definitions#automatic_\">automatic</a> <a class=\"autolink\" href=\"/viewer/north_carolina/irc-2021/chapter/2/definitions#control_limit_\">control</a> that will start the air-circulating fan when the air in the <a class=\"autolink\" href=\"/viewer/north_carolina/irc-2021/chapter/2/definitions#furnace_\">furnace</a> bonnet reaches a temperature not higher than 150\u00b0F (66\u00b0C). The <a class=\"autolink\" href=\"/viewer/north_carolina/irc-2021/chapter/2/definitions#furnace_\">furnace</a> shall additionally be equipped with an <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/north_carolina/irc-2021/chapter/2/definitions#approved_\">approved</a> </span><a class=\"autolink\" href=\"/viewer/north_carolina/irc-2021/chapter/2/definitions#automatic_\">automatic</a> <a class=\"autolink\" href=\"/viewer/north_carolina/irc-2021/chapter/2/definitions#control_limit_\">control</a> that limits the outlet air temperature to 200\u00b0F (93\u00b0C).",
+                                                "depth": 3,
+                                                "diagrams": [],
+                                                "displayRef": null,
+                                                "displayTitle": "M1601.5.5 Furnace Controls",
+                                                "hasAssemblies": false,
+                                                "isContiguous": true,
+                                                "numAssembliesOnRef": 0,
+                                                "numBuildingProductsOnRef": 0,
+                                                "numDiagramsOnRef": 0,
+                                                "reference": "M1601.5.5",
+                                                "slug": "duct-systems",
+                                                "titleText": "Furnace Controls",
+                                                "children": []
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "ancestorRefs": [
+                                            "16",
+                                            "M1601"
+                                        ],
+                                        "body": "<a class=\"autolink\" href=\"/viewer/north_carolina/irc-2021/chapter/2/definitions#furnace_\">Furnaces</a> and air-handling systems that <a class=\"autolink\" href=\"/viewer/north_carolina/irc-2021/chapter/2/definitions#supply_air_\">supply air</a> to <a class=\"autolink\" href=\"/viewer/north_carolina/irc-2021/chapter/2/definitions#living_space_\">living spaces</a> shall not <a class=\"autolink\" href=\"/viewer/north_carolina/irc-2021/chapter/2/definitions#supply_air_\">supply air</a> to or <a class=\"autolink\" href=\"/viewer/north_carolina/irc-2021/chapter/2/definitions#return_air_\">return air</a> from a garage.",
+                                        "depth": 2,
+                                        "diagrams": [],
+                                        "displayRef": null,
+                                        "displayTitle": "M1601.6 Independent Garage HVAC Systems",
+                                        "hasAssemblies": false,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 0,
+                                        "numDiagramsOnRef": 0,
+                                        "reference": "M1601.6",
+                                        "slug": "duct-systems",
+                                        "titleText": "Independent Garage HVAC Systems",
+                                        "children": []
+                                    }
+                                ]
+                            },
+                            {
+                                "ancestorRefs": [
+                                    "16"
+                                ],
+                                "depth": 1,
+                                "diagrams": [],
+                                "displayRef": null,
+                                "displayTitle": "Section M1602 Return Air",
+                                "divisionType": "Section",
+                                "hasAssemblies": false,
+                                "isContiguous": true,
+                                "numAssembliesOnRef": 0,
+                                "numBuildingProductsOnRef": 0,
+                                "numDiagramsOnRef": 0,
+                                "reference": "M1602",
+                                "slug": "duct-systems",
+                                "titleText": "Return Air",
+                                "children": [
+                                    {
+                                        "ancestorRefs": [
+                                            "16",
+                                            "M1602"
+                                        ],
+                                        "body": "Outdoor intake openings shall be located in accordance with <a class=\"autolink\" href=\"/viewer/north_carolina/irc-2021/chapter/3/building-planning#R303.5.1\">Section R303.5.1</a>. Opening protection shall be in accordance with <a class=\"autolink\" href=\"/viewer/north_carolina/irc-2021/chapter/3/building-planning#R303.6\">Section R303.6</a>",
+                                        "depth": 2,
+                                        "diagrams": [],
+                                        "displayRef": null,
+                                        "displayTitle": "M1602.1 Outdoor Air Openings",
+                                        "hasAssemblies": false,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 0,
+                                        "numDiagramsOnRef": 0,
+                                        "reference": "M1602.1",
+                                        "slug": "duct-systems",
+                                        "titleText": "Outdoor Air Openings",
+                                        "children": []
+                                    },
+                                    {
+                                        "amendType": "edit",
+                                        "ancestorRefs": [
+                                            "16",
+                                            "M1602"
+                                        ],
+                                        "body": "<div class=\"u-mb-3 u-mt-3\"><a class=\"autolink\" href=\"/viewer/north_carolina/irc-2021/chapter/2/definitions#return_air_\">Return air</a> openings for heating, <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/north_carolina/irc-2021/chapter/2/definitions#ventilation_\">ventilation</a></span> and air conditioning systems shall comply with all of the following:</div>\n<ol>\n<li>Openings shall not be located less than 10 feet (3048 mm) measured in any direction from an open combustion chamber or <a class=\"autolink\" href=\"/viewer/north_carolina/irc-2021/chapter/2/definitions#draft_hood_\">draft hood</a> of another <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/north_carolina/irc-2021/chapter/2/definitions#appliance_\">appliance</a></span> located in the same room or space.</li>\n<li>The amount of <a class=\"autolink\" href=\"/viewer/north_carolina/irc-2021/chapter/2/definitions#return_air_\">return air</a> taken from any room or space shall be not greater than the flow rate of <a class=\"autolink\" href=\"/viewer/north_carolina/irc-2021/chapter/2/definitions#supply_air_\">supply air</a> delivered to such room or space.</li>\n<li>Return and transfer openings shall be sized in accordance with the <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/north_carolina/irc-2021/chapter/2/definitions#appliance_\">appliance</a></span> or <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/north_carolina/irc-2021/chapter/2/definitions#equipment_\">equipment</a></span> <span class=\"code_addition\">manufacturers'</span> installation instructions, Manual D or the design of the <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/north_carolina/irc-2021/chapter/2/definitions#registered_design_professional_\">registered design professional</a></span>.</li>\n<li>\n<div class=\"u-mb-3 u-pb-1 u-pt-1\"><a class=\"autolink\" href=\"/viewer/north_carolina/irc-2021/chapter/2/definitions#return_air_\">Return air</a> shall not be taken from a <a class=\"autolink\" href=\"/viewer/north_carolina/irc-2021/chapter/2/definitions#closet_\">closet</a>, bathroom, toilet room, <a class=\"autolink\" href=\"/viewer/north_carolina/irc-2021/chapter/2/definitions#kitchen_\">kitchen</a>, garage, mechanical room, <a class=\"autolink\" href=\"/viewer/north_carolina/irc-2021/chapter/2/definitions#boiler_\">boiler</a> room, <a class=\"autolink\" href=\"/viewer/north_carolina/irc-2021/chapter/2/definitions#furnace_\">furnace</a> room or unconditioned <a class=\"autolink\" href=\"/viewer/north_carolina/irc-2021/chapter/2/definitions#attic_\">attic</a>.</div>\n<div class=\"u-ml-4\">\n<div class=\"u-mb-3 u-pb-1 u-pt-1\"><span class=\"u-font-bold\">Exceptions:</span></div>\n<ol>\n<li>Taking <a class=\"autolink\" href=\"/viewer/north_carolina/irc-2021/chapter/2/definitions#return_air_\">return air</a> from a <a class=\"autolink\" href=\"/viewer/north_carolina/irc-2021/chapter/2/definitions#kitchen_\">kitchen</a> is not prohibited where such <a class=\"autolink\" href=\"/viewer/north_carolina/irc-2021/chapter/2/definitions#return_air_\">return air</a> openings serve the <a class=\"autolink\" href=\"/viewer/north_carolina/irc-2021/chapter/2/definitions#kitchen_\">kitchen</a> only, and are located not less than 10 feet (3048 mm) from the cooking <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/north_carolina/irc-2021/chapter/2/definitions#appliance_\">appliances</a></span>.</li>\n<li>Dedicated forced-air systems serving only the garage shall not be prohibited from obtaining <a class=\"autolink\" href=\"/viewer/north_carolina/irc-2021/chapter/2/definitions#return_air_\">return air</a> from the garage.</li>\n</ol>\n</div>\n</li>\n<li>Taking <a class=\"autolink\" href=\"/viewer/north_carolina/irc-2021/chapter/2/definitions#return_air_\">return air</a> from an unconditioned <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/north_carolina/irc-2021/chapter/2/definitions#crawl_space_\">crawl space</a></span> shall not be accomplished through a direct connection to the return side of a forced-air <a class=\"autolink\" href=\"/viewer/north_carolina/irc-2021/chapter/2/definitions#furnace_\">furnace</a>. Transfer openings in the <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/north_carolina/irc-2021/chapter/2/definitions#crawl_space_\">crawl space</a></span> enclosure shall not be prohibited.</li>\n<li><a class=\"autolink\" href=\"/viewer/north_carolina/irc-2021/chapter/2/definitions#return_air_\">Return air</a> from one <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/north_carolina/irc-2021/chapter/2/definitions#dwelling_unit_\">dwelling unit</a></span> shall not be discharged into another <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/north_carolina/irc-2021/chapter/2/definitions#dwelling_unit_\">dwelling unit</a></span>.</li>\n</ol>",
+                                        "depth": 2,
+                                        "diagrams": [],
+                                        "displayRef": null,
+                                        "displayTitle": "M1602.2 Return Air Openings",
+                                        "hasAssemblies": false,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 0,
+                                        "numDiagramsOnRef": 0,
+                                        "reference": "M1602.2",
+                                        "slug": "duct-systems",
+                                        "titleText": "Return Air Openings",
+                                        "children": []
+                                    },
+                                    {
+                                        "amendType": "addition",
+                                        "ancestorRefs": [
+                                            "16",
+                                            "M1602"
+                                        ],
+                                        "body": "If only one central <a class=\"autolink\" href=\"/viewer/north_carolina/irc-2021/chapter/2/definitions#return_air_\">return-air</a> grille is installed, it shall be of a size sufficient to return a volume of air compatible with the CFM requirements and the temperature rise limitations specified by the <a class=\"autolink\" href=\"/viewer/north_carolina/irc-2021/chapter/2/definitions#equipment_\">equipment</a> manufacturer. The face velocity of <a class=\"autolink\" href=\"/viewer/north_carolina/irc-2021/chapter/2/definitions#return_air_\">return air</a> grilles shall not exceed 450 feet per minute (fpm) (2.3 m/s). At least one separate return shall be installed on each level of a multi-level structure. For split-level and split-foyer structures, one return may serve more than one level if located within the split area and the total area of the levels does not exceed 1,600 square feet (148.6 m<sup>2</sup>). <a class=\"autolink\" href=\"/viewer/north_carolina/irc-2021/chapter/2/definitions#return_air_\">Return-air</a> grilles shall not be located in bathrooms. The <a class=\"autolink\" href=\"/viewer/north_carolina/irc-2021/chapter/2/definitions#return_air_\">return air</a> from one <a class=\"autolink\" href=\"/viewer/north_carolina/irc-2021/chapter/new_NC-A/swimming-pools-spas-and-hot-tubs#residential\">residential</a> living unit shall not be mixed with the <a class=\"autolink\" href=\"/viewer/north_carolina/irc-2021/chapter/2/definitions#return_air_\">return air</a> from other living units.<br/><br/>In <a class=\"autolink\" href=\"/viewer/north_carolina/irc-2021/chapter/2/definitions#dwelling_\">dwellings</a> with 1,600 square feet (148.6 m<sup>2</sup>) or less of conditioned area, a central return is permitted. When the <a class=\"autolink\" href=\"/viewer/north_carolina/irc-2021/chapter/2/definitions#dwelling_\">dwelling</a> contains more than 1,600 square feet (148.6 m<sup>2</sup>) of conditioned area, additional returns shall be provided. Each return shall serve not more than 1,600 square feet (148.6 m<sup>2</sup>) of area and shall be located in the area it serves. <a class=\"autolink\" href=\"/viewer/north_carolina/irc-2021/chapter/2/definitions#return_air_\">Return air</a> may travel through the <a class=\"autolink\" href=\"/viewer/north_carolina/irc-2021/chapter/2/definitions#living_space_\">living space</a> to the <a class=\"autolink\" href=\"/viewer/north_carolina/irc-2021/chapter/2/definitions#return_air_\">return-air</a> intake if there are no restrictions, such as solid doors, to the air movement. Undercut doors are allowed. When panned joists are used for <a class=\"autolink\" href=\"/viewer/north_carolina/irc-2021/chapter/2/definitions#return_air_\">return air</a>, the structural integrity shall be maintained. Air capacity for joists 16 inches (406 mm) on center shall be a maximum of 375 cubic feet per minute (0.177 m<sup>3</sup>/s) for 8-inch (203 mm) joists and 525 cubic feet per minute (0.248 m<sup>3</sup>/s) for 10-inch (254 mm) joists. Wiring located in spaces used for <a class=\"autolink\" href=\"/viewer/north_carolina/irc-2021/chapter/2/definitions#return_air_\">return-air</a> <a class=\"autolink\" href=\"/viewer/north_carolina/irc-2021/chapter/2/definitions#duct_\">ducts</a> shall comply with the&nbsp;<i>North Carolina Electrical Code</i>.<br/><br/>The delayed effective date of this Rule is January <a class=\"autolink\" href=\"/viewer/north_carolina/irc-2021/chapter/1/scope-and-administration#1\">1</a>, 2021.<br/>The Statutory authority for Rule-making is G. S. 143-136; 143-138.",
+                                        "depth": 2,
+                                        "diagrams": [],
+                                        "displayRef": "M1602.3",
+                                        "displayTitle": "M1602.3 (603.18) Return-Air Intake (Nonengineered Systems)",
+                                        "hasAssemblies": false,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 0,
+                                        "numDiagramsOnRef": 0,
+                                        "reference": "new_M1602.3",
+                                        "slug": "duct-systems",
+                                        "titleText": "(603.18) Return-Air Intake (Nonengineered Systems)",
+                                        "children": []
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            "chapterReference": "16"
+        },
+        "__N_SSP": true
+    },
+    "page": "/viewer/[urlFormPubOrJurisKey]/[urlFormPub]/chapter/[chapterRef]/[chapterName]",
+    "query": {
+        "urlFormPubOrJurisKey": "north_carolina",
+        "urlFormPub": "irc-2021",
+        "chapterRef": "16",
+        "chapterName": "duct-systems"
+    },
+    "buildId": "bq6oGVuYGAxmtMzrvJDng",
+    "isFallback": false,
+    "isExperimentalCompile": false,
+    "dynamicIds": [
+        61621,
+        54065
+    ],
+    "gssp": true,
+    "scriptLoader": []
+}

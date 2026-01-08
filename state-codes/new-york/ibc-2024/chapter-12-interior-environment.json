@@ -19,6 +19,7 @@
                 ],
                 "ingesterAmendmentsEnabled": false,
                 "ingesterCodeUnitsEnabled": false,
+                "isAmendStylingEnabled": true,
                 "isCorrespondable": true,
                 "jurisKey": "new_york",
                 "jurisName": "New York State",
@@ -45,7 +46,6 @@
                                 "href": "#1201.1",
                                 "isCodeDivider": false,
                                 "isCodeDividerClickable": false,
-                                "orderIndex": 43720000,
                                 "reference": "1201.1"
                             }
                         ],
@@ -55,7 +55,6 @@
                         "href": "#1201",
                         "isCodeDivider": false,
                         "isCodeDividerClickable": false,
-                        "orderIndex": 43710000,
                         "reference": "1201"
                     },
                     {
@@ -70,7 +69,6 @@
                                 "href": "#1202.1",
                                 "isCodeDivider": false,
                                 "isCodeDividerClickable": false,
-                                "orderIndex": 43740000,
                                 "reference": "1202.1"
                             },
                             {
@@ -85,7 +83,6 @@
                                         "href": "#1202.2.1",
                                         "isCodeDivider": false,
                                         "isCodeDividerClickable": false,
-                                        "orderIndex": 43760000,
                                         "reference": "1202.2.1"
                                     },
                                     {
@@ -97,7 +94,6 @@
                                         "href": "#1202.2.2",
                                         "isCodeDivider": false,
                                         "isCodeDividerClickable": false,
-                                        "orderIndex": 43770000,
                                         "reference": "1202.2.2"
                                     }
                                 ],
@@ -107,7 +103,6 @@
                                 "href": "#1202.2",
                                 "isCodeDivider": false,
                                 "isCodeDividerClickable": false,
-                                "orderIndex": 43750000,
                                 "reference": "1202.2"
                             },
                             {
@@ -119,7 +114,6 @@
                                 "href": "#1202.3",
                                 "isCodeDivider": false,
                                 "isCodeDividerClickable": false,
-                                "orderIndex": 43790000,
                                 "reference": "1202.3"
                             },
                             {
@@ -137,7 +131,6 @@
                                                 "href": "#1202.4.1.1",
                                                 "isCodeDivider": false,
                                                 "isCodeDividerClickable": false,
-                                                "orderIndex": 43820000,
                                                 "reference": "1202.4.1.1"
                                             },
                                             {
@@ -149,7 +142,6 @@
                                                 "href": "#1202.4.1.2",
                                                 "isCodeDivider": false,
                                                 "isCodeDividerClickable": false,
-                                                "orderIndex": 43830000,
                                                 "reference": "1202.4.1.2"
                                             }
                                         ],
@@ -159,7 +151,6 @@
                                         "href": "#1202.4.1",
                                         "isCodeDivider": false,
                                         "isCodeDividerClickable": false,
-                                        "orderIndex": 43810000,
                                         "reference": "1202.4.1"
                                     },
                                     {
@@ -171,7 +162,6 @@
                                         "href": "#1202.4.2",
                                         "isCodeDivider": false,
                                         "isCodeDividerClickable": false,
-                                        "orderIndex": 43840000,
                                         "reference": "1202.4.2"
                                     },
                                     {
@@ -186,7 +176,6 @@
                                                 "href": "#1202.4.3.1",
                                                 "isCodeDivider": false,
                                                 "isCodeDividerClickable": false,
-                                                "orderIndex": 43860000,
                                                 "reference": "1202.4.3.1"
                                             },
                                             {
@@ -198,7 +187,6 @@
                                                 "href": "#1202.4.3.2",
                                                 "isCodeDivider": false,
                                                 "isCodeDividerClickable": false,
-                                                "orderIndex": 43870000,
                                                 "reference": "1202.4.3.2"
                                             }
                                         ],
@@ -208,7 +196,6 @@
                                         "href": "#1202.4.3",
                                         "isCodeDivider": false,
                                         "isCodeDividerClickable": false,
-                                        "orderIndex": 43850000,
                                         "reference": "1202.4.3"
                                     },
                                     {
@@ -220,7 +207,6 @@
                                         "href": "#1202.4.4",
                                         "isCodeDivider": false,
                                         "isCodeDividerClickable": false,
-                                        "orderIndex": 43880000,
                                         "reference": "1202.4.4"
                                     }
                                 ],
@@ -230,7 +216,6 @@
                                 "href": "#1202.4",
                                 "isCodeDivider": false,
                                 "isCodeDividerClickable": false,
-                                "orderIndex": 43800000,
                                 "reference": "1202.4"
                             },
                             {
@@ -248,7 +233,6 @@
                                                 "href": "#1202.5.1.1",
                                                 "isCodeDivider": false,
                                                 "isCodeDividerClickable": false,
-                                                "orderIndex": 43910000,
                                                 "reference": "1202.5.1.1"
                                             },
                                             {
@@ -260,7 +244,6 @@
                                                 "href": "#1202.5.1.2",
                                                 "isCodeDivider": false,
                                                 "isCodeDividerClickable": false,
-                                                "orderIndex": 43920000,
                                                 "reference": "1202.5.1.2"
                                             }
                                         ],
@@ -270,7 +253,6 @@
                                         "href": "#1202.5.1",
                                         "isCodeDivider": false,
                                         "isCodeDividerClickable": false,
-                                        "orderIndex": 43900000,
                                         "reference": "1202.5.1"
                                     },
                                     {
@@ -285,7 +267,6 @@
                                                 "href": "#1202.5.2.1",
                                                 "isCodeDivider": false,
                                                 "isCodeDividerClickable": false,
-                                                "orderIndex": 43940000,
                                                 "reference": "1202.5.2.1"
                                             }
                                         ],
@@ -295,7 +276,6 @@
                                         "href": "#1202.5.2",
                                         "isCodeDivider": false,
                                         "isCodeDividerClickable": false,
-                                        "orderIndex": 43930000,
                                         "reference": "1202.5.2"
                                     },
                                     {
@@ -307,7 +287,6 @@
                                         "href": "#1202.5.3",
                                         "isCodeDivider": false,
                                         "isCodeDividerClickable": false,
-                                        "orderIndex": 43950000,
                                         "reference": "1202.5.3"
                                     }
                                 ],
@@ -317,7 +296,6 @@
                                 "href": "#1202.5",
                                 "isCodeDivider": false,
                                 "isCodeDividerClickable": false,
-                                "orderIndex": 43890000,
                                 "reference": "1202.5"
                             },
                             {
@@ -329,7 +307,6 @@
                                 "href": "#1202.6",
                                 "isCodeDivider": false,
                                 "isCodeDividerClickable": false,
-                                "orderIndex": 43960000,
                                 "reference": "1202.6"
                             }
                         ],
@@ -339,7 +316,6 @@
                         "href": "#1202",
                         "isCodeDivider": false,
                         "isCodeDividerClickable": false,
-                        "orderIndex": 43730000,
                         "reference": "1202"
                     },
                     {
@@ -354,7 +330,6 @@
                                 "href": "#1203.1",
                                 "isCodeDivider": false,
                                 "isCodeDividerClickable": false,
-                                "orderIndex": 43980000,
                                 "reference": "1203.1"
                             }
                         ],
@@ -364,7 +339,6 @@
                         "href": "#1203",
                         "isCodeDivider": false,
                         "isCodeDividerClickable": false,
-                        "orderIndex": 43970000,
                         "reference": "1203"
                     },
                     {
@@ -379,7 +353,6 @@
                                 "href": "#1204.1",
                                 "isCodeDivider": false,
                                 "isCodeDividerClickable": false,
-                                "orderIndex": 44010000,
                                 "reference": "1204.1"
                             },
                             {
@@ -394,7 +367,6 @@
                                         "href": "#1204.2.1",
                                         "isCodeDivider": false,
                                         "isCodeDividerClickable": false,
-                                        "orderIndex": 44030000,
                                         "reference": "1204.2.1"
                                     },
                                     {
@@ -406,7 +378,6 @@
                                         "href": "#1204.2.2",
                                         "isCodeDivider": false,
                                         "isCodeDividerClickable": false,
-                                        "orderIndex": 44040000,
                                         "reference": "1204.2.2"
                                     }
                                 ],
@@ -416,7 +387,6 @@
                                 "href": "#1204.2",
                                 "isCodeDivider": false,
                                 "isCodeDividerClickable": false,
-                                "orderIndex": 44020000,
                                 "reference": "1204.2"
                             },
                             {
@@ -428,7 +398,6 @@
                                 "href": "#1204.3",
                                 "isCodeDivider": false,
                                 "isCodeDividerClickable": false,
-                                "orderIndex": 44050000,
                                 "reference": "1204.3"
                             },
                             {
@@ -443,7 +412,6 @@
                                         "href": "#1204.4.1",
                                         "isCodeDivider": false,
                                         "isCodeDividerClickable": false,
-                                        "orderIndex": 44070000,
                                         "reference": "1204.4.1"
                                     }
                                 ],
@@ -453,7 +421,6 @@
                                 "href": "#1204.4",
                                 "isCodeDivider": false,
                                 "isCodeDividerClickable": false,
-                                "orderIndex": 44060000,
                                 "reference": "1204.4"
                             },
                             {
@@ -465,7 +432,6 @@
                                 "href": "#1204.5",
                                 "isCodeDivider": false,
                                 "isCodeDividerClickable": false,
-                                "orderIndex": 44080000,
                                 "reference": "1204.5"
                             }
                         ],
@@ -475,7 +441,6 @@
                         "href": "#1204",
                         "isCodeDivider": false,
                         "isCodeDividerClickable": false,
-                        "orderIndex": 44000000,
                         "reference": "1204"
                     },
                     {
@@ -490,7 +455,6 @@
                                 "href": "#1205.1",
                                 "isCodeDivider": false,
                                 "isCodeDividerClickable": false,
-                                "orderIndex": 44100000,
                                 "reference": "1205.1"
                             },
                             {
@@ -502,7 +466,6 @@
                                 "href": "#1205.2",
                                 "isCodeDivider": false,
                                 "isCodeDividerClickable": false,
-                                "orderIndex": 44110000,
                                 "reference": "1205.2"
                             },
                             {
@@ -517,7 +480,6 @@
                                         "href": "#1205.3.1",
                                         "isCodeDivider": false,
                                         "isCodeDividerClickable": false,
-                                        "orderIndex": 44130000,
                                         "reference": "1205.3.1"
                                     },
                                     {
@@ -529,7 +491,6 @@
                                         "href": "#1205.3.2",
                                         "isCodeDivider": false,
                                         "isCodeDividerClickable": false,
-                                        "orderIndex": 44140000,
                                         "reference": "1205.3.2"
                                     },
                                     {
@@ -541,7 +502,6 @@
                                         "href": "#1205.3.3",
                                         "isCodeDivider": false,
                                         "isCodeDividerClickable": false,
-                                        "orderIndex": 44150000,
                                         "reference": "1205.3.3"
                                     }
                                 ],
@@ -551,7 +511,6 @@
                                 "href": "#1205.3",
                                 "isCodeDivider": false,
                                 "isCodeDividerClickable": false,
-                                "orderIndex": 44120000,
                                 "reference": "1205.3"
                             }
                         ],
@@ -561,7 +520,6 @@
                         "href": "#1205",
                         "isCodeDivider": false,
                         "isCodeDividerClickable": false,
-                        "orderIndex": 44090000,
                         "reference": "1205"
                     },
                     {
@@ -576,7 +534,6 @@
                                 "href": "#1206.1",
                                 "isCodeDivider": false,
                                 "isCodeDividerClickable": false,
-                                "orderIndex": 44170000,
                                 "reference": "1206.1"
                             },
                             {
@@ -591,7 +548,6 @@
                                         "href": "#1206.2.1",
                                         "isCodeDivider": false,
                                         "isCodeDividerClickable": false,
-                                        "orderIndex": 44190000,
                                         "reference": "1206.2.1"
                                     }
                                 ],
@@ -601,7 +557,6 @@
                                 "href": "#1206.2",
                                 "isCodeDivider": false,
                                 "isCodeDividerClickable": false,
-                                "orderIndex": 44180000,
                                 "reference": "1206.2"
                             },
                             {
@@ -613,7 +568,6 @@
                                 "href": "#1206.3",
                                 "isCodeDivider": false,
                                 "isCodeDividerClickable": false,
-                                "orderIndex": 44200000,
                                 "reference": "1206.3"
                             }
                         ],
@@ -623,7 +577,6 @@
                         "href": "#1206",
                         "isCodeDivider": false,
                         "isCodeDividerClickable": false,
-                        "orderIndex": 44160000,
                         "reference": "1206"
                     },
                     {
@@ -638,7 +591,6 @@
                                 "href": "#1207.1",
                                 "isCodeDivider": false,
                                 "isCodeDividerClickable": false,
-                                "orderIndex": 44240000,
                                 "reference": "1207.1"
                             },
                             {
@@ -650,7 +602,6 @@
                                 "href": "#1207.2",
                                 "isCodeDivider": false,
                                 "isCodeDividerClickable": false,
-                                "orderIndex": 44250000,
                                 "reference": "1207.2"
                             }
                         ],
@@ -660,7 +611,6 @@
                         "href": "#1207",
                         "isCodeDivider": false,
                         "isCodeDividerClickable": false,
-                        "orderIndex": 44230000,
                         "reference": "1207"
                     },
                     {
@@ -675,7 +625,6 @@
                                 "href": "#1208.1",
                                 "isCodeDivider": false,
                                 "isCodeDividerClickable": false,
-                                "orderIndex": 44270000,
                                 "reference": "1208.1"
                             },
                             {
@@ -690,7 +639,6 @@
                                         "href": "#1208.2.1",
                                         "isCodeDivider": false,
                                         "isCodeDividerClickable": false,
-                                        "orderIndex": 44290000,
                                         "reference": "1208.2.1"
                                     }
                                 ],
@@ -700,7 +648,6 @@
                                 "href": "#1208.2",
                                 "isCodeDivider": false,
                                 "isCodeDividerClickable": false,
-                                "orderIndex": 44280000,
                                 "reference": "1208.2"
                             },
                             {
@@ -712,7 +659,6 @@
                                 "href": "#1208.3",
                                 "isCodeDivider": false,
                                 "isCodeDividerClickable": false,
-                                "orderIndex": 44300000,
                                 "reference": "1208.3"
                             },
                             {
@@ -724,7 +670,6 @@
                                 "href": "#1208.4",
                                 "isCodeDivider": false,
                                 "isCodeDividerClickable": false,
-                                "orderIndex": 44310000,
                                 "reference": "1208.4"
                             },
                             {
@@ -736,7 +681,6 @@
                                 "href": "#1208.5",
                                 "isCodeDivider": false,
                                 "isCodeDividerClickable": false,
-                                "orderIndex": 44320000,
                                 "reference": "1208.5"
                             }
                         ],
@@ -746,7 +690,6 @@
                         "href": "#1208",
                         "isCodeDivider": false,
                         "isCodeDividerClickable": false,
-                        "orderIndex": 44260000,
                         "reference": "1208"
                     },
                     {
@@ -761,7 +704,6 @@
                                 "href": "#1209.1",
                                 "isCodeDivider": false,
                                 "isCodeDividerClickable": false,
-                                "orderIndex": 44340000,
                                 "reference": "1209.1"
                             },
                             {
@@ -773,7 +715,6 @@
                                 "href": "#1209.2",
                                 "isCodeDivider": false,
                                 "isCodeDividerClickable": false,
-                                "orderIndex": 44350000,
                                 "reference": "1209.2"
                             },
                             {
@@ -785,7 +726,6 @@
                                 "href": "#1209.3",
                                 "isCodeDivider": false,
                                 "isCodeDividerClickable": false,
-                                "orderIndex": 44360000,
                                 "reference": "1209.3"
                             }
                         ],
@@ -795,7 +735,6 @@
                         "href": "#1209",
                         "isCodeDivider": false,
                         "isCodeDividerClickable": false,
-                        "orderIndex": 44330000,
                         "reference": "1209"
                     },
                     {
@@ -810,7 +749,6 @@
                                 "href": "#1210.1",
                                 "isCodeDivider": false,
                                 "isCodeDividerClickable": false,
-                                "orderIndex": 44380000,
                                 "reference": "1210.1"
                             },
                             {
@@ -825,7 +763,6 @@
                                         "href": "#1210.2.1",
                                         "isCodeDivider": false,
                                         "isCodeDividerClickable": false,
-                                        "orderIndex": 44400000,
                                         "reference": "1210.2.1"
                                     },
                                     {
@@ -837,7 +774,6 @@
                                         "href": "#1210.2.2",
                                         "isCodeDivider": false,
                                         "isCodeDividerClickable": false,
-                                        "orderIndex": 44410000,
                                         "reference": "1210.2.2"
                                     },
                                     {
@@ -849,7 +785,6 @@
                                         "href": "#1210.2.3",
                                         "isCodeDivider": false,
                                         "isCodeDividerClickable": false,
-                                        "orderIndex": 44420000,
                                         "reference": "1210.2.3"
                                     },
                                     {
@@ -861,7 +796,6 @@
                                         "href": "#1210.2.4",
                                         "isCodeDivider": false,
                                         "isCodeDividerClickable": false,
-                                        "orderIndex": 44430000,
                                         "reference": "1210.2.4"
                                     },
                                     {
@@ -873,7 +807,6 @@
                                         "href": "#1210.2.5",
                                         "isCodeDivider": false,
                                         "isCodeDividerClickable": false,
-                                        "orderIndex": 44440000,
                                         "reference": "1210.2.5"
                                     }
                                 ],
@@ -883,7 +816,6 @@
                                 "href": "#1210.2",
                                 "isCodeDivider": false,
                                 "isCodeDividerClickable": false,
-                                "orderIndex": 44390000,
                                 "reference": "1210.2"
                             },
                             {
@@ -898,7 +830,6 @@
                                         "href": "#1210.3.1",
                                         "isCodeDivider": false,
                                         "isCodeDividerClickable": false,
-                                        "orderIndex": 44460000,
                                         "reference": "1210.3.1"
                                     },
                                     {
@@ -910,7 +841,6 @@
                                         "href": "#1210.3.2",
                                         "isCodeDivider": false,
                                         "isCodeDividerClickable": false,
-                                        "orderIndex": 44470000,
                                         "reference": "1210.3.2"
                                     }
                                 ],
@@ -920,7 +850,6 @@
                                 "href": "#1210.3",
                                 "isCodeDivider": false,
                                 "isCodeDividerClickable": false,
-                                "orderIndex": 44450000,
                                 "reference": "1210.3"
                             }
                         ],
@@ -930,7 +859,6 @@
                         "href": "#1210",
                         "isCodeDivider": false,
                         "isCodeDividerClickable": false,
-                        "orderIndex": 44370000,
                         "reference": "1210"
                     },
                     {
@@ -945,7 +873,6 @@
                                 "href": "#1211.1",
                                 "isCodeDivider": false,
                                 "isCodeDividerClickable": false,
-                                "orderIndex": 44520000,
                                 "reference": "1211.1"
                             }
                         ],
@@ -955,7 +882,6 @@
                         "href": "#1211",
                         "isCodeDivider": false,
                         "isCodeDividerClickable": false,
-                        "orderIndex": 44510000,
                         "reference": "1211"
                     }
                 ],
@@ -965,7 +891,6 @@
                         "amendType": "edit",
                         "displayTitle": "Chapter 1 Scope and Administration",
                         "isExpandable": true,
-                        "orderIndex": 10000,
                         "reference": "1",
                         "slug": "scope-and-administration"
                     },
@@ -973,49 +898,42 @@
                         "amendType": "edit",
                         "displayTitle": "Chapter 2 Definitions",
                         "isExpandable": true,
-                        "orderIndex": 5470000,
                         "reference": "2",
                         "slug": "definitions"
                     },
                     {
                         "displayTitle": "Chapter 3 Occupancy Classification and Use",
                         "isExpandable": true,
-                        "orderIndex": 14850000,
                         "reference": "3",
                         "slug": "occupancy-classification-and-use"
                     },
                     {
                         "displayTitle": "Chapter 4 Special Detailed Requirements Based on Occupancy and Use",
                         "isExpandable": true,
-                        "orderIndex": 15870000,
                         "reference": "4",
                         "slug": "special-detailed-requirements-based-on-occupancy-and-use"
                     },
                     {
                         "displayTitle": "Chapter 5 General Building Heights and Areas",
                         "isExpandable": true,
-                        "orderIndex": 22700000,
                         "reference": "5",
                         "slug": "general-building-heights-and-areas"
                     },
                     {
                         "displayTitle": "Chapter 6 Types of Construction",
                         "isExpandable": true,
-                        "orderIndex": 23920000,
                         "reference": "6",
                         "slug": "types-of-construction"
                     },
                     {
                         "displayTitle": "Chapter 7 Fire and Smoke Protection Features",
                         "isExpandable": true,
-                        "orderIndex": 24380000,
                         "reference": "7",
                         "slug": "fire-and-smoke-protection-features"
                     },
                     {
                         "displayTitle": "Chapter 8 Interior Finishes",
                         "isExpandable": true,
-                        "orderIndex": 29860000,
                         "reference": "8",
                         "slug": "interior-finishes"
                     },
@@ -1023,7 +941,6 @@
                         "amendType": "edit",
                         "displayTitle": "Chapter 9 Fire Protection and Life Safety Systems",
                         "isExpandable": true,
-                        "orderIndex": 30570000,
                         "reference": "9",
                         "slug": "fire-protection-and-life-safety-systems"
                     },
@@ -1031,7 +948,6 @@
                         "amendType": "edit",
                         "displayTitle": "Chapter 10 Means of Egress",
                         "isExpandable": true,
-                        "orderIndex": 36300000,
                         "reference": "10",
                         "slug": "means-of-egress"
                     },
@@ -1039,7 +955,6 @@
                         "amendType": "edit",
                         "displayTitle": "Chapter 11 Accessibility",
                         "isExpandable": true,
-                        "orderIndex": 41050000,
                         "reference": "11",
                         "slug": "accessibility"
                     },
@@ -1047,56 +962,48 @@
                         "amendType": "edit",
                         "displayTitle": "Chapter 12 Interior Environment",
                         "isExpandable": true,
-                        "orderIndex": 43700000,
                         "reference": "12",
                         "slug": "interior-environment"
                     },
                     {
                         "displayTitle": "Chapter 13 Energy Efficiency",
                         "isExpandable": true,
-                        "orderIndex": 44530000,
                         "reference": "13",
                         "slug": "energy-efficiency"
                     },
                     {
                         "displayTitle": "Chapter 14 Exterior Walls",
                         "isExpandable": true,
-                        "orderIndex": 44580000,
                         "reference": "14",
                         "slug": "exterior-walls"
                     },
                     {
                         "displayTitle": "Chapter 15 Roof Assemblies and Rooftop Structures",
                         "isExpandable": true,
-                        "orderIndex": 46900000,
                         "reference": "15",
                         "slug": "roof-assemblies-and-rooftop-structures"
                     },
                     {
                         "displayTitle": "Chapter 16 Structural Design",
                         "isExpandable": true,
-                        "orderIndex": 49170000,
                         "reference": "16",
                         "slug": "structural-design"
                     },
                     {
                         "displayTitle": "Chapter 17 Special Inspections and Tests",
                         "isExpandable": true,
-                        "orderIndex": 51230000,
                         "reference": "17",
                         "slug": "special-inspections-and-tests"
                     },
                     {
                         "displayTitle": "Chapter 18 Soils and Foundations",
                         "isExpandable": true,
-                        "orderIndex": 52930000,
                         "reference": "18",
                         "slug": "soils-and-foundations"
                     },
                     {
                         "displayTitle": "Chapter 19 Concrete",
                         "isExpandable": true,
-                        "orderIndex": 55500000,
                         "reference": "19",
                         "slug": "concrete"
                     },
@@ -1104,28 +1011,24 @@
                         "amendType": "edit",
                         "displayTitle": "Chapter 20 Aluminum",
                         "isExpandable": true,
-                        "orderIndex": 56110000,
                         "reference": "20",
                         "slug": "aluminum"
                     },
                     {
                         "displayTitle": "Chapter 21 Masonry",
                         "isExpandable": true,
-                        "orderIndex": 56170000,
                         "reference": "21",
                         "slug": "masonry"
                     },
                     {
                         "displayTitle": "Chapter 22 Steel",
                         "isExpandable": true,
-                        "orderIndex": 58350000,
                         "reference": "22",
                         "slug": "steel"
                     },
                     {
                         "displayTitle": "Chapter 23 Wood",
                         "isExpandable": true,
-                        "orderIndex": 59070000,
                         "reference": "23",
                         "slug": "wood"
                     },
@@ -1133,7 +1036,6 @@
                         "amendType": "edit",
                         "displayTitle": "Chapter 24 Glass and Glazing",
                         "isExpandable": true,
-                        "orderIndex": 61680000,
                         "reference": "24",
                         "slug": "glass-and-glazing"
                     },
@@ -1141,7 +1043,6 @@
                         "amendType": "edit",
                         "displayTitle": "Chapter 25 Gypsum Panel Products and Plaster",
                         "isExpandable": true,
-                        "orderIndex": 62390000,
                         "reference": "25",
                         "slug": "gypsum-panel-products-and-plaster"
                     },
@@ -1149,7 +1050,6 @@
                         "amendType": "edit",
                         "displayTitle": "Chapter 26 Plastic",
                         "isExpandable": true,
-                        "orderIndex": 63280000,
                         "reference": "26",
                         "slug": "plastic"
                     },
@@ -1157,7 +1057,6 @@
                         "amendType": "edit",
                         "displayTitle": "Chapter 27 Electrical",
                         "isExpandable": true,
-                        "orderIndex": 64500000,
                         "reference": "27",
                         "slug": "electrical"
                     },
@@ -1165,7 +1064,6 @@
                         "amendType": "edit",
                         "displayTitle": "Chapter 28 Mechanical Systems",
                         "isExpandable": true,
-                        "orderIndex": 64980000,
                         "reference": "28",
                         "slug": "mechanical-systems"
                     },
@@ -1173,7 +1071,6 @@
                         "amendType": "edit",
                         "displayTitle": "Chapter 29 Plumbing Systems",
                         "isExpandable": true,
-                        "orderIndex": 65010000,
                         "reference": "29",
                         "slug": "plumbing-systems"
                     },
@@ -1181,7 +1078,6 @@
                         "amendType": "edit",
                         "displayTitle": "Chapter 30 Elevators and Conveying Systems",
                         "isExpandable": true,
-                        "orderIndex": 65370000,
                         "reference": "30",
                         "slug": "elevators-and-conveying-systems"
                     },
@@ -1189,7 +1085,6 @@
                         "amendType": "edit",
                         "displayTitle": "Chapter 31 Special Construction",
                         "isExpandable": true,
-                        "orderIndex": 66480000,
                         "reference": "31",
                         "slug": "special-construction"
                     },
@@ -1197,7 +1092,6 @@
                         "amendType": "edit",
                         "displayTitle": "Chapter 32 Encroachments Into the Public Right-of-Way",
                         "isExpandable": true,
-                        "orderIndex": 68950000,
                         "reference": "32",
                         "slug": "encroachments-into-the-public-right-of-way"
                     },
@@ -1205,21 +1099,18 @@
                         "amendType": "edit",
                         "displayTitle": "Chapter 33 Safeguards During Construction",
                         "isExpandable": true,
-                        "orderIndex": 69180000,
                         "reference": "33",
                         "slug": "safeguards-during-construction"
                     },
                     {
                         "amendType": "edit",
                         "displayTitle": "Chapter 34 Reserved",
-                        "orderIndex": 70030000,
                         "reference": "34",
                         "slug": "reserved"
                     },
                     {
                         "amendType": "edit",
                         "displayTitle": "Chapter 35 Referenced Standards",
-                        "orderIndex": 70140000,
                         "reference": "35",
                         "slug": "referenced-standards"
                     },
@@ -1227,7 +1118,6 @@
                         "amendType": "edit",
                         "disabled": true,
                         "displayTitle": "Appendix A Employee Qualifications",
-                        "orderIndex": 70150000,
                         "reference": "A",
                         "slug": "employee-qualifications"
                     },
@@ -1235,7 +1125,6 @@
                         "amendType": "edit",
                         "disabled": true,
                         "displayTitle": "Appendix B <span class=\"code_deletion\">Board of Appeals</span><span class=\"code_addition\">[NY] Reserved</span>",
-                        "orderIndex": 70230000,
                         "reference": "B",
                         "slug": "board-of-appeals"
                     },
@@ -1243,7 +1132,6 @@
                         "amendType": "edit",
                         "disabled": true,
                         "displayTitle": "Appendix C Group U\u2014Agricultural Buildings",
-                        "orderIndex": 70480000,
                         "reference": "C",
                         "slug": "group-u-agricultural-buildings"
                     },
@@ -1251,7 +1139,6 @@
                         "amendType": "edit",
                         "disabled": true,
                         "displayTitle": "Appendix D Fire Districts",
-                        "orderIndex": 70590000,
                         "reference": "D",
                         "slug": "fire-districts"
                     },
@@ -1260,7 +1147,6 @@
                         "displayTitle": "[BE] Appendix E Supplementary Accessibility Requirements",
                         "hasChapterAdoption": true,
                         "isExpandable": true,
-                        "orderIndex": 70920000,
                         "reference": "E",
                         "slug": "supplementary-accessibility-requirements"
                     },
@@ -1269,7 +1155,6 @@
                         "displayTitle": "Appendix F Rodentproofing",
                         "hasChapterAdoption": true,
                         "isExpandable": true,
-                        "orderIndex": 71630000,
                         "reference": "F",
                         "slug": "rodentproofing"
                     },
@@ -1277,7 +1162,6 @@
                         "amendType": "edit",
                         "disabled": true,
                         "displayTitle": "Appendix G Flood-Resistant Construction",
-                        "orderIndex": 71760000,
                         "reference": "G",
                         "slug": "flood-resistant-construction"
                     },
@@ -1285,7 +1169,6 @@
                         "amendType": "edit",
                         "disabled": true,
                         "displayTitle": "Appendix H Signs",
-                        "orderIndex": 72590000,
                         "reference": "H",
                         "slug": "signs"
                     },
@@ -1294,7 +1177,6 @@
                         "displayTitle": "Appendix I Patio Covers",
                         "hasChapterAdoption": true,
                         "isExpandable": true,
-                        "orderIndex": 73210000,
                         "reference": "I",
                         "slug": "patio-covers"
                     },
@@ -1302,7 +1184,6 @@
                         "amendType": "edit",
                         "disabled": true,
                         "displayTitle": "Appendix J Grading",
-                        "orderIndex": 73340000,
                         "reference": "J",
                         "slug": "grading"
                     },
@@ -1310,7 +1191,6 @@
                         "amendType": "edit",
                         "disabled": true,
                         "displayTitle": "Appendix K Administrative Provisions",
-                        "orderIndex": 73740000,
                         "reference": "K",
                         "slug": "administrative-provisions"
                     },
@@ -1318,7 +1198,6 @@
                         "amendType": "edit",
                         "disabled": true,
                         "displayTitle": "Appendix L Earthquake Recording Instrumentation",
-                        "orderIndex": 74260000,
                         "reference": "L",
                         "slug": "earthquake-recording-instrumentation"
                     },
@@ -1326,7 +1205,6 @@
                         "amendType": "edit",
                         "disabled": true,
                         "displayTitle": "Appendix M Tsunami-Generated Flood Hazards",
-                        "orderIndex": 74330000,
                         "reference": "M",
                         "slug": "tsunami-generated-flood-hazards"
                     },
@@ -1334,7 +1212,6 @@
                         "amendType": "edit",
                         "disabled": true,
                         "displayTitle": "Appendix N Replicable Buildings",
-                        "orderIndex": 74410000,
                         "reference": "N",
                         "slug": "replicable-buildings"
                     },
@@ -1342,7 +1219,6 @@
                         "amendType": "edit",
                         "disabled": true,
                         "displayTitle": "<span class=\"code_deletion\">[A]</span> Appendix O <span class=\"code_deletion\">Performance-Based Application</span><span class=\"code_addition\">[NY] Reserved</span>",
-                        "orderIndex": 74660000,
                         "reference": "O",
                         "slug": "performance-based-application"
                     },
@@ -1350,7 +1226,6 @@
                         "amendType": "edit",
                         "disabled": true,
                         "displayTitle": "Appendix P Sleeping Lofts",
-                        "orderIndex": 74860000,
                         "reference": "P",
                         "slug": "sleeping-lofts"
                     },
@@ -1358,7 +1233,6 @@
                         "amendType": "addition",
                         "displayTitle": "Appendix Q [NY] Assistive Listening Systems Performance Standards",
                         "isExpandable": true,
-                        "orderIndex": 76420000,
                         "reference": "new_Q",
                         "slug": "ny-assistive-listening-systems-performance-standards"
                     },
@@ -1366,7 +1240,6 @@
                         "amendType": "addition",
                         "displayTitle": "Appendix R [NY] Diaper Changing Stations",
                         "isExpandable": true,
-                        "orderIndex": 76510000,
                         "reference": "new_R",
                         "slug": "ny-diaper-changing-stations"
                     },
@@ -1374,7 +1247,6 @@
                         "amendType": "addition",
                         "displayTitle": "Appendix S [NY] Enhanced Classroom Acoustics",
                         "isExpandable": true,
-                        "orderIndex": 76790000,
                         "reference": "new_S",
                         "slug": "ny-enhanced-classroom-acoustics"
                     }
@@ -1394,7 +1266,6 @@
                         "numAssembliesOnRef": 0,
                         "numBuildingProductsOnRef": 0,
                         "numDiagramsOnRef": 0,
-                        "orderIndex": 43700000,
                         "reference": "12",
                         "slug": "interior-environment",
                         "titleText": "Interior Environment",
@@ -1413,7 +1284,6 @@
                                 "numAssembliesOnRef": 0,
                                 "numBuildingProductsOnRef": 0,
                                 "numDiagramsOnRef": 0,
-                                "orderIndex": 43710000,
                                 "reference": "1201",
                                 "slug": "interior-environment",
                                 "titleText": "General",
@@ -1433,7 +1303,6 @@
                                         "numAssembliesOnRef": 0,
                                         "numBuildingProductsOnRef": 0,
                                         "numDiagramsOnRef": 0,
-                                        "orderIndex": 43720000,
                                         "reference": "1201.1",
                                         "slug": "interior-environment",
                                         "titleText": "Scope",
@@ -1525,7 +1394,6 @@
                                 "numAssembliesOnRef": 0,
                                 "numBuildingProductsOnRef": 0,
                                 "numDiagramsOnRef": 4,
-                                "orderIndex": 43730000,
                                 "reference": "1202",
                                 "slug": "interior-environment",
                                 "titleText": "Ventilation",
@@ -1547,7 +1415,6 @@
                                         "numAssembliesOnRef": 0,
                                         "numBuildingProductsOnRef": 0,
                                         "numDiagramsOnRef": 0,
-                                        "orderIndex": 43740000,
                                         "reference": "1202.1",
                                         "slug": "interior-environment",
                                         "titleText": "General",
@@ -1627,7 +1494,6 @@
                                         "numAssembliesOnRef": 0,
                                         "numBuildingProductsOnRef": 1,
                                         "numDiagramsOnRef": 3,
-                                        "orderIndex": 43750000,
                                         "reference": "1202.2",
                                         "slug": "interior-environment",
                                         "titleText": "Roof Ventilation",
@@ -1737,7 +1603,6 @@
                                                 "numAssembliesOnRef": 0,
                                                 "numBuildingProductsOnRef": 3,
                                                 "numDiagramsOnRef": 5,
-                                                "orderIndex": 43760000,
                                                 "reference": "1202.2.1",
                                                 "slug": "interior-environment",
                                                 "titleText": "Ventilated Attics and Rafter Spaces",
@@ -1761,7 +1626,6 @@
                                                 "numAssembliesOnRef": 0,
                                                 "numBuildingProductsOnRef": 0,
                                                 "numDiagramsOnRef": 0,
-                                                "orderIndex": 43770000,
                                                 "reference": "1202.2.2",
                                                 "slug": "interior-environment",
                                                 "titleText": "Openings Into Attic",
@@ -1775,7 +1639,7 @@
                                             "12",
                                             "1202"
                                         ],
-                                        "body": "<div>\n<div class=\"u-mt-3 u-mb-3\">Unvented <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/new_york/ibc-2024/chapter/2/definitions#attic_\">attics</a></span> and unvented enclosed roof framing assemblies created by ceilings applied directly to the underside of the roof framing members/rafters and the structural roof sheathing at the top of the roof framing members shall be permitted where all of the following conditions are met:</div>\n<ol class=\"u-list-decimal-separated\">\n<li>The unvented <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/new_york/ibc-2024/chapter/2/definitions#attic_\">attic</a></span> space is completely within the <span class=\"u-italic\">building thermal envelope</span>.</li>\n<li>No interior Class I vapor retarders are installed on the ceiling side (<span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/new_york/ibc-2024/chapter/2/definitions#attic_\">attic</a></span> floor) of the unvented <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/new_york/ibc-2024/chapter/2/definitions#attic_\">attic</a></span> assembly or on the ceiling side of the unvented enclosed roof framing assembly.</li>\n<li>Where wood shingles or shakes are used, not less than a <sup>1</sup>/<sub>4</sub>-inch (6.4 mm) vented airspace separates the shingles or shakes and the roofing <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/new_york/ibc-2024/chapter/2/definitions#underlayment_\">underlayment</a></span> above the structural sheathing.</li>\n<li>In <a class=\"autolink\" href=\"/viewer/new_york/ibc-2024/chapter/2/definitions#climate_zone_\">Climate Zones</a> 5, 6, 7 and 8, any <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/new_york/ibc-2024/chapter/2/definitions#air_impermeable_insulation_\">air-impermeable insulation</a></span> shall be a Class II vapor retarder or shall have a Class II vapor retarder coating or covering in direct contact with the underside of the insulation.</li>\n<li>Insulation shall comply with either Item 5.1 or 5.2, and additionally Item 5.3.\n<ol class=\"u-list-decimal-separated\">\n<li>Item 5.1.1, 5.1.2, 5.1.3 or 5.1.4 shall be met, depending on the air permeability of the insulation directly under the structural roof sheathing.\n<ol class=\"u-list-decimal-separated\">\n<li>Where only <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/new_york/ibc-2024/chapter/2/definitions#air_impermeable_insulation_\">air-impermeable insulation</a></span> is provided, it shall be applied in direct contact with the underside of the structural roof sheathing.</li>\n<li>Where air-permeable insulation is provided inside the <span class=\"u-italic\">building</span> thermal envelope, it shall be installed in accordance with Item 5.1.1. In addition to the air-permeable insulation installed directly below the structural sheathing, rigid board or sheet insulation shall be installed directly above the structural roof sheathing in accordance with the <span class=\"u-italic\">R</span>-value percentages in Table 1202.3 for condensation control.</li>\n<li>Where both air-impermeable and air-permeable insulation are provided, the <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/new_york/ibc-2024/chapter/2/definitions#air_impermeable_insulation_\">air-impermeable insulation</a></span> shall be applied in direct contact with the underside of the structural roof sheathing in accordance with Item 5.1.1 and shall be in accordance with the <span class=\"u-italic\">R</span>-value percentages in Table 1202.3 for condensation control. The <span class=\"u-italic\">air-permeable insulation</span> shall be installed directly under the <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/new_york/ibc-2024/chapter/2/definitions#air_impermeable_insulation_\">air-impermeable insulation</a></span>.</li>\n<li>Alternatively, sufficient rigid board or sheet insulation shall be installed directly above the structural roof sheathing to maintain the monthly average temperature of the underside of the structural roof sheathing above 45\u00b0F (7\u00b0C). For calculation purposes, an interior air temperature of 68\u00b0F (20\u00b0C) is assumed and the exterior air temperature is assumed to be the monthly average outside air temperature of the three coldest months.</li>\n</ol>\n</li>\n<li>In <a class=\"autolink\" href=\"/viewer/new_york/ibc-2024/chapter/2/definitions#climate_zone_\">Climate Zones</a> 1, 2 and 3, air-permeable insulation installed in unvented <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/new_york/ibc-2024/chapter/2/definitions#attic_\">attics</a></span> shall meet the following requirements:\n<ol class=\"u-list-decimal-separated\">\n<li>A <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/new_york/ibc-2024/chapter/2/definitions#vapor_diffusion_port_\">vapor diffusion port</a></span> shall be installed not more than 12 inches (305 mm) from the highest point of the roof, measured vertically from the highest point of the roof to the lower edge of the port.</li>\n<li>The port area shall be greater than or equal to <sup>1</sup>/<sub>150</sub> of the ceiling area. Where there are multiple ports in the <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/new_york/ibc-2024/chapter/2/definitions#attic_\">attic</a></span>, the sum of the port areas shall be greater than or equal to the area requirement.</li>\n<li>The <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/new_york/ibc-2024/chapter/2/definitions#vapor_permeable_\">vapor permeable</a></span> membrane in the <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/new_york/ibc-2024/chapter/2/definitions#vapor_diffusion_port_\">vapor diffusion port</a></span> shall have a vapor permeance rating of greater than or equal to 20 perms when tested in accordance with Procedure A of ASTM E96.</li>\n<li>The <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/new_york/ibc-2024/chapter/2/definitions#vapor_diffusion_port_\">vapor diffusion port</a></span> shall serve as an air barrier between the <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/new_york/ibc-2024/chapter/2/definitions#attic_\">attic</a></span> and the exterior of the building.</li>\n<li>The <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/new_york/ibc-2024/chapter/2/definitions#vapor_diffusion_port_\">vapor diffusion port</a></span> shall protect the <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/new_york/ibc-2024/chapter/2/definitions#attic_\">attic</a></span> against the <a class=\"autolink\" href=\"/viewer/new_york/ibc-2024/chapter/2/definitions#entrance_public_\">entrance</a> of rain and snow.</li>\n<li>Framing members and blocking shall not block the free flow of water vapor to the port. Not less than a 2-inch (50 mm) space shall be provided between any blocking and the roof sheathing. Air-permeable insulation shall be permitted within that space.</li>\n<li>The roof slope shall be greater than or equal to 3 units vertical in 12 units horizontal (3:12).</li>\n<li>Where only air-permeable insulation is used, it shall be installed directly below the structural roof sheathing, on top the <a class=\"autolink\" href=\"/viewer/new_york/ibc-2024/chapter/2/definitions#attic_\">attic</a> floor, or on top of the ceiling.</li>\n<li>Where only air-permeable insulation is used and is installed directly below the structural roof sheathing, air shall be supplied at a flow rate greater than or equal to 50 cubic feet per minute (23.6 L/s) per 1,000 square feet (93 m<sup>2</sup>) of ceiling.</li>\n</ol>\n</li>\n<li>The air shall be supplied from ductwork providing supply air to the <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/new_york/ibc-2024/chapter/2/definitions#occupiable_space_\">occupiable space</a></span> when the conditioning system is operating. Alternatively, the air shall be supplied by a supply fan when the conditioning system is operating. Where preformed insulation board is used as the <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/new_york/ibc-2024/chapter/2/definitions#air_impermeable_insulation_\">air-impermeable insulation</a></span> layer, it shall be sealed at the perimeter of each individual sheet interior surface to form a continuous layer.</li>\n</ol>\n</li>\n</ol>\n<div class=\"u-ml-4\">\n<div class=\"u-mt-3 u-mb-3\"><span class=\"u-font-bold\">Exceptions: </span></div>\n<ol class=\"u-text-left\">\n<li>Section 1202.3 does not apply to special use <span class=\"u-italic\">structures</span> or enclosures such as <a class=\"autolink\" href=\"/viewer/new_york/ibc-2024/chapter/2/definitions#swimming_pool_\">swimming pool</a> enclosures, data processing centers, <span class=\"u-italic\">hospitals</span> or art galleries.</li>\n<li>Section 1202.3 does not apply to enclosures in <a class=\"autolink\" href=\"/viewer/new_york/ibc-2024/chapter/2/definitions#climate_zone_\">Climate Zones</a> 5 through 8 that are humidified beyond 35 percent during the three coldest months.</li>\n</ol>\n</div>\n</div>\n<figure>\n<figcaption>\n<div class=\"u-mt-3 u-mb-3\"><a id=\"table_1202.3\" href=\"#table_1202.3\" class=\"autolink_target\">TABLE 1202.3</a></div>\n<div class=\"u-mt-3 u-mb-3\">INSULATION FOR CONDENSATION CONTROL</div>\n</figcaption>\n<table class=\"uc_all_borders\">\n<tbody>\n<tr>\n<td class=\"u-text-center uc_all_borders\" colspan=\"1\" rowspan=\"1\"><span class=\"u-font-bold\"><a class=\"autolink\" href=\"/viewer/new_york/ibc-2024/chapter/2/definitions#climate_zone_\">CLIMATE ZONE</a></span></td>\n<td class=\"u-text-center u-align-top uc_all_borders\" colspan=\"1\" rowspan=\"1\"><span class=\"u-font-bold\">MINIMUM <span class=\"u-italic\">R</span>-VALUE OF <a class=\"autolink\" href=\"/viewer/new_york/ibc-2024/chapter/2/definitions#air_impermeable_insulation_\">AIR-IMPERMEABLE INSULATION</a> EXPRESSED AS A PERCENTAGE OF TOTAL R-VALUE<sup>a</sup></span></td>\n</tr>\n<tr>\n<td class=\"u-align-top u-text-left uc_all_borders\" colspan=\"1\" rowspan=\"1\">2B and 3B tile roof only</td>\n<td class=\"u-text-center u-align-top uc_all_borders\" colspan=\"1\" rowspan=\"1\">0 (none required)</td>\n</tr>\n<tr>\n<td class=\"u-align-top u-text-left uc_all_borders\" colspan=\"1\" rowspan=\"1\">1, 2A, 2B, 3A, 3B, 3C</td>\n<td class=\"u-text-center uc_all_borders\" colspan=\"1\" rowspan=\"1\">10%</td>\n</tr>\n<tr>\n<td class=\"u-align-top u-text-left uc_all_borders\" colspan=\"1\" rowspan=\"1\">4C</td>\n<td class=\"u-text-center u-align-top uc_all_borders\" colspan=\"1\" rowspan=\"1\">20%</td>\n</tr>\n<tr>\n<td class=\"u-align-top u-text-left uc_all_borders\" colspan=\"1\" rowspan=\"1\">4A, 4B</td>\n<td class=\"u-text-center u-align-top uc_all_borders\" colspan=\"1\" rowspan=\"1\">30%</td>\n</tr>\n<tr>\n<td class=\"u-align-top u-text-left uc_all_borders\" colspan=\"1\" rowspan=\"1\">5</td>\n<td class=\"u-text-center u-align-top uc_all_borders\" colspan=\"1\" rowspan=\"1\">40%</td>\n</tr>\n<tr>\n<td class=\"u-align-top u-text-left uc_all_borders\" colspan=\"1\" rowspan=\"1\">6</td>\n<td class=\"u-text-center u-align-top uc_all_borders\" colspan=\"1\" rowspan=\"1\">50%</td>\n</tr>\n<tr>\n<td class=\"u-align-top u-text-left uc_all_borders\" colspan=\"1\" rowspan=\"1\">7</td>\n<td class=\"u-text-center u-align-top uc_all_borders\" colspan=\"1\" rowspan=\"1\">60%</td>\n</tr>\n<tr>\n<td class=\"u-align-top u-text-left uc_all_borders\" colspan=\"1\" rowspan=\"1\">8</td>\n<td class=\"u-text-center u-align-top uc_all_borders\" colspan=\"1\" rowspan=\"1\">70%</td>\n</tr>\n</tbody>\n</table>\n<div>\n<div class=\"u-text-12px\">\n<ol class=\"u-list-lower-alpha\">\n<li class=\"u-text-12px\">Contributes to, but does not supersede, thermal resistance requirements for <a class=\"autolink\" href=\"/viewer/new_york/ibc-2024/chapter/2/definitions#attic_\">attic</a> and roof assemblies in Section C402.2.1 of the <span class=\"u-italic\">Energy Conservation <span class=\"code_addition\">Construction</span> Code <span class=\"code_addition\">of New York State</span></span>.</li>\n</ol>\n</div>\n</div>\n</figure>",
+                                        "body": "<div>\n<div class=\"u-mt-3 u-mb-3\">Unvented <span class=\"u-italic\">attics</span> and unvented enclosed roof framing assemblies created by ceilings applied directly to the underside of the roof framing members/rafters and the structural roof sheathing at the top of the roof framing members shall be permitted where all of the following conditions are met:</div>\n<ol class=\"u-list-decimal-separated\">\n<li>The unvented <span class=\"u-italic\">attic</span> space is completely within the <span class=\"u-italic\">building thermal envelope</span>.</li>\n<li>No interior Class I vapor retarders are installed on the ceiling side (<span class=\"u-italic\">attic</span> floor) of the unvented <span class=\"u-italic\">attic</span> assembly or on the ceiling side of the unvented enclosed roof framing assembly.</li>\n<li>Where wood shingles or shakes are used, not less than a <sup>1</sup>/<sub>4</sub>-inch (6.4 mm) vented airspace separates the shingles or shakes and the roofing <span class=\"u-italic\">underlayment</span> above the structural sheathing.</li>\n<li>In Climate Zones 5, 6, 7 and 8, any <span class=\"u-italic\">air-impermeable insulation</span> shall be a Class II vapor retarder or shall have a Class II vapor retarder coating or covering in direct contact with the underside of the insulation.</li>\n<li>Insulation shall comply with either Item 5.1 or 5.2, and additionally Item 5.3.\n<ol class=\"u-list-decimal-separated\">\n<li>Item 5.1.1, 5.1.2, 5.1.3 or 5.1.4 shall be met, depending on the air permeability of the insulation directly under the structural roof sheathing.\n<ol class=\"u-list-decimal-separated\">\n<li>Where only <span class=\"u-italic\">air-impermeable insulation</span> is provided, it shall be applied in direct contact with the underside of the structural roof sheathing.</li>\n<li>Where air-permeable insulation is provided inside the <span class=\"u-italic\">building</span> thermal envelope, it shall be installed in accordance with Item 5.1.1. In addition to the air-permeable insulation installed directly below the structural sheathing, rigid board or sheet insulation shall be installed directly above the structural roof sheathing in accordance with the <span class=\"u-italic\">R</span>-value percentages in Table 1202.3 for condensation control.</li>\n<li>Where both air-impermeable and air-permeable insulation are provided, the <span class=\"u-italic\">air-impermeable insulation</span> shall be applied in direct contact with the underside of the structural roof sheathing in accordance with Item 5.1.1 and shall be in accordance with the <span class=\"u-italic\">R</span>-value percentages in Table 1202.3 for condensation control. The <span class=\"u-italic\">air-permeable insulation</span> shall be installed directly under the <span class=\"u-italic\">air-impermeable insulation</span>.</li>\n<li>Alternatively, sufficient rigid board or sheet insulation shall be installed directly above the structural roof sheathing to maintain the monthly average temperature of the underside of the structural roof sheathing above 45\u00b0F (7\u00b0C). For calculation purposes, an interior air temperature of 68\u00b0F (20\u00b0C) is assumed and the exterior air temperature is assumed to be the monthly average outside air temperature of the three coldest months.</li>\n</ol>\n</li>\n<li>In Climate Zones 1, 2 and 3, air-permeable insulation installed in unvented <span class=\"u-italic\">attics</span> shall meet the following requirements:\n<ol class=\"u-list-decimal-separated\">\n<li>A <span class=\"u-italic\">vapor diffusion port</span> shall be installed not more than 12 inches (305 mm) from the highest point of the roof, measured vertically from the highest point of the roof to the lower edge of the port.</li>\n<li>The port area shall be greater than or equal to <sup>1</sup>/<sub>150</sub> of the ceiling area. Where there are multiple ports in the <span class=\"u-italic\">attic</span>, the sum of the port areas shall be greater than or equal to the area requirement.</li>\n<li>The <span class=\"u-italic\">vapor permeable</span> membrane in the <span class=\"u-italic\">vapor diffusion port</span> shall have a vapor permeance rating of greater than or equal to 20 perms when tested in accordance with Procedure A of ASTM E96.</li>\n<li>The <span class=\"u-italic\">vapor diffusion port</span> shall serve as an air barrier between the <span class=\"u-italic\">attic</span> and the exterior of the building.</li>\n<li>The <span class=\"u-italic\">vapor diffusion port</span> shall protect the <span class=\"u-italic\">attic</span> against the entrance of rain and snow.</li>\n<li>Framing members and blocking shall not block the free flow of water vapor to the port. Not less than a 2-inch (50 mm) space shall be provided between any blocking and the roof sheathing. Air-permeable insulation shall be permitted within that space.</li>\n<li>The roof slope shall be greater than or equal to 3 units vertical in 12 units horizontal (3:12).</li>\n<li>Where only air-permeable insulation is used, it shall be installed directly below the structural roof sheathing, on top the attic floor, or on top of the ceiling.</li>\n<li>Where only air-permeable insulation is used and is installed directly below the structural roof sheathing, air shall be supplied at a flow rate greater than or equal to 50 cubic feet per minute (23.6 L/s) per 1,000 square feet (93 m<sup>2</sup>) of ceiling.</li>\n</ol>\n</li>\n<li>The air shall be supplied from ductwork providing supply air to the <span class=\"u-italic\">occupiable space</span> when the conditioning system is operating. Alternatively, the air shall be supplied by a supply fan when the conditioning system is operating. Where preformed insulation board is used as the <span class=\"u-italic\">air-impermeable insulation</span> layer, it shall be sealed at the perimeter of each individual sheet interior surface to form a continuous layer.</li>\n</ol>\n</li>\n</ol>\n<div class=\"u-ml-4\">\n<div class=\"u-mt-3 u-mb-3\"><span class=\"u-font-bold\">Exceptions: </span></div>\n<ol class=\"u-text-left\">\n<li>Section 1202.3 does not apply to special use <span class=\"u-italic\">structures</span> or enclosures such as swimming pool enclosures, data processing centers, <span class=\"u-italic\">hospitals</span> or art galleries.</li>\n<li>Section 1202.3 does not apply to enclosures in Climate Zones 5 through 8 that are humidified beyond 35 percent during the three coldest months.</li>\n</ol>\n</div>\n</div>\n<figure>\n<figcaption>\n<div class=\"u-mt-3 u-mb-3\">TABLE 1202.3</div>\n<div class=\"u-mt-3 u-mb-3\">INSULATION FOR CONDENSATION CONTROL</div>\n</figcaption>\n<table class=\"uc_all_borders\">\n<tbody>\n<tr>\n<td class=\"u-text-center uc_all_borders\" colspan=\"1\" rowspan=\"1\"><span class=\"u-font-bold\">CLIMATE ZONE</span></td>\n<td class=\"u-text-center u-align-top uc_all_borders\" colspan=\"1\" rowspan=\"1\"><span class=\"u-font-bold\">MINIMUM <span class=\"u-italic\">R</span>-VALUE OF AIR-IMPERMEABLE INSULATION EXPRESSED AS A PERCENTAGE OF TOTAL R-VALUE<sup>a</sup></span></td>\n</tr>\n<tr>\n<td class=\"u-align-top u-text-left uc_all_borders\" colspan=\"1\" rowspan=\"1\">2B and 3B tile roof only</td>\n<td class=\"u-text-center u-align-top uc_all_borders\" colspan=\"1\" rowspan=\"1\">0 (none required)</td>\n</tr>\n<tr>\n<td class=\"u-align-top u-text-left uc_all_borders\" colspan=\"1\" rowspan=\"1\">1, 2A, 2B, 3A, 3B, 3C</td>\n<td class=\"u-text-center uc_all_borders\" colspan=\"1\" rowspan=\"1\">10%</td>\n</tr>\n<tr>\n<td class=\"u-align-top u-text-left uc_all_borders\" colspan=\"1\" rowspan=\"1\">4C</td>\n<td class=\"u-text-center u-align-top uc_all_borders\" colspan=\"1\" rowspan=\"1\">20%</td>\n</tr>\n<tr>\n<td class=\"u-align-top u-text-left uc_all_borders\" colspan=\"1\" rowspan=\"1\">4A, 4B</td>\n<td class=\"u-text-center u-align-top uc_all_borders\" colspan=\"1\" rowspan=\"1\">30%</td>\n</tr>\n<tr>\n<td class=\"u-align-top u-text-left uc_all_borders\" colspan=\"1\" rowspan=\"1\">5</td>\n<td class=\"u-text-center u-align-top uc_all_borders\" colspan=\"1\" rowspan=\"1\">40%</td>\n</tr>\n<tr>\n<td class=\"u-align-top u-text-left uc_all_borders\" colspan=\"1\" rowspan=\"1\">6</td>\n<td class=\"u-text-center u-align-top uc_all_borders\" colspan=\"1\" rowspan=\"1\">50%</td>\n</tr>\n<tr>\n<td class=\"u-align-top u-text-left uc_all_borders\" colspan=\"1\" rowspan=\"1\">7</td>\n<td class=\"u-text-center u-align-top uc_all_borders\" colspan=\"1\" rowspan=\"1\">60%</td>\n</tr>\n<tr>\n<td class=\"u-align-top u-text-left uc_all_borders\" colspan=\"1\" rowspan=\"1\">8</td>\n<td class=\"u-text-center u-align-top uc_all_borders\" colspan=\"1\" rowspan=\"1\">70%</td>\n</tr>\n</tbody>\n</table>\n<div>\n<div class=\"u-text-12px\">\n<ol class=\"u-list-lower-alpha\">\n<li class=\"u-text-12px\">Contributes to, but does not supersede, thermal resistance requirements for attic and roof assemblies in Section C402.2.1 of the <span class=\"u-italic\">Energy Conservation <span class=\"code_addition\">Construction</span> Code <span class=\"code_addition\">of New York State</span></span>.</li>\n</ol>\n</div>\n</div>\n</figure>",
                                         "depth": 2,
                                         "diagrams": [],
                                         "displayRef": null,
@@ -1784,9 +1648,8 @@
                                         "hasDiagrams": true,
                                         "isContiguous": true,
                                         "numAssembliesOnRef": 0,
-                                        "numBuildingProductsOnRef": 6,
+                                        "numBuildingProductsOnRef": 10,
                                         "numDiagramsOnRef": 0,
-                                        "orderIndex": 43790000,
                                         "reference": "1202.3",
                                         "slug": "interior-environment",
                                         "titleText": "Unvented Attic and Unvented Enclosed Rafter Assemblies",
@@ -1854,9 +1717,8 @@
                                         "hasDiagramsOnRef": true,
                                         "isContiguous": true,
                                         "numAssembliesOnRef": 0,
-                                        "numBuildingProductsOnRef": 3,
+                                        "numBuildingProductsOnRef": 7,
                                         "numDiagramsOnRef": 2,
-                                        "orderIndex": 43800000,
                                         "reference": "1202.4",
                                         "slug": "interior-environment",
                                         "titleText": "Under-Floor Ventilation",
@@ -1903,7 +1765,6 @@
                                                 "numAssembliesOnRef": 0,
                                                 "numBuildingProductsOnRef": 0,
                                                 "numDiagramsOnRef": 1,
-                                                "orderIndex": 43810000,
                                                 "reference": "1202.4.1",
                                                 "slug": "interior-environment",
                                                 "titleText": "Ventilation Openings",
@@ -1926,7 +1787,6 @@
                                                         "numAssembliesOnRef": 0,
                                                         "numBuildingProductsOnRef": 0,
                                                         "numDiagramsOnRef": 0,
-                                                        "orderIndex": 43820000,
                                                         "reference": "1202.4.1.1",
                                                         "slug": "interior-environment",
                                                         "titleText": "Ventilation Area for Crawl Spaces With Open Earth Floors",
@@ -1973,7 +1833,6 @@
                                                         "numAssembliesOnRef": 0,
                                                         "numBuildingProductsOnRef": 0,
                                                         "numDiagramsOnRef": 1,
-                                                        "orderIndex": 43830000,
                                                         "reference": "1202.4.1.2",
                                                         "slug": "interior-environment",
                                                         "titleText": "Ventilation Area for Crawl Spaces With Covered Floors",
@@ -1998,7 +1857,6 @@
                                                 "numAssembliesOnRef": 0,
                                                 "numBuildingProductsOnRef": 0,
                                                 "numDiagramsOnRef": 0,
-                                                "orderIndex": 43840000,
                                                 "reference": "1202.4.2",
                                                 "slug": "interior-environment",
                                                 "titleText": "Ventilation in Cold Climates",
@@ -2021,7 +1879,6 @@
                                                 "numAssembliesOnRef": 0,
                                                 "numBuildingProductsOnRef": 0,
                                                 "numDiagramsOnRef": 0,
-                                                "orderIndex": 43850000,
                                                 "reference": "1202.4.3",
                                                 "slug": "interior-environment",
                                                 "titleText": "Mechanical Ventilation",
@@ -2044,7 +1901,6 @@
                                                         "numAssembliesOnRef": 0,
                                                         "numBuildingProductsOnRef": 0,
                                                         "numDiagramsOnRef": 0,
-                                                        "orderIndex": 43860000,
                                                         "reference": "1202.4.3.1",
                                                         "slug": "interior-environment",
                                                         "titleText": "Continuous Mechanical Ventilation",
@@ -2069,7 +1925,6 @@
                                                         "numAssembliesOnRef": 0,
                                                         "numBuildingProductsOnRef": 0,
                                                         "numDiagramsOnRef": 0,
-                                                        "orderIndex": 43870000,
                                                         "reference": "1202.4.3.2",
                                                         "slug": "interior-environment",
                                                         "titleText": "Conditioned Space",
@@ -2172,7 +2027,6 @@
                                                 "numAssembliesOnRef": 0,
                                                 "numBuildingProductsOnRef": 0,
                                                 "numDiagramsOnRef": 4,
-                                                "orderIndex": 43880000,
                                                 "reference": "1202.4.4",
                                                 "slug": "interior-environment",
                                                 "titleText": "Flood Hazard Areas",
@@ -2284,7 +2138,6 @@
                                         "numAssembliesOnRef": 0,
                                         "numBuildingProductsOnRef": 0,
                                         "numDiagramsOnRef": 3,
-                                        "orderIndex": 43890000,
                                         "reference": "1202.5",
                                         "slug": "interior-environment",
                                         "titleText": "Natural Ventilation",
@@ -2306,7 +2159,6 @@
                                                 "numAssembliesOnRef": 0,
                                                 "numBuildingProductsOnRef": 0,
                                                 "numDiagramsOnRef": 0,
-                                                "orderIndex": 43900000,
                                                 "reference": "1202.5.1",
                                                 "slug": "interior-environment",
                                                 "titleText": "Ventilation Area Required",
@@ -2351,7 +2203,6 @@
                                                         "numAssembliesOnRef": 0,
                                                         "numBuildingProductsOnRef": 0,
                                                         "numDiagramsOnRef": 1,
-                                                        "orderIndex": 43910000,
                                                         "reference": "1202.5.1.1",
                                                         "slug": "interior-environment",
                                                         "titleText": "Adjoining Spaces",
@@ -2393,7 +2244,6 @@
                                                         "numAssembliesOnRef": 0,
                                                         "numBuildingProductsOnRef": 0,
                                                         "numDiagramsOnRef": 1,
-                                                        "orderIndex": 43920000,
                                                         "reference": "1202.5.1.2",
                                                         "slug": "interior-environment",
                                                         "titleText": "Openings Below Grade",
@@ -2408,7 +2258,7 @@
                                                     "1202",
                                                     "1202.5"
                                                 ],
-                                                "body": "<div>Contaminant sources in naturally ventilated spaces shall be removed in accordance with the <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/new_york/imc-2024\">Mechanical Code</a> <span class=\"code_addition\">of New York State</span></span> and the <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/new_york/ifc-2024\">Fire Code</a> <span class=\"code_addition\">of New York State</span></span>.</div>",
+                                                "body": "<div>Contaminant sources in naturally ventilated spaces shall be removed in accordance with the <span class=\"u-italic\">Mechanical Code <span class=\"code_addition\">of New York State</span></span> and the <span class=\"u-italic\">Fire Code <span class=\"code_addition\">of New York State</span></span>.</div>",
                                                 "depth": 3,
                                                 "diagrams": [],
                                                 "displayRef": null,
@@ -2419,7 +2269,6 @@
                                                 "numAssembliesOnRef": 0,
                                                 "numBuildingProductsOnRef": 0,
                                                 "numDiagramsOnRef": 0,
-                                                "orderIndex": 43930000,
                                                 "reference": "1202.5.2",
                                                 "slug": "interior-environment",
                                                 "titleText": "Contaminants Exhausted",
@@ -2432,7 +2281,7 @@
                                                             "1202.5",
                                                             "1202.5.2"
                                                         ],
-                                                        "body": "<div>Rooms containing bathtubs, showers, spas and similar bathing fixtures shall be mechanically ventilated in accordance with the <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/new_york/imc-2024\">Mechanical Code</a> <span class=\"code_addition\">of New York State</span></span>.</div>",
+                                                        "body": "<div>Rooms containing bathtubs, showers, spas and similar bathing fixtures shall be mechanically ventilated in accordance with the <span class=\"u-italic\">Mechanical Code <span class=\"code_addition\">of New York State</span></span>.</div>",
                                                         "depth": 4,
                                                         "diagrams": [],
                                                         "displayRef": null,
@@ -2443,7 +2292,6 @@
                                                         "numAssembliesOnRef": 0,
                                                         "numBuildingProductsOnRef": 0,
                                                         "numDiagramsOnRef": 0,
-                                                        "orderIndex": 43940000,
                                                         "reference": "1202.5.2.1",
                                                         "slug": "interior-environment",
                                                         "titleText": "Bathrooms",
@@ -2468,7 +2316,6 @@
                                                 "numAssembliesOnRef": 0,
                                                 "numBuildingProductsOnRef": 0,
                                                 "numDiagramsOnRef": 0,
-                                                "orderIndex": 43950000,
                                                 "reference": "1202.5.3",
                                                 "slug": "interior-environment",
                                                 "titleText": "Openings on Yards or Courts",
@@ -2493,7 +2340,6 @@
                                         "numAssembliesOnRef": 0,
                                         "numBuildingProductsOnRef": 0,
                                         "numDiagramsOnRef": 0,
-                                        "orderIndex": 43960000,
                                         "reference": "1202.6",
                                         "slug": "interior-environment",
                                         "titleText": "Other Ventilation and Exhaust Systems",
@@ -2515,7 +2361,6 @@
                                 "numAssembliesOnRef": 0,
                                 "numBuildingProductsOnRef": 0,
                                 "numDiagramsOnRef": 0,
-                                "orderIndex": 43970000,
                                 "reference": "1203",
                                 "slug": "interior-environment",
                                 "titleText": "Temperature Control",
@@ -2535,7 +2380,6 @@
                                         "numAssembliesOnRef": 0,
                                         "numBuildingProductsOnRef": 0,
                                         "numDiagramsOnRef": 0,
-                                        "orderIndex": 43980000,
                                         "reference": "1203.1",
                                         "slug": "interior-environment",
                                         "titleText": "Equipment and Systems",
@@ -2592,9 +2436,8 @@
                                 "hasDiagramsOnRef": true,
                                 "isContiguous": true,
                                 "numAssembliesOnRef": 0,
-                                "numBuildingProductsOnRef": 6,
+                                "numBuildingProductsOnRef": 7,
                                 "numDiagramsOnRef": 2,
-                                "orderIndex": 44000000,
                                 "reference": "1204",
                                 "slug": "interior-environment",
                                 "titleText": "Lighting",
@@ -2615,7 +2458,6 @@
                                         "numAssembliesOnRef": 0,
                                         "numBuildingProductsOnRef": 0,
                                         "numDiagramsOnRef": 0,
-                                        "orderIndex": 44010000,
                                         "reference": "1204.1",
                                         "slug": "interior-environment",
                                         "titleText": "General",
@@ -2637,7 +2479,6 @@
                                         "numAssembliesOnRef": 0,
                                         "numBuildingProductsOnRef": 0,
                                         "numDiagramsOnRef": 0,
-                                        "orderIndex": 44020000,
                                         "reference": "1204.2",
                                         "slug": "interior-environment",
                                         "titleText": "Natural Light",
@@ -2659,7 +2500,6 @@
                                                 "numAssembliesOnRef": 0,
                                                 "numBuildingProductsOnRef": 0,
                                                 "numDiagramsOnRef": 0,
-                                                "orderIndex": 44030000,
                                                 "reference": "1204.2.1",
                                                 "slug": "interior-environment",
                                                 "titleText": "Adjoining Spaces",
@@ -2671,7 +2511,7 @@
                                                     "1204",
                                                     "1204.2"
                                                 ],
-                                                "body": "<div><div class=\"u-mt-3 u-mb-3\">Exterior openings required by <a class=\"autolink\" href=\"#1204.2\">Section 1204.2</a> for                                     natural light shall open directly onto a <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/new_york/ibc-2024/chapter/2/definitions#public_way_\">public way</a></span>, <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/new_york/ibc-2024/chapter/2/definitions#yard_\">yard</a></span> or <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/new_york/ibc-2024/chapter/2/definitions#court_\">court</a></span>, as set forth in <a class=\"autolink\" href=\"#1205\">Section 1205</a>.</div><div class=\"u-ml-4\"><div class=\"u-mt-3 u-mb-3\"><span class=\"u-font-bold\">Exceptions: </span></div><ol class=\"u-text-left\"><li><div class=\"u-pb-1 u-mt-3 u-pt-1 u-mb-3\">Required exterior                                                   openings are permitted to open into a roofed porch                                                   where the porch meets all of the following                                                   criteria:</div><div class=\"u-ml-4 u-pt-5\"><div class=\"u-pb-1 u-mt-3 u-pt-1 u-mb-3\">1.1.&nbsp;&nbsp;Abuts a <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/new_york/ibc-2024/chapter/2/definitions#public_way_\">public way</a></span>, <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/new_york/ibc-2024/chapter/2/definitions#yard_\">yard</a></span> or <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/new_york/ibc-2024/chapter/2/definitions#court_\">court</a></span>.</div><div class=\"u-pb-1 u-mt-3 u-pt-1 u-mb-3\">1.2.&nbsp;&nbsp;Has a ceiling                                                   height of not less than 7 feet (2134 mm).</div><div class=\"u-pb-1 u-mt-3 u-pt-1 u-mb-3\">1.3.&nbsp;&nbsp;Has a longer                                                   side at least 65 percent open and                                                   unobstructed.</div></div></li><li>Skylights are not                                                   required to open directly onto a <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/new_york/ibc-2024/chapter/2/definitions#public_way_\">public way</a>,</span>&nbsp;<span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/new_york/ibc-2024/chapter/2/definitions#yard_\">yard</a></span> or <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/new_york/ibc-2024/chapter/2/definitions#court_\">court</a></span>.</li></ol></div></div>",
+                                                "body": "<div><div class=\"u-mt-3 u-mb-3\">Exterior openings required by <a class=\"autolink\" href=\"#1204.2\">Section 1204.2</a> for                                     natural light shall open directly onto a <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/new_york/ibc-2024/chapter/2/definitions#public_way_\">public way</a></span>, <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/new_york/ibc-2024/chapter/2/definitions#yard_\">yard</a></span> or <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/new_york/ibc-2024/chapter/2/definitions#court_\">court</a></span>, as set forth in <a class=\"autolink\" href=\"#1205\">Section 1205</a>.</div><div class=\"u-ml-4\"><div class=\"u-mt-3 u-mb-3\"><span class=\"u-font-bold\">Exceptions: </span></div>\n<ol class=\"u-list-decimal-separated\">\n    <li>Required exterior                                                   openings are permitted to open into a roofed porch                                                   where the porch meets all of the following                                                   criteria:\n    <ol class=\"u-list-decimal-separated\">\n        <li>Abuts a <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/new_york/ibc-2024/chapter/2/definitions#public_way_\">public way</a></span>, <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/new_york/ibc-2024/chapter/2/definitions#yard_\">yard</a></span> or <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/new_york/ibc-2024/chapter/2/definitions#court_\">court</a></span>.</li><li>Has a ceiling                                                   height of not less than 7 feet (2134 mm).</li><li>Has a longer                                                   side at least 65 percent open and                                                   unobstructed.</li></ol></li><li>Skylights are not                                                   required to open directly onto a <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/new_york/ibc-2024/chapter/2/definitions#public_way_\">public way</a>,</span> <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/new_york/ibc-2024/chapter/2/definitions#yard_\">yard</a></span> or <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/new_york/ibc-2024/chapter/2/definitions#court_\">court</a></span>.</li></ol></div></div>",
                                                 "depth": 3,
                                                 "diagrams": [],
                                                 "displayRef": null,
@@ -2682,7 +2522,6 @@
                                                 "numAssembliesOnRef": 0,
                                                 "numBuildingProductsOnRef": 0,
                                                 "numDiagramsOnRef": 0,
-                                                "orderIndex": 44040000,
                                                 "reference": "1204.2.2",
                                                 "slug": "interior-environment",
                                                 "titleText": "Exterior Openings",
@@ -2759,7 +2598,6 @@
                                         "numAssembliesOnRef": 0,
                                         "numBuildingProductsOnRef": 7,
                                         "numDiagramsOnRef": 3,
-                                        "orderIndex": 44050000,
                                         "reference": "1204.3",
                                         "slug": "interior-environment",
                                         "titleText": "Artificial Light",
@@ -2855,7 +2693,6 @@
                                         "numAssembliesOnRef": 0,
                                         "numBuildingProductsOnRef": 0,
                                         "numDiagramsOnRef": 4,
-                                        "orderIndex": 44060000,
                                         "reference": "1204.4",
                                         "slug": "interior-environment",
                                         "titleText": "Stairway Illumination",
@@ -2877,7 +2714,6 @@
                                                 "numAssembliesOnRef": 0,
                                                 "numBuildingProductsOnRef": 0,
                                                 "numDiagramsOnRef": 0,
-                                                "orderIndex": 44070000,
                                                 "reference": "1204.4.1",
                                                 "slug": "interior-environment",
                                                 "titleText": "Controls",
@@ -2901,7 +2737,6 @@
                                         "numAssembliesOnRef": 0,
                                         "numBuildingProductsOnRef": 0,
                                         "numDiagramsOnRef": 0,
-                                        "orderIndex": 44080000,
                                         "reference": "1204.5",
                                         "slug": "interior-environment",
                                         "titleText": "Emergency Egress Lighting",
@@ -2958,7 +2793,6 @@
                                 "numAssembliesOnRef": 0,
                                 "numBuildingProductsOnRef": 0,
                                 "numDiagramsOnRef": 2,
-                                "orderIndex": 44090000,
                                 "reference": "1205",
                                 "slug": "interior-environment",
                                 "titleText": "Yards or Courts",
@@ -2979,7 +2813,6 @@
                                         "numAssembliesOnRef": 0,
                                         "numBuildingProductsOnRef": 0,
                                         "numDiagramsOnRef": 0,
-                                        "orderIndex": 44100000,
                                         "reference": "1205.1",
                                         "slug": "interior-environment",
                                         "titleText": "General",
@@ -3040,7 +2873,6 @@
                                         "numAssembliesOnRef": 0,
                                         "numBuildingProductsOnRef": 0,
                                         "numDiagramsOnRef": 2,
-                                        "orderIndex": 44110000,
                                         "reference": "1205.2",
                                         "slug": "interior-environment",
                                         "titleText": "Yards",
@@ -3062,7 +2894,6 @@
                                         "numAssembliesOnRef": 0,
                                         "numBuildingProductsOnRef": 0,
                                         "numDiagramsOnRef": 0,
-                                        "orderIndex": 44120000,
                                         "reference": "1205.3",
                                         "slug": "interior-environment",
                                         "titleText": "Courts",
@@ -3084,7 +2915,6 @@
                                                 "numAssembliesOnRef": 0,
                                                 "numBuildingProductsOnRef": 0,
                                                 "numDiagramsOnRef": 0,
-                                                "orderIndex": 44130000,
                                                 "reference": "1205.3.1",
                                                 "slug": "interior-environment",
                                                 "titleText": "Court Access",
@@ -3107,7 +2937,6 @@
                                                 "numAssembliesOnRef": 0,
                                                 "numBuildingProductsOnRef": 0,
                                                 "numDiagramsOnRef": 0,
-                                                "orderIndex": 44140000,
                                                 "reference": "1205.3.2",
                                                 "slug": "interior-environment",
                                                 "titleText": "Air Intake",
@@ -3131,7 +2960,6 @@
                                                 "numAssembliesOnRef": 0,
                                                 "numBuildingProductsOnRef": 0,
                                                 "numDiagramsOnRef": 0,
-                                                "orderIndex": 44150000,
                                                 "reference": "1205.3.3",
                                                 "slug": "interior-environment",
                                                 "titleText": "Court Drainage",
@@ -3155,7 +2983,6 @@
                                 "numAssembliesOnRef": 6,
                                 "numBuildingProductsOnRef": 0,
                                 "numDiagramsOnRef": 0,
-                                "orderIndex": 44160000,
                                 "reference": "1206",
                                 "slug": "interior-environment",
                                 "titleText": "Sound Transmission",
@@ -3175,7 +3002,6 @@
                                         "numAssembliesOnRef": 0,
                                         "numBuildingProductsOnRef": 0,
                                         "numDiagramsOnRef": 0,
-                                        "orderIndex": 44170000,
                                         "reference": "1206.1",
                                         "slug": "interior-environment",
                                         "titleText": "Scope",
@@ -3280,7 +3106,6 @@
                                         "numAssembliesOnRef": 19,
                                         "numBuildingProductsOnRef": 4,
                                         "numDiagramsOnRef": 4,
-                                        "orderIndex": 44180000,
                                         "reference": "1206.2",
                                         "slug": "interior-environment",
                                         "titleText": "Airborne Sound",
@@ -3302,7 +3127,6 @@
                                                 "numAssembliesOnRef": 0,
                                                 "numBuildingProductsOnRef": 11,
                                                 "numDiagramsOnRef": 0,
-                                                "orderIndex": 44190000,
                                                 "reference": "1206.2.1",
                                                 "slug": "interior-environment",
                                                 "titleText": "Masonry",
@@ -3346,7 +3170,6 @@
                                         "numAssembliesOnRef": 2,
                                         "numBuildingProductsOnRef": 0,
                                         "numDiagramsOnRef": 1,
-                                        "orderIndex": 44200000,
                                         "reference": "1206.3",
                                         "slug": "interior-environment",
                                         "titleText": "Structure-Borne Sound",
@@ -3369,7 +3192,6 @@
                                 "numAssembliesOnRef": 0,
                                 "numBuildingProductsOnRef": 0,
                                 "numDiagramsOnRef": 0,
-                                "orderIndex": 44230000,
                                 "reference": "1207",
                                 "refPrefix": "<span class=\"code_addition\">[NY]</span>",
                                 "slug": "interior-environment",
@@ -3390,7 +3212,6 @@
                                         "numAssembliesOnRef": 0,
                                         "numBuildingProductsOnRef": 0,
                                         "numDiagramsOnRef": 0,
-                                        "orderIndex": 44240000,
                                         "reference": "1207.1",
                                         "slug": "interior-environment",
                                         "titleText": "<span class=\"code_deletion\">General</span>",
@@ -3411,7 +3232,6 @@
                                         "numAssembliesOnRef": 0,
                                         "numBuildingProductsOnRef": 0,
                                         "numDiagramsOnRef": 0,
-                                        "orderIndex": 44250000,
                                         "reference": "1207.2",
                                         "slug": "interior-environment",
                                         "titleText": "<span class=\"code_deletion\">Where Required</span>",
@@ -3433,7 +3253,6 @@
                                 "numAssembliesOnRef": 0,
                                 "numBuildingProductsOnRef": 0,
                                 "numDiagramsOnRef": 0,
-                                "orderIndex": 44260000,
                                 "reference": "1208",
                                 "slug": "interior-environment",
                                 "titleText": "Interior Space Dimensions",
@@ -3527,7 +3346,6 @@
                                         "numAssembliesOnRef": 0,
                                         "numBuildingProductsOnRef": 2,
                                         "numDiagramsOnRef": 3,
-                                        "orderIndex": 44270000,
                                         "reference": "1208.1",
                                         "slug": "interior-environment",
                                         "titleText": "Minimum Room Widths",
@@ -3645,7 +3463,7 @@
                                             },
                                             {
                                                 "key": "clg_hgt_bc_v_rc",
-                                                "title": "Comparison: Clg. Height (BC vs. RC)",
+                                                "title": "Comparison: Ceiling Height (BC vs. RC)",
                                                 "descriptionHtml": "",
                                                 "topics": [
                                                     "Interior",
@@ -3663,7 +3481,11 @@
                                                     "chicago",
                                                     "puerto_rico",
                                                     "wichita-sedgwick",
-                                                    "indiana"
+                                                    "indiana",
+                                                    "massachusetts",
+                                                    "connecticut",
+                                                    "oregon",
+                                                    "minnesota"
                                                 ],
                                                 "whitelistJurisdictions": [],
                                                 "imageType": "png"
@@ -3678,7 +3500,6 @@
                                         "numAssembliesOnRef": 0,
                                         "numBuildingProductsOnRef": 0,
                                         "numDiagramsOnRef": 5,
-                                        "orderIndex": 44280000,
                                         "reference": "1208.2",
                                         "slug": "interior-environment",
                                         "titleText": "Minimum Ceiling Heights",
@@ -3720,7 +3541,7 @@
                                                     },
                                                     {
                                                         "key": "clg_hgt_bc_v_rc",
-                                                        "title": "Comparison: Clg. Height (BC vs. RC)",
+                                                        "title": "Comparison: Ceiling Height (BC vs. RC)",
                                                         "descriptionHtml": "",
                                                         "topics": [
                                                             "Interior",
@@ -3738,7 +3559,11 @@
                                                             "chicago",
                                                             "puerto_rico",
                                                             "wichita-sedgwick",
-                                                            "indiana"
+                                                            "indiana",
+                                                            "massachusetts",
+                                                            "connecticut",
+                                                            "oregon",
+                                                            "minnesota"
                                                         ],
                                                         "whitelistJurisdictions": [],
                                                         "imageType": "png"
@@ -3753,7 +3578,6 @@
                                                 "numAssembliesOnRef": 0,
                                                 "numBuildingProductsOnRef": 0,
                                                 "numDiagramsOnRef": 2,
-                                                "orderIndex": 44290000,
                                                 "reference": "1208.2.1",
                                                 "slug": "interior-environment",
                                                 "titleText": "Furred Ceiling",
@@ -3776,7 +3600,6 @@
                                         "numAssembliesOnRef": 0,
                                         "numBuildingProductsOnRef": 0,
                                         "numDiagramsOnRef": 0,
-                                        "orderIndex": 44300000,
                                         "reference": "1208.3",
                                         "slug": "interior-environment",
                                         "titleText": "Dwelling Unit Size",
@@ -3839,7 +3662,6 @@
                                         "numAssembliesOnRef": 0,
                                         "numBuildingProductsOnRef": 0,
                                         "numDiagramsOnRef": 2,
-                                        "orderIndex": 44310000,
                                         "reference": "1208.4",
                                         "slug": "interior-environment",
                                         "titleText": "Room Area",
@@ -3860,7 +3682,6 @@
                                         "numAssembliesOnRef": 0,
                                         "numBuildingProductsOnRef": 2,
                                         "numDiagramsOnRef": 0,
-                                        "orderIndex": 44320000,
                                         "reference": "1208.5",
                                         "slug": "interior-environment",
                                         "titleText": "Efficiency Dwelling Units",
@@ -3900,7 +3721,6 @@
                                 "numAssembliesOnRef": 0,
                                 "numBuildingProductsOnRef": 0,
                                 "numDiagramsOnRef": 1,
-                                "orderIndex": 44330000,
                                 "reference": "1209",
                                 "slug": "interior-environment",
                                 "titleText": "Access to Unoccupied Spaces",
@@ -3921,7 +3741,6 @@
                                         "numAssembliesOnRef": 0,
                                         "numBuildingProductsOnRef": 0,
                                         "numDiagramsOnRef": 0,
-                                        "orderIndex": 44340000,
                                         "reference": "1209.1",
                                         "slug": "interior-environment",
                                         "titleText": "Crawl Spaces",
@@ -3967,7 +3786,6 @@
                                         "numAssembliesOnRef": 0,
                                         "numBuildingProductsOnRef": 1,
                                         "numDiagramsOnRef": 1,
-                                        "orderIndex": 44350000,
                                         "reference": "1209.2",
                                         "slug": "interior-environment",
                                         "titleText": "Attic Spaces",
@@ -3990,7 +3808,6 @@
                                         "numAssembliesOnRef": 0,
                                         "numBuildingProductsOnRef": 0,
                                         "numDiagramsOnRef": 0,
-                                        "orderIndex": 44360000,
                                         "reference": "1209.3",
                                         "slug": "interior-environment",
                                         "titleText": "Mechanical Appliances",
@@ -4044,6 +3861,25 @@
                                             "houston",
                                             "florida"
                                         ],
+                                        "whitelistJurisdictions": [],
+                                        "imageType": "svg"
+                                    },
+                                    {
+                                        "key": "ada_vs_a117_2017_single_toilet",
+                                        "title": "Single Toilet Room: ADA vs. A117.1 2017",
+                                        "descriptionHtml": "<div>Significant differences exist between the ADA requirements for single toilet rooms and the A117.1-2017 Accessibility Code.</div>",
+                                        "topics": [
+                                            "Access",
+                                            "ADA",
+                                            "Plumbing",
+                                            "Fixtures"
+                                        ],
+                                        "phases": [
+                                            "Construction Phase",
+                                            "Construction Docs"
+                                        ],
+                                        "supressesChildrenAssociations": false,
+                                        "blacklistJurisdictions": [],
                                         "whitelistJurisdictions": [],
                                         "imageType": "svg"
                                     },
@@ -4195,8 +4031,7 @@
                                 "isContiguous": true,
                                 "numAssembliesOnRef": 0,
                                 "numBuildingProductsOnRef": 0,
-                                "numDiagramsOnRef": 9,
-                                "orderIndex": 44370000,
+                                "numDiagramsOnRef": 10,
                                 "reference": "1210",
                                 "slug": "interior-environment",
                                 "titleText": "Toilet and Bathroom Requirements",
@@ -4215,9 +4050,8 @@
                                         "hasDiagrams": true,
                                         "isContiguous": true,
                                         "numAssembliesOnRef": 0,
-                                        "numBuildingProductsOnRef": 62,
+                                        "numBuildingProductsOnRef": 63,
                                         "numDiagramsOnRef": 0,
-                                        "orderIndex": 44380000,
                                         "reference": "1210.1",
                                         "refPrefix": "[P]",
                                         "slug": "interior-environment",
@@ -4326,7 +4160,6 @@
                                         "numAssembliesOnRef": 0,
                                         "numBuildingProductsOnRef": 0,
                                         "numDiagramsOnRef": 4,
-                                        "orderIndex": 44390000,
                                         "reference": "1210.2",
                                         "refPrefix": "[P]",
                                         "slug": "interior-environment",
@@ -4369,7 +4202,6 @@
                                                 "numAssembliesOnRef": 0,
                                                 "numBuildingProductsOnRef": 0,
                                                 "numDiagramsOnRef": 1,
-                                                "orderIndex": 44400000,
                                                 "reference": "1210.2.1",
                                                 "refPrefix": "[P]",
                                                 "slug": "interior-environment",
@@ -4437,7 +4269,6 @@
                                                 "numAssembliesOnRef": 0,
                                                 "numBuildingProductsOnRef": 0,
                                                 "numDiagramsOnRef": 2,
-                                                "orderIndex": 44410000,
                                                 "reference": "1210.2.2",
                                                 "refPrefix": "[P]",
                                                 "slug": "interior-environment",
@@ -4461,7 +4292,6 @@
                                                 "numAssembliesOnRef": 0,
                                                 "numBuildingProductsOnRef": 0,
                                                 "numDiagramsOnRef": 0,
-                                                "orderIndex": 44420000,
                                                 "reference": "1210.2.3",
                                                 "slug": "interior-environment",
                                                 "titleText": "Adult Changing Table Surround",
@@ -4527,7 +4357,6 @@
                                                 "numAssembliesOnRef": 0,
                                                 "numBuildingProductsOnRef": 4,
                                                 "numDiagramsOnRef": 2,
-                                                "orderIndex": 44430000,
                                                 "reference": "1210.2.4",
                                                 "refPrefix": "[P]",
                                                 "slug": "interior-environment",
@@ -4594,7 +4423,6 @@
                                                 "numAssembliesOnRef": 0,
                                                 "numBuildingProductsOnRef": 0,
                                                 "numDiagramsOnRef": 2,
-                                                "orderIndex": 44440000,
                                                 "reference": "1210.2.5",
                                                 "refPrefix": "[P]",
                                                 "slug": "interior-environment",
@@ -4619,7 +4447,6 @@
                                         "numAssembliesOnRef": 0,
                                         "numBuildingProductsOnRef": 0,
                                         "numDiagramsOnRef": 0,
-                                        "orderIndex": 44450000,
                                         "reference": "1210.3",
                                         "refPrefix": "[P]",
                                         "slug": "interior-environment",
@@ -4671,7 +4498,6 @@
                                                 "numAssembliesOnRef": 0,
                                                 "numBuildingProductsOnRef": 15,
                                                 "numDiagramsOnRef": 1,
-                                                "orderIndex": 44460000,
                                                 "reference": "1210.3.1",
                                                 "refPrefix": "[P]",
                                                 "slug": "interior-environment",
@@ -4723,7 +4549,6 @@
                                                 "numAssembliesOnRef": 0,
                                                 "numBuildingProductsOnRef": 2,
                                                 "numDiagramsOnRef": 1,
-                                                "orderIndex": 44470000,
                                                 "reference": "1210.3.2",
                                                 "refPrefix": "[P]",
                                                 "slug": "interior-environment",
@@ -4748,7 +4573,6 @@
                                 "numAssembliesOnRef": 0,
                                 "numBuildingProductsOnRef": 0,
                                 "numDiagramsOnRef": 0,
-                                "orderIndex": 44510000,
                                 "reference": "1211",
                                 "slug": "interior-environment",
                                 "titleText": "UV Germicidal Irradiation Systems",
@@ -4768,7 +4592,6 @@
                                         "numAssembliesOnRef": 0,
                                         "numBuildingProductsOnRef": 0,
                                         "numDiagramsOnRef": 0,
-                                        "orderIndex": 44520000,
                                         "reference": "1211.1",
                                         "slug": "interior-environment",
                                         "titleText": "General",
@@ -4791,12 +4614,12 @@
         "chapterRef": "12",
         "chapterName": "interior-environment"
     },
-    "buildId": "3sK5kbysqJcr5ch6xNgjL",
+    "buildId": "bq6oGVuYGAxmtMzrvJDng",
     "isFallback": false,
     "isExperimentalCompile": false,
     "dynamicIds": [
-        22103,
-        99618
+        61621,
+        54065
     ],
     "gssp": true,
     "scriptLoader": []
