@@ -1,0 +1,1481 @@
+{
+    "props": {
+        "pageProps": {
+            "missingRequiredLogin": false,
+            "title": "Chapter 23 Solar Thermal Energy Systems: 2023 FBC - Residential, 8<sup>th</sup> edition | UpCodes",
+            "leanChapterViewerData": {
+                "basePubName": "International Residential Code 2021 (IRC 2021)",
+                "codeGroupingYear": "2023",
+                "codeName": "2023 FBC - Residential, 8<sup>th</sup> edition",
+                "codeUuid": "d137ddb4-80ae-4e4b-b3bb-b2a9d0be4288",
+                "codeVersions": [
+                    {
+                        "codeUuid": "d137ddb4-80ae-4e4b-b3bb-b2a9d0be4288",
+                        "name": "Original Adoption",
+                        "effectiveStartDate": "2023-12-31",
+                        "shortformUrlName": "fl-residential-code-2023",
+                        "activeStatus": "active"
+                    }
+                ],
+                "ingesterAmendmentsEnabled": false,
+                "ingesterCodeUnitsEnabled": false,
+                "isAmendStylingEnabled": false,
+                "isCorrespondable": true,
+                "jurisKey": "florida",
+                "jurisName": "Florida",
+                "metaInfoUrl": "/viewer/florida/fl-residential-code-2023",
+                "modelCodeUrl": null,
+                "placeholder": "Search 2023 FBC - Residential, 8th edition",
+                "pubKey": "florida_residential_code_2023",
+                "pubPrefix": "int_residential_code",
+                "shortformPubName": "fl-residential-code-2023",
+                "withAmendments": true,
+                "chapterRef": "23",
+                "publisher": "icc",
+                "hasLinkedResources": false,
+                "initialNonChapterTocLines": [
+                    {
+                        "amendType": null,
+                        "children": [
+                            {
+                                "amendType": null,
+                                "children": [],
+                                "depth": 2,
+                                "displayTitle": "M2301.1 General",
+                                "hasExpanderArrow": false,
+                                "href": "#M2301.1",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "reference": "M2301.1"
+                            },
+                            {
+                                "amendType": null,
+                                "children": [
+                                    {
+                                        "amendType": null,
+                                        "children": [],
+                                        "depth": 3,
+                                        "displayTitle": "M2301.2.1 Access",
+                                        "hasExpanderArrow": false,
+                                        "href": "#M2301.2.1",
+                                        "isCodeDivider": false,
+                                        "isCodeDividerClickable": false,
+                                        "reference": "M2301.2.1"
+                                    },
+                                    {
+                                        "amendType": null,
+                                        "children": [
+                                            {
+                                                "amendType": null,
+                                                "children": [],
+                                                "depth": 4,
+                                                "displayTitle": "M2301.2.2.1 Roof-Mounted Collectors",
+                                                "hasExpanderArrow": false,
+                                                "href": "#M2301.2.2.1",
+                                                "isCodeDivider": false,
+                                                "isCodeDividerClickable": false,
+                                                "reference": "M2301.2.2.1"
+                                            },
+                                            {
+                                                "amendType": null,
+                                                "children": [],
+                                                "depth": 4,
+                                                "displayTitle": "M2301.2.2.2 Collector Sensors",
+                                                "hasExpanderArrow": false,
+                                                "href": "#M2301.2.2.2",
+                                                "isCodeDivider": false,
+                                                "isCodeDividerClickable": false,
+                                                "reference": "M2301.2.2.2"
+                                            }
+                                        ],
+                                        "depth": 3,
+                                        "displayTitle": "M2301.2.2 Collectors and Panels",
+                                        "hasExpanderArrow": true,
+                                        "href": "#M2301.2.2",
+                                        "isCodeDivider": false,
+                                        "isCodeDividerClickable": false,
+                                        "reference": "M2301.2.2"
+                                    },
+                                    {
+                                        "amendType": null,
+                                        "children": [],
+                                        "depth": 3,
+                                        "displayTitle": "M2301.2.3 Pressure and Temperature Relief Valves and System Components",
+                                        "hasExpanderArrow": false,
+                                        "href": "#M2301.2.3",
+                                        "isCodeDivider": false,
+                                        "isCodeDividerClickable": false,
+                                        "reference": "M2301.2.3"
+                                    },
+                                    {
+                                        "amendType": null,
+                                        "children": [],
+                                        "depth": 3,
+                                        "displayTitle": "M2301.2.4 Vacuum Relief",
+                                        "hasExpanderArrow": false,
+                                        "href": "#M2301.2.4",
+                                        "isCodeDivider": false,
+                                        "isCodeDividerClickable": false,
+                                        "reference": "M2301.2.4"
+                                    },
+                                    {
+                                        "amendType": null,
+                                        "children": [],
+                                        "depth": 3,
+                                        "displayTitle": "M2301.2.5 Piping Insulation",
+                                        "hasExpanderArrow": false,
+                                        "href": "#M2301.2.5",
+                                        "isCodeDivider": false,
+                                        "isCodeDividerClickable": false,
+                                        "reference": "M2301.2.5"
+                                    },
+                                    {
+                                        "amendType": null,
+                                        "children": [],
+                                        "depth": 3,
+                                        "displayTitle": "M2301.2.6 Protection From Freezing",
+                                        "hasExpanderArrow": false,
+                                        "href": "#M2301.2.6",
+                                        "isCodeDivider": false,
+                                        "isCodeDividerClickable": false,
+                                        "reference": "M2301.2.6"
+                                    },
+                                    {
+                                        "amendType": null,
+                                        "children": [],
+                                        "depth": 3,
+                                        "displayTitle": "M2301.2.7 Storage Tank Sensors",
+                                        "hasExpanderArrow": false,
+                                        "href": "#M2301.2.7",
+                                        "isCodeDivider": false,
+                                        "isCodeDividerClickable": false,
+                                        "reference": "M2301.2.7"
+                                    },
+                                    {
+                                        "amendType": null,
+                                        "children": [],
+                                        "depth": 3,
+                                        "displayTitle": "M2301.2.8 Expansion Tanks",
+                                        "hasExpanderArrow": false,
+                                        "href": "#M2301.2.8",
+                                        "isCodeDivider": false,
+                                        "isCodeDividerClickable": false,
+                                        "reference": "M2301.2.8"
+                                    },
+                                    {
+                                        "amendType": null,
+                                        "children": [],
+                                        "depth": 3,
+                                        "displayTitle": "M2301.2.9 Roof and Wall Penetrations",
+                                        "hasExpanderArrow": false,
+                                        "href": "#M2301.2.9",
+                                        "isCodeDivider": false,
+                                        "isCodeDividerClickable": false,
+                                        "reference": "M2301.2.9"
+                                    },
+                                    {
+                                        "amendType": null,
+                                        "children": [],
+                                        "depth": 3,
+                                        "displayTitle": "M2301.2.10 Description and Warning Labels",
+                                        "hasExpanderArrow": false,
+                                        "href": "#M2301.2.10",
+                                        "isCodeDivider": false,
+                                        "isCodeDividerClickable": false,
+                                        "reference": "M2301.2.10"
+                                    },
+                                    {
+                                        "amendType": null,
+                                        "children": [
+                                            {
+                                                "amendType": null,
+                                                "children": [],
+                                                "depth": 4,
+                                                "displayTitle": "M2301.2.11.1 Solar Loop Isolation",
+                                                "hasExpanderArrow": false,
+                                                "href": "#M2301.2.11.1",
+                                                "isCodeDivider": false,
+                                                "isCodeDividerClickable": false,
+                                                "reference": "M2301.2.11.1"
+                                            },
+                                            {
+                                                "amendType": null,
+                                                "children": [],
+                                                "depth": 4,
+                                                "displayTitle": "M2301.2.11.2 Drain and Fill Valve Labels and Caps",
+                                                "hasExpanderArrow": false,
+                                                "href": "#M2301.2.11.2",
+                                                "isCodeDivider": false,
+                                                "isCodeDividerClickable": false,
+                                                "reference": "M2301.2.11.2"
+                                            }
+                                        ],
+                                        "depth": 3,
+                                        "displayTitle": "M2301.2.11 Solar Loop",
+                                        "hasExpanderArrow": true,
+                                        "href": "#M2301.2.11",
+                                        "isCodeDivider": false,
+                                        "isCodeDividerClickable": false,
+                                        "reference": "M2301.2.11"
+                                    },
+                                    {
+                                        "amendType": null,
+                                        "children": [],
+                                        "depth": 3,
+                                        "displayTitle": "M2301.2.12 Maximum Temperature Limitation",
+                                        "hasExpanderArrow": false,
+                                        "href": "#M2301.2.12",
+                                        "isCodeDivider": false,
+                                        "isCodeDividerClickable": false,
+                                        "reference": "M2301.2.12"
+                                    },
+                                    {
+                                        "amendType": null,
+                                        "children": [],
+                                        "depth": 3,
+                                        "displayTitle": "M2301.2.13",
+                                        "hasExpanderArrow": false,
+                                        "href": "#M2301.2.13",
+                                        "isCodeDivider": false,
+                                        "isCodeDividerClickable": false,
+                                        "reference": "M2301.2.13"
+                                    }
+                                ],
+                                "depth": 2,
+                                "displayTitle": "M2301.2 Design and Installation",
+                                "hasExpanderArrow": true,
+                                "href": "#M2301.2",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "reference": "M2301.2"
+                            },
+                            {
+                                "amendType": null,
+                                "children": [
+                                    {
+                                        "amendType": null,
+                                        "children": [],
+                                        "depth": 3,
+                                        "displayTitle": "M2301.3.1 Collectors and Panels",
+                                        "hasExpanderArrow": false,
+                                        "href": "#M2301.3.1",
+                                        "isCodeDivider": false,
+                                        "isCodeDividerClickable": false,
+                                        "reference": "M2301.3.1"
+                                    },
+                                    {
+                                        "amendType": null,
+                                        "children": [],
+                                        "depth": 3,
+                                        "displayTitle": "M2301.3.2 Thermal Storage Units",
+                                        "hasExpanderArrow": false,
+                                        "href": "#M2301.3.2",
+                                        "isCodeDivider": false,
+                                        "isCodeDividerClickable": false,
+                                        "reference": "M2301.3.2"
+                                    }
+                                ],
+                                "depth": 2,
+                                "displayTitle": "M2301.3 Labeling",
+                                "hasExpanderArrow": true,
+                                "href": "#M2301.3",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "reference": "M2301.3"
+                            },
+                            {
+                                "amendType": null,
+                                "children": [],
+                                "depth": 2,
+                                "displayTitle": "M2301.4 Heat Transfer Gasses or Liquids and Heat Exchangers",
+                                "hasExpanderArrow": false,
+                                "href": "#M2301.4",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "reference": "M2301.4"
+                            },
+                            {
+                                "amendType": null,
+                                "children": [],
+                                "depth": 2,
+                                "displayTitle": "M2301.5 Backflow Protection",
+                                "hasExpanderArrow": false,
+                                "href": "#M2301.5",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "reference": "M2301.5"
+                            },
+                            {
+                                "amendType": null,
+                                "children": [],
+                                "depth": 2,
+                                "displayTitle": "M2301.6 Filtering",
+                                "hasExpanderArrow": false,
+                                "href": "#M2301.6",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "reference": "M2301.6"
+                            },
+                            {
+                                "amendType": null,
+                                "children": [
+                                    {
+                                        "amendType": null,
+                                        "children": [],
+                                        "depth": 3,
+                                        "displayTitle": "M2301.7.1 Indirect Systems",
+                                        "hasExpanderArrow": false,
+                                        "href": "#M2301.7.1",
+                                        "isCodeDivider": false,
+                                        "isCodeDividerClickable": false,
+                                        "reference": "M2301.7.1"
+                                    },
+                                    {
+                                        "amendType": null,
+                                        "children": [],
+                                        "depth": 3,
+                                        "displayTitle": "M2301.7.2 Direct Systems",
+                                        "hasExpanderArrow": false,
+                                        "href": "#M2301.7.2",
+                                        "isCodeDivider": false,
+                                        "isCodeDividerClickable": false,
+                                        "reference": "M2301.7.2"
+                                    }
+                                ],
+                                "depth": 2,
+                                "displayTitle": "M2301.7 Solar Thermal Systems for Heating Potable Water",
+                                "hasExpanderArrow": true,
+                                "href": "#M2301.7",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "reference": "M2301.7"
+                            }
+                        ],
+                        "depth": 1,
+                        "displayTitle": "M2301 Thermal Solar Energy Systems",
+                        "hasExpanderArrow": true,
+                        "href": "#M2301",
+                        "isCodeDivider": false,
+                        "isCodeDividerClickable": false,
+                        "reference": "M2301"
+                    }
+                ],
+                "title": "Chapter 23 Solar Thermal Energy Systems: 2023 FBC - Residential, 8<sup>th</sup> edition | UpCodes",
+                "leanChapterLines": [
+                    {
+                        "displayTitle": "Part I Administrative",
+                        "isCodeDivider": true,
+                        "reference": "divider_0_I",
+                        "slug": "administrative"
+                    },
+                    {
+                        "displayTitle": "Chapter 1 Scope and Administration",
+                        "isExpandable": true,
+                        "reference": "1",
+                        "slug": "scope-and-administration"
+                    },
+                    {
+                        "displayTitle": "Part II Definitions",
+                        "isCodeDivider": true,
+                        "reference": "divider_0_II",
+                        "slug": "definitions"
+                    },
+                    {
+                        "displayTitle": "Chapter 2 Definitions",
+                        "isExpandable": true,
+                        "reference": "2",
+                        "slug": "definitions"
+                    },
+                    {
+                        "displayTitle": "Part III Building Planning and Construction",
+                        "isCodeDivider": true,
+                        "reference": "divider_0_III",
+                        "slug": "building-planning-and-construction"
+                    },
+                    {
+                        "displayTitle": "Chapter 3 Building Planning",
+                        "isExpandable": true,
+                        "reference": "3",
+                        "slug": "building-planning"
+                    },
+                    {
+                        "displayTitle": "Chapter 4 Foundations",
+                        "isExpandable": true,
+                        "reference": "4",
+                        "slug": "foundations"
+                    },
+                    {
+                        "displayTitle": "Chapter 5 Floors",
+                        "isExpandable": true,
+                        "reference": "5",
+                        "slug": "floors"
+                    },
+                    {
+                        "displayTitle": "Chapter 6 Wall Construction",
+                        "isExpandable": true,
+                        "reference": "6",
+                        "slug": "wall-construction"
+                    },
+                    {
+                        "displayTitle": "Chapter 7 Wall Covering",
+                        "isExpandable": true,
+                        "reference": "7",
+                        "slug": "wall-covering"
+                    },
+                    {
+                        "displayTitle": "Chapter 8 Roof-Ceiling Construction",
+                        "isExpandable": true,
+                        "reference": "8",
+                        "slug": "roof-ceiling-construction"
+                    },
+                    {
+                        "displayTitle": "Chapter 9 Roof Assemblies",
+                        "isExpandable": true,
+                        "reference": "9",
+                        "slug": "roof-assemblies"
+                    },
+                    {
+                        "displayTitle": "Chapter 10 Chimneys and Fireplaces",
+                        "isExpandable": true,
+                        "reference": "10",
+                        "slug": "chimneys-and-fireplaces"
+                    },
+                    {
+                        "displayTitle": "Part IV Energy Conservation",
+                        "isCodeDivider": true,
+                        "reference": "divider_0_IV",
+                        "slug": "energy-conservation"
+                    },
+                    {
+                        "displayTitle": "Chapter 11 [RE] Energy Efficiency",
+                        "isExpandable": true,
+                        "reference": "11",
+                        "slug": "re-energy-efficiency"
+                    },
+                    {
+                        "displayTitle": "Part V Mechanical",
+                        "isCodeDivider": true,
+                        "reference": "divider_0_V",
+                        "slug": "mechanical"
+                    },
+                    {
+                        "displayTitle": "Chapter 12 Mechanical Administration",
+                        "isExpandable": true,
+                        "reference": "12",
+                        "slug": "mechanical-administration"
+                    },
+                    {
+                        "displayTitle": "Chapter 13 General Mechanical System Requirements",
+                        "isExpandable": true,
+                        "reference": "13",
+                        "slug": "general-mechanical-system-requirements"
+                    },
+                    {
+                        "displayTitle": "Chapter 14 Heating and Cooling Equipment and Appliances",
+                        "isExpandable": true,
+                        "reference": "14",
+                        "slug": "heating-and-cooling-equipment-and-appliances"
+                    },
+                    {
+                        "displayTitle": "Chapter 15 Exhaust Systems",
+                        "isExpandable": true,
+                        "reference": "15",
+                        "slug": "exhaust-systems"
+                    },
+                    {
+                        "displayTitle": "Chapter 16 Duct Systems",
+                        "isExpandable": true,
+                        "reference": "16",
+                        "slug": "duct-systems"
+                    },
+                    {
+                        "displayTitle": "Chapter 17 Combustion Air",
+                        "isExpandable": true,
+                        "reference": "17",
+                        "slug": "combustion-air"
+                    },
+                    {
+                        "displayTitle": "Chapter 18 Chimneys and Vents",
+                        "isExpandable": true,
+                        "reference": "18",
+                        "slug": "chimneys-and-vents"
+                    },
+                    {
+                        "displayTitle": "Chapter 19 Special Appliances, Equipment and Systems",
+                        "isExpandable": true,
+                        "reference": "19",
+                        "slug": "special-appliances-equipment-and-systems"
+                    },
+                    {
+                        "displayTitle": "Chapter 20 Boilers and Water Heaters",
+                        "isExpandable": true,
+                        "reference": "20",
+                        "slug": "boilers-and-water-heaters"
+                    },
+                    {
+                        "displayTitle": "Chapter 21 Hydronic Piping",
+                        "isExpandable": true,
+                        "reference": "21",
+                        "slug": "hydronic-piping"
+                    },
+                    {
+                        "displayTitle": "Chapter 22 Special Piping and Storage Systems",
+                        "isExpandable": true,
+                        "reference": "22",
+                        "slug": "special-piping-and-storage-systems"
+                    },
+                    {
+                        "displayTitle": "Chapter 23 Solar Thermal Energy Systems",
+                        "isExpandable": true,
+                        "reference": "23",
+                        "slug": "solar-thermal-energy-systems"
+                    },
+                    {
+                        "displayTitle": "Part VI Fuel Gas",
+                        "isCodeDivider": true,
+                        "reference": "divider_0_VI",
+                        "slug": "fuel-gas"
+                    },
+                    {
+                        "displayTitle": "Chapter 24 Fuel Gas",
+                        "isExpandable": true,
+                        "reference": "24",
+                        "slug": "fuel-gas"
+                    },
+                    {
+                        "displayTitle": "Part VII Plumbing",
+                        "isCodeDivider": true,
+                        "reference": "divider_0_VII",
+                        "slug": "plumbing"
+                    },
+                    {
+                        "displayTitle": "Chapter 25 Plumbing Administration",
+                        "isExpandable": true,
+                        "reference": "25",
+                        "slug": "plumbing-administration"
+                    },
+                    {
+                        "displayTitle": "Chapter 26 General Plumbing Requirements",
+                        "isExpandable": true,
+                        "reference": "26",
+                        "slug": "general-plumbing-requirements"
+                    },
+                    {
+                        "displayTitle": "Chapter 27 Plumbing Fixtures",
+                        "isExpandable": true,
+                        "reference": "27",
+                        "slug": "plumbing-fixtures"
+                    },
+                    {
+                        "displayTitle": "Chapter 28 Water Heaters",
+                        "isExpandable": true,
+                        "reference": "28",
+                        "slug": "water-heaters"
+                    },
+                    {
+                        "displayTitle": "Chapter 29 Water Supply and Distribution",
+                        "isExpandable": true,
+                        "reference": "29",
+                        "slug": "water-supply-and-distribution"
+                    },
+                    {
+                        "displayTitle": "Chapter 30 Sanitary Drainage",
+                        "isExpandable": true,
+                        "reference": "30",
+                        "slug": "sanitary-drainage"
+                    },
+                    {
+                        "displayTitle": "Chapter 31 Vents",
+                        "isExpandable": true,
+                        "reference": "31",
+                        "slug": "vents"
+                    },
+                    {
+                        "displayTitle": "Chapter 32 Traps",
+                        "isExpandable": true,
+                        "reference": "32",
+                        "slug": "traps"
+                    },
+                    {
+                        "displayTitle": "Chapter 33 Storm Drainage",
+                        "isExpandable": true,
+                        "reference": "33",
+                        "slug": "storm-drainage"
+                    },
+                    {
+                        "displayTitle": "Part VIII Electrical",
+                        "isCodeDivider": true,
+                        "reference": "divider_0_VIII",
+                        "slug": "electrical"
+                    },
+                    {
+                        "displayTitle": "Chapter 34 General Requirements",
+                        "isExpandable": true,
+                        "reference": "34",
+                        "slug": "general-requirements"
+                    },
+                    {
+                        "displayTitle": "Chapter 35 Electrical Definitions",
+                        "reference": "35",
+                        "slug": "electrical-definitions"
+                    },
+                    {
+                        "displayTitle": "Chapter 36 Services",
+                        "reference": "36",
+                        "slug": "services"
+                    },
+                    {
+                        "displayTitle": "Chapter 37 Branch Circuit and Feeder Requirements",
+                        "reference": "37",
+                        "slug": "branch-circuit-and-feeder-requirements"
+                    },
+                    {
+                        "displayTitle": "Chapter 38 Wiring Methods",
+                        "reference": "38",
+                        "slug": "wiring-methods"
+                    },
+                    {
+                        "displayTitle": "Chapter 39 Power and Lighting Distribution",
+                        "reference": "39",
+                        "slug": "power-and-lighting-distribution"
+                    },
+                    {
+                        "displayTitle": "Chapter 40 Devices and Luminaires",
+                        "reference": "40",
+                        "slug": "devices-and-luminaires"
+                    },
+                    {
+                        "displayTitle": "Chapter 41 Appliance Installation",
+                        "reference": "41",
+                        "slug": "appliance-installation"
+                    },
+                    {
+                        "displayTitle": "Chapter 42 Swimming Pools [Electrical Provisions]",
+                        "reference": "42",
+                        "slug": "swimming-pools-electrical-provisions"
+                    },
+                    {
+                        "displayTitle": "Chapter 43 Class 2 Remote-Control, Signaling and Power-Limited Circuits",
+                        "reference": "43",
+                        "slug": "class-2-remote-control-signaling-and-power-limited-circuits"
+                    },
+                    {
+                        "displayTitle": "Chapter 44 High-Velocity Hurricane Zones",
+                        "isExpandable": true,
+                        "reference": "44",
+                        "slug": "high-velocity-hurricane-zones"
+                    },
+                    {
+                        "displayTitle": "Chapter 45 Private Swimming Pools",
+                        "isExpandable": true,
+                        "reference": "45",
+                        "slug": "private-swimming-pools"
+                    },
+                    {
+                        "displayTitle": "Part IX Referenced Standards",
+                        "isCodeDivider": true,
+                        "reference": "divider_0_IX",
+                        "slug": "referenced-standards"
+                    },
+                    {
+                        "displayTitle": "Chapter 46 Referenced Standards",
+                        "reference": "46",
+                        "slug": "referenced-standards"
+                    },
+                    {
+                        "disabled": true,
+                        "displayTitle": "Appendix A Sizing and Capacities of Gas Piping",
+                        "reference": "A",
+                        "slug": "sizing-and-capacities-of-gas-piping"
+                    },
+                    {
+                        "disabled": true,
+                        "displayTitle": "Appendix B Sizing of Venting Systems Serving Appliances Equipped With Draft Hoods, Category I Appliances, and Appliances Listed for Use With Type B Vents",
+                        "reference": "B",
+                        "slug": "sizing-of-venting-systems-serving-appliances-equipped-with-draft-hoods-category"
+                    },
+                    {
+                        "disabled": true,
+                        "displayTitle": "Appendix C Exit Terminals of Mechanical Draft and Direct-Vent Venting Systems",
+                        "reference": "C",
+                        "slug": "exit-terminals-of-mechanical-draft-and-direct-vent-venting-systems"
+                    },
+                    {
+                        "disabled": true,
+                        "displayTitle": "Appendix D Recommended Procedure for Safety Inspection of an Existing Appliance Installation",
+                        "reference": "D",
+                        "slug": "recommended-procedure-for-safety-inspection-of-an-existing-appliance-installatio"
+                    },
+                    {
+                        "displayTitle": "Appendix E Florida Standard for Mitigation of Radon in Existing Buildings",
+                        "isExpandable": true,
+                        "reference": "E",
+                        "slug": "florida-standard-for-mitigation-of-radon-in-existing-buildings"
+                    },
+                    {
+                        "displayTitle": "Appendix F Florida Standard for Passive Radon-Resistant New Residential Building Construction",
+                        "isExpandable": true,
+                        "reference": "F",
+                        "slug": "florida-standard-for-passive-radon-resistant-new-residential-building-constructi"
+                    },
+                    {
+                        "displayTitle": "Appendix G Piping Standards for Various Applications",
+                        "isExpandable": true,
+                        "reference": "G",
+                        "slug": "piping-standards-for-various-applications"
+                    },
+                    {
+                        "disabled": true,
+                        "displayTitle": "Appendix H Patio Covers",
+                        "reference": "H",
+                        "slug": "patio-covers"
+                    },
+                    {
+                        "disabled": true,
+                        "displayTitle": "Appendix I Private Sewage Disposal",
+                        "reference": "I",
+                        "slug": "private-sewage-disposal"
+                    },
+                    {
+                        "disabled": true,
+                        "displayTitle": "Appendix J Existing Buildings and Structures",
+                        "reference": "J",
+                        "slug": "existing-buildings-and-structures"
+                    },
+                    {
+                        "disabled": true,
+                        "displayTitle": "Appendix K Sound Transmission",
+                        "reference": "K",
+                        "slug": "sound-transmission"
+                    },
+                    {
+                        "disabled": true,
+                        "displayTitle": "Appendix L Permit Fees",
+                        "reference": "L",
+                        "slug": "permit-fees"
+                    },
+                    {
+                        "disabled": true,
+                        "displayTitle": "Appendix M Home Day Care\u2014R-3 Occupancy",
+                        "reference": "M",
+                        "slug": "home-day-care-r-3-occupancy"
+                    },
+                    {
+                        "disabled": true,
+                        "displayTitle": "Appendix N Venting Methods",
+                        "reference": "N",
+                        "slug": "venting-methods"
+                    },
+                    {
+                        "disabled": true,
+                        "displayTitle": "Appendix O Automatic Vehicular Gates",
+                        "reference": "O",
+                        "slug": "automatic-vehicular-gates"
+                    },
+                    {
+                        "disabled": true,
+                        "displayTitle": "Appendix P Sizing of Water Piping System",
+                        "reference": "P",
+                        "slug": "sizing-of-water-piping-system"
+                    },
+                    {
+                        "displayTitle": "Appendix Q Tiny Houses",
+                        "isExpandable": true,
+                        "reference": "Q",
+                        "slug": "tiny-houses"
+                    },
+                    {
+                        "disabled": true,
+                        "displayTitle": "Appendix R Light Straw-Clay Construction",
+                        "reference": "R",
+                        "slug": "light-straw-clay-construction"
+                    },
+                    {
+                        "disabled": true,
+                        "displayTitle": "Appendix S Strawbale Construction",
+                        "reference": "S",
+                        "slug": "strawbale-construction"
+                    },
+                    {
+                        "disabled": true,
+                        "displayTitle": "Appendix T Recommended Procedure for Worst-Case Testing of Atmospheric Venting Systems Under N1102.4 or N1105 Conditions \u2264 5ach<sub>50</sub>",
+                        "reference": "T",
+                        "slug": "recommended-procedure-for-worst-case-testing-of-atmospheric-venting-systems-unde"
+                    },
+                    {
+                        "disabled": true,
+                        "displayTitle": "Appendix AU Cob Construction (Monolithic Adobe)",
+                        "reference": "AU",
+                        "slug": "cob-construction-monolithic-adobe"
+                    },
+                    {
+                        "displayTitle": "Appendix V Board of Appeals",
+                        "isExpandable": true,
+                        "reference": "V",
+                        "slug": "board-of-appeals"
+                    },
+                    {
+                        "displayTitle": "Appendix W 3D-Printed Building Construction",
+                        "isExpandable": true,
+                        "reference": "W",
+                        "slug": "3d-printed-building-construction"
+                    },
+                    {
+                        "disabled": true,
+                        "displayTitle": "Appendix X Solar-Ready Provisions\u2014Detached One- And Two-Family Dwellings, Multiple Single-Family Dwellings (Townhouses)",
+                        "reference": "X",
+                        "slug": "solar-ready-provisions-detached-one-and-two-family-dwellings-multiple-single-fam"
+                    }
+                ],
+                "leanCodeSectionsTree": [
+                    {
+                        "ancestorRefs": [],
+                        "depth": 0,
+                        "diagrams": [],
+                        "displayRef": null,
+                        "displayTitle": "Chapter 23 Solar Thermal Energy Systems",
+                        "divisionType": "Chapter",
+                        "hasAssemblies": false,
+                        "isContiguous": true,
+                        "numAssembliesOnRef": 0,
+                        "numBuildingProductsOnRef": 0,
+                        "numDiagramsOnRef": 0,
+                        "reference": "23",
+                        "slug": "solar-thermal-energy-systems",
+                        "titleText": "Solar Thermal Energy Systems",
+                        "children": [
+                            {
+                                "ancestorRefs": [
+                                    "23"
+                                ],
+                                "depth": 1,
+                                "diagrams": [],
+                                "displayRef": null,
+                                "displayTitle": "Section M2301 Thermal Solar Energy Systems",
+                                "divisionType": "Section",
+                                "hasAssemblies": false,
+                                "isContiguous": true,
+                                "numAssembliesOnRef": 0,
+                                "numBuildingProductsOnRef": 0,
+                                "numDiagramsOnRef": 0,
+                                "reference": "M2301",
+                                "slug": "solar-thermal-energy-systems",
+                                "titleText": "Thermal Solar Energy Systems",
+                                "children": [
+                                    {
+                                        "ancestorRefs": [
+                                            "23",
+                                            "M2301"
+                                        ],
+                                        "body": "This section provides for the design, <a class=\"autolink\" href=\"/viewer/florida/fl-residential-code-2023/chapter/5/floors#R504.1.2\">construction</a>, <a class=\"autolink\" href=\"/viewer/florida/fl-residential-code-2023/chapter/14/heating-and-cooling-equipment-and-appliances#M1401.1\">installation</a>, <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/florida/fl-residential-code-2023/chapter/2/definitions#alteration\">alteration</a></span> and repair of <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/florida/fl-residential-code-2023/chapter/2/definitions#equipment\">equipment</a></span> and systems using thermal solar energy to provide space heating or cooling, <a class=\"autolink\" href=\"/viewer/florida/fl-residential-code-2023/chapter/2/definitions#hot_water\">hot water</a> heating and <a class=\"autolink\" href=\"/viewer/florida/fl-residential-code-2023/chapter/45/private-swimming-pools#swimming_pool_private\">swimming pool</a> heating.",
+                                        "depth": 2,
+                                        "diagrams": [],
+                                        "displayRef": null,
+                                        "displayTitle": "M2301.1 General",
+                                        "hasAssemblies": false,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 0,
+                                        "numDiagramsOnRef": 0,
+                                        "reference": "M2301.1",
+                                        "slug": "solar-thermal-energy-systems",
+                                        "titleText": "General",
+                                        "children": []
+                                    },
+                                    {
+                                        "ancestorRefs": [
+                                            "23",
+                                            "M2301"
+                                        ],
+                                        "body": "The design and <a class=\"autolink\" href=\"/viewer/florida/fl-residential-code-2023/chapter/14/heating-and-cooling-equipment-and-appliances#M1401.1\">installation</a> of thermal solar energy systems shall comply with Sections <a class=\"autolink\" href=\"#M2301.2.1\">M2301.2.1</a> through <a class=\"autolink\" href=\"#M2301.2.13\">M2301.2.13</a>.",
+                                        "depth": 2,
+                                        "diagrams": [],
+                                        "displayRef": null,
+                                        "displayTitle": "M2301.2 Design and Installation",
+                                        "hasAssemblies": false,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 0,
+                                        "numDiagramsOnRef": 0,
+                                        "reference": "M2301.2",
+                                        "slug": "solar-thermal-energy-systems",
+                                        "titleText": "Design and Installation",
+                                        "children": [
+                                            {
+                                                "ancestorRefs": [
+                                                    "23",
+                                                    "M2301",
+                                                    "M2301.2"
+                                                ],
+                                                "body": "Solar energy collectors, <a class=\"autolink\" href=\"/viewer/florida/fl-residential-code-2023/chapter/24/fuel-gas#control\">controls</a>, <a class=\"autolink\" href=\"/viewer/florida/fl-residential-code-2023/chapter/24/fuel-gas#damper\">dampers</a>, fans, blowers and <a class=\"autolink\" href=\"/viewer/florida/fl-residential-code-2023/chapter/45/private-swimming-pools#R4501.7\">pumps</a> shall be located to allow <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/florida/fl-residential-code-2023/chapter/24/fuel-gas#access_to\">access</a></span> for inspection, maintenance, repair and replacement.",
+                                                "depth": 3,
+                                                "diagrams": [],
+                                                "displayRef": null,
+                                                "displayTitle": "M2301.2.1 Access",
+                                                "hasAssemblies": false,
+                                                "isContiguous": true,
+                                                "numAssembliesOnRef": 0,
+                                                "numBuildingProductsOnRef": 0,
+                                                "numDiagramsOnRef": 0,
+                                                "reference": "M2301.2.1",
+                                                "slug": "solar-thermal-energy-systems",
+                                                "titleText": "Access",
+                                                "children": []
+                                            },
+                                            {
+                                                "ancestorRefs": [
+                                                    "23",
+                                                    "M2301",
+                                                    "M2301.2"
+                                                ],
+                                                "body": "Solar collectors and panels shall comply with Sections <a class=\"autolink\" href=\"#M2301.2.2.1\">M2301.2.2.1</a> and <a class=\"autolink\" href=\"#M2301.2.2.2\">M2301.2.2.2</a>.",
+                                                "depth": 3,
+                                                "diagrams": [],
+                                                "displayRef": null,
+                                                "displayTitle": "M2301.2.2 Collectors and Panels",
+                                                "hasAssemblies": false,
+                                                "isContiguous": true,
+                                                "numAssembliesOnRef": 0,
+                                                "numBuildingProductsOnRef": 0,
+                                                "numDiagramsOnRef": 0,
+                                                "reference": "M2301.2.2",
+                                                "slug": "solar-thermal-energy-systems",
+                                                "titleText": "Collectors and Panels",
+                                                "children": [
+                                                    {
+                                                        "ancestorRefs": [
+                                                            "23",
+                                                            "M2301",
+                                                            "M2301.2",
+                                                            "M2301.2.2"
+                                                        ],
+                                                        "body": "The roof shall be constructed to <a class=\"autolink\" href=\"/viewer/florida/fl-residential-code-2023/chapter/18/chimneys-and-vents#M1801.7\">support</a> the loads imposed by roof-mounted solar collectors. Roof-mounted solar collectors that serve as a <a class=\"autolink\" href=\"/viewer/florida/fl-residential-code-2023/chapter/2/definitions#roof_covering\">roof covering</a> shall conform to the <a class=\"autolink\" href=\"/viewer/florida/fl-residential-code-2023/chapter/4/foundations#R401.2\">requirements</a> for <a class=\"autolink\" href=\"/viewer/florida/fl-residential-code-2023/chapter/2/definitions#roof_covering\">roof coverings</a> in <a class=\"autolink\" href=\"/viewer/florida/fl-residential-code-2023/chapter/9/roof-assemblies#9\">Chapter 9</a> [the <a class=\"autolink\" href=\"/viewer/florida/fl-residential-code-2023/chapter/2/definitions#high-velocity_hurricane_zone_hvhz\">High-Velocity Hurricane Zone</a> (<a class=\"autolink\" href=\"/viewer/florida/fl-residential-code-2023/chapter/2/definitions#high-velocity_hurricane_zone_hvhz\">HVHZ</a>) shall comply with <a class=\"autolink\" href=\"/viewer/florida/fl-residential-code-2023/chapter/44/high-velocity-hurricane-zones#44\">Chapter 44</a>] of this code. Where mounted on or above the <a class=\"autolink\" href=\"/viewer/florida/fl-residential-code-2023/chapter/2/definitions#roof_covering\">roof coverings</a>, the collectors and supporting structure shall be constructed of <a class=\"autolink\" href=\"/viewer/florida/fl-residential-code-2023/chapter/2/definitions#noncombustible_material\">noncombustible materials</a> or <a class=\"autolink\" href=\"/viewer/florida/fl-residential-code-2023/chapter/8/roof-ceiling-construction#R802.1.5\">fire-retardant-treated wood</a> equivalent to that required for the roof <a class=\"autolink\" href=\"/viewer/florida/fl-residential-code-2023/chapter/5/floors#R504.1.2\">construction</a>.",
+                                                        "depth": 4,
+                                                        "diagrams": [],
+                                                        "displayRef": null,
+                                                        "displayTitle": "M2301.2.2.1 Roof-Mounted Collectors",
+                                                        "hasAssemblies": false,
+                                                        "isContiguous": true,
+                                                        "numAssembliesOnRef": 0,
+                                                        "numBuildingProductsOnRef": 0,
+                                                        "numDiagramsOnRef": 0,
+                                                        "reference": "M2301.2.2.1",
+                                                        "slug": "solar-thermal-energy-systems",
+                                                        "titleText": "Roof-Mounted Collectors",
+                                                        "children": []
+                                                    },
+                                                    {
+                                                        "ancestorRefs": [
+                                                            "23",
+                                                            "M2301",
+                                                            "M2301.2",
+                                                            "M2301.2.2"
+                                                        ],
+                                                        "body": "Collector sensor <a class=\"autolink\" href=\"/viewer/florida/fl-residential-code-2023/chapter/14/heating-and-cooling-equipment-and-appliances#M1401.1\">installation</a>, sensor <a class=\"autolink\" href=\"/viewer/florida/fl-residential-code-2023/chapter/28/water-heaters#P2801.4\">location</a> and the protection of exposed sensor wires from ultraviolet light shall be in accordance with SRCC 300.",
+                                                        "depth": 4,
+                                                        "diagrams": [],
+                                                        "displayRef": null,
+                                                        "displayTitle": "M2301.2.2.2 Collector Sensors",
+                                                        "hasAssemblies": false,
+                                                        "isContiguous": true,
+                                                        "numAssembliesOnRef": 0,
+                                                        "numBuildingProductsOnRef": 0,
+                                                        "numDiagramsOnRef": 0,
+                                                        "reference": "M2301.2.2.2",
+                                                        "slug": "solar-thermal-energy-systems",
+                                                        "titleText": "Collector Sensors",
+                                                        "children": []
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "ancestorRefs": [
+                                                    "23",
+                                                    "M2301",
+                                                    "M2301.2"
+                                                ],
+                                                "body": "<a class=\"autolink\" href=\"/viewer/florida/fl-residential-code-2023/chapter/W/3d-printed-building-construction#system_components\">System components</a> containing fluids shall be protected with temperature and <a class=\"autolink\" href=\"/viewer/florida/fl-residential-code-2023/chapter/24/fuel-gas#relief_valve_pressure\">pressure relief valves</a> or <a class=\"autolink\" href=\"/viewer/florida/fl-residential-code-2023/chapter/24/fuel-gas#relief_valve_pressure\">pressure relief valves</a>. <a class=\"autolink\" href=\"/viewer/florida/fl-residential-code-2023/chapter/24/fuel-gas#relief_vent_piping\">Relief</a> devices shall be installed in sections of the system so that a section cannot be valved off or isolated from a <a class=\"autolink\" href=\"/viewer/florida/fl-residential-code-2023/chapter/24/fuel-gas#relief_vent_piping\">relief</a> device. <a class=\"autolink\" href=\"/viewer/florida/fl-residential-code-2023/chapter/2/definitions#direct_system\">Direct systems</a> and the <a class=\"autolink\" href=\"/viewer/florida/fl-residential-code-2023/chapter/2/definitions#potable_water\">potable water</a> portion of <a class=\"autolink\" href=\"/viewer/florida/fl-residential-code-2023/chapter/2/definitions#indirect_system\">indirect systems</a> shall be equipped with a <a class=\"autolink\" href=\"/viewer/florida/fl-residential-code-2023/chapter/24/fuel-gas#relief_valve_device\">relief valve</a> in accordance with <a class=\"autolink\" href=\"/viewer/florida/fl-residential-code-2023/chapter/28/water-heaters#P2804\">Section P2804</a>. For <a class=\"autolink\" href=\"/viewer/florida/fl-residential-code-2023/chapter/2/definitions#indirect_system\">indirect systems</a>, <a class=\"autolink\" href=\"/viewer/florida/fl-residential-code-2023/chapter/24/fuel-gas#relief_valve_pressure\">pressure relief valves</a> in solar loops shall comply with SRCC 300. <a class=\"autolink\" href=\"/viewer/florida/fl-residential-code-2023/chapter/W/3d-printed-building-construction#system_components\">System components</a> shall have a working pressure rating of not less than the setting of the pressure <a class=\"autolink\" href=\"/viewer/florida/fl-residential-code-2023/chapter/24/fuel-gas#relief_vent_piping\">relief</a> device.",
+                                                "depth": 3,
+                                                "diagrams": [],
+                                                "displayRef": null,
+                                                "displayTitle": "M2301.2.3 Pressure and Temperature Relief Valves and System Components",
+                                                "hasAssemblies": false,
+                                                "isContiguous": true,
+                                                "numAssembliesOnRef": 0,
+                                                "numBuildingProductsOnRef": 0,
+                                                "numDiagramsOnRef": 0,
+                                                "reference": "M2301.2.3",
+                                                "slug": "solar-thermal-energy-systems",
+                                                "titleText": "Pressure and Temperature Relief Valves and System Components",
+                                                "children": []
+                                            },
+                                            {
+                                                "ancestorRefs": [
+                                                    "23",
+                                                    "M2301",
+                                                    "M2301.2"
+                                                ],
+                                                "body": "<a class=\"autolink\" href=\"/viewer/florida/fl-residential-code-2023/chapter/W/3d-printed-building-construction#system_components\">System components</a> that might be subjected to <a class=\"autolink\" href=\"/viewer/florida/fl-residential-code-2023/chapter/24/fuel-gas#pressure_drop\">pressure drops</a> below <a class=\"autolink\" href=\"/viewer/florida/fl-residential-code-2023/chapter/24/fuel-gas#atmospheric_pressure\">atmospheric pressure</a> during operation or shutdown shall be protected by a vacuum-<a class=\"autolink\" href=\"/viewer/florida/fl-residential-code-2023/chapter/24/fuel-gas#relief_valve_device\">relief valve</a>.",
+                                                "depth": 3,
+                                                "diagrams": [],
+                                                "displayRef": null,
+                                                "displayTitle": "M2301.2.4 Vacuum Relief",
+                                                "hasAssemblies": false,
+                                                "isContiguous": true,
+                                                "numAssembliesOnRef": 0,
+                                                "numBuildingProductsOnRef": 0,
+                                                "numDiagramsOnRef": 0,
+                                                "reference": "M2301.2.4",
+                                                "slug": "solar-thermal-energy-systems",
+                                                "titleText": "Vacuum Relief",
+                                                "children": []
+                                            },
+                                            {
+                                                "ancestorRefs": [
+                                                    "23",
+                                                    "M2301",
+                                                    "M2301.2"
+                                                ],
+                                                "body": "<div class=\"u-mb-3\"><a class=\"autolink\" href=\"/viewer/florida/fl-residential-code-2023/chapter/24/fuel-gas#piping\">Piping</a> shall be insulated in accordance with the <a class=\"autolink\" href=\"/viewer/florida/fl-residential-code-2023/chapter/4/foundations#R401.2\">requirements</a> of <a class=\"autolink\" href=\"/viewer/florida/fl-residential-code-2023/chapter/11/re-energy-efficiency#11\">Chapter 11</a>. Exterior insulation shall be protected from ultraviolet degradation. The entire solar loop shall be insulated. Where split-style insulation is used, the seam shall be sealed. Fittings shall be fully insulated.</div><div class=\"u-ml-4\"><div class=\"u-mb-3 u-mt-3\"><span class=\"u-font-bold\">Exceptions:</span></div><ol><li>Those portions of the <a class=\"autolink\" href=\"/viewer/florida/fl-residential-code-2023/chapter/24/fuel-gas#piping\">piping</a> that are used to help prevent the system from overheating shall not be required to be insulated.</li><li>Those portions of <a class=\"autolink\" href=\"/viewer/florida/fl-residential-code-2023/chapter/24/fuel-gas#piping\">piping</a> that are exposed to solar radiation, made of the same material as the solar collector absorber plate and are covered in the same manner as the solar collector absorber, or that are used to collect additional solar energy, shall not be required to be insulated.</li><li><a class=\"autolink\" href=\"/viewer/florida/fl-residential-code-2023/chapter/24/fuel-gas#piping\">Piping</a> in thermal solar systems using unglazed solar collectors to heat a <a class=\"autolink\" href=\"/viewer/florida/fl-residential-code-2023/chapter/45/private-swimming-pools#swimming_pool_public\">swimming pool</a> shall not be required to be insulated.</li></ol></div>",
+                                                "depth": 3,
+                                                "diagrams": [],
+                                                "displayRef": null,
+                                                "displayTitle": "M2301.2.5 Piping Insulation",
+                                                "hasAssemblies": false,
+                                                "isContiguous": true,
+                                                "numAssembliesOnRef": 0,
+                                                "numBuildingProductsOnRef": 0,
+                                                "numDiagramsOnRef": 0,
+                                                "reference": "M2301.2.5",
+                                                "slug": "solar-thermal-energy-systems",
+                                                "titleText": "Piping Insulation",
+                                                "children": []
+                                            },
+                                            {
+                                                "ancestorRefs": [
+                                                    "23",
+                                                    "M2301",
+                                                    "M2301.2"
+                                                ],
+                                                "body": "<div class=\"u-mb-3\"><a class=\"autolink\" href=\"/viewer/florida/fl-residential-code-2023/chapter/W/3d-printed-building-construction#system_components\">System components</a> shall be protected from damage resulting from freezing of heat-transfer liquids at the winter design temperature provided in <a class=\"autolink\" href=\"/viewer/florida/fl-residential-code-2023/chapter/3/building-planning#table_R301.2-1\">Table R301.2(1)</a>. Freeze protection shall be provided by heating, insulation, thermal mass and heat transfer fluids with freeze points lower than the winter design temperature, heat tape or other <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/florida/fl-residential-code-2023/chapter/45/private-swimming-pools#approved\">approved</a></span> methods, or combinations thereof.</div><div class=\"u-ml-4 u-mt-3\"><span class=\"u-font-bold\">Exception: </span>Where the winter design temperature is greater than 32\u00b0F (0\u00b0C).</div>",
+                                                "depth": 3,
+                                                "diagrams": [],
+                                                "displayRef": null,
+                                                "displayTitle": "M2301.2.6 Protection From Freezing",
+                                                "hasAssemblies": false,
+                                                "isContiguous": true,
+                                                "numAssembliesOnRef": 0,
+                                                "numBuildingProductsOnRef": 0,
+                                                "numDiagramsOnRef": 0,
+                                                "reference": "M2301.2.6",
+                                                "slug": "solar-thermal-energy-systems",
+                                                "titleText": "Protection From Freezing",
+                                                "children": []
+                                            },
+                                            {
+                                                "ancestorRefs": [
+                                                    "23",
+                                                    "M2301",
+                                                    "M2301.2"
+                                                ],
+                                                "body": "Storage tank sensors shall comply with SRCC 300.",
+                                                "depth": 3,
+                                                "diagrams": [],
+                                                "displayRef": null,
+                                                "displayTitle": "M2301.2.7 Storage Tank Sensors",
+                                                "hasAssemblies": false,
+                                                "isContiguous": true,
+                                                "numAssembliesOnRef": 0,
+                                                "numBuildingProductsOnRef": 0,
+                                                "numDiagramsOnRef": 0,
+                                                "reference": "M2301.2.7",
+                                                "slug": "solar-thermal-energy-systems",
+                                                "titleText": "Storage Tank Sensors",
+                                                "children": []
+                                            },
+                                            {
+                                                "ancestorRefs": [
+                                                    "23",
+                                                    "M2301",
+                                                    "M2301.2"
+                                                ],
+                                                "body": "<div class=\"u-mb-3\">Expansion tanks in solar energy systems shall be installed in accordance with <a class=\"autolink\" href=\"/viewer/florida/fl-residential-code-2023/chapter/20/boilers-and-water-heaters#M2003\">Section M2003</a> in solar collector loops that contain pressurized heat transfer fluid. Where expansion tanks are used, the system shall be designed in accordance with SRCC 300 to provide an expansion tank that is sized to withstand the maximum operating pressure of the system.</div><div class=\"u-ml-4 u-mt-3\"><span class=\"u-font-bold\">Exception: </span>Expansion tanks shall not be required in <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/florida/fl-residential-code-2023/chapter/2/definitions#drain-back_system\">drain-back systems</a></span>.</div>",
+                                                "depth": 3,
+                                                "diagrams": [],
+                                                "displayRef": null,
+                                                "displayTitle": "M2301.2.8 Expansion Tanks",
+                                                "hasAssemblies": false,
+                                                "isContiguous": true,
+                                                "numAssembliesOnRef": 0,
+                                                "numBuildingProductsOnRef": 0,
+                                                "numDiagramsOnRef": 0,
+                                                "reference": "M2301.2.8",
+                                                "slug": "solar-thermal-energy-systems",
+                                                "titleText": "Expansion Tanks",
+                                                "children": []
+                                            },
+                                            {
+                                                "ancestorRefs": [
+                                                    "23",
+                                                    "M2301",
+                                                    "M2301.2"
+                                                ],
+                                                "body": "Roof and wall penetrations shall be flashed and sealed in accordance with <a class=\"autolink\" href=\"/viewer/florida/fl-residential-code-2023/chapter/9/roof-assemblies#9\">Chapter 9</a> [the <a class=\"autolink\" href=\"/viewer/florida/fl-residential-code-2023/chapter/2/definitions#high-velocity_hurricane_zone_hvhz\">High-Velocity Hurricane Zone</a> (<a class=\"autolink\" href=\"/viewer/florida/fl-residential-code-2023/chapter/2/definitions#high-velocity_hurricane_zone_hvhz\">HVHZ</a>) shall comply with <a class=\"autolink\" href=\"/viewer/florida/fl-residential-code-2023/chapter/44/high-velocity-hurricane-zones#44\">Chapter 44</a>] of this code to prevent entry of water, rodents and insects.",
+                                                "depth": 3,
+                                                "diagrams": [],
+                                                "displayRef": null,
+                                                "displayTitle": "M2301.2.9 Roof and Wall Penetrations",
+                                                "hasAssemblies": false,
+                                                "isContiguous": true,
+                                                "numAssembliesOnRef": 0,
+                                                "numBuildingProductsOnRef": 0,
+                                                "numDiagramsOnRef": 0,
+                                                "reference": "M2301.2.9",
+                                                "slug": "solar-thermal-energy-systems",
+                                                "titleText": "Roof and Wall Penetrations",
+                                                "children": []
+                                            },
+                                            {
+                                                "ancestorRefs": [
+                                                    "23",
+                                                    "M2301",
+                                                    "M2301.2"
+                                                ],
+                                                "body": "Solar thermal systems shall comply with description <a class=\"autolink\" href=\"/viewer/florida/fl-residential-code-2023/chapter/2/definitions#label\">label</a> and warning <a class=\"autolink\" href=\"/viewer/florida/fl-residential-code-2023/chapter/2/definitions#label\">label</a> <a class=\"autolink\" href=\"/viewer/florida/fl-residential-code-2023/chapter/4/foundations#R401.2\">requirements</a> of <a class=\"autolink\" href=\"#M2301.2.11.2\">Section M2301.2.11.2</a> and SRCC 300.",
+                                                "depth": 3,
+                                                "diagrams": [],
+                                                "displayRef": null,
+                                                "displayTitle": "M2301.2.10 Description and Warning Labels",
+                                                "hasAssemblies": false,
+                                                "isContiguous": true,
+                                                "numAssembliesOnRef": 0,
+                                                "numBuildingProductsOnRef": 0,
+                                                "numDiagramsOnRef": 0,
+                                                "reference": "M2301.2.10",
+                                                "slug": "solar-thermal-energy-systems",
+                                                "titleText": "Description and Warning Labels",
+                                                "children": []
+                                            },
+                                            {
+                                                "ancestorRefs": [
+                                                    "23",
+                                                    "M2301",
+                                                    "M2301.2"
+                                                ],
+                                                "body": "Solar loops shall be in accordance with Sections <a class=\"autolink\" href=\"#M2301.2.11.1\">M2301.2.11.1</a> and <a class=\"autolink\" href=\"#M2301.2.11.2\">M2301.2.11.2</a>.",
+                                                "depth": 3,
+                                                "diagrams": [],
+                                                "displayRef": null,
+                                                "displayTitle": "M2301.2.11 Solar Loop",
+                                                "hasAssemblies": false,
+                                                "isContiguous": true,
+                                                "numAssembliesOnRef": 0,
+                                                "numBuildingProductsOnRef": 0,
+                                                "numDiagramsOnRef": 0,
+                                                "reference": "M2301.2.11",
+                                                "slug": "solar-thermal-energy-systems",
+                                                "titleText": "Solar Loop",
+                                                "children": [
+                                                    {
+                                                        "ancestorRefs": [
+                                                            "23",
+                                                            "M2301",
+                                                            "M2301.2",
+                                                            "M2301.2.11"
+                                                        ],
+                                                        "body": "<a class=\"autolink\" href=\"/viewer/florida/fl-residential-code-2023/chapter/24/fuel-gas#valve\">Valves</a> shall be installed to allow the solar collectors to be isolated from the remainder of the system.",
+                                                        "depth": 4,
+                                                        "diagrams": [],
+                                                        "displayRef": null,
+                                                        "displayTitle": "M2301.2.11.1 Solar Loop Isolation",
+                                                        "hasAssemblies": false,
+                                                        "isContiguous": true,
+                                                        "numAssembliesOnRef": 0,
+                                                        "numBuildingProductsOnRef": 0,
+                                                        "numDiagramsOnRef": 0,
+                                                        "reference": "M2301.2.11.1",
+                                                        "slug": "solar-thermal-energy-systems",
+                                                        "titleText": "Solar Loop Isolation",
+                                                        "children": []
+                                                    },
+                                                    {
+                                                        "ancestorRefs": [
+                                                            "23",
+                                                            "M2301",
+                                                            "M2301.2",
+                                                            "M2301.2.11"
+                                                        ],
+                                                        "body": "<a class=\"autolink\" href=\"/viewer/florida/fl-residential-code-2023/chapter/2/definitions#drain\">Drain</a> and fill <a class=\"autolink\" href=\"/viewer/florida/fl-residential-code-2023/chapter/24/fuel-gas#valve\">valves</a> shall be <a class=\"autolink\" href=\"/viewer/florida/fl-residential-code-2023/chapter/24/fuel-gas#labeled\">labeled</a> with a description and warning that identifies the fluid in the solar loop and a warning that the fluid might be discharged at high temperature and pressure. <a class=\"autolink\" href=\"/viewer/florida/fl-residential-code-2023/chapter/2/definitions#drain\">Drain</a> caps shall be installed at <a class=\"autolink\" href=\"/viewer/florida/fl-residential-code-2023/chapter/2/definitions#drain\">drain</a> and fill <a class=\"autolink\" href=\"/viewer/florida/fl-residential-code-2023/chapter/24/fuel-gas#valve\">valves</a>.",
+                                                        "depth": 4,
+                                                        "diagrams": [],
+                                                        "displayRef": null,
+                                                        "displayTitle": "M2301.2.11.2 Drain and Fill Valve Labels and Caps",
+                                                        "hasAssemblies": false,
+                                                        "isContiguous": true,
+                                                        "numAssembliesOnRef": 0,
+                                                        "numBuildingProductsOnRef": 0,
+                                                        "numDiagramsOnRef": 0,
+                                                        "reference": "M2301.2.11.2",
+                                                        "slug": "solar-thermal-energy-systems",
+                                                        "titleText": "Drain and Fill Valve Labels and Caps",
+                                                        "children": []
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "ancestorRefs": [
+                                                    "23",
+                                                    "M2301",
+                                                    "M2301.2"
+                                                ],
+                                                "body": "Systems shall be equipped with means to limit the maximum water temperature of the system fluid entering or exchanging heat with any pressurized vessel inside the <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/florida/fl-residential-code-2023/chapter/2/definitions#dwelling\">dwelling</a></span> to 180\u00b0F (82\u00b0C). This protection is in addition to the required <a class=\"autolink\" href=\"/viewer/florida/fl-residential-code-2023/chapter/2/definitions#temperature-_and_pressure-relief_t_and_p_valve\">temperature- and pressure-relief valves</a> required by <a class=\"autolink\" href=\"#M2301.2.3\">Section M2301.2.3</a>.",
+                                                "depth": 3,
+                                                "diagrams": [],
+                                                "displayRef": null,
+                                                "displayTitle": "M2301.2.12 Maximum Temperature Limitation",
+                                                "hasAssemblies": false,
+                                                "isContiguous": true,
+                                                "numAssembliesOnRef": 0,
+                                                "numBuildingProductsOnRef": 0,
+                                                "numDiagramsOnRef": 0,
+                                                "reference": "M2301.2.12",
+                                                "slug": "solar-thermal-energy-systems",
+                                                "titleText": "Maximum Temperature Limitation",
+                                                "children": []
+                                            },
+                                            {
+                                                "ancestorRefs": [
+                                                    "23",
+                                                    "M2301",
+                                                    "M2301.2"
+                                                ],
+                                                "body": "<span class=\"u-font-bold\">Reserved.</span>",
+                                                "depth": 3,
+                                                "diagrams": [],
+                                                "displayRef": null,
+                                                "displayTitle": "M2301.2.13",
+                                                "hasAssemblies": false,
+                                                "isContiguous": true,
+                                                "numAssembliesOnRef": 0,
+                                                "numBuildingProductsOnRef": 0,
+                                                "numDiagramsOnRef": 0,
+                                                "reference": "M2301.2.13",
+                                                "slug": "solar-thermal-energy-systems",
+                                                "titleText": "",
+                                                "children": []
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "ancestorRefs": [
+                                            "23",
+                                            "M2301"
+                                        ],
+                                        "body": "<span class=\"u-italic\">Labeling</span> shall comply with Sections <a class=\"autolink\" href=\"#M2301.3.1\">M2301.3.1</a> and <a class=\"autolink\" href=\"#M2301.3.2\">M2301.3.2</a>.",
+                                        "depth": 2,
+                                        "diagrams": [],
+                                        "displayRef": null,
+                                        "displayTitle": "M2301.3 Labeling",
+                                        "hasAssemblies": false,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 0,
+                                        "numDiagramsOnRef": 0,
+                                        "reference": "M2301.3",
+                                        "slug": "solar-thermal-energy-systems",
+                                        "titleText": "Labeling",
+                                        "children": [
+                                            {
+                                                "ancestorRefs": [
+                                                    "23",
+                                                    "M2301",
+                                                    "M2301.3"
+                                                ],
+                                                "body": "Solar thermal collectors and panels shall be listed and <a class=\"autolink\" href=\"/viewer/florida/fl-residential-code-2023/chapter/24/fuel-gas#labeled\">labeled</a> in accordance with SRCC 100 or SRCC 600. Collectors and panels shall be <span class=\"u-italic\">listed</span> and <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/florida/fl-residential-code-2023/chapter/24/fuel-gas#labeled\">labeled</a></span> to show the manufacturer's name, model number, serial number, collector weight, collector maximum allowable temperatures and pressures, and the type of heat transfer fluids that are compatible with the collector or panel. The <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/florida/fl-residential-code-2023/chapter/2/definitions#label\">label</a></span> shall clarify that these specifications apply only to the collector or panel.",
+                                                "depth": 3,
+                                                "diagrams": [],
+                                                "displayRef": null,
+                                                "displayTitle": "M2301.3.1 Collectors and Panels",
+                                                "hasAssemblies": false,
+                                                "isContiguous": true,
+                                                "numAssembliesOnRef": 0,
+                                                "numBuildingProductsOnRef": 0,
+                                                "numDiagramsOnRef": 0,
+                                                "reference": "M2301.3.1",
+                                                "slug": "solar-thermal-energy-systems",
+                                                "titleText": "Collectors and Panels",
+                                                "children": []
+                                            },
+                                            {
+                                                "ancestorRefs": [
+                                                    "23",
+                                                    "M2301",
+                                                    "M2301.3"
+                                                ],
+                                                "body": "Pressurized thermal storage units shall be <span class=\"u-italic\">listed</span> and <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/florida/fl-residential-code-2023/chapter/24/fuel-gas#labeled\">labeled</a></span> to show the manufacturer's name, model number, serial number, storage unit maximum and minimum allowable operating temperatures and pressures, and the type of heat transfer fluids that are compatible with the storage unit. The <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/florida/fl-residential-code-2023/chapter/2/definitions#label\">label</a></span> shall clarify that these specifications apply only to the thermal storage unit.",
+                                                "depth": 3,
+                                                "diagrams": [],
+                                                "displayRef": null,
+                                                "displayTitle": "M2301.3.2 Thermal Storage Units",
+                                                "hasAssemblies": false,
+                                                "isContiguous": true,
+                                                "numAssembliesOnRef": 0,
+                                                "numBuildingProductsOnRef": 0,
+                                                "numDiagramsOnRef": 0,
+                                                "reference": "M2301.3.2",
+                                                "slug": "solar-thermal-energy-systems",
+                                                "titleText": "Thermal Storage Units",
+                                                "children": []
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "ancestorRefs": [
+                                            "23",
+                                            "M2301"
+                                        ],
+                                        "body": "<div class=\"u-mb-3\"><span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/florida/fl-residential-code-2023/chapter/2/definitions#essentially_toxic_transfer_fluids\">Essentially toxic transfer fluids</a></span>, ethylene glycol, flammable gases and flammable liquids shall not be used as heat transfer fluids. Heat transfer gasses and liquids shall be rated to withstand the system's maximum design temperature under operating conditions without degradation. Heat exchangers used in solar thermal systems shall comply with <a class=\"autolink\" href=\"/viewer/florida/fl-residential-code-2023/chapter/29/water-supply-and-distribution#P2902.5.2\">Section P2902.5.2</a> and SRCC 300.</div><div class=\"u-indent-6 u-mt-3\">Heat transfer fluids shall be in accordance with SRCC 300. The flash point of the heat transfer fluids utilized in solar thermal systems shall be not less than 50\u00b0F (28\u00b0C) above the design maximum nonoperating or no-flow temperature attained by the fluid in the collector.</div>",
+                                        "depth": 2,
+                                        "diagrams": [],
+                                        "displayRef": null,
+                                        "displayTitle": "M2301.4 Heat Transfer Gasses or Liquids and Heat Exchangers",
+                                        "hasAssemblies": false,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 0,
+                                        "numDiagramsOnRef": 0,
+                                        "reference": "M2301.4",
+                                        "slug": "solar-thermal-energy-systems",
+                                        "titleText": "Heat Transfer Gasses or Liquids and Heat Exchangers",
+                                        "children": []
+                                    },
+                                    {
+                                        "ancestorRefs": [
+                                            "23",
+                                            "M2301"
+                                        ],
+                                        "body": "Connections from the <a class=\"autolink\" href=\"/viewer/florida/fl-residential-code-2023/chapter/2/definitions#potable_water\">potable water</a> supply to solar systems shall comply with <a class=\"autolink\" href=\"/viewer/florida/fl-residential-code-2023/chapter/29/water-supply-and-distribution#P2902.5.5\">Section P2902.5.5</a>.",
+                                        "depth": 2,
+                                        "diagrams": [],
+                                        "displayRef": null,
+                                        "displayTitle": "M2301.5 Backflow Protection",
+                                        "hasAssemblies": false,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 0,
+                                        "numDiagramsOnRef": 0,
+                                        "reference": "M2301.5",
+                                        "slug": "solar-thermal-energy-systems",
+                                        "titleText": "Backflow Protection",
+                                        "children": []
+                                    },
+                                    {
+                                        "ancestorRefs": [
+                                            "23",
+                                            "M2301"
+                                        ],
+                                        "body": "Air provided to <a class=\"autolink\" href=\"/viewer/florida/fl-residential-code-2023/chapter/2/definitions#occupied_space\">occupied spaces</a> that passes through thermal mass storage systems by mechanical means shall be filtered for particulates at the <a class=\"autolink\" href=\"/viewer/florida/fl-residential-code-2023/chapter/24/fuel-gas#outlet\">outlet</a> of the thermal mass storage system.",
+                                        "depth": 2,
+                                        "diagrams": [],
+                                        "displayRef": null,
+                                        "displayTitle": "M2301.6 Filtering",
+                                        "hasAssemblies": false,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 0,
+                                        "numDiagramsOnRef": 0,
+                                        "reference": "M2301.6",
+                                        "slug": "solar-thermal-energy-systems",
+                                        "titleText": "Filtering",
+                                        "children": []
+                                    },
+                                    {
+                                        "ancestorRefs": [
+                                            "23",
+                                            "M2301"
+                                        ],
+                                        "body": "Where a solar thermal system heats <a class=\"autolink\" href=\"/viewer/florida/fl-residential-code-2023/chapter/2/definitions#potable_water\">potable water</a> to supply a potable hot <a class=\"autolink\" href=\"/viewer/florida/fl-residential-code-2023/chapter/2/definitions#water_distribution_system\">water distribution system</a>, the solar thermal system shall be in accordance with Sections <a class=\"autolink\" href=\"#M2301.7.1\">M2301.7.1</a>, <a class=\"autolink\" href=\"#M2301.7.2\">M2301.7.2</a> and <a class=\"autolink\" href=\"/viewer/florida/fl-residential-code-2023/chapter/29/water-supply-and-distribution#P2902.5.5\">P2902.5.5</a>.",
+                                        "depth": 2,
+                                        "diagrams": [],
+                                        "displayRef": null,
+                                        "displayTitle": "M2301.7 Solar Thermal Systems for Heating Potable Water",
+                                        "hasAssemblies": false,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 0,
+                                        "numDiagramsOnRef": 0,
+                                        "reference": "M2301.7",
+                                        "slug": "solar-thermal-energy-systems",
+                                        "titleText": "Solar Thermal Systems for Heating Potable Water",
+                                        "children": [
+                                            {
+                                                "ancestorRefs": [
+                                                    "23",
+                                                    "M2301",
+                                                    "M2301.7"
+                                                ],
+                                                "body": "Heat exchangers that are components of indirect solar thermal heating systems shall comply with <a class=\"autolink\" href=\"/viewer/florida/fl-residential-code-2023/chapter/29/water-supply-and-distribution#P2902.5.2\">Section P2902.5.2</a>.",
+                                                "depth": 3,
+                                                "diagrams": [],
+                                                "displayRef": null,
+                                                "displayTitle": "M2301.7.1 Indirect Systems",
+                                                "hasAssemblies": false,
+                                                "isContiguous": true,
+                                                "numAssembliesOnRef": 0,
+                                                "numBuildingProductsOnRef": 0,
+                                                "numDiagramsOnRef": 0,
+                                                "reference": "M2301.7.1",
+                                                "slug": "solar-thermal-energy-systems",
+                                                "titleText": "Indirect Systems",
+                                                "children": []
+                                            },
+                                            {
+                                                "ancestorRefs": [
+                                                    "23",
+                                                    "M2301",
+                                                    "M2301.7"
+                                                ],
+                                                "body": "Where <a class=\"autolink\" href=\"/viewer/florida/fl-residential-code-2023/chapter/2/definitions#potable_water\">potable water</a> is directly heated by a solar thermal system, the <a class=\"autolink\" href=\"/viewer/florida/fl-residential-code-2023/chapter/24/fuel-gas#pipe_piping\">pipe</a>, fittings, <a class=\"autolink\" href=\"/viewer/florida/fl-residential-code-2023/chapter/24/fuel-gas#valve\">valves</a> and other components that are in contact with the <a class=\"autolink\" href=\"/viewer/florida/fl-residential-code-2023/chapter/2/definitions#potable_water\">potable water</a> in the solar heating system shall comply with the <a class=\"autolink\" href=\"/viewer/florida/fl-residential-code-2023/chapter/4/foundations#R401.2\">requirements</a> of <a class=\"autolink\" href=\"/viewer/florida/fl-residential-code-2023/chapter/29/water-supply-and-distribution#29\">Chapter 29</a>.",
+                                                "depth": 3,
+                                                "diagrams": [],
+                                                "displayRef": null,
+                                                "displayTitle": "M2301.7.2 Direct Systems",
+                                                "hasAssemblies": false,
+                                                "isContiguous": true,
+                                                "numAssembliesOnRef": 0,
+                                                "numBuildingProductsOnRef": 0,
+                                                "numDiagramsOnRef": 0,
+                                                "reference": "M2301.7.2",
+                                                "slug": "solar-thermal-energy-systems",
+                                                "titleText": "Direct Systems",
+                                                "children": []
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            "chapterReference": "23"
+        },
+        "__N_SSP": true
+    },
+    "page": "/viewer/[urlFormPubOrJurisKey]/[urlFormPub]/chapter/[chapterRef]/[chapterName]",
+    "query": {
+        "urlFormPubOrJurisKey": "florida",
+        "urlFormPub": "fl-residential-code-2023",
+        "chapterRef": "23",
+        "chapterName": "solar-thermal-energy-systems"
+    },
+    "buildId": "1fSFT4-IdVJWcsxmeyZE8",
+    "isFallback": false,
+    "isExperimentalCompile": false,
+    "dynamicIds": [
+        61621,
+        54065
+    ],
+    "gssp": true,
+    "scriptLoader": []
+}

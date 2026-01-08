@@ -1,0 +1,1812 @@
+{
+    "props": {
+        "pageProps": {
+            "missingRequiredLogin": false,
+            "title": "Chapter 27 Electrical: District of Columbia Building Code 2017 | UpCodes",
+            "leanChapterViewerData": {
+                "basePubName": "International Building Code 2015 (IBC 2015)",
+                "codeGroupingYear": "2020",
+                "codeName": "District of Columbia Building Code 2017",
+                "codeUuid": "854f1f64-3567-4c10-be07-df77df8323ee",
+                "codeVersions": [
+                    {
+                        "codeUuid": "854f1f64-3567-4c10-be07-df77df8323ee",
+                        "name": "Original Adoption",
+                        "effectiveStartDate": "2020-05-29",
+                        "shortformUrlName": "ibc-2015",
+                        "activeStatus": "active"
+                    }
+                ],
+                "ingesterAmendmentsEnabled": false,
+                "ingesterCodeUnitsEnabled": false,
+                "isAmendStylingEnabled": true,
+                "isCorrespondable": true,
+                "jurisKey": "district-of-columbia",
+                "jurisName": "District of Columbia",
+                "metaInfoUrl": "/viewer/district-of-columbia/ibc-2015",
+                "modelCodeUrl": null,
+                "placeholder": "Search District of Columbia Building Code 2017",
+                "pubKey": "int_building_code_2015",
+                "pubPrefix": "int_building_code",
+                "shortformPubName": "ibc-2015",
+                "withAmendments": true,
+                "chapterRef": "27",
+                "publisher": "icc",
+                "hasLinkedResources": false,
+                "initialNonChapterTocLines": [
+                    {
+                        "amendType": null,
+                        "children": [
+                            {
+                                "amendType": null,
+                                "children": [],
+                                "depth": 2,
+                                "displayTitle": "2701.1 Scope",
+                                "hasExpanderArrow": false,
+                                "href": "#2701.1",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "reference": "2701.1"
+                            }
+                        ],
+                        "depth": 1,
+                        "displayTitle": "2701 General",
+                        "hasExpanderArrow": true,
+                        "href": "#2701",
+                        "isCodeDivider": false,
+                        "isCodeDividerClickable": false,
+                        "reference": "2701"
+                    },
+                    {
+                        "amendType": null,
+                        "children": [
+                            {
+                                "amendType": null,
+                                "children": [
+                                    {
+                                        "amendType": null,
+                                        "children": [],
+                                        "depth": 3,
+                                        "displayTitle": "2702.1.1 Stationary Generators",
+                                        "hasExpanderArrow": false,
+                                        "href": "#2702.1.1",
+                                        "isCodeDivider": false,
+                                        "isCodeDividerClickable": false,
+                                        "reference": "2702.1.1"
+                                    },
+                                    {
+                                        "amendType": null,
+                                        "children": [],
+                                        "depth": 3,
+                                        "displayTitle": "2702.1.2 Electrical",
+                                        "hasExpanderArrow": false,
+                                        "href": "#2702.1.2",
+                                        "isCodeDivider": false,
+                                        "isCodeDividerClickable": false,
+                                        "reference": "2702.1.2"
+                                    },
+                                    {
+                                        "amendType": null,
+                                        "children": [],
+                                        "depth": 3,
+                                        "displayTitle": "2702.1.3 Load Transfer",
+                                        "hasExpanderArrow": false,
+                                        "href": "#2702.1.3",
+                                        "isCodeDivider": false,
+                                        "isCodeDividerClickable": false,
+                                        "reference": "2702.1.3"
+                                    },
+                                    {
+                                        "amendType": null,
+                                        "children": [],
+                                        "depth": 3,
+                                        "displayTitle": "2702.1.4 Load Duration",
+                                        "hasExpanderArrow": false,
+                                        "href": "#2702.1.4",
+                                        "isCodeDivider": false,
+                                        "isCodeDividerClickable": false,
+                                        "reference": "2702.1.4"
+                                    },
+                                    {
+                                        "amendType": null,
+                                        "children": [],
+                                        "depth": 3,
+                                        "displayTitle": "2702.1.5 Uninterruptable Power Source",
+                                        "hasExpanderArrow": false,
+                                        "href": "#2702.1.5",
+                                        "isCodeDivider": false,
+                                        "isCodeDividerClickable": false,
+                                        "reference": "2702.1.5"
+                                    },
+                                    {
+                                        "amendType": null,
+                                        "children": [],
+                                        "depth": 3,
+                                        "displayTitle": "2702.1.6 Interchangeability",
+                                        "hasExpanderArrow": false,
+                                        "href": "#2702.1.6",
+                                        "isCodeDivider": false,
+                                        "isCodeDividerClickable": false,
+                                        "reference": "2702.1.6"
+                                    },
+                                    {
+                                        "amendType": "edit",
+                                        "children": [],
+                                        "depth": 3,
+                                        "displayTitle": "2702.1.7 Group I-2 Occupancies",
+                                        "hasExpanderArrow": false,
+                                        "href": "#2702.1.7",
+                                        "isCodeDivider": false,
+                                        "isCodeDividerClickable": false,
+                                        "reference": "2702.1.7"
+                                    }
+                                ],
+                                "depth": 2,
+                                "displayTitle": "2702.1 Installation",
+                                "hasExpanderArrow": true,
+                                "href": "#2702.1",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "reference": "2702.1"
+                            },
+                            {
+                                "amendType": null,
+                                "children": [
+                                    {
+                                        "amendType": null,
+                                        "children": [],
+                                        "depth": 3,
+                                        "displayTitle": "2702.2.1 Emergency Alarm Systems",
+                                        "hasExpanderArrow": false,
+                                        "href": "#2702.2.1",
+                                        "isCodeDivider": false,
+                                        "isCodeDividerClickable": false,
+                                        "reference": "2702.2.1"
+                                    },
+                                    {
+                                        "amendType": null,
+                                        "children": [],
+                                        "depth": 3,
+                                        "displayTitle": "2702.2.2 Elevators and Platform Lifts",
+                                        "hasExpanderArrow": false,
+                                        "href": "#2702.2.2",
+                                        "isCodeDivider": false,
+                                        "isCodeDividerClickable": false,
+                                        "reference": "2702.2.2"
+                                    },
+                                    {
+                                        "amendType": null,
+                                        "children": [],
+                                        "depth": 3,
+                                        "displayTitle": "2702.2.3 Emergency Responder Radio Coverage Systems",
+                                        "hasExpanderArrow": false,
+                                        "href": "#2702.2.3",
+                                        "isCodeDivider": false,
+                                        "isCodeDividerClickable": false,
+                                        "reference": "2702.2.3"
+                                    },
+                                    {
+                                        "amendType": null,
+                                        "children": [],
+                                        "depth": 3,
+                                        "displayTitle": "2702.2.4 Emergency Voice/Alarm Communication Systems",
+                                        "hasExpanderArrow": false,
+                                        "href": "#2702.2.4",
+                                        "isCodeDivider": false,
+                                        "isCodeDividerClickable": false,
+                                        "reference": "2702.2.4"
+                                    },
+                                    {
+                                        "amendType": null,
+                                        "children": [],
+                                        "depth": 3,
+                                        "displayTitle": "2702.2.5 Exit Signs",
+                                        "hasExpanderArrow": false,
+                                        "href": "#2702.2.5",
+                                        "isCodeDivider": false,
+                                        "isCodeDividerClickable": false,
+                                        "reference": "2702.2.5"
+                                    },
+                                    {
+                                        "amendType": null,
+                                        "children": [],
+                                        "depth": 3,
+                                        "displayTitle": "2702.2.6 Group I-2 Occupancies",
+                                        "hasExpanderArrow": false,
+                                        "href": "#2702.2.6",
+                                        "isCodeDivider": false,
+                                        "isCodeDividerClickable": false,
+                                        "reference": "2702.2.6"
+                                    },
+                                    {
+                                        "amendType": null,
+                                        "children": [],
+                                        "depth": 3,
+                                        "displayTitle": "2702.2.7 Group I-3 Occupancies",
+                                        "hasExpanderArrow": false,
+                                        "href": "#2702.2.7",
+                                        "isCodeDivider": false,
+                                        "isCodeDividerClickable": false,
+                                        "reference": "2702.2.7"
+                                    },
+                                    {
+                                        "amendType": null,
+                                        "children": [],
+                                        "depth": 3,
+                                        "displayTitle": "2702.2.8 Hazardous Materials",
+                                        "hasExpanderArrow": false,
+                                        "href": "#2702.2.8",
+                                        "isCodeDivider": false,
+                                        "isCodeDividerClickable": false,
+                                        "reference": "2702.2.8"
+                                    },
+                                    {
+                                        "amendType": null,
+                                        "children": [],
+                                        "depth": 3,
+                                        "displayTitle": "2702.2.9 High-Rise Buildings",
+                                        "hasExpanderArrow": false,
+                                        "href": "#2702.2.9",
+                                        "isCodeDivider": false,
+                                        "isCodeDividerClickable": false,
+                                        "reference": "2702.2.9"
+                                    },
+                                    {
+                                        "amendType": null,
+                                        "children": [],
+                                        "depth": 3,
+                                        "displayTitle": "2702.2.10 Horizontal Sliding Doors",
+                                        "hasExpanderArrow": false,
+                                        "href": "#2702.2.10",
+                                        "isCodeDivider": false,
+                                        "isCodeDividerClickable": false,
+                                        "reference": "2702.2.10"
+                                    },
+                                    {
+                                        "amendType": null,
+                                        "children": [],
+                                        "depth": 3,
+                                        "displayTitle": "2702.2.11 Means of Egress Illumination",
+                                        "hasExpanderArrow": false,
+                                        "href": "#2702.2.11",
+                                        "isCodeDivider": false,
+                                        "isCodeDividerClickable": false,
+                                        "reference": "2702.2.11"
+                                    },
+                                    {
+                                        "amendType": null,
+                                        "children": [],
+                                        "depth": 3,
+                                        "displayTitle": "2702.2.12 Membrane Structures",
+                                        "hasExpanderArrow": false,
+                                        "href": "#2702.2.12",
+                                        "isCodeDivider": false,
+                                        "isCodeDividerClickable": false,
+                                        "reference": "2702.2.12"
+                                    },
+                                    {
+                                        "amendType": null,
+                                        "children": [],
+                                        "depth": 3,
+                                        "displayTitle": "2702.2.13 Pyrophoric Materials",
+                                        "hasExpanderArrow": false,
+                                        "href": "#2702.2.13",
+                                        "isCodeDivider": false,
+                                        "isCodeDividerClickable": false,
+                                        "reference": "2702.2.13"
+                                    },
+                                    {
+                                        "amendType": null,
+                                        "children": [],
+                                        "depth": 3,
+                                        "displayTitle": "2702.2.14 Semiconductor Fabrication Facilities",
+                                        "hasExpanderArrow": false,
+                                        "href": "#2702.2.14",
+                                        "isCodeDivider": false,
+                                        "isCodeDividerClickable": false,
+                                        "reference": "2702.2.14"
+                                    },
+                                    {
+                                        "amendType": null,
+                                        "children": [],
+                                        "depth": 3,
+                                        "displayTitle": "2702.2.15 Smoke Control Systems",
+                                        "hasExpanderArrow": false,
+                                        "href": "#2702.2.15",
+                                        "isCodeDivider": false,
+                                        "isCodeDividerClickable": false,
+                                        "reference": "2702.2.15"
+                                    },
+                                    {
+                                        "amendType": null,
+                                        "children": [],
+                                        "depth": 3,
+                                        "displayTitle": "2702.2.16 Underground Buildings",
+                                        "hasExpanderArrow": false,
+                                        "href": "#2702.2.16",
+                                        "isCodeDivider": false,
+                                        "isCodeDividerClickable": false,
+                                        "reference": "2702.2.16"
+                                    }
+                                ],
+                                "depth": 2,
+                                "displayTitle": "2702.2 Where Required",
+                                "hasExpanderArrow": true,
+                                "href": "#2702.2",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "reference": "2702.2"
+                            },
+                            {
+                                "amendType": null,
+                                "children": [],
+                                "depth": 2,
+                                "displayTitle": "2702.3 Critical Circuits",
+                                "hasExpanderArrow": false,
+                                "href": "#2702.3",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "reference": "2702.3"
+                            },
+                            {
+                                "amendType": null,
+                                "children": [],
+                                "depth": 2,
+                                "displayTitle": "2702.4 Maintenance",
+                                "hasExpanderArrow": false,
+                                "href": "#2702.4",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "reference": "2702.4"
+                            }
+                        ],
+                        "depth": 1,
+                        "displayTitle": "2702 Emergency and Standby Power Systems",
+                        "hasExpanderArrow": true,
+                        "href": "#2702",
+                        "isCodeDivider": false,
+                        "isCodeDividerClickable": false,
+                        "reference": "2702"
+                    }
+                ],
+                "title": "Chapter 27 Electrical: District of Columbia Building Code 2017 | UpCodes",
+                "leanChapterLines": [
+                    {
+                        "amendType": "deletion",
+                        "displayTitle": "Chapter <span class=\"code_deletion\">1</span> <span class=\"code_deletion\">Scope and Administration</span>",
+                        "reference": "1",
+                        "slug": "scope-and-administration"
+                    },
+                    {
+                        "amendType": "addition",
+                        "displayTitle": "Chapter 1 Administration and Enforcement",
+                        "isExpandable": true,
+                        "reference": "new_1",
+                        "slug": "administration-and-enforcement"
+                    },
+                    {
+                        "displayTitle": "Chapter 2 Definitions",
+                        "isExpandable": true,
+                        "reference": "2",
+                        "slug": "definitions"
+                    },
+                    {
+                        "displayTitle": "Chapter 3 Use and Occupancy Classification",
+                        "isExpandable": true,
+                        "reference": "3",
+                        "slug": "use-and-occupancy-classification"
+                    },
+                    {
+                        "displayTitle": "Chapter 4 Special Detailed Requirements Based on Use and Occupancy",
+                        "isExpandable": true,
+                        "reference": "4",
+                        "slug": "special-detailed-requirements-based-on-use-and-occupancy"
+                    },
+                    {
+                        "displayTitle": "Chapter 5 General Building Heights and Areas",
+                        "isExpandable": true,
+                        "reference": "5",
+                        "slug": "general-building-heights-and-areas"
+                    },
+                    {
+                        "displayTitle": "Chapter 6 Types of Construction",
+                        "isExpandable": true,
+                        "reference": "6",
+                        "slug": "types-of-construction"
+                    },
+                    {
+                        "displayTitle": "Chapter 7 Fire and Smoke Protection Features",
+                        "isExpandable": true,
+                        "reference": "7",
+                        "slug": "fire-and-smoke-protection-features"
+                    },
+                    {
+                        "displayTitle": "Chapter 8 Interior Finishes",
+                        "isExpandable": true,
+                        "reference": "8",
+                        "slug": "interior-finishes"
+                    },
+                    {
+                        "displayTitle": "Chapter 9 Fire Protection Systems",
+                        "isExpandable": true,
+                        "reference": "9",
+                        "slug": "fire-protection-systems"
+                    },
+                    {
+                        "displayTitle": "Chapter 10 Means of Egress",
+                        "isExpandable": true,
+                        "reference": "10",
+                        "slug": "means-of-egress"
+                    },
+                    {
+                        "displayTitle": "Chapter 11 Accessibility",
+                        "isExpandable": true,
+                        "reference": "11",
+                        "slug": "accessibility"
+                    },
+                    {
+                        "displayTitle": "Chapter 12 Interior Environment",
+                        "isExpandable": true,
+                        "reference": "12",
+                        "slug": "interior-environment"
+                    },
+                    {
+                        "displayTitle": "Chapter 13 Energy Efficiency",
+                        "isExpandable": true,
+                        "reference": "13",
+                        "slug": "energy-efficiency"
+                    },
+                    {
+                        "displayTitle": "Chapter 14 Exterior Walls",
+                        "isExpandable": true,
+                        "reference": "14",
+                        "slug": "exterior-walls"
+                    },
+                    {
+                        "displayTitle": "Chapter 15 Roof Assemblies and Rooftop Structures",
+                        "isExpandable": true,
+                        "reference": "15",
+                        "slug": "roof-assemblies-and-rooftop-structures"
+                    },
+                    {
+                        "displayTitle": "Chapter 16 Structural Design",
+                        "isExpandable": true,
+                        "reference": "16",
+                        "slug": "structural-design"
+                    },
+                    {
+                        "displayTitle": "Chapter 17 Special Inspections and Tests",
+                        "isExpandable": true,
+                        "reference": "17",
+                        "slug": "special-inspections-and-tests"
+                    },
+                    {
+                        "displayTitle": "Chapter 18 Soils and Foundations",
+                        "isExpandable": true,
+                        "reference": "18",
+                        "slug": "soils-and-foundations"
+                    },
+                    {
+                        "displayTitle": "Chapter 19 Concrete",
+                        "isExpandable": true,
+                        "reference": "19",
+                        "slug": "concrete"
+                    },
+                    {
+                        "displayTitle": "Chapter 20 Aluminum",
+                        "isExpandable": true,
+                        "reference": "20",
+                        "slug": "aluminum"
+                    },
+                    {
+                        "displayTitle": "Chapter 21 Masonry",
+                        "isExpandable": true,
+                        "reference": "21",
+                        "slug": "masonry"
+                    },
+                    {
+                        "displayTitle": "Chapter 22 Steel",
+                        "isExpandable": true,
+                        "reference": "22",
+                        "slug": "steel"
+                    },
+                    {
+                        "displayTitle": "Chapter 23 Wood",
+                        "isExpandable": true,
+                        "reference": "23",
+                        "slug": "wood"
+                    },
+                    {
+                        "displayTitle": "Chapter 24 Glass and Glazing",
+                        "isExpandable": true,
+                        "reference": "24",
+                        "slug": "glass-and-glazing"
+                    },
+                    {
+                        "displayTitle": "Chapter 25 Gypsum Board, Gypsum Panel Products and Plaster",
+                        "isExpandable": true,
+                        "reference": "25",
+                        "slug": "gypsum-board-gypsum-panel-products-and-plaster"
+                    },
+                    {
+                        "displayTitle": "Chapter 26 Plastic",
+                        "isExpandable": true,
+                        "reference": "26",
+                        "slug": "plastic"
+                    },
+                    {
+                        "displayTitle": "Chapter 27 Electrical",
+                        "isExpandable": true,
+                        "reference": "27",
+                        "slug": "electrical"
+                    },
+                    {
+                        "displayTitle": "Chapter 28 Mechanical Systems",
+                        "isExpandable": true,
+                        "reference": "28",
+                        "slug": "mechanical-systems"
+                    },
+                    {
+                        "displayTitle": "Chapter 29 Plumbing Systems",
+                        "isExpandable": true,
+                        "reference": "29",
+                        "slug": "plumbing-systems"
+                    },
+                    {
+                        "displayTitle": "Chapter 30 Elevators and Conveying Systems",
+                        "isExpandable": true,
+                        "reference": "30",
+                        "slug": "elevators-and-conveying-systems"
+                    },
+                    {
+                        "displayTitle": "Chapter 31 Special Construction",
+                        "isExpandable": true,
+                        "reference": "31",
+                        "slug": "special-construction"
+                    },
+                    {
+                        "displayTitle": "Chapter 32 Encroachments Into the Public Right-of-Way",
+                        "isExpandable": true,
+                        "reference": "32",
+                        "slug": "encroachments-into-the-public-right-of-way"
+                    },
+                    {
+                        "displayTitle": "Chapter 33 Safeguards During Construction",
+                        "isExpandable": true,
+                        "reference": "33",
+                        "slug": "safeguards-during-construction"
+                    },
+                    {
+                        "amendType": "deletion",
+                        "displayTitle": "Chapter <span class=\"code_deletion\">34</span> <span class=\"code_deletion\">Reserved</span>",
+                        "reference": "34",
+                        "slug": "reserved"
+                    },
+                    {
+                        "amendType": "addition",
+                        "displayTitle": "Chapter 34 Existing Buildings",
+                        "isExpandable": true,
+                        "reference": "new_34",
+                        "slug": "existing-buildings"
+                    },
+                    {
+                        "amendType": "edit",
+                        "displayTitle": "Chapter 35 Referenced Standards",
+                        "reference": "35",
+                        "slug": "referenced-standards"
+                    },
+                    {
+                        "disabled": true,
+                        "displayTitle": "Appendix A Employee Qualifications",
+                        "reference": "A",
+                        "slug": "employee-qualifications"
+                    },
+                    {
+                        "disabled": true,
+                        "displayTitle": "Appendix B Board of Appeals",
+                        "reference": "B",
+                        "slug": "board-of-appeals"
+                    },
+                    {
+                        "disabled": true,
+                        "displayTitle": "Appendix C Group U\u2014Agricultural Buildings",
+                        "reference": "C",
+                        "slug": "group-u-agricultural-buildings"
+                    },
+                    {
+                        "disabled": true,
+                        "displayTitle": "Appendix D Fire Districts",
+                        "reference": "D",
+                        "slug": "fire-districts"
+                    },
+                    {
+                        "amendType": "edit",
+                        "displayTitle": "Appendix E Supplementary Accessibility Requirements",
+                        "hasChapterAdoption": true,
+                        "isExpandable": true,
+                        "reference": "E",
+                        "slug": "supplementary-accessibility-requirements"
+                    },
+                    {
+                        "disabled": true,
+                        "displayTitle": "Appendix F Rodentproofing",
+                        "reference": "F",
+                        "slug": "rodentproofing"
+                    },
+                    {
+                        "amendType": "edit",
+                        "displayTitle": "Appendix G Flood-Resistant Construction",
+                        "hasChapterAdoption": true,
+                        "isExpandable": true,
+                        "reference": "G",
+                        "slug": "flood-resistant-construction"
+                    },
+                    {
+                        "disabled": true,
+                        "displayTitle": "Appendix H Signs",
+                        "reference": "H",
+                        "slug": "signs"
+                    },
+                    {
+                        "disabled": true,
+                        "displayTitle": "Appendix I Patio Covers",
+                        "reference": "I",
+                        "slug": "patio-covers"
+                    },
+                    {
+                        "disabled": true,
+                        "displayTitle": "Appendix J Grading",
+                        "reference": "J",
+                        "slug": "grading"
+                    },
+                    {
+                        "disabled": true,
+                        "displayTitle": "Appendix K Administrative Provisions",
+                        "reference": "K",
+                        "slug": "administrative-provisions"
+                    },
+                    {
+                        "disabled": true,
+                        "displayTitle": "Appendix L Earthquake Recording Instrumentation",
+                        "reference": "L",
+                        "slug": "earthquake-recording-instrumentation"
+                    },
+                    {
+                        "disabled": true,
+                        "displayTitle": "Appendix M Tsunami-Generated Flood Hazard",
+                        "reference": "M",
+                        "slug": "tsunami-generated-flood-hazard"
+                    },
+                    {
+                        "amendType": "addition",
+                        "displayTitle": "Appendix N Signs",
+                        "isExpandable": true,
+                        "reference": "new_N",
+                        "slug": "signs"
+                    }
+                ],
+                "leanCodeSectionsTree": [
+                    {
+                        "ancestorRefs": [],
+                        "depth": 0,
+                        "diagrams": [],
+                        "displayRef": null,
+                        "displayTitle": "Chapter 27 Electrical",
+                        "divisionType": "Chapter",
+                        "hasAssemblies": false,
+                        "isContiguous": true,
+                        "numAssembliesOnRef": 0,
+                        "numBuildingProductsOnRef": 0,
+                        "numDiagramsOnRef": 0,
+                        "reference": "27",
+                        "slug": "electrical",
+                        "titleText": "Electrical",
+                        "children": [
+                            {
+                                "ancestorRefs": [
+                                    "27"
+                                ],
+                                "depth": 1,
+                                "diagrams": [],
+                                "displayRef": null,
+                                "displayTitle": "Section 2701 General",
+                                "divisionType": "Section",
+                                "hasAssemblies": false,
+                                "isContiguous": true,
+                                "numAssembliesOnRef": 0,
+                                "numBuildingProductsOnRef": 0,
+                                "numDiagramsOnRef": 0,
+                                "reference": "2701",
+                                "slug": "electrical",
+                                "titleText": "General",
+                                "children": [
+                                    {
+                                        "ancestorRefs": [
+                                            "27",
+                                            "2701"
+                                        ],
+                                        "body": "This chapter governs the electrical components, equipment and systems used in buildings and structures covered by this code. Electrical components, equipment and systems shall be designed and constructed in accordance with the provisions of NFPA 70.",
+                                        "depth": 2,
+                                        "diagrams": [
+                                            {
+                                                "key": "electrical_equip_egress_1",
+                                                "title": "Elect. Equip.: Entrance/Egress from Working Space, pt. 1",
+                                                "descriptionHtml": "",
+                                                "topics": [
+                                                    "Electrical",
+                                                    "Egress"
+                                                ],
+                                                "phases": [
+                                                    "Construction Docs"
+                                                ],
+                                                "supressesChildrenAssociations": false,
+                                                "blacklistJurisdictions": [
+                                                    "new_york_city"
+                                                ],
+                                                "whitelistJurisdictions": [],
+                                                "imageType": "svg"
+                                            },
+                                            {
+                                                "key": "elec_panel_hgt_excpt2",
+                                                "title": "Electrical Panel - Work Space Height",
+                                                "descriptionHtml": "<div>Electrical panels shall be provided with a clear work space of 36\" by 30\" minimum from the floor up to a height of 6'-6\".  However, In existing dwelling units where the electrical service panel is less than 200 amperes, the height of the working space is allowed to be less than 6'-6\". </div>",
+                                                "topics": [
+                                                    "Electrical"
+                                                ],
+                                                "phases": [
+                                                    "Construction Phase",
+                                                    "Construction Docs",
+                                                    "Design Development"
+                                                ],
+                                                "supressesChildrenAssociations": false,
+                                                "blacklistJurisdictions": [],
+                                                "whitelistJurisdictions": [],
+                                                "imageType": "svg"
+                                            },
+                                            {
+                                                "key": "electrical_equip_egress_3",
+                                                "title": "Elect. Equip.: Entrance/Egress from Working Space, pt. 3",
+                                                "descriptionHtml": "",
+                                                "topics": [
+                                                    "Electrical",
+                                                    "Egress"
+                                                ],
+                                                "phases": [
+                                                    "Construction Docs"
+                                                ],
+                                                "supressesChildrenAssociations": false,
+                                                "blacklistJurisdictions": [
+                                                    "new_york_city"
+                                                ],
+                                                "whitelistJurisdictions": [],
+                                                "imageType": "svg"
+                                            },
+                                            {
+                                                "key": "electrical_equip_egress_2",
+                                                "title": "Elect. Equip.: Entrance/Egress from Working Space, pt. 2",
+                                                "descriptionHtml": "",
+                                                "topics": [
+                                                    "Electrical",
+                                                    "Egress"
+                                                ],
+                                                "phases": [
+                                                    "Construction Docs"
+                                                ],
+                                                "supressesChildrenAssociations": false,
+                                                "blacklistJurisdictions": [
+                                                    "new_york_city"
+                                                ],
+                                                "whitelistJurisdictions": [],
+                                                "imageType": "svg"
+                                            },
+                                            {
+                                                "key": "dedicated_equip_space",
+                                                "title": "Indoor Dedicated Equipment Space",
+                                                "descriptionHtml": "<div>Where electrical service equipment, switchboards, switchgear, and panelboards are installed indoors the code requires the volume of space from the floor below to 6' above the equipment or the bottom of the structural ceiling, whichever is lower, to be dedicated to the electrical equipment.  Foreign systems, such as the fire sprinkler are allowed above the dedicated space where the electrical equipment below is protected from condensation, leaks, or breaks that may occur within the foreign system.  Non-structural ceilings, such as dropped or suspended ceilings, are allowed to encroach into the dedicated electrical space volume above the equipment.</div>",
+                                                "topics": [
+                                                    "Electrical",
+                                                    "Interior"
+                                                ],
+                                                "phases": [
+                                                    "Construction Docs"
+                                                ],
+                                                "supressesChildrenAssociations": false,
+                                                "blacklistJurisdictions": [],
+                                                "whitelistJurisdictions": [],
+                                                "imageType": "svg"
+                                            },
+                                            {
+                                                "key": "receptacles_outdoor",
+                                                "title": "Receptacles: Outdoors",
+                                                "descriptionHtml": "",
+                                                "topics": [
+                                                    "Electrical",
+                                                    "Exterior",
+                                                    "Residential"
+                                                ],
+                                                "phases": [
+                                                    "Design Development",
+                                                    "Construction Docs",
+                                                    "Construction Phase"
+                                                ],
+                                                "supressesChildrenAssociations": false,
+                                                "blacklistJurisdictions": [
+                                                    "wichita-sedgwick"
+                                                ],
+                                                "whitelistJurisdictions": [],
+                                                "imageType": "png"
+                                            },
+                                            {
+                                                "key": "receptacles_dwelling",
+                                                "title": "Receptacles: Dwelling Units",
+                                                "descriptionHtml": "",
+                                                "topics": [
+                                                    "Electrical",
+                                                    "Residential"
+                                                ],
+                                                "phases": [
+                                                    "Design Development",
+                                                    "Construction Docs",
+                                                    "Construction Phase"
+                                                ],
+                                                "supressesChildrenAssociations": false,
+                                                "blacklistJurisdictions": [
+                                                    "oregon",
+                                                    "wichita-sedgwick",
+                                                    "vermont",
+                                                    "dupage-illinois"
+                                                ],
+                                                "whitelistJurisdictions": [],
+                                                "imageType": "svg"
+                                            },
+                                            {
+                                                "key": "overhead_service_conductor_above_roof",
+                                                "title": "Overhead Service Conductors: Above Roofs (< 1000V)",
+                                                "descriptionHtml": "<div>In general the service conductor must be 8' minimum above the surface of the roof.  The code provides 5 exceptions to this requirement: \n<ol><li>If the roof will have pedestrian or vehicular traffic additional clearance as noted in section 230.24 (B) will apply</li>\n<li>Where the roof slope is 4:12 or greater and the voltage does not exceed 300 the vertical clearance from the roof to the conductor may be reduced to 3 ft.</li>\n<li>Above roof overhangs where the voltage does not exceed 300 the vertical clearance from the roof to the conductor may be reduced to 18 inches for the first 6 ft. of cable within the first 4 ft. horizontally provided the conductor terminates at a through roof raceway or approved support.</li>\n<li>The service clearance requirement above the roof edge does not apply to services attached to the side of a building</li>\n<li>Where the voltage does not exceed 300 and the roof area is guarded to isolate the conductors, 3 ft of clearance to the roof is permitted.</li></ol></div>",
+                                                "topics": [
+                                                    "Electrical"
+                                                ],
+                                                "phases": [
+                                                    "Construction Docs",
+                                                    "Construction Phase"
+                                                ],
+                                                "supressesChildrenAssociations": false,
+                                                "blacklistJurisdictions": [],
+                                                "whitelistJurisdictions": [],
+                                                "imageType": "svg"
+                                            },
+                                            {
+                                                "key": "lighting_outlet_guestroom",
+                                                "title": "Lighting Outlets - Guest Rooms / Suites",
+                                                "descriptionHtml": "<div>The electrical code provides specific requirements, and exceptions, for guest rooms, which are generally Group R-1 occupancy, for transient individuals.</div>",
+                                                "topics": [
+                                                    "Electrical",
+                                                    "Interior"
+                                                ],
+                                                "phases": [
+                                                    "Construction Docs",
+                                                    "Design Development",
+                                                    "Construction Phase"
+                                                ],
+                                                "supressesChildrenAssociations": false,
+                                                "blacklistJurisdictions": [],
+                                                "whitelistJurisdictions": [],
+                                                "imageType": "svg"
+                                            },
+                                            {
+                                                "key": "corded_luminaires_bathtub",
+                                                "title": "Luminaires in Bathtub and Shower Areas",
+                                                "descriptionHtml": "",
+                                                "topics": [
+                                                    "Electrical",
+                                                    "Interior"
+                                                ],
+                                                "phases": [
+                                                    "Construction Docs",
+                                                    "Construction Phase"
+                                                ],
+                                                "supressesChildrenAssociations": false,
+                                                "blacklistJurisdictions": [
+                                                    "seattle",
+                                                    "dupage-illinois"
+                                                ],
+                                                "whitelistJurisdictions": [],
+                                                "imageType": "svg"
+                                            },
+                                            {
+                                                "key": "illum_electrical_workspace",
+                                                "title": "Illumination of Electrical Working Spaces",
+                                                "descriptionHtml": "",
+                                                "topics": [
+                                                    "Electrical",
+                                                    "Interior"
+                                                ],
+                                                "phases": [
+                                                    "Construction Docs",
+                                                    "Construction Phase"
+                                                ],
+                                                "supressesChildrenAssociations": false,
+                                                "blacklistJurisdictions": [],
+                                                "whitelistJurisdictions": [],
+                                                "imageType": "svg"
+                                            },
+                                            {
+                                                "key": "luminaires_clothes_closet",
+                                                "title": "Luminaires in Clothes Closets",
+                                                "descriptionHtml": "",
+                                                "topics": [
+                                                    "Electrical",
+                                                    "Interior",
+                                                    "Residential"
+                                                ],
+                                                "phases": [
+                                                    "Construction Docs",
+                                                    "Construction Phase"
+                                                ],
+                                                "supressesChildrenAssociations": false,
+                                                "blacklistJurisdictions": [],
+                                                "whitelistJurisdictions": [],
+                                                "imageType": "svg"
+                                            },
+                                            {
+                                                "key": "electrical_working_space",
+                                                "title": "Electrical Working Space Conditions",
+                                                "descriptionHtml": "<div>The minimum required depth of working space in front of electrical equipment must meet the minimum distances specified in Table 110.26(A)(1) based on voltage to ground and the opposing surface per condition, unless exceptions requirements are met. Condition 1 provides that exposed live parts do not have live or grounded parts opposing it, or exposed live parts on both sides of working space are guarded by insulating materials. Condition 2 provides that exposed live parts are opposite grounded parts. Lastly, condition 3 provides that exposed live parts are opposite each other on both sides of working space.</div>",
+                                                "topics": [
+                                                    "Electrical"
+                                                ],
+                                                "phases": [
+                                                    "Design Development",
+                                                    "Construction Docs",
+                                                    "Construction Phase"
+                                                ],
+                                                "supressesChildrenAssociations": false,
+                                                "blacklistJurisdictions": [
+                                                    "sioux-falls"
+                                                ],
+                                                "whitelistJurisdictions": [],
+                                                "imageType": "svg"
+                                            },
+                                            {
+                                                "key": "service_conductor_bldg_openings",
+                                                "title": "Service Conductors: Building Openings",
+                                                "descriptionHtml": "<div>Service conductors must maintain a 3' minimum clearance to an operable opening, porches, balconies, ladders, stairs, fire escapes or similar locations.  A vertical clearance per section 230.24(B) shall be maintained above platforms, projections or\nsurfaces that would otherwise permit contact with a conductor. Conductors may not obstruct  or pass below openings used for entry or through which materials may be moved.</div>",
+                                                "topics": [
+                                                    "Electrical"
+                                                ],
+                                                "phases": [
+                                                    "Construction Docs",
+                                                    "Construction Phase"
+                                                ],
+                                                "supressesChildrenAssociations": false,
+                                                "blacklistJurisdictions": [
+                                                    "seattle"
+                                                ],
+                                                "whitelistJurisdictions": [],
+                                                "imageType": "svg"
+                                            },
+                                            {
+                                                "key": "service_conductor_bldg_clrs",
+                                                "title": "Service Conductors: Clearances on Buildings",
+                                                "descriptionHtml": "<div>Service conductors must maintain a 3' minimum clearance to an operable opening, porches, balconies, ladders, stairs, fire escapes or similar locations.  A vertical clearance per section 230.24(B) shall be maintained above platforms, projections or\nsurfaces that would otherwise permit contact with a conductor. Conductors may not obstruct  or pass below openings used for entry or through which materials may be moved.</div>",
+                                                "topics": [
+                                                    "Electrical"
+                                                ],
+                                                "phases": [
+                                                    "Construction Docs",
+                                                    "Construction Phase"
+                                                ],
+                                                "supressesChildrenAssociations": false,
+                                                "blacklistJurisdictions": [
+                                                    "seattle"
+                                                ],
+                                                "whitelistJurisdictions": [],
+                                                "imageType": "svg"
+                                            },
+                                            {
+                                                "key": "extension_support_pads_clr",
+                                                "title": "Extension of Support Pads into Required Clearance",
+                                                "descriptionHtml": "<div>Electrical equipment support structures, such as concrete housekeeping pads, are allowed to encroach 6\" into the required working space.</div>",
+                                                "topics": [
+                                                    "Electrical"
+                                                ],
+                                                "phases": [
+                                                    "Construction Docs"
+                                                ],
+                                                "supressesChildrenAssociations": false,
+                                                "blacklistJurisdictions": [],
+                                                "whitelistJurisdictions": [],
+                                                "imageType": "svg"
+                                            },
+                                            {
+                                                "key": "bored_holes_nail_plates",
+                                                "title": "Bored Holes and Nail Plates (NFPA 70)",
+                                                "descriptionHtml": "<div>The electrical code requires that cabling and wires that pass through framing be adequately protect from nail and screw penetration.  Where the boring is less than 1-1/4\" from the edge of a framing member, the code requires a 1/16\" minimum thickness steel plate to protect the cabling or wires passing through the boring.  The plate may be omitted where the cabling is protected by rigid metal conduit, intermediate metal conduit, rigid nonmetallic conduit, or electrical metallic tubing.</div>",
+                                                "topics": [
+                                                    "Wall",
+                                                    "Wood",
+                                                    "Electrical"
+                                                ],
+                                                "phases": [
+                                                    "Construction Docs"
+                                                ],
+                                                "supressesChildrenAssociations": false,
+                                                "blacklistJurisdictions": [],
+                                                "whitelistJurisdictions": [],
+                                                "imageType": "svg"
+                                            }
+                                        ],
+                                        "displayRef": null,
+                                        "displayTitle": "2701.1 Scope",
+                                        "hasAssemblies": false,
+                                        "hasDiagrams": true,
+                                        "hasDiagramsOnRef": true,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 10,
+                                        "numDiagramsOnRef": 17,
+                                        "reference": "2701.1",
+                                        "slug": "electrical",
+                                        "titleText": "Scope",
+                                        "children": []
+                                    }
+                                ]
+                            },
+                            {
+                                "ancestorRefs": [
+                                    "27"
+                                ],
+                                "depth": 1,
+                                "diagrams": [
+                                    {
+                                        "key": "high_rise_emergency_systems",
+                                        "title": "High Rise: Emergency Systems",
+                                        "descriptionHtml": "<div>High-rise buildings have special requirements for emergency systems that must be in place. These systems include, full fire alarm system with additional smoke detection and emergency voice/alarm communications system, a standpipe system (permitted to be part of the sprinkler system), emergency responder radio coverage, a smoke removal system. All of these must be tied into the required fire command center. Standby and emergency power is required to run essential systems in case of emergency.</div>",
+                                        "topics": [
+                                            "Fire"
+                                        ],
+                                        "phases": [
+                                            "Design Development",
+                                            "Construction Docs"
+                                        ],
+                                        "supressesChildrenAssociations": false,
+                                        "blacklistJurisdictions": [],
+                                        "whitelistJurisdictions": [],
+                                        "imageType": "svg"
+                                    }
+                                ],
+                                "displayRef": null,
+                                "displayTitle": "Section 2702 Emergency and Standby Power Systems",
+                                "divisionType": "Section",
+                                "hasAssemblies": false,
+                                "hasDiagrams": true,
+                                "hasDiagramsOnRef": true,
+                                "isContiguous": true,
+                                "numAssembliesOnRef": 0,
+                                "numBuildingProductsOnRef": 0,
+                                "numDiagramsOnRef": 1,
+                                "reference": "2702",
+                                "slug": "electrical",
+                                "titleText": "Emergency and Standby Power Systems",
+                                "children": [
+                                    {
+                                        "ancestorRefs": [
+                                            "27",
+                                            "2702"
+                                        ],
+                                        "body": "<a class=\"autolink\" href=\"/viewer/district-of-columbia/ibc-2015/chapter/2/definitions#emergency_power_system_\">Emergency power systems</a> and <a class=\"autolink\" href=\"/viewer/district-of-columbia/ibc-2015/chapter/2/definitions#standby_power_system_\">standby power systems</a> shall comply with Sections <a class=\"autolink\" href=\"#2702.1.1\">2702.1.1</a> through <a class=\"autolink\" href=\"#2702.1.7\">2702.1.7</a>.",
+                                        "depth": 2,
+                                        "diagrams": [],
+                                        "displayRef": null,
+                                        "displayTitle": "[F]  2702.1 Installation",
+                                        "hasAssemblies": false,
+                                        "hasDiagrams": true,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 0,
+                                        "numDiagramsOnRef": 0,
+                                        "reference": "2702.1",
+                                        "refPrefix": "[F]",
+                                        "slug": "electrical",
+                                        "titleText": "Installation",
+                                        "children": [
+                                            {
+                                                "ancestorRefs": [
+                                                    "27",
+                                                    "2702",
+                                                    "2702.1"
+                                                ],
+                                                "body": "Stationary emergency and standby power generators required by this code shall be listed in accordance with UL 2200.",
+                                                "depth": 3,
+                                                "diagrams": [],
+                                                "displayRef": null,
+                                                "displayTitle": "[F]  2702.1.1 Stationary Generators",
+                                                "hasAssemblies": false,
+                                                "hasDiagrams": true,
+                                                "isContiguous": true,
+                                                "numAssembliesOnRef": 0,
+                                                "numBuildingProductsOnRef": 0,
+                                                "numDiagramsOnRef": 0,
+                                                "reference": "2702.1.1",
+                                                "refPrefix": "[F]",
+                                                "slug": "electrical",
+                                                "titleText": "Stationary Generators",
+                                                "children": []
+                                            },
+                                            {
+                                                "ancestorRefs": [
+                                                    "27",
+                                                    "2702",
+                                                    "2702.1"
+                                                ],
+                                                "body": "<a class=\"autolink\" href=\"/viewer/district-of-columbia/ibc-2015/chapter/2/definitions#emergency_power_system_\">Emergency power systems</a> and <a class=\"autolink\" href=\"/viewer/district-of-columbia/ibc-2015/chapter/2/definitions#standby_power_system_\">standby power systems</a> required by this code or the <i><a class=\"autolink\" href=\"/viewer/district-of-columbia/ifc-2015\">International Fire Code</a> </i>shall be installed in accordance with the<i> International Fire Code</i>, NFPA 70, <a class=\"autolink\" href=\"/viewer/district-of-columbia/ifc-2015\">NFPA 110</a> and NFPA 111.",
+                                                "depth": 3,
+                                                "diagrams": [],
+                                                "displayRef": null,
+                                                "displayTitle": "[F]  2702.1.2 Electrical",
+                                                "hasAssemblies": false,
+                                                "hasDiagrams": true,
+                                                "isContiguous": true,
+                                                "numAssembliesOnRef": 0,
+                                                "numBuildingProductsOnRef": 0,
+                                                "numDiagramsOnRef": 0,
+                                                "reference": "2702.1.2",
+                                                "refPrefix": "[F]",
+                                                "slug": "electrical",
+                                                "titleText": "Electrical",
+                                                "children": []
+                                            },
+                                            {
+                                                "ancestorRefs": [
+                                                    "27",
+                                                    "2702",
+                                                    "2702.1"
+                                                ],
+                                                "body": "<a class=\"autolink\" href=\"/viewer/district-of-columbia/ibc-2015/chapter/2/definitions#emergency_power_system_\">Emergency power systems</a> shall automatically provide secondary power within 10 seconds after primary power is lost, unless specified otherwise in this code. <a class=\"autolink\" href=\"/viewer/district-of-columbia/ibc-2015/chapter/2/definitions#standby_power_system_\">Standby power systems</a> shall automatically provide secondary power within 60 seconds after primary power is lost, unless specified otherwise in this code.",
+                                                "depth": 3,
+                                                "diagrams": [],
+                                                "displayRef": null,
+                                                "displayTitle": "[F]  2702.1.3 Load Transfer",
+                                                "hasAssemblies": false,
+                                                "hasDiagrams": true,
+                                                "isContiguous": true,
+                                                "numAssembliesOnRef": 0,
+                                                "numBuildingProductsOnRef": 0,
+                                                "numDiagramsOnRef": 0,
+                                                "reference": "2702.1.3",
+                                                "refPrefix": "[F]",
+                                                "slug": "electrical",
+                                                "titleText": "Load Transfer",
+                                                "children": []
+                                            },
+                                            {
+                                                "ancestorRefs": [
+                                                    "27",
+                                                    "2702",
+                                                    "2702.1"
+                                                ],
+                                                "body": "<a class=\"autolink\" href=\"/viewer/district-of-columbia/ibc-2015/chapter/2/definitions#emergency_power_system_\">Emergency power systems</a> and <a class=\"autolink\" href=\"/viewer/district-of-columbia/ibc-2015/chapter/2/definitions#standby_power_system_\">standby power systems</a> shall be designed to provide the required power for a minimum duration of 2 hours without being refueled or recharged, unless specified otherwise in this code.",
+                                                "depth": 3,
+                                                "diagrams": [],
+                                                "displayRef": null,
+                                                "displayTitle": "[F]  2702.1.4 Load Duration",
+                                                "hasAssemblies": false,
+                                                "hasDiagrams": true,
+                                                "isContiguous": true,
+                                                "numAssembliesOnRef": 0,
+                                                "numBuildingProductsOnRef": 0,
+                                                "numDiagramsOnRef": 0,
+                                                "reference": "2702.1.4",
+                                                "refPrefix": "[F]",
+                                                "slug": "electrical",
+                                                "titleText": "Load Duration",
+                                                "children": []
+                                            },
+                                            {
+                                                "ancestorRefs": [
+                                                    "27",
+                                                    "2702",
+                                                    "2702.1"
+                                                ],
+                                                "body": "An uninterrupted source of power shall be provided for equipment when required by the manufacturer's instructions, the listing, this code or applicable referenced standards.",
+                                                "depth": 3,
+                                                "diagrams": [],
+                                                "displayRef": null,
+                                                "displayTitle": "[F]  2702.1.5 Uninterruptable Power Source",
+                                                "hasAssemblies": false,
+                                                "hasDiagrams": true,
+                                                "isContiguous": true,
+                                                "numAssembliesOnRef": 0,
+                                                "numBuildingProductsOnRef": 0,
+                                                "numDiagramsOnRef": 0,
+                                                "reference": "2702.1.5",
+                                                "refPrefix": "[F]",
+                                                "slug": "electrical",
+                                                "titleText": "Uninterruptable Power Source",
+                                                "children": []
+                                            },
+                                            {
+                                                "ancestorRefs": [
+                                                    "27",
+                                                    "2702",
+                                                    "2702.1"
+                                                ],
+                                                "body": "<a class=\"autolink\" href=\"/viewer/district-of-columbia/ibc-2015/chapter/2/definitions#emergency_power_system_\">Emergency power systems</a> shall be an acceptable alternative for installations that require <a class=\"autolink\" href=\"/viewer/district-of-columbia/ibc-2015/chapter/2/definitions#standby_power_system_\">standby power systems</a>.",
+                                                "depth": 3,
+                                                "diagrams": [],
+                                                "displayRef": null,
+                                                "displayTitle": "[F]  2702.1.6 Interchangeability",
+                                                "hasAssemblies": false,
+                                                "hasDiagrams": true,
+                                                "isContiguous": true,
+                                                "numAssembliesOnRef": 0,
+                                                "numBuildingProductsOnRef": 0,
+                                                "numDiagramsOnRef": 0,
+                                                "reference": "2702.1.6",
+                                                "refPrefix": "[F]",
+                                                "slug": "electrical",
+                                                "titleText": "Interchangeability",
+                                                "children": []
+                                            },
+                                            {
+                                                "amendType": "edit",
+                                                "ancestorRefs": [
+                                                    "27",
+                                                    "2702",
+                                                    "2702.1"
+                                                ],
+                                                "body": "In Group <a class=\"autolink\" href=\"/viewer/district-of-columbia/ibc-2015/chapter/3/use-and-occupancy-classification#308.4\">I-2</a> occupancies <span class=\"code_addition\">located in <a class=\"autolink\" href=\"/viewer/district-of-columbia/ibc-2015/chapter/2/definitions#flood_hazard_area_\">flood hazard areas</a> established in <a class=\"autolink\" href=\"/viewer/district-of-columbia/ibc-2015/chapter/16/structural-design#1612.3\">Section 1612.3</a></span>, where <span class=\"code_addition\">new</span> essential electrical system<span class=\"code_addition\">s</span> <span class=\"code_addition\">are</span> installed<span class=\"code_addition\">, and where new essential electrical system generators are installed, the systems and generators shall be located and installed in accordance with ASCE 24. Where connections for hookup of temporary generators are provided, the connections shall be located at or above the elevation required</span> in ASCE 24.",
+                                                "depth": 3,
+                                                "diagrams": [],
+                                                "displayRef": null,
+                                                "displayTitle": "[F]  2702.1.7 Group I-2 Occupancies",
+                                                "hasAssemblies": false,
+                                                "hasDiagrams": true,
+                                                "isContiguous": true,
+                                                "numAssembliesOnRef": 0,
+                                                "numBuildingProductsOnRef": 0,
+                                                "numDiagramsOnRef": 0,
+                                                "reference": "2702.1.7",
+                                                "refPrefix": "[F]",
+                                                "slug": "electrical",
+                                                "titleText": "Group I-2 Occupancies",
+                                                "children": []
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "ancestorRefs": [
+                                            "27",
+                                            "2702"
+                                        ],
+                                        "body": "Emergency and <a class=\"autolink\" href=\"/viewer/district-of-columbia/ibc-2015/chapter/2/definitions#standby_power_system_\">standby power systems</a> shall be provided where required by Sections <a class=\"autolink\" href=\"#2702.2.1\">2702.2.1</a> through <a class=\"autolink\" href=\"#2702.2.16\">2702.2.16</a>.",
+                                        "depth": 2,
+                                        "diagrams": [],
+                                        "displayRef": null,
+                                        "displayTitle": "[F]  2702.2 Where Required",
+                                        "hasAssemblies": false,
+                                        "hasDiagrams": true,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 0,
+                                        "numDiagramsOnRef": 0,
+                                        "reference": "2702.2",
+                                        "refPrefix": "[F]",
+                                        "slug": "electrical",
+                                        "titleText": "Where Required",
+                                        "children": [
+                                            {
+                                                "ancestorRefs": [
+                                                    "27",
+                                                    "2702",
+                                                    "2702.2"
+                                                ],
+                                                "body": "Emergency power shall be provided for <a class=\"autolink\" href=\"/viewer/district-of-columbia/ibc-2015/chapter/9/fire-protection-systems#emergency_alarm_system\">emergency alarm systems</a> as required by <a class=\"autolink\" href=\"/viewer/district-of-columbia/ibc-2015/chapter/4/special-detailed-requirements-based-on-use-and-occupancy#415.5\">Section 415.5</a>.",
+                                                "depth": 3,
+                                                "diagrams": [],
+                                                "displayRef": null,
+                                                "displayTitle": "[F]  2702.2.1 Emergency Alarm Systems",
+                                                "hasAssemblies": false,
+                                                "hasDiagrams": true,
+                                                "isContiguous": true,
+                                                "numAssembliesOnRef": 0,
+                                                "numBuildingProductsOnRef": 0,
+                                                "numDiagramsOnRef": 0,
+                                                "reference": "2702.2.1",
+                                                "refPrefix": "[F]",
+                                                "slug": "electrical",
+                                                "titleText": "Emergency Alarm Systems",
+                                                "children": []
+                                            },
+                                            {
+                                                "ancestorRefs": [
+                                                    "27",
+                                                    "2702",
+                                                    "2702.2"
+                                                ],
+                                                "body": "Standby power shall be provided for elevators and <a class=\"autolink\" href=\"/viewer/district-of-columbia/ibc-2015/chapter/2/definitions#platform_\">platform</a> lifts as required in Sections <a class=\"autolink\" href=\"/viewer/district-of-columbia/ibc-2015/chapter/10/means-of-egress#1009.4\">1009.4</a>, <a class=\"autolink\" href=\"/viewer/district-of-columbia/ibc-2015/chapter/10/means-of-egress#1009.5\">1009.5</a>, <a class=\"autolink\" href=\"/viewer/district-of-columbia/ibc-2015/chapter/30/elevators-and-conveying-systems#3003.1\">3003.1</a>, <a class=\"autolink\" href=\"/viewer/district-of-columbia/ibc-2015/chapter/30/elevators-and-conveying-systems#3007.8\">3007.8</a> and <a class=\"autolink\" href=\"/viewer/district-of-columbia/ibc-2015/chapter/30/elevators-and-conveying-systems#3008.8\">3008.8</a>.",
+                                                "depth": 3,
+                                                "diagrams": [
+                                                    {
+                                                        "key": "platform_lift_types",
+                                                        "title": "Platform Lift Types",
+                                                        "descriptionHtml": "<div>Platform lifts may be used as part of an accessible means of egress under certain conditions.  Inclined platform lifts may be used within dwelling units, but the stairways in which they exist must meet the requirements of Section 1011.2, Exception 3.  Platform and stairway (inclined) chairlifts must meet the requirements of ASME A18.1.</div>",
+                                                        "topics": [
+                                                            "Access",
+                                                            "Egress"
+                                                        ],
+                                                        "phases": [
+                                                            "Schematic",
+                                                            "Design Development",
+                                                            "Construction Docs"
+                                                        ],
+                                                        "supressesChildrenAssociations": false,
+                                                        "blacklistJurisdictions": [],
+                                                        "whitelistJurisdictions": [],
+                                                        "imageType": "svg"
+                                                    }
+                                                ],
+                                                "displayRef": null,
+                                                "displayTitle": "[F]  2702.2.2 Elevators and Platform Lifts",
+                                                "hasAssemblies": false,
+                                                "hasDiagrams": true,
+                                                "hasDiagramsOnRef": true,
+                                                "isContiguous": true,
+                                                "numAssembliesOnRef": 0,
+                                                "numBuildingProductsOnRef": 0,
+                                                "numDiagramsOnRef": 1,
+                                                "reference": "2702.2.2",
+                                                "refPrefix": "[F]",
+                                                "slug": "electrical",
+                                                "titleText": "Elevators and Platform Lifts",
+                                                "children": []
+                                            },
+                                            {
+                                                "ancestorRefs": [
+                                                    "27",
+                                                    "2702",
+                                                    "2702.2"
+                                                ],
+                                                "body": "Standby power shall be provided for emergency responder radio coverage systems required in <a class=\"autolink\" href=\"/viewer/district-of-columbia/ibc-2015/chapter/9/fire-protection-systems#916\">Section 916</a> and the <i><a class=\"autolink\" href=\"/viewer/district-of-columbia/ifc-2015\">International Fire Code</a></i>. The standby power supply shall be capable of operating the emergency responder radio coverage system for a duration of not less than 24 hours.",
+                                                "depth": 3,
+                                                "diagrams": [],
+                                                "displayRef": null,
+                                                "displayTitle": "[F]  2702.2.3 Emergency Responder Radio Coverage Systems",
+                                                "hasAssemblies": false,
+                                                "hasDiagrams": true,
+                                                "isContiguous": true,
+                                                "numAssembliesOnRef": 0,
+                                                "numBuildingProductsOnRef": 0,
+                                                "numDiagramsOnRef": 0,
+                                                "reference": "2702.2.3",
+                                                "refPrefix": "[F]",
+                                                "slug": "electrical",
+                                                "titleText": "Emergency Responder Radio Coverage Systems",
+                                                "children": []
+                                            },
+                                            {
+                                                "ancestorRefs": [
+                                                    "27",
+                                                    "2702",
+                                                    "2702.2"
+                                                ],
+                                                "body": "Emergency power shall be provided for emergency voice/alarm communication systems as required in <a class=\"autolink\" href=\"/viewer/district-of-columbia/ibc-2015/chapter/9/fire-protection-systems#907.5.2.2.5\">Section 907.5.2.2.5</a>. The system shall be capable of powering the required load for a duration of not less than 24 hours, as required in NFPA 72.",
+                                                "depth": 3,
+                                                "diagrams": [],
+                                                "displayRef": null,
+                                                "displayTitle": "[F]  2702.2.4 Emergency Voice/Alarm Communication Systems",
+                                                "hasAssemblies": false,
+                                                "hasDiagrams": true,
+                                                "isContiguous": true,
+                                                "numAssembliesOnRef": 0,
+                                                "numBuildingProductsOnRef": 0,
+                                                "numDiagramsOnRef": 0,
+                                                "reference": "2702.2.4",
+                                                "refPrefix": "[F]",
+                                                "slug": "electrical",
+                                                "titleText": "Emergency Voice/Alarm Communication Systems",
+                                                "children": []
+                                            },
+                                            {
+                                                "ancestorRefs": [
+                                                    "27",
+                                                    "2702",
+                                                    "2702.2"
+                                                ],
+                                                "body": "Emergency power shall be provided for <a class=\"autolink\" href=\"/viewer/district-of-columbia/ibc-2015/chapter/10/means-of-egress#exit_horizontal\">exit</a> signs as required in <a class=\"autolink\" href=\"/viewer/district-of-columbia/ibc-2015/chapter/10/means-of-egress#1013.6.3\">Section 1013.6.3</a>. The system shall be capable of powering the required load for a duration of not less than 90 minutes.",
+                                                "depth": 3,
+                                                "diagrams": [
+                                                    {
+                                                        "key": "exit_signs_r1_occ",
+                                                        "title": "Exit Signs in R-1 Occupancies",
+                                                        "descriptionHtml": "<div>In larger R-1 occupancies, both high and low exit signs are required.  In a condition where a corridor has smoke, the smoke rises to the ceiling and can be so dark and thick that exit signs are obscured, and it could be hazardous to evacuate in a standing position.  So that people can see exit signs obscured by smoke, the lower ones are provided.</div>",
+                                                        "topics": [
+                                                            "Egress",
+                                                            "Fire",
+                                                            "Residential"
+                                                        ],
+                                                        "phases": [
+                                                            "Construction Docs",
+                                                            "Construction Phase"
+                                                        ],
+                                                        "supressesChildrenAssociations": false,
+                                                        "blacklistJurisdictions": [],
+                                                        "whitelistJurisdictions": [],
+                                                        "imageType": "svg"
+                                                    },
+                                                    {
+                                                        "key": "exit_signs_required_locations",
+                                                        "title": "Exit Signs: Where Required",
+                                                        "descriptionHtml": "<div>Exit signs are required to be posted at exit doors and in the direction of egress. These signs must be visible from any direction. These can be either internally, or externally, illuminated, and must be lighted and visible at all times. The \"EXIT\" lettering must be within the minimum dimensions of this code and is to be in a contrasting color from the background (typically this is red or green lettering on a white background).</div>",
+                                                        "topics": [
+                                                            "Egress",
+                                                            "Fire"
+                                                        ],
+                                                        "phases": [
+                                                            "Construction Docs",
+                                                            "Construction Phase"
+                                                        ],
+                                                        "supressesChildrenAssociations": false,
+                                                        "blacklistJurisdictions": [],
+                                                        "whitelistJurisdictions": [],
+                                                        "imageType": "svg"
+                                                    },
+                                                    {
+                                                        "key": "exit_signs",
+                                                        "title": "Exit Signs: Size Requirements",
+                                                        "descriptionHtml": "<div>Exit signs are required to be posted at exit doors and in the direction of egress. These signs must be visible from any direction. These can be either internally, or externally, illuminated, and must be lighted and visible at all times. The \"EXIT\" lettering must be within the minimum dimensions of this code and is to be in a contrasting color from the background (typically this is red or green lettering on a white background). </div>",
+                                                        "topics": [
+                                                            "Egress",
+                                                            "Fire"
+                                                        ],
+                                                        "phases": [
+                                                            "Construction Docs",
+                                                            "Construction Phase"
+                                                        ],
+                                                        "supressesChildrenAssociations": false,
+                                                        "blacklistJurisdictions": [],
+                                                        "whitelistJurisdictions": [],
+                                                        "imageType": "svg"
+                                                    }
+                                                ],
+                                                "displayRef": null,
+                                                "displayTitle": "[F]  2702.2.5 Exit Signs",
+                                                "hasAssemblies": false,
+                                                "hasDiagrams": true,
+                                                "hasDiagramsOnRef": true,
+                                                "isContiguous": true,
+                                                "numAssembliesOnRef": 0,
+                                                "numBuildingProductsOnRef": 0,
+                                                "numDiagramsOnRef": 3,
+                                                "reference": "2702.2.5",
+                                                "refPrefix": "[F]",
+                                                "slug": "electrical",
+                                                "titleText": "Exit Signs",
+                                                "children": []
+                                            },
+                                            {
+                                                "ancestorRefs": [
+                                                    "27",
+                                                    "2702",
+                                                    "2702.2"
+                                                ],
+                                                "body": "Essential electrical systems for Group <a class=\"autolink\" href=\"/viewer/district-of-columbia/ibc-2015/chapter/3/use-and-occupancy-classification#308.4\">I-2</a> occupancies shall be in accordance with <a class=\"autolink\" href=\"/viewer/district-of-columbia/ibc-2015/chapter/4/special-detailed-requirements-based-on-use-and-occupancy#407.10\">Section 407.10</a>.",
+                                                "depth": 3,
+                                                "diagrams": [],
+                                                "displayRef": null,
+                                                "displayTitle": "[F]  2702.2.6 Group I-2 Occupancies",
+                                                "hasAssemblies": false,
+                                                "hasDiagrams": true,
+                                                "isContiguous": true,
+                                                "numAssembliesOnRef": 0,
+                                                "numBuildingProductsOnRef": 0,
+                                                "numDiagramsOnRef": 0,
+                                                "reference": "2702.2.6",
+                                                "refPrefix": "[F]",
+                                                "slug": "electrical",
+                                                "titleText": "Group I-2 Occupancies",
+                                                "children": []
+                                            },
+                                            {
+                                                "ancestorRefs": [
+                                                    "27",
+                                                    "2702",
+                                                    "2702.2"
+                                                ],
+                                                "body": "Emergency power shall be provided for <a class=\"autolink\" href=\"/viewer/district-of-columbia/ibc-2015/chapter/2/definitions#power_operated_door_\">power-operated doors</a> and locks in Group <a class=\"autolink\" href=\"/viewer/district-of-columbia/ibc-2015/chapter/3/use-and-occupancy-classification#308.5\">I-3</a> occupancies as required in <a class=\"autolink\" href=\"/viewer/district-of-columbia/ibc-2015/chapter/4/special-detailed-requirements-based-on-use-and-occupancy#408.4.2\">Section 408.4.2</a>.",
+                                                "depth": 3,
+                                                "diagrams": [],
+                                                "displayRef": null,
+                                                "displayTitle": "[F]  2702.2.7 Group I-3 Occupancies",
+                                                "hasAssemblies": false,
+                                                "hasDiagrams": true,
+                                                "isContiguous": true,
+                                                "numAssembliesOnRef": 0,
+                                                "numBuildingProductsOnRef": 0,
+                                                "numDiagramsOnRef": 0,
+                                                "reference": "2702.2.7",
+                                                "refPrefix": "[F]",
+                                                "slug": "electrical",
+                                                "titleText": "Group I-3 Occupancies",
+                                                "children": []
+                                            },
+                                            {
+                                                "ancestorRefs": [
+                                                    "27",
+                                                    "2702",
+                                                    "2702.2"
+                                                ],
+                                                "body": "Emergency or standby power shall be provided in occupancies with <a class=\"autolink\" href=\"/viewer/district-of-columbia/ibc-2015/chapter/2/definitions#hazardous_materials_\">hazardous materials</a> where required by the <i><a class=\"autolink\" href=\"/viewer/district-of-columbia/ifc-2015\">International Fire Code</a></i>.",
+                                                "depth": 3,
+                                                "diagrams": [],
+                                                "displayRef": null,
+                                                "displayTitle": "[F]  2702.2.8 Hazardous Materials",
+                                                "hasAssemblies": false,
+                                                "hasDiagrams": true,
+                                                "isContiguous": true,
+                                                "numAssembliesOnRef": 0,
+                                                "numBuildingProductsOnRef": 0,
+                                                "numDiagramsOnRef": 0,
+                                                "reference": "2702.2.8",
+                                                "refPrefix": "[F]",
+                                                "slug": "electrical",
+                                                "titleText": "Hazardous Materials",
+                                                "children": []
+                                            },
+                                            {
+                                                "ancestorRefs": [
+                                                    "27",
+                                                    "2702",
+                                                    "2702.2"
+                                                ],
+                                                "body": "Emergency and standby power shall be provided in <a class=\"autolink\" href=\"/viewer/district-of-columbia/ibc-2015/chapter/2/definitions#high_rise_building_\">high-rise buildings</a> as required in Sections <a class=\"autolink\" href=\"/viewer/district-of-columbia/ibc-2015/chapter/4/special-detailed-requirements-based-on-use-and-occupancy#403.4.8\">403.4.8</a>.",
+                                                "depth": 3,
+                                                "diagrams": [],
+                                                "displayRef": null,
+                                                "displayTitle": "[F]  2702.2.9 High-Rise Buildings",
+                                                "hasAssemblies": false,
+                                                "hasDiagrams": true,
+                                                "isContiguous": true,
+                                                "numAssembliesOnRef": 0,
+                                                "numBuildingProductsOnRef": 0,
+                                                "numDiagramsOnRef": 0,
+                                                "reference": "2702.2.9",
+                                                "refPrefix": "[F]",
+                                                "slug": "electrical",
+                                                "titleText": "High-Rise Buildings",
+                                                "children": []
+                                            },
+                                            {
+                                                "ancestorRefs": [
+                                                    "27",
+                                                    "2702",
+                                                    "2702.2"
+                                                ],
+                                                "body": "Standby power shall be provided for horizontal sliding doors as required in <a class=\"autolink\" href=\"/viewer/district-of-columbia/ibc-2015/chapter/10/means-of-egress#1010.1.4.3\">Section 1010.1.4.3</a>. The standby power supply shall have a capacity to operate not fewer than 50 closing cycles of the door.",
+                                                "depth": 3,
+                                                "diagrams": [],
+                                                "displayRef": null,
+                                                "displayTitle": "[F]  2702.2.10 Horizontal Sliding Doors",
+                                                "hasAssemblies": false,
+                                                "hasDiagrams": true,
+                                                "isContiguous": true,
+                                                "numAssembliesOnRef": 0,
+                                                "numBuildingProductsOnRef": 0,
+                                                "numDiagramsOnRef": 0,
+                                                "reference": "2702.2.10",
+                                                "refPrefix": "[F]",
+                                                "slug": "electrical",
+                                                "titleText": "Horizontal Sliding Doors",
+                                                "children": []
+                                            },
+                                            {
+                                                "ancestorRefs": [
+                                                    "27",
+                                                    "2702",
+                                                    "2702.2"
+                                                ],
+                                                "body": "Emergency power shall be provided for <a class=\"autolink\" href=\"/viewer/district-of-columbia/ibc-2015/chapter/10/means-of-egress#means_of_egress\">means of egress</a> illumination as required in <a class=\"autolink\" href=\"/viewer/district-of-columbia/ibc-2015/chapter/10/means-of-egress#1008.3\">Section 1008.3</a>. The system shall be capable of powering the required load for a duration of not less than 90 minutes.",
+                                                "depth": 3,
+                                                "diagrams": [],
+                                                "displayRef": null,
+                                                "displayTitle": "[F]  2702.2.11 Means of Egress Illumination",
+                                                "hasAssemblies": false,
+                                                "hasDiagrams": true,
+                                                "isContiguous": true,
+                                                "numAssembliesOnRef": 0,
+                                                "numBuildingProductsOnRef": 0,
+                                                "numDiagramsOnRef": 0,
+                                                "reference": "2702.2.11",
+                                                "refPrefix": "[F]",
+                                                "slug": "electrical",
+                                                "titleText": "Means of Egress Illumination",
+                                                "children": []
+                                            },
+                                            {
+                                                "ancestorRefs": [
+                                                    "27",
+                                                    "2702",
+                                                    "2702.2"
+                                                ],
+                                                "body": "Standby power shall be provided for auxiliary inflation systems in permanent membrane structures as required in <a class=\"autolink\" href=\"/viewer/district-of-columbia/ibc-2015/chapter/31/special-construction#3102.8.2\">Section 3102.8.2</a>. Standby power shall be provided for a duration of not less than 4 hours. Auxiliary inflation systems in temporary air-supported and air-inflated membrane structures shall be provided in accordance with <a class=\"autolink\" href=\"/viewer/district-of-columbia/ifc-2015/chapter/31/tents-and-other-membrane-structures#3103.10.4\">Section 3103.10.4</a> of the <i><a class=\"autolink\" href=\"/viewer/district-of-columbia/ifc-2015\">International Fire Code</a>.</i>",
+                                                "depth": 3,
+                                                "diagrams": [],
+                                                "displayRef": null,
+                                                "displayTitle": "[F]  2702.2.12 Membrane Structures",
+                                                "hasAssemblies": false,
+                                                "hasDiagrams": true,
+                                                "isContiguous": true,
+                                                "numAssembliesOnRef": 0,
+                                                "numBuildingProductsOnRef": 0,
+                                                "numDiagramsOnRef": 0,
+                                                "reference": "2702.2.12",
+                                                "refPrefix": "[F]",
+                                                "slug": "electrical",
+                                                "titleText": "Membrane Structures",
+                                                "children": []
+                                            },
+                                            {
+                                                "ancestorRefs": [
+                                                    "27",
+                                                    "2702",
+                                                    "2702.2"
+                                                ],
+                                                "body": "Emergency power shall be provided for occupancies with silane gas in accordance with the <i><a class=\"autolink\" href=\"/viewer/district-of-columbia/ifc-2015\">International Fire Code</a>.<br/></i>",
+                                                "depth": 3,
+                                                "diagrams": [],
+                                                "displayRef": null,
+                                                "displayTitle": "[F]  2702.2.13 Pyrophoric Materials",
+                                                "hasAssemblies": false,
+                                                "hasDiagrams": true,
+                                                "isContiguous": true,
+                                                "numAssembliesOnRef": 0,
+                                                "numBuildingProductsOnRef": 0,
+                                                "numDiagramsOnRef": 0,
+                                                "reference": "2702.2.13",
+                                                "refPrefix": "[F]",
+                                                "slug": "electrical",
+                                                "titleText": "Pyrophoric Materials",
+                                                "children": []
+                                            },
+                                            {
+                                                "ancestorRefs": [
+                                                    "27",
+                                                    "2702",
+                                                    "2702.2"
+                                                ],
+                                                "body": "Emergency power shall be provided for semiconductor fabrication <a class=\"autolink\" href=\"/viewer/district-of-columbia/ibc-2015/chapter/11/accessibility#facility\">facilities</a> as required in <a class=\"autolink\" href=\"/viewer/district-of-columbia/ibc-2015/chapter/4/special-detailed-requirements-based-on-use-and-occupancy#415.11.10\">Section 415.11.10</a>.",
+                                                "depth": 3,
+                                                "diagrams": [],
+                                                "displayRef": null,
+                                                "displayTitle": "[F]  2702.2.14 Semiconductor Fabrication Facilities",
+                                                "hasAssemblies": false,
+                                                "hasDiagrams": true,
+                                                "isContiguous": true,
+                                                "numAssembliesOnRef": 0,
+                                                "numBuildingProductsOnRef": 0,
+                                                "numDiagramsOnRef": 0,
+                                                "reference": "2702.2.14",
+                                                "refPrefix": "[F]",
+                                                "slug": "electrical",
+                                                "titleText": "Semiconductor Fabrication Facilities",
+                                                "children": []
+                                            },
+                                            {
+                                                "ancestorRefs": [
+                                                    "27",
+                                                    "2702",
+                                                    "2702.2"
+                                                ],
+                                                "body": "Standby power shall be provided for smoke control systems as required in Sections <a class=\"autolink\" href=\"/viewer/district-of-columbia/ibc-2015/chapter/4/special-detailed-requirements-based-on-use-and-occupancy#404.7\">404.7</a>, <a class=\"autolink\" href=\"/viewer/district-of-columbia/ibc-2015/chapter/9/fire-protection-systems#909.11\">909.11</a>, <a class=\"autolink\" href=\"/viewer/district-of-columbia/ibc-2015/chapter/9/fire-protection-systems#909.20.6.2\">909.20.6.2</a> and <a class=\"autolink\" href=\"/viewer/district-of-columbia/ibc-2015/chapter/9/fire-protection-systems#909.21.5\">909.21.5</a>.",
+                                                "depth": 3,
+                                                "diagrams": [],
+                                                "displayRef": null,
+                                                "displayTitle": "[F]  2702.2.15 Smoke Control Systems",
+                                                "hasAssemblies": false,
+                                                "hasDiagrams": true,
+                                                "isContiguous": true,
+                                                "numAssembliesOnRef": 0,
+                                                "numBuildingProductsOnRef": 0,
+                                                "numDiagramsOnRef": 0,
+                                                "reference": "2702.2.15",
+                                                "refPrefix": "[F]",
+                                                "slug": "electrical",
+                                                "titleText": "Smoke Control Systems",
+                                                "children": []
+                                            },
+                                            {
+                                                "ancestorRefs": [
+                                                    "27",
+                                                    "2702",
+                                                    "2702.2"
+                                                ],
+                                                "body": "Emergency and standby power shall be provided in underground buildings as required in <a class=\"autolink\" href=\"/viewer/district-of-columbia/ibc-2015/chapter/4/special-detailed-requirements-based-on-use-and-occupancy#405\">Section 405</a>.",
+                                                "depth": 3,
+                                                "diagrams": [],
+                                                "displayRef": null,
+                                                "displayTitle": "[F]  2702.2.16 Underground Buildings",
+                                                "hasAssemblies": false,
+                                                "hasDiagrams": true,
+                                                "isContiguous": true,
+                                                "numAssembliesOnRef": 0,
+                                                "numBuildingProductsOnRef": 0,
+                                                "numDiagramsOnRef": 0,
+                                                "reference": "2702.2.16",
+                                                "refPrefix": "[F]",
+                                                "slug": "electrical",
+                                                "titleText": "Underground Buildings",
+                                                "children": []
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "ancestorRefs": [
+                                            "27",
+                                            "2702"
+                                        ],
+                                        "body": "Cables used for survivability of required <a class=\"autolink\" href=\"/viewer/district-of-columbia/ibc-2015/chapter/2/definitions#critical_circuit_\">critical circuits</a> shall be listed in accordance with UL 2196. <a class=\"autolink\" href=\"/viewer/district-of-columbia/ibc-2015/chapter/9/fire-protection-systems#electrical_circuit_protective_system\">Electrical circuit protective systems</a> shall be installed in accordance with their listing requirements.",
+                                        "depth": 2,
+                                        "diagrams": [],
+                                        "displayRef": null,
+                                        "displayTitle": "[F]  2702.3 Critical Circuits",
+                                        "hasAssemblies": false,
+                                        "hasDiagrams": true,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 0,
+                                        "numDiagramsOnRef": 0,
+                                        "reference": "2702.3",
+                                        "refPrefix": "[F]",
+                                        "slug": "electrical",
+                                        "titleText": "Critical Circuits",
+                                        "children": []
+                                    },
+                                    {
+                                        "ancestorRefs": [
+                                            "27",
+                                            "2702"
+                                        ],
+                                        "body": "Emergency and <a class=\"autolink\" href=\"/viewer/district-of-columbia/ibc-2015/chapter/2/definitions#standby_power_system_\">standby power systems</a> shall be maintained and tested in accordance with the <i><a class=\"autolink\" href=\"/viewer/district-of-columbia/ifc-2015\">International Fire Code</a></i>.",
+                                        "depth": 2,
+                                        "diagrams": [],
+                                        "displayRef": null,
+                                        "displayTitle": "[F]  2702.4 Maintenance",
+                                        "hasAssemblies": false,
+                                        "hasDiagrams": true,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 0,
+                                        "numDiagramsOnRef": 0,
+                                        "reference": "2702.4",
+                                        "refPrefix": "[F]",
+                                        "slug": "electrical",
+                                        "titleText": "Maintenance",
+                                        "children": []
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            "chapterReference": "27"
+        },
+        "__N_SSP": true
+    },
+    "page": "/viewer/[urlFormPubOrJurisKey]/[urlFormPub]/chapter/[chapterRef]/[chapterName]",
+    "query": {
+        "urlFormPubOrJurisKey": "district-of-columbia",
+        "urlFormPub": "ibc-2015",
+        "chapterRef": "27",
+        "chapterName": "electrical"
+    },
+    "buildId": "1fSFT4-IdVJWcsxmeyZE8",
+    "isFallback": false,
+    "isExperimentalCompile": false,
+    "dynamicIds": [
+        61621,
+        54065
+    ],
+    "gssp": true,
+    "scriptLoader": []
+}

@@ -1,0 +1,836 @@
+{
+    "props": {
+        "pageProps": {
+            "missingRequiredLogin": false,
+            "title": "Chapter 12 Historic Buildings: 2023 FBC - Existing Building, 8<sup>th</sup> edition | UpCodes",
+            "leanChapterViewerData": {
+                "basePubName": "International Existing Building Code 2021 (IEBC 2021)",
+                "codeGroupingYear": "2023",
+                "codeName": "2023 FBC - Existing Building, 8<sup>th</sup> edition",
+                "codeUuid": "1e3c0ef0-fce3-4a1f-b3ee-6dc13d74cc1b",
+                "codeVersions": [
+                    {
+                        "codeUuid": "1e3c0ef0-fce3-4a1f-b3ee-6dc13d74cc1b",
+                        "name": "Original Adoption",
+                        "effectiveStartDate": "2023-12-31",
+                        "shortformUrlName": "fl-existing-building-code-2023",
+                        "activeStatus": "active"
+                    }
+                ],
+                "ingesterAmendmentsEnabled": false,
+                "ingesterCodeUnitsEnabled": false,
+                "isAmendStylingEnabled": false,
+                "isCorrespondable": true,
+                "jurisKey": "florida",
+                "jurisName": "Florida",
+                "metaInfoUrl": "/viewer/florida/fl-existing-building-code-2023",
+                "modelCodeUrl": null,
+                "placeholder": "Search 2023 FBC - Existing Building, 8th edition",
+                "pubKey": "florida_ebc_2023",
+                "pubPrefix": "int_ebc",
+                "shortformPubName": "fl-existing-building-code-2023",
+                "withAmendments": true,
+                "chapterRef": "12",
+                "publisher": "icc",
+                "hasLinkedResources": false,
+                "initialNonChapterTocLines": [
+                    {
+                        "amendType": null,
+                        "children": [
+                            {
+                                "amendType": null,
+                                "children": [],
+                                "depth": 2,
+                                "displayTitle": "1201.1 Intent and Purpose",
+                                "hasExpanderArrow": false,
+                                "href": "#1201.1",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "reference": "1201.1"
+                            },
+                            {
+                                "amendType": null,
+                                "children": [],
+                                "depth": 2,
+                                "displayTitle": "1201.2 Scope",
+                                "hasExpanderArrow": false,
+                                "href": "#1201.2",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "reference": "1201.2"
+                            },
+                            {
+                                "amendType": null,
+                                "children": [],
+                                "depth": 2,
+                                "displayTitle": "1201.3 Flood Hazard Areas",
+                                "hasExpanderArrow": false,
+                                "href": "#1201.3",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "reference": "1201.3"
+                            },
+                            {
+                                "amendType": null,
+                                "children": [],
+                                "depth": 2,
+                                "displayTitle": "1201.4 Accessibility Requirements",
+                                "hasExpanderArrow": false,
+                                "href": "#1201.4",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "reference": "1201.4"
+                            }
+                        ],
+                        "depth": 1,
+                        "displayTitle": "1201 General",
+                        "hasExpanderArrow": true,
+                        "href": "#1201",
+                        "isCodeDivider": false,
+                        "isCodeDividerClickable": false,
+                        "reference": "1201"
+                    },
+                    {
+                        "amendType": null,
+                        "children": [],
+                        "depth": 1,
+                        "displayTitle": "1202 Definitions",
+                        "hasExpanderArrow": false,
+                        "href": "#1202",
+                        "isCodeDivider": false,
+                        "isCodeDividerClickable": false,
+                        "reference": "1202"
+                    },
+                    {
+                        "amendType": null,
+                        "children": [
+                            {
+                                "amendType": null,
+                                "children": [],
+                                "depth": 2,
+                                "displayTitle": "1203.1 Historic Preservation Goal",
+                                "hasExpanderArrow": false,
+                                "href": "#1203.1",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "reference": "1203.1"
+                            },
+                            {
+                                "amendType": null,
+                                "children": [],
+                                "depth": 2,
+                                "displayTitle": "1203.2 Historic Preservation Objectives",
+                                "hasExpanderArrow": false,
+                                "href": "#1203.2",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "reference": "1203.2"
+                            }
+                        ],
+                        "depth": 1,
+                        "displayTitle": "1203 Standards and Guidelines for Rehabilitating Historic Buildings",
+                        "hasExpanderArrow": true,
+                        "href": "#1203",
+                        "isCodeDivider": false,
+                        "isCodeDividerClickable": false,
+                        "reference": "1203"
+                    },
+                    {
+                        "amendType": null,
+                        "children": [
+                            {
+                                "amendType": null,
+                                "children": [],
+                                "depth": 2,
+                                "displayTitle": "1204.1 Equivalency",
+                                "hasExpanderArrow": false,
+                                "href": "#1204.1",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "reference": "1204.1"
+                            }
+                        ],
+                        "depth": 1,
+                        "displayTitle": "1204 Equivalency",
+                        "hasExpanderArrow": true,
+                        "href": "#1204",
+                        "isCodeDivider": false,
+                        "isCodeDividerClickable": false,
+                        "reference": "1204"
+                    },
+                    {
+                        "amendType": null,
+                        "children": [
+                            {
+                                "amendType": null,
+                                "children": [],
+                                "depth": 2,
+                                "displayTitle": "1205.1 Strict Compliance",
+                                "hasExpanderArrow": false,
+                                "href": "#1205.1",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "reference": "1205.1"
+                            },
+                            {
+                                "amendType": null,
+                                "children": [],
+                                "depth": 2,
+                                "displayTitle": "1205.2 Compliance Option",
+                                "hasExpanderArrow": false,
+                                "href": "#1205.2",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "reference": "1205.2"
+                            },
+                            {
+                                "amendType": null,
+                                "children": [],
+                                "depth": 2,
+                                "displayTitle": "1205.3 Conditions Specific to Compliance Options 2 and 3",
+                                "hasExpanderArrow": false,
+                                "href": "#1205.3",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "reference": "1205.3"
+                            }
+                        ],
+                        "depth": 1,
+                        "displayTitle": "1205 Compliance",
+                        "hasExpanderArrow": true,
+                        "href": "#1205",
+                        "isCodeDivider": false,
+                        "isCodeDividerClickable": false,
+                        "reference": "1205"
+                    },
+                    {
+                        "amendType": null,
+                        "children": [
+                            {
+                                "amendType": null,
+                                "children": [],
+                                "depth": 2,
+                                "displayTitle": "1206.1 Investigation and Evaluation Report",
+                                "hasExpanderArrow": false,
+                                "href": "#1206.1",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "reference": "1206.1"
+                            }
+                        ],
+                        "depth": 1,
+                        "displayTitle": "1206 Investigation and Evaluation",
+                        "hasExpanderArrow": true,
+                        "href": "#1206",
+                        "isCodeDivider": false,
+                        "isCodeDividerClickable": false,
+                        "reference": "1206"
+                    },
+                    {
+                        "amendType": null,
+                        "children": [
+                            {
+                                "amendType": null,
+                                "children": [],
+                                "depth": 2,
+                                "displayTitle": "1207.1",
+                                "hasExpanderArrow": false,
+                                "href": "#1207.1",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "reference": "1207.1"
+                            },
+                            {
+                                "amendType": null,
+                                "children": [],
+                                "depth": 2,
+                                "displayTitle": "1207.2",
+                                "hasExpanderArrow": false,
+                                "href": "#1207.2",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "reference": "1207.2"
+                            }
+                        ],
+                        "depth": 1,
+                        "displayTitle": "1207 Historic Cuban Tile",
+                        "hasExpanderArrow": true,
+                        "href": "#1207",
+                        "isCodeDivider": false,
+                        "isCodeDividerClickable": false,
+                        "reference": "1207"
+                    }
+                ],
+                "title": "Chapter 12 Historic Buildings: 2023 FBC - Existing Building, 8<sup>th</sup> edition | UpCodes",
+                "leanChapterLines": [
+                    {
+                        "displayTitle": "Chapter 1 Scope and Administration",
+                        "isExpandable": true,
+                        "reference": "1",
+                        "slug": "scope-and-administration"
+                    },
+                    {
+                        "displayTitle": "Chapter 2 Definitions",
+                        "isExpandable": true,
+                        "reference": "2",
+                        "slug": "definitions"
+                    },
+                    {
+                        "displayTitle": "Chapter 3 Provisions for All Compliance Methods",
+                        "isExpandable": true,
+                        "reference": "3",
+                        "slug": "provisions-for-all-compliance-methods"
+                    },
+                    {
+                        "displayTitle": "Chapter 4 Repairs",
+                        "isExpandable": true,
+                        "reference": "4",
+                        "slug": "repairs"
+                    },
+                    {
+                        "displayTitle": "Chapter 5 Prescriptive Compliance Method",
+                        "isExpandable": true,
+                        "reference": "5",
+                        "slug": "prescriptive-compliance-method"
+                    },
+                    {
+                        "displayTitle": "Chapter 6 Classification of Work",
+                        "isExpandable": true,
+                        "reference": "6",
+                        "slug": "classification-of-work"
+                    },
+                    {
+                        "displayTitle": "Chapter 7 Alterations\u2014Level 1",
+                        "isExpandable": true,
+                        "reference": "7",
+                        "slug": "alterations-level-1"
+                    },
+                    {
+                        "displayTitle": "Chapter 8 Alterations\u2014Level 2",
+                        "isExpandable": true,
+                        "reference": "8",
+                        "slug": "alterations-level-2"
+                    },
+                    {
+                        "displayTitle": "Chapter 9 Alterations\u2014Level 3",
+                        "isExpandable": true,
+                        "reference": "9",
+                        "slug": "alterations-level-3"
+                    },
+                    {
+                        "displayTitle": "Chapter 10 Change of Occupancy",
+                        "isExpandable": true,
+                        "reference": "10",
+                        "slug": "change-of-occupancy"
+                    },
+                    {
+                        "displayTitle": "Chapter 11 Additions",
+                        "isExpandable": true,
+                        "reference": "11",
+                        "slug": "additions"
+                    },
+                    {
+                        "displayTitle": "Chapter 12 Historic Buildings",
+                        "isExpandable": true,
+                        "reference": "12",
+                        "slug": "historic-buildings"
+                    },
+                    {
+                        "displayTitle": "Chapter 13 Relocated or Moved Buildings",
+                        "isExpandable": true,
+                        "reference": "13",
+                        "slug": "relocated-or-moved-buildings"
+                    },
+                    {
+                        "displayTitle": "Chapter 14 Performance Compliance Methods",
+                        "isExpandable": true,
+                        "reference": "14",
+                        "slug": "performance-compliance-methods"
+                    },
+                    {
+                        "displayTitle": "Chapter 15 Construction Safeguards",
+                        "isExpandable": true,
+                        "reference": "15",
+                        "slug": "construction-safeguards"
+                    },
+                    {
+                        "displayTitle": "Chapter 16 Referenced Standards",
+                        "reference": "16",
+                        "slug": "referenced-standards"
+                    },
+                    {
+                        "displayTitle": "Chapter 17 Retrofitting",
+                        "isExpandable": true,
+                        "reference": "17",
+                        "slug": "retrofitting"
+                    },
+                    {
+                        "displayTitle": "Chapter 18 Minimum Requirements for the Mandatory Milestone Inspections",
+                        "isExpandable": true,
+                        "reference": "18",
+                        "slug": "minimum-requirements-for-the-mandatory-milestone-inspections"
+                    },
+                    {
+                        "displayTitle": "Appendix A Guidelines for the Seismic Retrofit of Existing Buildings",
+                        "reference": "A",
+                        "slug": "guidelines-for-the-seismic-retrofit-of-existing-buildings"
+                    },
+                    {
+                        "displayTitle": "Appendix B Standard for Rehabilitation",
+                        "reference": "B",
+                        "slug": "standard-for-rehabilitation"
+                    },
+                    {
+                        "displayTitle": "Appendix C Refer to NFPA 914 Code for Fire Protection of Historic Structures 2001 Edition",
+                        "isExpandable": true,
+                        "reference": "C",
+                        "slug": "refer-to-nfpa-914-code-for-fire-protection-of-historic-structures-2001-edition"
+                    },
+                    {
+                        "displayTitle": "Resource A Guidelines on Fire Rating of Archaic Materials and Assemblies",
+                        "reference": "resource_A",
+                        "slug": "guidelines-on-fire-rating-of-archaic-materials-and-assemblies"
+                    }
+                ],
+                "leanCodeSectionsTree": [
+                    {
+                        "ancestorRefs": [],
+                        "depth": 0,
+                        "diagrams": [],
+                        "displayRef": null,
+                        "displayTitle": "Chapter 12 Historic Buildings",
+                        "divisionType": "Chapter",
+                        "hasAssemblies": false,
+                        "isContiguous": true,
+                        "numAssembliesOnRef": 0,
+                        "numBuildingProductsOnRef": 0,
+                        "numDiagramsOnRef": 0,
+                        "reference": "12",
+                        "slug": "historic-buildings",
+                        "titleText": "Historic Buildings",
+                        "children": [
+                            {
+                                "ancestorRefs": [
+                                    "12"
+                                ],
+                                "depth": 1,
+                                "diagrams": [],
+                                "displayRef": null,
+                                "displayTitle": "Section 1201 General",
+                                "divisionType": "Section",
+                                "hasAssemblies": false,
+                                "isContiguous": true,
+                                "numAssembliesOnRef": 0,
+                                "numBuildingProductsOnRef": 0,
+                                "numDiagramsOnRef": 0,
+                                "reference": "1201",
+                                "slug": "historic-buildings",
+                                "titleText": "General",
+                                "children": [
+                                    {
+                                        "ancestorRefs": [
+                                            "12",
+                                            "1201"
+                                        ],
+                                        "body": "It is the intent of this chapter to provide means for occupant safety, property conservation and use of designated <a class=\"autolink\" href=\"#historic_building\">historic buildings</a> while protecting those elements, spaces and features that make these buildings historically or architecturally significant.",
+                                        "depth": 2,
+                                        "diagrams": [],
+                                        "displayRef": null,
+                                        "displayTitle": "1201.1 Intent and Purpose",
+                                        "hasAssemblies": false,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 0,
+                                        "numDiagramsOnRef": 0,
+                                        "reference": "1201.1",
+                                        "slug": "historic-buildings",
+                                        "titleText": "Intent and Purpose",
+                                        "children": []
+                                    },
+                                    {
+                                        "ancestorRefs": [
+                                            "12",
+                                            "1201"
+                                        ],
+                                        "body": "The provisions of this code acknowledge the need to preserve the character of <a class=\"autolink\" href=\"#historic_building\">historic buildings</a> and shall apply to the <a class=\"autolink\" href=\"/viewer/florida/fl-existing-building-code-2023/chapter/2/definitions#repair\">repair</a>, <a class=\"autolink\" href=\"/viewer/florida/fl-existing-building-code-2023/chapter/2/definitions#alteration\">alteration</a>, <a class=\"autolink\" href=\"#restoration\">restoration</a>, <a class=\"autolink\" href=\"/viewer/florida/fl-existing-building-code-2023/chapter/2/definitions#change_of_occupancy\">change of occupancy</a>, <a class=\"autolink\" href=\"/viewer/florida/fl-existing-building-code-2023/chapter/2/definitions#addition\">addition</a> and relocation of <a class=\"autolink\" href=\"#historic_building\">historic buildings</a>.",
+                                        "depth": 2,
+                                        "diagrams": [],
+                                        "displayRef": null,
+                                        "displayTitle": "1201.2 Scope",
+                                        "hasAssemblies": false,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 0,
+                                        "numDiagramsOnRef": 0,
+                                        "reference": "1201.2",
+                                        "slug": "historic-buildings",
+                                        "titleText": "Scope",
+                                        "children": []
+                                    },
+                                    {
+                                        "ancestorRefs": [
+                                            "12",
+                                            "1201"
+                                        ],
+                                        "body": "<div class=\"u-mb-3\">In <a class=\"autolink\" href=\"/viewer/florida/fl-existing-building-code-2023/chapter/7/alterations-level-1#701.3\">flood hazard areas</a>, if all proposed work, including <a class=\"autolink\" href=\"/viewer/florida/fl-existing-building-code-2023/chapter/2/definitions#repair\">repairs</a>, work required because of a <a class=\"autolink\" href=\"/viewer/florida/fl-existing-building-code-2023/chapter/2/definitions#change_of_occupancy\">change of occupancy</a>, and <a class=\"autolink\" href=\"/viewer/florida/fl-existing-building-code-2023/chapter/2/definitions#alteration\">alterations</a>, constitutes <a class=\"autolink\" href=\"/viewer/florida/fl-existing-building-code-2023/chapter/2/definitions#substantial_improvement\">substantial improvement</a>, then the building shall comply with <a class=\"autolink\" href=\"/viewer/florida/fl-building-code-2023/chapter/16/structural-design#1612\">Section 1612</a> of the <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/florida/fl-building-code-2023\">Florida Building Code</a>, Building</span>, or Section R322 of the <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/florida/fl-building-code-2023\">Florida Building Code</a>, Residential</span>, as applicable.</div><div class=\"u-ml-4\"><div class=\"u-mb-3 u-mt-3\"><span class=\"u-font-bold\">Exception: </span>If the program that designated the building as historic determines that it will continue to be an <a class=\"autolink\" href=\"#historic_building\">historic building</a> after the proposed work is completed, then the proposed work is not considered to be <a class=\"autolink\" href=\"/viewer/florida/fl-existing-building-code-2023/chapter/2/definitions#substantial_improvement\">substantial improvement</a>. For the <a class=\"autolink\" href=\"/viewer/florida/fl-existing-building-code-2023/chapter/17/retrofitting#1701.1\">purposes</a> of this exception, an <a class=\"autolink\" href=\"#historic_building\">historic building</a> is:</div><ol><li>Individually listed in the National Register of Historic Places; or</li><li>A contributing resource within a National Register of Historic Places listed district; or</li><li>Designated as historic property under an official municipal, county, special district or state designation, law, ordinance or resolution either individually or as a contributing property in a district, provided the local program making the designation is <a class=\"autolink\" href=\"/viewer/florida/fl-existing-building-code-2023/chapter/2/definitions#approved\">approved</a> by the Department of the Interior (the Florida state <a class=\"autolink\" href=\"#historic_preservation\">historic preservation</a> officer maintains a list of <a class=\"autolink\" href=\"/viewer/florida/fl-existing-building-code-2023/chapter/2/definitions#approved\">approved</a> local programs); or</li><li>Determined eligible by the Florida State <a class=\"autolink\" href=\"#historic_preservation\">Historic Preservation</a> Officer for listing in the National Register of Historic Places, either individually or as a contributing property in a district.</li></ol></div>",
+                                        "depth": 2,
+                                        "diagrams": [],
+                                        "displayRef": null,
+                                        "displayTitle": "1201.3 Flood Hazard Areas",
+                                        "hasAssemblies": false,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 0,
+                                        "numDiagramsOnRef": 0,
+                                        "reference": "1201.3",
+                                        "slug": "historic-buildings",
+                                        "titleText": "Flood Hazard Areas",
+                                        "children": []
+                                    },
+                                    {
+                                        "ancestorRefs": [
+                                            "12",
+                                            "1201"
+                                        ],
+                                        "body": "For <a class=\"autolink\" href=\"/viewer/florida/fl-existing-building-code-2023/chapter/10/change-of-occupancy#1012.1.4\">accessibility</a> requirements, see the <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/ada\">Florida Building Code</a>, <a class=\"autolink\" href=\"/viewer/florida/fl-existing-building-code-2023/chapter/10/change-of-occupancy#1012.1.4\">Accessibility</a></span>.",
+                                        "depth": 2,
+                                        "diagrams": [],
+                                        "displayRef": null,
+                                        "displayTitle": "1201.4 Accessibility Requirements",
+                                        "hasAssemblies": false,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 0,
+                                        "numDiagramsOnRef": 0,
+                                        "reference": "1201.4",
+                                        "slug": "historic-buildings",
+                                        "titleText": "Accessibility Requirements",
+                                        "children": []
+                                    }
+                                ]
+                            },
+                            {
+                                "ancestorRefs": [
+                                    "12"
+                                ],
+                                "body": "<div class=\"u-mb-3 u-mt-3\"><span class=\"u-font-bold\"><a id=\"adaptive_reuse\" href=\"#adaptive_reuse\" class=\"autolink_target\">ADAPTIVE REUSE</a>. </span>The conversion of functional change of a building from the <a class=\"autolink\" href=\"/viewer/florida/fl-existing-building-code-2023/chapter/17/retrofitting#1701.1\">purpose</a> or use for which it was originally constructed or designed.</div><div class=\"u-mb-3 u-mt-3\"><span class=\"u-font-bold\"><a id=\"adaptive_use\" href=\"#adaptive_use\" class=\"autolink_target\">ADAPTIVE USE</a>. </span>A use for a building other than that for which it was originally designed or intended.</div><div><div class=\"u-mb-3 u-mt-3\"><span class=\"u-font-bold\"><a id=\"historic_building\" href=\"#historic_building\" class=\"autolink_target\">HISTORIC BUILDING</a>. </span>For the <a class=\"autolink\" href=\"/viewer/florida/fl-existing-building-code-2023/chapter/17/retrofitting#1701.1\">purposes</a> of this code and the referenced documents, an <a class=\"autolink\" href=\"#historic_building\">historic building</a> is defined as a building or structure that is:</div><div><ol><li>Individually listed in the National Register of Historic Places; or</li><li>A contributing property in a National Register of Historic Places listed district; or</li><li>Designated as historic property under an official municipal, county, special district or state designation, law, ordinance or resolution either individually or as a contributing property in a district; or</li><li>Determined eligible by the Florida State <a class=\"autolink\" href=\"#historic_preservation\">Historic Preservation</a> Officer for listing in the National Register of Historic Places, either individually or as a contributing property in a district.</li></ol></div></div><div class=\"u-mb-3 u-mt-3\"><span class=\"u-font-bold\"><a id=\"historic_character\" href=\"#historic_character\" class=\"autolink_target\">HISTORIC CHARACTER</a>. </span>The essential quality of an <a class=\"autolink\" href=\"#historic_building\">historic building</a> or space that provides its significance. The character might be determined by the historic background, including association with a significant event or person, the architecture of design, or the contents or elements and finishes of the building or space.</div><div class=\"u-mb-3 u-mt-3\"><span class=\"u-font-bold\"><a id=\"historic_fabric\" href=\"#historic_fabric\" class=\"autolink_target\">HISTORIC FABRIC</a>. </span>Original or added building or construction materials, features and finishes that existed during the period that is deemed to be most architecturally or historically significant or both.</div><div class=\"u-mb-3 u-mt-3\"><span class=\"u-font-bold\"><a id=\"historic_preservation\" href=\"#historic_preservation\" class=\"autolink_target\">HISTORIC PRESERVATION</a>. </span>A generic term that encompasses all aspects of the professional and public concern related to the maintenance of an <a class=\"autolink\" href=\"#historic_structure\">historic structure</a>, site or element in its current condition, as originally constructed, or with the <a class=\"autolink\" href=\"/viewer/florida/fl-existing-building-code-2023/chapter/2/definitions#addition\">additions</a> and <a class=\"autolink\" href=\"/viewer/florida/fl-existing-building-code-2023/chapter/2/definitions#alteration\">alterations</a> determined to have acquired significance over time.</div><div class=\"u-mb-3 u-mt-3\"><span class=\"u-font-bold\"><a id=\"historic_site\" href=\"#historic_site\" class=\"autolink_target\">HISTORIC SITE</a>. </span>A place, often with associated structures, having historic significance.</div><div class=\"u-mb-3 u-mt-3\"><span class=\"u-font-bold\"><a id=\"historic_structure\" href=\"#historic_structure\" class=\"autolink_target\">HISTORIC STRUCTURE</a>. </span>A building, bridge, lighthouse, monument, pier, vessel or other construction that is designated or that is deemed eligible for such designation by a local, regional or national jurisdiction as having historical, architectural or cultural significance.</div><div class=\"u-mb-3 u-mt-3\"><span class=\"u-font-bold\"><a id=\"preservation\" href=\"#preservation\" class=\"autolink_target\">PRESERVATION</a>. </span>The act or process of applying measures necessary to sustain the existing form, integrity and materials of an <a class=\"autolink\" href=\"#historic_building\">historic building</a> or structure.</div><div class=\"u-mb-3 u-mt-3\"><span class=\"u-font-bold\"><a id=\"rehabilitation_historic_building\" href=\"#rehabilitation_historic_building\" class=\"autolink_target\">REHABILITATION, HISTORIC BUILDING</a>. </span>The act or process of making possible a compatible use of a property through <a class=\"autolink\" href=\"/viewer/florida/fl-existing-building-code-2023/chapter/2/definitions#repair\">repair</a>, <a class=\"autolink\" href=\"/viewer/florida/fl-existing-building-code-2023/chapter/2/definitions#alteration\">alterations</a> and <a class=\"autolink\" href=\"/viewer/florida/fl-existing-building-code-2023/chapter/2/definitions#addition\">additions</a> while preserving those portions or features which convey its historical, cultural or architectural values.</div><div class=\"u-mb-3 u-mt-3\"><span class=\"u-font-bold\"><a id=\"restoration\" href=\"#restoration\" class=\"autolink_target\">RESTORATION</a>. </span>The act or process of accurately depicting the form, features and character of a property as it appeared at a particular period of time by means of the removal of features, and <a class=\"autolink\" href=\"/viewer/florida/fl-existing-building-code-2023/chapter/2/definitions#repair\">repair</a> or replacement of damaged or altered features from the <a class=\"autolink\" href=\"#restoration\">restoration</a> period.</div>",
+                                "depth": 1,
+                                "diagrams": [],
+                                "displayRef": null,
+                                "displayTitle": "Section 1202 Definitions",
+                                "divisionType": "Section",
+                                "hasAssemblies": false,
+                                "isContiguous": true,
+                                "numAssembliesOnRef": 0,
+                                "numBuildingProductsOnRef": 0,
+                                "numDiagramsOnRef": 0,
+                                "reference": "1202",
+                                "slug": "historic-buildings",
+                                "titleText": "Definitions",
+                                "children": []
+                            },
+                            {
+                                "ancestorRefs": [
+                                    "12"
+                                ],
+                                "depth": 1,
+                                "diagrams": [],
+                                "displayRef": null,
+                                "displayTitle": "Section 1203 Standards and Guidelines for Rehabilitating Historic Buildings",
+                                "divisionType": "Section",
+                                "hasAssemblies": false,
+                                "isContiguous": true,
+                                "numAssembliesOnRef": 0,
+                                "numBuildingProductsOnRef": 0,
+                                "numDiagramsOnRef": 0,
+                                "reference": "1203",
+                                "slug": "historic-buildings",
+                                "titleText": "Standards and Guidelines for Rehabilitating Historic Buildings",
+                                "children": [
+                                    {
+                                        "ancestorRefs": [
+                                            "12",
+                                            "1203"
+                                        ],
+                                        "body": "<div class=\"u-mb-3\">The <a class=\"autolink\" href=\"#historic_preservation\">historic preservation</a> goal of this code shall be to minimize damage to and loss of <a class=\"autolink\" href=\"#historic_structure\">historic structures</a>, their unique characteristics and their contents as follows:</div><ol><li>Maintain and preserve original space configurations of <a class=\"autolink\" href=\"#historic_building\">historic buildings</a>.</li><li>Minimize <a class=\"autolink\" href=\"/viewer/florida/fl-existing-building-code-2023/chapter/2/definitions#alteration\">alteration</a>, destruction or loss of <a class=\"autolink\" href=\"#historic_fabric\">historic fabric</a> or design.</li></ol>",
+                                        "depth": 2,
+                                        "diagrams": [],
+                                        "displayRef": null,
+                                        "displayTitle": "1203.1 Historic Preservation Goal",
+                                        "hasAssemblies": false,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 0,
+                                        "numDiagramsOnRef": 0,
+                                        "reference": "1203.1",
+                                        "slug": "historic-buildings",
+                                        "titleText": "Historic Preservation Goal",
+                                        "children": []
+                                    },
+                                    {
+                                        "ancestorRefs": [
+                                            "12",
+                                            "1203"
+                                        ],
+                                        "body": "<ol><li><a class=\"autolink\" href=\"#preservation\">Preservation</a> of the original qualities or character of a building, structure, site or environment shall be encouraged.</li><li>Removal or <a class=\"autolink\" href=\"/viewer/florida/fl-existing-building-code-2023/chapter/2/definitions#alteration\">alteration</a> of any historic material or distinctive architectural features shall be minimized.</li><li>Distinctive stylistic features or examples of skilled craftsmanship that characterize a building, structure or site shall be treated with sensitivity.</li><li>A compatible use for a property that requires minimal <a class=\"autolink\" href=\"/viewer/florida/fl-existing-building-code-2023/chapter/2/definitions#alteration\">alteration</a> of the building, structure or site and its environment shall be encouraged.</li><li>New <a class=\"autolink\" href=\"/viewer/florida/fl-existing-building-code-2023/chapter/2/definitions#addition\">additions</a> or <a class=\"autolink\" href=\"/viewer/florida/fl-existing-building-code-2023/chapter/2/definitions#alteration\">alterations</a> shall be designed and constructed in such a manner that if such <a class=\"autolink\" href=\"/viewer/florida/fl-existing-building-code-2023/chapter/2/definitions#addition\">additions</a> or <a class=\"autolink\" href=\"/viewer/florida/fl-existing-building-code-2023/chapter/2/definitions#alteration\">alterations</a> were to be removed in the future, the essential form and integrity of the structure would be unimpaired to the greatest degree possible.</li><li><a class=\"autolink\" href=\"/viewer/florida/fl-existing-building-code-2023/chapter/2/definitions#repair\">Repairs</a>, <a class=\"autolink\" href=\"/viewer/florida/fl-existing-building-code-2023/chapter/2/definitions#alteration\">alterations</a>, <a class=\"autolink\" href=\"#restoration\">restorations</a>, <a class=\"autolink\" href=\"/viewer/florida/fl-existing-building-code-2023/chapter/2/definitions#change_of_occupancy\">changes of occupancy</a>, <a class=\"autolink\" href=\"/viewer/florida/fl-existing-building-code-2023/chapter/2/definitions#addition\">additions</a> and relocations shall be guided by the recommended approaches in <a class=\"autolink\" href=\"/viewer/florida/fl-existing-building-code-2023/chapter/2/definitions#rehabilitation\">rehabilitation</a> set forth in the Secretary of the Interior's Standards for <a class=\"autolink\" href=\"/viewer/florida/fl-existing-building-code-2023/chapter/2/definitions#rehabilitation\">Rehabilitation</a> and Guidelines for Rehabilitating <a class=\"autolink\" href=\"#historic_building\">Historic Buildings</a> (<a class=\"autolink\" href=\"/viewer/florida/fl-existing-building-code-2023/chapter/B/standard-for-rehabilitation#B\">Appendix B</a>).</li></ol>",
+                                        "depth": 2,
+                                        "diagrams": [],
+                                        "displayRef": null,
+                                        "displayTitle": "1203.2 Historic Preservation Objectives",
+                                        "hasAssemblies": false,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 0,
+                                        "numDiagramsOnRef": 0,
+                                        "reference": "1203.2",
+                                        "slug": "historic-buildings",
+                                        "titleText": "Historic Preservation Objectives",
+                                        "children": []
+                                    }
+                                ]
+                            },
+                            {
+                                "ancestorRefs": [
+                                    "12"
+                                ],
+                                "depth": 1,
+                                "diagrams": [],
+                                "displayRef": null,
+                                "displayTitle": "Section 1204 Equivalency",
+                                "divisionType": "Section",
+                                "hasAssemblies": false,
+                                "isContiguous": true,
+                                "numAssembliesOnRef": 0,
+                                "numBuildingProductsOnRef": 0,
+                                "numDiagramsOnRef": 0,
+                                "reference": "1204",
+                                "slug": "historic-buildings",
+                                "titleText": "Equivalency",
+                                "children": [
+                                    {
+                                        "ancestorRefs": [
+                                            "12",
+                                            "1204"
+                                        ],
+                                        "body": "<div class=\"u-mb-3\">Nothing in this code shall be intended to prevent the use of systems, methods or devices of equivalent or superior quality, strength, fire resistance or effectiveness, provided that the following conditions are met:</div><ol><li>Technical documentation is submitted to the building official to document equivalency.</li><li>The system, method or device is acceptable to the building official.</li></ol>",
+                                        "depth": 2,
+                                        "diagrams": [],
+                                        "displayRef": null,
+                                        "displayTitle": "1204.1 Equivalency",
+                                        "hasAssemblies": false,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 0,
+                                        "numDiagramsOnRef": 0,
+                                        "reference": "1204.1",
+                                        "slug": "historic-buildings",
+                                        "titleText": "Equivalency",
+                                        "children": []
+                                    }
+                                ]
+                            },
+                            {
+                                "ancestorRefs": [
+                                    "12"
+                                ],
+                                "depth": 1,
+                                "diagrams": [],
+                                "displayRef": null,
+                                "displayTitle": "Section 1205 Compliance",
+                                "divisionType": "Section",
+                                "hasAssemblies": false,
+                                "isContiguous": true,
+                                "numAssembliesOnRef": 0,
+                                "numBuildingProductsOnRef": 0,
+                                "numDiagramsOnRef": 0,
+                                "reference": "1205",
+                                "slug": "historic-buildings",
+                                "titleText": "Compliance",
+                                "children": [
+                                    {
+                                        "ancestorRefs": [
+                                            "12",
+                                            "1205"
+                                        ],
+                                        "body": "<a class=\"autolink\" href=\"#historic_structure\">Historic structures</a> or portions of such structures that do not strictly comply with this code shall be considered to be in <a class=\"autolink\" href=\"/viewer/florida/fl-existing-building-code-2023/chapter/9/alterations-level-3#901.2\">compliance</a> if it can be shown to the satisfaction of the building <a class=\"autolink\" href=\"/viewer/florida/fl-existing-building-code-2023/chapter/2/definitions#code_official\">code official</a> that equivalent protection has been provided or that no hazard will be created or continued through noncompliance.",
+                                        "depth": 2,
+                                        "diagrams": [],
+                                        "displayRef": null,
+                                        "displayTitle": "1205.1 Strict Compliance",
+                                        "hasAssemblies": false,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 0,
+                                        "numDiagramsOnRef": 0,
+                                        "reference": "1205.1",
+                                        "slug": "historic-buildings",
+                                        "titleText": "Strict Compliance",
+                                        "children": []
+                                    },
+                                    {
+                                        "ancestorRefs": [
+                                            "12",
+                                            "1205"
+                                        ],
+                                        "body": "<div class=\"u-mb-3\">Life safety and property conservation shall be provided in accordance with one of the following options:</div><ol><li>Prescriptive-based provisions of this code.</li><li><a class=\"autolink\" href=\"/viewer/florida/fl-existing-building-code-2023/chapter/9/alterations-level-3#901.2\">Compliance</a> alternative-based provisions of this code.</li><li>Performance-based provisions of NFPA 914, Code for Fire Protection of <a class=\"autolink\" href=\"#historic_structure\">Historic Structures</a>, <a class=\"autolink\" href=\"/viewer/florida/fl-existing-building-code-2023/chapter/6/classification-of-work#6\">Chapter 6</a>, along with a structural <a class=\"autolink\" href=\"/viewer/florida/fl-existing-building-code-2023/chapter/14/performance-compliance-methods#1401.5\">evaluation</a> as specified in <a class=\"autolink\" href=\"/viewer/florida/fl-existing-building-code-2023/chapter/14/performance-compliance-methods#1401.4.1\">Section 1401.4.1</a> of this code.</li></ol>",
+                                        "depth": 2,
+                                        "diagrams": [],
+                                        "displayRef": null,
+                                        "displayTitle": "1205.2 Compliance Option",
+                                        "hasAssemblies": false,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 0,
+                                        "numDiagramsOnRef": 0,
+                                        "reference": "1205.2",
+                                        "slug": "historic-buildings",
+                                        "titleText": "Compliance Option",
+                                        "children": []
+                                    },
+                                    {
+                                        "ancestorRefs": [
+                                            "12",
+                                            "1205"
+                                        ],
+                                        "body": "<ol><li>Architect or engineer required. The <a class=\"autolink\" href=\"/viewer/florida/fl-existing-building-code-2023/chapter/14/performance-compliance-methods#1401.5\">evaluation</a> of <a class=\"autolink\" href=\"#historic_structure\">historic structures</a> utilizing <a class=\"autolink\" href=\"/viewer/florida/fl-existing-building-code-2023/chapter/9/alterations-level-3#901.2\">Compliance</a> Options 2 or 3 shall be completed by a Florida-registered architect or engineer and submitted to the building <a class=\"autolink\" href=\"/viewer/florida/fl-existing-building-code-2023/chapter/2/definitions#code_official\">code official</a> for review.</li><li>Documentation. <a class=\"autolink\" href=\"#historic_building\">Historic buildings</a> that are determined to be code compliant through the use of <a class=\"autolink\" href=\"/viewer/florida/fl-existing-building-code-2023/chapter/9/alterations-level-3#901.2\">Compliance</a> Option 2 or 3 shall have copies of the architect or engineer's report kept on site and available for review by the building official.</li><li>Change of report assumptions. Any remodeling, modification, renovation, <a class=\"autolink\" href=\"/viewer/florida/fl-existing-building-code-2023/chapter/2/definitions#change_of_use\">change of use</a> or change in the established assumptions of the report shall require a reevaluation and reapproval by the building <a class=\"autolink\" href=\"/viewer/florida/fl-existing-building-code-2023/chapter/2/definitions#code_official\">code official</a>.</li><li>Construction safeguards. Construction safeguards consistent with Chapter 15 and NFPA 914, Code for Fire Protection of <a class=\"autolink\" href=\"#historic_structure\">Historic Structures</a>, shall be maintained during periods of <a class=\"autolink\" href=\"/viewer/florida/fl-existing-building-code-2023/chapter/2/definitions#repair\">repair</a>, <a class=\"autolink\" href=\"/viewer/florida/fl-existing-building-code-2023/chapter/2/definitions#alteration\">alteration</a>, <a class=\"autolink\" href=\"/viewer/florida/fl-existing-building-code-2023/chapter/2/definitions#change_of_occupancy\">change of occupancy</a>, <a class=\"autolink\" href=\"/viewer/florida/fl-existing-building-code-2023/chapter/2/definitions#addition\">addition</a> and relocation of <a class=\"autolink\" href=\"#historic_building\">historic buildings</a>.</li><li>Maintenance. In addition to the requirements of Section 1204, <a class=\"autolink\" href=\"#historic_building\">historic buildings</a> shall be maintained in accordance with Chapters 1, 2, 8, 9, 10 and 11 of NFPA 914, Code for Fire Protection of <a class=\"autolink\" href=\"#historic_structure\">Historic Structures</a>.</li></ol>",
+                                        "depth": 2,
+                                        "diagrams": [],
+                                        "displayRef": null,
+                                        "displayTitle": "1205.3 Conditions Specific to Compliance Options 2 and 3",
+                                        "hasAssemblies": false,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 0,
+                                        "numDiagramsOnRef": 0,
+                                        "reference": "1205.3",
+                                        "slug": "historic-buildings",
+                                        "titleText": "Conditions Specific to Compliance Options 2 and 3",
+                                        "children": []
+                                    }
+                                ]
+                            },
+                            {
+                                "ancestorRefs": [
+                                    "12"
+                                ],
+                                "depth": 1,
+                                "diagrams": [],
+                                "displayRef": null,
+                                "displayTitle": "Section 1206 Investigation and Evaluation",
+                                "divisionType": "Section",
+                                "hasAssemblies": false,
+                                "isContiguous": true,
+                                "numAssembliesOnRef": 0,
+                                "numBuildingProductsOnRef": 0,
+                                "numDiagramsOnRef": 0,
+                                "reference": "1206",
+                                "slug": "historic-buildings",
+                                "titleText": "Investigation and Evaluation",
+                                "children": [
+                                    {
+                                        "ancestorRefs": [
+                                            "12",
+                                            "1206"
+                                        ],
+                                        "body": "An <a class=\"autolink\" href=\"#historic_building\">historic building</a> undergoing <a class=\"autolink\" href=\"/viewer/florida/fl-existing-building-code-2023/chapter/2/definitions#alteration\">alteration</a> or <a class=\"autolink\" href=\"/viewer/florida/fl-existing-building-code-2023/chapter/2/definitions#change_of_occupancy\">change of occupancy</a> shall be investigated and evaluated. If it is intended that the building meet the requirements of this chapter, a written report shall be prepared and filed with the building official by a Florida-registered architect or engineer. Such report shall be in accordance with the provisions of Sections 4.3.1.2 through 4.3.2 of NFPA 914, Code for Fire Protection of <a class=\"autolink\" href=\"#historic_structure\">Historic Structures</a> and shall identify each required safety feature that is in <a class=\"autolink\" href=\"/viewer/florida/fl-existing-building-code-2023/chapter/9/alterations-level-3#901.2\">compliance</a> with this chapter and where <a class=\"autolink\" href=\"/viewer/florida/fl-existing-building-code-2023/chapter/9/alterations-level-3#901.2\">compliance</a> with this or other chapters would be damaging to the contributing historic features. In addition, the report shall describe each feature that is not in <a class=\"autolink\" href=\"/viewer/florida/fl-existing-building-code-2023/chapter/9/alterations-level-3#901.2\">compliance</a> and demonstrate how the intent of the provisions of this or other chapters are complied with in providing an equivalent level of safety.",
+                                        "depth": 2,
+                                        "diagrams": [],
+                                        "displayRef": null,
+                                        "displayTitle": "1206.1 Investigation and Evaluation Report",
+                                        "hasAssemblies": false,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 0,
+                                        "numDiagramsOnRef": 0,
+                                        "reference": "1206.1",
+                                        "slug": "historic-buildings",
+                                        "titleText": "Investigation and Evaluation Report",
+                                        "children": []
+                                    }
+                                ]
+                            },
+                            {
+                                "ancestorRefs": [
+                                    "12"
+                                ],
+                                "depth": 1,
+                                "diagrams": [],
+                                "displayRef": null,
+                                "displayTitle": "Section 1207 Historic Cuban Tile",
+                                "divisionType": "Section",
+                                "hasAssemblies": false,
+                                "isContiguous": true,
+                                "numAssembliesOnRef": 0,
+                                "numBuildingProductsOnRef": 0,
+                                "numDiagramsOnRef": 0,
+                                "reference": "1207",
+                                "slug": "historic-buildings",
+                                "titleText": "Historic Cuban Tile",
+                                "children": [
+                                    {
+                                        "ancestorRefs": [
+                                            "12",
+                                            "1207"
+                                        ],
+                                        "body": "Historic Cuban tile is a material with distinct architectural features and unity and with examples of skilled craftsmanship. In order to preserve its use and in accordance with <a class=\"autolink\" href=\"#1203.2\">Section 1203.2</a>, <a class=\"autolink\" href=\"#historic_preservation\">Historic preservation</a> objectives, its use shall be preserved for both existing and new construction with the following requirements.",
+                                        "depth": 2,
+                                        "diagrams": [],
+                                        "displayRef": null,
+                                        "displayTitle": "1207.1",
+                                        "hasAssemblies": false,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 0,
+                                        "numDiagramsOnRef": 0,
+                                        "reference": "1207.1",
+                                        "slug": "historic-buildings",
+                                        "titleText": "",
+                                        "children": []
+                                    },
+                                    {
+                                        "ancestorRefs": [
+                                            "12",
+                                            "1207"
+                                        ],
+                                        "body": "<div class=\"u-mb-3\">Handmade or hand process made barrel (\"C\"-shaped) natural clay tile, often variegated in color, either manufactured in the Republic of Cuba prior to the imposition of the U.S. Embargo, or, in the case of antique tile, manufactured in 18th century Spain, salvaged from buildings in Cuba and imported to the United States during the 1920s and 1930s.</div><div class=\"u-list-dot-separated-deprecated\">\n<ol>\n<li> <span class=\"u-font-bold\">Identification. </span>Final responsibility for the identification of historic Cuban tile shall rest with the building official, subject to the appeals process established by the authority having jurisdiction. Historic Cuban tile is generally identified in the following manner: \n<ol>\n<li>Tile bearing an embossed identification mark usually located on the convex side at the wide taper end of the tile, the most common of which are: \"C.E. SA\u00d1UDO MADE IN CUBA\"; \"JAIME MADE IN CUBA\"; \"FLORIDO\"; \"st ANA R.S.\"; \"St. FELIPE\"; \"MIA\"; \"CPS\"; \"C\"; \"D\"; \"DD\"; \"DDD\"; \"M\"; [script] \"M\"; [script] \"JS\"; \"S\"; \"SS\"; \"TZ\"; \"Z\"; \"ZZ\"; \"*\", a nonalphabetical symbol (such as the \"delta\" figure created by three finger-tip impressions in a triangular position), or a distinctive physical characteristic (such as a burlap material impression over the convex surface of the tile or finger-made impression band(s) located across the end lap of the convex surface); and</li>\n<li>Tile not bearing an embossed identification mark, a nonalphabetical symbol or a distinctive physical characteristic(s) listed in Item 1 above but determined by official action of the legally constituted <a class=\"autolink\" href=\"#historic_preservation\">historic preservation</a> board or <a class=\"autolink\" href=\"#historic_preservation\">historic preservation</a> officer of the jurisdiction to be antique Cuban tile of Spanish origin or tile manufactured in preembargo Cuba.</li>\n</ol> \n</li>\n<li> <span class=\"u-font-bold\">Reapplication of historic Cuban tile-method. </span>When a structure which bore historic Cuban tile when originally constructed is reroofed, reapplication of historic Cuban tile, rather than replacement with new contemporary tile, is preferred and shall be encouraged by the building official. When historic Cuban tile is reapplied under the circumstances described above, except as otherwise provided herein, all of the requirements of this code, especially <a class=\"autolink\" href=\"/viewer/florida/fl-building-code-2023/chapter/15/roof-assemblies-and-rooftop-structures#15\">Chapter 15</a> of the <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/florida/fl-building-code-2023\">Florida Building Code</a>, Building</span> relating to roof covering and <a class=\"autolink\" href=\"/viewer/florida/fl-existing-building-code-2023/chapter/4/repairs#401.2\">application</a>, shall apply. In addition, the following reapplication methods shall be observed: \n<ol>\n<li><span class=\"u-font-bold\">Attachment.</span> Historic Cuban tile shall be mortar set or adhesive set to the deck in the same manner as other product <a class=\"autolink\" href=\"/viewer/florida/fl-existing-building-code-2023/chapter/2/definitions#approved\">approved</a> handmade clay barrel tile, in accordance with RAS 120.</li>\n<li><span class=\"u-font-bold\">Use with contemporary tile.</span> Where, during removal, the salvage ratio of the historic Cuban tile is less than 100 percent, it is preferred that the replacement cap tile also be historic Cuban tile. Where this is not practical or possible, during reapplication, the salvaged historic Cuban tile shall be used only as cap tile, and not as pan tile. The historic Cuban tile should always be reapplied to distinctive architectural elements such as walls, parapets and chimneys. Where contemporary barrel tile is used to supplement salvaged historic Cuban tile, the contemporary barrel tile shall be product <a class=\"autolink\" href=\"/viewer/florida/fl-existing-building-code-2023/chapter/2/definitions#approved\">approved</a> and otherwise comply with all the requirements of this code. It is preferred that the contemporary barrel tile, when used as cap tile, be handmade natural clay tile, but, in any event, it shall be the same shape, color and texture as the existing historic Cuban tile. Because the salvage ratio of pan tile is low and because pan tile is much less visible, reapplication of historic Cuban tile as a pan tile is discouraged. Rather, it is preferred that pan tile be contemporary barrel tile of either handmade clay, vitrified clay or cement.</li>\n<li><span class=\"u-font-bold\">Mixing dissimilar tiles.</span> Mixing dissimilar tile styles or shapes, such as an \"S\"-shaped tile with the \"C\"-shaped historic Cuban barrel tile, even on separate roofing surfaces of the same structure, shall be avoided. In no case shall dissimilar tile styles or shapes be permitted on the same roofing surface.</li>\n<li><span class=\"u-font-bold\">Double caps and/or pans on the eave roof line.</span> For reinforcement during routine maintenance and for aesthetic <a class=\"autolink\" href=\"/viewer/florida/fl-existing-building-code-2023/chapter/17/retrofitting#1701.1\">purposes</a>, double caps, double pans or both shall be encouraged on the eave roof line, especially where extant or historical evidence of the original installation indicates the use of this historic technique.</li>\n<li><span class=\"u-font-bold\">Inspection and testing of the installation.</span> Installations of salvaged and reapplied historic Cuban tile, as are specifically permitted in this section, shall be subject to each and every inspection and test otherwise required in this code for a barrel tile mortar set or adhesive set installation.</li>\n</ol> \n</li>\n<li><span class=\"u-font-bold\">Exemption from product control and testing requirements. </span>Historic Cuban tile, when salvaged and reapplied, as otherwise provided in this section, to a roof that historically bore such material, is exempt from the product approval and preinstallation physical testing requirements of this code. However, the completed installation shall be subject to each and every inspection and test otherwise required of a barrel tile mortar set or adhesive set installation, and, further, if contemporary barrel tile is used to supplement historic Cuban tile, the contemporary tile shall be product <a class=\"autolink\" href=\"/viewer/florida/fl-existing-building-code-2023/chapter/2/definitions#approved\">approved</a> and comply with all requirements of this code.</li>\n</ol></div>",
+                                        "depth": 2,
+                                        "diagrams": [],
+                                        "displayRef": null,
+                                        "displayTitle": "1207.2",
+                                        "hasAssemblies": false,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 0,
+                                        "numDiagramsOnRef": 0,
+                                        "reference": "1207.2",
+                                        "slug": "historic-buildings",
+                                        "titleText": "",
+                                        "children": []
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            "chapterReference": "12"
+        },
+        "__N_SSP": true
+    },
+    "page": "/viewer/[urlFormPubOrJurisKey]/[urlFormPub]/chapter/[chapterRef]/[chapterName]",
+    "query": {
+        "urlFormPubOrJurisKey": "florida",
+        "urlFormPub": "fl-existing-building-code-2023",
+        "chapterRef": "12",
+        "chapterName": "historic-buildings"
+    },
+    "buildId": "1fSFT4-IdVJWcsxmeyZE8",
+    "isFallback": false,
+    "isExperimentalCompile": false,
+    "dynamicIds": [
+        61621,
+        54065
+    ],
+    "gssp": true,
+    "scriptLoader": []
+}

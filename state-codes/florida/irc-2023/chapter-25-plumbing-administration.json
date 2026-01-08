@@ -1,0 +1,1177 @@
+{
+    "props": {
+        "pageProps": {
+            "missingRequiredLogin": false,
+            "title": "Chapter 25 Plumbing Administration: 2023 FBC - Residential, 8<sup>th</sup> edition | UpCodes",
+            "leanChapterViewerData": {
+                "basePubName": "International Residential Code 2021 (IRC 2021)",
+                "codeGroupingYear": "2023",
+                "codeName": "2023 FBC - Residential, 8<sup>th</sup> edition",
+                "codeUuid": "d137ddb4-80ae-4e4b-b3bb-b2a9d0be4288",
+                "codeVersions": [
+                    {
+                        "codeUuid": "d137ddb4-80ae-4e4b-b3bb-b2a9d0be4288",
+                        "name": "Original Adoption",
+                        "effectiveStartDate": "2023-12-31",
+                        "shortformUrlName": "fl-residential-code-2023",
+                        "activeStatus": "active"
+                    }
+                ],
+                "ingesterAmendmentsEnabled": false,
+                "ingesterCodeUnitsEnabled": false,
+                "isAmendStylingEnabled": false,
+                "isCorrespondable": true,
+                "jurisKey": "florida",
+                "jurisName": "Florida",
+                "metaInfoUrl": "/viewer/florida/fl-residential-code-2023",
+                "modelCodeUrl": null,
+                "placeholder": "Search 2023 FBC - Residential, 8th edition",
+                "pubKey": "florida_residential_code_2023",
+                "pubPrefix": "int_residential_code",
+                "shortformPubName": "fl-residential-code-2023",
+                "withAmendments": true,
+                "chapterRef": "25",
+                "publisher": "icc",
+                "hasLinkedResources": false,
+                "initialNonChapterTocLines": [
+                    {
+                        "amendType": null,
+                        "children": [
+                            {
+                                "amendType": null,
+                                "children": [],
+                                "depth": 2,
+                                "displayTitle": "P2501.1 Scope",
+                                "hasExpanderArrow": false,
+                                "href": "#P2501.1",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "reference": "P2501.1"
+                            },
+                            {
+                                "amendType": null,
+                                "children": [],
+                                "depth": 2,
+                                "displayTitle": "P2501.2 Application",
+                                "hasExpanderArrow": false,
+                                "href": "#P2501.2",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "reference": "P2501.2"
+                            }
+                        ],
+                        "depth": 1,
+                        "displayTitle": "P2501 General",
+                        "hasExpanderArrow": true,
+                        "href": "#P2501",
+                        "isCodeDivider": false,
+                        "isCodeDividerClickable": false,
+                        "reference": "P2501"
+                    },
+                    {
+                        "amendType": null,
+                        "children": [
+                            {
+                                "amendType": null,
+                                "children": [],
+                                "depth": 2,
+                                "displayTitle": "P2502.1 Existing Building Sewers and Building Drains",
+                                "hasExpanderArrow": false,
+                                "href": "#P2502.1",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "reference": "P2502.1"
+                            },
+                            {
+                                "amendType": null,
+                                "children": [],
+                                "depth": 2,
+                                "displayTitle": "P2502.2 Additions, Alterations or Repairs",
+                                "hasExpanderArrow": false,
+                                "href": "#P2502.2",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "reference": "P2502.2"
+                            }
+                        ],
+                        "depth": 1,
+                        "displayTitle": "P2502 Existing Plumbing Systems",
+                        "hasExpanderArrow": true,
+                        "href": "#P2502",
+                        "isCodeDivider": false,
+                        "isCodeDividerClickable": false,
+                        "reference": "P2502"
+                    },
+                    {
+                        "amendType": null,
+                        "children": [
+                            {
+                                "amendType": null,
+                                "children": [],
+                                "depth": 2,
+                                "displayTitle": "P2503.1 Inspection Required",
+                                "hasExpanderArrow": false,
+                                "href": "#P2503.1",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "reference": "P2503.1"
+                            },
+                            {
+                                "amendType": null,
+                                "children": [],
+                                "depth": 2,
+                                "displayTitle": "P2503.2 Concealment",
+                                "hasExpanderArrow": false,
+                                "href": "#P2503.2",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "reference": "P2503.2"
+                            },
+                            {
+                                "amendType": null,
+                                "children": [],
+                                "depth": 2,
+                                "displayTitle": "P2503.3 Responsibility of Permittee",
+                                "hasExpanderArrow": false,
+                                "href": "#P2503.3",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "reference": "P2503.3"
+                            },
+                            {
+                                "amendType": null,
+                                "children": [],
+                                "depth": 2,
+                                "displayTitle": "P2503.4 Building Sewer Testing",
+                                "hasExpanderArrow": false,
+                                "href": "#P2503.4",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "reference": "P2503.4"
+                            },
+                            {
+                                "amendType": null,
+                                "children": [
+                                    {
+                                        "amendType": null,
+                                        "children": [],
+                                        "depth": 3,
+                                        "displayTitle": "P2503.5.1 Rough Plumbing",
+                                        "hasExpanderArrow": false,
+                                        "href": "#P2503.5.1",
+                                        "isCodeDivider": false,
+                                        "isCodeDividerClickable": false,
+                                        "reference": "P2503.5.1"
+                                    },
+                                    {
+                                        "amendType": null,
+                                        "children": [],
+                                        "depth": 3,
+                                        "displayTitle": "P2503.5.2 Finished Plumbing",
+                                        "hasExpanderArrow": false,
+                                        "href": "#P2503.5.2",
+                                        "isCodeDivider": false,
+                                        "isCodeDividerClickable": false,
+                                        "reference": "P2503.5.2"
+                                    }
+                                ],
+                                "depth": 2,
+                                "displayTitle": "P2503.5 Drain, Waste and Vent Systems Testing",
+                                "hasExpanderArrow": true,
+                                "href": "#P2503.5",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "reference": "P2503.5"
+                            },
+                            {
+                                "amendType": null,
+                                "children": [],
+                                "depth": 2,
+                                "displayTitle": "P2503.6 Shower Liner Test",
+                                "hasExpanderArrow": false,
+                                "href": "#P2503.6",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "reference": "P2503.6"
+                            },
+                            {
+                                "amendType": null,
+                                "children": [],
+                                "depth": 2,
+                                "displayTitle": "P2503.7 Water-Supply System Testing",
+                                "hasExpanderArrow": false,
+                                "href": "#P2503.7",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "reference": "P2503.7"
+                            },
+                            {
+                                "amendType": null,
+                                "children": [
+                                    {
+                                        "amendType": null,
+                                        "children": [],
+                                        "depth": 3,
+                                        "displayTitle": "P2503.8.1 Inspections",
+                                        "hasExpanderArrow": false,
+                                        "href": "#P2503.8.1",
+                                        "isCodeDivider": false,
+                                        "isCodeDividerClickable": false,
+                                        "reference": "P2503.8.1"
+                                    },
+                                    {
+                                        "amendType": null,
+                                        "children": [],
+                                        "depth": 3,
+                                        "displayTitle": "P2503.8.2 Testing",
+                                        "hasExpanderArrow": false,
+                                        "href": "#P2503.8.2",
+                                        "isCodeDivider": false,
+                                        "isCodeDividerClickable": false,
+                                        "reference": "P2503.8.2"
+                                    }
+                                ],
+                                "depth": 2,
+                                "displayTitle": "P2503.8 Inspection and Testing of Backflow Prevention Devices",
+                                "hasExpanderArrow": true,
+                                "href": "#P2503.8",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "reference": "P2503.8"
+                            },
+                            {
+                                "amendType": null,
+                                "children": [],
+                                "depth": 2,
+                                "displayTitle": "P2503.9 Test Gauges",
+                                "hasExpanderArrow": false,
+                                "href": "#P2503.9",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "reference": "P2503.9"
+                            }
+                        ],
+                        "depth": 1,
+                        "displayTitle": "P2503 Inspection and Tests",
+                        "hasExpanderArrow": true,
+                        "href": "#P2503",
+                        "isCodeDivider": false,
+                        "isCodeDividerClickable": false,
+                        "reference": "P2503"
+                    }
+                ],
+                "title": "Chapter 25 Plumbing Administration: 2023 FBC - Residential, 8<sup>th</sup> edition | UpCodes",
+                "leanChapterLines": [
+                    {
+                        "displayTitle": "Part I Administrative",
+                        "isCodeDivider": true,
+                        "reference": "divider_0_I",
+                        "slug": "administrative"
+                    },
+                    {
+                        "displayTitle": "Chapter 1 Scope and Administration",
+                        "isExpandable": true,
+                        "reference": "1",
+                        "slug": "scope-and-administration"
+                    },
+                    {
+                        "displayTitle": "Part II Definitions",
+                        "isCodeDivider": true,
+                        "reference": "divider_0_II",
+                        "slug": "definitions"
+                    },
+                    {
+                        "displayTitle": "Chapter 2 Definitions",
+                        "isExpandable": true,
+                        "reference": "2",
+                        "slug": "definitions"
+                    },
+                    {
+                        "displayTitle": "Part III Building Planning and Construction",
+                        "isCodeDivider": true,
+                        "reference": "divider_0_III",
+                        "slug": "building-planning-and-construction"
+                    },
+                    {
+                        "displayTitle": "Chapter 3 Building Planning",
+                        "isExpandable": true,
+                        "reference": "3",
+                        "slug": "building-planning"
+                    },
+                    {
+                        "displayTitle": "Chapter 4 Foundations",
+                        "isExpandable": true,
+                        "reference": "4",
+                        "slug": "foundations"
+                    },
+                    {
+                        "displayTitle": "Chapter 5 Floors",
+                        "isExpandable": true,
+                        "reference": "5",
+                        "slug": "floors"
+                    },
+                    {
+                        "displayTitle": "Chapter 6 Wall Construction",
+                        "isExpandable": true,
+                        "reference": "6",
+                        "slug": "wall-construction"
+                    },
+                    {
+                        "displayTitle": "Chapter 7 Wall Covering",
+                        "isExpandable": true,
+                        "reference": "7",
+                        "slug": "wall-covering"
+                    },
+                    {
+                        "displayTitle": "Chapter 8 Roof-Ceiling Construction",
+                        "isExpandable": true,
+                        "reference": "8",
+                        "slug": "roof-ceiling-construction"
+                    },
+                    {
+                        "displayTitle": "Chapter 9 Roof Assemblies",
+                        "isExpandable": true,
+                        "reference": "9",
+                        "slug": "roof-assemblies"
+                    },
+                    {
+                        "displayTitle": "Chapter 10 Chimneys and Fireplaces",
+                        "isExpandable": true,
+                        "reference": "10",
+                        "slug": "chimneys-and-fireplaces"
+                    },
+                    {
+                        "displayTitle": "Part IV Energy Conservation",
+                        "isCodeDivider": true,
+                        "reference": "divider_0_IV",
+                        "slug": "energy-conservation"
+                    },
+                    {
+                        "displayTitle": "Chapter 11 [RE] Energy Efficiency",
+                        "isExpandable": true,
+                        "reference": "11",
+                        "slug": "re-energy-efficiency"
+                    },
+                    {
+                        "displayTitle": "Part V Mechanical",
+                        "isCodeDivider": true,
+                        "reference": "divider_0_V",
+                        "slug": "mechanical"
+                    },
+                    {
+                        "displayTitle": "Chapter 12 Mechanical Administration",
+                        "isExpandable": true,
+                        "reference": "12",
+                        "slug": "mechanical-administration"
+                    },
+                    {
+                        "displayTitle": "Chapter 13 General Mechanical System Requirements",
+                        "isExpandable": true,
+                        "reference": "13",
+                        "slug": "general-mechanical-system-requirements"
+                    },
+                    {
+                        "displayTitle": "Chapter 14 Heating and Cooling Equipment and Appliances",
+                        "isExpandable": true,
+                        "reference": "14",
+                        "slug": "heating-and-cooling-equipment-and-appliances"
+                    },
+                    {
+                        "displayTitle": "Chapter 15 Exhaust Systems",
+                        "isExpandable": true,
+                        "reference": "15",
+                        "slug": "exhaust-systems"
+                    },
+                    {
+                        "displayTitle": "Chapter 16 Duct Systems",
+                        "isExpandable": true,
+                        "reference": "16",
+                        "slug": "duct-systems"
+                    },
+                    {
+                        "displayTitle": "Chapter 17 Combustion Air",
+                        "isExpandable": true,
+                        "reference": "17",
+                        "slug": "combustion-air"
+                    },
+                    {
+                        "displayTitle": "Chapter 18 Chimneys and Vents",
+                        "isExpandable": true,
+                        "reference": "18",
+                        "slug": "chimneys-and-vents"
+                    },
+                    {
+                        "displayTitle": "Chapter 19 Special Appliances, Equipment and Systems",
+                        "isExpandable": true,
+                        "reference": "19",
+                        "slug": "special-appliances-equipment-and-systems"
+                    },
+                    {
+                        "displayTitle": "Chapter 20 Boilers and Water Heaters",
+                        "isExpandable": true,
+                        "reference": "20",
+                        "slug": "boilers-and-water-heaters"
+                    },
+                    {
+                        "displayTitle": "Chapter 21 Hydronic Piping",
+                        "isExpandable": true,
+                        "reference": "21",
+                        "slug": "hydronic-piping"
+                    },
+                    {
+                        "displayTitle": "Chapter 22 Special Piping and Storage Systems",
+                        "isExpandable": true,
+                        "reference": "22",
+                        "slug": "special-piping-and-storage-systems"
+                    },
+                    {
+                        "displayTitle": "Chapter 23 Solar Thermal Energy Systems",
+                        "isExpandable": true,
+                        "reference": "23",
+                        "slug": "solar-thermal-energy-systems"
+                    },
+                    {
+                        "displayTitle": "Part VI Fuel Gas",
+                        "isCodeDivider": true,
+                        "reference": "divider_0_VI",
+                        "slug": "fuel-gas"
+                    },
+                    {
+                        "displayTitle": "Chapter 24 Fuel Gas",
+                        "isExpandable": true,
+                        "reference": "24",
+                        "slug": "fuel-gas"
+                    },
+                    {
+                        "displayTitle": "Part VII Plumbing",
+                        "isCodeDivider": true,
+                        "reference": "divider_0_VII",
+                        "slug": "plumbing"
+                    },
+                    {
+                        "displayTitle": "Chapter 25 Plumbing Administration",
+                        "isExpandable": true,
+                        "reference": "25",
+                        "slug": "plumbing-administration"
+                    },
+                    {
+                        "displayTitle": "Chapter 26 General Plumbing Requirements",
+                        "isExpandable": true,
+                        "reference": "26",
+                        "slug": "general-plumbing-requirements"
+                    },
+                    {
+                        "displayTitle": "Chapter 27 Plumbing Fixtures",
+                        "isExpandable": true,
+                        "reference": "27",
+                        "slug": "plumbing-fixtures"
+                    },
+                    {
+                        "displayTitle": "Chapter 28 Water Heaters",
+                        "isExpandable": true,
+                        "reference": "28",
+                        "slug": "water-heaters"
+                    },
+                    {
+                        "displayTitle": "Chapter 29 Water Supply and Distribution",
+                        "isExpandable": true,
+                        "reference": "29",
+                        "slug": "water-supply-and-distribution"
+                    },
+                    {
+                        "displayTitle": "Chapter 30 Sanitary Drainage",
+                        "isExpandable": true,
+                        "reference": "30",
+                        "slug": "sanitary-drainage"
+                    },
+                    {
+                        "displayTitle": "Chapter 31 Vents",
+                        "isExpandable": true,
+                        "reference": "31",
+                        "slug": "vents"
+                    },
+                    {
+                        "displayTitle": "Chapter 32 Traps",
+                        "isExpandable": true,
+                        "reference": "32",
+                        "slug": "traps"
+                    },
+                    {
+                        "displayTitle": "Chapter 33 Storm Drainage",
+                        "isExpandable": true,
+                        "reference": "33",
+                        "slug": "storm-drainage"
+                    },
+                    {
+                        "displayTitle": "Part VIII Electrical",
+                        "isCodeDivider": true,
+                        "reference": "divider_0_VIII",
+                        "slug": "electrical"
+                    },
+                    {
+                        "displayTitle": "Chapter 34 General Requirements",
+                        "isExpandable": true,
+                        "reference": "34",
+                        "slug": "general-requirements"
+                    },
+                    {
+                        "displayTitle": "Chapter 35 Electrical Definitions",
+                        "reference": "35",
+                        "slug": "electrical-definitions"
+                    },
+                    {
+                        "displayTitle": "Chapter 36 Services",
+                        "reference": "36",
+                        "slug": "services"
+                    },
+                    {
+                        "displayTitle": "Chapter 37 Branch Circuit and Feeder Requirements",
+                        "reference": "37",
+                        "slug": "branch-circuit-and-feeder-requirements"
+                    },
+                    {
+                        "displayTitle": "Chapter 38 Wiring Methods",
+                        "reference": "38",
+                        "slug": "wiring-methods"
+                    },
+                    {
+                        "displayTitle": "Chapter 39 Power and Lighting Distribution",
+                        "reference": "39",
+                        "slug": "power-and-lighting-distribution"
+                    },
+                    {
+                        "displayTitle": "Chapter 40 Devices and Luminaires",
+                        "reference": "40",
+                        "slug": "devices-and-luminaires"
+                    },
+                    {
+                        "displayTitle": "Chapter 41 Appliance Installation",
+                        "reference": "41",
+                        "slug": "appliance-installation"
+                    },
+                    {
+                        "displayTitle": "Chapter 42 Swimming Pools [Electrical Provisions]",
+                        "reference": "42",
+                        "slug": "swimming-pools-electrical-provisions"
+                    },
+                    {
+                        "displayTitle": "Chapter 43 Class 2 Remote-Control, Signaling and Power-Limited Circuits",
+                        "reference": "43",
+                        "slug": "class-2-remote-control-signaling-and-power-limited-circuits"
+                    },
+                    {
+                        "displayTitle": "Chapter 44 High-Velocity Hurricane Zones",
+                        "isExpandable": true,
+                        "reference": "44",
+                        "slug": "high-velocity-hurricane-zones"
+                    },
+                    {
+                        "displayTitle": "Chapter 45 Private Swimming Pools",
+                        "isExpandable": true,
+                        "reference": "45",
+                        "slug": "private-swimming-pools"
+                    },
+                    {
+                        "displayTitle": "Part IX Referenced Standards",
+                        "isCodeDivider": true,
+                        "reference": "divider_0_IX",
+                        "slug": "referenced-standards"
+                    },
+                    {
+                        "displayTitle": "Chapter 46 Referenced Standards",
+                        "reference": "46",
+                        "slug": "referenced-standards"
+                    },
+                    {
+                        "disabled": true,
+                        "displayTitle": "Appendix A Sizing and Capacities of Gas Piping",
+                        "reference": "A",
+                        "slug": "sizing-and-capacities-of-gas-piping"
+                    },
+                    {
+                        "disabled": true,
+                        "displayTitle": "Appendix B Sizing of Venting Systems Serving Appliances Equipped With Draft Hoods, Category I Appliances, and Appliances Listed for Use With Type B Vents",
+                        "reference": "B",
+                        "slug": "sizing-of-venting-systems-serving-appliances-equipped-with-draft-hoods-category"
+                    },
+                    {
+                        "disabled": true,
+                        "displayTitle": "Appendix C Exit Terminals of Mechanical Draft and Direct-Vent Venting Systems",
+                        "reference": "C",
+                        "slug": "exit-terminals-of-mechanical-draft-and-direct-vent-venting-systems"
+                    },
+                    {
+                        "disabled": true,
+                        "displayTitle": "Appendix D Recommended Procedure for Safety Inspection of an Existing Appliance Installation",
+                        "reference": "D",
+                        "slug": "recommended-procedure-for-safety-inspection-of-an-existing-appliance-installatio"
+                    },
+                    {
+                        "displayTitle": "Appendix E Florida Standard for Mitigation of Radon in Existing Buildings",
+                        "isExpandable": true,
+                        "reference": "E",
+                        "slug": "florida-standard-for-mitigation-of-radon-in-existing-buildings"
+                    },
+                    {
+                        "displayTitle": "Appendix F Florida Standard for Passive Radon-Resistant New Residential Building Construction",
+                        "isExpandable": true,
+                        "reference": "F",
+                        "slug": "florida-standard-for-passive-radon-resistant-new-residential-building-constructi"
+                    },
+                    {
+                        "displayTitle": "Appendix G Piping Standards for Various Applications",
+                        "isExpandable": true,
+                        "reference": "G",
+                        "slug": "piping-standards-for-various-applications"
+                    },
+                    {
+                        "disabled": true,
+                        "displayTitle": "Appendix H Patio Covers",
+                        "reference": "H",
+                        "slug": "patio-covers"
+                    },
+                    {
+                        "disabled": true,
+                        "displayTitle": "Appendix I Private Sewage Disposal",
+                        "reference": "I",
+                        "slug": "private-sewage-disposal"
+                    },
+                    {
+                        "disabled": true,
+                        "displayTitle": "Appendix J Existing Buildings and Structures",
+                        "reference": "J",
+                        "slug": "existing-buildings-and-structures"
+                    },
+                    {
+                        "disabled": true,
+                        "displayTitle": "Appendix K Sound Transmission",
+                        "reference": "K",
+                        "slug": "sound-transmission"
+                    },
+                    {
+                        "disabled": true,
+                        "displayTitle": "Appendix L Permit Fees",
+                        "reference": "L",
+                        "slug": "permit-fees"
+                    },
+                    {
+                        "disabled": true,
+                        "displayTitle": "Appendix M Home Day Care\u2014R-3 Occupancy",
+                        "reference": "M",
+                        "slug": "home-day-care-r-3-occupancy"
+                    },
+                    {
+                        "disabled": true,
+                        "displayTitle": "Appendix N Venting Methods",
+                        "reference": "N",
+                        "slug": "venting-methods"
+                    },
+                    {
+                        "disabled": true,
+                        "displayTitle": "Appendix O Automatic Vehicular Gates",
+                        "reference": "O",
+                        "slug": "automatic-vehicular-gates"
+                    },
+                    {
+                        "disabled": true,
+                        "displayTitle": "Appendix P Sizing of Water Piping System",
+                        "reference": "P",
+                        "slug": "sizing-of-water-piping-system"
+                    },
+                    {
+                        "displayTitle": "Appendix Q Tiny Houses",
+                        "isExpandable": true,
+                        "reference": "Q",
+                        "slug": "tiny-houses"
+                    },
+                    {
+                        "disabled": true,
+                        "displayTitle": "Appendix R Light Straw-Clay Construction",
+                        "reference": "R",
+                        "slug": "light-straw-clay-construction"
+                    },
+                    {
+                        "disabled": true,
+                        "displayTitle": "Appendix S Strawbale Construction",
+                        "reference": "S",
+                        "slug": "strawbale-construction"
+                    },
+                    {
+                        "disabled": true,
+                        "displayTitle": "Appendix T Recommended Procedure for Worst-Case Testing of Atmospheric Venting Systems Under N1102.4 or N1105 Conditions \u2264 5ach<sub>50</sub>",
+                        "reference": "T",
+                        "slug": "recommended-procedure-for-worst-case-testing-of-atmospheric-venting-systems-unde"
+                    },
+                    {
+                        "disabled": true,
+                        "displayTitle": "Appendix AU Cob Construction (Monolithic Adobe)",
+                        "reference": "AU",
+                        "slug": "cob-construction-monolithic-adobe"
+                    },
+                    {
+                        "displayTitle": "Appendix V Board of Appeals",
+                        "isExpandable": true,
+                        "reference": "V",
+                        "slug": "board-of-appeals"
+                    },
+                    {
+                        "displayTitle": "Appendix W 3D-Printed Building Construction",
+                        "isExpandable": true,
+                        "reference": "W",
+                        "slug": "3d-printed-building-construction"
+                    },
+                    {
+                        "disabled": true,
+                        "displayTitle": "Appendix X Solar-Ready Provisions\u2014Detached One- And Two-Family Dwellings, Multiple Single-Family Dwellings (Townhouses)",
+                        "reference": "X",
+                        "slug": "solar-ready-provisions-detached-one-and-two-family-dwellings-multiple-single-fam"
+                    }
+                ],
+                "leanCodeSectionsTree": [
+                    {
+                        "ancestorRefs": [],
+                        "depth": 0,
+                        "diagrams": [],
+                        "displayRef": null,
+                        "displayTitle": "Chapter 25 Plumbing Administration",
+                        "divisionType": "Chapter",
+                        "hasAssemblies": false,
+                        "isContiguous": true,
+                        "numAssembliesOnRef": 0,
+                        "numBuildingProductsOnRef": 0,
+                        "numDiagramsOnRef": 0,
+                        "reference": "25",
+                        "slug": "plumbing-administration",
+                        "titleText": "Plumbing Administration",
+                        "children": [
+                            {
+                                "ancestorRefs": [
+                                    "25"
+                                ],
+                                "depth": 1,
+                                "diagrams": [],
+                                "displayRef": null,
+                                "displayTitle": "Section P2501 General",
+                                "divisionType": "Section",
+                                "hasAssemblies": false,
+                                "isContiguous": true,
+                                "numAssembliesOnRef": 0,
+                                "numBuildingProductsOnRef": 0,
+                                "numDiagramsOnRef": 0,
+                                "reference": "P2501",
+                                "slug": "plumbing-administration",
+                                "titleText": "General",
+                                "children": [
+                                    {
+                                        "ancestorRefs": [
+                                            "25",
+                                            "P2501"
+                                        ],
+                                        "body": "The provisions of this chapter shall establish the <a class=\"autolink\" href=\"/viewer/florida/fl-residential-code-2023/chapter/Q/tiny-houses#AQ102.1\">general</a> administrative <a class=\"autolink\" href=\"/viewer/florida/fl-residential-code-2023/chapter/4/foundations#R401.2\">requirements</a> applicable to <a class=\"autolink\" href=\"/viewer/florida/fl-residential-code-2023/chapter/2/definitions#plumbing_systems\">plumbing systems</a> and inspection <a class=\"autolink\" href=\"/viewer/florida/fl-residential-code-2023/chapter/4/foundations#R401.2\">requirements</a> of this code.",
+                                        "depth": 2,
+                                        "diagrams": [],
+                                        "displayRef": null,
+                                        "displayTitle": "P2501.1 Scope",
+                                        "hasAssemblies": false,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 0,
+                                        "numDiagramsOnRef": 0,
+                                        "reference": "P2501.1",
+                                        "slug": "plumbing-administration",
+                                        "titleText": "Scope",
+                                        "children": []
+                                    },
+                                    {
+                                        "ancestorRefs": [
+                                            "25",
+                                            "P2501"
+                                        ],
+                                        "body": "In addition to the <a class=\"autolink\" href=\"/viewer/florida/fl-residential-code-2023/chapter/Q/tiny-houses#AQ102.1\">general</a> administration <a class=\"autolink\" href=\"/viewer/florida/fl-residential-code-2023/chapter/4/foundations#R401.2\">requirements</a> of <a class=\"autolink\" href=\"/viewer/florida/fl-residential-code-2023/chapter/1/scope-and-administration#1\">Chapter 1</a>, the administrative provisions of this chapter shall also apply to the <a class=\"autolink\" href=\"/viewer/florida/fl-residential-code-2023/chapter/2/definitions#plumbing\">plumbing</a> <a class=\"autolink\" href=\"/viewer/florida/fl-residential-code-2023/chapter/4/foundations#R401.2\">requirements</a> of Chapters <a class=\"autolink\" href=\"#25\">25</a> through <a class=\"autolink\" href=\"/viewer/florida/fl-residential-code-2023/chapter/33/storm-drainage#33\">33</a>.",
+                                        "depth": 2,
+                                        "diagrams": [],
+                                        "displayRef": null,
+                                        "displayTitle": "P2501.2 Application",
+                                        "hasAssemblies": false,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 0,
+                                        "numDiagramsOnRef": 0,
+                                        "reference": "P2501.2",
+                                        "slug": "plumbing-administration",
+                                        "titleText": "Application",
+                                        "children": []
+                                    }
+                                ]
+                            },
+                            {
+                                "ancestorRefs": [
+                                    "25"
+                                ],
+                                "depth": 1,
+                                "diagrams": [],
+                                "displayRef": null,
+                                "displayTitle": "Section P2502 Existing Plumbing Systems",
+                                "divisionType": "Section",
+                                "hasAssemblies": false,
+                                "isContiguous": true,
+                                "numAssembliesOnRef": 0,
+                                "numBuildingProductsOnRef": 0,
+                                "numDiagramsOnRef": 0,
+                                "reference": "P2502",
+                                "slug": "plumbing-administration",
+                                "titleText": "Existing Plumbing Systems",
+                                "children": [
+                                    {
+                                        "ancestorRefs": [
+                                            "25",
+                                            "P2502"
+                                        ],
+                                        "body": "Where the entire sanitary <a class=\"autolink\" href=\"/viewer/florida/fl-residential-code-2023/chapter/4/foundations#R401.3\">drainage</a> system of an <a class=\"autolink\" href=\"/viewer/florida/fl-residential-code-2023/chapter/2/definitions#building_existing\">existing building</a> is replaced, existing <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/florida/fl-residential-code-2023/chapter/2/definitions#building_drain\">building drains</a></span> under <a class=\"autolink\" href=\"/viewer/florida/fl-residential-code-2023/chapter/2/definitions#concrete_masonry_unit\">concrete</a> slabs and existing <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/florida/fl-residential-code-2023/chapter/2/definitions#building_sewer\">building sewers</a></span> that will serve the new system shall be internally examined to verify that the <a class=\"autolink\" href=\"/viewer/florida/fl-residential-code-2023/chapter/24/fuel-gas#piping\">piping</a> is sloping in the correct direction, is not broken, is not obstructed and is sized for the <a class=\"autolink\" href=\"/viewer/florida/fl-residential-code-2023/chapter/4/foundations#R401.3\">drainage</a> load of the new <a class=\"autolink\" href=\"/viewer/florida/fl-residential-code-2023/chapter/2/definitions#plumbing\">plumbing</a> <a class=\"autolink\" href=\"/viewer/florida/fl-residential-code-2023/chapter/4/foundations#R401.3\">drainage</a> system to be installed.",
+                                        "depth": 2,
+                                        "diagrams": [],
+                                        "displayRef": null,
+                                        "displayTitle": "P2502.1 Existing Building Sewers and Building Drains",
+                                        "hasAssemblies": false,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 0,
+                                        "numDiagramsOnRef": 0,
+                                        "reference": "P2502.1",
+                                        "slug": "plumbing-administration",
+                                        "titleText": "Existing Building Sewers and Building Drains",
+                                        "children": []
+                                    },
+                                    {
+                                        "ancestorRefs": [
+                                            "25",
+                                            "P2502"
+                                        ],
+                                        "body": "<div class=\"u-mb-3\"><a class=\"autolink\" href=\"/viewer/florida/fl-residential-code-2023/chapter/F/florida-standard-for-passive-radon-resistant-new-residential-building-constructi#addition\">Additions</a>, <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/florida/fl-residential-code-2023/chapter/2/definitions#alteration\">alterations</a></span>, renovations or repairs to any <a class=\"autolink\" href=\"/viewer/florida/fl-residential-code-2023/chapter/2/definitions#plumbing\">plumbing</a> system shall conform to that required for a new <a class=\"autolink\" href=\"/viewer/florida/fl-residential-code-2023/chapter/2/definitions#plumbing\">plumbing</a> system without requiring the existing <a class=\"autolink\" href=\"/viewer/florida/fl-residential-code-2023/chapter/2/definitions#plumbing\">plumbing</a> system to comply with the <a class=\"autolink\" href=\"/viewer/florida/fl-residential-code-2023/chapter/4/foundations#R401.2\">requirements</a> of this code. <a class=\"autolink\" href=\"/viewer/florida/fl-residential-code-2023/chapter/F/florida-standard-for-passive-radon-resistant-new-residential-building-constructi#addition\">Additions</a>, <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/florida/fl-residential-code-2023/chapter/2/definitions#alteration\">alterations</a></span> or repairs shall not cause an existing system to become unsafe, insanitary or overloaded.</div><div class=\"u-indent-6 u-mt-3\">Minor <a class=\"autolink\" href=\"/viewer/florida/fl-residential-code-2023/chapter/F/florida-standard-for-passive-radon-resistant-new-residential-building-constructi#addition\">additions</a>, <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/florida/fl-residential-code-2023/chapter/2/definitions#alteration\">alterations</a></span>, renovations and repairs to existing <a class=\"autolink\" href=\"/viewer/florida/fl-residential-code-2023/chapter/2/definitions#plumbing_systems\">plumbing systems</a> shall be permitted in the same manner and arrangement as in the existing system, provided that such repairs or replacement are not hazardous and are <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/florida/fl-residential-code-2023/chapter/45/private-swimming-pools#approved\">approved</a></span>.</div>",
+                                        "depth": 2,
+                                        "diagrams": [],
+                                        "displayRef": null,
+                                        "displayTitle": "P2502.2 Additions, Alterations or Repairs",
+                                        "hasAssemblies": false,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 0,
+                                        "numDiagramsOnRef": 0,
+                                        "reference": "P2502.2",
+                                        "slug": "plumbing-administration",
+                                        "titleText": "Additions, Alterations or Repairs",
+                                        "children": []
+                                    }
+                                ]
+                            },
+                            {
+                                "ancestorRefs": [
+                                    "25"
+                                ],
+                                "depth": 1,
+                                "diagrams": [],
+                                "displayRef": null,
+                                "displayTitle": "Section P2503 Inspection and Tests",
+                                "divisionType": "Section",
+                                "hasAssemblies": false,
+                                "isContiguous": true,
+                                "numAssembliesOnRef": 0,
+                                "numBuildingProductsOnRef": 0,
+                                "numDiagramsOnRef": 0,
+                                "reference": "P2503",
+                                "slug": "plumbing-administration",
+                                "titleText": "Inspection and Tests",
+                                "children": [
+                                    {
+                                        "ancestorRefs": [
+                                            "25",
+                                            "P2503"
+                                        ],
+                                        "body": "New <a class=\"autolink\" href=\"/viewer/florida/fl-residential-code-2023/chapter/2/definitions#plumbing\">plumbing</a> work and parts of existing systems affected by new work or <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/florida/fl-residential-code-2023/chapter/2/definitions#alteration\">alterations</a></span> shall be inspected by the <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/florida/fl-residential-code-2023/chapter/2/definitions#building_official\">building official</a></span> to ensure compliance with the <a class=\"autolink\" href=\"/viewer/florida/fl-residential-code-2023/chapter/4/foundations#R401.2\">requirements</a> of this code.",
+                                        "depth": 2,
+                                        "diagrams": [],
+                                        "displayRef": null,
+                                        "displayTitle": "P2503.1 Inspection Required",
+                                        "hasAssemblies": false,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 0,
+                                        "numDiagramsOnRef": 0,
+                                        "reference": "P2503.1",
+                                        "slug": "plumbing-administration",
+                                        "titleText": "Inspection Required",
+                                        "children": []
+                                    },
+                                    {
+                                        "ancestorRefs": [
+                                            "25",
+                                            "P2503"
+                                        ],
+                                        "body": "A <a class=\"autolink\" href=\"/viewer/florida/fl-residential-code-2023/chapter/2/definitions#plumbing\">plumbing</a> or <a class=\"autolink\" href=\"/viewer/florida/fl-residential-code-2023/chapter/4/foundations#R401.3\">drainage</a> system, or part thereof, shall not be covered, concealed or put into use until it has been tested, inspected and <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/florida/fl-residential-code-2023/chapter/45/private-swimming-pools#approved\">approved</a></span> by the <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/florida/fl-residential-code-2023/chapter/2/definitions#building_official\">building official</a></span>.",
+                                        "depth": 2,
+                                        "diagrams": [],
+                                        "displayRef": null,
+                                        "displayTitle": "P2503.2 Concealment",
+                                        "hasAssemblies": false,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 0,
+                                        "numDiagramsOnRef": 0,
+                                        "reference": "P2503.2",
+                                        "slug": "plumbing-administration",
+                                        "titleText": "Concealment",
+                                        "children": []
+                                    },
+                                    {
+                                        "ancestorRefs": [
+                                            "25",
+                                            "P2503"
+                                        ],
+                                        "body": "Test <a class=\"autolink\" href=\"/viewer/florida/fl-residential-code-2023/chapter/2/definitions#equipment\">equipment</a>, materials and labor shall be furnished by the permittee.",
+                                        "depth": 2,
+                                        "diagrams": [],
+                                        "displayRef": null,
+                                        "displayTitle": "P2503.3 Responsibility of Permittee",
+                                        "hasAssemblies": false,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 0,
+                                        "numDiagramsOnRef": 0,
+                                        "reference": "P2503.3",
+                                        "slug": "plumbing-administration",
+                                        "titleText": "Responsibility of Permittee",
+                                        "children": []
+                                    },
+                                    {
+                                        "ancestorRefs": [
+                                            "25",
+                                            "P2503"
+                                        ],
+                                        "body": "<div class=\"u-mb-3\">The <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/florida/fl-residential-code-2023/chapter/2/definitions#building_sewer\">building sewer</a></span> shall be tested by insertion of a test plug at the point of connection with the <a class=\"autolink\" href=\"/viewer/florida/fl-residential-code-2023/chapter/2/definitions#public_sewer\">public sewer</a>, completely filling the <a class=\"autolink\" href=\"/viewer/florida/fl-residential-code-2023/chapter/2/definitions#building_sewer\">building sewer</a> with water from the lowest to the highest point thereof. The test pressure shall not decrease during a period of not less than 15 minutes. The <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/florida/fl-residential-code-2023/chapter/2/definitions#building_sewer\">building sewer</a></span> shall be watertight at all points.</div><div class=\"u-indent-6 u-mt-3\">A forced sewer test shall consist of pressurizing the <a class=\"autolink\" href=\"/viewer/florida/fl-residential-code-2023/chapter/24/fuel-gas#piping\">piping</a> to a pressure of not less than 5 psi (34.5 kPa) greater than the pump rating and maintaining such pressure for not less than 15 minutes. The forced sewer shall be watertight at all points.</div>",
+                                        "depth": 2,
+                                        "diagrams": [],
+                                        "displayRef": null,
+                                        "displayTitle": "P2503.4 Building Sewer Testing",
+                                        "hasAssemblies": false,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 0,
+                                        "numDiagramsOnRef": 0,
+                                        "reference": "P2503.4",
+                                        "slug": "plumbing-administration",
+                                        "titleText": "Building Sewer Testing",
+                                        "children": []
+                                    },
+                                    {
+                                        "ancestorRefs": [
+                                            "25",
+                                            "P2503"
+                                        ],
+                                        "body": "<a class=\"autolink\" href=\"/viewer/florida/fl-residential-code-2023/chapter/2/definitions#rough-in\">Rough-in</a> and finished <a class=\"autolink\" href=\"/viewer/florida/fl-residential-code-2023/chapter/2/definitions#plumbing\">plumbing</a> <a class=\"autolink\" href=\"/viewer/florida/fl-residential-code-2023/chapter/14/heating-and-cooling-equipment-and-appliances#M1401.1\">installations</a> of <a class=\"autolink\" href=\"/viewer/florida/fl-residential-code-2023/chapter/2/definitions#drain\">drain</a>, <a class=\"autolink\" href=\"/viewer/florida/fl-residential-code-2023/chapter/2/definitions#waste\">waste</a> and <a class=\"autolink\" href=\"/viewer/florida/fl-residential-code-2023/chapter/2/definitions#vent_system\">vent systems</a> shall be tested in accordance with Sections <a class=\"autolink\" href=\"#P2503.5.1\">P2503.5.1</a> and <a class=\"autolink\" href=\"#P2503.5.2\">P2503.5.2</a>.",
+                                        "depth": 2,
+                                        "diagrams": [],
+                                        "displayRef": null,
+                                        "displayTitle": "P2503.5 Drain, Waste and Vent Systems Testing",
+                                        "hasAssemblies": false,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 0,
+                                        "numDiagramsOnRef": 0,
+                                        "reference": "P2503.5",
+                                        "slug": "plumbing-administration",
+                                        "titleText": "Drain, Waste and Vent Systems Testing",
+                                        "children": [
+                                            {
+                                                "ancestorRefs": [
+                                                    "25",
+                                                    "P2503",
+                                                    "P2503.5"
+                                                ],
+                                                "body": "<div class=\"u-mb-3\">DWV systems shall be tested on completion of the rough <a class=\"autolink\" href=\"/viewer/florida/fl-residential-code-2023/chapter/24/fuel-gas#piping\">piping</a> <a class=\"autolink\" href=\"/viewer/florida/fl-residential-code-2023/chapter/14/heating-and-cooling-equipment-and-appliances#M1401.1\">installation</a> by water, air for <a class=\"autolink\" href=\"/viewer/florida/fl-residential-code-2023/chapter/24/fuel-gas#piping_system\">piping systems</a> other than <a class=\"autolink\" href=\"/viewer/florida/fl-residential-code-2023/chapter/24/fuel-gas#plastic_thermoplastic\">plastic</a>, or by a vacuum of air for <a class=\"autolink\" href=\"/viewer/florida/fl-residential-code-2023/chapter/24/fuel-gas#plastic_thermoplastic\">plastic</a> <a class=\"autolink\" href=\"/viewer/florida/fl-residential-code-2023/chapter/24/fuel-gas#piping_system\">piping systems</a>, without evidence of leakage. The test shall be applied to the <a class=\"autolink\" href=\"/viewer/florida/fl-residential-code-2023/chapter/4/foundations#R401.3\">drainage</a> system in its entirety or in sections after <a class=\"autolink\" href=\"/viewer/florida/fl-residential-code-2023/chapter/2/definitions#rough-in\">rough-in</a> <a class=\"autolink\" href=\"/viewer/florida/fl-residential-code-2023/chapter/24/fuel-gas#piping\">piping</a> has been installed, as follows:</div><ol><li>Water test. Each section shall be filled with water to a point not less than 5 feet (1524 mm) above the highest fitting connection in that section, or to the highest point in the completed system. Water shall be held in the section under test for a period of <a class=\"autolink\" href=\"/viewer/florida/fl-residential-code-2023/chapter/15/exhaust-systems#15\">15</a> minutes. The system shall prove leak free by visual inspection.</li><li>Air test. The portion under test shall be maintained at a gauge pressure of 5 pounds per square inch (psi) (34 kPa) or 10 inches of mercury column (34 kPa). This pressure shall be held without introduction of additional air for a period of 15 minutes.</li><li>Vacuum Test. The portion under test shall be evacuated of air by a vacuum type pump to achieve a uniform gauge pressure of -5 pounds per square inch or a negative 10-inches of mercury column (-34 kPa). This pressure shall be held without the removal of additional air for a period of 15 minutes.</li></ol>",
+                                                "depth": 3,
+                                                "diagrams": [],
+                                                "displayRef": null,
+                                                "displayTitle": "P2503.5.1 Rough Plumbing",
+                                                "hasAssemblies": false,
+                                                "isContiguous": true,
+                                                "numAssembliesOnRef": 0,
+                                                "numBuildingProductsOnRef": 0,
+                                                "numDiagramsOnRef": 0,
+                                                "reference": "P2503.5.1",
+                                                "slug": "plumbing-administration",
+                                                "titleText": "Rough Plumbing",
+                                                "children": []
+                                            },
+                                            {
+                                                "ancestorRefs": [
+                                                    "25",
+                                                    "P2503",
+                                                    "P2503.5"
+                                                ],
+                                                "body": "<div class=\"u-mb-3\">After the <a class=\"autolink\" href=\"/viewer/florida/fl-residential-code-2023/chapter/2/definitions#plumbing_fixture\">plumbing fixtures</a> have been set and their <a class=\"autolink\" href=\"/viewer/florida/fl-residential-code-2023/chapter/2/definitions#trap\">traps</a> filled with water, their connections shall be tested and proved gas tight or watertight as follows:</div><div class=\"u-list-dot-separated-deprecated\">\n<ol>\n<li>Water tightness. Each fixture shall be filled and then drained. <a class=\"autolink\" href=\"/viewer/florida/fl-residential-code-2023/chapter/2/definitions#trap\">Traps</a> and fixture connections shall be proven water tight by visual inspection.</li>\n<li> Gas tightness. Where required by the local <a class=\"autolink\" href=\"/viewer/florida/fl-residential-code-2023/chapter/45/private-swimming-pools#administrative_authority\">administrative authority</a>, a final test for gas tightness of the DWV system shall be made by the smoke or peppermint test as follows: \n<ol>\n<li>Smoke test. Introduce a pungent, thick smoke into the system. When the smoke appears at <a class=\"autolink\" href=\"/viewer/florida/fl-residential-code-2023/chapter/24/fuel-gas#vent\">vent</a> terminals, such terminals shall be sealed and a pressure equivalent to a 1-inch water column (249 Pa) shall be applied and maintained for a test period of not less than 15 minutes.</li>\n<li>Peppermint test. Introduce 2 ounces (59 mL) of oil of peppermint into the system. Add 10 quarts (9464 mL) of <a class=\"autolink\" href=\"/viewer/florida/fl-residential-code-2023/chapter/2/definitions#hot_water\">hot water</a> and seal the <a class=\"autolink\" href=\"/viewer/florida/fl-residential-code-2023/chapter/24/fuel-gas#vent\">vent</a> terminals. The odor of peppermint shall not be detected at any <a class=\"autolink\" href=\"/viewer/florida/fl-residential-code-2023/chapter/2/definitions#trap\">trap</a> or other point in the system.</li>\n</ol> \n</li>\n</ol></div>",
+                                                "depth": 3,
+                                                "diagrams": [],
+                                                "displayRef": null,
+                                                "displayTitle": "P2503.5.2 Finished Plumbing",
+                                                "hasAssemblies": false,
+                                                "isContiguous": true,
+                                                "numAssembliesOnRef": 0,
+                                                "numBuildingProductsOnRef": 0,
+                                                "numDiagramsOnRef": 0,
+                                                "reference": "P2503.5.2",
+                                                "slug": "plumbing-administration",
+                                                "titleText": "Finished Plumbing",
+                                                "children": []
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "ancestorRefs": [
+                                            "25",
+                                            "P2503"
+                                        ],
+                                        "body": "Where shower floors and <a class=\"autolink\" href=\"/viewer/florida/fl-residential-code-2023/chapter/45/private-swimming-pools#receptor\">receptors</a> are made water tight by the <a class=\"autolink\" href=\"/viewer/florida/fl-residential-code-2023/chapter/4/foundations#R401.1\">application</a> of materials required by <a class=\"autolink\" href=\"/viewer/florida/fl-residential-code-2023/chapter/27/plumbing-fixtures#P2709.2\">Section P2709.2</a>, the completed liner <a class=\"autolink\" href=\"/viewer/florida/fl-residential-code-2023/chapter/14/heating-and-cooling-equipment-and-appliances#M1401.1\">installation</a> shall be tested. The <a class=\"autolink\" href=\"/viewer/florida/fl-residential-code-2023/chapter/24/fuel-gas#pipe_piping\">pipe</a> from the shower <a class=\"autolink\" href=\"/viewer/florida/fl-residential-code-2023/chapter/2/definitions#drain\">drain</a> shall be plugged water tight for the test. The floor and <a class=\"autolink\" href=\"/viewer/florida/fl-residential-code-2023/chapter/45/private-swimming-pools#receptor\">receptor</a> area shall be filled with <a class=\"autolink\" href=\"/viewer/florida/fl-residential-code-2023/chapter/2/definitions#potable_water\">potable water</a> to a depth of not less than 2 inches (51 mm) measured at the threshold. Where a threshold of not less than 2 inches (51 mm) in height does not exist, a temporary threshold shall be constructed to retain the test water in the lined floor or <a class=\"autolink\" href=\"/viewer/florida/fl-residential-code-2023/chapter/45/private-swimming-pools#receptor\">receptor</a> area to a level not less than 2 inches (51 mm) in depth measured at the threshold. The water shall be retained for a test period of not less than 15 minutes and there shall not be evidence of leakage.",
+                                        "depth": 2,
+                                        "diagrams": [],
+                                        "displayRef": null,
+                                        "displayTitle": "P2503.6 Shower Liner Test",
+                                        "hasAssemblies": false,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 0,
+                                        "numDiagramsOnRef": 0,
+                                        "reference": "P2503.6",
+                                        "slug": "plumbing-administration",
+                                        "titleText": "Shower Liner Test",
+                                        "children": []
+                                    },
+                                    {
+                                        "ancestorRefs": [
+                                            "25",
+                                            "P2503"
+                                        ],
+                                        "body": "<div class=\"u-mb-3\">Upon completion of the <a class=\"autolink\" href=\"/viewer/florida/fl-residential-code-2023/chapter/45/private-swimming-pools#R4501.9\">water-supply</a> system or a section of it, the system or portion completed shall be tested and proved tight under a water pressure of not less than the working pressure of the system or, for <a class=\"autolink\" href=\"/viewer/florida/fl-residential-code-2023/chapter/24/fuel-gas#piping_system\">piping systems</a> other than plastic, by an air test of not less than 50 psi (345 kPa). This pressure shall be held for not less than 15 minutes. The water used for <a class=\"autolink\" href=\"/viewer/florida/fl-residential-code-2023/chapter/45/private-swimming-pools#R4501.12\">tests</a> shall be obtained from a <a class=\"autolink\" href=\"/viewer/florida/fl-residential-code-2023/chapter/2/definitions#potable_water\">potable water</a> source.</div><div class=\"u-ml-4 u-mt-3\"><span class=\"u-font-bold\">Exception:</span> For PEX <a class=\"autolink\" href=\"/viewer/florida/fl-residential-code-2023/chapter/24/fuel-gas#piping_system\">piping systems</a>, testing with a compressed gas shall be an alternative to hydrostatic testing where compressed air or other gas pressure testing is specifically authorized by all of the manufacturer's instructions for the PEX <a class=\"autolink\" href=\"/viewer/florida/fl-residential-code-2023/chapter/24/fuel-gas#pipe_piping\">pipe</a> and fittings products installed at the time the system is being tested, and compressed air or other gas testing is not otherwise prohibited by applicable codes, laws or regulations outside of this code.</div>",
+                                        "depth": 2,
+                                        "diagrams": [],
+                                        "displayRef": null,
+                                        "displayTitle": "P2503.7 Water-Supply System Testing",
+                                        "hasAssemblies": false,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 0,
+                                        "numDiagramsOnRef": 0,
+                                        "reference": "P2503.7",
+                                        "slug": "plumbing-administration",
+                                        "titleText": "Water-Supply System Testing",
+                                        "children": []
+                                    },
+                                    {
+                                        "ancestorRefs": [
+                                            "25",
+                                            "P2503"
+                                        ],
+                                        "body": "Inspection and testing of backflow prevention devices shall comply with Sections <a class=\"autolink\" href=\"#P2503.8.1\">P2503.8.1</a> and <a class=\"autolink\" href=\"#P2503.8.2\">P2503.8.2</a>.",
+                                        "depth": 2,
+                                        "diagrams": [],
+                                        "displayRef": null,
+                                        "displayTitle": "P2503.8 Inspection and Testing of Backflow Prevention Devices",
+                                        "hasAssemblies": false,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 0,
+                                        "numDiagramsOnRef": 0,
+                                        "reference": "P2503.8",
+                                        "slug": "plumbing-administration",
+                                        "titleText": "Inspection and Testing of Backflow Prevention Devices",
+                                        "children": [
+                                            {
+                                                "ancestorRefs": [
+                                                    "25",
+                                                    "P2503",
+                                                    "P2503.8"
+                                                ],
+                                                "body": "Inspections shall be made of backflow prevention assemblies to determine whether they are operable.",
+                                                "depth": 3,
+                                                "diagrams": [],
+                                                "displayRef": null,
+                                                "displayTitle": "P2503.8.1 Inspections",
+                                                "hasAssemblies": false,
+                                                "isContiguous": true,
+                                                "numAssembliesOnRef": 0,
+                                                "numBuildingProductsOnRef": 0,
+                                                "numDiagramsOnRef": 0,
+                                                "reference": "P2503.8.1",
+                                                "slug": "plumbing-administration",
+                                                "titleText": "Inspections",
+                                                "children": []
+                                            },
+                                            {
+                                                "ancestorRefs": [
+                                                    "25",
+                                                    "P2503",
+                                                    "P2503.8"
+                                                ],
+                                                "body": "Reduced pressure principle, double check, double check detector and pressure <a class=\"autolink\" href=\"/viewer/florida/fl-residential-code-2023/chapter/2/definitions#vacuum_breaker\">vacuum breaker</a> <a class=\"autolink\" href=\"/viewer/florida/fl-residential-code-2023/chapter/2/definitions#backflow_preventer_reduced-pressure-zone_type\">backflow preventer</a> assemblies shall be tested at the time of <a class=\"autolink\" href=\"/viewer/florida/fl-residential-code-2023/chapter/14/heating-and-cooling-equipment-and-appliances#M1401.1\">installation</a> and immediately after repairs or relocation.",
+                                                "depth": 3,
+                                                "diagrams": [],
+                                                "displayRef": null,
+                                                "displayTitle": "P2503.8.2 Testing",
+                                                "hasAssemblies": false,
+                                                "isContiguous": true,
+                                                "numAssembliesOnRef": 0,
+                                                "numBuildingProductsOnRef": 0,
+                                                "numDiagramsOnRef": 0,
+                                                "reference": "P2503.8.2",
+                                                "slug": "plumbing-administration",
+                                                "titleText": "Testing",
+                                                "children": []
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "ancestorRefs": [
+                                            "25",
+                                            "P2503"
+                                        ],
+                                        "body": "<div class=\"u-mb-3\">Gauges used for testing shall be as follows:</div><ol><li><a class=\"autolink\" href=\"/viewer/florida/fl-residential-code-2023/chapter/45/private-swimming-pools#R4501.12\">Tests</a> requiring a pressure of 10 psi or less shall utilize a testing gauge having increments of 0.10 psi (0.69 kPa) or less.</li><li><a class=\"autolink\" href=\"/viewer/florida/fl-residential-code-2023/chapter/45/private-swimming-pools#R4501.12\">Tests</a> requiring a pressure higher than 10 psi (0.69 kPa) but less than or equal to 100 psi (690 kPa) shall use a testing gauge having increments of 1 psi (6.9 kPa) or less.</li><li><a class=\"autolink\" href=\"/viewer/florida/fl-residential-code-2023/chapter/45/private-swimming-pools#R4501.12\">Tests</a> requiring a pressure higher than 100 psi (690 kPa) shall use a testing gauge having increments of 2 psi (14 kPa) or less.</li></ol>",
+                                        "depth": 2,
+                                        "diagrams": [],
+                                        "displayRef": null,
+                                        "displayTitle": "P2503.9 Test Gauges",
+                                        "hasAssemblies": false,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 0,
+                                        "numDiagramsOnRef": 0,
+                                        "reference": "P2503.9",
+                                        "slug": "plumbing-administration",
+                                        "titleText": "Test Gauges",
+                                        "children": []
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            "chapterReference": "25"
+        },
+        "__N_SSP": true
+    },
+    "page": "/viewer/[urlFormPubOrJurisKey]/[urlFormPub]/chapter/[chapterRef]/[chapterName]",
+    "query": {
+        "urlFormPubOrJurisKey": "florida",
+        "urlFormPub": "fl-residential-code-2023",
+        "chapterRef": "25",
+        "chapterName": "plumbing-administration"
+    },
+    "buildId": "1fSFT4-IdVJWcsxmeyZE8",
+    "isFallback": false,
+    "isExperimentalCompile": false,
+    "dynamicIds": [
+        61621,
+        54065
+    ],
+    "gssp": true,
+    "scriptLoader": []
+}

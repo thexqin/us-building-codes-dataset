@@ -1,0 +1,1167 @@
+{
+    "props": {
+        "pageProps": {
+            "missingRequiredLogin": false,
+            "title": "Chapter 43 Class 2 Remote-Control, Signaling and Power-Limited Circuits: District of Columbia Residential Code 2017 | UpCodes",
+            "leanChapterViewerData": {
+                "basePubName": "International Residential Code 2015 (IRC 2015)",
+                "codeGroupingYear": "2020",
+                "codeName": "District of Columbia Residential Code 2017",
+                "codeUuid": "0a5cf1b1-6bf0-458d-8878-51a656d23b9f",
+                "codeVersions": [
+                    {
+                        "codeUuid": "0a5cf1b1-6bf0-458d-8878-51a656d23b9f",
+                        "name": "Original Adoption",
+                        "effectiveStartDate": "2020-05-29",
+                        "shortformUrlName": "irc-2015",
+                        "activeStatus": "active"
+                    }
+                ],
+                "ingesterAmendmentsEnabled": false,
+                "ingesterCodeUnitsEnabled": false,
+                "isAmendStylingEnabled": true,
+                "isCorrespondable": true,
+                "jurisKey": "district-of-columbia",
+                "jurisName": "District of Columbia",
+                "metaInfoUrl": "/viewer/district-of-columbia/irc-2015",
+                "modelCodeUrl": null,
+                "placeholder": "Search District of Columbia Residential Code 2017",
+                "pubKey": "int_residential_code_2015",
+                "pubPrefix": "int_residential_code",
+                "shortformPubName": "irc-2015",
+                "withAmendments": true,
+                "chapterRef": "43",
+                "publisher": "icc",
+                "hasLinkedResources": false,
+                "initialNonChapterTocLines": [
+                    {
+                        "amendType": null,
+                        "children": [
+                            {
+                                "amendType": null,
+                                "children": [],
+                                "depth": 2,
+                                "displayTitle": "E4301.1 Scope",
+                                "hasExpanderArrow": false,
+                                "href": "#E4301.1",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "reference": "E4301.1"
+                            },
+                            {
+                                "amendType": null,
+                                "children": [],
+                                "depth": 2,
+                                "displayTitle": "E4301.2 Definitions",
+                                "hasExpanderArrow": false,
+                                "href": "#E4301.2",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "reference": "E4301.2"
+                            }
+                        ],
+                        "depth": 1,
+                        "displayTitle": "E4301 General",
+                        "hasExpanderArrow": true,
+                        "href": "#E4301",
+                        "isCodeDivider": false,
+                        "isCodeDividerClickable": false,
+                        "reference": "E4301"
+                    },
+                    {
+                        "amendType": null,
+                        "children": [
+                            {
+                                "amendType": null,
+                                "children": [],
+                                "depth": 2,
+                                "displayTitle": "E4302.1 Power Sources for Class 2 Circuits",
+                                "hasExpanderArrow": false,
+                                "href": "#E4302.1",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "reference": "E4302.1"
+                            },
+                            {
+                                "amendType": null,
+                                "children": [],
+                                "depth": 2,
+                                "displayTitle": "E4302.2 Interconnection of Power Sources",
+                                "hasExpanderArrow": false,
+                                "href": "#E4302.2",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "reference": "E4302.2"
+                            }
+                        ],
+                        "depth": 1,
+                        "displayTitle": "E4302 Power Sources",
+                        "hasExpanderArrow": true,
+                        "href": "#E4302",
+                        "isCodeDivider": false,
+                        "isCodeDividerClickable": false,
+                        "reference": "E4302"
+                    },
+                    {
+                        "amendType": null,
+                        "children": [
+                            {
+                                "amendType": null,
+                                "children": [],
+                                "depth": 2,
+                                "displayTitle": "E4303.1 Wiring Methods on Supply Side of Class 2 Power Source",
+                                "hasExpanderArrow": false,
+                                "href": "#E4303.1",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "reference": "E4303.1"
+                            },
+                            {
+                                "amendType": null,
+                                "children": [
+                                    {
+                                        "amendType": null,
+                                        "children": [],
+                                        "depth": 3,
+                                        "displayTitle": "E4303.2.1 Type CL2P Cables",
+                                        "hasExpanderArrow": false,
+                                        "href": "#E4303.2.1",
+                                        "isCodeDivider": false,
+                                        "isCodeDividerClickable": false,
+                                        "reference": "E4303.2.1"
+                                    },
+                                    {
+                                        "amendType": null,
+                                        "children": [],
+                                        "depth": 3,
+                                        "displayTitle": "E4303.2.2 Type CL2 Cables",
+                                        "hasExpanderArrow": false,
+                                        "href": "#E4303.2.2",
+                                        "isCodeDivider": false,
+                                        "isCodeDividerClickable": false,
+                                        "reference": "E4303.2.2"
+                                    },
+                                    {
+                                        "amendType": null,
+                                        "children": [],
+                                        "depth": 3,
+                                        "displayTitle": "E4303.2.3 Type CL2X Cables",
+                                        "hasExpanderArrow": false,
+                                        "href": "#E4303.2.3",
+                                        "isCodeDivider": false,
+                                        "isCodeDividerClickable": false,
+                                        "reference": "E4303.2.3"
+                                    },
+                                    {
+                                        "amendType": null,
+                                        "children": [],
+                                        "depth": 3,
+                                        "displayTitle": "E4303.2.4 Type CL2R Cables",
+                                        "hasExpanderArrow": false,
+                                        "href": "#E4303.2.4",
+                                        "isCodeDivider": false,
+                                        "isCodeDividerClickable": false,
+                                        "reference": "E4303.2.4"
+                                    },
+                                    {
+                                        "amendType": null,
+                                        "children": [],
+                                        "depth": 3,
+                                        "displayTitle": "E4303.2.5 Marking",
+                                        "hasExpanderArrow": false,
+                                        "href": "#E4303.2.5",
+                                        "isCodeDivider": false,
+                                        "isCodeDividerClickable": false,
+                                        "reference": "E4303.2.5"
+                                    }
+                                ],
+                                "depth": 2,
+                                "displayTitle": "E4303.2 Wiring Methods and Materials on Load Side of the Class 2 Power Source",
+                                "hasExpanderArrow": true,
+                                "href": "#E4303.2",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "reference": "E4303.2"
+                            }
+                        ],
+                        "depth": 1,
+                        "displayTitle": "E4303 Wiring Methods",
+                        "hasExpanderArrow": true,
+                        "href": "#E4303",
+                        "isCodeDivider": false,
+                        "isCodeDividerClickable": false,
+                        "reference": "E4303"
+                    },
+                    {
+                        "amendType": null,
+                        "children": [
+                            {
+                                "amendType": null,
+                                "children": [],
+                                "depth": 2,
+                                "displayTitle": "E4304.1 Separation From Other Conductors",
+                                "hasExpanderArrow": false,
+                                "href": "#E4304.1",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "reference": "E4304.1"
+                            },
+                            {
+                                "amendType": null,
+                                "children": [],
+                                "depth": 2,
+                                "displayTitle": "E4304.2 Other Applications",
+                                "hasExpanderArrow": false,
+                                "href": "#E4304.2",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "reference": "E4304.2"
+                            },
+                            {
+                                "amendType": null,
+                                "children": [],
+                                "depth": 2,
+                                "displayTitle": "E4304.3 Class 2 Circuits With Communications Circuits",
+                                "hasExpanderArrow": false,
+                                "href": "#E4304.3",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "reference": "E4304.3"
+                            },
+                            {
+                                "amendType": null,
+                                "children": [],
+                                "depth": 2,
+                                "displayTitle": "E4304.4 Class 2 Cables With Other Circuit Cables",
+                                "hasExpanderArrow": false,
+                                "href": "#E4304.4",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "reference": "E4304.4"
+                            },
+                            {
+                                "amendType": null,
+                                "children": [],
+                                "depth": 2,
+                                "displayTitle": "E4304.5 Installation of Conductors and Cables",
+                                "hasExpanderArrow": false,
+                                "href": "#E4304.5",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "reference": "E4304.5"
+                            }
+                        ],
+                        "depth": 1,
+                        "displayTitle": "E4304 Installation Requirements",
+                        "hasExpanderArrow": true,
+                        "href": "#E4304",
+                        "isCodeDivider": false,
+                        "isCodeDividerClickable": false,
+                        "reference": "E4304"
+                    }
+                ],
+                "title": "Chapter 43 Class 2 Remote-Control, Signaling and Power-Limited Circuits: District of Columbia Residential Code 2017 | UpCodes",
+                "leanChapterLines": [
+                    {
+                        "displayTitle": "Part I \u2014 Administrative",
+                        "isCodeDivider": true,
+                        "reference": "divider_I",
+                        "slug": "administrative"
+                    },
+                    {
+                        "displayTitle": "Chapter 1 Scope and Administration",
+                        "isExpandable": true,
+                        "reference": "1",
+                        "slug": "scope-and-administration"
+                    },
+                    {
+                        "displayTitle": "Part II \u2014 Definitions",
+                        "isCodeDivider": true,
+                        "reference": "divider_II",
+                        "slug": "definitions"
+                    },
+                    {
+                        "displayTitle": "Chapter 2 Definitions",
+                        "isExpandable": true,
+                        "reference": "2",
+                        "slug": "definitions"
+                    },
+                    {
+                        "displayTitle": "Part III \u2014 Building Planning and Construction",
+                        "isCodeDivider": true,
+                        "reference": "divider_III",
+                        "slug": "building-planning-and-construction"
+                    },
+                    {
+                        "displayTitle": "Chapter 3 Building Planning",
+                        "isExpandable": true,
+                        "reference": "3",
+                        "slug": "building-planning"
+                    },
+                    {
+                        "displayTitle": "Chapter 4 Foundations",
+                        "isExpandable": true,
+                        "reference": "4",
+                        "slug": "foundations"
+                    },
+                    {
+                        "displayTitle": "Chapter 5 Floors",
+                        "isExpandable": true,
+                        "reference": "5",
+                        "slug": "floors"
+                    },
+                    {
+                        "displayTitle": "Chapter 6 Wall Construction",
+                        "isExpandable": true,
+                        "reference": "6",
+                        "slug": "wall-construction"
+                    },
+                    {
+                        "displayTitle": "Chapter 7 Wall Covering",
+                        "isExpandable": true,
+                        "reference": "7",
+                        "slug": "wall-covering"
+                    },
+                    {
+                        "displayTitle": "Chapter 8 Roof-Ceiling Construction",
+                        "isExpandable": true,
+                        "reference": "8",
+                        "slug": "roof-ceiling-construction"
+                    },
+                    {
+                        "displayTitle": "Chapter 9 Roof Assemblies",
+                        "isExpandable": true,
+                        "reference": "9",
+                        "slug": "roof-assemblies"
+                    },
+                    {
+                        "displayTitle": "Chapter 10 Chimneys and Fireplaces",
+                        "isExpandable": true,
+                        "reference": "10",
+                        "slug": "chimneys-and-fireplaces"
+                    },
+                    {
+                        "displayTitle": "Part IV \u2014 Energy Conservation",
+                        "isCodeDivider": true,
+                        "reference": "divider_IV",
+                        "slug": "energy-conservation"
+                    },
+                    {
+                        "displayTitle": "Chapter 11 [RE] Energy Efficiency",
+                        "isExpandable": true,
+                        "reference": "11",
+                        "slug": "re-energy-efficiency"
+                    },
+                    {
+                        "displayTitle": "Part V \u2014 Mechanical",
+                        "isCodeDivider": true,
+                        "reference": "divider_V",
+                        "slug": "mechanical"
+                    },
+                    {
+                        "displayTitle": "Chapter 12 Mechanical Administration",
+                        "isExpandable": true,
+                        "reference": "12",
+                        "slug": "mechanical-administration"
+                    },
+                    {
+                        "displayTitle": "Chapter 13 General Mechanical System Requirements",
+                        "isExpandable": true,
+                        "reference": "13",
+                        "slug": "general-mechanical-system-requirements"
+                    },
+                    {
+                        "displayTitle": "Chapter 14 Heating and Cooling Equipment and Appliances",
+                        "isExpandable": true,
+                        "reference": "14",
+                        "slug": "heating-and-cooling-equipment-and-appliances"
+                    },
+                    {
+                        "displayTitle": "Chapter 15 Exhaust Systems",
+                        "isExpandable": true,
+                        "reference": "15",
+                        "slug": "exhaust-systems"
+                    },
+                    {
+                        "displayTitle": "Chapter 16 Duct Systems",
+                        "isExpandable": true,
+                        "reference": "16",
+                        "slug": "duct-systems"
+                    },
+                    {
+                        "displayTitle": "Chapter 17 Combustion Air",
+                        "isExpandable": true,
+                        "reference": "17",
+                        "slug": "combustion-air"
+                    },
+                    {
+                        "displayTitle": "Chapter 18 Chimneys and Vents",
+                        "isExpandable": true,
+                        "reference": "18",
+                        "slug": "chimneys-and-vents"
+                    },
+                    {
+                        "displayTitle": "Chapter 19 Special Appliances, Equipment and Systems",
+                        "isExpandable": true,
+                        "reference": "19",
+                        "slug": "special-appliances-equipment-and-systems"
+                    },
+                    {
+                        "displayTitle": "Chapter 20 Boilers and Water Heaters",
+                        "isExpandable": true,
+                        "reference": "20",
+                        "slug": "boilers-and-water-heaters"
+                    },
+                    {
+                        "displayTitle": "Chapter 21 Hydronic Piping",
+                        "isExpandable": true,
+                        "reference": "21",
+                        "slug": "hydronic-piping"
+                    },
+                    {
+                        "displayTitle": "Chapter 22 Special Piping and Storage Systems",
+                        "isExpandable": true,
+                        "reference": "22",
+                        "slug": "special-piping-and-storage-systems"
+                    },
+                    {
+                        "displayTitle": "Chapter 23 Solar Thermal Energy Systems",
+                        "isExpandable": true,
+                        "reference": "23",
+                        "slug": "solar-thermal-energy-systems"
+                    },
+                    {
+                        "displayTitle": "Part VI \u2014 Fuel Gas",
+                        "isCodeDivider": true,
+                        "reference": "divider_VI",
+                        "slug": "fuel-gas"
+                    },
+                    {
+                        "displayTitle": "Chapter 24 Fuel Gas",
+                        "isExpandable": true,
+                        "reference": "24",
+                        "slug": "fuel-gas"
+                    },
+                    {
+                        "displayTitle": "Part VII \u2014 Plumbing",
+                        "isCodeDivider": true,
+                        "reference": "divider_VII",
+                        "slug": "plumbing"
+                    },
+                    {
+                        "displayTitle": "Chapter 25 Plumbing Administration",
+                        "isExpandable": true,
+                        "reference": "25",
+                        "slug": "plumbing-administration"
+                    },
+                    {
+                        "displayTitle": "Chapter 26 General Plumbing Requirements",
+                        "isExpandable": true,
+                        "reference": "26",
+                        "slug": "general-plumbing-requirements"
+                    },
+                    {
+                        "displayTitle": "Chapter 27 Plumbing Fixtures",
+                        "isExpandable": true,
+                        "reference": "27",
+                        "slug": "plumbing-fixtures"
+                    },
+                    {
+                        "displayTitle": "Chapter 28 Water Heaters",
+                        "isExpandable": true,
+                        "reference": "28",
+                        "slug": "water-heaters"
+                    },
+                    {
+                        "displayTitle": "Chapter 29 Water Supply and Distribution",
+                        "isExpandable": true,
+                        "reference": "29",
+                        "slug": "water-supply-and-distribution"
+                    },
+                    {
+                        "displayTitle": "Chapter 30 Sanitary Drainage",
+                        "isExpandable": true,
+                        "reference": "30",
+                        "slug": "sanitary-drainage"
+                    },
+                    {
+                        "displayTitle": "Chapter 31 Vents",
+                        "isExpandable": true,
+                        "reference": "31",
+                        "slug": "vents"
+                    },
+                    {
+                        "displayTitle": "Chapter 32 Traps",
+                        "isExpandable": true,
+                        "reference": "32",
+                        "slug": "traps"
+                    },
+                    {
+                        "displayTitle": "Chapter 33 Storm Drainage",
+                        "isExpandable": true,
+                        "reference": "33",
+                        "slug": "storm-drainage"
+                    },
+                    {
+                        "displayTitle": "Part VIII \u2014 Electrical",
+                        "isCodeDivider": true,
+                        "reference": "divider_VIII",
+                        "slug": "electrical"
+                    },
+                    {
+                        "displayTitle": "Chapter 34 General Requirements",
+                        "isExpandable": true,
+                        "reference": "34",
+                        "slug": "general-requirements"
+                    },
+                    {
+                        "displayTitle": "Chapter 35 Electrical Definitions",
+                        "isExpandable": true,
+                        "reference": "35",
+                        "slug": "electrical-definitions"
+                    },
+                    {
+                        "displayTitle": "Chapter 36 Services",
+                        "isExpandable": true,
+                        "reference": "36",
+                        "slug": "services"
+                    },
+                    {
+                        "displayTitle": "Chapter 37 Branch Circuit and Feeder Requirements",
+                        "isExpandable": true,
+                        "reference": "37",
+                        "slug": "branch-circuit-and-feeder-requirements"
+                    },
+                    {
+                        "displayTitle": "Chapter 38 Wiring Methods",
+                        "isExpandable": true,
+                        "reference": "38",
+                        "slug": "wiring-methods"
+                    },
+                    {
+                        "displayTitle": "Chapter 39 Power and Lighting Distribution",
+                        "isExpandable": true,
+                        "reference": "39",
+                        "slug": "power-and-lighting-distribution"
+                    },
+                    {
+                        "displayTitle": "Chapter 40 Devices and Luminaires",
+                        "isExpandable": true,
+                        "reference": "40",
+                        "slug": "devices-and-luminaires"
+                    },
+                    {
+                        "displayTitle": "Chapter 41 Appliance Installation",
+                        "isExpandable": true,
+                        "reference": "41",
+                        "slug": "appliance-installation"
+                    },
+                    {
+                        "displayTitle": "Chapter 42 Swimming Pools",
+                        "isExpandable": true,
+                        "reference": "42",
+                        "slug": "swimming-pools"
+                    },
+                    {
+                        "displayTitle": "Chapter 43 Class 2 Remote-Control, Signaling and Power-Limited Circuits",
+                        "isExpandable": true,
+                        "reference": "43",
+                        "slug": "class-2-remote-control-signaling-and-power-limited-circuits"
+                    },
+                    {
+                        "displayTitle": "Part IX \u2014 Referenced Standards",
+                        "isCodeDivider": true,
+                        "reference": "divider_IX",
+                        "slug": "referenced-standards"
+                    },
+                    {
+                        "amendType": "edit",
+                        "displayTitle": "Chapter 44 Referenced Standards",
+                        "reference": "44",
+                        "slug": "referenced-standards"
+                    },
+                    {
+                        "disabled": true,
+                        "displayTitle": "Appendix A Sizing and Capacities of Gas Piping",
+                        "reference": "A",
+                        "slug": "sizing-and-capacities-of-gas-piping"
+                    },
+                    {
+                        "disabled": true,
+                        "displayTitle": "Appendix B Sizing of Venting Systems Serving Appliances Equipped With Draft Hoods, Category I Appliances, and Appliances Listed for Use With Type B Vents",
+                        "reference": "B",
+                        "slug": "sizing-of-venting-systems-serving-appliances-equipped-with-draft-hoods-category"
+                    },
+                    {
+                        "disabled": true,
+                        "displayTitle": "Appendix C Exit Terminals of Mechanical Draft and Direct-Vent Venting Systems",
+                        "reference": "C",
+                        "slug": "exit-terminals-of-mechanical-draft-and-direct-vent-venting-systems"
+                    },
+                    {
+                        "disabled": true,
+                        "displayTitle": "Appendix D Recommended Procedure for Safety Inspection of an Existing Appliance Installation",
+                        "reference": "D",
+                        "slug": "recommended-procedure-for-safety-inspection-of-an-existing-appliance-installatio"
+                    },
+                    {
+                        "amendType": "edit",
+                        "displayTitle": "Appendix E Manufactured Housing Used as Dwellings",
+                        "hasChapterAdoption": true,
+                        "isExpandable": true,
+                        "reference": "E",
+                        "slug": "manufactured-housing-used-as-dwellings"
+                    },
+                    {
+                        "amendType": "edit",
+                        "displayTitle": "Appendix F Radon Control Methods",
+                        "hasChapterAdoption": true,
+                        "isExpandable": true,
+                        "reference": "F",
+                        "slug": "radon-control-methods"
+                    },
+                    {
+                        "displayTitle": "Appendix G Piping Standards for Various Applications",
+                        "isExpandable": true,
+                        "reference": "G",
+                        "slug": "piping-standards-for-various-applications"
+                    },
+                    {
+                        "amendType": "edit",
+                        "displayTitle": "Appendix H Patio Covers",
+                        "hasChapterAdoption": true,
+                        "isExpandable": true,
+                        "reference": "H",
+                        "slug": "patio-covers"
+                    },
+                    {
+                        "disabled": true,
+                        "displayTitle": "Appendix I Private Sewage Disposal",
+                        "reference": "I",
+                        "slug": "private-sewage-disposal"
+                    },
+                    {
+                        "disabled": true,
+                        "displayTitle": "Appendix J Existing Buildings and Structures",
+                        "reference": "J",
+                        "slug": "existing-buildings-and-structures"
+                    },
+                    {
+                        "amendType": "edit",
+                        "displayTitle": "Appendix K Sound Transmission",
+                        "hasChapterAdoption": true,
+                        "isExpandable": true,
+                        "reference": "K",
+                        "slug": "sound-transmission"
+                    },
+                    {
+                        "disabled": true,
+                        "displayTitle": "Appendix L Permit Fees",
+                        "reference": "L",
+                        "slug": "permit-fees"
+                    },
+                    {
+                        "amendType": "edit",
+                        "displayTitle": "Appendix M Home Day Care\u2014R-3 Occupancy",
+                        "hasChapterAdoption": true,
+                        "isExpandable": true,
+                        "reference": "M",
+                        "slug": "home-day-care-r-3-occupancy"
+                    },
+                    {
+                        "disabled": true,
+                        "displayTitle": "Appendix N Venting Methods",
+                        "reference": "N",
+                        "slug": "venting-methods"
+                    },
+                    {
+                        "disabled": true,
+                        "displayTitle": "Appendix O Automatic Vehicular Gates",
+                        "reference": "O",
+                        "slug": "automatic-vehicular-gates"
+                    },
+                    {
+                        "disabled": true,
+                        "displayTitle": "Appendix P Sizing of Water Piping System",
+                        "reference": "P",
+                        "slug": "sizing-of-water-piping-system"
+                    },
+                    {
+                        "disabled": true,
+                        "displayTitle": "Appendix Q Reserved",
+                        "reference": "Q",
+                        "slug": "reserved"
+                    },
+                    {
+                        "disabled": true,
+                        "displayTitle": "Appendix R Light Straw-Clay Construction",
+                        "reference": "R",
+                        "slug": "light-straw-clay-construction"
+                    },
+                    {
+                        "disabled": true,
+                        "displayTitle": "Appendix S Strawbale Construction",
+                        "reference": "S",
+                        "slug": "strawbale-construction"
+                    },
+                    {
+                        "disabled": true,
+                        "displayTitle": "Appendix T Recommended Procedure for Worst-Case Testing of Atmospheric Venting Systems Under N1102.4 or N1105 Conditions \u2264 5ACH<sub>50</sub>",
+                        "reference": "T",
+                        "slug": "recommended-procedure-for-worst-case-testing-of-atmospheric-venting-systems-unde"
+                    },
+                    {
+                        "disabled": true,
+                        "displayTitle": "Appendix U Solar-Ready Provisions\u2014Detached One- And Two-Family Dwellings, Multiple Single-Family Dwellings (Townhouses)",
+                        "reference": "U",
+                        "slug": "solar-ready-provisions-detached-one-and-two-family-dwellings-multiple-single-fam"
+                    }
+                ],
+                "leanCodeSectionsTree": [
+                    {
+                        "ancestorRefs": [],
+                        "depth": 0,
+                        "diagrams": [],
+                        "displayRef": null,
+                        "displayTitle": "Chapter 43 Class 2 Remote-Control, Signaling and Power-Limited Circuits",
+                        "divisionType": "Chapter",
+                        "hasAssemblies": false,
+                        "isContiguous": true,
+                        "numAssembliesOnRef": 0,
+                        "numBuildingProductsOnRef": 0,
+                        "numDiagramsOnRef": 0,
+                        "reference": "43",
+                        "slug": "class-2-remote-control-signaling-and-power-limited-circuits",
+                        "titleText": "Class 2 Remote-Control, Signaling and Power-Limited Circuits",
+                        "children": [
+                            {
+                                "ancestorRefs": [
+                                    "43"
+                                ],
+                                "depth": 1,
+                                "diagrams": [],
+                                "displayRef": null,
+                                "displayTitle": "Section E4301 General",
+                                "divisionType": "Section",
+                                "hasAssemblies": false,
+                                "isContiguous": true,
+                                "numAssembliesOnRef": 0,
+                                "numBuildingProductsOnRef": 0,
+                                "numDiagramsOnRef": 0,
+                                "reference": "E4301",
+                                "slug": "class-2-remote-control-signaling-and-power-limited-circuits",
+                                "titleText": "General",
+                                "children": [
+                                    {
+                                        "ancestorRefs": [
+                                            "43",
+                                            "E4301"
+                                        ],
+                                        "body": "This chapter contains requirements for power supplies and wiring methods associated with Class 2 remote-<a class=\"autolink\" href=\"/viewer/district-of-columbia/irc-2015/chapter/2/definitions#control_limit_\">control</a>, signaling, and power-limited circuits that are not an integral part of a <a class=\"autolink\" href=\"/viewer/district-of-columbia/irc-2015/chapter/35/electrical-definitions#device\">device</a> or <a class=\"autolink\" href=\"/viewer/district-of-columbia/irc-2015/chapter/35/electrical-definitions#appliance\">appliance</a>. Other classes of remote-<a class=\"autolink\" href=\"/viewer/district-of-columbia/irc-2015/chapter/2/definitions#control_limit_\">control</a>, signaling and power-limited <a class=\"autolink\" href=\"/viewer/district-of-columbia/irc-2015/chapter/35/electrical-definitions#conductor\">conductors</a> shall comply with Article 725 of NFPA 70. (725.1)",
+                                        "depth": 2,
+                                        "diagrams": [],
+                                        "displayRef": null,
+                                        "displayTitle": "E4301.1 Scope",
+                                        "hasAssemblies": false,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 0,
+                                        "numDiagramsOnRef": 0,
+                                        "reference": "E4301.1",
+                                        "slug": "class-2-remote-control-signaling-and-power-limited-circuits",
+                                        "titleText": "Scope",
+                                        "children": []
+                                    },
+                                    {
+                                        "ancestorRefs": [
+                                            "43",
+                                            "E4301"
+                                        ],
+                                        "body": "<b>CLASS 2 CIRCUIT. </b>That portion of the wiring system between the load side of a Class 2 power source and the connected <a class=\"autolink\" href=\"/viewer/district-of-columbia/irc-2015/chapter/35/electrical-definitions#equipment\">equipment</a>. Due to its power limitations, a Class 2 circuit considers safety from a fire initiation standpoint and provides acceptable protection from electric shock. (725.2) <br/> <br/> <b>REMOTE-<a class=\"autolink\" href=\"/viewer/district-of-columbia/irc-2015/chapter/2/definitions#control_limit_\">CONTROL</a> CIRCUIT.</b> Any electrical circuit that controls any other circuit through a relay or an equivalent <a class=\"autolink\" href=\"/viewer/district-of-columbia/irc-2015/chapter/35/electrical-definitions#device\">device</a>. (Article 100) <br/> <br/> <b>SIGNALING CIRCUIT.</b> Any electrical circuit that energizes signaling <a class=\"autolink\" href=\"/viewer/district-of-columbia/irc-2015/chapter/35/electrical-definitions#equipment\">equipment</a>. (Article 100)",
+                                        "depth": 2,
+                                        "diagrams": [],
+                                        "displayRef": null,
+                                        "displayTitle": "E4301.2 Definitions",
+                                        "hasAssemblies": false,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 0,
+                                        "numDiagramsOnRef": 0,
+                                        "reference": "E4301.2",
+                                        "slug": "class-2-remote-control-signaling-and-power-limited-circuits",
+                                        "titleText": "Definitions",
+                                        "children": []
+                                    }
+                                ]
+                            },
+                            {
+                                "ancestorRefs": [
+                                    "43"
+                                ],
+                                "depth": 1,
+                                "diagrams": [],
+                                "displayRef": null,
+                                "displayTitle": "Section E4302 Power Sources",
+                                "divisionType": "Section",
+                                "hasAssemblies": false,
+                                "isContiguous": true,
+                                "numAssembliesOnRef": 0,
+                                "numBuildingProductsOnRef": 0,
+                                "numDiagramsOnRef": 0,
+                                "reference": "E4302",
+                                "slug": "class-2-remote-control-signaling-and-power-limited-circuits",
+                                "titleText": "Power Sources",
+                                "children": [
+                                    {
+                                        "ancestorRefs": [
+                                            "43",
+                                            "E4302"
+                                        ],
+                                        "body": "The power source for a Class 2 circuit shall be one of the following: <ol><li>A listed Class 2 transformer. </li><li>A listed Class 2 power supply. </li><li>Other listed <a class=\"autolink\" href=\"/viewer/district-of-columbia/irc-2015/chapter/35/electrical-definitions#equipment\">equipment</a> marked to identify the Class 2 power source. </li><li>Listed information technology (computer) <a class=\"autolink\" href=\"/viewer/district-of-columbia/irc-2015/chapter/35/electrical-definitions#equipment\">equipment</a> limited power circuits. </li><li>A dry-cell battery provided that the voltage is 30 volts or less and the capacity is equal to or less than that available from series connected No. 6 carbon zinc cells. [725.121(A)]</li></ol>",
+                                        "depth": 2,
+                                        "diagrams": [],
+                                        "displayRef": null,
+                                        "displayTitle": "E4302.1 Power Sources for Class 2 Circuits",
+                                        "hasAssemblies": false,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 0,
+                                        "numDiagramsOnRef": 0,
+                                        "reference": "E4302.1",
+                                        "slug": "class-2-remote-control-signaling-and-power-limited-circuits",
+                                        "titleText": "Power Sources for Class 2 Circuits",
+                                        "children": []
+                                    },
+                                    {
+                                        "ancestorRefs": [
+                                            "43",
+                                            "E4302"
+                                        ],
+                                        "body": "A Class 2 power source shall not have its output connections paralleled or otherwise interconnected with another Class 2 power source except where listed for such interconnection. [725.121(B)]",
+                                        "depth": 2,
+                                        "diagrams": [],
+                                        "displayRef": null,
+                                        "displayTitle": "E4302.2 Interconnection of Power Sources",
+                                        "hasAssemblies": false,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 0,
+                                        "numDiagramsOnRef": 0,
+                                        "reference": "E4302.2",
+                                        "slug": "class-2-remote-control-signaling-and-power-limited-circuits",
+                                        "titleText": "Interconnection of Power Sources",
+                                        "children": []
+                                    }
+                                ]
+                            },
+                            {
+                                "ancestorRefs": [
+                                    "43"
+                                ],
+                                "depth": 1,
+                                "diagrams": [],
+                                "displayRef": null,
+                                "displayTitle": "Section E4303 Wiring Methods",
+                                "divisionType": "Section",
+                                "hasAssemblies": false,
+                                "isContiguous": true,
+                                "numAssembliesOnRef": 0,
+                                "numBuildingProductsOnRef": 0,
+                                "numDiagramsOnRef": 0,
+                                "reference": "E4303",
+                                "slug": "class-2-remote-control-signaling-and-power-limited-circuits",
+                                "titleText": "Wiring Methods",
+                                "children": [
+                                    {
+                                        "ancestorRefs": [
+                                            "43",
+                                            "E4303"
+                                        ],
+                                        "body": "<a class=\"autolink\" href=\"/viewer/district-of-columbia/irc-2015/chapter/35/electrical-definitions#conductor\">Conductors</a> and <a class=\"autolink\" href=\"/viewer/district-of-columbia/irc-2015/chapter/35/electrical-definitions#equipment\">equipment</a> on the supply side of the power source shall be installed in accordance with the appropriate requirements of Chapters <a class=\"autolink\" href=\"/viewer/district-of-columbia/irc-2015/chapter/34/general-requirements#34\">34</a> through <a class=\"autolink\" href=\"/viewer/district-of-columbia/irc-2015/chapter/41/appliance-installation#41\">41</a>. Transformers or other <a class=\"autolink\" href=\"/viewer/district-of-columbia/irc-2015/chapter/35/electrical-definitions#device\">devices</a> supplied from electric light or power circuits shall be protected by an over-current <a class=\"autolink\" href=\"/viewer/district-of-columbia/irc-2015/chapter/35/electrical-definitions#device\">device</a> rated at not over 20 amperes. The input leads of a transformer or other power source supplying Class 2 circuits shall be permitted to be smaller than 14 AWG, if not over 12 inches (305 mm) long and if the <a class=\"autolink\" href=\"/viewer/district-of-columbia/irc-2015/chapter/35/electrical-definitions#conductor\">conductor</a> insulation is rated at not less than 600 volts. In no case shall such leads be smaller than 18 AWG. (725.127 and 725.127 Exception)",
+                                        "depth": 2,
+                                        "diagrams": [],
+                                        "displayRef": null,
+                                        "displayTitle": "E4303.1 Wiring Methods on Supply Side of Class 2 Power Source",
+                                        "hasAssemblies": false,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 0,
+                                        "numDiagramsOnRef": 0,
+                                        "reference": "E4303.1",
+                                        "slug": "class-2-remote-control-signaling-and-power-limited-circuits",
+                                        "titleText": "Wiring Methods on Supply Side of Class 2 Power Source",
+                                        "children": []
+                                    },
+                                    {
+                                        "ancestorRefs": [
+                                            "43",
+                                            "E4303"
+                                        ],
+                                        "body": "Class 2 cables installed as wiring within buildings shall be listed as being resistant to the spread of fire and listed as meeting the criteria specified in Sections <a class=\"autolink\" href=\"#E4303.2.1\">E4303.2.1</a> through <a class=\"autolink\" href=\"#E4303.2.3\">E4303.2.3</a>. Cables shall be marked in accordance with <a class=\"autolink\" href=\"#E4303.2.4\">Section E4303.2.4</a>. Cable substitutions as described in Table E4303.2 and wiring methods <a class=\"autolink\" href=\"/viewer/district-of-columbia/irc-2015/chapter/35/electrical-definitions#covered\">covered</a> in <a class=\"autolink\" href=\"/viewer/district-of-columbia/irc-2015/chapter/38/wiring-methods#38\">Chapter 38</a> shall also be permitted. (725.130 (B); 725.135 (A), (C), (G) and (M); 725.154; Table 725.154; Figure 725.154 (A); and 725.179) <br/><br/>\n<table class=\"u-text-center uc_all_borders\"><caption><a id=\"table_E4303.2\" href=\"#table_E4303.2\" class=\"autolink_target\">TABLE E4303.2</a><br/>CABLE USES AND PERMITTED SUBSTITUTIONS [Figure 725.154(A)]</caption>\n<tbody>\n<tr>\n<td class=\"u-align-middle uc_all_borders\"><b> CABLE TYPE</b></td>\n<td class=\"u-align-middle uc_all_borders\"><b>USE</b></td>\n<td class=\"u-align-middle uc_all_borders\"><b> PERMITTED SUBSTITUTIONS<sup>a</sup></b></td>\n</tr>\n<tr>\n<td class=\"u-align-middle uc_all_borders\">CL2P</td>\n<td class=\"u-align-middle uc_all_borders\">Class 2 <br/><a class=\"autolink\" href=\"/viewer/district-of-columbia/irc-2015/chapter/35/electrical-definitions#plenum\">Plenum</a> Cable</td>\n<td class=\"u-align-middle uc_all_borders\">CMP, CL3P</td>\n</tr>\n<tr>\n<td class=\"u-align-middle uc_all_borders\">CL2R</td>\n<td class=\"u-align-middle uc_all_borders\">Class 2 <br/><a class=\"autolink\" href=\"/viewer/district-of-columbia/irc-2015/chapter/35/electrical-definitions#plenum\">Plenum</a> Cable</td>\n<td class=\"u-align-middle uc_all_borders\">CMP, CL3P, CL2P, CMR, CL3R</td>\n</tr>\n<tr>\n<td class=\"u-align-middle uc_all_borders\">CL2</td>\n<td class=\"u-align-middle uc_all_borders\">Class 2 Cable</td>\n<td class=\"u-align-middle uc_all_borders\">CMP, CL3P, CL2P, CMR, CL3R, <br/>CL2R CMG, CM, CL3</td>\n</tr>\n<tr>\n<td class=\"u-align-middle uc_all_borders\">CL2X</td>\n<td class=\"u-align-middle uc_all_borders\">Class 2 Cable, Limited Use</td>\n<td class=\"u-align-middle uc_all_borders\">CMP, CL3P CL2P, CMR, <br/>CL3R, CL2R, CMG, CM, <br/>CL3, CL2, CMX, CL3X</td>\n</tr>\n</tbody>\n</table>\n<ol class=\"u-text-12px u-list-lower-alpha\">\n<li>For identification of cables other than Class 2 cables, see NFPA 70.</li>\n</ol>",
+                                        "depth": 2,
+                                        "diagrams": [],
+                                        "displayRef": null,
+                                        "displayTitle": "E4303.2 Wiring Methods and Materials on Load Side of the Class 2 Power Source",
+                                        "hasAssemblies": false,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 0,
+                                        "numDiagramsOnRef": 0,
+                                        "reference": "E4303.2",
+                                        "slug": "class-2-remote-control-signaling-and-power-limited-circuits",
+                                        "titleText": "Wiring Methods and Materials on Load Side of the Class 2 Power Source",
+                                        "children": [
+                                            {
+                                                "ancestorRefs": [
+                                                    "43",
+                                                    "E4303",
+                                                    "E4303.2"
+                                                ],
+                                                "body": "Cables installed in ducts, <a class=\"autolink\" href=\"/viewer/district-of-columbia/irc-2015/chapter/35/electrical-definitions#plenum\">plenums</a> and other spaces used to convey environmental air shall be Type CL2P cables listed as being suitable for the use and listed as having adequate fire-resistant and low smoke-producing characteristics. [725.179(A)]",
+                                                "depth": 3,
+                                                "diagrams": [],
+                                                "displayRef": null,
+                                                "displayTitle": "E4303.2.1 Type CL2P Cables",
+                                                "hasAssemblies": false,
+                                                "isContiguous": true,
+                                                "numAssembliesOnRef": 0,
+                                                "numBuildingProductsOnRef": 0,
+                                                "numDiagramsOnRef": 0,
+                                                "reference": "E4303.2.1",
+                                                "slug": "class-2-remote-control-signaling-and-power-limited-circuits",
+                                                "titleText": "Type CL2P Cables",
+                                                "children": []
+                                            },
+                                            {
+                                                "ancestorRefs": [
+                                                    "43",
+                                                    "E4303",
+                                                    "E4303.2"
+                                                ],
+                                                "body": "Cables for general-purpose use, shall be listed as being resistant to the spread of fire and listed for the use. [725.179 (C)]",
+                                                "depth": 3,
+                                                "diagrams": [],
+                                                "displayRef": null,
+                                                "displayTitle": "E4303.2.2 Type CL2 Cables",
+                                                "hasAssemblies": false,
+                                                "isContiguous": true,
+                                                "numAssembliesOnRef": 0,
+                                                "numBuildingProductsOnRef": 0,
+                                                "numDiagramsOnRef": 0,
+                                                "reference": "E4303.2.2",
+                                                "slug": "class-2-remote-control-signaling-and-power-limited-circuits",
+                                                "titleText": "Type CL2 Cables",
+                                                "children": []
+                                            },
+                                            {
+                                                "ancestorRefs": [
+                                                    "43",
+                                                    "E4303",
+                                                    "E4303.2"
+                                                ],
+                                                "body": "Type CL2X limited-use cable shall be listed as being suitable for use in <a class=\"autolink\" href=\"/viewer/district-of-columbia/irc-2015/chapter/35/electrical-definitions#dwelling\">dwellings</a> and for the use and in <a class=\"autolink\" href=\"/viewer/district-of-columbia/irc-2015/chapter/35/electrical-definitions#raceway\">raceways</a> and shall also be listed as being flame retardant. Cables with a <a class=\"autolink\" href=\"/viewer/district-of-columbia/irc-2015/chapter/2/definitions#diameter_\">diameter</a> of less than <sup>1</sup>/<sub>4</sub> inch (6.4 mm) shall be permitted to be installed without a <a class=\"autolink\" href=\"/viewer/district-of-columbia/irc-2015/chapter/35/electrical-definitions#raceway\">raceway</a>. [725.179 (D)]",
+                                                "depth": 3,
+                                                "diagrams": [],
+                                                "displayRef": null,
+                                                "displayTitle": "E4303.2.3 Type CL2X Cables",
+                                                "hasAssemblies": false,
+                                                "isContiguous": true,
+                                                "numAssembliesOnRef": 0,
+                                                "numBuildingProductsOnRef": 0,
+                                                "numDiagramsOnRef": 0,
+                                                "reference": "E4303.2.3",
+                                                "slug": "class-2-remote-control-signaling-and-power-limited-circuits",
+                                                "titleText": "Type CL2X Cables",
+                                                "children": []
+                                            },
+                                            {
+                                                "ancestorRefs": [
+                                                    "43",
+                                                    "E4303",
+                                                    "E4303.2"
+                                                ],
+                                                "body": "Cables installed in a vertical run in a shaft or installed from floor to floor shall be listed as suitable for use in a vertical run in a shaft or from floor to floor and shall also be listed as having fire-resistant characteristics capable of preventing fire from being conveyed from floor to floor. [725.179(B)] <br/> <br/> <b>Exception:</b> CL2X and CL3X cables with a <a class=\"autolink\" href=\"/viewer/district-of-columbia/irc-2015/chapter/2/definitions#diameter_\">diameter</a> of less than <sup>1</sup>/<sub>4</sub> inch (6.4 mm) and CL2 and CL3 cables shall be permitted in <a class=\"autolink\" href=\"/viewer/district-of-columbia/irc-2015/chapter/2/definitions#riser_\">risers</a> in one- and <a class=\"autolink\" href=\"/viewer/district-of-columbia/irc-2015/chapter/35/electrical-definitions#two-family_dwelling\">two-family dwelling</a> units. [725.154 (G)]",
+                                                "depth": 3,
+                                                "diagrams": [],
+                                                "displayRef": null,
+                                                "displayTitle": "E4303.2.4 Type CL2R Cables",
+                                                "hasAssemblies": false,
+                                                "isContiguous": true,
+                                                "numAssembliesOnRef": 0,
+                                                "numBuildingProductsOnRef": 0,
+                                                "numDiagramsOnRef": 0,
+                                                "reference": "E4303.2.4",
+                                                "slug": "class-2-remote-control-signaling-and-power-limited-circuits",
+                                                "titleText": "Type CL2R Cables",
+                                                "children": []
+                                            },
+                                            {
+                                                "ancestorRefs": [
+                                                    "43",
+                                                    "E4303",
+                                                    "E4303.2"
+                                                ],
+                                                "body": "Cables shall be marked in accordance with <a class=\"autolink\" href=\"#table_E4303.2\">Table E4303.2</a>.5. Voltage ratings shall not be marked on cables. <br/><br/>\n<table class=\"u-text-center uc_all_borders\"><caption><a id=\"table_E4303.2.5\" href=\"#table_E4303.2.5\" class=\"autolink_target\">Table E4303.2.5 </a>[Table 725.179(K)]<br/>CABLE MARKING</caption>\n<tbody>\n<tr>\n<td class=\"u-align-top uc_all_borders\"><b> CABLE MARKING</b></td>\n<td class=\"u-align-top uc_all_borders\"><b> TYPE</b></td>\n</tr>\n<tr>\n<td class=\"u-align-top uc_all_borders\">CL2P</td>\n<td class=\"u-align-top uc_all_borders\">Class 2 <a class=\"autolink\" href=\"/viewer/district-of-columbia/irc-2015/chapter/35/electrical-definitions#plenum\">plenum</a> cable</td>\n</tr>\n<tr>\n<td class=\"u-align-top uc_all_borders\">CL2R</td>\n<td class=\"u-align-top uc_all_borders\">Class 2 <a class=\"autolink\" href=\"/viewer/district-of-columbia/irc-2015/chapter/2/definitions#riser_\">riser</a> cable</td>\n</tr>\n<tr>\n<td class=\"u-align-top uc_all_borders\">CL2</td>\n<td class=\"u-align-top uc_all_borders\">Class 2 cable</td>\n</tr>\n<tr>\n<td class=\"u-align-top uc_all_borders\">CL2X</td>\n<td class=\"u-align-top uc_all_borders\">Class 2 cable, limited use</td>\n</tr>\n</tbody>\n</table>",
+                                                "depth": 3,
+                                                "diagrams": [],
+                                                "displayRef": null,
+                                                "displayTitle": "E4303.2.5 Marking",
+                                                "hasAssemblies": false,
+                                                "isContiguous": true,
+                                                "numAssembliesOnRef": 0,
+                                                "numBuildingProductsOnRef": 0,
+                                                "numDiagramsOnRef": 0,
+                                                "reference": "E4303.2.5",
+                                                "slug": "class-2-remote-control-signaling-and-power-limited-circuits",
+                                                "titleText": "Marking",
+                                                "children": []
+                                            }
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "ancestorRefs": [
+                                    "43"
+                                ],
+                                "depth": 1,
+                                "diagrams": [],
+                                "displayRef": null,
+                                "displayTitle": "Section E4304 Installation Requirements",
+                                "divisionType": "Section",
+                                "hasAssemblies": false,
+                                "isContiguous": true,
+                                "numAssembliesOnRef": 0,
+                                "numBuildingProductsOnRef": 0,
+                                "numDiagramsOnRef": 0,
+                                "reference": "E4304",
+                                "slug": "class-2-remote-control-signaling-and-power-limited-circuits",
+                                "titleText": "Installation Requirements",
+                                "children": [
+                                    {
+                                        "ancestorRefs": [
+                                            "43",
+                                            "E4304"
+                                        ],
+                                        "body": "In cables, compartments, <a class=\"autolink\" href=\"/viewer/district-of-columbia/irc-2015/chapter/35/electrical-definitions#enclosure\">enclosures</a>, <a class=\"autolink\" href=\"/viewer/district-of-columbia/irc-2015/chapter/35/electrical-definitions#outlet\">outlet</a> boxes, <a class=\"autolink\" href=\"/viewer/district-of-columbia/irc-2015/chapter/35/electrical-definitions#device\">device</a> boxes, and <a class=\"autolink\" href=\"/viewer/district-of-columbia/irc-2015/chapter/35/electrical-definitions#raceway\">raceways</a>, <a class=\"autolink\" href=\"/viewer/district-of-columbia/irc-2015/chapter/35/electrical-definitions#conductor\">conductors</a> of Class 2 circuits shall not be placed in any cable, compartment, <a class=\"autolink\" href=\"/viewer/district-of-columbia/irc-2015/chapter/35/electrical-definitions#enclosure\">enclosure</a>, <a class=\"autolink\" href=\"/viewer/district-of-columbia/irc-2015/chapter/35/electrical-definitions#outlet\">outlet</a> box, <a class=\"autolink\" href=\"/viewer/district-of-columbia/irc-2015/chapter/35/electrical-definitions#device\">device</a> box, <a class=\"autolink\" href=\"/viewer/district-of-columbia/irc-2015/chapter/35/electrical-definitions#raceway\">raceway</a>, or similar <a class=\"autolink\" href=\"/viewer/district-of-columbia/irc-2015/chapter/35/electrical-definitions#fitting\">fitting</a> with <a class=\"autolink\" href=\"/viewer/district-of-columbia/irc-2015/chapter/35/electrical-definitions#conductor\">conductors</a> of electric light, power, Class 1 and nonpower-limited fire alarm circuits. (725.136) <br/> <br/> <b>Exceptions:</b><ol><li>Where the <a class=\"autolink\" href=\"/viewer/district-of-columbia/irc-2015/chapter/35/electrical-definitions#conductor\">conductors</a> of the electric light, power, Class 1 and nonpower-limited fire alarm circuits are separated by a barrier from the Class 2 circuits. In <a class=\"autolink\" href=\"/viewer/district-of-columbia/irc-2015/chapter/35/electrical-definitions#enclosure\">enclosures</a>, Class 2 circuits shall be permitted to be installed in a <a class=\"autolink\" href=\"/viewer/district-of-columbia/irc-2015/chapter/35/electrical-definitions#raceway\">raceway</a> within the <a class=\"autolink\" href=\"/viewer/district-of-columbia/irc-2015/chapter/35/electrical-definitions#enclosure\">enclosure</a> to separate them from Class 1, electric light, power and nonpower-limited fire alarm circuits. [725.136(B)] </li><li>Class 2 <a class=\"autolink\" href=\"/viewer/district-of-columbia/irc-2015/chapter/35/electrical-definitions#conductor\">conductors</a> in compartments, <a class=\"autolink\" href=\"/viewer/district-of-columbia/irc-2015/chapter/35/electrical-definitions#enclosure\">enclosures</a>, <a class=\"autolink\" href=\"/viewer/district-of-columbia/irc-2015/chapter/35/electrical-definitions#device\">device</a> boxes, <a class=\"autolink\" href=\"/viewer/district-of-columbia/irc-2015/chapter/35/electrical-definitions#outlet\">outlet</a> boxes and similar <a class=\"autolink\" href=\"/viewer/district-of-columbia/irc-2015/chapter/35/electrical-definitions#fitting\">fittings</a> where electric light, power, Class 1 or nonpower-limited fire alarm circuit <a class=\"autolink\" href=\"/viewer/district-of-columbia/irc-2015/chapter/35/electrical-definitions#conductor\">conductors</a> are introduced solely to connect to the <a class=\"autolink\" href=\"/viewer/district-of-columbia/irc-2015/chapter/35/electrical-definitions#equipment\">equipment</a> connected to the Class 2 circuits. The electric light, power, Class 1 and nonpower-limited fire alarm circuit <a class=\"autolink\" href=\"/viewer/district-of-columbia/irc-2015/chapter/35/electrical-definitions#conductor\">conductors</a> shall be routed to maintain a minimum of <sup>1</sup>/<sub>4</sub> inch (6.4 mm) separation from the <a class=\"autolink\" href=\"/viewer/district-of-columbia/irc-2015/chapter/35/electrical-definitions#conductor\">conductors</a> and cables of the Class 2 circuits; or the electric light power, Class 1 and nonpower-limited fire alarm circuit <a class=\"autolink\" href=\"/viewer/district-of-columbia/irc-2015/chapter/35/electrical-definitions#conductor\">conductors</a> operate at 150 volts or less to <a class=\"autolink\" href=\"/viewer/district-of-columbia/irc-2015/chapter/35/electrical-definitions#ground\">ground</a> and the Class 2 circuits are installed using Types CL3, CL3R, or CL3P or permitted substitute cables, and provided that these Class 3 cable <a class=\"autolink\" href=\"/viewer/district-of-columbia/irc-2015/chapter/35/electrical-definitions#conductor\">conductors</a> extending beyond their jacket are separated by a minimum of <sup>1</sup>/<sub>4</sub> inch (6.4 mm) or by a nonconductive sleeve or nonconductive barrier from all other <a class=\"autolink\" href=\"/viewer/district-of-columbia/irc-2015/chapter/35/electrical-definitions#conductor\">conductors</a>. [725.136(D)]</li></ol>",
+                                        "depth": 2,
+                                        "diagrams": [],
+                                        "displayRef": null,
+                                        "displayTitle": "E4304.1 Separation From Other Conductors",
+                                        "hasAssemblies": false,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 0,
+                                        "numDiagramsOnRef": 0,
+                                        "reference": "E4304.1",
+                                        "slug": "class-2-remote-control-signaling-and-power-limited-circuits",
+                                        "titleText": "Separation From Other Conductors",
+                                        "children": []
+                                    },
+                                    {
+                                        "ancestorRefs": [
+                                            "43",
+                                            "E4304"
+                                        ],
+                                        "body": "<a class=\"autolink\" href=\"/viewer/district-of-columbia/irc-2015/chapter/35/electrical-definitions#conductor\">Conductors</a> of Class 2 circuits shall be separated by not less than 2 inches (51 mm) from <a class=\"autolink\" href=\"/viewer/district-of-columbia/irc-2015/chapter/35/electrical-definitions#conductor\">conductors</a> of any electric light, power, Class 1 or nonpower-limited fire alarm circuits except where one of the following conditions is met: <ol><li>All of the electric light, power, Class 1 and nonpower-limited fire alarm circuit <a class=\"autolink\" href=\"/viewer/district-of-columbia/irc-2015/chapter/35/electrical-definitions#conductor\">conductors</a> are in <a class=\"autolink\" href=\"/viewer/district-of-columbia/irc-2015/chapter/35/electrical-definitions#raceway\">raceways</a> or in metal-sheathed, metal-clad, nonmetallic-sheathed or Type UF cables. </li><li>All of the Class 2 circuit <a class=\"autolink\" href=\"/viewer/district-of-columbia/irc-2015/chapter/35/electrical-definitions#conductor\">conductors</a> are in <a class=\"autolink\" href=\"/viewer/district-of-columbia/irc-2015/chapter/35/electrical-definitions#raceway\">raceways</a> or in metal-sheathed, metal-clad, nonmetallic-sheathed or Type UF cables. [725.136(I)]</li></ol>",
+                                        "depth": 2,
+                                        "diagrams": [],
+                                        "displayRef": null,
+                                        "displayTitle": "E4304.2 Other Applications",
+                                        "hasAssemblies": false,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 0,
+                                        "numDiagramsOnRef": 0,
+                                        "reference": "E4304.2",
+                                        "slug": "class-2-remote-control-signaling-and-power-limited-circuits",
+                                        "titleText": "Other Applications",
+                                        "children": []
+                                    },
+                                    {
+                                        "ancestorRefs": [
+                                            "43",
+                                            "E4304"
+                                        ],
+                                        "body": "Where Class 2 circuit <a class=\"autolink\" href=\"/viewer/district-of-columbia/irc-2015/chapter/35/electrical-definitions#conductor\">conductors</a> are in the same cable as communications circuits, the Class 2 circuits shall be classified as communications circuits and shall meet the requirements of Article 800 of NFPA 70. The cables shall be listed as communications cables or multipurpose cables. <br/> <br/> Cables constructed of individually listed Class 2 and communications cables under a common jacket shall be permitted to be classified as communications cables. The fire-resistance rating of the composite cable shall be determined by the performance of the composite cable. [725.139(D)]",
+                                        "depth": 2,
+                                        "diagrams": [],
+                                        "displayRef": null,
+                                        "displayTitle": "E4304.3 Class 2 Circuits With Communications Circuits",
+                                        "hasAssemblies": false,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 0,
+                                        "numDiagramsOnRef": 0,
+                                        "reference": "E4304.3",
+                                        "slug": "class-2-remote-control-signaling-and-power-limited-circuits",
+                                        "titleText": "Class 2 Circuits With Communications Circuits",
+                                        "children": []
+                                    },
+                                    {
+                                        "ancestorRefs": [
+                                            "43",
+                                            "E4304"
+                                        ],
+                                        "body": "Jacketed cables of Class 2 circuits shall be permitted in the same <a class=\"autolink\" href=\"/viewer/district-of-columbia/irc-2015/chapter/35/electrical-definitions#enclosure\">enclosure</a> or <a class=\"autolink\" href=\"/viewer/district-of-columbia/irc-2015/chapter/35/electrical-definitions#raceway\">raceway</a> with jacketed cables of any of the following: <ol><li>Power-limited fire alarm systems in compliance with Article 760 of NFPA 70. </li><li>Nonconductive and conductive optical fiber cables in compliance with Article 770 of NFPA 70. </li><li>Communications circuits in compliance with Article 800 of NFPA 70. </li><li>Community antenna television and radio distribution systems in compliance with Article 820 of NFPA 70. </li><li>Low-power, network-powered broadband communications in compliance with Article 830 of NFPA 70. [725.139(E)]</li></ol>",
+                                        "depth": 2,
+                                        "diagrams": [],
+                                        "displayRef": null,
+                                        "displayTitle": "E4304.4 Class 2 Cables With Other Circuit Cables",
+                                        "hasAssemblies": false,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 0,
+                                        "numDiagramsOnRef": 0,
+                                        "reference": "E4304.4",
+                                        "slug": "class-2-remote-control-signaling-and-power-limited-circuits",
+                                        "titleText": "Class 2 Cables With Other Circuit Cables",
+                                        "children": []
+                                    },
+                                    {
+                                        "ancestorRefs": [
+                                            "43",
+                                            "E4304"
+                                        ],
+                                        "body": "Cables and <a class=\"autolink\" href=\"/viewer/district-of-columbia/irc-2015/chapter/35/electrical-definitions#conductor\">conductors</a> installed <a class=\"autolink\" href=\"/viewer/district-of-columbia/irc-2015/chapter/35/electrical-definitions#exposed\">exposed</a> on the surface of ceilings and sidewalls shall be supported by the building structure in such a manner that they will not be damaged by normal building use. Such cables shall be supported by straps, staples, <a class=\"autolink\" href=\"/viewer/district-of-columbia/irc-2015/chapter/2/definitions#hangers_\">hangers</a>, cable ties or similar <a class=\"autolink\" href=\"/viewer/district-of-columbia/irc-2015/chapter/35/electrical-definitions#fitting\">fittings</a> designed so as to not damage the cable. Nonmetallic cable ties and other nonmetallic accessories used to secure and support cables located in stud cavity and joist space <a class=\"autolink\" href=\"/viewer/district-of-columbia/irc-2015/chapter/35/electrical-definitions#plenum\">plenums</a> shall be listed as having low smoke and heat release properties. The installation shall comply with <a class=\"autolink\" href=\"/viewer/district-of-columbia/irc-2015/chapter/38/wiring-methods#table_E3802.1\">Table E3802.1</a> regarding cables run parallel with framing members and furring strips. The installation of wires and cables shall not prevent access to <a class=\"autolink\" href=\"/viewer/district-of-columbia/irc-2015/chapter/35/electrical-definitions#equipment\">equipment</a> nor prevent removal of panels, including suspended ceiling panels. <a class=\"autolink\" href=\"/viewer/district-of-columbia/irc-2015/chapter/35/electrical-definitions#raceway\">Raceways</a> shall not be used as a means of support for Class 2 circuit <a class=\"autolink\" href=\"/viewer/district-of-columbia/irc-2015/chapter/35/electrical-definitions#conductor\">conductors</a>, except where the supporting <a class=\"autolink\" href=\"/viewer/district-of-columbia/irc-2015/chapter/35/electrical-definitions#raceway\">raceway</a> contains <a class=\"autolink\" href=\"/viewer/district-of-columbia/irc-2015/chapter/35/electrical-definitions#conductor\">conductors</a> supplying power to the functionally associated <a class=\"autolink\" href=\"/viewer/district-of-columbia/irc-2015/chapter/35/electrical-definitions#equipment\">equipment</a> controlled by the Class 2 <a class=\"autolink\" href=\"/viewer/district-of-columbia/irc-2015/chapter/35/electrical-definitions#conductor\">conductors</a>. [300.22 (C) (1) and 725.24]",
+                                        "depth": 2,
+                                        "diagrams": [],
+                                        "displayRef": null,
+                                        "displayTitle": "E4304.5 Installation of Conductors and Cables",
+                                        "hasAssemblies": false,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 0,
+                                        "numDiagramsOnRef": 0,
+                                        "reference": "E4304.5",
+                                        "slug": "class-2-remote-control-signaling-and-power-limited-circuits",
+                                        "titleText": "Installation of Conductors and Cables",
+                                        "children": []
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            "chapterReference": "43"
+        },
+        "__N_SSP": true
+    },
+    "page": "/viewer/[urlFormPubOrJurisKey]/[urlFormPub]/chapter/[chapterRef]/[chapterName]",
+    "query": {
+        "urlFormPubOrJurisKey": "district-of-columbia",
+        "urlFormPub": "irc-2015",
+        "chapterRef": "43",
+        "chapterName": "class-2-remote-control-signaling-and-power-limited-circuits"
+    },
+    "buildId": "1fSFT4-IdVJWcsxmeyZE8",
+    "isFallback": false,
+    "isExperimentalCompile": false,
+    "dynamicIds": [
+        61621,
+        54065
+    ],
+    "gssp": true,
+    "scriptLoader": []
+}

@@ -1,0 +1,709 @@
+{
+    "props": {
+        "pageProps": {
+            "missingRequiredLogin": false,
+            "title": "Chapter 3 Provisions for All Compliance Methods: District of Columbia Existing Building Code 2017 | UpCodes",
+            "leanChapterViewerData": {
+                "basePubName": "International Existing Building Code 2015 (IEBC 2015)",
+                "codeGroupingYear": "2020",
+                "codeName": "District of Columbia Existing Building Code 2017",
+                "codeUuid": "640ae730-bbd0-4f49-b845-a698c5f323c8",
+                "codeVersions": [
+                    {
+                        "codeUuid": "640ae730-bbd0-4f49-b845-a698c5f323c8",
+                        "name": "Original Adoption",
+                        "effectiveStartDate": "2020-05-29",
+                        "shortformUrlName": "iebc-2015",
+                        "activeStatus": "active"
+                    }
+                ],
+                "ingesterAmendmentsEnabled": false,
+                "ingesterCodeUnitsEnabled": false,
+                "isAmendStylingEnabled": true,
+                "isCorrespondable": true,
+                "jurisKey": "district-of-columbia",
+                "jurisName": "District of Columbia",
+                "metaInfoUrl": "/viewer/district-of-columbia/iebc-2015",
+                "modelCodeUrl": null,
+                "placeholder": "Search District of Columbia Existing Building Code 2017",
+                "pubKey": "int_ebc_2015",
+                "pubPrefix": "int_ebc",
+                "shortformPubName": "iebc-2015",
+                "withAmendments": true,
+                "chapterRef": "3",
+                "publisher": "icc",
+                "hasLinkedResources": false,
+                "initialNonChapterTocLines": [
+                    {
+                        "amendType": null,
+                        "children": [
+                            {
+                                "amendType": null,
+                                "children": [
+                                    {
+                                        "amendType": null,
+                                        "children": [],
+                                        "depth": 3,
+                                        "displayTitle": "301.1.1 Prescriptive Compliance Method",
+                                        "hasExpanderArrow": false,
+                                        "href": "#301.1.1",
+                                        "isCodeDivider": false,
+                                        "isCodeDividerClickable": false,
+                                        "reference": "301.1.1"
+                                    },
+                                    {
+                                        "amendType": null,
+                                        "children": [],
+                                        "depth": 3,
+                                        "displayTitle": "301.1.2 Work Area Compliance Method",
+                                        "hasExpanderArrow": false,
+                                        "href": "#301.1.2",
+                                        "isCodeDivider": false,
+                                        "isCodeDividerClickable": false,
+                                        "reference": "301.1.2"
+                                    },
+                                    {
+                                        "amendType": null,
+                                        "children": [],
+                                        "depth": 3,
+                                        "displayTitle": "301.1.3 Performance Compliance Method",
+                                        "hasExpanderArrow": false,
+                                        "href": "#301.1.3",
+                                        "isCodeDivider": false,
+                                        "isCodeDividerClickable": false,
+                                        "reference": "301.1.3"
+                                    },
+                                    {
+                                        "amendType": null,
+                                        "children": [
+                                            {
+                                                "amendType": null,
+                                                "children": [],
+                                                "depth": 4,
+                                                "displayTitle": "301.1.4.1 Compliance With International Building Code-Level Seismic Forces",
+                                                "hasExpanderArrow": false,
+                                                "href": "#301.1.4.1",
+                                                "isCodeDivider": false,
+                                                "isCodeDividerClickable": false,
+                                                "reference": "301.1.4.1"
+                                            },
+                                            {
+                                                "amendType": null,
+                                                "children": [],
+                                                "depth": 4,
+                                                "displayTitle": "301.1.4.2 Compliance With Reduced International Building Code-Level Seismic Forces",
+                                                "hasExpanderArrow": false,
+                                                "href": "#301.1.4.2",
+                                                "isCodeDivider": false,
+                                                "isCodeDividerClickable": false,
+                                                "reference": "301.1.4.2"
+                                            }
+                                        ],
+                                        "depth": 3,
+                                        "displayTitle": "301.1.4 Seismic Evaluation and Design Procedures",
+                                        "hasExpanderArrow": true,
+                                        "href": "#301.1.4",
+                                        "isCodeDivider": false,
+                                        "isCodeDividerClickable": false,
+                                        "reference": "301.1.4"
+                                    }
+                                ],
+                                "depth": 2,
+                                "displayTitle": "301.1 General",
+                                "hasExpanderArrow": true,
+                                "href": "#301.1",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "reference": "301.1"
+                            }
+                        ],
+                        "depth": 1,
+                        "displayTitle": "301 Administration",
+                        "hasExpanderArrow": true,
+                        "href": "#301",
+                        "isCodeDivider": false,
+                        "isCodeDividerClickable": false,
+                        "reference": "301"
+                    },
+                    {
+                        "amendType": null,
+                        "children": [
+                            {
+                                "amendType": null,
+                                "children": [],
+                                "depth": 2,
+                                "displayTitle": "302.1 Applicability",
+                                "hasExpanderArrow": false,
+                                "href": "#302.1",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "reference": "302.1"
+                            },
+                            {
+                                "amendType": null,
+                                "children": [],
+                                "depth": 2,
+                                "displayTitle": "302.2 Additional Codes",
+                                "hasExpanderArrow": false,
+                                "href": "#302.2",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "reference": "302.2"
+                            },
+                            {
+                                "amendType": null,
+                                "children": [],
+                                "depth": 2,
+                                "displayTitle": "302.3 Existing Materials",
+                                "hasExpanderArrow": false,
+                                "href": "#302.3",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "reference": "302.3"
+                            },
+                            {
+                                "amendType": null,
+                                "children": [],
+                                "depth": 2,
+                                "displayTitle": "302.4 New and Replacement Materials",
+                                "hasExpanderArrow": false,
+                                "href": "#302.4",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "reference": "302.4"
+                            },
+                            {
+                                "amendType": null,
+                                "children": [],
+                                "depth": 2,
+                                "displayTitle": "302.5 Occupancy and Use",
+                                "hasExpanderArrow": false,
+                                "href": "#302.5",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "reference": "302.5"
+                            }
+                        ],
+                        "depth": 1,
+                        "displayTitle": "302 General Provisions",
+                        "hasExpanderArrow": true,
+                        "href": "#302",
+                        "isCodeDivider": false,
+                        "isCodeDividerClickable": false,
+                        "reference": "302"
+                    }
+                ],
+                "title": "Chapter 3 Provisions for All Compliance Methods: District of Columbia Existing Building Code 2017 | UpCodes",
+                "leanChapterLines": [
+                    {
+                        "displayTitle": "Chapter 1 Scope and Administration",
+                        "isExpandable": true,
+                        "reference": "1",
+                        "slug": "scope-and-administration"
+                    },
+                    {
+                        "displayTitle": "Chapter 2 Definitions",
+                        "isExpandable": true,
+                        "reference": "2",
+                        "slug": "definitions"
+                    },
+                    {
+                        "displayTitle": "Chapter 3 Provisions for All Compliance Methods",
+                        "isExpandable": true,
+                        "reference": "3",
+                        "slug": "provisions-for-all-compliance-methods"
+                    },
+                    {
+                        "amendType": "edit",
+                        "displayTitle": "Chapter 4 Prescriptive Compliance Method<span class=\"code_addition\">s</span>",
+                        "isExpandable": true,
+                        "reference": "4",
+                        "slug": "prescriptive-compliance-method"
+                    },
+                    {
+                        "displayTitle": "Chapter 5 Classification of Work",
+                        "isExpandable": true,
+                        "reference": "5",
+                        "slug": "classification-of-work"
+                    },
+                    {
+                        "displayTitle": "Chapter 6 Repairs",
+                        "isExpandable": true,
+                        "reference": "6",
+                        "slug": "repairs"
+                    },
+                    {
+                        "displayTitle": "Chapter 7 Alterations - Level 1",
+                        "isExpandable": true,
+                        "reference": "7",
+                        "slug": "alterations-level-1"
+                    },
+                    {
+                        "displayTitle": "Chapter 8 Alterations - Level 2",
+                        "isExpandable": true,
+                        "reference": "8",
+                        "slug": "alterations-level-2"
+                    },
+                    {
+                        "displayTitle": "Chapter 9 Alterations - Level 3",
+                        "isExpandable": true,
+                        "reference": "9",
+                        "slug": "alterations-level-3"
+                    },
+                    {
+                        "displayTitle": "Chapter 10 Change of Occupancy",
+                        "isExpandable": true,
+                        "reference": "10",
+                        "slug": "change-of-occupancy"
+                    },
+                    {
+                        "displayTitle": "Chapter 11 Additions",
+                        "isExpandable": true,
+                        "reference": "11",
+                        "slug": "additions"
+                    },
+                    {
+                        "displayTitle": "Chapter 12 Historic Buildings",
+                        "isExpandable": true,
+                        "reference": "12",
+                        "slug": "historic-buildings"
+                    },
+                    {
+                        "displayTitle": "Chapter 13 Relocated or Moved Buildings",
+                        "isExpandable": true,
+                        "reference": "13",
+                        "slug": "relocated-or-moved-buildings"
+                    },
+                    {
+                        "displayTitle": "Chapter 14 Performance Compliance Methods",
+                        "isExpandable": true,
+                        "reference": "14",
+                        "slug": "performance-compliance-methods"
+                    },
+                    {
+                        "displayTitle": "Chapter 15 Construction Safeguards",
+                        "isExpandable": true,
+                        "reference": "15",
+                        "slug": "construction-safeguards"
+                    },
+                    {
+                        "displayTitle": "Chapter 16 Referenced Standards",
+                        "reference": "16",
+                        "slug": "referenced-standards"
+                    },
+                    {
+                        "displayTitle": "Chapter A1 Seismic Strengthening Provisions for Unreinforced Masonry Bearing Wall Buildings",
+                        "isExpandable": true,
+                        "reference": "A1",
+                        "slug": "seismic-strengthening-provisions-for-unreinforced-masonry-bearing-wall-buildings"
+                    },
+                    {
+                        "displayTitle": "Chapter A2 Earthquake Hazard Reduction in Existing Reinforced Concrete and Reinforced Masonry Wall Buildings With Flexible Diaphragms",
+                        "isExpandable": true,
+                        "reference": "A2",
+                        "slug": "earthquake-hazard-reduction-in-existing-reinforced-concrete-and-reinforced-mason"
+                    },
+                    {
+                        "displayTitle": "Chapter A3 Prescriptive Provisions for Seismic Strengthening of Cripple Walls and Sill Plate Anchorage of Light, Wood-Frame Residential Buildings",
+                        "isExpandable": true,
+                        "reference": "A3",
+                        "slug": "prescriptive-provisions-for-seismic-strengthening-of-cripple-walls-and-sill-plat"
+                    },
+                    {
+                        "displayTitle": "Chapter A4 Earthquake Risk Reduction in Wood-Frame Residential Buildings With Soft, Weak or Open Front Walls",
+                        "isExpandable": true,
+                        "reference": "A4",
+                        "slug": "earthquake-risk-reduction-in-wood-frame-residential-buildings-with-soft-weak-or"
+                    },
+                    {
+                        "displayTitle": "Chapter A5 Earthquake Hazard Reduction in Existing Concrete Buildings",
+                        "isExpandable": true,
+                        "reference": "A5",
+                        "slug": "earthquake-hazard-reduction-in-existing-concrete-buildings"
+                    },
+                    {
+                        "displayTitle": "Chapter A6 Referenced Standards",
+                        "reference": "A6",
+                        "slug": "referenced-standards"
+                    },
+                    {
+                        "disabled": true,
+                        "displayTitle": "Appendix B Supplementary Accessibility Requirements for Existing Buildings and Facilities",
+                        "reference": "B",
+                        "slug": "supplementary-accessibility-requirements-for-existing-buildings-and-facilities"
+                    },
+                    {
+                        "disabled": true,
+                        "displayTitle": "Appendix C Guidelines for the Wind Retrofit of Existing Buildings",
+                        "reference": "C",
+                        "slug": "guidelines-for-the-wind-retrofit-of-existing-buildings"
+                    },
+                    {
+                        "disabled": true,
+                        "displayTitle": "Chapter C2 Roof Deck Fastening for High-Wind Areas",
+                        "reference": "C2",
+                        "slug": "roof-deck-fastening-for-high-wind-areas"
+                    },
+                    {
+                        "disabled": true,
+                        "displayTitle": "Resource A Guidelines on Fire Ratings of Archaic Materials and Assemblies",
+                        "reference": "A",
+                        "slug": "guidelines-on-fire-ratings-of-archaic-materials-and-assemblies"
+                    }
+                ],
+                "leanCodeSectionsTree": [
+                    {
+                        "ancestorRefs": [],
+                        "depth": 0,
+                        "diagrams": [],
+                        "displayRef": null,
+                        "displayTitle": "Chapter 3 Provisions for All Compliance Methods",
+                        "divisionType": "Chapter",
+                        "hasAssemblies": false,
+                        "isContiguous": true,
+                        "numAssembliesOnRef": 0,
+                        "numBuildingProductsOnRef": 0,
+                        "numDiagramsOnRef": 0,
+                        "reference": "3",
+                        "slug": "provisions-for-all-compliance-methods",
+                        "titleText": "Provisions for All Compliance Methods",
+                        "children": [
+                            {
+                                "ancestorRefs": [
+                                    "3"
+                                ],
+                                "depth": 1,
+                                "diagrams": [],
+                                "displayRef": null,
+                                "displayTitle": "Section 301 Administration",
+                                "divisionType": "Section",
+                                "hasAssemblies": false,
+                                "isContiguous": true,
+                                "numAssembliesOnRef": 0,
+                                "numBuildingProductsOnRef": 0,
+                                "numDiagramsOnRef": 0,
+                                "reference": "301",
+                                "slug": "provisions-for-all-compliance-methods",
+                                "titleText": "Administration",
+                                "children": [
+                                    {
+                                        "ancestorRefs": [
+                                            "3",
+                                            "301"
+                                        ],
+                                        "body": "The <i><a class=\"autolink\" href=\"/viewer/district-of-columbia/iebc-2015/chapter/2/definitions#repair_\">repair</a></i>, <i><a class=\"autolink\" href=\"/viewer/district-of-columbia/iebc-2015/chapter/2/definitions#alteration_\">alteration</a></i>, <i><a class=\"autolink\" href=\"/viewer/district-of-columbia/iebc-2015/chapter/2/definitions#change_of_occupancy_\">change of occupancy</a></i>, <i><a class=\"autolink\" href=\"/viewer/district-of-columbia/iebc-2015/chapter/2/definitions#addition_\">addition</a> </i>or relocation of all <i><a class=\"autolink\" href=\"/viewer/district-of-columbia/iebc-2015/chapter/2/definitions#existing_building_\">existing buildings</a> </i>shall comply with one of the methods listed in Sections <a class=\"autolink\" href=\"#301.1.1\">301.1.1</a> through <a class=\"autolink\" href=\"#301.1.3\">301.1.3</a> as selected by the applicant. Sections <a class=\"autolink\" href=\"#301.1.1\">301.1.1</a> through <a class=\"autolink\" href=\"#301.1.3\">301.1.3</a> shall not be applied in combination with each other. Where this code requires consideration of the seismic force-resisting system of an <i><a class=\"autolink\" href=\"/viewer/district-of-columbia/iebc-2015/chapter/2/definitions#existing_building_\">existing building</a> </i>subject to <i><a class=\"autolink\" href=\"/viewer/district-of-columbia/iebc-2015/chapter/2/definitions#repair_\">repair</a></i>, <i><a class=\"autolink\" href=\"/viewer/district-of-columbia/iebc-2015/chapter/2/definitions#alteration_\">alteration</a></i>, <i><a class=\"autolink\" href=\"/viewer/district-of-columbia/iebc-2015/chapter/2/definitions#change_of_occupancy_\">change of occupancy</a></i>, <i><a class=\"autolink\" href=\"/viewer/district-of-columbia/iebc-2015/chapter/2/definitions#addition_\">addition</a> </i>or relocation of <i><a class=\"autolink\" href=\"/viewer/district-of-columbia/iebc-2015/chapter/2/definitions#existing_building_\">existing buildings</a>,</i> the seismic evaluation and design shall be based on <a class=\"autolink\" href=\"#301.1.4\">Section 301.1.4</a> regardless of which compliance method is used. <br/>\n<div class=\"uc_exception\"><span class=\"u-font-bold\">Exception:</span> Subject to the approval of the <i><a class=\"autolink\" href=\"/viewer/district-of-columbia/iebc-2015/chapter/2/definitions#code_official_\">code official</a></i>, <i><a class=\"autolink\" href=\"/viewer/district-of-columbia/iebc-2015/chapter/2/definitions#alteration_\">alterations</a> </i>complying with the laws in existence at the time the building or the affected portion of the building was built shall be considered in compliance with the provisions of this code unless the building is undergoing more than a limited structural <i> <a class=\"autolink\" href=\"/viewer/district-of-columbia/iebc-2015/chapter/2/definitions#alteration_\">alteration</a> </i>as defined in <a class=\"autolink\" href=\"/viewer/district-of-columbia/iebc-2015/chapter/9/alterations-level-3#907.4.4\">Section 907.4.4</a>. New structural members added as part of the <i><a class=\"autolink\" href=\"/viewer/district-of-columbia/iebc-2015/chapter/2/definitions#alteration_\">alteration</a> </i>shall comply with the <i><a class=\"autolink\" href=\"/viewer/district-of-columbia/ibc-2015\">International Building Code</a></i>. <i><a class=\"autolink\" href=\"/viewer/district-of-columbia/iebc-2015/chapter/2/definitions#alteration_\">Alteration</a></i>s of <i><a class=\"autolink\" href=\"/viewer/district-of-columbia/iebc-2015/chapter/2/definitions#existing_building_\">existing buildings</a> </i>in <i><a class=\"autolink\" href=\"/viewer/district-of-columbia/iebc-2015/chapter/2/definitions#flood_hazard_area_\">flood hazard areas</a> </i>shall comply with <a class=\"autolink\" href=\"/viewer/district-of-columbia/iebc-2015/chapter/7/alterations-level-1#701.3\">Section 701.3</a>.</div>",
+                                        "depth": 2,
+                                        "diagrams": [],
+                                        "displayRef": null,
+                                        "displayTitle": "301.1 General",
+                                        "hasAssemblies": false,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 0,
+                                        "numDiagramsOnRef": 0,
+                                        "reference": "301.1",
+                                        "slug": "provisions-for-all-compliance-methods",
+                                        "titleText": "General",
+                                        "children": [
+                                            {
+                                                "ancestorRefs": [
+                                                    "3",
+                                                    "301",
+                                                    "301.1"
+                                                ],
+                                                "body": "<i><a class=\"autolink\" href=\"/viewer/district-of-columbia/iebc-2015/chapter/2/definitions#repair_\">Repairs</a></i>, <i><a class=\"autolink\" href=\"/viewer/district-of-columbia/iebc-2015/chapter/2/definitions#alteration_\">alterations</a></i>, <i><a class=\"autolink\" href=\"/viewer/district-of-columbia/iebc-2015/chapter/2/definitions#addition_\">additions</a> </i>and <i><a class=\"autolink\" href=\"/viewer/district-of-columbia/iebc-2015/chapter/2/definitions#change_of_occupancy_\">changes of occupancy</a> </i>complying with <a class=\"autolink\" href=\"/viewer/district-of-columbia/ifc-2015/chapter/4/emergency-planning-and-preparedness#4\">Chapter 4</a> of this code in buildings complying with the <i><a class=\"autolink\" href=\"/viewer/district-of-columbia/ifc-2015\">International Fire Code</a> </i>shall be considered in compliance with the provisions of this code.",
+                                                "depth": 3,
+                                                "diagrams": [],
+                                                "displayRef": null,
+                                                "displayTitle": "301.1.1 Prescriptive Compliance Method",
+                                                "hasAssemblies": false,
+                                                "isContiguous": true,
+                                                "numAssembliesOnRef": 0,
+                                                "numBuildingProductsOnRef": 0,
+                                                "numDiagramsOnRef": 0,
+                                                "reference": "301.1.1",
+                                                "slug": "provisions-for-all-compliance-methods",
+                                                "titleText": "Prescriptive Compliance Method",
+                                                "children": []
+                                            },
+                                            {
+                                                "ancestorRefs": [
+                                                    "3",
+                                                    "301",
+                                                    "301.1"
+                                                ],
+                                                "body": "<i><a class=\"autolink\" href=\"/viewer/district-of-columbia/iebc-2015/chapter/2/definitions#repair_\">Repairs</a></i>, <i><a class=\"autolink\" href=\"/viewer/district-of-columbia/iebc-2015/chapter/2/definitions#alteration_\">alterations</a>, <a class=\"autolink\" href=\"/viewer/district-of-columbia/iebc-2015/chapter/2/definitions#addition_\">additions</a>, changes in occupancy and relocated buildings complying with the applicable requirements of Chapters <a class=\"autolink\" href=\"/viewer/district-of-columbia/iebc-2015/chapter/5/classification-of-work#5\">5</a> through <a class=\"autolink\" href=\"/viewer/district-of-columbia/iebc-2015/chapter/13/relocated-or-moved-buildings#13\">13</a> of this code shall be considered in compliance with the provisions of this code.</i>",
+                                                "depth": 3,
+                                                "diagrams": [],
+                                                "displayRef": null,
+                                                "displayTitle": "301.1.2 Work Area Compliance Method",
+                                                "hasAssemblies": false,
+                                                "isContiguous": true,
+                                                "numAssembliesOnRef": 0,
+                                                "numBuildingProductsOnRef": 0,
+                                                "numDiagramsOnRef": 0,
+                                                "reference": "301.1.2",
+                                                "slug": "provisions-for-all-compliance-methods",
+                                                "titleText": "Work Area Compliance Method",
+                                                "children": []
+                                            },
+                                            {
+                                                "ancestorRefs": [
+                                                    "3",
+                                                    "301",
+                                                    "301.1"
+                                                ],
+                                                "body": "<i><a class=\"autolink\" href=\"/viewer/district-of-columbia/iebc-2015/chapter/2/definitions#repair_\">Repairs</a></i>, <i><a class=\"autolink\" href=\"/viewer/district-of-columbia/iebc-2015/chapter/2/definitions#alteration_\">alterations</a></i>, <i><a class=\"autolink\" href=\"/viewer/district-of-columbia/iebc-2015/chapter/2/definitions#addition_\">additions</a></i>, changes in occupancy and relocated buildings complying with <a class=\"autolink\" href=\"/viewer/district-of-columbia/iebc-2015/chapter/14/performance-compliance-methods#14\">Chapter 14</a> of this code shall be considered in compliance with the provisions of this code.",
+                                                "depth": 3,
+                                                "diagrams": [],
+                                                "displayRef": null,
+                                                "displayTitle": "301.1.3 Performance Compliance Method",
+                                                "hasAssemblies": false,
+                                                "isContiguous": true,
+                                                "numAssembliesOnRef": 0,
+                                                "numBuildingProductsOnRef": 0,
+                                                "numDiagramsOnRef": 0,
+                                                "reference": "301.1.3",
+                                                "slug": "provisions-for-all-compliance-methods",
+                                                "titleText": "Performance Compliance Method",
+                                                "children": []
+                                            },
+                                            {
+                                                "ancestorRefs": [
+                                                    "3",
+                                                    "301",
+                                                    "301.1"
+                                                ],
+                                                "body": "The seismic evaluation and design shall be based on the procedures specified in the <i><a class=\"autolink\" href=\"/viewer/district-of-columbia/ibc-2015\">International Building Code</a> </i>or ASCE 41. The procedures contained in Appendix A of this code shall be permitted to be used as specified in <a class=\"autolink\" href=\"#301.1.4.2\">Section 301.1.4.2</a>.",
+                                                "depth": 3,
+                                                "diagrams": [],
+                                                "displayRef": null,
+                                                "displayTitle": "[BS]  301.1.4 Seismic Evaluation and Design Procedures",
+                                                "hasAssemblies": false,
+                                                "isContiguous": true,
+                                                "numAssembliesOnRef": 0,
+                                                "numBuildingProductsOnRef": 0,
+                                                "numDiagramsOnRef": 0,
+                                                "reference": "301.1.4",
+                                                "refPrefix": "[BS]",
+                                                "slug": "provisions-for-all-compliance-methods",
+                                                "titleText": "Seismic Evaluation and Design Procedures",
+                                                "children": [
+                                                    {
+                                                        "ancestorRefs": [
+                                                            "3",
+                                                            "301",
+                                                            "301.1",
+                                                            "301.1.4"
+                                                        ],
+                                                        "body": "Where compliance with the seismic design provisions of the <a class=\"autolink\" href=\"/viewer/district-of-columbia/ibc-2015\">International Building Code</a> is required, the criteria shall be in accordance with one of the following:\n<ol>\n<li>One-hundred percent of the values in the <a class=\"autolink\" href=\"/viewer/district-of-columbia/ibc-2015\">International Building Code</a>. Where the existing seismic force-resisting system is a type that can be designated as \"Ordinary,\" values of <i>R</i>, \u03a9<sub>0</sub> and <i>C<sub>d</sub></i> used for analysis in accordance with <a class=\"autolink\" href=\"/viewer/district-of-columbia/ibc-2015/chapter/16/structural-design#16\">Chapter 16</a> of the <a class=\"autolink\" href=\"/viewer/district-of-columbia/ibc-2015\">International Building Code</a> shall be those specified for structural systems classified as \"Ordinary\" in accordance with Table 12.2-1 of ASCE 7, unless it can be demonstrated that the structural system will provide performance equivalent to that of a \"Detailed,\" \"Intermediate\" or \"Special\" system.</li>\n<li>ASCE 41, using a Tier 3 procedure and the two-level performance objective in Table 301.1.4.1 for the applicable risk category.</li>\n</ol>\n<table class=\"uc_all_borders\"><caption><b>[BS] <a id=\"table_301.1.4.1\" href=\"#table_301.1.4.1\" class=\"autolink_target\">TABLE 301.1.4.1 </a><br/>PERFORMANCE OBJECTIVES FOR USE IN ASCE 41 FOR COMPLIANCE WITH <a class=\"autolink\" href=\"/viewer/district-of-columbia/ibc-2015\">INTERNATIONAL BUILDING CODE</a>-LEVEL SEISMIC FORCES </b></caption>\n<tbody>\n<tr>\n<td class=\"u-text-center uc_all_borders\"><b>RISK CATEGORY <br/>(Based on IBC Table 1604.5)</b></td>\n<td class=\"u-text-center uc_all_borders\"><b>STRUCTURAL PERFORMANCE LEVEL FOR USE <br/>WITH BSE-1N EARTHQUAKE HAZARD LEVEL</b></td>\n<td class=\"u-text-center uc_all_borders\"><b>STRUCTURAL PERFORMANCE LEVEL FOR USE <br/>WITH BSE-2N EARTHQUAKE HAZARD LEVEL</b></td>\n</tr>\n<tr>\n<td class=\"u-text-center uc_all_borders\">I</td>\n<td class=\"u-text-center uc_all_borders\">Life Safety (S-3)</td>\n<td class=\"u-text-center uc_all_borders\">Collapse Prevention (S-5)</td>\n</tr>\n<tr>\n<td class=\"u-text-center uc_all_borders\">II</td>\n<td class=\"u-text-center uc_all_borders\">Life Safety (S-3)</td>\n<td class=\"u-text-center uc_all_borders\">Collapse Prevention (S-5)</td>\n</tr>\n<tr>\n<td class=\"u-text-center uc_all_borders\">III</td>\n<td class=\"u-text-center uc_all_borders\">Damage Control (S-2)</td>\n<td class=\"u-text-center uc_all_borders\">Limited Safety (S-4)</td>\n</tr>\n<tr>\n<td class=\"u-text-center uc_all_borders\">IV</td>\n<td class=\"u-text-center uc_all_borders\">Immediate Occupancy (S-1)</td>\n<td class=\"u-text-center uc_all_borders\">Life Safety (S-3)</td>\n</tr>\n</tbody>\n</table>",
+                                                        "depth": 4,
+                                                        "diagrams": [],
+                                                        "displayRef": null,
+                                                        "displayTitle": "[BS]  301.1.4.1 Compliance With International Building Code-Level Seismic Forces",
+                                                        "hasAssemblies": false,
+                                                        "isContiguous": true,
+                                                        "numAssembliesOnRef": 0,
+                                                        "numBuildingProductsOnRef": 0,
+                                                        "numDiagramsOnRef": 0,
+                                                        "reference": "301.1.4.1",
+                                                        "refPrefix": "[BS]",
+                                                        "slug": "provisions-for-all-compliance-methods",
+                                                        "titleText": "Compliance With International Building Code-Level Seismic Forces",
+                                                        "children": []
+                                                    },
+                                                    {
+                                                        "ancestorRefs": [
+                                                            "3",
+                                                            "301",
+                                                            "301.1",
+                                                            "301.1.4"
+                                                        ],
+                                                        "body": "Where seismic evaluation and design is permitted to meet reduced <i><a class=\"autolink\" href=\"/viewer/district-of-columbia/ibc-2015\">International Building Code</a> </i>seismic force levels, the criteria used shall be in accordance with one of the following: <br/><br/>\n<div class=\"u-list-dot-separated-deprecated\">\n<ol>\n<li>The<i> <a class=\"autolink\" href=\"/viewer/district-of-columbia/ibc-2015\">International Building Code</a> </i>using 75 percent of the prescribed forces. Values of <i>R</i>, \u03a9<sub>0</sub> and <i>C<sub>d</sub></i> used for analysis shall be as specified in <a class=\"autolink\" href=\"#301.1.4.1\">Section 301.1.4.1</a> of this code.</li>\n<li>Structures or portions of structures that comply with the requirements of the applicable chapter in Appendix A as specified in Items 2.1 through 2.5 and subject to the limitations of the respective Appendix A chapters shall be deemed to comply with this section.\n<ol>\n<li>The seismic evaluation and design of unreinforced masonry bearing wall buildings in Risk Category I or II are permitted to be based on the procedures specified in Appendix <a class=\"autolink\" href=\"/viewer/district-of-columbia/iebc-2015/chapter/A1/seismic-strengthening-provisions-for-unreinforced-masonry-bearing-wall-buildings#A1\">Chapter A1</a>.</li>\n<li>Seismic evaluation and design of the wall anchorage system in reinforced concrete and reinforced masonry wall buildings with <a class=\"autolink\" href=\"/viewer/district-of-columbia/iebc-2015/chapter/A2/earthquake-hazard-reduction-in-existing-reinforced-concrete-and-reinforced-mason#flexible_diaphragms\">flexible diaphragms</a> in Risk Category I or II are permitted to be based on the procedures specified in <a class=\"autolink\" href=\"/viewer/district-of-columbia/iebc-2015/chapter/A2/earthquake-hazard-reduction-in-existing-reinforced-concrete-and-reinforced-mason#A2\">Chapter A2</a>.</li>\n<li>Seismic evaluation and design of cripple walls and sill plate anchorage in residential buildings of light-frame wood construction in Risk Category I or II are permitted to be based on the procedures specified in <a class=\"autolink\" href=\"/viewer/district-of-columbia/iebc-2015/chapter/A3/prescriptive-provisions-for-seismic-strengthening-of-cripple-walls-and-sill-plat#A3\">Chapter A3</a>.</li>\n<li>Seismic evaluation and design of soft, weak, or open-front wall conditions in multiunit residential buildings of wood construction in Risk Category I or II are permitted to be based on the procedures specified in <a class=\"autolink\" href=\"/viewer/district-of-columbia/iebc-2015/chapter/A4/earthquake-risk-reduction-in-wood-frame-residential-buildings-with-soft-weak-or#A4\">Chapter A4</a>.</li>\n<li>Seismic evaluation and design of concrete buildings assigned to Risk Category I, II or III are permitted to be based on the procedures specified in <a class=\"autolink\" href=\"/viewer/district-of-columbia/iebc-2015/chapter/A5/earthquake-hazard-reduction-in-existing-concrete-buildings#A5\">Chapter A5</a>.</li>\n</ol>\n</li>\n<li>ASCE 41, using the performance objective in Table 301.1.4.2 for the applicable risk category.</li>\n</ol>\n</div>\n<table class=\"uc_all_borders\"><caption><b>[BS] <a id=\"table_301.1.4.2\" href=\"#table_301.1.4.2\" class=\"autolink_target\">TABLE 301.1.4.2</a><br/>PERFORMANCE OBJECTIVES FOR USE IN ASCE 41 FOR COMPLIANCE WITH REDUCED <a class=\"autolink\" href=\"/viewer/district-of-columbia/ibc-2015\">INTERNATIONAL BUILDING CODE</a>-LEVEL SEISMIC FORCES </b></caption>\n<tbody>\n<tr>\n<td class=\"u-text-center uc_all_borders\"><b>RISK CATEGORY <br/>(Based on IBC Table 1604.5)</b></td>\n<td class=\"u-text-center uc_all_borders\"><b>STRUCTURAL PERFORMANCE LEVEL FOR USE WITH BSE-1E EARTHQUAKE HAZARD LEVEL</b></td>\n</tr>\n<tr>\n<td class=\"u-text-center uc_all_borders\">I</td>\n<td class=\"u-text-center uc_all_borders\">Life Safety (S-3)</td>\n</tr>\n<tr>\n<td class=\"u-text-center uc_all_borders\">II</td>\n<td class=\"u-text-center uc_all_borders\">Life Safety (S-3)</td>\n</tr>\n<tr>\n<td class=\"u-text-center uc_all_borders\">III</td>\n<td class=\"u-text-center uc_all_borders\">Damage Control (S-2). See Note a</td>\n</tr>\n<tr>\n<td class=\"u-text-center uc_all_borders\">IV</td>\n<td class=\"u-text-center uc_all_borders\">Immediate Occupancy (S-1)</td>\n</tr>\n</tbody>\n</table>\n<ol class=\"u-list-lower-alpha\">\n<li><span class=\"u-text-12px\">Tier 1 evaluation at the Damage Control performance level shall use the Tier 1 Life Safety checklists and Tier 1 Quick Check provisions midway between those specified for Life Safety and Immediate Occupancy performance.</span></li>\n</ol>",
+                                                        "depth": 4,
+                                                        "diagrams": [],
+                                                        "displayRef": null,
+                                                        "displayTitle": "[BS]  301.1.4.2 Compliance With Reduced International Building Code-Level Seismic Forces",
+                                                        "hasAssemblies": false,
+                                                        "isContiguous": true,
+                                                        "numAssembliesOnRef": 0,
+                                                        "numBuildingProductsOnRef": 0,
+                                                        "numDiagramsOnRef": 0,
+                                                        "reference": "301.1.4.2",
+                                                        "refPrefix": "[BS]",
+                                                        "slug": "provisions-for-all-compliance-methods",
+                                                        "titleText": "Compliance With Reduced International Building Code-Level Seismic Forces",
+                                                        "children": []
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "ancestorRefs": [
+                                    "3"
+                                ],
+                                "depth": 1,
+                                "diagrams": [],
+                                "displayRef": null,
+                                "displayTitle": "Section 302 General Provisions",
+                                "divisionType": "Section",
+                                "hasAssemblies": false,
+                                "isContiguous": true,
+                                "numAssembliesOnRef": 0,
+                                "numBuildingProductsOnRef": 0,
+                                "numDiagramsOnRef": 0,
+                                "reference": "302",
+                                "slug": "provisions-for-all-compliance-methods",
+                                "titleText": "General Provisions",
+                                "children": [
+                                    {
+                                        "ancestorRefs": [
+                                            "3",
+                                            "302"
+                                        ],
+                                        "body": "The provisions of <a class=\"autolink\" href=\"#302\">Section 302</a> apply to all <a class=\"autolink\" href=\"/viewer/district-of-columbia/iebc-2015/chapter/2/definitions#alteration_\">alterations</a>, <a class=\"autolink\" href=\"/viewer/district-of-columbia/iebc-2015/chapter/2/definitions#repair_\">repairs</a>, <a class=\"autolink\" href=\"/viewer/district-of-columbia/iebc-2015/chapter/2/definitions#addition_\">additions</a>, relocations of structures and <a class=\"autolink\" href=\"/viewer/district-of-columbia/iebc-2015/chapter/2/definitions#change_of_occupancy_\">changes of occupancy</a> regardless of compliance method.",
+                                        "depth": 2,
+                                        "diagrams": [],
+                                        "displayRef": null,
+                                        "displayTitle": "302.1 Applicability",
+                                        "hasAssemblies": false,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 0,
+                                        "numDiagramsOnRef": 0,
+                                        "reference": "302.1",
+                                        "slug": "provisions-for-all-compliance-methods",
+                                        "titleText": "Applicability",
+                                        "children": []
+                                    },
+                                    {
+                                        "ancestorRefs": [
+                                            "3",
+                                            "302"
+                                        ],
+                                        "body": "<i><a class=\"autolink\" href=\"/viewer/district-of-columbia/iebc-2015/chapter/2/definitions#alteration_\">Alterations</a>, <a class=\"autolink\" href=\"/viewer/district-of-columbia/iebc-2015/chapter/2/definitions#repair_\">repairs</a>, <a class=\"autolink\" href=\"/viewer/district-of-columbia/iebc-2015/chapter/2/definitions#addition_\">additions</a> </i>and <i><a class=\"autolink\" href=\"/viewer/district-of-columbia/iebc-2015/chapter/2/definitions#change_of_occupancy_\">changes of occupancy</a> </i>to, or relocation of, <i><a class=\"autolink\" href=\"/viewer/district-of-columbia/iebc-2015/chapter/2/definitions#existing_building_\">existing buildings</a> </i>and structures shall comply with the provisions for <i><a class=\"autolink\" href=\"/viewer/district-of-columbia/iebc-2015/chapter/2/definitions#alteration_\">alterations</a>, <a class=\"autolink\" href=\"/viewer/district-of-columbia/iebc-2015/chapter/2/definitions#repair_\">repairs</a>, <a class=\"autolink\" href=\"/viewer/district-of-columbia/iebc-2015/chapter/2/definitions#addition_\">additions</a> </i>and <i><a class=\"autolink\" href=\"/viewer/district-of-columbia/iebc-2015/chapter/2/definitions#change_of_occupancy_\">changes of occupancy</a> </i>or relocation, respectively, in this code and the <i><a class=\"autolink\" href=\"/viewer/district-of-columbia/iecc-2015\">International Energy Conservation Code</a></i>, <i><a class=\"autolink\" href=\"/viewer/district-of-columbia/ifc-2015\">International Fire Code</a></i>, <i><a class=\"autolink\" href=\"/viewer/district-of-columbia/ifgc-2015\">International Fuel Gas Code</a></i>, <i><a class=\"autolink\" href=\"/viewer/district-of-columbia/imc-2015\">International Mechanical Code</a></i>, <i><a class=\"autolink\" href=\"/viewer/district-of-columbia/ipc-2015\">International Plumbing Code</a></i>, <i><a class=\"autolink\" href=\"/viewer/district-of-columbia/ipmc-2015\">International Property Maintenance Code</a></i>, <i>International Private Sewage Disposal Code</i>, <i><a class=\"autolink\" href=\"/viewer/district-of-columbia/irc-2015\">International Residential Code</a> </i>and NFPA 70. Where provisions of the other codes conflict with provisions of this code, the provisions of this code shall take precedence.",
+                                        "depth": 2,
+                                        "diagrams": [],
+                                        "displayRef": null,
+                                        "displayTitle": "302.2 Additional Codes",
+                                        "hasAssemblies": false,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 0,
+                                        "numDiagramsOnRef": 0,
+                                        "reference": "302.2",
+                                        "slug": "provisions-for-all-compliance-methods",
+                                        "titleText": "Additional Codes",
+                                        "children": []
+                                    },
+                                    {
+                                        "ancestorRefs": [
+                                            "3",
+                                            "302"
+                                        ],
+                                        "body": "Materials already in use in a building in compliance with requirements or approvals in effect at the time of their erection or installation shall be permitted to remain in use unless determined by the building official to be <a class=\"autolink\" href=\"/viewer/district-of-columbia/iebc-2015/chapter/2/definitions#unsafe_\">unsafe</a>.",
+                                        "depth": 2,
+                                        "diagrams": [],
+                                        "displayRef": null,
+                                        "displayTitle": "302.3 Existing Materials",
+                                        "hasAssemblies": true,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 8,
+                                        "numBuildingProductsOnRef": 0,
+                                        "numDiagramsOnRef": 0,
+                                        "reference": "302.3",
+                                        "slug": "provisions-for-all-compliance-methods",
+                                        "titleText": "Existing Materials",
+                                        "children": []
+                                    },
+                                    {
+                                        "ancestorRefs": [
+                                            "3",
+                                            "302"
+                                        ],
+                                        "body": "Except as otherwise required or permitted by this code, materials permitted by the applicable code for new construction shall be used. Like materials shall be permitted for <i><a class=\"autolink\" href=\"/viewer/district-of-columbia/iebc-2015/chapter/2/definitions#repair_\">repairs</a> </i>and <i><a class=\"autolink\" href=\"/viewer/district-of-columbia/iebc-2015/chapter/2/definitions#alteration_\">alterations</a></i>, provided no <a class=\"autolink\" href=\"/viewer/district-of-columbia/iebc-2015/chapter/2/definitions#unsafe_\">unsafe</a> condition is created. Hazardous materials shall not be used where the code for new construction would not permit their use in buildings of similar occupancy, purpose and location.",
+                                        "depth": 2,
+                                        "diagrams": [],
+                                        "displayRef": null,
+                                        "displayTitle": "302.4 New and Replacement Materials",
+                                        "hasAssemblies": false,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 0,
+                                        "numDiagramsOnRef": 0,
+                                        "reference": "302.4",
+                                        "slug": "provisions-for-all-compliance-methods",
+                                        "titleText": "New and Replacement Materials",
+                                        "children": []
+                                    },
+                                    {
+                                        "ancestorRefs": [
+                                            "3",
+                                            "302"
+                                        ],
+                                        "body": "When determining the appropriate application of the referenced sections of this code, the occupancy and use of a building shall be determined in accordance with <a class=\"autolink\" href=\"/viewer/district-of-columbia/ibc-2015/chapter/3/use-and-occupancy-classification#3\">Chapter 3</a> of the <i><a class=\"autolink\" href=\"/viewer/district-of-columbia/ibc-2015\">International Building Code</a></i>.",
+                                        "depth": 2,
+                                        "diagrams": [
+                                            {
+                                                "key": "bc_occupancy_groups",
+                                                "title": "Occupancy Groups of the Building Code",
+                                                "descriptionHtml": "<div>Occupancy groups are classifications designated to buildings or structures based on their primary use or purpose. This classification accounts for the similar hazards and risks to building occupants that arise from the intended function of the building. These designations help in defining safety and building requirements specific to each group. </div>",
+                                                "topics": [
+                                                    "Definition"
+                                                ],
+                                                "phases": [
+                                                    "Design Development",
+                                                    "Schematic",
+                                                    "Construction Docs",
+                                                    "Construction Phase"
+                                                ],
+                                                "supressesChildrenAssociations": false,
+                                                "blacklistJurisdictions": [],
+                                                "whitelistJurisdictions": [],
+                                                "imageType": "svg"
+                                            }
+                                        ],
+                                        "displayRef": null,
+                                        "displayTitle": "302.5 Occupancy and Use",
+                                        "hasAssemblies": false,
+                                        "hasDiagrams": true,
+                                        "hasDiagramsOnRef": true,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 0,
+                                        "numDiagramsOnRef": 1,
+                                        "reference": "302.5",
+                                        "slug": "provisions-for-all-compliance-methods",
+                                        "titleText": "Occupancy and Use",
+                                        "children": []
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            "chapterReference": "3"
+        },
+        "__N_SSP": true
+    },
+    "page": "/viewer/[urlFormPubOrJurisKey]/[urlFormPub]/chapter/[chapterRef]/[chapterName]",
+    "query": {
+        "urlFormPubOrJurisKey": "district-of-columbia",
+        "urlFormPub": "iebc-2015",
+        "chapterRef": "3",
+        "chapterName": "provisions-for-all-compliance-methods"
+    },
+    "buildId": "1fSFT4-IdVJWcsxmeyZE8",
+    "isFallback": false,
+    "isExperimentalCompile": false,
+    "dynamicIds": [
+        61621,
+        54065
+    ],
+    "gssp": true,
+    "scriptLoader": []
+}
