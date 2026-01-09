@@ -1,0 +1,1445 @@
+{
+    "props": {
+        "pageProps": {
+            "missingRequiredLogin": false,
+            "title": "Chapter 19 Special Appliances, Equipment and Systems: Oregon Residential Specialty Code (ORSC) 2023 | UpCodes",
+            "leanChapterViewerData": {
+                "basePubName": "International Residential Code 2021 (IRC 2021)",
+                "codeGroupingYear": "2025",
+                "codeName": "Oregon Residential Specialty Code (ORSC) 2023",
+                "codeUuid": "8ad30f13-4aa9-4d48-8d46-d0d33eda55d9",
+                "codeVersions": [
+                    {
+                        "codeUuid": "8ad30f13-4aa9-4d48-8d46-d0d33eda55d9",
+                        "name": "Original Adoption",
+                        "effectiveStartDate": "2023-10-01",
+                        "shortformUrlName": "irc-2021",
+                        "activeStatus": "active"
+                    }
+                ],
+                "ingesterAmendmentsEnabled": false,
+                "ingesterCodeUnitsEnabled": false,
+                "isAmendStylingEnabled": true,
+                "isCorrespondable": true,
+                "jurisKey": "oregon",
+                "jurisName": "Oregon",
+                "metaInfoUrl": "/viewer/oregon/irc-2021",
+                "modelCodeUrl": null,
+                "placeholder": "Search Oregon Residential Specialty Code (ORSC) 2023",
+                "pubKey": "int_residential_code_2021",
+                "pubPrefix": "int_residential_code",
+                "shortformPubName": "irc-2021",
+                "withAmendments": true,
+                "chapterRef": "19",
+                "publisher": "icc",
+                "hasLinkedResources": false,
+                "initialNonChapterTocLines": [
+                    {
+                        "amendType": null,
+                        "children": [
+                            {
+                                "amendType": null,
+                                "children": [],
+                                "depth": 2,
+                                "displayTitle": "M1901.1 Clearances",
+                                "hasExpanderArrow": false,
+                                "href": "#M1901.1",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "reference": "M1901.1"
+                            },
+                            {
+                                "amendType": null,
+                                "children": [],
+                                "depth": 2,
+                                "displayTitle": "M1901.2 Cooking Appliances",
+                                "hasExpanderArrow": false,
+                                "href": "#M1901.2",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "reference": "M1901.2"
+                            }
+                        ],
+                        "depth": 1,
+                        "displayTitle": "M1901 Ranges and Ovens",
+                        "hasExpanderArrow": true,
+                        "href": "#M1901",
+                        "isCodeDivider": false,
+                        "isCodeDividerClickable": false,
+                        "reference": "M1901"
+                    },
+                    {
+                        "amendType": null,
+                        "children": [
+                            {
+                                "amendType": null,
+                                "children": [],
+                                "depth": 2,
+                                "displayTitle": "M1902.1 Locations and Protection",
+                                "hasExpanderArrow": false,
+                                "href": "#M1902.1",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "reference": "M1902.1"
+                            },
+                            {
+                                "amendType": null,
+                                "children": [],
+                                "depth": 2,
+                                "displayTitle": "M1902.2 Installation",
+                                "hasExpanderArrow": false,
+                                "href": "#M1902.2",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "reference": "M1902.2"
+                            },
+                            {
+                                "amendType": null,
+                                "children": [],
+                                "depth": 2,
+                                "displayTitle": "M1902.3 Combustion Air",
+                                "hasExpanderArrow": false,
+                                "href": "#M1902.3",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "reference": "M1902.3"
+                            },
+                            {
+                                "amendType": null,
+                                "children": [],
+                                "depth": 2,
+                                "displayTitle": "M1902.4 Controls",
+                                "hasExpanderArrow": false,
+                                "href": "#M1902.4",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "reference": "M1902.4"
+                            }
+                        ],
+                        "depth": 1,
+                        "displayTitle": "M1902 Sauna Heaters",
+                        "hasExpanderArrow": true,
+                        "href": "#M1902",
+                        "isCodeDivider": false,
+                        "isCodeDividerClickable": false,
+                        "reference": "M1902"
+                    },
+                    {
+                        "amendType": "edit",
+                        "children": [
+                            {
+                                "amendType": "edit",
+                                "children": [],
+                                "depth": 2,
+                                "displayTitle": "M1903.1 <span class=\"code_deletion\">General</span><span class=\"code_addition\">Powered Equipment</span>",
+                                "hasExpanderArrow": false,
+                                "href": "#M1903.1",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "reference": "M1903.1"
+                            }
+                        ],
+                        "depth": 1,
+                        "displayTitle": "M1903 <span class=\"code_deletion\">Stationary Fuel Cell Power Plants</span><div class=\"code_addition\"></div><span class=\"code_addition\">Engine and Gas Turbine-Powered Equipment</span>",
+                        "hasExpanderArrow": true,
+                        "href": "#M1903",
+                        "isCodeDivider": false,
+                        "isCodeDividerClickable": false,
+                        "reference": "M1903"
+                    },
+                    {
+                        "amendType": "edit",
+                        "children": [
+                            {
+                                "amendType": "edit",
+                                "children": [],
+                                "depth": 2,
+                                "displayTitle": "M1904.1 <span class=\"code_deletion\">Installation</span><span class=\"code_addition\">General</span>",
+                                "hasExpanderArrow": false,
+                                "href": "#M1904.1",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "reference": "M1904.1"
+                            },
+                            {
+                                "amendType": "addition",
+                                "children": [],
+                                "depth": 2,
+                                "displayTitle": "M1904.2 Fuel-Gas Controls",
+                                "hasExpanderArrow": false,
+                                "href": "#new_M1904.2",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "reference": "new_M1904.2"
+                            },
+                            {
+                                "amendType": "addition",
+                                "children": [],
+                                "depth": 2,
+                                "displayTitle": "M1904.3 Electric Equipment",
+                                "hasExpanderArrow": false,
+                                "href": "#new_M1904.3",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "reference": "new_M1904.3"
+                            },
+                            {
+                                "amendType": "addition",
+                                "children": [
+                                    {
+                                        "amendType": "addition",
+                                        "children": [],
+                                        "depth": 3,
+                                        "displayTitle": "M1904.4.1 Kiln Clearance",
+                                        "hasExpanderArrow": false,
+                                        "href": "#new_M1904.4.1",
+                                        "isCodeDivider": false,
+                                        "isCodeDividerClickable": false,
+                                        "reference": "new_M1904.4.1"
+                                    },
+                                    {
+                                        "amendType": "addition",
+                                        "children": [],
+                                        "depth": 3,
+                                        "displayTitle": "M1904.4.2 Hoods",
+                                        "hasExpanderArrow": false,
+                                        "href": "#new_M1904.4.2",
+                                        "isCodeDivider": false,
+                                        "isCodeDividerClickable": false,
+                                        "reference": "new_M1904.4.2"
+                                    },
+                                    {
+                                        "amendType": "addition",
+                                        "children": [],
+                                        "depth": 3,
+                                        "displayTitle": "M1904.4.3 Gravity Ventilation Ducts",
+                                        "hasExpanderArrow": false,
+                                        "href": "#new_M1904.4.3",
+                                        "isCodeDivider": false,
+                                        "isCodeDividerClickable": false,
+                                        "reference": "new_M1904.4.3"
+                                    },
+                                    {
+                                        "amendType": "addition",
+                                        "children": [],
+                                        "depth": 3,
+                                        "displayTitle": "M1904.4.4 Makeup Air",
+                                        "hasExpanderArrow": false,
+                                        "href": "#new_M1904.4.4",
+                                        "isCodeDivider": false,
+                                        "isCodeDividerClickable": false,
+                                        "reference": "new_M1904.4.4"
+                                    },
+                                    {
+                                        "amendType": "addition",
+                                        "children": [],
+                                        "depth": 3,
+                                        "displayTitle": "M1904.4.5 Hood and Duct Clearances",
+                                        "hasExpanderArrow": false,
+                                        "href": "#new_M1904.4.5",
+                                        "isCodeDivider": false,
+                                        "isCodeDividerClickable": false,
+                                        "reference": "new_M1904.4.5"
+                                    }
+                                ],
+                                "depth": 2,
+                                "displayTitle": "M1904.4 Installation Inside Building",
+                                "hasExpanderArrow": true,
+                                "href": "#new_M1904.4",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "reference": "new_M1904.4"
+                            },
+                            {
+                                "amendType": "addition",
+                                "children": [],
+                                "depth": 2,
+                                "displayTitle": "M1904.5 Exterior Installation",
+                                "hasExpanderArrow": false,
+                                "href": "#new_M1904.5",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "reference": "new_M1904.5"
+                            }
+                        ],
+                        "depth": 1,
+                        "displayTitle": "M1904 <span class=\"code_deletion\">Gaseous Hydrogen Systems</span><span class=\"code_addition\">Small Ceramic Kilns</span>",
+                        "hasExpanderArrow": true,
+                        "href": "#M1904",
+                        "isCodeDivider": false,
+                        "isCodeDividerClickable": false,
+                        "reference": "M1904"
+                    },
+                    {
+                        "amendType": "addition",
+                        "children": [
+                            {
+                                "amendType": "addition",
+                                "children": [],
+                                "depth": 2,
+                                "displayTitle": "M1905.1 General",
+                                "hasExpanderArrow": false,
+                                "href": "#new_M1905.1",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "reference": "new_M1905.1"
+                            }
+                        ],
+                        "depth": 1,
+                        "displayTitle": "M1905 Stationary Fuel Cell Power Plants",
+                        "hasExpanderArrow": true,
+                        "href": "#new_M1905",
+                        "isCodeDivider": false,
+                        "isCodeDividerClickable": false,
+                        "reference": "new_M1905"
+                    },
+                    {
+                        "amendType": "addition",
+                        "children": [
+                            {
+                                "amendType": "addition",
+                                "children": [],
+                                "depth": 2,
+                                "displayTitle": "M1906.1 Installation",
+                                "hasExpanderArrow": false,
+                                "href": "#new_M1906.1",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "reference": "new_M1906.1"
+                            }
+                        ],
+                        "depth": 1,
+                        "displayTitle": "M1906 Gaseous Hydrogen Systems",
+                        "hasExpanderArrow": true,
+                        "href": "#new_M1906",
+                        "isCodeDivider": false,
+                        "isCodeDividerClickable": false,
+                        "reference": "new_M1906"
+                    }
+                ],
+                "title": "Chapter 19 Special Appliances, Equipment and Systems: Oregon Residential Specialty Code (ORSC) 2023 | UpCodes",
+                "leanChapterLines": [
+                    {
+                        "displayTitle": "Part I Administrative",
+                        "isCodeDivider": true,
+                        "reference": "divider_0_I",
+                        "slug": "administrative"
+                    },
+                    {
+                        "displayTitle": "Chapter 1 Scope and Administration",
+                        "isExpandable": true,
+                        "reference": "1",
+                        "slug": "scope-and-administration"
+                    },
+                    {
+                        "displayTitle": "Part II Definitions",
+                        "isCodeDivider": true,
+                        "reference": "divider_0_II",
+                        "slug": "definitions"
+                    },
+                    {
+                        "displayTitle": "Chapter 2 Definitions",
+                        "isExpandable": true,
+                        "reference": "2",
+                        "slug": "definitions"
+                    },
+                    {
+                        "displayTitle": "Part III\u2014 Building Planning and Construction",
+                        "isCodeDivider": true,
+                        "reference": "III\u2014",
+                        "slug": "building-planning-and-construction"
+                    },
+                    {
+                        "displayTitle": "Chapter 3 Building Planning",
+                        "isExpandable": true,
+                        "reference": "3",
+                        "slug": "building-planning"
+                    },
+                    {
+                        "displayTitle": "Chapter 4 Foundations",
+                        "isExpandable": true,
+                        "reference": "4",
+                        "slug": "foundations"
+                    },
+                    {
+                        "displayTitle": "Chapter 5 Floors",
+                        "isExpandable": true,
+                        "reference": "5",
+                        "slug": "floors"
+                    },
+                    {
+                        "displayTitle": "Chapter 6 Wall Construction",
+                        "isExpandable": true,
+                        "reference": "6",
+                        "slug": "wall-construction"
+                    },
+                    {
+                        "displayTitle": "Chapter 7 Wall Covering",
+                        "isExpandable": true,
+                        "reference": "7",
+                        "slug": "wall-covering"
+                    },
+                    {
+                        "displayTitle": "Chapter 8 Roof-Ceiling Construction",
+                        "isExpandable": true,
+                        "reference": "8",
+                        "slug": "roof-ceiling-construction"
+                    },
+                    {
+                        "displayTitle": "Chapter 9 Roof Assemblies",
+                        "isExpandable": true,
+                        "reference": "9",
+                        "slug": "roof-assemblies"
+                    },
+                    {
+                        "amendType": "edit",
+                        "displayTitle": "Chapter 10 Chimneys and Fireplaces",
+                        "isExpandable": true,
+                        "reference": "10",
+                        "slug": "chimneys-and-fireplaces"
+                    },
+                    {
+                        "displayTitle": "Part IV\u2014 Energy Conservation",
+                        "isCodeDivider": true,
+                        "reference": "IV\u2014",
+                        "slug": "energy-conservation"
+                    },
+                    {
+                        "amendType": "deletion",
+                        "displayTitle": "Chapter <span class=\"code_deletion\">11</span> <span class=\"code_deletion\">[RE] Energy Efficiency</span>",
+                        "reference": "11",
+                        "slug": "re-energy-efficiency"
+                    },
+                    {
+                        "amendType": "addition",
+                        "displayTitle": "Chapter 11 Energy Efficiency",
+                        "isExpandable": true,
+                        "reference": "new_11",
+                        "slug": "energy-efficiency"
+                    },
+                    {
+                        "displayTitle": "Part V\u2014 Mechanical",
+                        "isCodeDivider": true,
+                        "reference": "V\u2014",
+                        "slug": "mechanical"
+                    },
+                    {
+                        "displayTitle": "Chapter 12 Mechanical Administration",
+                        "isExpandable": true,
+                        "reference": "12",
+                        "slug": "mechanical-administration"
+                    },
+                    {
+                        "displayTitle": "Chapter 13 General Mechanical System Requirements",
+                        "isExpandable": true,
+                        "reference": "13",
+                        "slug": "general-mechanical-system-requirements"
+                    },
+                    {
+                        "displayTitle": "Chapter 14 Heating and Cooling Equipment and Appliances",
+                        "isExpandable": true,
+                        "reference": "14",
+                        "slug": "heating-and-cooling-equipment-and-appliances"
+                    },
+                    {
+                        "displayTitle": "Chapter 15 Exhaust Systems",
+                        "isExpandable": true,
+                        "reference": "15",
+                        "slug": "exhaust-systems"
+                    },
+                    {
+                        "displayTitle": "Chapter 16 Duct Systems",
+                        "isExpandable": true,
+                        "reference": "16",
+                        "slug": "duct-systems"
+                    },
+                    {
+                        "displayTitle": "Chapter 17 Combustion Air",
+                        "isExpandable": true,
+                        "reference": "17",
+                        "slug": "combustion-air"
+                    },
+                    {
+                        "displayTitle": "Chapter 18 Chimneys and Vents",
+                        "isExpandable": true,
+                        "reference": "18",
+                        "slug": "chimneys-and-vents"
+                    },
+                    {
+                        "displayTitle": "Chapter 19 Special Appliances, Equipment and Systems",
+                        "isExpandable": true,
+                        "reference": "19",
+                        "slug": "special-appliances-equipment-and-systems"
+                    },
+                    {
+                        "amendType": "edit",
+                        "displayTitle": "Chapter 20 Boilers and Water Heaters",
+                        "isExpandable": true,
+                        "reference": "20",
+                        "slug": "boilers-and-water-heaters"
+                    },
+                    {
+                        "displayTitle": "Chapter 21 Hydronic Piping",
+                        "isExpandable": true,
+                        "reference": "21",
+                        "slug": "hydronic-piping"
+                    },
+                    {
+                        "displayTitle": "Chapter 22 Special Piping and Storage Systems",
+                        "isExpandable": true,
+                        "reference": "22",
+                        "slug": "special-piping-and-storage-systems"
+                    },
+                    {
+                        "amendType": "edit",
+                        "displayTitle": "Chapter 23 Solar <span class=\"code_deletion\">Thermal </span>Energy Systems",
+                        "isExpandable": true,
+                        "reference": "23",
+                        "slug": "solar-thermal-energy-systems"
+                    },
+                    {
+                        "displayTitle": "Part VI\u2014 Fuel Gas",
+                        "isCodeDivider": true,
+                        "reference": "VI\u2014",
+                        "slug": "fuel-gas"
+                    },
+                    {
+                        "amendType": "edit",
+                        "displayTitle": "Chapter 24 Fuel Gas",
+                        "isExpandable": true,
+                        "reference": "24",
+                        "slug": "fuel-gas"
+                    },
+                    {
+                        "displayTitle": "Part VII\u2014 Plumbing",
+                        "isCodeDivider": true,
+                        "reference": "VII\u2014",
+                        "slug": "plumbing"
+                    },
+                    {
+                        "alwaysShowDeletionAmend": true,
+                        "amendType": "deletion",
+                        "displayTitle": "Chapter <span class=\"code_deletion\">25</span> <span class=\"code_deletion\">Plumbing Administration</span>",
+                        "reference": "25",
+                        "slug": "plumbing-administration"
+                    },
+                    {
+                        "alwaysShowDeletionAmend": true,
+                        "amendType": "deletion",
+                        "displayTitle": "Chapter <span class=\"code_deletion\">26</span> <span class=\"code_deletion\">General Plumbing Requirements</span>",
+                        "reference": "26",
+                        "slug": "general-plumbing-requirements"
+                    },
+                    {
+                        "alwaysShowDeletionAmend": true,
+                        "amendType": "deletion",
+                        "displayTitle": "Chapter <span class=\"code_deletion\">27</span> <span class=\"code_deletion\">Plumbing Fixtures</span>",
+                        "reference": "27",
+                        "slug": "plumbing-fixtures"
+                    },
+                    {
+                        "alwaysShowDeletionAmend": true,
+                        "amendType": "deletion",
+                        "displayTitle": "Chapter <span class=\"code_deletion\">28</span> <span class=\"code_deletion\">Water Heaters</span>",
+                        "reference": "28",
+                        "slug": "water-heaters"
+                    },
+                    {
+                        "alwaysShowDeletionAmend": true,
+                        "amendType": "deletion",
+                        "displayTitle": "Chapter <span class=\"code_deletion\">29</span> <span class=\"code_deletion\">Water Supply and Distribution</span>",
+                        "reference": "29",
+                        "slug": "water-supply-and-distribution"
+                    },
+                    {
+                        "alwaysShowDeletionAmend": true,
+                        "amendType": "deletion",
+                        "displayTitle": "Chapter <span class=\"code_deletion\">30</span> <span class=\"code_deletion\">Sanitary Drainage</span>",
+                        "reference": "30",
+                        "slug": "sanitary-drainage"
+                    },
+                    {
+                        "alwaysShowDeletionAmend": true,
+                        "amendType": "deletion",
+                        "displayTitle": "Chapter <span class=\"code_deletion\">31</span> <span class=\"code_deletion\">Vents</span>",
+                        "reference": "31",
+                        "slug": "vents"
+                    },
+                    {
+                        "alwaysShowDeletionAmend": true,
+                        "amendType": "deletion",
+                        "displayTitle": "Chapter <span class=\"code_deletion\">32</span> <span class=\"code_deletion\">Traps</span>",
+                        "reference": "32",
+                        "slug": "traps"
+                    },
+                    {
+                        "alwaysShowDeletionAmend": true,
+                        "amendType": "deletion",
+                        "displayTitle": "Chapter <span class=\"code_deletion\">33</span> <span class=\"code_deletion\">Storm Drainage</span>",
+                        "reference": "33",
+                        "slug": "storm-drainage"
+                    },
+                    {
+                        "displayTitle": "Part VIII\u2014 Electrical",
+                        "isCodeDivider": true,
+                        "reference": "VIII\u2014",
+                        "slug": "electrical"
+                    },
+                    {
+                        "alwaysShowDeletionAmend": true,
+                        "amendType": "deletion",
+                        "displayTitle": "Chapter <span class=\"code_deletion\">34</span> <span class=\"code_deletion\">General Requirements</span>",
+                        "reference": "34",
+                        "slug": "general-requirements"
+                    },
+                    {
+                        "alwaysShowDeletionAmend": true,
+                        "amendType": "deletion",
+                        "displayTitle": "Chapter <span class=\"code_deletion\">35</span> <span class=\"code_deletion\">Electrical Definitions</span>",
+                        "reference": "35",
+                        "slug": "electrical-definitions"
+                    },
+                    {
+                        "alwaysShowDeletionAmend": true,
+                        "amendType": "deletion",
+                        "displayTitle": "Chapter <span class=\"code_deletion\">36</span> <span class=\"code_deletion\">Services</span>",
+                        "reference": "36",
+                        "slug": "services"
+                    },
+                    {
+                        "alwaysShowDeletionAmend": true,
+                        "amendType": "deletion",
+                        "displayTitle": "Chapter <span class=\"code_deletion\">37</span> <span class=\"code_deletion\">Branch Circuit and Feeder Requirements</span>",
+                        "reference": "37",
+                        "slug": "branch-circuit-and-feeder-requirements"
+                    },
+                    {
+                        "alwaysShowDeletionAmend": true,
+                        "amendType": "deletion",
+                        "displayTitle": "Chapter <span class=\"code_deletion\">38</span> <span class=\"code_deletion\">Wiring Methods</span>",
+                        "reference": "38",
+                        "slug": "wiring-methods"
+                    },
+                    {
+                        "alwaysShowDeletionAmend": true,
+                        "amendType": "deletion",
+                        "displayTitle": "Chapter <span class=\"code_deletion\">39</span> <span class=\"code_deletion\">Power and Lighting Distribution</span>",
+                        "reference": "39",
+                        "slug": "power-and-lighting-distribution"
+                    },
+                    {
+                        "alwaysShowDeletionAmend": true,
+                        "amendType": "deletion",
+                        "displayTitle": "Chapter <span class=\"code_deletion\">40</span> <span class=\"code_deletion\">Devices and Luminaires</span>",
+                        "reference": "40",
+                        "slug": "devices-and-luminaires"
+                    },
+                    {
+                        "alwaysShowDeletionAmend": true,
+                        "amendType": "deletion",
+                        "displayTitle": "Chapter <span class=\"code_deletion\">41</span> <span class=\"code_deletion\">Appliance Installation</span>",
+                        "reference": "41",
+                        "slug": "appliance-installation"
+                    },
+                    {
+                        "alwaysShowDeletionAmend": true,
+                        "amendType": "deletion",
+                        "displayTitle": "Chapter <span class=\"code_deletion\">42</span> <span class=\"code_deletion\">Swimming Pools</span>",
+                        "reference": "42",
+                        "slug": "swimming-pools"
+                    },
+                    {
+                        "amendType": "deletion",
+                        "displayTitle": "Chapter <span class=\"code_deletion\">43</span> <span class=\"code_deletion\">Class 2 Remote-Control, Signaling and Power-Limited Circuits</span>",
+                        "reference": "43",
+                        "slug": "class-2-remote-control-signaling-and-power-limited-circuits"
+                    },
+                    {
+                        "amendType": "addition",
+                        "displayTitle": "Chapter 43 Low-Rise Apartments",
+                        "reference": "new_43",
+                        "slug": "low-rise-apartments"
+                    },
+                    {
+                        "displayTitle": "Part IX\u2014 Referenced Standards",
+                        "isCodeDivider": true,
+                        "reference": "IX\u2014",
+                        "slug": "referenced-standards"
+                    },
+                    {
+                        "amendType": "edit",
+                        "displayTitle": "Chapter 44 Referenced Standards",
+                        "reference": "44",
+                        "slug": "referenced-standards"
+                    },
+                    {
+                        "alwaysShowDeletionAmend": true,
+                        "amendType": "deletion",
+                        "disabled": true,
+                        "displayTitle": "Appendix <span class=\"code_deletion\">AA</span> <span class=\"code_deletion\">Sizing and Capacities of Gas Piping</span>",
+                        "reference": "AA",
+                        "slug": "sizing-and-capacities-of-gas-piping"
+                    },
+                    {
+                        "alwaysShowDeletionAmend": true,
+                        "amendType": "deletion",
+                        "disabled": true,
+                        "displayTitle": "Appendix <span class=\"code_deletion\">AB</span> <span class=\"code_deletion\">Sizing of Venting Systems Serving Appliances Equipped With Draft Hoods, Category I Appliances and Appliances Listed for Use With Type B Vents</span>",
+                        "reference": "AB",
+                        "slug": "sizing-of-venting-systems-serving-appliances-equipped-with-draft-hoods-category"
+                    },
+                    {
+                        "alwaysShowDeletionAmend": true,
+                        "amendType": "deletion",
+                        "disabled": true,
+                        "displayTitle": "Appendix <span class=\"code_deletion\">AC</span> <span class=\"code_deletion\">Reserved</span>",
+                        "reference": "AC",
+                        "slug": "reserved"
+                    },
+                    {
+                        "alwaysShowDeletionAmend": true,
+                        "amendType": "deletion",
+                        "disabled": true,
+                        "displayTitle": "Appendix <span class=\"code_deletion\">AD</span> <span class=\"code_deletion\">Recommended Procedure for Safety Inspection of an Existing Appliance Installation</span>",
+                        "reference": "AD",
+                        "slug": "recommended-procedure-for-safety-inspection-of-an-existing-appliance-installatio"
+                    },
+                    {
+                        "displayTitle": "Appendix AE Manufactured Housing Used as Dwellings",
+                        "hasChapterAdoption": true,
+                        "isExpandable": true,
+                        "reference": "AE",
+                        "slug": "manufactured-housing-used-as-dwellings"
+                    },
+                    {
+                        "displayTitle": "Appendix AF Radon Control Methods",
+                        "hasChapterAdoption": true,
+                        "isExpandable": true,
+                        "reference": "AF",
+                        "slug": "radon-control-methods"
+                    },
+                    {
+                        "alwaysShowDeletionAmend": true,
+                        "amendType": "deletion",
+                        "displayTitle": "Appendix <span class=\"code_deletion\">AG</span> <span class=\"code_deletion\">Piping Standards for Various Applications</span>",
+                        "reference": "AG",
+                        "slug": "piping-standards-for-various-applications"
+                    },
+                    {
+                        "amendType": "edit",
+                        "displayTitle": "Appendix AH <span class=\"code_addition\">Deck, </span>Patio <span class=\"code_addition\">or Porch</span> Covers",
+                        "hasChapterAdoption": true,
+                        "isExpandable": true,
+                        "reference": "AH",
+                        "slug": "patio-covers"
+                    },
+                    {
+                        "alwaysShowDeletionAmend": true,
+                        "amendType": "deletion",
+                        "disabled": true,
+                        "displayTitle": "Appendix <span class=\"code_deletion\">AI</span> <span class=\"code_deletion\">Private Sewage Disposal</span>",
+                        "reference": "AI",
+                        "slug": "private-sewage-disposal"
+                    },
+                    {
+                        "alwaysShowDeletionAmend": true,
+                        "amendType": "deletion",
+                        "disabled": true,
+                        "displayTitle": "Appendix <span class=\"code_deletion\">AJ</span> <span class=\"code_deletion\">Existing Buildings and Structures</span>",
+                        "reference": "AJ",
+                        "slug": "existing-buildings-and-structures"
+                    },
+                    {
+                        "displayTitle": "Appendix AK Sound Transmission",
+                        "hasChapterAdoption": true,
+                        "isExpandable": true,
+                        "reference": "AK",
+                        "slug": "sound-transmission"
+                    },
+                    {
+                        "alwaysShowDeletionAmend": true,
+                        "amendType": "deletion",
+                        "disabled": true,
+                        "displayTitle": "Appendix <span class=\"code_deletion\">AL</span> <span class=\"code_deletion\">Permit Fees</span>",
+                        "reference": "AL",
+                        "slug": "permit-fees"
+                    },
+                    {
+                        "alwaysShowDeletionAmend": true,
+                        "amendType": "deletion",
+                        "disabled": true,
+                        "displayTitle": "Appendix <span class=\"code_deletion\">AM</span> <span class=\"code_deletion\">Home Day Care\u2014R-3 Occupancy</span>",
+                        "reference": "AM",
+                        "slug": "home-day-care-r-3-occupancy"
+                    },
+                    {
+                        "alwaysShowDeletionAmend": true,
+                        "amendType": "deletion",
+                        "disabled": true,
+                        "displayTitle": "Appendix <span class=\"code_deletion\">AN</span> <span class=\"code_deletion\">Venting Methods</span>",
+                        "reference": "AN",
+                        "slug": "venting-methods"
+                    },
+                    {
+                        "alwaysShowDeletionAmend": true,
+                        "amendType": "deletion",
+                        "disabled": true,
+                        "displayTitle": "Appendix <span class=\"code_deletion\">AO</span> <span class=\"code_deletion\">Automatic Vehicular Gates</span>",
+                        "reference": "AO",
+                        "slug": "automatic-vehicular-gates"
+                    },
+                    {
+                        "alwaysShowDeletionAmend": true,
+                        "amendType": "deletion",
+                        "disabled": true,
+                        "displayTitle": "Appendix <span class=\"code_deletion\">AP</span> <span class=\"code_deletion\">Sizing of Water Piping System</span>",
+                        "reference": "AP",
+                        "slug": "sizing-of-water-piping-system"
+                    },
+                    {
+                        "alwaysShowDeletionAmend": true,
+                        "amendType": "deletion",
+                        "disabled": true,
+                        "displayTitle": "Appendix <span class=\"code_deletion\">AQ</span> <span class=\"code_deletion\">Tiny Houses</span>",
+                        "reference": "AQ",
+                        "slug": "tiny-houses"
+                    },
+                    {
+                        "displayTitle": "Appendix AR Light Straw-Clay Construction",
+                        "hasChapterAdoption": true,
+                        "isExpandable": true,
+                        "reference": "AR",
+                        "slug": "light-straw-clay-construction"
+                    },
+                    {
+                        "displayTitle": "Appendix AS Strawbale Construction",
+                        "hasChapterAdoption": true,
+                        "isExpandable": true,
+                        "reference": "AS",
+                        "slug": "strawbale-construction"
+                    },
+                    {
+                        "alwaysShowDeletionAmend": true,
+                        "amendType": "deletion",
+                        "disabled": true,
+                        "displayTitle": "Appendix <span class=\"code_deletion\">AT</span> <span class=\"code_deletion\">[RE] Solar-Ready Provisions\u2014Detached One- And Two-Family Dwellings and Townhouses</span>",
+                        "reference": "AT",
+                        "slug": "re-solar-ready-provisions-detached-one-and-two-family-dwellings-and-townhouses"
+                    },
+                    {
+                        "displayTitle": "Appendix AU Cob Construction (Monolithic Adobe)",
+                        "hasChapterAdoption": true,
+                        "isExpandable": true,
+                        "reference": "AU",
+                        "slug": "cob-construction-monolithic-adobe"
+                    },
+                    {
+                        "alwaysShowDeletionAmend": true,
+                        "amendType": "deletion",
+                        "disabled": true,
+                        "displayTitle": "Appendix <span class=\"code_deletion\">AV</span> <span class=\"code_deletion\">Board of Appeals</span>",
+                        "reference": "AV",
+                        "slug": "board-of-appeals"
+                    },
+                    {
+                        "displayTitle": "Appendix AW 3D-Printed Building Construction",
+                        "hasChapterAdoption": true,
+                        "isExpandable": true,
+                        "reference": "AW",
+                        "slug": "3d-printed-building-construction"
+                    },
+                    {
+                        "amendType": "deletion",
+                        "disabled": true,
+                        "displayTitle": "Appendix <span class=\"code_deletion\">AX</span> <span class=\"code_deletion\">(RC) Zero Energy Residential Building Provisions</span>",
+                        "reference": "AX",
+                        "slug": "rc-zero-energy-residential-building-provisions"
+                    }
+                ],
+                "leanCodeSectionsTree": [
+                    {
+                        "ancestorRefs": [],
+                        "body": "<div class=\"u-mt-4\"><div class=\"u-mt-3 u-font-bold u-mb-3\">User notes:</div><div class=\"u-mt-3 u-italic u-mb-3\"><span class=\"u-font-bold\">About this chapter: </span>Chapter 19 is specific to <a class=\"autolink\" href=\"/viewer/oregon/irc-2021/chapter/2/definitions#appliance_\">appliances</a> and systems that are not related to HVAC, including cooking <a class=\"autolink\" href=\"/viewer/oregon/irc-2021/chapter/2/definitions#appliance_\">appliances</a>, sauna heaters, fuel cells and hydrogen systems. <a class=\"autolink\" href=\"/viewer/oregon/irc-2021/chapter/24/fuel-gas#24\">Chapter 24</a> also applies to cooking <a class=\"autolink\" href=\"/viewer/oregon/irc-2021/chapter/2/definitions#appliance_\">appliances</a> and sauna heaters.</div><div class=\"u-mt-3 u-italic u-mb-3\"><span class=\"u-font-bold\">Code development reminder:</span> Code change proposals to this chapter will be considered by the IRC\u2014<a class=\"autolink\" href=\"/viewer/oregon/irc-2021/chapter/2/definitions#plumbing_\">Plumbing</a>/<a class=\"autolink\" href=\"/viewer/oregon/imc-2021\">Mechanical Code</a> Development Committee during the 2021 (Group A) Code Development Cycle.</div></div>",
+                        "depth": 0,
+                        "diagrams": [],
+                        "displayRef": null,
+                        "displayTitle": "Chapter 19 Special Appliances, Equipment and Systems",
+                        "divisionType": "Chapter",
+                        "hasAssemblies": false,
+                        "isContiguous": true,
+                        "numAssembliesOnRef": 0,
+                        "numBuildingProductsOnRef": 0,
+                        "numDiagramsOnRef": 0,
+                        "reference": "19",
+                        "slug": "special-appliances-equipment-and-systems",
+                        "titleText": "Special Appliances, Equipment and Systems",
+                        "children": [
+                            {
+                                "ancestorRefs": [
+                                    "19"
+                                ],
+                                "depth": 1,
+                                "diagrams": [],
+                                "displayRef": null,
+                                "displayTitle": "Section M1901 Ranges and Ovens",
+                                "divisionType": "Section",
+                                "hasAssemblies": false,
+                                "isContiguous": true,
+                                "numAssembliesOnRef": 0,
+                                "numBuildingProductsOnRef": 4,
+                                "numDiagramsOnRef": 0,
+                                "reference": "M1901",
+                                "slug": "special-appliances-equipment-and-systems",
+                                "titleText": "Ranges and Ovens",
+                                "children": [
+                                    {
+                                        "ancestorRefs": [
+                                            "19",
+                                            "M1901"
+                                        ],
+                                        "body": "Freestanding or built-in ranges shall have a vertical clearance above the cooking top of not less than 30 inches (762 mm) to unprotected <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/oregon/irc-2021/chapter/2/definitions#combustible_material_\">combustible material</a></span>. Reduced clearances are permitted in accordance with the <span class=\"u-italic\">listing</span> and <span class=\"u-italic\">labeling</span> of the range hoods or ovens with integral exhaust.",
+                                        "depth": 2,
+                                        "diagrams": [],
+                                        "displayRef": null,
+                                        "displayTitle": "M1901.1 Clearances",
+                                        "hasAssemblies": false,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 0,
+                                        "numDiagramsOnRef": 0,
+                                        "reference": "M1901.1",
+                                        "slug": "special-appliances-equipment-and-systems",
+                                        "titleText": "Clearances",
+                                        "children": []
+                                    },
+                                    {
+                                        "ancestorRefs": [
+                                            "19",
+                                            "M1901"
+                                        ],
+                                        "body": "Cooking <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/oregon/irc-2021/chapter/2/definitions#appliance_\">appliances</a></span> shall be <span class=\"u-italic\">listed</span> and <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/oregon/irc-2021/chapter/2/definitions#labeled_\">labeled</a></span> for household use and shall be installed in accordance with the manufacturer's instructions. The installation shall not interfere with <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/oregon/irc-2021/chapter/2/definitions#combustion_air_\">combustion air</a></span> or <a class=\"autolink\" href=\"/viewer/oregon/irc-2021/chapter/2/definitions#access_to_\">access</a> for operation and servicing. Electric cooking <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/oregon/irc-2021/chapter/2/definitions#appliance_\">appliances</a></span> shall comply with UL 858 or UL 1026. Solid-fuel-fired <a class=\"autolink\" href=\"/viewer/oregon/irc-2021/chapter/2/definitions#fireplace_stove_\">fireplace stoves</a> shall comply with UL 737. Microwave ovens shall comply with UL 923.",
+                                        "depth": 2,
+                                        "diagrams": [
+                                            {
+                                                "key": "vertical_clr_above_cooking_top",
+                                                "title": "Vertical Clearance above Cooking Top",
+                                                "descriptionHtml": "<div>To prevent combustible materials over a cooking top from igniting the code requires at least 30\" of vertical clearance from the top of the cooking top to any combustible materials directly above a cooking top. Under certain conditions the vertical clearance may be reduced to 24\". The vertical clearance may be reduced to 24\" when a <sup>1</sup>/<sub>4</sub> inch insulating millboard covered with sheet metal not less than 0.0122 inch thick protection is applied to the underside of the combustible material above. When an exhaust hood fabricated of sheet metal not less than 0.0122 inches thick is installed with a <sup>1</sup>/<sub>4</sub>\" vertical gap to combustible material above the hood is installed over the cooking top, the bottom of the hood may not be less than 24\" above the cooking top. When the cooking top is listed and above a listed cooking appliance or microwave oven is installed per the manufacturer's instructions, the bottom of the upper appliance may not be less than 24\" above the cooking top.</div>",
+                                                "topics": [
+                                                    "Residential",
+                                                    "Interior",
+                                                    "Fire-Resistant"
+                                                ],
+                                                "phases": [
+                                                    "Construction Docs",
+                                                    "Construction Phase"
+                                                ],
+                                                "supressesChildrenAssociations": false,
+                                                "blacklistJurisdictions": [],
+                                                "whitelistJurisdictions": [],
+                                                "imageType": "svg"
+                                            }
+                                        ],
+                                        "displayRef": null,
+                                        "displayTitle": "M1901.2 Cooking Appliances",
+                                        "hasAssemblies": false,
+                                        "hasDiagrams": true,
+                                        "hasDiagramsOnRef": true,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 0,
+                                        "numDiagramsOnRef": 1,
+                                        "reference": "M1901.2",
+                                        "slug": "special-appliances-equipment-and-systems",
+                                        "titleText": "Cooking Appliances",
+                                        "children": []
+                                    }
+                                ]
+                            },
+                            {
+                                "ancestorRefs": [
+                                    "19"
+                                ],
+                                "depth": 1,
+                                "diagrams": [],
+                                "displayRef": null,
+                                "displayTitle": "Section M1902 Sauna Heaters",
+                                "divisionType": "Section",
+                                "hasAssemblies": false,
+                                "isContiguous": true,
+                                "numAssembliesOnRef": 0,
+                                "numBuildingProductsOnRef": 0,
+                                "numDiagramsOnRef": 0,
+                                "reference": "M1902",
+                                "slug": "special-appliances-equipment-and-systems",
+                                "titleText": "Sauna Heaters",
+                                "children": [
+                                    {
+                                        "ancestorRefs": [
+                                            "19",
+                                            "M1902"
+                                        ],
+                                        "body": "Sauna heaters shall be protected from accidental contact by persons with a <a class=\"autolink\" href=\"/viewer/oregon/irc-2021/chapter/2/definitions#guard_\">guard</a> of material having a low thermal conductivity, such as wood. The <a class=\"autolink\" href=\"/viewer/oregon/irc-2021/chapter/2/definitions#guard_\">guard</a> shall not have a substantial effect on the transfer of heat from the heater to the room.",
+                                        "depth": 2,
+                                        "diagrams": [],
+                                        "displayRef": null,
+                                        "displayTitle": "M1902.1 Locations and Protection",
+                                        "hasAssemblies": false,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 0,
+                                        "numDiagramsOnRef": 0,
+                                        "reference": "M1902.1",
+                                        "slug": "special-appliances-equipment-and-systems",
+                                        "titleText": "Locations and Protection",
+                                        "children": []
+                                    },
+                                    {
+                                        "ancestorRefs": [
+                                            "19",
+                                            "M1902"
+                                        ],
+                                        "body": "Sauna heaters shall be installed in accordance with the manufacturer's instructions. Sauna heaters shall comply with UL 875.",
+                                        "depth": 2,
+                                        "diagrams": [],
+                                        "displayRef": null,
+                                        "displayTitle": "M1902.2 Installation",
+                                        "hasAssemblies": false,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 0,
+                                        "numDiagramsOnRef": 0,
+                                        "reference": "M1902.2",
+                                        "slug": "special-appliances-equipment-and-systems",
+                                        "titleText": "Installation",
+                                        "children": []
+                                    },
+                                    {
+                                        "ancestorRefs": [
+                                            "19",
+                                            "M1902"
+                                        ],
+                                        "body": "<span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/oregon/irc-2021/chapter/2/definitions#combustion_air_\">Combustion air</a></span> and <a class=\"autolink\" href=\"/viewer/oregon/irc-2021/chapter/2/definitions#venting_\">venting</a> for a nondirect <a class=\"autolink\" href=\"/viewer/oregon/irc-2021/chapter/2/definitions#vent_\">vent</a>-type heater shall be provided in accordance with Chapters <a class=\"autolink\" href=\"/viewer/oregon/irc-2021/chapter/17/combustion-air#17\">17</a> and <a class=\"autolink\" href=\"/viewer/oregon/irc-2021/chapter/18/chimneys-and-vents#18\">18</a>, respectively.",
+                                        "depth": 2,
+                                        "diagrams": [],
+                                        "displayRef": null,
+                                        "displayTitle": "M1902.3 Combustion Air",
+                                        "hasAssemblies": false,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 0,
+                                        "numDiagramsOnRef": 0,
+                                        "reference": "M1902.3",
+                                        "slug": "special-appliances-equipment-and-systems",
+                                        "titleText": "Combustion Air",
+                                        "children": []
+                                    },
+                                    {
+                                        "ancestorRefs": [
+                                            "19",
+                                            "M1902"
+                                        ],
+                                        "body": "Sauna heaters shall be equipped with a <a class=\"autolink\" href=\"/viewer/oregon/irc-2021/chapter/2/definitions#thermostat_\">thermostat</a> that will limit room temperature to not greater than 194\u00b0F (90\u00b0C). Where the <a class=\"autolink\" href=\"/viewer/oregon/irc-2021/chapter/2/definitions#thermostat_\">thermostat</a> is not an integral part of the heater, the heat-sensing element shall be located within 6 inches (152 mm) of the ceiling.",
+                                        "depth": 2,
+                                        "diagrams": [],
+                                        "displayRef": null,
+                                        "displayTitle": "M1902.4 Controls",
+                                        "hasAssemblies": false,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 0,
+                                        "numDiagramsOnRef": 0,
+                                        "reference": "M1902.4",
+                                        "slug": "special-appliances-equipment-and-systems",
+                                        "titleText": "Controls",
+                                        "children": []
+                                    }
+                                ]
+                            },
+                            {
+                                "amendType": "edit",
+                                "ancestorRefs": [
+                                    "19"
+                                ],
+                                "depth": 1,
+                                "diagrams": [],
+                                "displayRef": null,
+                                "displayTitle": "Section M1903 <span class=\"code_deletion\">Stationary Fuel Cell Power Plants</span><div class=\"code_addition\"></div><span class=\"code_addition\">Engine and Gas Turbine-Powered Equipment</span>",
+                                "divisionType": "Section",
+                                "hasAssemblies": false,
+                                "isContiguous": true,
+                                "numAssembliesOnRef": 0,
+                                "numBuildingProductsOnRef": 0,
+                                "numDiagramsOnRef": 0,
+                                "reference": "M1903",
+                                "slug": "special-appliances-equipment-and-systems",
+                                "titleText": "<span class=\"code_deletion\">Stationary Fuel Cell Power Plants</span><div class=\"code_addition\"></div><span class=\"code_addition\">Engine and Gas Turbine-Powered Equipment</span>",
+                                "children": [
+                                    {
+                                        "amendType": "edit",
+                                        "ancestorRefs": [
+                                            "19",
+                                            "M1903"
+                                        ],
+                                        "body": "<span class=\"code_addition\">Permanently installed <a class=\"autolink\" href=\"/viewer/oregon/irc-2021/chapter/2/definitions#equipment_\">equipment</a> powered by internal combustion engines and turbines shall be <i>listed</i> and <i><a class=\"autolink\" href=\"/viewer/oregon/irc-2021/chapter/2/definitions#labeled_\">labeled</a></i> and shall be installed in accordance with the <a class=\"autolink\" href=\"/viewer/oregon/irc-2021/chapter/2/definitions#manufacturers_installation_instructions_\">manufacturer's installation instructions</a>.</span>",
+                                        "depth": 2,
+                                        "diagrams": [],
+                                        "displayRef": null,
+                                        "displayTitle": "M1903.1 <span class=\"code_deletion\">General</span><span class=\"code_addition\">Powered Equipment</span>",
+                                        "hasAssemblies": false,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 0,
+                                        "numDiagramsOnRef": 0,
+                                        "reference": "M1903.1",
+                                        "slug": "special-appliances-equipment-and-systems",
+                                        "titleText": "<span class=\"code_deletion\">General</span><span class=\"code_addition\">Powered Equipment</span>",
+                                        "children": []
+                                    }
+                                ]
+                            },
+                            {
+                                "amendType": "edit",
+                                "ancestorRefs": [
+                                    "19"
+                                ],
+                                "depth": 1,
+                                "diagrams": [],
+                                "displayRef": null,
+                                "displayTitle": "Section M1904 <span class=\"code_deletion\">Gaseous Hydrogen Systems</span><span class=\"code_addition\">Small Ceramic Kilns</span>",
+                                "divisionType": "Section",
+                                "hasAssemblies": false,
+                                "isContiguous": true,
+                                "numAssembliesOnRef": 0,
+                                "numBuildingProductsOnRef": 0,
+                                "numDiagramsOnRef": 0,
+                                "reference": "M1904",
+                                "slug": "special-appliances-equipment-and-systems",
+                                "titleText": "<span class=\"code_deletion\">Gaseous Hydrogen Systems</span><span class=\"code_addition\">Small Ceramic Kilns</span>",
+                                "children": [
+                                    {
+                                        "amendType": "edit",
+                                        "ancestorRefs": [
+                                            "19",
+                                            "M1904"
+                                        ],
+                                        "body": "<span class=\"code_addition\">The provisions of this section apply to unlisted kilns used for ceramics that have a maximum interior volume of 20 cubic feet (0.57 m<sup>3</sup>).</span>",
+                                        "depth": 2,
+                                        "diagrams": [],
+                                        "displayRef": null,
+                                        "displayTitle": "M1904.1 <span class=\"code_deletion\">Installation</span><span class=\"code_addition\">General</span>",
+                                        "hasAssemblies": false,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 0,
+                                        "numDiagramsOnRef": 0,
+                                        "reference": "M1904.1",
+                                        "slug": "special-appliances-equipment-and-systems",
+                                        "titleText": "<span class=\"code_deletion\">Installation</span><span class=\"code_addition\">General</span>",
+                                        "children": []
+                                    },
+                                    {
+                                        "amendType": "addition",
+                                        "ancestorRefs": [
+                                            "19",
+                                            "M1904"
+                                        ],
+                                        "body": "Standing pilots shall not be used\nwith gas-fired kilns.",
+                                        "depth": 2,
+                                        "diagrams": [],
+                                        "displayRef": "M1904.2",
+                                        "displayTitle": "M1904.2 Fuel-Gas Controls",
+                                        "hasAssemblies": false,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 0,
+                                        "numDiagramsOnRef": 0,
+                                        "reference": "new_M1904.2",
+                                        "slug": "special-appliances-equipment-and-systems",
+                                        "titleText": "Fuel-Gas Controls",
+                                        "children": []
+                                    },
+                                    {
+                                        "amendType": "addition",
+                                        "ancestorRefs": [
+                                            "19",
+                                            "M1904"
+                                        ],
+                                        "body": "All electric <a class=\"autolink\" href=\"/viewer/oregon/irc-2021/chapter/2/definitions#equipment_\">equipment</a> used as part of, or in connection with, the installation of a kiln shall be in accordance with the <i>Electrical Code</i>.",
+                                        "depth": 2,
+                                        "diagrams": [],
+                                        "displayRef": "M1904.3",
+                                        "displayTitle": "M1904.3 Electric Equipment",
+                                        "hasAssemblies": false,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 0,
+                                        "numDiagramsOnRef": 0,
+                                        "reference": "new_M1904.3",
+                                        "slug": "special-appliances-equipment-and-systems",
+                                        "titleText": "Electric Equipment",
+                                        "children": []
+                                    },
+                                    {
+                                        "amendType": "addition",
+                                        "ancestorRefs": [
+                                            "19",
+                                            "M1904"
+                                        ],
+                                        "body": "In addition to other\nrequirements specified in this section, interior installation shall\nmeet the requirements of Sections <a class=\"autolink\" href=\"#new_M1904.4.1\">M1904.4.1</a> through\n<a class=\"autolink\" href=\"#new_M1904.4.5\">M1904.4.5</a>.",
+                                        "depth": 2,
+                                        "diagrams": [],
+                                        "displayRef": "M1904.4",
+                                        "displayTitle": "M1904.4 Installation Inside Building",
+                                        "hasAssemblies": false,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 0,
+                                        "numDiagramsOnRef": 0,
+                                        "reference": "new_M1904.4",
+                                        "slug": "special-appliances-equipment-and-systems",
+                                        "titleText": "Installation Inside Building",
+                                        "children": [
+                                            {
+                                                "amendType": "addition",
+                                                "ancestorRefs": [
+                                                    "19",
+                                                    "M1904",
+                                                    "new_M1904.4"
+                                                ],
+                                                "body": "The sides and tops of kilns shall be located a minimum of 18 inches (457 mm) from any noncombustible wall surface and 3 feet (914 mm) from any combustible wall surface. Kilns shall be installed on noncombustible flooring consisting of at least 2 inches (51 mm) of <a class=\"autolink\" href=\"/viewer/oregon/irc-2021/chapter/2/definitions#masonry_solid_\">solid masonry</a> or concrete extending at least 12 inches (305mm) beyond the base or supporting members of the kiln.\n<div class=\"uc_exception\"><span class=\"u-font-bold\">Exception:</span> These clearances may be reduced, provided the kiln is installed in accordance with its <i>listing</i> or to acceptable conclusions of testing reports submitted to the <i><a class=\"autolink\" href=\"/viewer/oregon/irc-2021/chapter/2/definitions#building_official_\">building official</a></i>. In no case shall the clearance on the gas or electrical <a class=\"autolink\" href=\"/viewer/oregon/irc-2021/chapter/2/definitions#control_limit_\">control</a> side of a kiln be reduced to less than 30 inches (762 mm).</div>",
+                                                "depth": 3,
+                                                "diagrams": [],
+                                                "displayRef": "M1904.4.1",
+                                                "displayTitle": "M1904.4.1 Kiln Clearance",
+                                                "hasAssemblies": false,
+                                                "isContiguous": true,
+                                                "numAssembliesOnRef": 0,
+                                                "numBuildingProductsOnRef": 0,
+                                                "numDiagramsOnRef": 0,
+                                                "reference": "new_M1904.4.1",
+                                                "slug": "special-appliances-equipment-and-systems",
+                                                "titleText": "Kiln Clearance",
+                                                "children": []
+                                            },
+                                            {
+                                                "amendType": "addition",
+                                                "ancestorRefs": [
+                                                    "19",
+                                                    "M1904",
+                                                    "new_M1904.4"
+                                                ],
+                                                "body": "A canopy-type hood shall be installed directly above each kiln. The face-opening area of the hood shall be equal to or greater than the top horizontal surface area of the kiln. The hood shall be constructed of not less than 0.024-inch (0.61 mm) (No. 24 US gage) galvanized steel or equivalent and be supported at a height of between 12 inches (305 mm) and 30 inches (762 mm) above the kiln by noncombustible <a class=\"autolink\" href=\"/viewer/oregon/irc-2021/chapter/2/definitions#supports_\">supports</a>.\n<div class=\"uc_exception\"><span class=\"u-font-bold\">Exception:</span> Electric kilns installed with <i>listed</i> exhaust blowers may be used where marked as being suitable for the kiln and installed in accordance with the <a class=\"autolink\" href=\"/viewer/oregon/irc-2021/chapter/new_11/energy-efficiency#manufacturer\">manufacturer</a>'s instructions.</div>",
+                                                "depth": 3,
+                                                "diagrams": [],
+                                                "displayRef": "M1904.4.2",
+                                                "displayTitle": "M1904.4.2 Hoods",
+                                                "hasAssemblies": false,
+                                                "isContiguous": true,
+                                                "numAssembliesOnRef": 0,
+                                                "numBuildingProductsOnRef": 0,
+                                                "numDiagramsOnRef": 0,
+                                                "reference": "new_M1904.4.2",
+                                                "slug": "special-appliances-equipment-and-systems",
+                                                "titleText": "Hoods",
+                                                "children": []
+                                            },
+                                            {
+                                                "amendType": "addition",
+                                                "ancestorRefs": [
+                                                    "19",
+                                                    "M1904",
+                                                    "new_M1904.4"
+                                                ],
+                                                "body": "Each hood shall be connected to a gravity <a class=\"autolink\" href=\"/viewer/oregon/irc-2021/chapter/2/definitions#ventilation_\">ventilation</a> <a class=\"autolink\" href=\"/viewer/oregon/irc-2021/chapter/2/definitions#duct_\">duct</a> extending in a vertical direction to outside the building. This <a class=\"autolink\" href=\"/viewer/oregon/irc-2021/chapter/2/definitions#duct_\">duct</a> shall be of the same construction as the hood and shall have a minimum cross-sectional area of not less than one-fifteenth of the face opening area of the hood. The <a class=\"autolink\" href=\"/viewer/oregon/irc-2021/chapter/2/definitions#duct_\">duct</a> shall terminate a minimum of 12 inches (305 mm) above any portion of a building within 4 feet (1219 mm) and terminate not less than 4 feet (1219 mm) from any openable windows or other openings into the building or adjacent property line. The <a class=\"autolink\" href=\"/viewer/oregon/irc-2021/chapter/2/definitions#duct_\">duct</a> opening to the outside shall be shielded, without reduction of <a class=\"autolink\" href=\"/viewer/oregon/irc-2021/chapter/2/definitions#duct_\">duct</a> area, to prevent entrance of rain into the <a class=\"autolink\" href=\"/viewer/oregon/irc-2021/chapter/2/definitions#duct_\">duct</a>. The <a class=\"autolink\" href=\"/viewer/oregon/irc-2021/chapter/2/definitions#duct_\">duct</a> shall be supported at each section by noncombustible <a class=\"autolink\" href=\"/viewer/oregon/irc-2021/chapter/2/definitions#supports_\">supports</a>.",
+                                                "depth": 3,
+                                                "diagrams": [],
+                                                "displayRef": "M1904.4.3",
+                                                "displayTitle": "M1904.4.3 Gravity Ventilation Ducts",
+                                                "hasAssemblies": false,
+                                                "isContiguous": true,
+                                                "numAssembliesOnRef": 0,
+                                                "numBuildingProductsOnRef": 0,
+                                                "numDiagramsOnRef": 0,
+                                                "reference": "new_M1904.4.3",
+                                                "slug": "special-appliances-equipment-and-systems",
+                                                "titleText": "Gravity Ventilation Ducts",
+                                                "children": []
+                                            },
+                                            {
+                                                "amendType": "addition",
+                                                "ancestorRefs": [
+                                                    "19",
+                                                    "M1904",
+                                                    "new_M1904.4"
+                                                ],
+                                                "body": "Provisions shall be made for air to\nenter the room in which a kiln is installed at a rate at least\nequal to the air being removed through the kiln hood.",
+                                                "depth": 3,
+                                                "diagrams": [],
+                                                "displayRef": "M1904.4.4",
+                                                "displayTitle": "M1904.4.4 Makeup Air",
+                                                "hasAssemblies": false,
+                                                "isContiguous": true,
+                                                "numAssembliesOnRef": 0,
+                                                "numBuildingProductsOnRef": 0,
+                                                "numDiagramsOnRef": 0,
+                                                "reference": "new_M1904.4.4",
+                                                "slug": "special-appliances-equipment-and-systems",
+                                                "titleText": "Makeup Air",
+                                                "children": []
+                                            },
+                                            {
+                                                "amendType": "addition",
+                                                "ancestorRefs": [
+                                                    "19",
+                                                    "M1904",
+                                                    "new_M1904.4"
+                                                ],
+                                                "body": "Every hood and <a class=\"autolink\" href=\"/viewer/oregon/irc-2021/chapter/2/definitions#duct_\">duct</a>\nserving a fuel-burning kiln shall have a clearance from\ncombustible construction of at least 18 inches (457 mm). This\nclearance may be reduced in accordance with Figure M1306.1\nand <a class=\"autolink\" href=\"/viewer/oregon/irc-2021/chapter/13/general-mechanical-system-requirements#table_M1306.2\">Table M1306.2</a>.",
+                                                "depth": 3,
+                                                "diagrams": [],
+                                                "displayRef": "M1904.4.5",
+                                                "displayTitle": "M1904.4.5 Hood and Duct Clearances",
+                                                "hasAssemblies": false,
+                                                "isContiguous": true,
+                                                "numAssembliesOnRef": 0,
+                                                "numBuildingProductsOnRef": 0,
+                                                "numDiagramsOnRef": 0,
+                                                "reference": "new_M1904.4.5",
+                                                "slug": "special-appliances-equipment-and-systems",
+                                                "titleText": "Hood and Duct Clearances",
+                                                "children": []
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "amendType": "addition",
+                                        "ancestorRefs": [
+                                            "19",
+                                            "M1904"
+                                        ],
+                                        "body": "Kilns shall be installed with\nminimum clearances as specified in <a class=\"autolink\" href=\"#new_M1904.4.1\">Section M1904.4.1</a>.\nWherever a kiln is located under a roofed area and is partially\nenclosed by more than two vertical wall surfaces, a hood and\ngravity <a class=\"autolink\" href=\"/viewer/oregon/irc-2021/chapter/2/definitions#ventilation_\">ventilation</a> <a class=\"autolink\" href=\"/viewer/oregon/irc-2021/chapter/2/definitions#duct_\">duct</a> shall be installed to comply with\nSections <a class=\"autolink\" href=\"#new_M1904.4.2\">M1904.4.2</a>, <a class=\"autolink\" href=\"#new_M1904.4.3\">M1904.4.3</a> and <a class=\"autolink\" href=\"#new_M1904.4.5\">M1904.4.5</a>.",
+                                        "depth": 2,
+                                        "diagrams": [],
+                                        "displayRef": "M1904.5",
+                                        "displayTitle": "M1904.5 Exterior Installation",
+                                        "hasAssemblies": false,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 0,
+                                        "numDiagramsOnRef": 0,
+                                        "reference": "new_M1904.5",
+                                        "slug": "special-appliances-equipment-and-systems",
+                                        "titleText": "Exterior Installation",
+                                        "children": []
+                                    }
+                                ]
+                            },
+                            {
+                                "amendType": "addition",
+                                "ancestorRefs": [
+                                    "19"
+                                ],
+                                "depth": 1,
+                                "diagrams": [],
+                                "displayRef": "M1905",
+                                "displayTitle": "Section M1905 Stationary Fuel Cell Power Plants",
+                                "divisionType": "Section",
+                                "hasAssemblies": false,
+                                "isContiguous": true,
+                                "numAssembliesOnRef": 0,
+                                "numBuildingProductsOnRef": 0,
+                                "numDiagramsOnRef": 0,
+                                "reference": "new_M1905",
+                                "slug": "special-appliances-equipment-and-systems",
+                                "titleText": "Stationary Fuel Cell Power Plants",
+                                "children": [
+                                    {
+                                        "amendType": "addition",
+                                        "ancestorRefs": [
+                                            "19",
+                                            "new_M1905"
+                                        ],
+                                        "body": "<a class=\"autolink\" href=\"/viewer/oregon/irc-2021/chapter/2/definitions#stationary_fuel_cell_power_plant_\">Stationary fuel cell power plants</a> having a power output not exceeding 1,000 kW shall comply with ANSI/CSA America FC 1 and shall be installed in accordance with the <a class=\"autolink\" href=\"/viewer/oregon/irc-2021/chapter/new_11/energy-efficiency#manufacturer\">manufacturer</a>'s instructions and NFPA 853.",
+                                        "depth": 2,
+                                        "diagrams": [],
+                                        "displayRef": "M1905.1",
+                                        "displayTitle": "M1905.1 General",
+                                        "hasAssemblies": false,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 0,
+                                        "numDiagramsOnRef": 0,
+                                        "reference": "new_M1905.1",
+                                        "slug": "special-appliances-equipment-and-systems",
+                                        "titleText": "General",
+                                        "children": []
+                                    }
+                                ]
+                            },
+                            {
+                                "amendType": "addition",
+                                "ancestorRefs": [
+                                    "19"
+                                ],
+                                "depth": 1,
+                                "diagrams": [],
+                                "displayRef": "M1906",
+                                "displayTitle": "Section M1906 Gaseous Hydrogen Systems",
+                                "divisionType": "Section",
+                                "hasAssemblies": false,
+                                "isContiguous": true,
+                                "numAssembliesOnRef": 0,
+                                "numBuildingProductsOnRef": 0,
+                                "numDiagramsOnRef": 0,
+                                "reference": "new_M1906",
+                                "slug": "special-appliances-equipment-and-systems",
+                                "titleText": "Gaseous Hydrogen Systems",
+                                "children": [
+                                    {
+                                        "amendType": "addition",
+                                        "ancestorRefs": [
+                                            "19",
+                                            "new_M1906"
+                                        ],
+                                        "body": "Gaseous hydrogen systems shall be installed in accordance with the applicable requirements of the <i><a class=\"autolink\" href=\"/viewer/oregon/ibc-2021\">Building Code</a></i> and the <i><a class=\"autolink\" href=\"/viewer/oregon/imc-2021\">Mechanical Code</a></i>.",
+                                        "depth": 2,
+                                        "diagrams": [],
+                                        "displayRef": "M1906.1",
+                                        "displayTitle": "M1906.1 Installation",
+                                        "hasAssemblies": false,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 0,
+                                        "numDiagramsOnRef": 0,
+                                        "reference": "new_M1906.1",
+                                        "slug": "special-appliances-equipment-and-systems",
+                                        "titleText": "Installation",
+                                        "children": []
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            "chapterReference": "19"
+        },
+        "__N_SSP": true
+    },
+    "page": "/viewer/[urlFormPubOrJurisKey]/[urlFormPub]/chapter/[chapterRef]/[chapterName]",
+    "query": {
+        "urlFormPubOrJurisKey": "oregon",
+        "urlFormPub": "irc-2021",
+        "chapterRef": "19",
+        "chapterName": "special-appliances-equipment-and-systems"
+    },
+    "buildId": "fFVLMUIiiAoykBGFSOQHj",
+    "isFallback": false,
+    "isExperimentalCompile": false,
+    "dynamicIds": [
+        61621,
+        54065
+    ],
+    "gssp": true,
+    "scriptLoader": []
+}

@@ -1,0 +1,635 @@
+{
+    "props": {
+        "pageProps": {
+            "missingRequiredLogin": false,
+            "title": "Chapter 14 Relocated or Moved Buildings: Oregon Existing Building Code 2024 | UpCodes",
+            "leanChapterViewerData": {
+                "basePubName": "International Existing Building Code 2024 (IEBC 2024)",
+                "codeGroupingYear": "2025",
+                "codeName": "Oregon Existing Building Code 2024",
+                "codeUuid": "b601c599-d134-4736-adcf-5b4d64c1ea21",
+                "codeVersions": [
+                    {
+                        "codeUuid": "b601c599-d134-4736-adcf-5b4d64c1ea21",
+                        "name": "Original Adoption",
+                        "effectiveStartDate": "2025-10-01",
+                        "shortformUrlName": "iebc-2024",
+                        "activeStatus": "active"
+                    }
+                ],
+                "ingesterAmendmentsEnabled": false,
+                "ingesterCodeUnitsEnabled": false,
+                "isAmendStylingEnabled": true,
+                "isCorrespondable": true,
+                "jurisKey": "oregon",
+                "jurisName": "Oregon",
+                "metaInfoUrl": "/viewer/oregon/iebc-2024",
+                "modelCodeUrl": null,
+                "placeholder": "Search Oregon Existing Building Code 2024",
+                "pubKey": "int_ebc_2024",
+                "pubPrefix": "int_ebc",
+                "shortformPubName": "iebc-2024",
+                "withAmendments": true,
+                "chapterRef": "14",
+                "publisher": "icc",
+                "hasLinkedResources": false,
+                "initialNonChapterTocLines": [
+                    {
+                        "amendType": "edit",
+                        "children": [
+                            {
+                                "amendType": "deletion",
+                                "children": [
+                                    {
+                                        "amendType": "deletion",
+                                        "children": [],
+                                        "depth": 3,
+                                        "displayTitle": "<span class=\"code_deletion\">1401.1.1</span> <span class=\"code_deletion\">Bleachers, Folding and Telescopic Seating and Grandstands</span>",
+                                        "hasExpanderArrow": false,
+                                        "href": "#1401.1.1",
+                                        "isCodeDivider": false,
+                                        "isCodeDividerClickable": false,
+                                        "reference": "1401.1.1"
+                                    }
+                                ],
+                                "depth": 2,
+                                "displayTitle": "<span class=\"code_deletion\">1401.1</span> <span class=\"code_deletion\">Scope</span>",
+                                "hasExpanderArrow": true,
+                                "href": "#1401.1",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "reference": "1401.1"
+                            },
+                            {
+                                "amendType": "deletion",
+                                "children": [],
+                                "depth": 2,
+                                "displayTitle": "<span class=\"code_deletion\">1401.2</span> <span class=\"code_deletion\">Conformance</span>",
+                                "hasExpanderArrow": false,
+                                "href": "#1401.2",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "reference": "1401.2"
+                            }
+                        ],
+                        "depth": 1,
+                        "displayTitle": "1401 General",
+                        "hasExpanderArrow": true,
+                        "href": "#1401",
+                        "isCodeDivider": false,
+                        "isCodeDividerClickable": false,
+                        "reference": "1401"
+                    },
+                    {
+                        "amendType": "deletion",
+                        "children": [
+                            {
+                                "amendType": "deletion",
+                                "children": [],
+                                "depth": 2,
+                                "displayTitle": "<span class=\"code_deletion\">1402.1</span> <span class=\"code_deletion\">Location on the Lot</span>",
+                                "hasExpanderArrow": false,
+                                "href": "#1402.1",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "reference": "1402.1"
+                            },
+                            {
+                                "amendType": "deletion",
+                                "children": [
+                                    {
+                                        "amendType": "deletion",
+                                        "children": [],
+                                        "depth": 3,
+                                        "displayTitle": "<span class=\"code_deletion\">1402.2.1</span> <span class=\"code_deletion\">Connection to the Foundation</span>",
+                                        "hasExpanderArrow": false,
+                                        "href": "#1402.2.1",
+                                        "isCodeDivider": false,
+                                        "isCodeDividerClickable": false,
+                                        "reference": "1402.2.1"
+                                    }
+                                ],
+                                "depth": 2,
+                                "displayTitle": "<span class=\"code_deletion\">1402.2</span> <span class=\"code_deletion\">Foundation</span>",
+                                "hasExpanderArrow": true,
+                                "href": "#1402.2",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "reference": "1402.2"
+                            },
+                            {
+                                "amendType": "deletion",
+                                "children": [],
+                                "depth": 2,
+                                "displayTitle": "<span class=\"code_deletion\">1402.3</span> <span class=\"code_deletion\">Wind Loads</span>",
+                                "hasExpanderArrow": false,
+                                "href": "#1402.3",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "reference": "1402.3"
+                            },
+                            {
+                                "amendType": "deletion",
+                                "children": [],
+                                "depth": 2,
+                                "displayTitle": "<span class=\"code_deletion\">1402.4</span> <span class=\"code_deletion\">Seismic Loads</span>",
+                                "hasExpanderArrow": false,
+                                "href": "#1402.4",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "reference": "1402.4"
+                            },
+                            {
+                                "amendType": "deletion",
+                                "children": [],
+                                "depth": 2,
+                                "displayTitle": "<span class=\"code_deletion\">1402.5</span> <span class=\"code_deletion\">Snow Loads</span>",
+                                "hasExpanderArrow": false,
+                                "href": "#1402.5",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "reference": "1402.5"
+                            },
+                            {
+                                "amendType": "deletion",
+                                "children": [],
+                                "depth": 2,
+                                "displayTitle": "<span class=\"code_deletion\">1402.6</span> <span class=\"code_deletion\">Flood Hazard Areas</span>",
+                                "hasExpanderArrow": false,
+                                "href": "#1402.6",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "reference": "1402.6"
+                            },
+                            {
+                                "amendType": "deletion",
+                                "children": [],
+                                "depth": 2,
+                                "displayTitle": "<span class=\"code_deletion\">1402.7</span> <span class=\"code_deletion\">Required Inspection and Repairs</span>",
+                                "hasExpanderArrow": false,
+                                "href": "#1402.7",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "reference": "1402.7"
+                            }
+                        ],
+                        "depth": 1,
+                        "displayTitle": "<span class=\"code_deletion\">1402</span> <span class=\"code_deletion\">Requirements</span>",
+                        "hasExpanderArrow": true,
+                        "href": "#1402",
+                        "isCodeDivider": false,
+                        "isCodeDividerClickable": false,
+                        "reference": "1402"
+                    }
+                ],
+                "title": "Chapter 14 Relocated or Moved Buildings: Oregon Existing Building Code 2024 | UpCodes",
+                "leanChapterLines": [
+                    {
+                        "displayTitle": "Chapter 1 Scope and Administration",
+                        "isExpandable": true,
+                        "reference": "1",
+                        "slug": "scope-and-administration"
+                    },
+                    {
+                        "displayTitle": "Chapter 2 Definitions",
+                        "isExpandable": true,
+                        "reference": "2",
+                        "slug": "definitions"
+                    },
+                    {
+                        "displayTitle": "Chapter 3 Provisions for All Compliance Methods",
+                        "isExpandable": true,
+                        "reference": "3",
+                        "slug": "provisions-for-all-compliance-methods"
+                    },
+                    {
+                        "displayTitle": "Chapter 4 Repairs",
+                        "isExpandable": true,
+                        "reference": "4",
+                        "slug": "repairs"
+                    },
+                    {
+                        "displayTitle": "Chapter 5 Prescriptive Compliance Method",
+                        "isExpandable": true,
+                        "reference": "5",
+                        "slug": "prescriptive-compliance-method"
+                    },
+                    {
+                        "displayTitle": "Chapter 6 Classification of Work",
+                        "isExpandable": true,
+                        "reference": "6",
+                        "slug": "classification-of-work"
+                    },
+                    {
+                        "displayTitle": "Chapter 7 Alterations\u2014Level 1",
+                        "isExpandable": true,
+                        "reference": "7",
+                        "slug": "alterations-level-1"
+                    },
+                    {
+                        "displayTitle": "Chapter 8 Alterations\u2014Level 2",
+                        "isExpandable": true,
+                        "reference": "8",
+                        "slug": "alterations-level-2"
+                    },
+                    {
+                        "displayTitle": "Chapter 9 Alterations\u2014Level 3",
+                        "isExpandable": true,
+                        "reference": "9",
+                        "slug": "alterations-level-3"
+                    },
+                    {
+                        "displayTitle": "Chapter 10 Change of Occupancy",
+                        "isExpandable": true,
+                        "reference": "10",
+                        "slug": "change-of-occupancy"
+                    },
+                    {
+                        "displayTitle": "Chapter 11 Additions",
+                        "isExpandable": true,
+                        "reference": "11",
+                        "slug": "additions"
+                    },
+                    {
+                        "displayTitle": "Chapter 12 Historic Buildings",
+                        "isExpandable": true,
+                        "reference": "12",
+                        "slug": "historic-buildings"
+                    },
+                    {
+                        "displayTitle": "Chapter 13 Performance Compliance Methods",
+                        "isExpandable": true,
+                        "reference": "13",
+                        "slug": "performance-compliance-methods"
+                    },
+                    {
+                        "displayTitle": "Chapter 14 Relocated or Moved Buildings",
+                        "isExpandable": true,
+                        "reference": "14",
+                        "slug": "relocated-or-moved-buildings"
+                    },
+                    {
+                        "displayTitle": "Chapter 15 Construction Safeguards",
+                        "isExpandable": true,
+                        "reference": "15",
+                        "slug": "construction-safeguards"
+                    },
+                    {
+                        "displayTitle": "Chapter 16 Referenced Standards",
+                        "reference": "16",
+                        "slug": "referenced-standards"
+                    },
+                    {
+                        "disabled": true,
+                        "displayTitle": "Appendix A Guidelines for the Seismic Retrofit of Existing Buildings",
+                        "reference": "A",
+                        "slug": "guidelines-for-the-seismic-retrofit-of-existing-buildings"
+                    },
+                    {
+                        "disabled": true,
+                        "displayTitle": "Appendix B Supplementary Accessibility Requirements for Existing Buildings and Facilities",
+                        "reference": "B",
+                        "slug": "supplementary-accessibility-requirements-for-existing-buildings-and-facilities"
+                    },
+                    {
+                        "disabled": true,
+                        "displayTitle": "Appendix C Guidelines for the Wind Retrofit of Existing Buildings",
+                        "reference": "C",
+                        "slug": "guidelines-for-the-wind-retrofit-of-existing-buildings"
+                    },
+                    {
+                        "disabled": true,
+                        "displayTitle": "Appendix D Board of Appeals",
+                        "reference": "D",
+                        "slug": "board-of-appeals"
+                    },
+                    {
+                        "disabled": true,
+                        "displayTitle": "Appendix E Temporary Emergency Uses",
+                        "reference": "E",
+                        "slug": "temporary-emergency-uses"
+                    },
+                    {
+                        "disabled": true,
+                        "displayTitle": "Resource A Guidelines on Fire Ratings of Archaic Materials and Assemblies",
+                        "reference": "resource_A",
+                        "slug": "guidelines-on-fire-ratings-of-archaic-materials-and-assemblies"
+                    }
+                ],
+                "leanCodeSectionsTree": [
+                    {
+                        "ancestorRefs": [],
+                        "body": "<div class=\"u-mt-4\"><div class=\"u-mt-3 u-font-bold u-mb-3\">User notes:</div><div class=\"u-mt-3 u-mb-3\"><span class=\"u-italic\"><span class=\"u-font-bold\">About this chapter:                                 </span>Chapter 14 is applicable to any building that is moved or                                 relocated. The relocation of a building will automatically cause an                                 inspection and evaluation process that enables the jurisdiction to                                 determine the level of compliance with the </span><a class=\"autolink\" href=\"/viewer/oregon/ifc-2024\">International Fire Code</a><sup>\u00ae</sup><span class=\"u-italic\"> and                                 the </span>International Property Maintenance                                 Code<sup>\u00ae</sup>. <span class=\"u-italic\">These two codes, by their                                 <a class=\"autolink\" href=\"/viewer/oregon/iebc-2024/chapter/2/definitions#201.1\">scope</a>, are applicable to <a class=\"autolink\" href=\"/viewer/oregon/iebc-2024/chapter/2/definitions#existing_building_\">existing buildings</a>. This is the case                                 regardless of any <a class=\"autolink\" href=\"/viewer/oregon/iebc-2024/chapter/2/definitions#repair_\">repair</a>, remodeling, <a class=\"autolink\" href=\"/viewer/oregon/iebc-2024/chapter/2/definitions#alteration_\">alteration</a> work or <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/oregon/iebc-2024/chapter/2/definitions#change_of_occupancy_\">change of occupancy</a></span> occurring (see                                 the </span><a class=\"autolink\" href=\"/viewer/oregon/ifc-2024\">International Fire Code</a><span class=\"u-italic\">                                 and </span>International Property Maintenance Code<span class=\"u-italic\">).</span></div></div>",
+                        "depth": 0,
+                        "diagrams": [],
+                        "displayRef": null,
+                        "displayTitle": "Chapter 14 Relocated or Moved Buildings",
+                        "divisionType": "Chapter",
+                        "hasAssemblies": false,
+                        "isContiguous": true,
+                        "numAssembliesOnRef": 0,
+                        "numBuildingProductsOnRef": 0,
+                        "numDiagramsOnRef": 0,
+                        "reference": "14",
+                        "slug": "relocated-or-moved-buildings",
+                        "titleText": "Relocated or Moved Buildings",
+                        "children": [
+                            {
+                                "amendType": "edit",
+                                "ancestorRefs": [
+                                    "14"
+                                ],
+                                "body": "<span class=\"code_addition\">Relocated or moved buildings shall comply with <a class=\"autolink\" href=\"/viewer/oregon/iebc-2024/chapter/3/provisions-for-all-compliance-methods#301.4\">Section 301.4</a>.</span>",
+                                "depth": 1,
+                                "diagrams": [],
+                                "displayRef": null,
+                                "displayTitle": "Section 1401 General",
+                                "divisionType": "Section",
+                                "hasAssemblies": false,
+                                "isContiguous": true,
+                                "numAssembliesOnRef": 0,
+                                "numBuildingProductsOnRef": 0,
+                                "numDiagramsOnRef": 0,
+                                "reference": "1401",
+                                "slug": "relocated-or-moved-buildings",
+                                "titleText": "General",
+                                "children": [
+                                    {
+                                        "amendType": "deletion",
+                                        "ancestorRefs": [
+                                            "14",
+                                            "1401"
+                                        ],
+                                        "depth": 2,
+                                        "diagrams": [],
+                                        "displayRef": "<span class=\"code_deletion\">1401.1</span>",
+                                        "displayTitle": "<span class=\"code_deletion\">1401.1</span> <span class=\"code_deletion\">Scope</span>",
+                                        "hasAssemblies": false,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 0,
+                                        "numDiagramsOnRef": 0,
+                                        "reference": "1401.1",
+                                        "slug": "relocated-or-moved-buildings",
+                                        "titleText": "<span class=\"code_deletion\">Scope</span>",
+                                        "children": [
+                                            {
+                                                "amendType": "deletion",
+                                                "ancestorRefs": [
+                                                    "14",
+                                                    "1401",
+                                                    "1401.1"
+                                                ],
+                                                "depth": 3,
+                                                "diagrams": [],
+                                                "displayRef": "<span class=\"code_deletion\">1401.1.1</span>",
+                                                "displayTitle": "<span class=\"code_deletion\">1401.1.1</span> <span class=\"code_deletion\">Bleachers, Folding and Telescopic Seating and Grandstands</span>",
+                                                "hasAssemblies": false,
+                                                "isContiguous": true,
+                                                "numAssembliesOnRef": 0,
+                                                "numBuildingProductsOnRef": 0,
+                                                "numDiagramsOnRef": 0,
+                                                "reference": "1401.1.1",
+                                                "slug": "relocated-or-moved-buildings",
+                                                "titleText": "<span class=\"code_deletion\">Bleachers, Folding and Telescopic Seating and Grandstands</span>",
+                                                "children": []
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "amendType": "deletion",
+                                        "ancestorRefs": [
+                                            "14",
+                                            "1401"
+                                        ],
+                                        "depth": 2,
+                                        "diagrams": [],
+                                        "displayRef": "<span class=\"code_deletion\">1401.2</span>",
+                                        "displayTitle": "<span class=\"code_deletion\">1401.2</span> <span class=\"code_deletion\">Conformance</span>",
+                                        "hasAssemblies": false,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 0,
+                                        "numDiagramsOnRef": 0,
+                                        "reference": "1401.2",
+                                        "slug": "relocated-or-moved-buildings",
+                                        "titleText": "<span class=\"code_deletion\">Conformance</span>",
+                                        "children": []
+                                    }
+                                ]
+                            },
+                            {
+                                "amendType": "deletion",
+                                "ancestorRefs": [
+                                    "14"
+                                ],
+                                "depth": 1,
+                                "diagrams": [],
+                                "displayRef": "<span class=\"code_deletion\">1402</span>",
+                                "displayTitle": "Section <span class=\"code_deletion\">1402</span> <span class=\"code_deletion\">Requirements</span>",
+                                "divisionType": "Section",
+                                "hasAssemblies": false,
+                                "isContiguous": true,
+                                "numAssembliesOnRef": 0,
+                                "numBuildingProductsOnRef": 0,
+                                "numDiagramsOnRef": 0,
+                                "reference": "1402",
+                                "slug": "relocated-or-moved-buildings",
+                                "titleText": "<span class=\"code_deletion\">Requirements</span>",
+                                "children": [
+                                    {
+                                        "amendType": "deletion",
+                                        "ancestorRefs": [
+                                            "14",
+                                            "1402"
+                                        ],
+                                        "depth": 2,
+                                        "diagrams": [],
+                                        "displayRef": "<span class=\"code_deletion\">1402.1</span>",
+                                        "displayTitle": "<span class=\"code_deletion\">1402.1</span> <span class=\"code_deletion\">Location on the Lot</span>",
+                                        "hasAssemblies": false,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 0,
+                                        "numDiagramsOnRef": 0,
+                                        "reference": "1402.1",
+                                        "slug": "relocated-or-moved-buildings",
+                                        "titleText": "<span class=\"code_deletion\">Location on the Lot</span>",
+                                        "children": []
+                                    },
+                                    {
+                                        "amendType": "deletion",
+                                        "ancestorRefs": [
+                                            "14",
+                                            "1402"
+                                        ],
+                                        "depth": 2,
+                                        "diagrams": [],
+                                        "displayRef": "<span class=\"code_deletion\">1402.2</span>",
+                                        "displayTitle": "[BS]  <span class=\"code_deletion\">1402.2</span> <span class=\"code_deletion\">Foundation</span>",
+                                        "hasAssemblies": false,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 0,
+                                        "numDiagramsOnRef": 0,
+                                        "reference": "1402.2",
+                                        "refPrefix": "[BS]",
+                                        "slug": "relocated-or-moved-buildings",
+                                        "titleText": "<span class=\"code_deletion\">Foundation</span>",
+                                        "children": [
+                                            {
+                                                "amendType": "deletion",
+                                                "ancestorRefs": [
+                                                    "14",
+                                                    "1402",
+                                                    "1402.2"
+                                                ],
+                                                "depth": 3,
+                                                "diagrams": [],
+                                                "displayRef": "<span class=\"code_deletion\">1402.2.1</span>",
+                                                "displayTitle": "[BS]  <span class=\"code_deletion\">1402.2.1</span> <span class=\"code_deletion\">Connection to the Foundation</span>",
+                                                "hasAssemblies": false,
+                                                "isContiguous": true,
+                                                "numAssembliesOnRef": 0,
+                                                "numBuildingProductsOnRef": 0,
+                                                "numDiagramsOnRef": 0,
+                                                "reference": "1402.2.1",
+                                                "refPrefix": "[BS]",
+                                                "slug": "relocated-or-moved-buildings",
+                                                "titleText": "<span class=\"code_deletion\">Connection to the Foundation</span>",
+                                                "children": []
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "amendType": "deletion",
+                                        "ancestorRefs": [
+                                            "14",
+                                            "1402"
+                                        ],
+                                        "depth": 2,
+                                        "diagrams": [],
+                                        "displayRef": "<span class=\"code_deletion\">1402.3</span>",
+                                        "displayTitle": "[BS]  <span class=\"code_deletion\">1402.3</span> <span class=\"code_deletion\">Wind Loads</span>",
+                                        "hasAssemblies": false,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 0,
+                                        "numDiagramsOnRef": 0,
+                                        "reference": "1402.3",
+                                        "refPrefix": "[BS]",
+                                        "slug": "relocated-or-moved-buildings",
+                                        "titleText": "<span class=\"code_deletion\">Wind Loads</span>",
+                                        "children": []
+                                    },
+                                    {
+                                        "amendType": "deletion",
+                                        "ancestorRefs": [
+                                            "14",
+                                            "1402"
+                                        ],
+                                        "depth": 2,
+                                        "diagrams": [],
+                                        "displayRef": "<span class=\"code_deletion\">1402.4</span>",
+                                        "displayTitle": "[BS]  <span class=\"code_deletion\">1402.4</span> <span class=\"code_deletion\">Seismic Loads</span>",
+                                        "hasAssemblies": false,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 0,
+                                        "numDiagramsOnRef": 0,
+                                        "reference": "1402.4",
+                                        "refPrefix": "[BS]",
+                                        "slug": "relocated-or-moved-buildings",
+                                        "titleText": "<span class=\"code_deletion\">Seismic Loads</span>",
+                                        "children": []
+                                    },
+                                    {
+                                        "amendType": "deletion",
+                                        "ancestorRefs": [
+                                            "14",
+                                            "1402"
+                                        ],
+                                        "depth": 2,
+                                        "diagrams": [],
+                                        "displayRef": "<span class=\"code_deletion\">1402.5</span>",
+                                        "displayTitle": "[BS]  <span class=\"code_deletion\">1402.5</span> <span class=\"code_deletion\">Snow Loads</span>",
+                                        "hasAssemblies": false,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 0,
+                                        "numDiagramsOnRef": 0,
+                                        "reference": "1402.5",
+                                        "refPrefix": "[BS]",
+                                        "slug": "relocated-or-moved-buildings",
+                                        "titleText": "<span class=\"code_deletion\">Snow Loads</span>",
+                                        "children": []
+                                    },
+                                    {
+                                        "amendType": "deletion",
+                                        "ancestorRefs": [
+                                            "14",
+                                            "1402"
+                                        ],
+                                        "depth": 2,
+                                        "diagrams": [],
+                                        "displayRef": "<span class=\"code_deletion\">1402.6</span>",
+                                        "displayTitle": "[BS]  <span class=\"code_deletion\">1402.6</span> <span class=\"code_deletion\">Flood Hazard Areas</span>",
+                                        "hasAssemblies": false,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 0,
+                                        "numDiagramsOnRef": 0,
+                                        "reference": "1402.6",
+                                        "refPrefix": "[BS]",
+                                        "slug": "relocated-or-moved-buildings",
+                                        "titleText": "<span class=\"code_deletion\">Flood Hazard Areas</span>",
+                                        "children": []
+                                    },
+                                    {
+                                        "amendType": "deletion",
+                                        "ancestorRefs": [
+                                            "14",
+                                            "1402"
+                                        ],
+                                        "depth": 2,
+                                        "diagrams": [],
+                                        "displayRef": "<span class=\"code_deletion\">1402.7</span>",
+                                        "displayTitle": "[BS]  <span class=\"code_deletion\">1402.7</span> <span class=\"code_deletion\">Required Inspection and Repairs</span>",
+                                        "hasAssemblies": false,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 0,
+                                        "numDiagramsOnRef": 0,
+                                        "reference": "1402.7",
+                                        "refPrefix": "[BS]",
+                                        "slug": "relocated-or-moved-buildings",
+                                        "titleText": "<span class=\"code_deletion\">Required Inspection and Repairs</span>",
+                                        "children": []
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            "chapterReference": "14"
+        },
+        "__N_SSP": true
+    },
+    "page": "/viewer/[urlFormPubOrJurisKey]/[urlFormPub]/chapter/[chapterRef]/[chapterName]",
+    "query": {
+        "urlFormPubOrJurisKey": "oregon",
+        "urlFormPub": "iebc-2024",
+        "chapterRef": "14",
+        "chapterName": "relocated-or-moved-buildings"
+    },
+    "buildId": "fFVLMUIiiAoykBGFSOQHj",
+    "isFallback": false,
+    "isExperimentalCompile": false,
+    "dynamicIds": [
+        61621,
+        54065
+    ],
+    "gssp": true,
+    "scriptLoader": []
+}

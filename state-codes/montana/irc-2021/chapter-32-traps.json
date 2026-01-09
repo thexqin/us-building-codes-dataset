@@ -1,0 +1,585 @@
+{
+    "props": {
+        "pageProps": {
+            "missingRequiredLogin": false,
+            "title": "Chapter <span class=\"code_deletion\">32</span> <span class=\"code_deletion\">Traps</span>: Montana Residential Code 2021 | UpCodes",
+            "leanChapterViewerData": {
+                "basePubName": "International Residential Code 2021 (IRC 2021)",
+                "codeGroupingYear": "2022",
+                "codeName": "Montana Residential Code 2021",
+                "codeUuid": "31bd9d8f-f354-4742-b46f-b3cb5a1bec4e",
+                "codeVersions": [
+                    {
+                        "codeUuid": "31bd9d8f-f354-4742-b46f-b3cb5a1bec4e",
+                        "name": "Original Adoption",
+                        "effectiveStartDate": "2022-06-11",
+                        "shortformUrlName": "irc-2021",
+                        "activeStatus": "active"
+                    }
+                ],
+                "ingesterAmendmentsEnabled": false,
+                "ingesterCodeUnitsEnabled": false,
+                "isAmendStylingEnabled": true,
+                "isCorrespondable": true,
+                "jurisKey": "montana",
+                "jurisName": "Montana",
+                "metaInfoUrl": "/viewer/montana/irc-2021",
+                "modelCodeUrl": null,
+                "placeholder": "Search Montana Residential Code 2021",
+                "pubKey": "int_residential_code_2021",
+                "pubPrefix": "int_residential_code",
+                "shortformPubName": "irc-2021",
+                "withAmendments": true,
+                "chapterRef": "32",
+                "publisher": "icc",
+                "hasLinkedResources": false,
+                "initialNonChapterTocLines": [],
+                "title": "Chapter <span class=\"code_deletion\">32</span> <span class=\"code_deletion\">Traps</span>: Montana Residential Code 2021 | UpCodes",
+                "leanChapterLines": [
+                    {
+                        "displayTitle": "Part I Administrative",
+                        "isCodeDivider": true,
+                        "reference": "divider_0_I",
+                        "slug": "administrative"
+                    },
+                    {
+                        "displayTitle": "Chapter 1 Scope and Administration",
+                        "isExpandable": true,
+                        "reference": "1",
+                        "slug": "scope-and-administration"
+                    },
+                    {
+                        "displayTitle": "Part II Definitions",
+                        "isCodeDivider": true,
+                        "reference": "divider_0_II",
+                        "slug": "definitions"
+                    },
+                    {
+                        "displayTitle": "Chapter 2 Definitions",
+                        "isExpandable": true,
+                        "reference": "2",
+                        "slug": "definitions"
+                    },
+                    {
+                        "displayTitle": "Part III\u2014 Building Planning and Construction",
+                        "isCodeDivider": true,
+                        "reference": "III\u2014",
+                        "slug": "building-planning-and-construction"
+                    },
+                    {
+                        "displayTitle": "Chapter 3 Building Planning",
+                        "isExpandable": true,
+                        "reference": "3",
+                        "slug": "building-planning"
+                    },
+                    {
+                        "displayTitle": "Chapter 4 Foundations",
+                        "isExpandable": true,
+                        "reference": "4",
+                        "slug": "foundations"
+                    },
+                    {
+                        "displayTitle": "Chapter 5 Floors",
+                        "isExpandable": true,
+                        "reference": "5",
+                        "slug": "floors"
+                    },
+                    {
+                        "displayTitle": "Chapter 6 Wall Construction",
+                        "isExpandable": true,
+                        "reference": "6",
+                        "slug": "wall-construction"
+                    },
+                    {
+                        "displayTitle": "Chapter 7 Wall Covering",
+                        "isExpandable": true,
+                        "reference": "7",
+                        "slug": "wall-covering"
+                    },
+                    {
+                        "displayTitle": "Chapter 8 Roof-Ceiling Construction",
+                        "isExpandable": true,
+                        "reference": "8",
+                        "slug": "roof-ceiling-construction"
+                    },
+                    {
+                        "displayTitle": "Chapter 9 Roof Assemblies",
+                        "isExpandable": true,
+                        "reference": "9",
+                        "slug": "roof-assemblies"
+                    },
+                    {
+                        "displayTitle": "Chapter 10 Chimneys and Fireplaces",
+                        "isExpandable": true,
+                        "reference": "10",
+                        "slug": "chimneys-and-fireplaces"
+                    },
+                    {
+                        "alwaysShowDeletionAmend": true,
+                        "amendType": "deletion",
+                        "displayTitle": "Part <span class=\"code_deletion\">IV\u2014</span> <span class=\"code_deletion\">Energy Conservation</span>",
+                        "isCodeDivider": true,
+                        "reference": "IV\u2014",
+                        "slug": "energy-conservation"
+                    },
+                    {
+                        "alwaysShowDeletionAmend": true,
+                        "amendType": "deletion",
+                        "displayTitle": "Chapter <span class=\"code_deletion\">11</span> <span class=\"code_deletion\">[RE] Energy Efficiency</span>",
+                        "reference": "11",
+                        "slug": "re-energy-efficiency"
+                    },
+                    {
+                        "displayTitle": "Part V\u2014 Mechanical",
+                        "isCodeDivider": true,
+                        "reference": "V\u2014",
+                        "slug": "mechanical"
+                    },
+                    {
+                        "alwaysShowDeletionAmend": true,
+                        "amendType": "deletion",
+                        "displayTitle": "Chapter <span class=\"code_deletion\">12</span> <span class=\"code_deletion\">Mechanical Administration</span>",
+                        "reference": "12",
+                        "slug": "mechanical-administration"
+                    },
+                    {
+                        "alwaysShowDeletionAmend": true,
+                        "amendType": "deletion",
+                        "displayTitle": "Chapter <span class=\"code_deletion\">13</span> <span class=\"code_deletion\">General Mechanical System Requirements</span>",
+                        "reference": "13",
+                        "slug": "general-mechanical-system-requirements"
+                    },
+                    {
+                        "alwaysShowDeletionAmend": true,
+                        "amendType": "deletion",
+                        "displayTitle": "Chapter <span class=\"code_deletion\">14</span> <span class=\"code_deletion\">Heating and Cooling Equipment and Appliances</span>",
+                        "reference": "14",
+                        "slug": "heating-and-cooling-equipment-and-appliances"
+                    },
+                    {
+                        "amendType": "edit",
+                        "displayTitle": "Chapter 15 Exhaust Systems",
+                        "isExpandable": true,
+                        "reference": "15",
+                        "slug": "exhaust-systems"
+                    },
+                    {
+                        "alwaysShowDeletionAmend": true,
+                        "amendType": "deletion",
+                        "displayTitle": "Chapter <span class=\"code_deletion\">16</span> <span class=\"code_deletion\">Duct Systems</span>",
+                        "reference": "16",
+                        "slug": "duct-systems"
+                    },
+                    {
+                        "alwaysShowDeletionAmend": true,
+                        "amendType": "deletion",
+                        "displayTitle": "Chapter <span class=\"code_deletion\">17</span> <span class=\"code_deletion\">Combustion Air</span>",
+                        "reference": "17",
+                        "slug": "combustion-air"
+                    },
+                    {
+                        "alwaysShowDeletionAmend": true,
+                        "amendType": "deletion",
+                        "displayTitle": "Chapter <span class=\"code_deletion\">18</span> <span class=\"code_deletion\">Chimneys and Vents</span>",
+                        "reference": "18",
+                        "slug": "chimneys-and-vents"
+                    },
+                    {
+                        "alwaysShowDeletionAmend": true,
+                        "amendType": "deletion",
+                        "displayTitle": "Chapter <span class=\"code_deletion\">19</span> <span class=\"code_deletion\">Special Appliances, Equipment and Systems</span>",
+                        "reference": "19",
+                        "slug": "special-appliances-equipment-and-systems"
+                    },
+                    {
+                        "alwaysShowDeletionAmend": true,
+                        "amendType": "deletion",
+                        "displayTitle": "Chapter <span class=\"code_deletion\">20</span> <span class=\"code_deletion\">Boilers and Water Heaters</span>",
+                        "reference": "20",
+                        "slug": "boilers-and-water-heaters"
+                    },
+                    {
+                        "alwaysShowDeletionAmend": true,
+                        "amendType": "deletion",
+                        "displayTitle": "Chapter <span class=\"code_deletion\">21</span> <span class=\"code_deletion\">Hydronic Piping</span>",
+                        "reference": "21",
+                        "slug": "hydronic-piping"
+                    },
+                    {
+                        "alwaysShowDeletionAmend": true,
+                        "amendType": "deletion",
+                        "displayTitle": "Chapter <span class=\"code_deletion\">22</span> <span class=\"code_deletion\">Special Piping and Storage Systems</span>",
+                        "reference": "22",
+                        "slug": "special-piping-and-storage-systems"
+                    },
+                    {
+                        "alwaysShowDeletionAmend": true,
+                        "amendType": "deletion",
+                        "displayTitle": "Chapter <span class=\"code_deletion\">23</span> <span class=\"code_deletion\">Solar Thermal Energy Systems</span>",
+                        "reference": "23",
+                        "slug": "solar-thermal-energy-systems"
+                    },
+                    {
+                        "alwaysShowDeletionAmend": true,
+                        "amendType": "deletion",
+                        "displayTitle": "Part <span class=\"code_deletion\">VI\u2014</span> <span class=\"code_deletion\">Fuel Gas</span>",
+                        "isCodeDivider": true,
+                        "reference": "VI\u2014",
+                        "slug": "fuel-gas"
+                    },
+                    {
+                        "alwaysShowDeletionAmend": true,
+                        "amendType": "deletion",
+                        "displayTitle": "Chapter <span class=\"code_deletion\">24</span> <span class=\"code_deletion\">Fuel Gas</span>",
+                        "reference": "24",
+                        "slug": "fuel-gas"
+                    },
+                    {
+                        "alwaysShowDeletionAmend": true,
+                        "amendType": "deletion",
+                        "displayTitle": "Part <span class=\"code_deletion\">VII\u2014</span> <span class=\"code_deletion\">Plumbing</span>",
+                        "isCodeDivider": true,
+                        "reference": "VII\u2014",
+                        "slug": "plumbing"
+                    },
+                    {
+                        "alwaysShowDeletionAmend": true,
+                        "amendType": "deletion",
+                        "displayTitle": "Chapter <span class=\"code_deletion\">25</span> <span class=\"code_deletion\">Plumbing Administration</span>",
+                        "reference": "25",
+                        "slug": "plumbing-administration"
+                    },
+                    {
+                        "alwaysShowDeletionAmend": true,
+                        "amendType": "deletion",
+                        "displayTitle": "Chapter <span class=\"code_deletion\">26</span> <span class=\"code_deletion\">General Plumbing Requirements</span>",
+                        "reference": "26",
+                        "slug": "general-plumbing-requirements"
+                    },
+                    {
+                        "alwaysShowDeletionAmend": true,
+                        "amendType": "deletion",
+                        "displayTitle": "Chapter <span class=\"code_deletion\">27</span> <span class=\"code_deletion\">Plumbing Fixtures</span>",
+                        "reference": "27",
+                        "slug": "plumbing-fixtures"
+                    },
+                    {
+                        "alwaysShowDeletionAmend": true,
+                        "amendType": "deletion",
+                        "displayTitle": "Chapter <span class=\"code_deletion\">28</span> <span class=\"code_deletion\">Water Heaters</span>",
+                        "reference": "28",
+                        "slug": "water-heaters"
+                    },
+                    {
+                        "alwaysShowDeletionAmend": true,
+                        "amendType": "deletion",
+                        "displayTitle": "Chapter <span class=\"code_deletion\">29</span> <span class=\"code_deletion\">Water Supply and Distribution</span>",
+                        "reference": "29",
+                        "slug": "water-supply-and-distribution"
+                    },
+                    {
+                        "alwaysShowDeletionAmend": true,
+                        "amendType": "deletion",
+                        "displayTitle": "Chapter <span class=\"code_deletion\">30</span> <span class=\"code_deletion\">Sanitary Drainage</span>",
+                        "reference": "30",
+                        "slug": "sanitary-drainage"
+                    },
+                    {
+                        "alwaysShowDeletionAmend": true,
+                        "amendType": "deletion",
+                        "displayTitle": "Chapter <span class=\"code_deletion\">31</span> <span class=\"code_deletion\">Vents</span>",
+                        "reference": "31",
+                        "slug": "vents"
+                    },
+                    {
+                        "alwaysShowDeletionAmend": true,
+                        "amendType": "deletion",
+                        "displayTitle": "Chapter <span class=\"code_deletion\">32</span> <span class=\"code_deletion\">Traps</span>",
+                        "reference": "32",
+                        "slug": "traps"
+                    },
+                    {
+                        "alwaysShowDeletionAmend": true,
+                        "amendType": "deletion",
+                        "displayTitle": "Chapter <span class=\"code_deletion\">33</span> <span class=\"code_deletion\">Storm Drainage</span>",
+                        "reference": "33",
+                        "slug": "storm-drainage"
+                    },
+                    {
+                        "alwaysShowDeletionAmend": true,
+                        "amendType": "deletion",
+                        "displayTitle": "Part <span class=\"code_deletion\">VIII\u2014</span> <span class=\"code_deletion\">Electrical</span>",
+                        "isCodeDivider": true,
+                        "reference": "VIII\u2014",
+                        "slug": "electrical"
+                    },
+                    {
+                        "alwaysShowDeletionAmend": true,
+                        "amendType": "deletion",
+                        "displayTitle": "Chapter <span class=\"code_deletion\">34</span> <span class=\"code_deletion\">General Requirements</span>",
+                        "reference": "34",
+                        "slug": "general-requirements"
+                    },
+                    {
+                        "alwaysShowDeletionAmend": true,
+                        "amendType": "deletion",
+                        "displayTitle": "Chapter <span class=\"code_deletion\">35</span> <span class=\"code_deletion\">Electrical Definitions</span>",
+                        "reference": "35",
+                        "slug": "electrical-definitions"
+                    },
+                    {
+                        "alwaysShowDeletionAmend": true,
+                        "amendType": "deletion",
+                        "displayTitle": "Chapter <span class=\"code_deletion\">36</span> <span class=\"code_deletion\">Services</span>",
+                        "reference": "36",
+                        "slug": "services"
+                    },
+                    {
+                        "alwaysShowDeletionAmend": true,
+                        "amendType": "deletion",
+                        "displayTitle": "Chapter <span class=\"code_deletion\">37</span> <span class=\"code_deletion\">Branch Circuit and Feeder Requirements</span>",
+                        "reference": "37",
+                        "slug": "branch-circuit-and-feeder-requirements"
+                    },
+                    {
+                        "alwaysShowDeletionAmend": true,
+                        "amendType": "deletion",
+                        "displayTitle": "Chapter <span class=\"code_deletion\">38</span> <span class=\"code_deletion\">Wiring Methods</span>",
+                        "reference": "38",
+                        "slug": "wiring-methods"
+                    },
+                    {
+                        "alwaysShowDeletionAmend": true,
+                        "amendType": "deletion",
+                        "displayTitle": "Chapter <span class=\"code_deletion\">39</span> <span class=\"code_deletion\">Power and Lighting Distribution</span>",
+                        "reference": "39",
+                        "slug": "power-and-lighting-distribution"
+                    },
+                    {
+                        "alwaysShowDeletionAmend": true,
+                        "amendType": "deletion",
+                        "displayTitle": "Chapter <span class=\"code_deletion\">40</span> <span class=\"code_deletion\">Devices and Luminaires</span>",
+                        "reference": "40",
+                        "slug": "devices-and-luminaires"
+                    },
+                    {
+                        "alwaysShowDeletionAmend": true,
+                        "amendType": "deletion",
+                        "displayTitle": "Chapter <span class=\"code_deletion\">41</span> <span class=\"code_deletion\">Appliance Installation</span>",
+                        "reference": "41",
+                        "slug": "appliance-installation"
+                    },
+                    {
+                        "alwaysShowDeletionAmend": true,
+                        "amendType": "deletion",
+                        "displayTitle": "Chapter <span class=\"code_deletion\">42</span> <span class=\"code_deletion\">Swimming Pools</span>",
+                        "reference": "42",
+                        "slug": "swimming-pools"
+                    },
+                    {
+                        "alwaysShowDeletionAmend": true,
+                        "amendType": "deletion",
+                        "displayTitle": "Chapter <span class=\"code_deletion\">43</span> <span class=\"code_deletion\">Class 2 Remote-Control, Signaling and Power-Limited Circuits</span>",
+                        "reference": "43",
+                        "slug": "class-2-remote-control-signaling-and-power-limited-circuits"
+                    },
+                    {
+                        "displayTitle": "Part IX\u2014 Referenced Standards",
+                        "isCodeDivider": true,
+                        "reference": "IX\u2014",
+                        "slug": "referenced-standards"
+                    },
+                    {
+                        "displayTitle": "Chapter 44 Referenced Standards",
+                        "reference": "44",
+                        "slug": "referenced-standards"
+                    },
+                    {
+                        "disabled": true,
+                        "displayTitle": "Appendix AA Sizing and Capacities of Gas Piping",
+                        "reference": "AA",
+                        "slug": "sizing-and-capacities-of-gas-piping"
+                    },
+                    {
+                        "disabled": true,
+                        "displayTitle": "Appendix AB Sizing of Venting Systems Serving Appliances Equipped With Draft Hoods, Category I Appliances and Appliances Listed for Use With Type B Vents",
+                        "reference": "AB",
+                        "slug": "sizing-of-venting-systems-serving-appliances-equipped-with-draft-hoods-category"
+                    },
+                    {
+                        "disabled": true,
+                        "displayTitle": "Appendix AC Reserved",
+                        "reference": "AC",
+                        "slug": "reserved"
+                    },
+                    {
+                        "disabled": true,
+                        "displayTitle": "Appendix AD Recommended Procedure for Safety Inspection of an Existing Appliance Installation",
+                        "reference": "AD",
+                        "slug": "recommended-procedure-for-safety-inspection-of-an-existing-appliance-installatio"
+                    },
+                    {
+                        "disabled": true,
+                        "displayTitle": "Appendix AE Manufactured Housing Used as Dwellings",
+                        "reference": "AE",
+                        "slug": "manufactured-housing-used-as-dwellings"
+                    },
+                    {
+                        "disabled": true,
+                        "displayTitle": "Appendix AF Radon Control Methods",
+                        "reference": "AF",
+                        "slug": "radon-control-methods"
+                    },
+                    {
+                        "displayTitle": "Appendix AG Piping Standards for Various Applications",
+                        "isExpandable": true,
+                        "reference": "AG",
+                        "slug": "piping-standards-for-various-applications"
+                    },
+                    {
+                        "disabled": true,
+                        "displayTitle": "Appendix AH Patio Covers",
+                        "reference": "AH",
+                        "slug": "patio-covers"
+                    },
+                    {
+                        "disabled": true,
+                        "displayTitle": "Appendix AI Private Sewage Disposal",
+                        "reference": "AI",
+                        "slug": "private-sewage-disposal"
+                    },
+                    {
+                        "disabled": true,
+                        "displayTitle": "Appendix AJ Existing Buildings and Structures",
+                        "reference": "AJ",
+                        "slug": "existing-buildings-and-structures"
+                    },
+                    {
+                        "disabled": true,
+                        "displayTitle": "Appendix AK Sound Transmission",
+                        "reference": "AK",
+                        "slug": "sound-transmission"
+                    },
+                    {
+                        "disabled": true,
+                        "displayTitle": "Appendix AL Permit Fees",
+                        "reference": "AL",
+                        "slug": "permit-fees"
+                    },
+                    {
+                        "disabled": true,
+                        "displayTitle": "Appendix AM Home Day Care\u2014R-3 Occupancy",
+                        "reference": "AM",
+                        "slug": "home-day-care-r-3-occupancy"
+                    },
+                    {
+                        "disabled": true,
+                        "displayTitle": "Appendix AN Venting Methods",
+                        "reference": "AN",
+                        "slug": "venting-methods"
+                    },
+                    {
+                        "disabled": true,
+                        "displayTitle": "Appendix AO Automatic Vehicular Gates",
+                        "reference": "AO",
+                        "slug": "automatic-vehicular-gates"
+                    },
+                    {
+                        "disabled": true,
+                        "displayTitle": "Appendix AP Sizing of Water Piping System",
+                        "reference": "AP",
+                        "slug": "sizing-of-water-piping-system"
+                    },
+                    {
+                        "amendType": "edit",
+                        "displayTitle": "Appendix AQ Tiny Houses",
+                        "hasChapterAdoption": true,
+                        "isExpandable": true,
+                        "reference": "AQ",
+                        "slug": "tiny-houses"
+                    },
+                    {
+                        "disabled": true,
+                        "displayTitle": "Appendix AR Light Straw-Clay Construction",
+                        "reference": "AR",
+                        "slug": "light-straw-clay-construction"
+                    },
+                    {
+                        "disabled": true,
+                        "displayTitle": "Appendix AS Strawbale Construction",
+                        "reference": "AS",
+                        "slug": "strawbale-construction"
+                    },
+                    {
+                        "disabled": true,
+                        "displayTitle": "Appendix AT [RE] Solar-Ready Provisions\u2014Detached One- And Two-Family Dwellings and Townhouses",
+                        "reference": "AT",
+                        "slug": "re-solar-ready-provisions-detached-one-and-two-family-dwellings-and-townhouses"
+                    },
+                    {
+                        "disabled": true,
+                        "displayTitle": "Appendix AU Cob Construction (Monolithic Adobe)",
+                        "reference": "AU",
+                        "slug": "cob-construction-monolithic-adobe"
+                    },
+                    {
+                        "disabled": true,
+                        "displayTitle": "Appendix AV Board of Appeals",
+                        "reference": "AV",
+                        "slug": "board-of-appeals"
+                    },
+                    {
+                        "disabled": true,
+                        "displayTitle": "Appendix AW 3D-Printed Building Construction",
+                        "reference": "AW",
+                        "slug": "3d-printed-building-construction"
+                    },
+                    {
+                        "disabled": true,
+                        "displayTitle": "Appendix AX (RC) Zero Energy Residential Building Provisions",
+                        "reference": "AX",
+                        "slug": "rc-zero-energy-residential-building-provisions"
+                    }
+                ],
+                "leanCodeSectionsTree": [
+                    {
+                        "amendType": "deletion",
+                        "ancestorRefs": [],
+                        "depth": 0,
+                        "diagrams": [],
+                        "displayRef": "<span class=\"code_deletion\">32</span>",
+                        "displayTitle": "Chapter <span class=\"code_deletion\">32</span> <span class=\"code_deletion\">Traps</span>",
+                        "divisionType": "Chapter",
+                        "hasAssemblies": false,
+                        "isContiguous": true,
+                        "numAssembliesOnRef": 0,
+                        "numBuildingProductsOnRef": 0,
+                        "numDiagramsOnRef": 0,
+                        "reference": "32",
+                        "slug": "traps",
+                        "titleText": "<span class=\"code_deletion\">Traps</span>",
+                        "children": []
+                    }
+                ]
+            },
+            "chapterReference": "32"
+        },
+        "__N_SSP": true
+    },
+    "page": "/viewer/[urlFormPubOrJurisKey]/[urlFormPub]/chapter/[chapterRef]/[chapterName]",
+    "query": {
+        "urlFormPubOrJurisKey": "montana",
+        "urlFormPub": "irc-2021",
+        "chapterRef": "32",
+        "chapterName": "traps"
+    },
+    "buildId": "fFVLMUIiiAoykBGFSOQHj",
+    "isFallback": false,
+    "isExperimentalCompile": false,
+    "dynamicIds": [
+        61621,
+        54065
+    ],
+    "gssp": true,
+    "scriptLoader": []
+}
