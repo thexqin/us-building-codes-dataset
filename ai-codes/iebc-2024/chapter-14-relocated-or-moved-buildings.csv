@@ -1,0 +1,15 @@
+id,ifc_type,occupancy,design_phase,code_category,primary_responsibility
+14,BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|High Hazard (H),sd|dd|cd,special_construction,architect
+1401,,,,none,none
+1401.1,BuildingElementProxy,Business (B)|Educational (E)|Residential (R)|Assembly (A)|Mercantile (M),sd|dd|cd,special_construction,architect
+1401.1.1,BuildingElementProxy,Assembly (A),sd|dd|cd,special_construction,architect
+1401.2,Wall|Slab|Roof,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,occupancy_classification,architect
+1402,,,,none,none
+1402.1,BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),concept|sd|dd,site_planning,architect
+1402.2,Footing|DeepFoundation|Slab,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,structural_design,structural_engineer
+1402.2.1,Footing|Wall|Column|Slab,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,structural_design,structural_engineer
+1402.3,Wall|Roof|Slab|Column|Beam,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,structural_design,structural_engineer
+1402.4,Wall|Column|Beam|Footing|Slab,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Storage (S),sd|dd|cd,structural_design,structural_engineer
+1402.5,Roof|Slab|Beam|Column|Footing,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,structural_design,structural_engineer
+1402.6,BuildingElementProxy|Slab|Wall|Footing,Business (B)|Educational (E)|Factory and Industrial (F)|Institutional (I)|Residential (R),sd|dd|cd,site_planning,architect
+1402.7,Wall|Beam|Column|Footing|Slab,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Mercantile (M),cd|ca,structural_design,structural_engineer

@@ -1,0 +1,74 @@
+id,ifc_type,occupancy,design_phase,code_category,primary_responsibility
+33,Wall|Slab|Door|Stair|Ramp,Assembly (A)|Business (B)|Residential (R)|Educational (E)|Mercantile (M),cd|ca,special_construction,architect
+3301,,,,none,none
+3301.1,Wall|Slab|Roof,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Mercantile (M),cd|ca,special_construction,architect
+3301.2,BuildingElementProxy|EarthworksElement|Footing,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),ca,site_planning,civil_engineer
+3301.3,Roof|Slab|Beam|Column,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,structural_design,structural_engineer
+3301.4,Door|Stair|Wall|Slab|Roof,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),cd|ca,means_of_egress,architect
+3301.5,BuildingElementProxy|EarthworksElement|Slab,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Mercantile (M),cd|ca,site_planning,architect
+3302,,,,none,none
+3302.1,BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),cd|ca,fire_protection_alarm_systems,owner
+3302.1.1,BuildingElementProxy|Door|Slab,Assembly (A)|Business (B)|Residential (R),cd|ca,fire_protection_alarm_systems,fire_protection_engineer
+3302.2,BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Institutional (I),cd|ca,site_planning,owner
+3302.3,Wall|Door|Slab,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),cd|ca,fire_protection_alarm_systems,fire_protection_engineer
+3302.3.1,BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),ca,site_planning,owner
+3303,,,,none,none
+3303.1,Wall|Slab|Roof,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,special_construction,architect
+3303.2,Wall|BuildingElementProxy|Covering,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),cd|ca,site_planning,architect
+3303.3,Wall|Door|Slab,Assembly (A)|Business (B)|Educational (E)|Institutional (I)|Residential (R),sd|dd|cd,means_of_egress,architect
+3303.4,EarthworksElement|Slab,Utility and Miscellaneous (U),cd|ca,site_planning,civil_engineer
+3303.5,Footing|Slab|EarthworksElement|Wall,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,site_planning,civil_engineer
+3303.6,BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|High Hazard (H),cd|ca,plumbing_systems,mechanical_engineer
+3303.7,Wall|Slab|Column,Assembly (A)|Business (B)|Residential (R)|Mercantile (M)|Storage (S),cd|ca,fire_protection_alarm_systems,fire_protection_engineer
+3304,,,,none,none
+3304.1,Footing|Slab|Wall,Assembly (A)|Business (B)|Residential (R)|Storage (S)|Educational (E),sd|dd|cd,site_planning,civil_engineer
+3304.1.1,EarthworksElement|Slab|Footing,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,site_planning,civil_engineer
+3304.1.2,Footing|Slab|Wall,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,structural_design,structural_engineer
+3304.1.3,Footing,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Storage (S),sd|dd|cd,structural_design,structural_engineer
+3304.1.4,Footing|Slab|Foundation|EarthworksElement,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|High Hazard (H),sd|dd|cd,structural_design,structural_engineer
+3305,,,,none,none
+3305.1,BuildingElementProxy,Utility and Miscellaneous (U),cd|ca,plumbing_systems,architect
+3306,,,,none,none
+3306.1,Railing|Barrier|Covering,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),cd|ca,site_planning,architect
+3306.2,Slab|Pavement|Ramp,Assembly (A)|Business (B)|Educational (E)|Mercantile (M)|Residential (R),sd|dd|cd,site_planning,architect
+3306.3,BuildingElementProxy|Railing,Assembly (A)|Business (B)|Educational (E)|Mercantile (M)|Residential (R),sd|dd|cd,site_planning,architect
+3306.4,Railing,Utility and Miscellaneous (U),cd|ca,special_construction,architect
+3306.5,Wall|Door,Utility and Miscellaneous (U),cd|ca,site_planning,architect
+3306.6,Wall|BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,special_construction,architect
+3306.7,Roof|Slab|Column|Footing|Beam,Assembly (A)|Business (B)|Educational (E)|Mercantile (M)|Residential (R),sd|dd|cd,special_construction,architect
+3306.8,Ramp|RampFlight|Stair|Slab|Covering,Assembly (A)|Business (B)|Educational (E)|Mercantile (M)|Residential (R),cd|ca,site_planning,owner
+3306.9,Wall|BuildingElementProxy,Business (B)|Assembly (A)|Educational (E)|Mercantile (M)|Residential (R),sd|dd|cd,site_planning,civil_engineer
+3307,,,,none,none
+3307.1,Footing|Foundation|Wall|Chimney|Roof,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),cd|ca,site_planning,architect
+3307.2,DeepFoundation|EarthworksElement|Wall,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,structural_design,structural_engineer
+3307.2.1,DeepFoundation|Wall|Slab,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,structural_design,structural_engineer
+3307.2.2,DeepFoundation|EarthworksElement|Wall,Business (B)|Factory and Industrial (F)|Residential (R),sd|dd|cd,structural_design,structural_engineer
+3307.2.3,EarthworksElement|Footing|Wall,Business (B)|Assembly (A)|Residential (R)|Educational (E)|Institutional (I),cd|ca,structural_design,structural_engineer
+3308,,,,none,none
+3308.1,BuildingElementProxy,Utility and Miscellaneous (U),cd|ca,site_planning,civil_engineer
+3308.1.1,BuildingElementProxy|Pavement|Kerb,Business (B)|Mercantile (M)|Assembly (A)|Residential (R)|Institutional (I),cd|ca,site_planning,civil_engineer
+3308.2,Wall|Fence|BuildingElementProxy|Shed|Covering,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),cd|ca,site_planning,architect
+3309,,,,none,none
+3309.1,Stair|Storage|BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),cd|ca,fire_protection_alarm_systems,fire_protection_engineer
+3309.2,Wall|Roof|Slab,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),cd|ca,fire_protection_alarm_systems,fire_protection_engineer
+3310,,,,none,none
+3310.1,Stair|StairFlight,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Institutional (I),cd|ca,means_of_egress,architect
+3310.2,Door|Stair|Ramp|Slab|Corridor,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Institutional (I),cd|ca,means_of_egress,architect
+3311,,,,none,none
+3311.1,Stair|Slab|Wall,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Institutional (I),cd|ca,fire_protection_alarm_systems,fire_protection_engineer
+3311.2,BuildingElementProxy|Slab|Ramp|Stair|Wall,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),cd|ca,fire_protection_alarm_systems,fire_protection_engineer
+3311.3,Wall|BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Institutional (I)|Residential (R),dd|cd,fire_protection_alarm_systems,fire_protection_engineer
+3312,,,,none,none
+3312.1,Wall|Slab|Roof,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Institutional (I),cd|ca,fire_protection_alarm_systems,fire_protection_engineer
+3312.2,BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),cd|ca,fire_protection_alarm_systems,fire_protection_engineer
+3313,,,,none,none
+3313.1,Wall|Column|Slab|Stair|BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),cd|ca,fire_protection_alarm_systems,fire_protection_engineer
+3313.2,Wall|Slab|Roof,Assembly (A)|Business (B)|Educational (E)|Mercantile (M)|Residential (R),sd|dd|cd,fire_protection_alarm_systems,fire_protection_engineer
+3313.3,Wall|Column|Slab,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Storage (S),sd|dd|cd,fire_protection_alarm_systems,fire_protection_engineer
+3313.3.1,Wall|Slab|Roof,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,fire_protection_alarm_systems,fire_protection_engineer
+3313.3.2,Wall|Slab|Roof,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Storage (S),sd|dd|cd,fire_protection_alarm_systems,fire_protection_engineer
+3313.3.3,Wall|Slab|BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Storage (S),sd|dd|cd,fire_protection_alarm_systems,fire_protection_engineer
+3313.4,Wall|Column|Slab|Beam|BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),cd|ca,fire_protection_alarm_systems,fire_protection_engineer
+3313.5,BuildingElementProxy|Slab|Footing,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,fire_protection_alarm_systems,fire_protection_engineer
+3314,,,,none,none
+3314.1,Wall|Slab|Roof|Stair|Column,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Institutional (I),cd|ca,fire_protection_alarm_systems,fire_protection_engineer

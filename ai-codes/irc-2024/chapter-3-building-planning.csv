@@ -1,0 +1,457 @@
+id,ifc_type,occupancy,design_phase,code_category,primary_responsibility
+3,Wall|Door|Slab|Stair|Window,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Mercantile (M),sd|dd|cd,site_planning,architect
+R301,,,,none,none
+R301.1,Wall|Column|Beam|Slab|Footing,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,structural_design,structural_engineer
+R301.1.1,Wall|Slab|Roof|Column,Residential (R),sd|dd|cd,structural_design,structural_engineer
+R301.1.2,Wall|Beam|Column,Residential (R)|Assembly (A)|Business (B),sd|dd|cd,structural_design,structural_engineer
+R301.1.3,Wall|Beam|Column|Slab|Roof,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Storage (S),sd|dd|cd,structural_design,structural_engineer
+R301.1.4,BuildingElementProxy|Wall|Slab|Roof,Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R)|Storage (S),sd|dd|cd,structural_design,structural_engineer
+R301.2,Wall|Roof|Slab|Footing|BuildingElementProxy,Residential (R)|Assembly (A)|Business (B),sd|dd|cd,site_planning,architect
+R301.2.1,Wall|CurtainWall|Roof|Slab|Window,Residential (R)|Assembly (A)|Business (B)|Educational (E)|Mercantile (M),sd|dd|cd,structural_design,structural_engineer
+R301.2.1.1,Wall|Roof|Slab|Column|Beam,Residential (R)|Assembly (A)|Business (B),sd|dd|cd,structural_design,structural_engineer
+R301.2.1.1.1,Wall|Window|Roof|Slab,Residential (R)|Assembly (A),sd|dd|cd,special_construction,architect
+R301.2.1.2,Wall|Window|Door|Covering,Residential (R)|Business (B)|Assembly (A)|Educational (E)|Mercantile (M),sd|dd|cd,assemblies_envelope,architect
+R301.2.1.3,Wall|Roof|Slab|Beam|Column,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,structural_design,structural_engineer
+R301.2.1.4,Wall|Roof|Slab,Residential (R)|Educational (E)|Assembly (A),sd|dd|cd,site_planning,architect
+R301.2.1.5,Wall|Roof|Slab|Column|Beam,Residential (R)|Business (B)|Assembly (A)|Educational (E)|Institutional (I),sd|dd|cd,structural_design,structural_engineer
+R301.2.1.5.1,Wall|Roof|Slab,Residential (R),sd|dd|cd,structural_design,structural_engineer
+R301.2.2,Wall|Slab|Column|Beam|Footing,Residential (R),sd|dd|cd,structural_design,structural_engineer
+R301.2.2.1,Wall|Column|Slab|Footing|Beam,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Institutional (I),sd|dd|cd,structural_design,structural_engineer
+R301.2.2.1.1,Wall|Slab|Column|Beam|Footing,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Institutional (I),sd|dd|cd,structural_design,structural_engineer
+R301.2.2.1.2,Wall|Slab|Footing,Residential (R),sd|dd|cd,structural_design,structural_engineer
+R301.2.2.2,Roof|Slab|Wall|Chimney,Residential (R),sd|dd|cd,structural_design,structural_engineer
+R301.2.2.3,Wall|Covering,Assembly (A)|Business (B)|Educational (E)|Residential (R),sd|dd|cd,finishes_materials,architect
+R301.2.2.4,Wall|Slab|Column,Residential (R)|Assembly (A)|Business (B)|Educational (E),sd|dd|cd,structural_design,structural_engineer
+R301.2.2.5,Wall|Slab|Footing,Residential (R)|Business (B)|Assembly (A),sd|dd|cd,structural_design,structural_engineer
+R301.2.2.6,Wall|Slab|Roof|Column|Footing,Residential (R)|Business (B),sd|dd|cd,structural_design,structural_engineer
+R301.2.2.7,Wall|Slab|Roof|Column,Residential (R)|Assembly (A)|Business (B),concept|sd|dd|cd,building_height_area_limits,architect
+R301.2.2.8,Wall|Beam|Column|Slab|Member,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Institutional (I),sd|dd|cd,structural_design,structural_engineer
+R301.2.2.9,Chimney|Wall,Residential (R)|Assembly (A)|Business (B)|Institutional (I),sd|dd|cd,structural_design,structural_engineer
+R301.2.2.10,BuildingElementProxy,Residential (R),sd|dd|cd,structural_design,structural_engineer
+R301.2.2.10.1,BuildingElementProxy|Member|Plate,Residential (R)|Assembly (A)|Business (B)|Educational (E)|Institutional (I),sd|dd|cd,structural_design,structural_engineer
+R301.2.3,Roof|Slab|Beam|Column|Wall,Assembly (A)|Business (B)|Educational (E)|Mercantile (M)|Residential (R),sd|dd|cd,structural_design,structural_engineer
+R301.2.4,Slab|Wall|Footing|BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Storage (S),sd|dd|cd,site_planning,architect
+R301.2.4.1,Wall|Slab|Footing,Residential (R),sd|dd|cd,site_planning,architect
+R301.3,Wall|Bearing,Residential (R),sd|dd|cd,structural_design,structural_engineer
+R301.4,Wall|Slab|Roof|Beam|Column,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Storage (S),sd|dd|cd,structural_design,structural_engineer
+R301.5,Slab|Stair|Guard|Handrail|Roof,Residential (R),sd|dd|cd,structural_design,structural_engineer
+R301.6,Roof|Slab|Beam|Column,Residential (R)|Assembly (A)|Business (B)|Educational (E)|Mercantile (M),sd|dd|cd,structural_design,structural_engineer
+R301.7,Beam|Slab|Column|Wall|Roof,Residential (R),sd|dd|cd,structural_design,structural_engineer
+R301.8,Beam|Column|Wall|Slab|Roof,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Storage (S),sd|dd|cd,structural_design,structural_engineer
+R302,,,,none,none
+R302.1,Wall|Slab|Covering|Window|Door,Residential (R),sd|dd|cd,fire_resistance_smoke_protection,architect
+R302.2,Wall,Residential (R),sd|dd|cd,fire_resistance_smoke_protection,architect
+R302.2.1,Wall,Residential (R),sd|dd|cd,fire_resistance_smoke_protection,architect
+R302.2.2,Wall,Residential (R),sd|dd|cd,fire_resistance_smoke_protection,architect
+R302.2.3,Wall|Slab|Roof,Residential (R),sd|dd|cd,fire_resistance_smoke_protection,architect
+R302.2.4,Wall|Roof|Slab,Residential (R),sd|dd|cd,fire_resistance_smoke_protection,architect
+R302.2.5,Wall|Roof|Covering,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,fire_resistance_smoke_protection,architect
+R302.2.6,Wall|Slab|Roof|Footing,Residential (R),sd|dd|cd,structural_design,structural_engineer
+R302.3,Wall|Door|Slab,Residential (R),sd|dd|cd,fire_resistance_smoke_protection,architect
+R302.3.1,Wall|Slab,Residential (R),sd|dd|cd,fire_resistance_smoke_protection,architect
+R302.3.2,Wall|Slab,Residential (R),sd|dd|cd,fire_resistance_smoke_protection,architect
+R302.3.3,Wall|Slab,Residential (R),sd|dd|cd,fire_resistance_smoke_protection,architect
+R302.3.3.1,Slab|Wall,Residential (R),sd|dd|cd,fire_resistance_smoke_protection,architect
+R302.3.3.2,Wall|Slab|Roof,Residential (R),sd|dd|cd,fire_resistance_smoke_protection,architect
+R302.3.4,Wall|Slab|Beam|Column,Residential (R),sd|dd|cd,fire_resistance_smoke_protection,architect
+R302.3.5,Wall|Slab|Stair|Door,Residential (R),sd|dd|cd,fire_resistance_smoke_protection,architect
+R302.3.6,Wall|Slab|Covering,Residential (R),sd|dd|cd,fire_resistance_smoke_protection,architect
+R302.3.6.1,Door|Wall,Residential (R),sd|dd|cd,fire_resistance_smoke_protection,architect
+R302.3.6.2,Wall|Slab,Residential (R),sd|dd|cd,fire_resistance_smoke_protection,architect
+R302.3.6.3,Wall|Slab|Covering,Residential (R),sd|dd|cd,fire_resistance_smoke_protection,architect
+R302.4,Wall|Slab,Residential (R),sd|dd|cd,fire_resistance_smoke_protection,architect
+R302.4.1,Wall|Slab,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Institutional (I),sd|dd|cd,fire_resistance_smoke_protection,architect
+R302.4.1.1,Wall|Slab|Roof,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Institutional (I),dd|cd,fire_resistance_smoke_protection,architect
+R302.4.1.2,Wall|Slab|Covering,Assembly (A)|Business (B)|Residential (R),dd|cd,fire_resistance_smoke_protection,architect
+R302.4.2,Wall|Covering,Residential (R)|Business (B)|Educational (E),sd|dd|cd,fire_resistance_smoke_protection,architect
+R302.5,Wall|Slab|Door|Covering,Residential (R),sd|dd|cd,fire_resistance_smoke_protection,architect
+R302.5.1,Door|Wall,Residential (R),sd|dd|cd,fire_resistance_smoke_protection,architect
+R302.5.2,Wall|Slab|Covering,Residential (R),sd|dd|cd,fire_resistance_smoke_protection,architect
+R302.5.3,Wall|Slab|Door,Residential (R),sd|dd|cd,fire_resistance_smoke_protection,architect
+R302.6,Wall|Slab|Covering,Residential (R),sd|dd|cd,fire_resistance_smoke_protection,architect
+R302.7,Wall|Slab|Stair|Covering|Door,Residential (R)|Assembly (A)|Business (B),sd|dd|cd,fire_resistance_smoke_protection,architect
+R302.8,Wall|Slab|Roof|BuildingElementProxy,Residential (R)|Assembly (A)|Business (B),sd|dd|cd,fire_resistance_smoke_protection,architect
+R302.8.1,Wall|Covering|Slab,Residential (R),sd|dd|cd,finishes_materials,architect
+R302.9,Wall|Covering|Slab,Residential (R),sd|dd|cd,finishes_materials,architect
+R302.9.1,Wall|Covering|Slab,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Institutional (I),sd|dd|cd,finishes_materials,architect
+R302.9.2,Wall|Slab|Covering,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Institutional (I),sd|dd|cd,finishes_materials,architect
+R302.9.3,Wall|Ceiling|Slab|Roof|Door,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Institutional (I),cd,finishes_materials,architect
+R302.9.4,Wall|Slab|Covering,Assembly (A)|Business (B)|Educational (E)|Institutional (I)|Residential (R),sd|dd|cd,finishes_materials,architect
+R302.9.5,Covering|Wall|Slab,Assembly (A)|Business (B)|Educational (E)|Institutional (I)|Residential (R),sd|dd|cd,finishes_materials,architect
+R302.10,Covering|Slab|Wall,Residential (R)|Assembly (A)|Business (B),sd|dd|cd,finishes_materials,architect
+R302.10.1,Wall|Slab|Roof|Covering,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Institutional (I),sd|dd|cd,fire_resistance_smoke_protection,architect
+R302.10.2,Covering|Slab|Wall|Roof,Residential (R)|Assembly (A)|Business (B),sd|dd|cd,fire_resistance_smoke_protection,architect
+R302.10.3,Slab|Wall|Roof,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Storage (S),sd|dd|cd,finishes_materials,architect
+R302.10.4,Slab|Covering,Residential (R)|Assembly (A)|Business (B),sd|dd|cd,fire_resistance_smoke_protection,architect
+R302.11,Wall|Slab|Stair|Chimney|Roof,Residential (R),sd|dd|cd,fire_resistance_smoke_protection,architect
+R302.11.1,Wall|Slab|Floor|BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,fire_resistance_smoke_protection,architect
+R302.11.1.1,Wall|Covering,Assembly (A)|Business (B)|Educational (E)|Residential (R),sd|dd|cd,fire_resistance_smoke_protection,architect
+R302.11.1.2,Wall|Covering,Residential (R)|Assembly (A)|Business (B),sd|dd|cd,fire_resistance_smoke_protection,architect
+R302.11.1.3,Wall|Slab|Covering,Assembly (A)|Business (B)|Residential (R)|Institutional (I),dd|cd,fire_resistance_smoke_protection,architect
+R302.11.2,Wall|Slab|BuildingElementProxy,Assembly (A)|Business (B)|Residential (R),sd|dd|cd,fire_resistance_smoke_protection,architect
+R302.12,Slab|Covering|BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,fire_resistance_smoke_protection,architect
+R302.12.1,Slab|Wall|Covering,Residential (R)|Assembly (A)|Business (B),sd|dd|cd,fire_resistance_smoke_protection,architect
+R302.13,Slab|Covering,Residential (R)|Utility and Miscellaneous (U),sd|dd|cd,fire_resistance_smoke_protection,architect
+R302.14,Covering|Slab|Roof,Residential (R)|Business (B)|Assembly (A)|Institutional (I),sd|dd|cd,fire_resistance_smoke_protection,architect
+R302.15,Wall|Roof|Floor|Slab|Column,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Storage (S),sd|dd|cd,finishes_materials,architect
+R302.15.1,Wall|Beam|Column|Slab|Roof,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Institutional (I),dd|cd,finishes_materials,architect
+R302.15.2,Wall|Roof|Slab|Column|Beam,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Institutional (I),sd|dd|cd,finishes_materials,architect
+R302.15.3,Wall|Roof|Slab|Door,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Institutional (I),sd|dd|cd,fire_resistance_smoke_protection,architect
+R302.15.3.1,Slab|Wall|Roof|BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Institutional (I),sd|dd|cd,fire_resistance_smoke_protection,architect
+R302.15.4,Wall|Roof|Slab|Covering|BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Storage (S),dd|cd,finishes_materials,architect
+R302.15.5,Wall|Roof|Slab,Residential (R)|Assembly (A)|Business (B),sd|dd|cd,fire_resistance_smoke_protection,structural_engineer
+R302.15.6,Slab|Roof,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Mercantile (M),sd|dd|cd,fire_resistance_smoke_protection,architect
+R302.15.7,Roof|Beam|Slab|Wall,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Institutional (I),sd|dd|cd,fire_resistance_smoke_protection,architect
+R302.15.8,Wall|Roof|Slab|Door|Window,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Storage (S),sd|dd|cd,finishes_materials,architect
+R302.15.9,Wall|Roof|Slab|Beam|Column,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Institutional (I),sd|dd|cd,finishes_materials,architect
+R302.15.10,Wall|Slab|Roof,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Institutional (I),sd|dd|cd,finishes_materials,architect
+R303,,,,none,none
+R303.1,Wall|Slab|Roof|Covering,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Mercantile (M),sd|dd|cd,finishes_materials,architect
+R303.1.1,Slab|Wall|Roof|Covering,Residential (R)|Assembly (A)|Business (B),sd|dd|cd,finishes_materials,architect
+R303.1.2,Wall|Roof|Slab|BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Mercantile (M),sd|dd|cd,assemblies_envelope,architect
+R303.2,Covering|Slab|Wall|Roof,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|High Hazard (H),cd|ca,finishes_materials,architect
+R303.3,Wall|Slab|Roof|Covering,Residential (R)|Assembly (A)|Business (B),dd|cd,finishes_materials,architect
+R303.3.1,Wall|Roof|Slab|Covering,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Institutional (I),sd|dd|cd,finishes_materials,architect
+R303.3.2,Wall|Roof|Slab|BuildingElementProxy,Residential (R)|Assembly (A)|Business (B)|Educational (E),sd|dd|cd,fire_resistance_smoke_protection,architect
+R303.4,Wall|Slab|Roof|Covering,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,fire_resistance_smoke_protection,architect
+R303.5,Wall|Roof|Slab,Residential (R)|Assembly (A)|Business (B),sd|dd|cd,finishes_materials,architect
+R303.5.1,Wall|Slab|Roof,Residential (R)|Assembly (A)|Business (B),sd|dd|cd,assemblies_envelope,architect
+R303.5.2,Roof|Slab|Covering,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Storage (S),sd|dd|cd,assemblies_envelope,architect
+R303.5.3,Slab|Covering|Roof,Residential (R),sd|dd|cd,assemblies_envelope,architect
+R303.5.4,Slab|Covering|Wall,Residential (R),sd|dd|cd,fire_resistance_smoke_protection,architect
+R303.5.5,Door,Residential (R),sd|dd|cd,assemblies_envelope,architect
+R303.5.6,Door,Residential (R),sd|dd|cd,assemblies_envelope,architect
+R303.5.7,Wall|Covering|Slab,Residential (R),sd|dd|cd,assemblies_envelope,architect
+R303.5.8,Wall|Covering,Residential (R)|Business (B)|Mercantile (M)|Assembly (A),sd|dd|cd,assemblies_envelope,architect
+R303.5.9,Covering|Wall|Slab,Residential (R)|Business (B)|Assembly (A),dd|cd,finishes_materials,architect
+R303.5.10,Wall|Ceiling|Covering,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Institutional (I),sd|dd|cd,finishes_materials,architect
+R303.5.11,Wall|Slab|Covering,Residential (R),sd|dd|cd,fire_resistance_smoke_protection,architect
+R303.5.12,Wall|Covering|Slab|Roof,Residential (R)|Business (B)|Assembly (A),sd|dd|cd,assemblies_envelope,architect
+R303.5.13,Slab|Floor|Covering,Residential (R),sd|dd|cd,assemblies_envelope,architect
+R303.6,Wall|Roof|Slab|Covering,Residential (R)|Assembly (A)|Business (B)|Educational (E)|Institutional (I),dd|cd,fire_resistance_smoke_protection,architect
+R303.7,Slab|Wall|Roof|Covering,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,assemblies_envelope,architect
+R303.8,Wall|Slab|Covering,Assembly (A)|Business (B)|Residential (R)|Educational (E)|Mercantile (M),sd|dd|cd,assemblies_envelope,architect
+R304,,,,none,none
+R304.1,Wall|Column|Slab|Beam|BuildingElementProxy,Residential (R)|Business (B)|Assembly (A),sd|dd|cd,finishes_materials,architect
+R304.1.1,Wall|Beam|Column|Slab|Roof,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Utility and Miscellaneous (U),cd|ca,finishes_materials,architect
+R304.1.2,Wall|Footing|Column|Slab,Residential (R)|Business (B)|Assembly (A),sd|dd|cd,finishes_materials,architect
+R304.2,Wall|Roof|Slab,Assembly (A)|Business (B)|Residential (R),cd|ca,finishes_materials,architect
+R304.2.1,Wall|Slab|Roof,Residential (R)|Assembly (A)|Business (B),cd,finishes_materials,architect
+R304.3,Wall|Footing|Beam|Column,Residential (R)|Assembly (A)|Business (B)|Educational (E)|Mercantile (M),cd|ca,finishes_materials,architect
+R304.3.1,Wall|Beam|Column|Roof|Slab,Residential (R)|Assembly (A)|Business (B)|Educational (E)|Mercantile (M),sd|dd|cd,finishes_materials,architect
+R304.3.2,Wall|Footing|Slab,Residential (R)|Business (B),sd|dd|cd,structural_design,structural_engineer
+R304.3.3,Wall|Roof|Slab|Beam|Column,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Mercantile (M),cd|ca,finishes_materials,architect
+R304.3.4,Wall|Slab|Beam,Residential (R)|Assembly (A)|Business (B),cd|ca,finishes_materials,architect
+R304.4,Slab|Stair|Railing|Member,Residential (R),sd|dd|cd,finishes_materials,architect
+R305,,,,none,none
+R305.1,Wall|Slab|Column|Footing,Residential (R)|Business (B)|Assembly (A),sd|dd|cd,assemblies_envelope,architect
+R305.1.1,Wall|Slab|Roof|Beam|Column,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Storage (S),cd,finishes_materials,architect
+R305.1.2,Beam|Column|Wall|Slab|BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Storage (S),cd|ca,finishes_materials,architect
+R305.2,Wall|Slab|Footing,Residential (R)|Business (B)|Educational (E)|Assembly (A)|Institutional (I),cd|ca,special_construction,architect
+R305.3,Slab|Footing|Wall,Residential (R)|Business (B)|Assembly (A),sd|dd|cd,assemblies_envelope,architect
+R305.4,Slab|Footing|Wall,Residential (R),sd|dd|cd,assemblies_envelope,architect
+R306,,,,none,none
+R306.1,Slab|Wall|Footing|Roof|Column,Residential (R)|Business (B)|Assembly (A)|Mercantile (M)|Institutional (I),sd|dd|cd,site_planning,architect
+R306.1.1,Slab|Wall|Footing,Residential (R),sd|dd|cd,plumbing_systems,architect
+R306.1.2,Wall|Column|Slab|Footing|Beam,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,structural_design,structural_engineer
+R306.1.3,Wall|Slab|Footing|BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,site_planning,architect
+R306.1.4,Slab|Wall|Footing,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,site_planning,civil_engineer
+R306.1.4.1,BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,site_planning,civil_engineer
+R306.1.4.2,BuildingElementProxy|Slab|Footing|EarthworksElement,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Storage (S),sd|dd|cd,site_planning,civil_engineer
+R306.1.5,Slab|Wall,Residential (R)|Business (B)|Assembly (A),sd|dd|cd,site_planning,architect
+R306.1.6,Wall|Slab|BuildingElementProxy,Residential (R)|Business (B)|Assembly (A),sd|dd|cd,mechanical_systems,mechanical_engineer
+R306.1.7,PlumbingSystem|Slab,Residential (R)|Business (B)|Educational (E)|Assembly (A)|Institutional (I),sd|dd|cd,plumbing_systems,mechanical_engineer
+R306.1.8,Wall|Slab|Covering,Residential (R)|Business (B)|Assembly (A),sd|dd|cd,finishes_materials,architect
+R306.1.9,Footing|Slab|BuildingElementProxy,Residential (R),sd|dd|cd,site_planning,civil_engineer
+R306.1.10,Slab|Footing|BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Storage (S),cd|ca,site_planning,civil_engineer
+R306.2,Slab|Wall|Footing|BuildingElementProxy,Residential (R)|Business (B)|Assembly (A),sd|dd|cd,site_planning,architect
+R306.2.1,Slab|Wall|Door|BuildingElementProxy,Residential (R)|Business (B)|Storage (S)|Utility and Miscellaneous (U),sd|dd|cd,site_planning,architect
+R306.2.2,Slab|Wall|BuildingElementProxy,Residential (R)|Storage (S)|Utility and Miscellaneous (U),sd|dd|cd,special_construction,architect
+R306.2.2.1,Wall|Door|Window,Residential (R)|Utility and Miscellaneous (U)|Storage (S),sd|dd|cd,assemblies_envelope,architect
+R306.2.3,Wall|Footing|Slab,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,structural_design,structural_engineer
+R306.2.4,BuildingElementProxy|EarthworksElement|Footing,Factory and Industrial (F)|High Hazard (H)|Utility and Miscellaneous (U)|Storage (S),sd|dd|cd,site_planning,civil_engineer
+R306.3,Slab|Wall|Footing|Roof,Residential (R)|Business (B)|Assembly (A),sd|dd|cd,site_planning,architect
+R306.3.1,BuildingElementProxy|EarthworksElement|Slab,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),concept|sd|dd,site_planning,civil_engineer
+R306.3.2,Slab|Footing|Column|Wall|BuildingElementProxy,Residential (R)|Utility and Miscellaneous (U),sd|dd|cd,site_planning,architect
+R306.3.3,Column|DeepFoundation|Footing|Slab,Residential (R),sd|dd|cd,structural_design,structural_engineer
+R306.3.4,Slab|Footing|Column,Assembly (A)|Business (B)|Residential (R)|Storage (S),sd|dd|cd,assemblies_envelope,structural_engineer
+R306.3.5,Wall|BuildingElementProxy|Slab,Residential (R)|Assembly (A)|Business (B),sd|dd|cd,assemblies_envelope,architect
+R306.3.6,Slab|Wall|Door,Residential (R)|Assembly (A)|Storage (S),sd|dd|cd,site_planning,architect
+R306.3.6.1,Door|Wall|Stair,Residential (R),sd|dd|cd,assemblies_envelope,architect
+R306.3.7,Stair|Ramp|Slab|Wall,Residential (R)|Assembly (A)|Business (B),sd|dd|cd,special_construction,architect
+R306.3.8,Slab|Footing|Wall,Residential (R),sd|dd|cd,site_planning,architect
+R306.3.9,BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),cd,assemblies_envelope,architect
+R306.3.10,Slab|Footing|BuildingElementProxy,Utility and Miscellaneous (U)|Factory and Industrial (F)|Business (B),sd|dd|cd,site_planning,civil_engineer
+R307,,,,none,none
+R307.1,Wall|Slab|Roof|Door,Assembly (A)|Business (B)|Educational (E)|Institutional (I)|Residential (R),sd|dd|cd,special_construction,architect
+R307.2,Wall|Slab|Door|Roof,Assembly (A)|Educational (E)|Institutional (I)|Residential (R),sd|dd|cd,special_construction,architect
+R307.2.1,Wall|Roof|Slab|Door|Window,Assembly (A)|Educational (E)|Institutional (I)|Business (B)|Residential (R),sd|dd|cd,structural_design,structural_engineer
+R308,,,,none,none
+R308.1,BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|High Hazard (H),sd|dd|cd,site_planning,architect
+R309,,,,none,none
+R309.1,BuildingElementProxy,Residential (R),sd|dd|cd,fire_protection_alarm_systems,fire_protection_engineer
+R309.1.1,Wall|Slab|Roof,Residential (R),sd|dd|cd,fire_protection_alarm_systems,fire_protection_engineer
+R309.2,BuildingElementProxy,Residential (R),sd|dd|cd,fire_protection_alarm_systems,fire_protection_engineer
+R309.2.1,BuildingElementProxy|Slab|Wall,Residential (R),sd|dd|cd,fire_protection_alarm_systems,fire_protection_engineer
+R310,,,,none,none
+R310.1,BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Institutional (I)|Residential (R),sd|dd|cd,fire_protection_alarm_systems,fire_protection_engineer
+R310.1.1,BuildingElementProxy,Residential (R)|Institutional (I),cd|ca,fire_protection_alarm_systems,fire_protection_engineer
+R310.1.2,BuildingElementProxy,Residential (R)|Institutional (I)|Assembly (A),sd|dd|cd|ca,fire_protection_alarm_systems,architect
+R310.2,BuildingElementProxy,Residential (R)|Institutional (I)|Assembly (A),sd|dd|cd,fire_protection_alarm_systems,fire_protection_engineer
+R310.2.1,BuildingElementProxy,Residential (R),sd|dd|cd,fire_protection_alarm_systems,architect
+R310.2.2,BuildingElementProxy|Covering|Door|Window,Residential (R),sd|dd|cd,fire_protection_alarm_systems,architect
+R310.3,BuildingElementProxy,Residential (R),sd|dd|cd,fire_protection_alarm_systems,architect
+R310.3.1,BuildingElementProxy,Residential (R),sd|dd|cd,fire_protection_alarm_systems,architect
+R310.4,Wall|BuildingElementProxy,Residential (R),sd|dd|cd,fire_protection_alarm_systems,electrical_engineer
+R310.5,BuildingElementProxy,Residential (R)|Institutional (I)|Assembly (A)|Educational (E),sd|dd|cd,fire_protection_alarm_systems,architect
+R310.6,BuildingElementProxy,Residential (R)|Assembly (A)|Institutional (I),sd|dd|cd,fire_protection_alarm_systems,electrical_engineer
+R310.7,BuildingElementProxy,Residential (R),sd|dd|cd,fire_protection_alarm_systems,fire_protection_engineer
+R310.7.1,BuildingElementProxy,Residential (R)|Assembly (A)|Institutional (I),dd|cd,fire_protection_alarm_systems,fire_protection_engineer
+R310.7.2,Wall|BuildingElementProxy,Residential (R)|Institutional (I),sd|dd|cd,fire_protection_alarm_systems,architect
+R310.7.3,BuildingElementProxy,Residential (R),sd|dd|cd,fire_protection_alarm_systems,architect
+R310.7.4,BuildingElementProxy,Residential (R)|Institutional (I)|Assembly (A)|Business (B),dd|cd,fire_protection_alarm_systems,fire_protection_engineer
+R311,,,,none,none
+R311.1,BuildingElementProxy,Residential (R)|Institutional (I)|Educational (E),sd|dd|cd,fire_protection_alarm_systems,architect
+R311.1.1,BuildingElementProxy,Residential (R)|Institutional (I)|Assembly (A),cd|ca,fire_protection_alarm_systems,electrical_engineer
+R311.1.2,Covering|BuildingElementProxy,Residential (R)|Institutional (I)|Educational (E),dd|cd|ca,fire_protection_alarm_systems,electrical_engineer
+R311.2,BuildingElementProxy,Residential (R),sd|dd|cd,fire_protection_alarm_systems,architect
+R311.2.1,BuildingElementProxy|Door|Wall,Residential (R),sd|dd|cd,fire_protection_alarm_systems,architect
+R311.2.2,Wall|Door|Window,Residential (R),cd|ca,fire_protection_alarm_systems,architect
+R311.3,BuildingElementProxy,Residential (R),sd|dd|cd,fire_protection_alarm_systems,architect
+R311.4,BuildingElementProxy,Residential (R)|Institutional (I)|Assembly (A),sd|dd|cd,fire_protection_alarm_systems,fire_protection_engineer
+R311.5,Wall|Ceiling|BuildingElementProxy,Residential (R),sd|dd|cd,fire_protection_alarm_systems,electrical_engineer
+R311.6,BuildingElementProxy,Residential (R)|Institutional (I)|Assembly (A)|Educational (E)|Business (B),sd|dd|cd,fire_protection_alarm_systems,electrical_engineer
+R311.7,BuildingElementProxy,Residential (R)|Institutional (I)|Educational (E),sd|dd|cd,fire_protection_alarm_systems,fire_protection_engineer
+R311.7.1,BuildingElementProxy,Residential (R),sd|dd|cd,fire_protection_alarm_systems,fire_protection_engineer
+R311.7.2,Wall|Slab|BuildingElementProxy,Residential (R),sd|dd|cd,fire_protection_alarm_systems,architect
+R311.7.3,BuildingElementProxy,Residential (R),sd|dd|cd,fire_protection_alarm_systems,architect
+R311.7.4,BuildingElementProxy,Residential (R)|Institutional (I)|Assembly (A)|Educational (E)|Business (B),sd|dd|cd,fire_protection_alarm_systems,fire_protection_engineer
+R312,,,,none,none
+R312.1,Slab|Wall|Door|Window|BuildingElementProxy,Residential (R)|Institutional (I)|Assembly (A)|Educational (E)|Business (B),sd|dd|cd,interior_environment,architect
+R312.2,Wall|Slab,Residential (R)|Institutional (I)|Business (B)|Educational (E),sd|dd|cd,interior_environment,architect
+R312.3,Slab|Roof|Wall,Residential (R),sd|dd|cd,interior_environment,architect
+R313,,,,none,none
+R313.1,Slab|Beam|Roof|BuildingElementProxy,Residential (R)|Assembly (A)|Business (B),sd|dd|cd,interior_environment,architect
+R313.1.1,Slab|Beam|BuildingElementProxy,Residential (R),sd|dd|cd,interior_environment,architect
+R313.1.2,Slab|Beam|BuildingElementProxy,Residential (R),sd|dd|cd,interior_environment,architect
+R314,,,,none,none
+R314.1,Slab|Stair|Railing,Residential (R),sd|dd|cd,means_of_egress,architect
+R314.2,Slab|Stair|Railing,Residential (R),sd|dd|cd,interior_environment,architect
+R314.3,Slab|Beam|Column|Wall,Residential (R),sd|dd|cd,building_height_area_limits,architect
+R314.4,Stair|Ramp|Door|Slab|Railing,Assembly (A)|Business (B)|Educational (E)|Mercantile (M)|Residential (R),sd|dd|cd,means_of_egress,architect
+R314.5,Wall|Column|Beam|BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Mercantile (M)|Residential (R),sd|dd|cd,means_of_egress,architect
+R315,,,,none,none
+R315.1,Slab|Ramp|Stair|Railing,Residential (R),sd|dd|cd,means_of_egress,architect
+R315.2,Slab|Wall|BuildingElementProxy,Residential (R),sd|dd|cd,interior_environment,architect
+R315.3,Slab|Roof|Wall,Residential (R),sd|dd|cd,interior_environment,architect
+R315.4,Slab|Wall|Stair|Railing|BuildingElementProxy,Residential (R),sd|dd|cd,means_of_egress,architect
+R315.5,Stair|Ramp|Door,Residential (R),sd|dd|cd,means_of_egress,architect
+R315.5.1,Slab|Stair|Ramp|Wall,Residential (R),sd|dd|cd,means_of_egress,architect
+R315.5.2,Stair|StairFlight,Residential (R),sd|dd|cd,means_of_egress,architect
+R315.5.2.1,Stair|Railing,Residential (R),sd|dd|cd,means_of_egress,architect
+R315.5.2.2,Stair|StairFlight,Residential (R),sd|dd|cd,means_of_egress,architect
+R315.5.2.3,Stair|StairFlight|Slab,Residential (R),sd|dd|cd,means_of_egress,architect
+R315.5.3,Stair|StairFlight,Residential (R),sd|dd|cd,means_of_egress,architect
+R315.5.3.1,Stair|StairFlight,Residential (R),sd|dd|cd,means_of_egress,architect
+R315.5.3.2,Stair|StairFlight,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,means_of_egress,architect
+R316,,,,none,none
+R316.1,Slab|Roof|Wall|Stair|Window,Residential (R),sd|dd|cd,occupancy_classification,architect
+R316.2,Slab|Roof|Wall,Residential (R),sd|dd|cd,interior_environment,architect
+R316.3,Roof|Slab|Wall,Residential (R),sd|dd|cd,building_height_area_limits,architect
+R316.4,Stair|StairFlight|Door|Wall,Residential (R)|Assembly (A),sd|dd|cd,means_of_egress,architect
+R317,,,,none,none
+R317.1,Slab,Residential (R)|Utility and Miscellaneous (U),sd|dd|cd,finishes_materials,architect
+R317.2,Slab|Wall|Roof|Door,Residential (R),sd|dd|cd,assemblies_envelope,architect
+R317.3,Wall|Slab|Door|Roof|BuildingElementProxy,Residential (R)|Utility and Miscellaneous (U),sd|dd|cd,site_planning,architect
+R317.4,Door,Residential (R),dd|cd|ca,electrical_systems,electrical_engineer
+R317.5,Wall|Door,Residential (R),sd|dd|cd,fire_protection_alarm_systems,fire_protection_engineer
+R317.6,ElectricalSystem,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,electrical_systems,electrical_engineer
+R317.7,BuildingElementProxy,Factory and Industrial (F)|Utility and Miscellaneous (U),sd|dd|cd,special_construction,architect
+R317.7.1,BuildingElementProxy|Slab,Residential (R)|Utility and Miscellaneous (U),sd|dd|cd,special_construction,architect
+R318,,,,none,none
+R318.1,Door|Wall|Slab|Stair|Ramp,Residential (R),sd|dd|cd,means_of_egress,architect
+R318.2,Door,Residential (R),sd|dd|cd,means_of_egress,architect
+R318.3,Door|Slab|Stair|Ramp,Residential (R)|Assembly (A)|Business (B)|Mercantile (M),sd|dd|cd,means_of_egress,architect
+R318.3.1,Door|Slab|Ramp|Stair,Residential (R),sd|dd|cd,means_of_egress,architect
+R318.3.2,Door|Stair|Slab,Residential (R),sd|dd|cd,means_of_egress,architect
+R318.3.3,Door|Stair|Slab,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,means_of_egress,architect
+R318.4,Stair|Ramp|Door,Residential (R),sd|dd|cd,means_of_egress,architect
+R318.5,Slab|Stair|Ramp|Beam,Residential (R)|Assembly (A),sd|dd|cd,structural_design,structural_engineer
+R318.6,Wall|Slab|Door,Residential (R),sd|dd|cd,means_of_egress,architect
+R318.7,Stair|StairFlight,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Institutional (I),sd|dd|cd,means_of_egress,architect
+R318.7.1,Stair|StairFlight|Railing,Assembly (A)|Business (B)|Educational (E)|Residential (R),sd|dd|cd,means_of_egress,architect
+R318.7.2,Stair|StairFlight|Slab,Assembly (A)|Business (B)|Educational (E)|Residential (R),sd|dd|cd,means_of_egress,architect
+R318.7.3,Stair|StairFlight|Slab|Landing,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|High Hazard (H),sd|dd|cd,means_of_egress,architect
+R318.7.4,Stair|StairFlight,Assembly (A)|Business (B)|Educational (E)|Institutional (I)|Residential (R),sd|dd|cd,means_of_egress,architect
+R318.7.5,Stair|StairFlight|Slab,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Institutional (I),sd|dd|cd,means_of_egress,architect
+R318.7.5.1,Stair|StairFlight,Residential (R)|Assembly (A)|Business (B)|Educational (E)|Institutional (I),sd|dd|cd,means_of_egress,architect
+R318.7.5.2,Stair|StairFlight|Slab,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,means_of_egress,architect
+R318.7.5.2.1,Stair|StairFlight,Assembly (A)|Business (B)|Educational (E)|Residential (R),sd|dd|cd,means_of_egress,architect
+R318.7.5.3,Stair|StairFlight|Slab|Landing,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Institutional (I),sd|dd|cd,means_of_egress,architect
+R318.7.5.4,Stair|StairFlight|Slab,Residential (R),sd|dd|cd,finishes_materials,architect
+R318.7.6,Stair|StairFlight|Slab,Residential (R),sd|dd|cd,means_of_egress,architect
+R318.7.7,Stair|StairFlight|Slab,Assembly (A)|Business (B)|Educational (E)|Institutional (I)|Residential (R),sd|dd|cd,means_of_egress,architect
+R318.7.8,Stair|StairFlight|Railing,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|High Hazard (H),sd|dd|cd,means_of_egress,architect
+R318.7.9,Stair|StairFlight,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Mercantile (M),sd|dd|cd,means_of_egress,architect
+R318.7.10,Stair|StairFlight|Slab,Assembly (A)|Business (B)|Educational (E)|Mercantile (M)|Residential (R),sd|dd|cd,means_of_egress,architect
+R318.7.11,Stair|StairFlight,Residential (R),sd|dd|cd,means_of_egress,architect
+R318.7.11.1,Stair|Railing,Residential (R)|Assembly (A),sd|dd|cd,means_of_egress,architect
+R318.7.11.2,Stair|Slab|Door,Residential (R),sd|dd|cd,means_of_egress,architect
+R318.7.12,Stair|Railing,Residential (R)|Assembly (A)|Business (B),sd|dd|cd,means_of_egress,architect
+R318.7.12.1,Stair|StairFlight,Assembly (A)|Business (B)|Factory and Industrial (F)|Storage (S)|Utility and Miscellaneous (U),sd|dd|cd,means_of_egress,architect
+R318.7.12.2,Stair|Railing,Residential (R),sd|dd|cd,means_of_egress,architect
+R318.7.13,Stair|Railing,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,means_of_egress,architect
+R318.7.13.1,Stair|StairFlight,Utility and Miscellaneous (U)|Business (B)|Factory and Industrial (F)|Storage (S),sd|dd|cd,means_of_egress,architect
+R318.7.13.2,Stair|Railing,Utility and Miscellaneous (U)|Residential (R),sd|dd|cd,means_of_egress,architect
+R318.8,Ramp,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Institutional (I),sd|dd|cd,accessibility,architect
+R318.8.1,Ramp|RampFlight,Residential (R),sd|dd|cd,means_of_egress,architect
+R318.8.2,Ramp|Slab|Door,Residential (R),sd|dd|cd,means_of_egress,architect
+R318.8.3,Ramp|Railing,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Institutional (I),sd|dd|cd,accessibility,architect
+R319,,,,none,none
+R319.1,Window|Door|Slab|Wall,Residential (R),sd|dd|cd,means_of_egress,architect
+R319.1.1,Window,Residential (R)|Institutional (I),sd|dd|cd,means_of_egress,architect
+R319.2,Window|Door|Wall,Residential (R),sd|dd|cd,means_of_egress,architect
+R319.2.1,Window|Door,Residential (R),sd|dd|cd,means_of_egress,architect
+R319.2.2,Window|Door,Residential (R),sd|dd|cd,means_of_egress,architect
+R319.2.3,Window,Residential (R),sd|dd|cd,means_of_egress,architect
+R319.2.4,Window|Door|Slab,Residential (R),sd|dd|cd,means_of_egress,architect
+R319.3,Door,Residential (R),sd|dd|cd,means_of_egress,architect
+R319.4,Wall|Window|Slab,Residential (R),sd|dd|cd,means_of_egress,architect
+R319.4.1,Wall|Window|Stair,Residential (R),sd|dd|cd,means_of_egress,architect
+R319.4.2,Wall|Stair|Window,Residential (R),sd|dd|cd,means_of_egress,architect
+R319.4.2.1,Stair|Railing|Wall,Residential (R),sd|dd|cd,means_of_egress,architect
+R319.4.2.2,Stair|StairFlight,Residential (R),sd|dd|cd,means_of_egress,architect
+R319.4.3,EarthworksElement|Slab|Wall|Footing,Residential (R),sd|dd|cd,site_planning,civil_engineer
+R319.4.4,Window|Door|Covering,Residential (R),sd|dd|cd,means_of_egress,architect
+R319.5,Window,Residential (R),sd|dd|cd,means_of_egress,architect
+R319.5.1,Window,Residential (R)|Educational (E)|Institutional (I),sd|dd|cd,means_of_egress,architect
+R319.6,Window|Door|Slab,Residential (R),sd|dd|cd,means_of_egress,architect
+R319.7,Window|Wall,Residential (R),sd|dd|cd,means_of_egress,architect
+R319.7.1,Window,Residential (R),sd|dd|cd,means_of_egress,architect
+R320,,,,none,none
+R320.1,Railing|Stair|Ramp,Residential (R)|Assembly (A)|Business (B)|Educational (E)|Institutional (I),sd|dd|cd,accessibility,architect
+R320.2,Railing|Stair|Ramp|StairFlight,Assembly (A)|Business (B)|Educational (E)|Institutional (I)|Residential (R),sd|dd|cd,accessibility,architect
+R320.3,Stair|Ramp|Railing,Assembly (A)|Business (B)|Educational (E)|Institutional (I)|Residential (R),sd|dd|cd,accessibility,architect
+R320.4,Railing|Wall,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Institutional (I),sd|dd|cd,accessibility,architect
+R320.5,Railing|Stair|Ramp,Assembly (A)|Business (B)|Educational (E)|Residential (R),sd|dd|cd,accessibility,architect
+R320.6,Railing,Residential (R),sd|dd|cd,means_of_egress,architect
+R320.7,Railing,Residential (R),sd|dd|cd,finishes_materials,architect
+R321,,,,none,none
+R321.1,Railing|Stair|Ramp|StairFlight,Assembly (A)|Business (B)|Educational (E)|Residential (R),sd|dd|cd,means_of_egress,architect
+R321.1.1,Railing|Stair|Ramp|Slab|Landing,Assembly (A)|Business (B)|Educational (E)|Mercantile (M)|Residential (R),sd|dd|cd,means_of_egress,architect
+R321.1.2,Railing|Stair|Slab,Residential (R),sd|dd|cd,means_of_egress,architect
+R321.1.3,Railing|Stair,Residential (R),sd|dd|cd,means_of_egress,architect
+R321.1.4,Railing,Residential (R),sd|dd|cd,finishes_materials,architect
+R321.2,Window,Residential (R),sd|dd|cd,fire_resistance_smoke_protection,architect
+R321.2.1,Window,Residential (R),sd|dd|cd,fire_resistance_smoke_protection,architect
+R321.2.2,Window,Residential (R),sd|dd|cd,means_of_egress,architect
+R322,,,,none,none
+R322.1,Door|Ramp|Stair|Slab|Window,Residential (R),sd|dd|cd,accessibility,architect
+R322.2,Door|Ramp|Stair|Slab|Wall,Residential (R)|Business (B),sd|dd|cd,accessibility,architect
+R322.3,Door|Ramp|Stair|Slab|Wall,Residential (R)|Institutional (I),sd|dd|cd,accessibility,architect
+R323,,,,none,none
+R323.1,Elevator,Assembly (A)|Business (B)|Institutional (I)|Residential (R)|Mercantile (M),sd|dd|cd,elevators_conveying_systems,elevator_consultant
+R323.1.1,Elevator,Residential (R),sd|dd|cd,elevators_conveying_systems,elevator_consultant
+R323.1.1.1,Elevator|Wall|Door,Residential (R),sd|dd|cd,elevators_conveying_systems,elevator_consultant
+R323.1.1.2,Door|Elevator,Residential (R),sd|dd|cd,elevators_conveying_systems,elevator_consultant
+R323.2,Elevator,Assembly (A)|Business (B)|Educational (E)|Institutional (I)|Residential (R),sd|dd|cd,elevators_conveying_systems,architect
+R323.3,Elevator,Assembly (A)|Business (B)|Educational (E)|Institutional (I)|Mercantile (M),sd|dd|cd,accessibility,architect
+R324,,,,none,none
+R324.1,Window|Door|CurtainWall,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Mercantile (M),cd,fire_resistance_smoke_protection,architect
+R324.1.1,Window|Door|CurtainWall,Assembly (A)|Business (B)|Educational (E)|Residential (R),sd|dd|cd,assemblies_envelope,architect
+R324.2,Window,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Mercantile (M),sd|dd|cd,finishes_materials,architect
+R324.2.1,Window,Residential (R),sd|dd|cd,finishes_materials,architect
+R324.3,Window|Wall|Covering,Assembly (A)|Business (B)|Educational (E)|Residential (R),sd|dd|cd,finishes_materials,architect
+R324.3.1,Window|Door|ShadingDevice,Residential (R)|Assembly (A)|Educational (E)|Business (B),sd|dd|cd,finishes_materials,architect
+R324.4,Window|Door|Wall,Assembly (A)|Business (B)|Educational (E)|Residential (R),sd|dd|cd,fire_resistance_smoke_protection,architect
+R324.4.1,Door|Glazing|Window,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Institutional (I),sd|dd|cd,fire_resistance_smoke_protection,architect
+R324.4.2,Wall|Window|Door,Residential (R),sd|dd|cd,fire_resistance_smoke_protection,architect
+R324.4.3,Window|Railing|Slab,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Mercantile (M),sd|dd|cd,fire_resistance_smoke_protection,architect
+R324.4.4,Railing|Wall|Window,Assembly (A)|Business (B)|Educational (E)|Residential (R),sd|dd|cd,fire_resistance_smoke_protection,architect
+R324.4.4.1,Railing,Assembly (A)|Business (B)|Educational (E)|Residential (R),sd|dd|cd,assemblies_envelope,architect
+R324.4.5,Wall|Window|BuildingElementProxy,Residential (R)|Assembly (A)|Institutional (I),sd|dd|cd,fire_resistance_smoke_protection,architect
+R324.4.6,Window|Railing|Stair|Ramp,Assembly (A)|Business (B)|Educational (E)|Residential (R),sd|dd|cd,fire_resistance_smoke_protection,architect
+R324.4.7,Stair|Window|Slab|Railing,Residential (R)|Assembly (A)|Business (B)|Educational (E),sd|dd|cd,fire_resistance_smoke_protection,architect
+R324.5,Window,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Mercantile (M),sd|dd|cd,assemblies_envelope,architect
+R324.6,Roof|Slab|Window|Covering,Assembly (A)|Business (B)|Educational (E)|Residential (R),sd|dd|cd,assemblies_envelope,architect
+R324.6.1,Roof|Slab|Window,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Mercantile (M),sd|dd|cd,assemblies_envelope,architect
+R324.6.2,Window|Door,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|High Hazard (H),sd|dd|cd,finishes_materials,architect
+R324.6.3,Window|Covering,Residential (R)|Business (B),sd|dd|cd,assemblies_envelope,architect
+R324.6.4,Window|ShadingDevice|Covering,Residential (R),sd|dd|cd,assemblies_envelope,architect
+R324.6.5,Window,Residential (R),sd|dd|cd,assemblies_envelope,architect
+R324.6.6,Wall|Roof|BuildingElementProxy|Window,Utility and Miscellaneous (U),sd|dd|cd,assemblies_envelope,architect
+R324.6.7,Window|Covering,Residential (R),sd|dd|cd,assemblies_envelope,architect
+R324.6.8,Roof|Slab|BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Mercantile (M),sd|dd|cd,assemblies_envelope,architect
+R324.6.9,Window|Roof,Assembly (A)|Business (B)|Educational (E)|Institutional (I)|Residential (R),sd|dd|cd,assemblies_envelope,architect
+R324.6.9.1,Window|Roof,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Mercantile (M),sd|dd|cd,structural_design,structural_engineer
+R325,,,,none,none
+R325.1,Wall|Window|Door|Slab,Residential (R)|Business (B)|Assembly (A)|Institutional (I)|Educational (E),sd|dd|cd,interior_environment,architect
+R325.1.1,Window|Wall|BuildingElementProxy,Residential (R),sd|dd|cd,interior_environment,architect
+R325.1.2,Window|Door|Slab|Roof,Residential (R),sd|dd|cd,interior_environment,architect
+R325.1.3,Wall|Door|Window,Residential (R)|Institutional (I)|Assembly (A)|Educational (E)|Business (B),sd|dd|cd,interior_environment,architect
+R325.2,Window|Door|Slab|Wall,Residential (R)|Assembly (A)|Business (B)|Institutional (I),sd|dd|cd,interior_environment,architect
+R325.3,BuildingElementProxy,Residential (R),sd|dd|cd,mechanical_systems,mechanical_engineer
+R325.4,Wall|Window|BuildingElementProxy,Residential (R)|Business (B)|Mercantile (M),sd|dd|cd,mechanical_systems,mechanical_engineer
+R325.4.1,Wall|Chimney|Door|Window|BuildingElementProxy,Residential (R)|Assembly (A)|Business (B)|Institutional (I)|Mercantile (M),sd|dd|cd,mechanical_systems,mechanical_engineer
+R325.4.2,Covering|Wall|Window,Assembly (A)|Business (B)|Educational (E)|Mercantile (M)|Residential (R),sd|dd|cd,mechanical_systems,mechanical_engineer
+R325.5,Wall|Window|Covering,Residential (R)|Business (B)|Assembly (A),sd|dd|cd,mechanical_systems,mechanical_engineer
+R325.6,Stair|StairFlight|Slab|Wall|BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Residential (R),sd|dd|cd,interior_environment,architect
+R325.7,Stair|StairFlight|Slab|Covering,Residential (R),sd|dd|cd,means_of_egress,architect
+R325.8,Slab|Wall|Roof,Residential (R),sd|dd|cd,mechanical_systems,mechanical_engineer
+R326,,,,none,none
+R326.1,Slab|BuildingElementProxy|Covering|Door|Wall,Residential (R),sd|dd|cd,plumbing_systems,architect
+R326.2,Slab|Wall|Covering,Residential (R),sd|dd|cd,interior_environment,architect
+R326.3,PlumbingSystems|Slab,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|High Hazard (H),sd|dd|cd,plumbing_systems,mechanical_engineer
+R326.4,PlumbingElement|Slab,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Institutional (I),sd|dd|cd,plumbing_systems,mechanical_engineer
+R327,,,,none,none
+R327.1,Slab|Wall|Door,Assembly (A)|Business (B)|Educational (E)|Residential (R),sd|dd|cd,plumbing_systems,architect
+R327.2,Wall|Slab|Covering,Residential (R)|Institutional (I)|Mercantile (M)|Business (B)|Assembly (A),sd|dd|cd,finishes_materials,architect
+R328,,,,none,none
+R328.1,BuildingElementProxy|Slab|Covering,Assembly (A)|Residential (R)|Institutional (I)|Mercantile (M),sd|dd|cd,special_construction,architect
+R329,,,,none,none
+R329.1,Roof|Wall|BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Mercantile (M)|Residential (R),sd|dd|cd,special_construction,architect
+R329.2,Roof|Slab,Residential (R)|Business (B),sd|dd|cd,mechanical_systems,mechanical_engineer
+R329.3,BuildingElementProxy|Roof,Residential (R)|Business (B)|Assembly (A),sd|dd|cd,electrical_systems,electrical_engineer
+R329.3.1,Roof|BuildingElementProxy,Business (B)|Residential (R)|Educational (E)|Assembly (A)|Mercantile (M),sd|dd|cd,special_construction,electrical_engineer
+R329.4,Roof|BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,special_construction,architect
+R329.4.1,Roof|Slab|BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Mercantile (M),sd|dd|cd,structural_design,structural_engineer
+R329.4.1.1,Roof|Slab,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Utility and Miscellaneous (U),sd|dd|cd,structural_design,structural_engineer
+R329.4.1.2,Roof|Plate|BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,structural_design,structural_engineer
+R329.4.2,Roof|BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|High Hazard (H),sd|dd|cd,fire_resistance_smoke_protection,architect
+R329.4.3,Roof|Slab|Wall,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Mercantile (M),sd|dd|cd,assemblies_envelope,architect
+R329.5,Roof|Slab|Wall,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Mercantile (M),sd|dd|cd,special_construction,architect
+R329.5.1,Roof|BuildingElementProxy|Covering,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,assemblies_envelope,architect
+R329.5.1.1,Roof|Covering,Residential (R)|Business (B)|Assembly (A),sd|dd|cd,fire_resistance_smoke_protection,architect
+R329.5.2,Wall|Window|Covering,Residential (R),sd|dd|cd,assemblies_envelope,architect
+R329.6,Roof|Slab|Stair|Ramp,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Mercantile (M),sd|dd|cd,means_of_egress,architect
+R329.6.1,Roof|Slab,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Mercantile (M),sd|dd|cd,fire_resistance_smoke_protection,architect
+R329.6.2,Roof|Slab,Residential (R)|Business (B)|Assembly (A),sd|dd|cd,assemblies_envelope,architect
+R329.6.2.1,Roof,Residential (R),sd|dd|cd,fire_protection_alarm_systems,architect
+R329.6.3,Roof|Window,Residential (R),sd|dd|cd,fire_protection_alarm_systems,architect
+R329.6.4,Roof|Slab|Covering,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,fire_protection_alarm_systems,fire_protection_engineer
+R329.7,Roof|BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Mercantile (M)|Residential (R),sd|dd|cd,special_construction,architect
+R329.7.1,Roof|Slab|BuildingElementProxy,Business (B)|Educational (E)|Factory and Industrial (F)|Mercantile (M)|Utility and Miscellaneous (U),sd|dd|cd,fire_resistance_smoke_protection,architect
+R329.7.2,Roof|Covering|BuildingElementProxy,Residential (R),sd|dd|cd,fire_resistance_smoke_protection,architect
+R329.8,ShadingDevice|BuildingElementProxy|EarthworksElement,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,structural_design,structural_engineer
+R329.8.1,BuildingElementProxy|Slab,Utility and Miscellaneous (U),sd|dd|cd,site_planning,architect
+R330,,,,none,none
+R330.1,BuildingElementProxy,Residential (R)|Business (B)|Assembly (A),sd|dd|cd,fire_protection_alarm_systems,fire_protection_engineer
+R330.2,BuildingElementProxy|EarthworksElement,Residential (R)|Business (B)|Utility and Miscellaneous (U),sd|dd|cd,hazardous_materials,electrical_engineer
+R330.3,BuildingElementProxy,Residential (R),cd|ca,special_construction,architect
+R330.3.1,BuildingElementProxy,Utility and Miscellaneous (U)|Business (B)|Assembly (A),sd|dd|cd,hazardous_materials,architect
+R330.4,Wall|Door|Slab,Residential (R),sd|dd|cd,fire_resistance_smoke_protection,architect
+R330.5,BuildingElementProxy,Residential (R)|Utility and Miscellaneous (U)|Storage (S),sd|dd|cd,hazardous_materials,fire_protection_engineer
+R330.6,BuildingElementProxy,Business (B)|Factory and Industrial (F)|Mercantile (M)|Residential (R)|Utility and Miscellaneous (U),dd|cd|ca,electrical_systems,electrical_engineer
+R330.7,Wall|Slab|Door,Residential (R),sd|dd|cd,fire_protection_alarm_systems,fire_protection_engineer
+R330.8,Wall|Column|Bearing|Slab,Residential (R)|Business (B)|Assembly (A),sd|dd|cd,special_construction,architect
+R330.8.1,Wall|BuildingElementProxy|Slab,Residential (R)|Utility and Miscellaneous (U),sd|dd|cd,special_construction,architect
+R330.8.2,BuildingElementProxy|Slab|Kerb,Business (B)|Residential (R)|Utility and Miscellaneous (U),sd|dd|cd,special_construction,architect
+R330.8.3,BuildingElementProxy|Footing|Slab,Utility and Miscellaneous (U)|Business (B)|Assembly (A)|Factory and Industrial (F)|Storage (S),sd|dd|cd,special_construction,architect
+R330.9,MechanicalSystem|Room|Wall,Residential (R)|Utility and Miscellaneous (U),sd|dd|cd,mechanical_systems,mechanical_engineer
+R330.10,BuildingElementProxy|Door|Window,Residential (R),sd|dd|cd,electrical_systems,electrical_engineer
+R330.11,BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),cd|ca,hazardous_materials,architect
+R331,,,,none,none
+R331.1,BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Institutional (I),sd|dd|cd,electrical_systems,electrical_engineer
+R331.2,BuildingElementProxy,Residential (R),sd|dd|cd,mechanical_systems,mechanical_engineer
+R332,,,,none,none
+R332.1,BuildingElementProxy|MechanicalSystem,Business (B)|Factory and Industrial (F)|Institutional (I)|Utility and Miscellaneous (U),sd|dd|cd,hazardous_materials,fire_protection_engineer

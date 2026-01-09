@@ -1,0 +1,237 @@
+id,ifc_type,occupancy,design_phase,code_category,primary_responsibility
+11,Slab|Roof|Wall|Window|Covering,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Mercantile (M),sd|dd|cd,assemblies_envelope,architect
+N1101,,,,none,none
+N1101.1,Wall|Roof|Slab,Residential (R),sd|dd|cd,assemblies_envelope,architect
+N1101.2,Wall|Roof|Slab,Residential (R),concept|sd|dd|cd,assemblies_envelope,architect
+N1101.3,BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,assemblies_envelope,architect
+N1101.4,Slab|Wall|Roof|Window|Door,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Institutional (I),sd|dd|cd,assemblies_envelope,architect
+N1101.5,Slab|Wall|Roof|Window|Door,Residential (R),sd|dd|cd,assemblies_envelope,architect
+N1101.5.1,Wall|Slab|Roof|Door|Window,Residential (R),sd|dd|cd,assemblies_envelope,architect
+N1101.5.2,Roof|Slab|BuildingElementProxy,Residential (R),sd|dd|cd,assemblies_envelope,architect
+N1101.6,Wall|Slab|Roof|Window|CurtainWall,Residential (R),sd|dd|cd,assemblies_envelope,architect
+N1101.7,Slab|Wall|Roof,Residential (R)|Business (B),sd|dd|cd,interior_environment,architect
+N1101.7.1,Wall|Roof|Slab,Residential (R)|Assembly (A)|Business (B),sd|dd|cd,interior_environment,architect
+N1101.7.2,Wall|Roof|Slab|Window|BuildingElementProxy,Residential (R)|Assembly (A)|Business (B),sd|dd|cd,assemblies_envelope,architect
+N1101.8,BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|High Hazard (H),concept|sd|dd|cd,site_planning,architect
+N1101.9,Covering|Window|Door,Assembly (A)|Business (B)|Educational (E)|Residential (R),sd|dd|cd,interior_environment,architect
+N1101.10,Wall|Roof|Slab|Door|Window,Residential (R),cd|ca,assemblies_envelope,architect
+N1101.10.1,Wall|Roof|Slab|Covering|BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Institutional (I),cd|ca,assemblies_envelope,architect
+N1101.10.1.1,Roof|Slab,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),cd|ca,assemblies_envelope,architect
+N1101.10.2,Wall|Roof|Slab|Covering,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),cd|ca,assemblies_envelope,architect
+N1101.10.3,Window|Door|Roof,Residential (R),sd|dd|cd,assemblies_envelope,architect
+N1101.10.4,Wall|Roof|Slab|Window,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Mercantile (M),sd|dd|cd,assemblies_envelope,architect
+N1101.10.4.1,Wall|Covering,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Mercantile (M),sd|dd|cd,assemblies_envelope,architect
+N1101.10.5,Wall|Roof|Slab,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Storage (S),sd|dd|cd,assemblies_envelope,architect
+N1101.10.6,Wall|Slab|Roof,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,assemblies_envelope,architect
+N1101.11,BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),cd|ca,assemblies_envelope,architect
+N1101.11.1,Slab|Wall|Footing|Covering,Residential (R)|Assembly (A)|Business (B),dd|cd,assemblies_envelope,architect
+N1101.11.2,Roof|Slab|Covering,Residential (R)|Assembly (A)|Business (B),sd|dd|cd,assemblies_envelope,architect
+N1101.12,BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),cd|ca,mechanical_systems,mechanical_engineer
+N1101.13,Wall|Roof|Slab|Window|Door,Residential (R),sd|dd|cd,assemblies_envelope,architect
+N1101.13.1,Wall|Roof|Slab|Window|Door,Residential (R),sd|dd|cd,assemblies_envelope,architect
+N1101.13.2,Wall|Roof|Slab|Window|Door,Residential (R),sd|dd|cd,assemblies_envelope,architect
+N1101.13.3,Wall|Roof|Slab|Window|Door,Residential (R),sd|dd|cd,assemblies_envelope,architect
+N1101.13.4,Wall|Roof|Slab|Window|Door,Residential (R)|Assembly (A),sd|dd|cd,assemblies_envelope,architect
+N1101.14,Wall|Roof|Slab|Window|Door,Residential (R),cd|ca,assemblies_envelope,architect
+N1102,,,,none,none
+N1102.1,Wall|Roof|Slab|Window|Door,Residential (R),sd|dd|cd,assemblies_envelope,architect
+N1102.1.1,Wall,Residential (R),sd|dd|cd,assemblies_envelope,architect
+N1102.1.2,Slab|Roof|Wall|Window,Residential (R),sd|dd|cd,assemblies_envelope,architect
+N1102.1.3,Wall|Roof|Slab|Window|Door,Residential (R),sd|dd|cd,assemblies_envelope,architect
+N1102.1.4,Wall|Roof|Slab|Covering,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Institutional (I),sd|dd|cd,assemblies_envelope,architect
+N1102.1.5,Wall|Roof|Slab|Window|Door,Residential (R),sd|dd|cd,assemblies_envelope,architect
+N1102.1.6,Wall|Slab|Door|Covering,Residential (R),sd|dd|cd,assemblies_envelope,architect
+N1102.2,Wall|Roof|Slab|Window|Door,Residential (R),sd|dd|cd,assemblies_envelope,architect
+N1102.2.1,Slab|Roof,Residential (R),sd|dd|cd,assemblies_envelope,architect
+N1102.2.2,Roof|Slab|Wall,Residential (R),sd|dd|cd,assemblies_envelope,architect
+N1102.2.3,Wall|Covering,Residential (R),sd|dd|cd,assemblies_envelope,architect
+N1102.2.3.1,Roof|Slab|Wall,Assembly (A)|Business (B)|Educational (E)|Residential (R),sd|dd|cd,assemblies_envelope,architect
+N1102.2.4,Roof|Covering|Slab,Residential (R),sd|dd|cd,assemblies_envelope,architect
+N1102.2.5,Door|Slab|Stair,Residential (R),sd|dd|cd,assemblies_envelope,architect
+N1102.2.5.1,Door|Slab|Covering,Residential (R),sd|dd|cd,assemblies_envelope,architect
+N1102.2.6,Wall,Assembly (A)|Business (B)|Educational (E)|Residential (R),sd|dd|cd,assemblies_envelope,architect
+N1102.2.7,Wall|Slab|Roof,Assembly (A)|Business (B)|Residential (R),sd|dd|cd,assemblies_envelope,architect
+N1102.2.8,Slab|Covering|BuildingElementProxy,Residential (R),sd|dd|cd,assemblies_envelope,architect
+N1102.2.9,Wall|Slab|Door|Covering,Residential (R),sd|dd|cd,assemblies_envelope,architect
+N1102.2.9.1,Wall|Slab,Residential (R)|Assembly (A)|Business (B),sd|dd|cd,assemblies_envelope,architect
+N1102.2.10,Slab,Residential (R),sd|dd|cd,assemblies_envelope,architect
+N1102.2.10.1,Slab|Footing|Wall|Pavement,Residential (R)|Business (B)|Educational (E),sd|dd|cd,assemblies_envelope,architect
+N1102.2.10.2,Slab,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,assemblies_envelope,architect
+N1102.2.11,Wall|Slab,Residential (R),sd|dd|cd,assemblies_envelope,architect
+N1102.2.11.1,Wall|Slab|Footing|Covering,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,assemblies_envelope,architect
+N1102.2.11.2,Wall|Slab,Residential (R),sd|dd|cd,assemblies_envelope,architect
+N1102.2.12,Wall|Slab|Footing,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,assemblies_envelope,architect
+N1102.2.13,Wall|Roof|Slab|Door|Window,Residential (R),sd|dd|cd,assemblies_envelope,architect
+N1102.3,Roof|Slab|BuildingElementProxy,Residential (R)|Assembly (A)|Business (B),dd|cd,assemblies_envelope,architect
+N1102.4,Window|Door|CurtainWall|ShadingDevice,Residential (R),sd|dd|cd,assemblies_envelope,architect
+N1102.4.1,Window|Door|CurtainWall,Residential (R)|Assembly (A)|Business (B),sd|dd|cd,assemblies_envelope,architect
+N1102.4.2,Window|CurtainWall,Assembly (A)|Business (B)|Educational (E)|Mercantile (M)|Residential (R),sd|dd|cd,assemblies_envelope,architect
+N1102.4.3,Window|Door|CurtainWall,Residential (R),sd|dd|cd,assemblies_envelope,architect
+N1102.4.4,Door,Residential (R),sd|dd|cd,assemblies_envelope,architect
+N1102.4.5,Window|Door|Slab|Roof|BuildingElementProxy,Residential (R),sd|dd|cd,assemblies_envelope,architect
+N1102.5,Wall|Roof|Window|Door|Slab,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Mercantile (M),sd|dd|cd,assemblies_envelope,architect
+N1102.5.1,Wall|Roof|Slab|Window|Door,Residential (R),sd|dd|cd,assemblies_envelope,architect
+N1102.5.1.1,Wall|Roof|Slab|Window|Door,Residential (R)|Assembly (A)|Business (B),sd|dd|cd,assemblies_envelope,architect
+N1102.5.1.2,Wall|Door|Window|Slab|Roof,Residential (R),cd|ca,assemblies_envelope,architect
+N1102.5.1.3,Wall|Slab|Roof|Window|Door,Residential (R),sd|dd|cd,assemblies_envelope,architect
+N1102.5.2,Chimney|BuildingElementProxy,Residential (R),sd|dd|cd,assemblies_envelope,architect
+N1102.5.3,Window|Door|Roof,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Mercantile (M),sd|dd|cd,assemblies_envelope,architect
+N1102.5.4,Covering|Slab|Roof,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|High Hazard (H),sd|dd|cd,assemblies_envelope,architect
+N1102.5.5,Wall|BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),dd|cd,assemblies_envelope,architect
+N1102.6,Window|Door|CurtainWall|Roof,Residential (R),sd|dd|cd,assemblies_envelope,architect
+N1103,,,,none,none
+N1103.1,BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,mechanical_systems,mechanical_engineer
+N1103.1.1,BuildingElementProxy,Residential (R),sd|dd|cd,mechanical_systems,mechanical_engineer
+N1103.1.2,BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,mechanical_systems,mechanical_engineer
+N1103.2,BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Institutional (I)|Residential (R),sd|dd|cd,mechanical_systems,mechanical_engineer
+N1103.3,BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,mechanical_systems,mechanical_engineer
+N1103.3.1,BuildingElementProxy,Residential (R),sd|dd|cd,mechanical_systems,mechanical_engineer
+N1103.3.2,Wall|Slab|Roof,Residential (R),sd|dd|cd,mechanical_systems,mechanical_engineer
+N1103.3.3,BuildingElementProxy,Residential (R)|Business (B)|Educational (E)|Assembly (A),sd|dd|cd,mechanical_systems,mechanical_engineer
+N1103.3.4,Covering|Slab|BuildingElementProxy,Residential (R),sd|dd|cd,assemblies_envelope,mechanical_engineer
+N1103.3.5,Covering|Slab,Residential (R)|Business (B),sd|dd|cd,assemblies_envelope,mechanical_engineer
+N1103.3.5.1,BuildingElementProxy,Residential (R),sd|dd|cd,mechanical_systems,mechanical_engineer
+N1103.3.6,BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),dd|cd,mechanical_systems,mechanical_engineer
+N1103.3.6.1,BuildingElementProxy,Residential (R)|Business (B)|Assembly (A),dd|cd,mechanical_systems,mechanical_engineer
+N1103.3.7,BuildingElementProxy,Residential (R),cd|ca,mechanical_systems,mechanical_engineer
+N1103.3.8,BuildingElementProxy,Residential (R),sd|dd|cd|ca,mechanical_systems,mechanical_engineer
+N1103.4,BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),dd|cd,mechanical_systems,mechanical_engineer
+N1103.4.1,Covering|BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),dd|cd,plumbing_systems,mechanical_engineer
+N1103.5,PlumbingSystems,Assembly (A)|Business (B)|Educational (E)|Institutional (I)|Residential (R),sd|dd|cd,plumbing_systems,mechanical_engineer
+N1103.5.1,PlumbingSystems|BuildingElementProxy,Residential (R)|Business (B)|Institutional (I),dd|cd,plumbing_systems,mechanical_engineer
+N1103.5.1.1,PlumbingSystem,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Institutional (I),sd|dd|cd,plumbing_systems,mechanical_engineer
+N1103.5.1.1.1,PlumbingSystems,Assembly (A)|Business (B)|Educational (E)|Institutional (I)|Residential (R),sd|dd|cd,plumbing_systems,mechanical_engineer
+N1103.5.1.2,PlumbingSystem|Slab,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),dd|cd,plumbing_systems,mechanical_engineer
+N1103.5.2,Pipe|Slab|BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Institutional (I),sd|dd|cd,plumbing_systems,mechanical_engineer
+N1103.5.3,BuildingElementProxy,Residential (R)|Assembly (A)|Institutional (I),sd|dd|cd,plumbing_systems,mechanical_engineer
+N1103.6,MechanicalSystem|Covering|Wall,Residential (R),sd|dd|cd,mechanical_systems,mechanical_engineer
+N1103.6.1,BuildingElementProxy,Residential (R),sd|dd|cd,mechanical_systems,mechanical_engineer
+N1103.6.2,MechanicalSystem,Residential (R),sd|dd|cd,mechanical_systems,mechanical_engineer
+N1103.6.3,MechanicalSystem,Residential (R)|Assembly (A)|Business (B)|Educational (E),cd|ca,mechanical_systems,mechanical_engineer
+N1103.6.4,MechanicalSystem|BuildingElementProxy,Residential (R)|Business (B)|Assembly (A)|Institutional (I),sd|dd|cd,mechanical_systems,mechanical_engineer
+N1103.7,BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,mechanical_systems,mechanical_engineer
+N1103.7.1,BuildingElementProxy,Residential (R),sd|dd|cd,mechanical_systems,mechanical_engineer
+N1103.8,BuildingElementProxy,Residential (R),sd|dd|cd,mechanical_systems,mechanical_engineer
+N1103.9,BuildingElementProxy|Slab|Wall|Roof,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,mechanical_systems,mechanical_engineer
+N1103.9.1,ShadingDevice|BuildingElementProxy,Assembly (A)|Business (B)|Mercantile (M)|Residential (R),sd|dd|cd,mechanical_systems,mechanical_engineer
+N1103.9.2,Pavement|BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Institutional (I),sd|dd|cd,mechanical_systems,mechanical_engineer
+N1103.9.3,Roof|Covering,Residential (R)|Business (B)|Assembly (A),sd|dd|cd,mechanical_systems,mechanical_engineer
+N1103.9.4,PipeSegment|BuildingElementProxy,Residential (R)|Assembly (A)|Business (B)|Educational (E)|Institutional (I),dd|cd,mechanical_systems,mechanical_engineer
+N1103.10,Slab|BuildingElementProxy|Covering,Assembly (A)|Residential (R)|Institutional (I),sd|dd|cd,mechanical_systems,mechanical_engineer
+N1103.10.1,BuildingElementProxy,Residential (R)|Assembly (A)|Business (B),sd|dd|cd,mechanical_systems,mechanical_engineer
+N1103.10.2,MechanicalSystem,Assembly (A)|Residential (R),sd|dd|cd,mechanical_systems,mechanical_engineer
+N1103.10.3,Covering,Assembly (A)|Residential (R),sd|dd|cd,assemblies_envelope,architect
+N1103.11,BuildingElementProxy,Assembly (A)|Residential (R)|Hotel (R),sd|dd|cd,mechanical_systems,mechanical_engineer
+N1103.12,BuildingElementProxy,Residential (R),sd|dd|cd,mechanical_systems,mechanical_engineer
+N1103.13,BuildingElementProxy,Residential (R)|Assembly (A)|Business (B),sd|dd|cd,mechanical_systems,mechanical_engineer
+N1103.13.1,BuildingElementProxy,Residential (R)|Business (B)|Assembly (A),dd|cd,mechanical_systems,mechanical_engineer
+N1104,,,,none,none
+N1104.1,ShadingDevice|Covering|Stair|Ramp|Door,Assembly (A)|Business (B)|Educational (E)|Mercantile (M)|Residential (R),sd|dd|cd,electrical_systems,electrical_engineer
+N1104.1.1,ShadingDevice|BuildingElementProxy,Residential (R),sd|dd|cd,electrical_systems,electrical_engineer
+N1104.1.2,Covering,Assembly (A)|Business (B)|Educational (E)|Mercantile (M)|Residential (R),sd|dd|cd,electrical_systems,electrical_engineer
+N1104.1.3,ShadingDevice|BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Mercantile (M)|Residential (R),dd|cd,electrical_systems,electrical_engineer
+N1104.1.4,Wall,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,electrical_systems,electrical_engineer
+N1104.1.5,BuildingElementProxy,Assembly (A)|Business (B)|Mercantile (M)|Residential (R),sd|dd|cd,mechanical_systems,mechanical_engineer
+N1104.2,BuildingElementProxy,Residential (R)|Business (B)|Assembly (A)|Educational (E),sd|dd|cd,electrical_systems,electrical_engineer
+N1104.2.1,Covering,Assembly (A)|Business (B)|Educational (E)|Residential (R),sd|dd|cd,electrical_systems,electrical_engineer
+N1104.2.2,BuildingElementProxy,Residential (R)|Utility and Miscellaneous (U),dd|cd,electrical_systems,electrical_engineer
+N1104.3,BuildingElementProxy|Covering|ShadingDevice,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),dd|cd,electrical_systems,electrical_engineer
+N1104.3.1,ShadingDevice|BuildingElementProxy,Residential (R),dd|cd,electrical_systems,electrical_engineer
+N1104.4,BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),cd|ca,special_construction,owner
+N1105,,,,none,none
+N1105.1,Slab|Roof|Wall|Window|Door,Residential (R),sd|dd|cd,assemblies_envelope,architect
+N1105.2,Wall|Roof|Slab|Window|Door,Residential (R),sd|dd|cd,assemblies_envelope,architect
+N1105.3,BuildingElementProxy,Residential (R),sd|cd,assemblies_envelope,architect
+N1105.4,Wall|Roof|Slab|Window|Door,Residential (R),sd|dd|cd,assemblies_envelope,architect
+N1105.4.1,Wall|Roof|Slab|Window|Door,Residential (R),sd|dd|cd,assemblies_envelope,architect
+N1105.4.2,Wall|Slab|Roof|Window|Door,Residential (R),sd|dd|cd,assemblies_envelope,architect
+N1105.4.3,Wall|Slab|Roof|Window|Door,Residential (R)|Business (B),dd|cd,assemblies_envelope,architect
+N1105.5,BuildingElementProxy,Residential (R)|Business (B)|Assembly (A),sd|dd|cd,interior_environment,architect
+N1105.5.1,BuildingElementProxy,Residential (R),sd|dd|cd,mechanical_systems,mechanical_engineer
+N1105.5.2,BuildingElementProxy,Business (B),cd,assemblies_envelope,architect
+N1105.5.3,BuildingElementProxy,Residential (R),sd|dd|cd,interior_environment,architect
+N1105.5.4,BuildingElementProxy,Residential (R),sd|dd|cd,assemblies_envelope,architect
+N1105.5.4.1,Wall|Roof|Slab|Window|Door,Residential (R),cd,assemblies_envelope,architect
+N1105.5.4.2,Slab|Roof|Covering|BuildingElementProxy,Residential (R),cd|ca,assemblies_envelope,architect
+N1106,,,,none,none
+N1106.1,Wall|Roof|Slab|Window,Residential (R),sd|dd|cd,assemblies_envelope,architect
+N1106.2,Slab|Roof|Wall|Window|Door,Residential (R),sd|dd|cd,assemblies_envelope,architect
+N1106.3,Wall|Roof|Slab|Window|Door,Residential (R),sd|dd|cd,assemblies_envelope,architect
+N1106.4,BuildingElementProxy,Residential (R),sd|dd|cd,interior_environment,architect
+N1106.5,BuildingElementProxy|Roof|Slab|Window,Residential (R),sd|dd|cd,interior_environment,architect
+N1106.6,BuildingElementProxy,Residential (R),cd|ca,assemblies_envelope,architect
+N1106.7,BuildingElementProxy,Residential (R),sd|dd|cd,assemblies_envelope,architect
+N1106.7.1,BuildingElementProxy,Residential (R)|Business (B),sd|dd|cd,interior_environment,architect
+N1106.7.2,BuildingElementProxy,Residential (R),sd|dd|cd|ca,assemblies_envelope,architect
+N1106.7.2.1,BuildingElementProxy|Roof|Slab|Wall|Window,Residential (R),cd,assemblies_envelope,architect
+N1106.7.2.2,Slab|Wall|Roof|Window|Door,Residential (R),cd|ca,assemblies_envelope,architect
+N1106.7.3,BuildingElementProxy|Roof|Slab,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Mercantile (M),sd|dd|cd,assemblies_envelope,architect
+N1106.7.4,Wall|Roof|Slab|Window,Residential (R),cd|ca,assemblies_envelope,architect
+N1106.7.5,BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,assemblies_envelope,architect
+N1106.7.6,Wall|Roof|Slab|Window|Door,Residential (R),sd|dd|cd,assemblies_envelope,architect
+N1107,,,,none,none
+N1107.1,Wall|Roof|Slab|Window|Door,Residential (R),sd|dd|cd,assemblies_envelope,architect
+N1107.2,Roof|Slab|Window|Door|Covering,Residential (R),sd|dd|cd,assemblies_envelope,architect
+N1108,,,,none,none
+N1108.1,Wall|Roof|Slab|Window|Door,Residential (R),sd|dd|cd,assemblies_envelope,architect
+N1108.2,Slab|Roof|Door|Window|BuildingElementProxy,Residential (R),sd|dd|cd,assemblies_envelope,architect
+N1108.2.1,Wall|Roof|Slab|Window|Door,Residential (R),sd|dd|cd,assemblies_envelope,architect
+N1108.2.1.1,Wall|Roof|Slab|Window|Door,Residential (R),sd|dd|cd,assemblies_envelope,architect
+N1108.2.1.2,Window|CurtainWall|Door,Residential (R),sd|dd|cd,assemblies_envelope,architect
+N1108.2.1.3,Roof,Assembly (A)|Business (B)|Educational (E)|Mercantile (M)|Residential (R),sd|dd|cd,assemblies_envelope,architect
+N1108.2.1.3.1,Roof|Slab|Covering,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,assemblies_envelope,architect
+N1108.2.1.4,Wall|Roof|Slab|Door|Window,Residential (R),sd|dd|cd,assemblies_envelope,architect
+N1108.2.2,BuildingElementProxy,Residential (R),sd|dd|cd,mechanical_systems,mechanical_engineer
+N1108.2.2.1,BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Mercantile (M)|Residential (R),sd|dd|cd,mechanical_systems,mechanical_engineer
+N1108.2.3,BuildingElementProxy,Residential (R),sd|dd|cd,mechanical_systems,mechanical_engineer
+N1108.2.3.1,PlumbingSystem,Residential (R),sd|dd|cd,plumbing_systems,mechanical_engineer
+N1108.2.3.1.1,PipeSegment|Valve,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),dd|cd,plumbing_systems,mechanical_engineer
+N1108.2.4,BuildingElementProxy|Covering|Slab|Door|Roof,Residential (R),sd|dd|cd,mechanical_systems,mechanical_engineer
+N1108.2.5,Covering|Slab|Wall|Window|Door,Residential (R),sd|dd|cd,interior_environment,mechanical_engineer
+N1108.2.6,BuildingElementProxy,Residential (R),dd|cd,mechanical_systems,architect
+N1108.2.7,BuildingElementProxy,Residential (R),sd|dd|cd,mechanical_systems,architect
+N1108.2.8,BuildingElementProxy,Residential (R),dd|cd,mechanical_systems,mechanical_engineer
+N1108.2.8.1,BuildingElementProxy,Residential (R)|Business (B)|Assembly (A),dd|cd,mechanical_systems,mechanical_engineer
+N1108.2.8.2,BuildingElementProxy,Residential (R),dd|cd,mechanical_systems,mechanical_engineer
+N1108.2.9,Wall,Residential (R)|Business (B)|Assembly (A),sd|dd|cd,assemblies_envelope,architect
+N1108.2.10,Covering|BuildingElementProxy,Residential (R),sd|dd|cd,electrical_systems,electrical_engineer
+N1108.2.11,Covering,Residential (R),sd|dd|cd,electrical_systems,electrical_engineer
+N1109,,,,none,none
+N1109.1,Wall|Slab|Roof|Window|Door,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,assemblies_envelope,architect
+N1109.1.1,BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),cd|ca,assemblies_envelope,architect
+N1109.2,Wall|Roof|Slab|Window|Door,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Mercantile (M),sd|dd|cd,assemblies_envelope,architect
+N1109.3,BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),ca,special_construction,owner
+N1109.4,Wall|Slab|Roof|Door|Window,Residential (R),cd|ca,finishes_materials,architect
+N1109.5,Wall|Roof|Window|Door,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,special_construction,architect
+N1109.6,Wall|Slab|Roof|Window|Door,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Mercantile (M),sd|dd|cd,interior_environment,architect
+N1110,,,,none,none
+N1110.1,Wall|Slab|Column|Roof,Assembly (A)|Business (B)|Educational (E)|Residential (R),sd|dd|cd,special_construction,architect
+N1110.2,Wall|Roof|Slab|Window|Door,Residential (R),sd|dd|cd,assemblies_envelope,architect
+N1110.2.1,Wall|Roof|Slab|Window|Door,Residential (R),sd|dd|cd,assemblies_envelope,architect
+N1110.2.2,BuildingElementProxy,Residential (R),sd|dd|cd,mechanical_systems,mechanical_engineer
+N1110.2.3,PlumbingSystem,Residential (R),sd|dd|cd,plumbing_systems,mechanical_engineer
+N1110.2.4,BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|High Hazard (H),dd|cd,electrical_systems,electrical_engineer
+N1110.2.5,Wall|Roof|Slab|Window|Door,Residential (R),sd|dd|cd,assemblies_envelope,architect
+N1111,,,,none,none
+N1111.1,Wall|Roof|Slab,Assembly (A)|Business (B)|Residential (R),sd|dd|cd,assemblies_envelope,architect
+N1111.1.1,Roof|Slab|Wall|Window,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,assemblies_envelope,architect
+N1111.1.1.1,Window|Door|CurtainWall,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Mercantile (M),sd|dd|cd,assemblies_envelope,architect
+N1111.1.1.2,Roof|Slab|Covering,Residential (R),sd|dd|cd,assemblies_envelope,architect
+N1111.1.1.3,Wall|Covering|Window,Residential (R)|Assembly (A)|Business (B),sd|dd|cd,assemblies_envelope,architect
+N1111.1.1.4,Slab|Covering,Residential (R),sd|dd|cd,assemblies_envelope,architect
+N1111.1.1.5,Wall|Slab,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|High Hazard (H),sd|dd|cd,assemblies_envelope,architect
+N1111.1.1.6,Wall|Roof|Slab|Window|Door,Business (B)|Educational (E)|Residential (R)|Assembly (A),sd|dd|cd,assemblies_envelope,architect
+N1111.1.2,BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,mechanical_systems,mechanical_engineer
+N1111.1.2.1,BuildingElementProxy,Residential (R),sd|dd|cd,mechanical_systems,mechanical_engineer
+N1111.1.2.2,BuildingElementProxy,Residential (R)|Business (B)|Assembly (A),sd|dd|cd,mechanical_systems,mechanical_engineer
+N1111.1.2.3,BuildingElementProxy,Residential (R)|Business (B)|Assembly (A)|Educational (E)|Mercantile (M),dd|cd,mechanical_systems,mechanical_engineer
+N1111.1.2.4,BuildingElementProxy,Residential (R),sd|dd|cd,mechanical_systems,mechanical_engineer
+N1111.1.3,PlumbingSystem|BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Mercantile (M),dd|cd|ca,plumbing_systems,mechanical_engineer
+N1111.1.4,Covering,Assembly (A)|Business (B)|Educational (E)|Mercantile (M)|Residential (R),dd|cd,electrical_systems,electrical_engineer
+N1111.1.5,Wall|Roof|Slab|Door|Window,Residential (R),sd|dd|cd,assemblies_envelope,architect
+N1112,,,,none,none
+N1112.1,Wall|Roof|Slab|Door|Window,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),cd|ca,assemblies_envelope,architect
+N1112.2,Window|Roof|Covering|BuildingElementProxy|Plate,Business (B)|Residential (R)|Assembly (A),cd|ca,finishes_materials,architect
+N1113,,,,none,none
+N1113.1,Wall|Slab|Roof|Window|Door,Residential (R),sd|dd|cd,assemblies_envelope,architect
+N1113.1.1,Wall|Slab|Roof|Window|Door,Business (B)|Residential (R),sd|dd|cd,assemblies_envelope,architect

@@ -1,0 +1,27 @@
+id,ifc_type,occupancy,design_phase,code_category,primary_responsibility
+29,Slab|Wall|BuildingElementProxy|Door|Covering,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Mercantile (M),sd|dd|cd,plumbing_systems,architect
+2901,,,,none,none
+2901.1,Covering|Slab|BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,plumbing_systems,architect
+2902,,,,none,none
+2902.1,BuildingElementProxy|Door|Slab,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Institutional (I),sd|dd|cd,plumbing_systems,architect
+2902.1.1,Slab|Wall|Door,Assembly (A)|Business (B)|Educational (E)|Mercantile (M)|Residential (R),sd|dd|cd,plumbing_systems,architect
+2902.1.2,Door|Wall|Slab,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,plumbing_systems,architect
+2902.1.3,Slab|Covering|Wall|Door,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Mercantile (M),sd|dd|cd,plumbing_systems,architect
+2902.2,Slab|Wall|Door,Business (B)|Mercantile (M)|Residential (R)|Assembly (A)|Institutional (I),sd|dd|cd,plumbing_systems,architect
+2902.3,Wall|Door|Slab,Assembly (A)|Business (B)|Mercantile (M)|Utility and Miscellaneous (U),sd|dd|cd,plumbing_systems,architect
+2902.3.1,Door|Wall|Slab,Assembly (A)|Business (B)|Educational (E)|Mercantile (M),sd|dd|cd,accessibility,architect
+2902.3.2,Wall|Door|BuildingElementProxy,Assembly (A)|Business (B)|Mercantile (M)|Residential (R),sd|dd|cd,plumbing_systems,architect
+2902.3.3,Door|Slab|Wall,Business (B)|Educational (E)|Factory and Industrial (F)|Storage (S)|Assembly (A),sd|dd|cd,plumbing_systems,architect
+2902.3.4,Wall|Door|Slab,Assembly (A)|Business (B)|Mercantile (M),sd|dd|cd,plumbing_systems,architect
+2902.3.5,Door|Wall|Slab,Assembly (A)|Business (B)|Mercantile (M)|Residential (R)|Educational (E),sd|dd|cd,plumbing_systems,architect
+2902.3.6,Door|Wall,Assembly (A)|Business (B)|Educational (E)|Mercantile (M)|Residential (R),sd|dd|cd,means_of_egress,architect
+2902.4,Door|Wall,Assembly (A)|Business (B)|Educational (E)|Mercantile (M)|Residential (R),sd|dd|cd,accessibility,architect
+2902.4.1,Wall|Door,Assembly (A)|Business (B)|Educational (E)|Mercantile (M)|Residential (R),sd|dd|cd,accessibility,architect
+2902.5,Wall|Slab|Door|Stair|Ramp,Assembly (A)|Business (B)|Mercantile (M),sd|dd|cd,plumbing_systems,architect
+2902.6,Covering,Assembly (A)|Business (B)|Educational (E)|Mercantile (M)|Storage (S),sd|dd|cd,plumbing_systems,architect
+2902.7,Slab|Wall|Door,Mercantile (M),sd|dd|cd,plumbing_systems,architect
+2903,,,,none,none
+2903.1,Wall|Slab,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Mercantile (M),cd|ca,plumbing_systems,architect
+2903.1.1,Wall|Partition|Slab|Door|BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Mercantile (M)|Residential (R),sd|dd|cd,plumbing_systems,architect
+2903.1.2,Slab|Wall|Door|Covering,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Mercantile (M),sd|dd|cd,plumbing_systems,architect
+2903.1.3,Door|Window|Piping|BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,plumbing_systems,architect

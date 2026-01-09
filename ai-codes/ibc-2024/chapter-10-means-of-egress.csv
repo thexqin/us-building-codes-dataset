@@ -1,0 +1,460 @@
+id,ifc_type,occupancy,design_phase,code_category,primary_responsibility
+10,Stair|Ramp|Door|Wall|Slab,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Institutional (I),sd|dd|cd,means_of_egress,architect
+1001,,,,none,none
+1001.1,Door|Stair|Ramp|RampFlight|Slab,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,means_of_egress,architect
+1001.2,Door|Stair|Ramp|Slab|Wall,Assembly (A)|Business (B)|Educational (E)|Institutional (I)|Residential (R),sd|dd|cd,means_of_egress,architect
+1002,,,,none,none
+1002.1,Door|Stair|Ramp|RampFlight|Slab,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),cd|ca,means_of_egress,architect
+1002.2,BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),cd|ca,fire_protection_alarm_systems,fire_protection_engineer
+1003,,,,none,none
+1003.1,Door|Stair|Ramp|Wall|Slab,Assembly (A)|Business (B)|Educational (E)|Mercantile (M)|Residential (R),sd|dd|cd,means_of_egress,architect
+1003.2,Roof|Slab|Stair|Ramp|Door,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,means_of_egress,architect
+1003.3,Wall|Column|Beam|Door|Railing,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Mercantile (M),sd|dd|cd,accessibility,architect
+1003.3.1,Wall|Door|Slab,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Institutional (I),sd|dd|cd,means_of_egress,architect
+1003.3.2,Railing|Sign|Ramp|Stair,Assembly (A)|Business (B)|Educational (E)|Mercantile (M)|Residential (R),sd|dd|cd,accessibility,architect
+1003.3.3,Wall|Railing|Stair|Ramp|Door,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Mercantile (M),sd|dd|cd,accessibility,architect
+1003.3.4,Wall|Column|Beam|Railing,Assembly (A)|Business (B)|Educational (E)|Institutional (I)|Residential (R),sd|dd|cd,accessibility,architect
+1003.4,Slab|Stair|Ramp|StairFlight|RampFlight,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Institutional (I),sd|dd|cd,means_of_egress,architect
+1003.5,Ramp|Stair|Slab|Railing|Covering,Assembly (A)|Business (B)|Institutional (I)|Residential (R)|Mercantile (M),sd|dd|cd,means_of_egress,architect
+1003.6,Wall|Door|Stair|Ramp|Slab,Assembly (A)|Business (B)|Educational (E)|Institutional (I)|Residential (R),sd|dd|cd,means_of_egress,architect
+1003.7,Elevators|BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Institutional (I)|Residential (R),sd|dd|cd,means_of_egress,architect
+1004,,,,none,none
+1004.1,Door|Stair|Ramp|RampFlight|Slab,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Mercantile (M),sd|dd|cd,means_of_egress,architect
+1004.2,Wall|Door|Stair|Ramp|Slab,Assembly (A)|Business (B)|Educational (E)|Institutional (I)|Residential (R),sd|dd|cd,means_of_egress,architect
+1004.2.1,Wall|Door|Slab|Stair|Ramp,Assembly (A)|Business (B)|Educational (E)|Mercantile (M)|Residential (R),sd|dd|cd,means_of_egress,architect
+1004.2.2,Slab|Stair|StairFlight|Wall|Door,Assembly (A)|Business (B)|Educational (E)|Mercantile (M)|Residential (R),sd|dd|cd,means_of_egress,architect
+1004.2.3,Stair|StairFlight|Ramp|RampFlight|Door,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Mercantile (M),sd|dd|cd,means_of_egress,architect
+1004.3,Wall|Slab|Door,Assembly (A)|Business (B)|Educational (E)|Mercantile (M)|Residential (R),sd|dd|cd,occupancy_classification,architect
+1004.4,Door|Stair|Ramp|RampFlight|Slab,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Mercantile (M),sd|dd|cd,means_of_egress,architect
+1004.5,Slab|Wall|BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Mercantile (M),sd|dd|cd,means_of_egress,architect
+1004.5.1,Slab|Wall|Door,Assembly (A)|Business (B)|Educational (E)|Mercantile (M)|Institutional (I),sd|dd|cd,occupancy_classification,architect
+1004.6,Wall|Slab|Stair|Ramp|BuildingElementProxy,Assembly (A)|Educational (E)|Business (B),sd|dd|cd,occupancy_classification,architect
+1004.7,Slab|Railing|Door|Stair|Ramp,Assembly (A)|Business (B)|Residential (R),sd|dd|cd,means_of_egress,architect
+1004.8,Slab|Wall|Door|Window,Business (B),sd|dd|cd,occupancy_classification,architect
+1004.9,Wall|Door,Assembly (A),cd|ca,occupancy_classification,owner
+1005,,,,none,none
+1005.1,Wall|Door|Stair|Ramp|Slab,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,means_of_egress,architect
+1005.2,Door|Stair|StairFlight|Ramp|RampFlight,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,means_of_egress,architect
+1005.3,Door|Stair|Ramp|RampFlight|Slab,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,means_of_egress,architect
+1005.3.1,Stair|StairFlight,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Institutional (I),sd|dd|cd,means_of_egress,architect
+1005.3.2,Door|Ramp|RampFlight|Slab|BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Institutional (I)|High Hazard (H),sd|dd|cd,means_of_egress,architect
+1005.4,Door|Stair|Ramp|Corridor|Slab,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Institutional (I),sd|dd|cd,means_of_egress,architect
+1005.5,Door|Stair|Ramp|RampFlight|Slab,Assembly (A)|Business (B)|Educational (E)|Institutional (I)|Residential (R),sd|dd|cd,means_of_egress,architect
+1005.6,Stair|Ramp|StairFlight|RampFlight|Slab,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Institutional (I),sd|dd|cd,means_of_egress,architect
+1005.7,Wall|Column|Door|Stair|Railing,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Institutional (I),sd|dd|cd,means_of_egress,architect
+1005.7.1,Door|Wall,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Institutional (I),sd|dd|cd,means_of_egress,architect
+1005.7.2,Railing|Wall|Covering,Institutional (I),sd|dd|cd,means_of_egress,architect
+1005.7.3,Wall|Column|Door|Window,Assembly (A)|Business (B)|Educational (E)|Institutional (I)|Residential (R),sd|dd|cd,accessibility,architect
+1006,,,,none,none
+1006.1,Door|Stair|StairFlight|Ramp|Wall,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Mercantile (M),sd|dd|cd,means_of_egress,architect
+1006.2,Door|Stair|Ramp|Wall,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,means_of_egress,architect
+1006.2.1,Door|Wall|Stair|Ramp|Slab,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,means_of_egress,architect
+1006.2.1.1,Door|Wall|Stair|Ramp|Slab,Assembly (A)|Business (B)|Educational (E)|Mercantile (M)|Institutional (I),sd|dd|cd,means_of_egress,architect
+1006.2.2,Door|Stair|Ramp|RampFlight|Slab,Assembly (A)|Business (B)|Educational (E)|Institutional (I)|Residential (R),sd|dd|cd,means_of_egress,architect
+1006.2.2.1,Door|Wall|Ramp|Stair,Business (B)|Factory and Industrial (F)|Institutional (I)|Residential (R),sd|dd|cd,means_of_egress,architect
+1006.2.2.2,Door|Wall|Slab,Factory and Industrial (F)|Storage (S),sd|dd|cd,means_of_egress,architect
+1006.2.2.3,Door|Slab|Wall,Factory and Industrial (F)|Storage (S),sd|dd|cd,means_of_egress,architect
+1006.2.2.4,Door|Wall,Business (B)|Factory and Industrial (F)|Utility and Miscellaneous (U),sd|dd|cd,means_of_egress,architect
+1006.2.2.5,Ramp|RampFlight,Assembly (A)|Business (B)|Educational (E)|Mercantile (M)|Residential (R),sd|dd|cd,means_of_egress,architect
+1006.2.2.6,Wall|Door|Stair|Ramp|Slab,Residential (R),sd|dd|cd,means_of_egress,architect
+1006.3,Stair|StairFlight|Ramp|Door|Slab,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Institutional (I),sd|dd|cd,means_of_egress,architect
+1006.3.1,Stair|StairFlight|Door,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Institutional (I),sd|dd|cd,means_of_egress,architect
+1006.3.2,Stair|StairFlight|Ramp|Door,Residential (R)|Assembly (A),sd|dd|cd,means_of_egress,architect
+1006.3.3,Stair|Ramp|Door|Slab|Wall,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Mercantile (M),sd|dd|cd,means_of_egress,architect
+1006.3.4,Door|Stair|StairFlight|Slab|Wall,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,means_of_egress,architect
+1006.3.4.1,Stair|Ramp|Door|Wall,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Mercantile (M),sd|dd|cd,means_of_egress,architect
+1007,,,,none,none
+1007.1,Wall|Door|Stair|Ramp|Slab,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Institutional (I),sd|dd|cd,means_of_egress,architect
+1007.1.1,Door|Stair|Ramp|Wall,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|High Hazard (H),sd|dd|cd,means_of_egress,architect
+1007.1.1.1,Door|Stair|Ramp,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,means_of_egress,architect
+1007.1.2,Door|Wall|Stair|Ramp|Slab,Assembly (A)|Business (B)|Educational (E)|Institutional (I)|Residential (R),sd|dd|cd,means_of_egress,architect
+1007.1.3,Stair|Ramp|Wall,Assembly (A)|Business (B)|Educational (E)|Institutional (I)|Residential (R),sd|dd|cd,means_of_egress,architect
+1007.1.3.1,Stair|Ramp|StairFlight|RampFlight,Assembly (A)|Business (B)|Educational (E)|Institutional (I)|Residential (R),sd|dd|cd,means_of_egress,architect
+1008,,,,none,none
+1008.1,Wall|Slab|Door|Stair|Ramp,Assembly (A)|Business (B)|Educational (E)|Institutional (I)|Residential (R),sd|dd|cd,means_of_egress,architect
+1008.2,Slab|Stair|Door|Ramp|RampFlight,Assembly (A)|Business (B)|Educational (E)|Institutional (I)|Mercantile (M),sd|dd|cd,means_of_egress,architect
+1008.2.1,Stair|StairFlight|Slab|Ramp,Assembly (A)|Business (B)|Educational (E)|Institutional (I)|Residential (R),sd|dd|cd,means_of_egress,architect
+1008.2.2,Slab|Door,Institutional (I),sd|dd|cd,means_of_egress,architect
+1008.2.3,Slab|Pavement|Railing|Covering,Assembly (A)|Business (B)|Educational (E)|Mercantile (M)|Residential (R),sd|dd|cd,means_of_egress,architect
+1008.2.4,Wall|Door|Stair|StairFlight|Ramp,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,means_of_egress,electrical_engineer
+1008.3,Wall|Stair|Ramp|Slab|Door,Assembly (A)|Business (B)|Educational (E)|Institutional (I)|Residential (R),sd|dd|cd,fire_protection_alarm_systems,electrical_engineer
+1008.3.1,BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Institutional (I),dd|cd,electrical_systems,electrical_engineer
+1008.3.2,Slab|Stair|Ramp|Door|Window,Institutional (I)|Assembly (A)|Business (B)|Educational (E)|Residential (R),sd|dd|cd,means_of_egress,electrical_engineer
+1009,,,,none,none
+1009.1,Ramp|Stair|Door|RampFlight|Slab,Assembly (A)|Business (B)|Educational (E)|Institutional (I)|Residential (R),sd|dd|cd,accessibility,architect
+1009.2,Stair|Ramp|Door|Elevator|Window,Assembly (A)|Business (B)|Educational (E)|Institutional (I)|Residential (R),sd|dd|cd,accessibility,architect
+1009.2.1,Elevators|Ramp|Stair|Door,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|High Hazard (H),sd|dd|cd,means_of_egress,architect
+1009.2.2,Door|Wall,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|High Hazard (H),sd|dd|cd,accessibility,architect
+1009.3,Stair|StairFlight,Assembly (A)|Business (B)|Educational (E)|Institutional (I)|Mercantile (M),sd|dd|cd,accessibility,architect
+1009.3.1,Stair|StairFlight|Ramp,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Institutional (I),sd|dd|cd,accessibility,architect
+1009.3.2,Stair|StairFlight|Railing,Assembly (A)|Business (B)|Educational (E)|Institutional (I)|Residential (R),sd|dd|cd,means_of_egress,architect
+1009.3.3,Stair|Slab|Wall,Assembly (A)|Residential (R)|Business (B)|Storage (S)|Utility and Miscellaneous (U),sd|dd|cd,means_of_egress,architect
+1009.4,BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Institutional (I)|Residential (R),sd|dd|cd,accessibility,architect
+1009.4.1,ElevatorsConveyingSystems|BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Institutional (I)|Residential (R),dd|cd,elevators_conveying_systems,electrical_engineer
+1009.4.2,Door|Ramp|Slab|Wall|CurtainWall,Assembly (A)|Business (B)|Residential (R)|Parking (U),sd|dd|cd,accessibility,architect
+1009.5,Ramp|RampFlight,Assembly (A)|Business (B)|Educational (E)|Institutional (I)|Residential (R),sd|dd|cd,accessibility,architect
+1009.6,Door|Ramp|Stair|Corridor|Wall,Assembly (A)|Business (B)|Educational (E)|Institutional (I)|Residential (R),sd|dd|cd,means_of_egress,architect
+1009.6.1,Ramp|RampFlight|Stair|Door|Wall,Assembly (A)|Business (B)|Educational (E)|Institutional (I)|Residential (R),sd|dd|cd,means_of_egress,architect
+1009.6.2,Stair|StairFlight|Door|Elevators_Conveying_Systems,Assembly (A)|Business (B)|Educational (E)|Institutional (I)|Residential (R),sd|dd|cd,accessibility,architect
+1009.6.3,Stair|Ramp|Wall,Assembly (A)|Business (B)|Educational (E)|Institutional (I)|Residential (R),sd|dd|cd,accessibility,architect
+1009.6.4,Wall|Door|Stair|Slab,Assembly (A)|Business (B)|Educational (E)|Institutional (I)|Residential (R),sd|dd|cd,fire_resistance_smoke_protection,architect
+1009.6.5,Wall|Door,Assembly (A)|Business (B)|Educational (E)|Institutional (I)|Residential (R),sd|dd|cd,accessibility,architect
+1009.7,Ramp|Stair|Slab|Door,Assembly (A)|Business (B)|Educational (E)|Institutional (I)|Residential (R),sd|dd|cd,accessibility,architect
+1009.7.1,Slab|Ramp|Railing|Wall,Assembly (A)|Business (B)|Educational (E)|Institutional (I)|Residential (R),sd|dd|cd,accessibility,architect
+1009.7.2,Wall|Door|Window,Assembly (A)|Business (B)|Educational (E)|Institutional (I)|Residential (R),sd|dd|cd,fire_resistance_smoke_protection,architect
+1009.7.3,Wall|Slab|Railing,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Institutional (I),sd|dd|cd,means_of_egress,architect
+1009.7.4,Stair|StairFlight|Railing,Assembly (A)|Business (B)|Educational (E)|Institutional (I)|Residential (R),sd|dd|cd,means_of_egress,architect
+1009.8,Elevator|BuildingElementProxy,Business (B)|Assembly (A)|Residential (R)|Institutional (I)|Mercantile (M),sd|dd|cd,accessibility,architect
+1009.8.1,BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Institutional (I)|Residential (R),sd|dd|cd,fire_protection_alarm_systems,fire_protection_engineer
+1009.8.2,Wall|Door,Assembly (A)|Business (B)|Educational (E)|Institutional (I)|Residential (R),cd|ca,accessibility,architect
+1009.9,Door|Wall,Assembly (A)|Business (B)|Educational (E)|Institutional (I)|Residential (R),sd|dd|cd,accessibility,architect
+1009.10,Door|Stair|Elevator|Ramp|Wall,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,accessibility,architect
+1009.11,Wall|Door,Assembly (A)|Business (B)|Educational (E)|Institutional (I)|Residential (R),sd|dd|cd,accessibility,architect
+1010,,,,none,none
+1010.1,Door,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|High Hazard (H),sd|dd|cd,means_of_egress,architect
+1010.1.1,Door,Institutional (I)|Residential (R)|Storage (S)|Assembly (A)|Business (B),sd|dd|cd,means_of_egress,architect
+1010.1.1.1,Door|Wall,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,means_of_egress,architect
+1010.1.2,Door,Business (B)|Factory and Industrial (F)|Institutional (I)|Residential (R)|Storage (S),sd|dd|cd,means_of_egress,architect
+1010.1.2.1,Door,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|High Hazard (H),sd|dd|cd,means_of_egress,architect
+1010.1.3,Door,Assembly (A)|Business (B)|Educational (E)|Institutional (I)|Residential (R),sd|dd|cd,means_of_egress,architect
+1010.1.3.1,Door,Assembly (A)|Business (B)|Educational (E)|Institutional (I)|Residential (R),sd|dd|cd,means_of_egress,architect
+1010.1.3.2,Door,Assembly (A)|Business (B)|Educational (E)|Institutional (I)|Residential (R),sd|dd|cd,means_of_egress,architect
+1010.1.4,Door|Slab|Stair,Factory and Industrial (F)|High Hazard (H)|Residential (R)|Storage (S)|Utility and Miscellaneous (U),sd|dd|cd,means_of_egress,architect
+1010.1.5,Door|Stair|StairFlight|Slab,Residential (R)|Utility and Miscellaneous (U),sd|dd|cd,means_of_egress,architect
+1010.1.6,Door|Slab,Residential (R),sd|dd|cd,means_of_egress,architect
+1010.1.7,Door|Wall,Residential (R)|Assembly (A)|Business (B)|Educational (E)|Institutional (I),sd|dd|cd,means_of_egress,architect
+1010.2,Door,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Institutional (I),sd|dd|cd,means_of_egress,architect
+1010.2.1,Door,Assembly (A)|Business (B)|Educational (E)|Institutional (I)|Mercantile (M),sd|dd|cd,means_of_egress,architect
+1010.2.2,Door,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|High Hazard (H),sd|dd|cd,accessibility,architect
+1010.2.3,Door,Assembly (A)|Business (B)|Educational (E)|Mercantile (M)|Residential (R),sd|dd|cd,accessibility,architect
+1010.2.4,Door,Assembly (A)|Business (B)|Factory and Industrial (F)|Institutional (I)|Mercantile (M),sd|dd|cd,means_of_egress,architect
+1010.2.5,Door,Residential (R)|Educational (E)|Institutional (I)|Assembly (A)|Business (B),sd|dd|cd,means_of_egress,architect
+1010.2.6,Door|Stair,Business (B)|Factory and Industrial (F)|Mercantile (M)|Residential (R)|Storage (S),sd|dd|cd,means_of_egress,architect
+1010.2.7,Door,Educational (E)|Business (B)|Institutional (I),sd|dd|cd,means_of_egress,architect
+1010.2.8,Door,High Hazard (H)|Assembly (A)|Educational (E),sd|dd|cd,means_of_egress,architect
+1010.2.8.1,Door|Wall|Slab,Factory and Industrial (F),sd|dd|cd,means_of_egress,architect
+1010.2.8.2,Door|Wall,Business (B)|Factory and Industrial (F)|Utility and Miscellaneous (U),sd|dd|cd,means_of_egress,architect
+1010.2.8.3,Door,Assembly (A)|Business (B)|Educational (E)|Institutional (I)|Mercantile (M),sd|dd|cd,means_of_egress,architect
+1010.2.8.4,Door,Assembly (A)|Educational (E)|Business (B)|Institutional (I)|Mercantile (M),sd|dd|cd,means_of_egress,architect
+1010.2.9,Door,Assembly (A)|Business (B)|Educational (E)|Institutional (I)|Residential (R),sd|dd|cd,means_of_egress,architect
+1010.2.10,Door,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Institutional (I),sd|dd|cd,means_of_egress,architect
+1010.2.11,Door|BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Institutional (I)|Mercantile (M),sd|dd|cd,means_of_egress,architect
+1010.2.12,Door,Business (B)|Factory and Industrial (F)|Institutional (I)|Mercantile (M)|Residential (R),sd|dd|cd,means_of_egress,architect
+1010.2.12.1,Door|Wall,Institutional (I)|Assembly (A)|Business (B),sd|dd|cd,means_of_egress,architect
+1010.2.13,Door,Institutional (I),sd|dd|cd,means_of_egress,architect
+1010.2.14,Door|Slab|Railing,Assembly (A)|Business (B)|Educational (E)|Institutional (I)|Residential (R),sd|dd|cd,means_of_egress,architect
+1010.2.15,Door,Institutional (I),sd|dd|cd,means_of_egress,architect
+1010.3,Door,Assembly (A)|Business (B)|Educational (E)|Mercantile (M)|Residential (R),sd|dd|cd,means_of_egress,architect
+1010.3.1,Door|Wall,Assembly (A)|Business (B)|Educational (E)|Mercantile (M)|Residential (R),sd|dd|cd,means_of_egress,architect
+1010.3.1.1,Door,Assembly (A)|Business (B)|Educational (E)|Institutional (I)|Mercantile (M),sd|dd|cd,means_of_egress,architect
+1010.3.1.2,Door,Assembly (A)|Business (B)|Educational (E)|Mercantile (M)|Residential (R),sd|dd|cd,means_of_egress,architect
+1010.3.2,Door,Assembly (A)|Business (B)|Educational (E)|Institutional (I)|Residential (R),sd|dd|cd,means_of_egress,architect
+1010.3.3,Door,"Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Institutional (I),",sd|dd|cd,means_of_egress,architect
+1010.3.4,Door,Business (B)|Factory and Industrial (F)|Mercantile (M)|Storage (S),sd|dd|cd,means_of_egress,architect
+1010.4,Door|Railing,Assembly (A)|Business (B)|Educational (E)|Mercantile (M)|Residential (R),sd|dd|cd,means_of_egress,architect
+1010.4.1,Door|Fence|BuildingElementProxy,Assembly (A),sd|dd|cd,means_of_egress,architect
+1010.5,BuildingElementProxy|Door,Assembly (A)|Business (B)|Mercantile (M)|Institutional (I),sd|dd|cd,means_of_egress,architect
+1010.5.1,BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Mercantile (M)|Institutional (I),sd|dd|cd,means_of_egress,architect
+1010.5.1.1,BuildingElementProxy|Door,Assembly (A)|Business (B)|Educational (E)|Institutional (I)|Mercantile (M),sd|dd|cd,accessibility,architect
+1010.5.2,BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Institutional (I)|Mercantile (M),sd|dd|cd,means_of_egress,architect
+1010.5.3,Door|BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Institutional (I)|Mercantile (M),sd|dd|cd,means_of_egress,architect
+1010.5.4,Door,Assembly (A)|Business (B)|Educational (E)|Mercantile (M)|Institutional (I),sd|dd|cd,means_of_egress,architect
+1011,,,,none,none
+1011.1,Stair|StairFlight|Ramp|Slab,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,means_of_egress,architect
+1011.2,Stair|StairFlight|Railing|Ramp,Residential (R)|Assembly (A)|Business (B)|Institutional (I),sd|dd|cd,means_of_egress,architect
+1011.3,Stair|StairFlight|Slab,Residential (R)|Utility and Miscellaneous (U),sd|dd|cd,means_of_egress,architect
+1011.4,Stair|StairFlight,Assembly (A)|Business (B)|Educational (E)|Residential (R),sd|dd|cd,means_of_egress,architect
+1011.5,Stair|StairFlight,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Institutional (I),sd|dd|cd,means_of_egress,architect
+1011.5.1,Stair|Ramp|StairFlight|RampFlight|Slab,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Institutional (I),sd|dd|cd,means_of_egress,architect
+1011.5.2,Stair|StairFlight|Slab,Residential (R)|Institutional (I)|Utility and Miscellaneous (U),sd|dd|cd,means_of_egress,architect
+1011.5.3,Stair|StairFlight,Residential (R)|Assembly (A)|Business (B)|Educational (E)|Institutional (I),sd|dd|cd,means_of_egress,architect
+1011.5.4,Stair|StairFlight,Assembly (A)|Business (B)|Educational (E)|Institutional (I)|Residential (R),sd|dd|cd,means_of_egress,architect
+1011.5.4.1,Stair|Slab,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Institutional (I),sd|dd|cd,means_of_egress,architect
+1011.5.5,Stair|StairFlight,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Mercantile (M),sd|dd|cd,means_of_egress,architect
+1011.5.5.1,Stair|StairFlight,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,means_of_egress,architect
+1011.5.5.2,Stair|StairFlight|Slab,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Institutional (I),sd|dd|cd,means_of_egress,architect
+1011.5.5.3,Stair|StairFlight,Institutional (I)|Factory and Industrial (F)|High Hazard (H)|Storage (S),sd|dd|cd,means_of_egress,architect
+1011.6,Stair|StairFlight|Slab|Door,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Institutional (I),sd|dd|cd,means_of_egress,architect
+1011.7,Stair|StairFlight|Railing,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,construction_type_ratings,architect
+1011.7.1,Stair|StairFlight|Slab,Factory and Industrial (F)|High Hazard (H)|Storage (S)|Business (B)|Assembly (A),sd|dd|cd,means_of_egress,architect
+1011.7.2,Stair|StairFlight|Slab|Ramp,Assembly (A)|Business (B)|Educational (E)|Mercantile (M)|Residential (R),sd|dd|cd,means_of_egress,architect
+1011.7.3,Wall|Slab|Stair|StairFlight|Door,Residential (R)|Assembly (A)|Business (B),sd|dd|cd,fire_resistance_smoke_protection,architect
+1011.7.4,Stair|Slab|Wall,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Mercantile (M),sd|dd|cd,fire_resistance_smoke_protection,architect
+1011.8,Stair|StairFlight,Assembly (A)|Business (B)|Educational (E)|Institutional (I)|Residential (R),sd|dd|cd,means_of_egress,architect
+1011.9,Stair|StairFlight,Residential (R),sd|dd|cd,means_of_egress,architect
+1011.10,Stair|Railing,Residential (R),sd|dd|cd,means_of_egress,architect
+1011.11,Stair|StairFlight|Railing,Residential (R)|Assembly (A)|Business (B)|Educational (E)|Institutional (I),sd|dd|cd,means_of_egress,architect
+1011.12,Stair|StairFlight|Roof,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Institutional (I),sd|dd|cd,means_of_egress,architect
+1011.12.1,Stair|Roof,Business (B)|Residential (R)|Assembly (A)|Institutional (I)|Mercantile (M),sd|dd|cd,means_of_egress,architect
+1011.12.2,Stair|Roof|Slab|Door,Assembly (A)|Business (B)|Educational (E)|Institutional (I)|Residential (R),sd|dd|cd,means_of_egress,architect
+1011.13,Stair|StairFlight|Slab|Railing|Roof,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,means_of_egress,architect
+1011.14,Stair|Ramp,Factory and Industrial (F)|High Hazard (H)|Storage (S)|Institutional (I),sd|dd|cd,means_of_egress,architect
+1011.14.1,Stair|Railing,Assembly (A)|Business (B)|Educational (E)|Institutional (I)|Residential (R),sd|dd|cd,means_of_egress,architect
+1011.14.2,Stair|StairFlight,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Mercantile (M),sd|dd|cd,means_of_egress,architect
+1011.15,Stair|Railing,Institutional (I),sd|dd|cd,means_of_egress,architect
+1011.15.1,Stair|Railing,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Utility and Miscellaneous (U),sd|dd|cd,means_of_egress,architect
+1011.15.2,Stair|StairFlight,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Utility and Miscellaneous (U),sd|dd|cd,means_of_egress,architect
+1011.16,Stair|Ramp|RampFlight,Assembly (A)|Business (B)|Institutional (I)|Utility and Miscellaneous (U),sd|dd|cd,means_of_egress,architect
+1012,,,,none,none
+1012.1,Ramp|RampFlight,Assembly (A)|Business (B)|Educational (E)|Mercantile (M)|Residential (R),sd|dd|cd,means_of_egress,architect
+1012.2,Ramp|RampFlight,Assembly (A)|Business (B)|Educational (E)|Mercantile (M)|Residential (R),sd|dd|cd,means_of_egress,architect
+1012.3,Ramp,Assembly (A)|Business (B)|Educational (E)|Mercantile (M)|Residential (R),sd|dd|cd,accessibility,architect
+1012.4,Ramp|RampFlight,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Institutional (I),sd|dd|cd,accessibility,architect
+1012.5,Ramp|RampFlight,Assembly (A)|Business (B)|Educational (E)|Institutional (I)|Residential (R),sd|dd|cd,means_of_egress,architect
+1012.5.1,Ramp|Railing,Assembly (A)|Business (B)|Educational (E)|Institutional (I)|Residential (R),sd|dd|cd,means_of_egress,architect
+1012.5.2,Ramp|Slab,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Institutional (I),sd|dd|cd,means_of_egress,architect
+1012.5.3,Ramp|RampFlight|Door|Slab,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,means_of_egress,architect
+1012.6,Ramp|RampFlight|Slab|Door,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,means_of_egress,architect
+1012.6.1,Slab|Ramp|Stair|StairFlight,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Institutional (I),sd|dd|cd,means_of_egress,architect
+1012.6.2,Ramp|RampFlight|Slab,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,means_of_egress,architect
+1012.6.3,Ramp|RampFlight|Slab,Residential (R),sd|dd|cd,accessibility,architect
+1012.6.4,Ramp|RampFlight|Slab,Residential (R),sd|dd|cd,accessibility,architect
+1012.6.5,Door|Ramp|Slab,Assembly (A)|Business (B)|Educational (E)|Institutional (I)|Residential (R),sd|dd|cd,accessibility,architect
+1012.7,Ramp|Railing,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Institutional (I),sd|dd|cd,finishes_materials,architect
+1012.7.1,Ramp|RampFlight|Covering,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,finishes_materials,architect
+1012.7.2,Ramp|RampFlight|Slab|Pavement,Assembly (A)|Business (B)|Educational (E)|Mercantile (M)|Residential (R),sd|dd|cd,accessibility,architect
+1012.8,Ramp|Railing,Assembly (A)|Business (B)|Educational (E)|Institutional (I)|Residential (R),sd|dd|cd,means_of_egress,architect
+1012.9,Railing|Stair|Ramp|Slab,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Institutional (I),sd|dd|cd,means_of_egress,architect
+1012.10,Ramp|RampFlight|Slab,Assembly (A)|Business (B)|Educational (E)|Institutional (I)|Residential (R),sd|dd|cd,accessibility,architect
+1012.10.1,Kerb|Railing|Wall|Slab,Assembly (A)|Business (B)|Educational (E)|Institutional (I)|Mercantile (M),sd|dd|cd,means_of_egress,architect
+1012.10.2,Ramp|Slab|Railing,Assembly (A)|Business (B)|Educational (E)|Mercantile (M)|Residential (R),sd|dd|cd,means_of_egress,architect
+1013,,,,none,none
+1013.1,Door|Wall|BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Institutional (I)|Residential (R),sd|dd|cd,means_of_egress,architect
+1013.2,Wall|Door|BuildingElementProxy,Residential (R),sd|dd|cd,means_of_egress,architect
+1013.3,Wall|Door,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,means_of_egress,architect
+1013.4,Door|Ramp|Stair|StairFlight|Wall,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Institutional (I),sd|dd|cd,accessibility,architect
+1013.5,Covering,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|High Hazard (H),dd|cd,fire_protection_alarm_systems,electrical_engineer
+1013.5.1,Wall|Door,Assembly (A)|Business (B)|Educational (E)|Institutional (I)|Residential (R),sd|dd|cd,means_of_egress,architect
+1013.6,Door|Wall|Stair|Ramp|BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,means_of_egress,architect
+1013.6.1,Wall|Door,Assembly (A)|Business (B)|Educational (E)|Institutional (I)|Residential (R),sd|dd|cd,means_of_egress,architect
+1013.6.2,Door|Wall,Assembly (A)|Business (B)|Educational (E)|Institutional (I)|Residential (R),sd|dd|cd,means_of_egress,architect
+1013.6.3,BuildingElementProxy,Institutional (I),cd|ca,fire_protection_alarm_systems,electrical_engineer
+1014,,,,none,none
+1014.1,Railing|Stair|StairFlight|Ramp|RampFlight,Assembly (A)|Business (B)|Educational (E)|Institutional (I)|Residential (R),sd|dd|cd,means_of_egress,architect
+1014.2,Railing|Stair|StairFlight|Ramp,Residential (R)|Utility and Miscellaneous (U),sd|dd|cd,means_of_egress,architect
+1014.3,Railing|Stair|Ramp|RampFlight|StairFlight,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|High Hazard (H),sd|dd|cd,means_of_egress,architect
+1014.4,Railing|Stair|StairFlight|Ramp|RampFlight,Residential (R)|Utility and Miscellaneous (U),sd|dd|cd,means_of_egress,architect
+1014.4.1,Railing|Stair|Ramp,Assembly (A)|Business (B)|Educational (E)|Institutional (I)|Residential (R),sd|dd|cd,means_of_egress,architect
+1014.4.2,Railing,Assembly (A)|Business (B)|Educational (E)|Institutional (I)|Residential (R),sd|dd|cd,means_of_egress,architect
+1014.5,Railing|Stair|Ramp,Residential (R)|Assembly (A)|Business (B)|Educational (E)|Institutional (I),sd|dd|cd,means_of_egress,architect
+1014.6,Railing,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Institutional (I),sd|dd|cd,means_of_egress,architect
+1014.7,Railing|Stair|Ramp,Assembly (A)|Business (B)|Educational (E)|Institutional (I)|Residential (R),sd|dd|cd,means_of_egress,architect
+1014.8,Railing|Wall,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Institutional (I),sd|dd|cd,means_of_egress,architect
+1014.9,Ramp|Railing|Stair|StairFlight,Assembly (A)|Business (B)|Educational (E)|Institutional (I)|Residential (R),sd|dd|cd,means_of_egress,architect
+1014.10,Stair|StairFlight|Railing,Assembly (A)|Business (B)|Educational (E)|Institutional (I)|Residential (R),sd|dd|cd,means_of_egress,architect
+1015,,,,none,none
+1015.1,Railing|Window,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Institutional (I),sd|dd|cd,means_of_egress,architect
+1015.2,Railing|Ramp|Stair|Slab|Roof,Assembly (A)|Business (B)|Educational (E)|Institutional (I)|Residential (R),sd|dd|cd,means_of_egress,architect
+1015.2.1,Railing|Wall|Slab|Window,Assembly (A)|Business (B)|Educational (E)|Institutional (I)|Residential (R),sd|dd|cd,means_of_egress,architect
+1015.3,Railing|Stair|Ramp,Residential (R)|Assembly (A)|Factory and Industrial (F),sd|dd|cd,means_of_egress,architect
+1015.4,Railing|Stair|Ramp,Assembly (A)|Factory and Industrial (F)|High Hazard (H)|Institutional (I)|Residential (R),sd|dd|cd,means_of_egress,architect
+1015.5,Railing|Slab|Covering,Residential (R)|Assembly (A),sd|dd|cd,means_of_egress,architect
+1015.6,Railing|Roof|Slab,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Mercantile (M),sd|dd|cd,means_of_egress,architect
+1015.7,Railing|Slab|Roof,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,means_of_egress,architect
+1015.8,Window,Residential (R),sd|dd|cd,fire_resistance_smoke_protection,architect
+1016,,,,none,none
+1016.1,Wall|Door|Stair|Corridor|Ramp,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,means_of_egress,architect
+1016.2,Door|Wall|BuildingElementProxy,Assembly (A)|Business (B)|Mercantile (M)|Residential (R)|High Hazard (H),sd|dd|cd,means_of_egress,architect
+1016.2.1,Wall|Door|Slab,Assembly (A)|Business (B)|Educational (E)|Mercantile (M)|Residential (R),sd|dd|cd,means_of_egress,architect
+1017,,,,none,none
+1017.1,Wall|Door|Stair|Slab|Ramp,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,means_of_egress,architect
+1017.2,Wall|Door|Stair|Slab,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|High Hazard (H),sd|dd|cd,means_of_egress,architect
+1017.2.1,Slab|Railing|Door,Assembly (A)|Business (B)|Educational (E)|Residential (R),sd|dd|cd,means_of_egress,architect
+1017.2.2,Wall|Door|Slab|Roof,Factory and Industrial (F)|Storage (S),sd|dd|cd,means_of_egress,architect
+1017.2.3,Wall|Slab|Door,High Hazard (H),sd|dd|cd,means_of_egress,architect
+1017.3,Stair|Ramp|Door|Slab,Assembly (A)|Business (B)|Residential (R)|Storage (S)|Utility and Miscellaneous (U),sd|dd|cd,means_of_egress,architect
+1017.3.1,Stair|Ramp|RampFlight|StairFlight,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Institutional (I),sd|dd|cd,means_of_egress,architect
+1017.3.2,Slab|Wall|Railing|Stair|Door,Assembly (A)|Business (B)|Educational (E)|Mercantile (M)|Residential (R),sd|dd|cd,means_of_egress,architect
+1017.3.2.1,Wall|Door|Stair|Ramp|Slab,Assembly (A)|Business (B)|Educational (E)|Institutional (I)|Mercantile (M),sd|dd|cd,means_of_egress,architect
+1017.3.2.2,Stair|Ramp|Door|Slab|Wall,Assembly (A)|Business (B)|Educational (E)|Mercantile (M)|Residential (R),sd|dd|cd,means_of_egress,architect
+1017.3.2.3,Stair|StairFlight|Ramp|RampFlight|Slab,Assembly (A)|Business (B)|Educational (E)|Mercantile (M)|Residential (R),sd|dd|cd,means_of_egress,architect
+1018,,,,none,none
+1018.1,Slab|Ramp|Stair|Railing,Assembly (A)|Business (B)|Educational (E)|Institutional (I)|Mercantile (M),sd|dd|cd,means_of_egress,architect
+1018.2,Slab|Ramp|Stair,Assembly (A),sd|dd|cd,means_of_egress,architect
+1018.3,Wall|Slab|Door,Business (B)|Mercantile (M),sd|dd|cd,means_of_egress,architect
+1018.4,Slab|Covering,Mercantile (M),sd|dd|cd,means_of_egress,architect
+1018.5,Wall|Corridor|Slab,Educational (E)|Factory and Industrial (F)|High Hazard (H)|Institutional (I)|Residential (R),sd|dd|cd,means_of_egress,architect
+1019,,,,none,none
+1019.1,Stair|Ramp|RampFlight,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,means_of_egress,architect
+1019.2,Stair|Ramp|StairFlight|RampFlight,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|High Hazard (H),sd|dd|cd,means_of_egress,architect
+1019.3,Stair|Ramp|Wall|Slab,Assembly (A)|Business (B)|Residential (R)|Mercantile (M)|Storage (S),sd|dd|cd,means_of_egress,architect
+1019.4,Stair|Ramp|Wall|Slab,Institutional (I),sd|dd|cd,means_of_egress,architect
+1020,,,,none,none
+1020.1,Wall|Door|Slab,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Institutional (I),sd|dd|cd,means_of_egress,architect
+1020.2,Wall|Door,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|High Hazard (H),sd|dd|cd,fire_resistance_smoke_protection,architect
+1020.2.1,Door|Wall,Assembly (A)|Business (B)|Educational (E)|Institutional (I)|Residential (R),sd|dd|cd,fire_resistance_smoke_protection,architect
+1020.3,Wall|Slab|Door,Institutional (I)|Educational (E)|Assembly (A)|Residential (R),sd|dd|cd,means_of_egress,architect
+1020.4,Wall|Door|Slab|Stair|Railing,Assembly (A)|Business (B)|Educational (E)|Institutional (I)|Residential (R),sd|dd|cd,means_of_egress,architect
+1020.5,Wall|Door|Slab,Business (B)|Educational (E)|Factory and Industrial (F)|Institutional (I)|Residential (R),sd|dd|cd,means_of_egress,architect
+1020.6,Wall|Door|Slab,Business (B)|Institutional (I)|Residential (R)|Assembly (A),sd|dd|cd,mechanical_systems,mechanical_engineer
+1020.6.1,Slab|Covering|Roof|Wall,Business (B)|Educational (E)|Institutional (I)|Residential (R),sd|dd|cd,fire_resistance_smoke_protection,architect
+1020.7,Wall|Door|Ramp|Stair|Slab,Assembly (A)|Business (B)|Educational (E)|Institutional (I)|Residential (R),sd|dd|cd,fire_resistance_smoke_protection,architect
+1021,,,,none,none
+1021.1,Slab|Railing|Wall,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Institutional (I),sd|dd|cd,means_of_egress,architect
+1021.2,Wall|Door|Stair|Slab,Assembly (A)|Business (B)|Educational (E)|Residential (R),sd|dd|cd,means_of_egress,architect
+1021.3,Railing|Slab|Covering,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Institutional (I),sd|dd|cd,means_of_egress,architect
+1021.4,Slab|Railing|Wall,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Institutional (I),sd|dd|cd,means_of_egress,architect
+1022,,,,none,none
+1022.1,Wall|Door|Stair|StairFlight|Ramp,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,means_of_egress,architect
+1022.2,Door|Wall,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|High Hazard (H),sd|dd|cd,means_of_egress,architect
+1022.2.1,Door,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Mercantile (M),sd|dd|cd,means_of_egress,architect
+1022.2.2,Door|Slab,Assembly (A)|Business (B)|Educational (E)|Mercantile (M)|Residential (R),sd|dd|cd,means_of_egress,architect
+1023,,,,none,none
+1023.1,Stair|StairFlight|Ramp|Wall|Door,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,means_of_egress,architect
+1023.2,Stair|Ramp|Wall|Slab,Assembly (A)|Business (B)|Educational (E)|Institutional (I)|Residential (R),sd|dd|cd,fire_resistance_smoke_protection,architect
+1023.3,Stair|Ramp|Wall|Door,Assembly (A)|Business (B)|Educational (E)|Institutional (I)|Residential (R),sd|dd|cd,means_of_egress,architect
+1023.3.1,Wall|Door|Stair|Ramp|Slab,Assembly (A)|Business (B)|Educational (E)|Institutional (I)|Residential (R),sd|dd|cd,means_of_egress,architect
+1023.4,Door|Wall|Stair|Ramp,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,means_of_egress,architect
+1023.5,Wall|Stair|Ramp|Beam|Slab,Assembly (A)|Business (B)|Educational (E)|Institutional (I)|Residential (R),sd|dd|cd,fire_resistance_smoke_protection,architect
+1023.6,Stair|Ramp|Wall|Slab,Assembly (A)|Business (B)|Educational (E)|Institutional (I)|Residential (R),sd|dd|cd,mechanical_systems,mechanical_engineer
+1023.7,Wall|Stair|Ramp,Assembly (A)|Business (B)|Educational (E)|Residential (R),sd|dd|cd,fire_resistance_smoke_protection,architect
+1023.7.1,Wall|Door|Window,Assembly (A)|Business (B)|Educational (E)|Residential (R),sd|dd|cd,fire_resistance_smoke_protection,architect
+1023.7.2,Stair|Ramp|Roof|Slab|Door,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Institutional (I),sd|dd|cd,fire_resistance_smoke_protection,architect
+1023.8,Stair|Ramp|Barrier|Sign,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,means_of_egress,architect
+1023.9,Stair|Ramp|Door,Assembly (A)|Business (B)|Educational (E)|Institutional (I)|Residential (R),dd|cd,means_of_egress,architect
+1023.9.1,Stair|Ramp,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),cd|ca,means_of_egress,architect
+1023.10,Door|Wall,Assembly (A)|Business (B)|Educational (E)|Institutional (I)|Residential (R),cd|ca,means_of_egress,architect
+1023.11,Stair|Ramp|Door,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,accessibility,architect
+1023.12,Stair|Ramp|Wall|Door,Assembly (A)|Business (B)|Residential (R)|Institutional (I)|Mercantile (M),sd|dd|cd,fire_resistance_smoke_protection,architect
+1023.12.1,Wall|Door|Slab|Stair|BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Institutional (I)|Residential (R),sd|dd|cd,means_of_egress,architect
+1023.12.2,Stair|Ramp|Wall|Door,Assembly (A)|Business (B)|Educational (E)|Institutional (I)|Residential (R),sd|dd|cd,means_of_egress,architect
+1023.13,Wall|Stair|StairFlight,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Institutional (I),sd|dd|cd,fire_protection_alarm_systems,fire_protection_engineer
+1024,,,,none,none
+1024.1,Wall|Slab|Door,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Institutional (I),sd|dd|cd,means_of_egress,architect
+1024.2,Wall|Slab|Ramp|RampFlight|Door,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,means_of_egress,architect
+1024.3,Wall|Slab|Stair|Ramp,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,fire_resistance_smoke_protection,architect
+1024.4,Wall|Door|Slab,Assembly (A)|Business (B)|Educational (E)|Institutional (I)|Residential (R),sd|dd|cd,means_of_egress,architect
+1024.5,Wall|Door|Stair|Ramp,Assembly (A)|Business (B)|Educational (E)|Institutional (I)|Residential (R),sd|dd|cd,means_of_egress,architect
+1024.6,Wall|Beam|Slab,Assembly (A)|Business (B)|Educational (E)|Institutional (I)|Residential (R),sd|dd|cd,fire_resistance_smoke_protection,architect
+1024.7,Slab|Wall,Assembly (A)|Business (B)|Educational (E)|Institutional (I)|Residential (R),sd|dd|cd,mechanical_systems,mechanical_engineer
+1024.8,Wall|Door|Window,Assembly (A)|Business (B)|Educational (E)|Institutional (I)|Residential (R),sd|dd|cd,fire_resistance_smoke_protection,architect
+1024.9,Wall|BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),dd|cd,fire_protection_alarm_systems,fire_protection_engineer
+1025,,,,none,none
+1025.1,Wall|Door|Stair|Ramp|Slab,Assembly (A)|Business (B)|Educational (E)|Institutional (I)|Mercantile (M),sd|dd|cd,means_of_egress,architect
+1025.2,Stair|Ramp|RampFlight|Slab|Wall,Assembly (A)|Business (B)|Educational (E)|Institutional (I)|Residential (R),sd|dd|cd,means_of_egress,architect
+1025.2.1,Stair|StairFlight,Assembly (A)|Business (B)|Educational (E)|Institutional (I)|Residential (R),sd|dd|cd,accessibility,architect
+1025.2.2,Ramp|Stair|StairFlight|Slab,Assembly (A)|Business (B)|Educational (E)|Institutional (I)|Residential (R),sd|dd|cd,accessibility,architect
+1025.2.3,Railing,Assembly (A)|Business (B)|Educational (E)|Institutional (I)|Residential (R),sd|dd|cd,accessibility,architect
+1025.2.4,Stair|StairFlight|Ramp|RampFlight|Slab,Assembly (A)|Business (B)|Educational (E)|Institutional (I)|Residential (R),sd|dd|cd,means_of_egress,architect
+1025.2.4.1,Slab|Wall|Door|StairFlight,Assembly (A)|Business (B)|Educational (E)|Institutional (I)|Residential (R),sd|dd|cd,means_of_egress,architect
+1025.2.4.2,Wall|Door|Stair|Slab,Assembly (A)|Business (B)|Educational (E)|Institutional (I)|Residential (R),sd|dd|cd,means_of_egress,architect
+1025.2.4.3,Wall|Slab|Covering,Assembly (A)|Business (B)|Educational (E)|Institutional (I)|Residential (R),sd|dd|cd,means_of_egress,architect
+1025.2.5,Wall|Covering,Assembly (A)|Business (B)|Educational (E)|Institutional (I)|Residential (R),sd|dd|cd,means_of_egress,architect
+1025.2.6,Door,Assembly (A)|Business (B)|Educational (E)|Institutional (I)|Residential (R),sd|dd|cd,means_of_egress,architect
+1025.2.6.1,Door,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Institutional (I),cd|ca,means_of_egress,architect
+1025.2.6.2,Door,Assembly (A)|Business (B)|Educational (E)|Institutional (I)|Residential (R),sd|dd|cd,means_of_egress,architect
+1025.2.6.3,Door|Wall,Assembly (A)|Business (B)|Educational (E)|Institutional (I),cd|sd|dd,means_of_egress,architect
+1025.3,Wall|Door|Stair|StairFlight|Ramp,Assembly (A)|Business (B)|Educational (E)|Institutional (I)|Residential (R),sd|dd|cd,means_of_egress,architect
+1025.4,Wall|Stair|Ramp|Door|Floor,Assembly (A)|Business (B)|Educational (E)|Institutional (I)|Residential (R),sd|dd|cd,means_of_egress,architect
+1025.5,Wall|Stair|Ramp|Door|Slab,Assembly (A)|Business (B)|Educational (E)|Institutional (I)|Residential (R),sd|dd|cd,means_of_egress,architect
+1026,,,,none,none
+1026.1,Wall|Door|Slab,Institutional (I)|Business (B)|Assembly (A)|Residential (R),sd|dd|cd,means_of_egress,architect
+1026.2,Wall|Slab|Door,Assembly (A)|Business (B)|Educational (E)|Institutional (I)|Residential (R),sd|dd|cd,fire_resistance_smoke_protection,architect
+1026.3,Door|Wall,Assembly (A)|Business (B)|Educational (E)|Institutional (I)|Residential (R),sd|dd|cd,fire_resistance_smoke_protection,architect
+1026.4,Wall|Door|Slab,Assembly (A)|Business (B)|Educational (E)|Institutional (I)|Residential (R),sd|dd|cd,means_of_egress,architect
+1026.4.1,Slab|Wall|Door,Institutional (I),sd|dd|cd,means_of_egress,architect
+1026.4.2,Wall|Door|Stair|Ramp,Assembly (A)|Business (B)|Educational (E)|Institutional (I)|Residential (R),sd|dd|cd,means_of_egress,architect
+1026.5,Wall|BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Institutional (I),sd|dd|cd,fire_protection_alarm_systems,fire_protection_engineer
+1027,,,,none,none
+1027.1,Stair|Ramp|Railing|Slab|Door,Assembly (A)|Business (B)|Educational (E)|Institutional (I)|Residential (R),sd|dd|cd,means_of_egress,architect
+1027.2,Stair|Ramp|Wall,Institutional (I),sd|dd|cd,means_of_egress,architect
+1027.3,Stair|Ramp|Railing|Beam|Column,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Institutional (I),sd|dd|cd,means_of_egress,architect
+1027.4,Stair|Ramp|Wall,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,means_of_egress,architect
+1027.5,Stair|Ramp|Slab,Residential (R)|Assembly (A)|Business (B)|Educational (E)|Institutional (I),sd|dd|cd,means_of_egress,architect
+1027.6,Stair|Ramp|Wall|Slab,Residential (R)|Assembly (A)|Business (B)|Institutional (I),sd|dd|cd,means_of_egress,architect
+1028,,,,none,none
+1028.1,Door|Ramp|Stair|Slab|Wall,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,means_of_egress,architect
+1028.2,Door|Stair|Ramp|Wall|Slab,Assembly (A)|Business (B)|Educational (E)|Mercantile (M)|Residential (R),sd|dd|cd,means_of_egress,architect
+1028.3,Ramp|RampFlight|Slab|Stair|StairFlight,Assembly (A)|Business (B)|Educational (E)|Institutional (I)|Mercantile (M),sd|dd|cd,means_of_egress,architect
+1028.4,Door|Wall|Slab|Stair|Ramp,Assembly (A)|Business (B)|Educational (E)|Institutional (I)|Residential (R),sd|dd|cd,means_of_egress,architect
+1028.5,Door|Ramp|RampFlight|Stair|Slab,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,means_of_egress,architect
+1029,,,,none,none
+1029.1,Slab|Wall|Railing|Door,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Institutional (I),sd|dd|cd,means_of_egress,architect
+1029.2,Wall|Slab|Door,Residential (R)|Utility and Miscellaneous (U),sd|dd|cd,means_of_egress,architect
+1029.3,Wall|Door|Window,Assembly (A)|Business (B)|Educational (E)|Mercantile (M)|Residential (R),sd|dd|cd,fire_resistance_smoke_protection,architect
+1030,,,,none,none
+1030.1,Wall|Door|Slab,Assembly (A),sd|dd|cd,means_of_egress,architect
+1030.1.1,BuildingElementProxy,Assembly (A),sd|dd|cd,special_construction,architect
+1030.1.1.1,Wall|Slab,Assembly (A),sd|dd|cd,fire_resistance_smoke_protection,architect
+1030.2,Door|Wall|Stair|Ramp|Slab,Assembly (A),sd|dd|cd,means_of_egress,architect
+1030.3,Door|Stair|Ramp|Slab,Assembly (A),sd|dd|cd,means_of_egress,architect
+1030.4,Wall|Door|Slab,Assembly (A),sd|dd|cd,means_of_egress,architect
+1030.5,Stair|Ramp|Balcony|Slab|Railing,Assembly (A),sd|dd|cd,means_of_egress,architect
+1030.6,Slab|Railing,Assembly (A),sd|dd|cd,means_of_egress,architect
+1030.6.1,Stair|StairFlight|Ramp|Railing,Assembly (A),sd|dd|cd,means_of_egress,architect
+1030.6.2,Stair|Ramp|Railing|Slab,Assembly (A),sd|dd|cd,means_of_egress,architect
+1030.6.2.1,Wall|Slab|Door,Assembly (A),sd|dd|cd,fire_resistance_smoke_protection,fire_protection_engineer
+1030.6.2.2,Roof|Slab,Assembly (A),sd|dd|cd,means_of_egress,architect
+1030.6.2.3,Wall|Roof|Slab,Assembly (A),sd|dd|cd,fire_protection_alarm_systems,fire_protection_engineer
+1030.6.3,Stair|Ramp|Slab,Assembly (A),sd|dd|cd,means_of_egress,architect
+1030.6.3.1,Wall|Roof|Slab,Assembly (A),sd|dd|cd,fire_protection_alarm_systems,fire_protection_engineer
+1030.7,Stair|Ramp|Slab|Railing,Assembly (A),sd|dd|cd,means_of_egress,architect
+1030.8,Stair|StairFlight|Door|Ramp|Slab,Assembly (A),sd|dd|cd,means_of_egress,architect
+1030.8.1,Stair|Railing|Slab,Assembly (A),sd|dd|cd,means_of_egress,architect
+1030.9,Wall|Door|Slab,Assembly (A),sd|dd|cd,means_of_egress,architect
+1030.9.1,Stair|StairFlight|Railing|Slab,Assembly (A),sd|dd|cd,means_of_egress,architect
+1030.9.2,Slab|Stair|Ramp|Door|Wall,Assembly (A)|Business (B)|Educational (E)|Institutional (I),sd|dd|cd,means_of_egress,architect
+1030.9.3,Slab|Ramp|Stair|StairFlight|Railing,Assembly (A)|Business (B)|Educational (E)|Institutional (I)|Mercantile (M),sd|dd|cd,means_of_egress,architect
+1030.9.4,Slab|Wall|Railing|Door,Assembly (A)|Business (B)|Educational (E)|Institutional (I)|Mercantile (M),sd|dd|cd,means_of_egress,architect
+1030.9.5,Stair|Ramp|RampFlight|Slab|Wall,Assembly (A),sd|dd|cd,means_of_egress,architect
+1030.9.6,Wall|Stair|Railing|Slab|BuildingElementProxy,Assembly (A)|Educational (E)|Business (B),sd|dd|cd,means_of_egress,architect
+1030.9.6.1,Railing|Ramp|Stair|Slab,Assembly (A),sd|dd|cd,means_of_egress,architect
+1030.9.7,Stair|StairFlight|Slab,Assembly (A),sd|dd|cd,means_of_egress,architect
+1030.9.8,Stair|StairFlight|Slab,Assembly (A),sd|dd|cd,means_of_egress,architect
+1030.10,Stair|StairFlight|Slab,Assembly (A)|Educational (E),sd|dd|cd,means_of_egress,architect
+1030.10.1,Stair|StairFlight|Slab,Assembly (A),sd|dd|cd,means_of_egress,architect
+1030.10.2,Stair|StairFlight|Slab,Assembly (A),sd|dd|cd,means_of_egress,architect
+1030.10.2.1,Stair|StairFlight|Slab,Assembly (A)|Educational (E)|Business (B),sd|dd|cd,means_of_egress,architect
+1030.10.2.2,Stair|StairFlight,Assembly (A),sd|dd|cd,means_of_egress,architect
+1030.10.3,Stair|StairFlight|Slab,Assembly (A)|Educational (E),sd|dd|cd,means_of_egress,architect
+1030.11,Stair|StairFlight|Slab|Railing,Assembly (A),sd|dd|cd,means_of_egress,architect
+1030.11.1,Stair|Slab,Assembly (A),sd|dd|cd,means_of_egress,architect
+1030.11.2,Stair|Slab|Ramp,Assembly (A),sd|dd|cd,means_of_egress,architect
+1030.12,Ramp|Stair|Railing|Slab,Assembly (A)|Educational (E)|Institutional (I),sd|dd|cd,finishes_materials,architect
+1030.12.1,Slab|Ramp|Stair|StairFlight,Assembly (A)|Educational (E)|Institutional (I),sd|dd|cd,finishes_materials,architect
+1030.12.2,Ramp|RampFlight|Slab|Stair|StairFlight,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Institutional (I),sd|dd|cd,means_of_egress,architect
+1030.13,Slab|Railing|Stair|Ramp|Wall,Assembly (A)|Business (B)|Educational (E),sd|dd|cd,means_of_egress,architect
+1030.13.1,Table|Slab|Railing|Wall|Covering,Assembly (A)|Business (B)|Educational (E)|Mercantile (M),sd|dd|cd,means_of_egress,architect
+1030.13.1.1,Slab|Covering,Assembly (A)|Educational (E)|Business (B)|Mercantile (M),sd|dd|cd,means_of_egress,architect
+1030.13.1.2,Slab|Stair|Ramp|BuildingElementProxy,Assembly (A),sd|dd|cd,means_of_egress,architect
+1030.13.2,Stair|Railing,Assembly (A),sd|dd|cd,means_of_egress,architect
+1030.13.2.1,Stair|Railing|Door,Assembly (A),sd|dd|cd,means_of_egress,architect
+1030.13.2.2,Railing|Stair|StairFlight|Slab,Assembly (A),sd|dd|cd,means_of_egress,architect
+1030.14,Ramp|RampFlight|Stair|Slab,Assembly (A),sd|dd|cd,means_of_egress,architect
+1030.14.1,Ramp|RampFlight|Slab,Assembly (A)|Educational (E)|Institutional (I)|Business (B),sd|dd|cd,accessibility,architect
+1030.14.1.1,Ramp|RampFlight|Slab,Assembly (A)|Educational (E)|Business (B),sd|dd|cd,accessibility,architect
+1030.14.1.2,Ramp|RampFlight|Slab,Assembly (A)|Educational (E)|Business (B),sd|dd|cd,means_of_egress,architect
+1030.14.1.3,Ramp|Railing,Assembly (A),sd|dd|cd,accessibility,architect
+1030.14.2,Stair|Slab,Assembly (A),sd|dd|cd,means_of_egress,architect
+1030.14.2.1,Stair|StairFlight,Assembly (A)|Business (B)|Educational (E)|Residential (R),sd|dd|cd,means_of_egress,architect
+1030.14.2.2,Stair|StairFlight|Slab,Assembly (A),sd|dd|cd,means_of_egress,architect
+1030.14.2.2.1,Stair|Slab,Assembly (A),sd|dd|cd,means_of_egress,architect
+1030.14.2.3,Stair|StairFlight,Assembly (A)|Business (B)|Educational (E)|Institutional (I)|Residential (R),sd|dd|cd,accessibility,architect
+1030.14.2.4,Stair|StairFlight,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,means_of_egress,architect
+1030.15,Member|Railing|Slab,Assembly (A),sd|dd|cd,means_of_egress,architect
+1030.16,Railing|Stair|Ramp,Assembly (A),sd|dd|cd,means_of_egress,architect
+1030.16.1,Railing|Stair|StairFlight,Assembly (A),sd|dd|cd,means_of_egress,architect
+1030.16.2,Railing|Stair|StairFlight|Wall|Slab,Assembly (A)|Business (B)|Educational (E)|Institutional (I)|Residential (R),sd|dd|cd,means_of_egress,architect
+1030.16.3,Railing|Stair|StairFlight,Assembly (A),sd|dd|cd,means_of_egress,architect
+1030.16.4,Railing|Stair,Assembly (A),sd|dd|cd,means_of_egress,architect
+1030.17,Railing,Assembly (A),sd|dd|cd,means_of_egress,architect
+1030.17.1,Railing|Stair|StairFlight,Assembly (A),sd|dd|cd,means_of_egress,architect
+1030.17.2,Railing|Stair|StairFlight,Assembly (A),sd|dd|cd,means_of_egress,architect
+1030.17.3,Railing|Slab,Assembly (A),sd|dd|cd,means_of_egress,architect
+1030.17.4,Railing|Stair|StairFlight,Assembly (A)|Educational (E)|Institutional (I),sd|dd|cd,means_of_egress,architect
+1031,,,,none,none
+1031.1,Window|Door|Wall,Residential (R)|Institutional (I)|Educational (E),sd|dd|cd,means_of_egress,architect
+1031.2,Window|Door|Slab,Residential (R),sd|dd|cd,means_of_egress,architect
+1031.2.1,Window,Residential (R)|Institutional (I)|Educational (E)|Assembly (A),sd|dd|cd,means_of_egress,architect
+1031.3,Window|Door|Wall,Residential (R)|Institutional (I)|Educational (E),sd|dd|cd,means_of_egress,architect
+1031.3.1,Window,Residential (R)|Institutional (I)|Educational (E),sd|dd|cd,means_of_egress,architect
+1031.3.2,Window|Door,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Institutional (I),sd|dd|cd,means_of_egress,architect
+1031.3.3,Window|Door,Residential (R)|Institutional (I)|Educational (E),sd|dd|cd,means_of_egress,architect
+1031.4,Door,Residential (R)|Institutional (I),sd|dd|cd,means_of_egress,architect
+1031.5,Window|Wall|Slab,Residential (R)|Institutional (I)|Educational (E),sd|dd|cd,means_of_egress,architect
+1031.5.1,Wall|Slab|Window,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,means_of_egress,architect
+1031.5.2,Stair|Wall|Window|Door,Residential (R)|Assembly (A)|Educational (E)|Institutional (I),sd|dd|cd,means_of_egress,architect
+1031.5.2.1,Stair|BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,means_of_egress,architect
+1031.5.2.2,Stair|StairFlight,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,means_of_egress,architect
+1031.5.3,Slab|EarthworksElement|Footing,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,site_planning,civil_engineer
+1031.6,Window|Covering|Wall,Residential (R)|Institutional (I)|Educational (E),sd|dd|cd,means_of_egress,architect

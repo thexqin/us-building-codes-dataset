@@ -1,0 +1,129 @@
+id,ifc_type,occupancy,design_phase,code_category,primary_responsibility
+7,Wall|Covering|Slab,Assembly (A)|Business (B)|Residential (R),sd|dd|cd,finishes_materials,architect
+R701,,,,none,none
+R701.1,Wall|Covering,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,finishes_materials,architect
+R701.2,Wall|Covering|Slab,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),cd|ca,finishes_materials,architect
+R702,,,,none,none
+R702.1,Wall|Slab|Covering,Residential (R)|Business (B)|Assembly (A)|Educational (E)|Institutional (I),sd|dd|cd,finishes_materials,architect
+R702.2.1,Wall|Slab|Covering,Residential (R)|Business (B)|Assembly (A),dd|cd,finishes_materials,architect
+R702.2.2,Wall|Covering,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Institutional (I),sd|dd|cd,finishes_materials,architect
+R702.2.2.1,Wall|Covering,Residential (R)|Business (B)|Assembly (A),cd|ca,finishes_materials,architect
+R702.2.2.2,Wall|Covering,Assembly (A)|Business (B)|Educational (E)|Residential (R),cd|ca,finishes_materials,architect
+R702.2.3,Wall|Slab|Covering,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),cd,finishes_materials,architect
+R702.3.1,Wall|Covering|Slab,Assembly (A)|Business (B)|Educational (E)|Residential (R),sd|dd|cd,finishes_materials,architect
+R702.3.1.1,Wall|Slab|Covering,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Mercantile (M),cd,finishes_materials,architect
+R702.3.2,Wall|Member|Slab|Covering,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,finishes_materials,architect
+R702.3.3,Wall|Member|BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,assemblies_envelope,architect
+R702.3.4,Wall|Slab|Covering,Residential (R),sd|dd|cd,finishes_materials,architect
+R702.3.5,Covering|Wall|Slab,Residential (R)|Business (B)|Assembly (A)|Institutional (I),sd|dd|cd,finishes_materials,architect
+R702.3.5.1,Wall|Slab|Roof,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Institutional (I),dd|cd,finishes_materials,architect
+R702.3.6,Slab|Covering|Member,Residential (R)|Assembly (A)|Educational (E)|Business (B),sd|dd|cd,assemblies_envelope,architect
+R702.3.7,Wall|Slab|Covering,Assembly (A)|Business (B)|Educational (E)|Residential (R),sd|dd|cd,finishes_materials,architect
+R702.3.7.1,Wall|Slab|Covering,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Institutional (I),sd|dd|cd,finishes_materials,architect
+R702.4.1,Covering|Wall|Slab,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Institutional (I),sd|dd|cd,finishes_materials,architect
+R702.4.2,Wall|Covering,Residential (R)|Assembly (A)|Business (B)|Institutional (I),sd|dd|cd,finishes_materials,architect
+R702.5,Wall|Covering,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Mercantile (M),sd|dd|cd,finishes_materials,architect
+R702.6,Covering|Wall|Roof,Residential (R)|Assembly (A)|Business (B),sd|dd|cd,finishes_materials,architect
+R702.6.1,Wall|Covering,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|High Hazard (H),sd|dd|cd,finishes_materials,architect
+R702.6.2,Wall|Covering,Residential (R)|Business (B)|Assembly (A)|Educational (E)|Institutional (I),cd|ca,finishes_materials,architect
+R702.7,Wall|Covering|Slab,Residential (R)|Assembly (A)|Business (B),sd|dd|cd,assemblies_envelope,architect
+R702.7.1,Wall|Slab|Roof|Covering,Assembly (A)|Business (B)|Educational (E)|Residential (R),sd|dd|cd,assemblies_envelope,architect
+R702.7.2,Wall|Roof|Slab|Covering,Business (B)|Residential (R)|Assembly (A)|Educational (E)|Institutional (I),dd|cd|ca,assemblies_envelope,architect
+R703,,,,none,none
+R703.1,Wall|Covering|Slab|Roof,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,assemblies_envelope,architect
+R703.1.1,Wall|Covering|Slab,Residential (R)|Business (B)|Assembly (A),sd|dd|cd,assemblies_envelope,architect
+R703.1.2,Wall|Covering|Slab,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Mercantile (M),sd|dd|cd,assemblies_envelope,architect
+R703.2,Wall|Covering,Residential (R)|Utility and Miscellaneous (U),sd|dd|cd,assemblies_envelope,architect
+R703.3,Wall|Covering|Slab,Residential (R)|Business (B)|Assembly (A),sd|dd|cd,assemblies_envelope,architect
+R703.3.1,Wall|Covering|Slab|Roof,Residential (R)|Business (B)|Assembly (A)|Educational (E)|Mercantile (M),sd|dd|cd,assemblies_envelope,architect
+R703.3.2,Wall|Covering,Assembly (A)|Business (B)|Educational (E)|Mercantile (M)|Residential (R),sd|dd|cd,assemblies_envelope,architect
+R703.3.3,Wall|Covering|Slab,Residential (R)|Assembly (A)|Business (B),dd|cd,finishes_materials,architect
+R703.3.4,Wall|Covering,Business (B)|Educational (E)|Residential (R)|Assembly (A),sd|dd|cd,assemblies_envelope,architect
+R703.4,Wall|Window|Door|Roof|Slab,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,assemblies_envelope,architect
+R703.4.1,Window|Door|Wall,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Mercantile (M),sd|dd|cd,assemblies_envelope,architect
+R703.5,Wall|Covering,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|High Hazard (H),cd,finishes_materials,architect
+R703.5.1,Wall|Covering,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|High Hazard (H),sd|dd|cd,finishes_materials,architect
+R703.5.2,Wall|Slab|Covering,Residential (R)|Business (B)|Assembly (A)|Educational (E)|Mercantile (M),sd|dd|cd,assemblies_envelope,architect
+R703.5.3,Wall|Covering,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Mercantile (M),sd|dd|cd,finishes_materials,architect
+R703.6,Roof|Wall,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Mercantile (M),sd|dd|cd,finishes_materials,architect
+R703.6.1,Covering|Wall,Residential (R)|Business (B)|Assembly (A),sd|dd|cd,finishes_materials,architect
+R703.6.2,Covering|Wall|Roof,Residential (R)|Business (B)|Assembly (A),sd|dd|cd,assemblies_envelope,architect
+R703.6.3,Covering|Wall,Residential (R)|Assembly (A)|Business (B)|Educational (E)|Mercantile (M),sd|dd|cd,finishes_materials,architect
+R703.6.4,Wall|Covering,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Mercantile (M),sd|dd|cd,finishes_materials,architect
+R703.7,Wall|Covering,Assembly (A)|Business (B)|Educational (E)|Residential (R),sd|dd|cd,finishes_materials,architect
+R703.7.1,Covering|Wall,Residential (R)|Business (B)|Assembly (A),sd|dd|cd,finishes_materials,architect
+703.7.1.1,Wall|Covering,Assembly (A)|Business (B)|Educational (E)|Residential (R),sd|dd|cd,finishes_materials,architect
+R703.7.2,Wall|Covering|Slab,Residential (R)|Business (B)|Assembly (A),sd|dd|cd,finishes_materials,architect
+R703.7.2.1,Wall|Slab|Covering,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,assemblies_envelope,architect
+R703.7.3,Wall|Slab|Roof,Residential (R)|Business (B)|Assembly (A),sd|dd|cd,assemblies_envelope,architect
+R703.7.3.1,Wall|Covering,Residential (R)|Business (B)|Assembly (A)|Educational (E)|Mercantile (M),sd|dd|cd,assemblies_envelope,architect
+R703.7.3.2,Wall|Covering,Residential (R)|Business (B)|Assembly (A),sd|dd|cd,assemblies_envelope,architect
+R703.7.4,Wall|Covering,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Mercantile (M),cd|ca,finishes_materials,architect
+R703.7.5,Wall|Covering,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Mercantile (M),cd|ca,finishes_materials,architect
+R703.8,Wall|Covering,Residential (R)|Assembly (A)|Business (B),sd|dd|cd,assemblies_envelope,architect
+R703.8.1,Wall|Covering|Slab,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Mercantile (M),sd|dd|cd,assemblies_envelope,architect
+R703.8.2,Wall|Slab|Footing,Residential (R)|Business (B)|Assembly (A),sd|dd|cd,assemblies_envelope,architect
+R703.8.2.1,Wall|Slab|Beam,Residential (R)|Business (B)|Assembly (A),sd|dd|cd,assemblies_envelope,architect
+R703.8.2.2,Wall|Slab|Beam|BuildingElementProxy,Residential (R)|Assembly (A)|Business (B),sd|dd|cd,assemblies_envelope,architect
+R703.8.3,Wall|Lintel|Door|Window,Residential (R)|Business (B)|Assembly (A)|Educational (E)|Mercantile (M),sd|dd|cd,assemblies_envelope,architect
+R703.8.3.1,Beam|Wall|BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Residential (R),sd|dd|cd,structural_design,structural_engineer
+R703.8.3.2,Wall|Lintel|BuildingElementProxy,Residential (R)|Assembly (A)|Business (B)|Educational (E)|Mercantile (M),sd|dd|cd,assemblies_envelope,architect
+R703.8.4,Wall|Covering|Slab,Residential (R)|Business (B)|Assembly (A),sd|dd|cd,assemblies_envelope,architect
+R703.8.4.1,Wall,Residential (R)|Business (B)|Assembly (A)|Educational (E)|Institutional (I),sd|dd|cd,assemblies_envelope,architect
+R703.8.4.1.1,Wall|Door|Window,Assembly (A)|Business (B)|Educational (E)|Residential (R),sd|dd|cd,assemblies_envelope,architect
+R703.8.4.2,Wall|Covering,Residential (R)|Business (B)|Assembly (A),sd|dd|cd,assemblies_envelope,architect
+R703.8.5,Wall|Slab|Roof,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,assemblies_envelope,architect
+R703.8.6,Wall,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Mercantile (M),sd|dd|cd,assemblies_envelope,architect
+R703.9,Covering|Wall,Business (B)|Residential (R)|Institutional (I)|Educational (E)|Assembly (A),sd|dd|cd,assemblies_envelope,architect
+R703.9.1,Wall|Covering,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Mercantile (M),sd|dd|cd,finishes_materials,architect
+R703.9.2,Wall|Covering,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Mercantile (M),sd|dd|cd,assemblies_envelope,architect
+R703.10.1,Wall|Covering,Residential (R),sd|dd|cd,finishes_materials,architect
+R703.10.2,Wall|Covering,Residential (R)|Business (B)|Assembly (A)|Educational (E)|Mercantile (M),sd|dd|cd,finishes_materials,architect
+R703.11,Covering,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Mercantile (M),sd|dd|cd,finishes_materials,architect
+R703.11.1,Wall|Covering,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),cd|ca,finishes_materials,architect
+R703.11.1.1,Wall|Covering,Residential (R)|Business (B)|Assembly (A),cd|ca,assemblies_envelope,architect
+R703.11.1.2,Wall|Window|Covering,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),cd|ca,finishes_materials,architect
+R703.11.1.3,Covering|Wall,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Mercantile (M),sd|dd|cd,finishes_materials,architect
+R703.11.1.4,Wall|Slab|Roof,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Mercantile (M),sd|dd|cd,assemblies_envelope,architect
+R703.11.1.5,Wall|Covering,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,assemblies_envelope,architect
+R703.11.2,Wall|Covering,Residential (R),sd|dd|cd,assemblies_envelope,architect
+R703.12,Wall|Covering,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Mercantile (M),dd|cd|ca,finishes_materials,architect
+R703.12.1,Wall|Slab|Covering,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,assemblies_envelope,architect
+R703.12.2,Wall|Slab|Covering,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,assemblies_envelope,architect
+R703.12.3,Wall|Covering|Slab,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,assemblies_envelope,architect
+R703.13,Covering|Wall,Residential (R)|Business (B)|Assembly (A)|Educational (E)|Mercantile (M),sd|dd|cd,finishes_materials,architect
+R703.13.1,Covering|Wall,Residential (R)|Business (B)|Assembly (A),cd|ca,assemblies_envelope,architect
+R703.14,Wall|Covering,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Mercantile (M),sd|dd|cd,finishes_materials,architect
+R703.14.1,Wall|Covering,Residential (R)|Business (B)|Institutional (I)|Assembly (A)|Educational (E),dd|cd,finishes_materials,architect
+R703.14.1.1,Wall|Covering,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Mercantile (M),sd|dd|cd,assemblies_envelope,architect
+R703.14.1.1.1,Wall|Covering,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|High Hazard (H),cd|ca,finishes_materials,architect
+R703.14.1.1.2,Covering|Wall|Window,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,assemblies_envelope,architect
+R703.14.1.2,Wall|Covering,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),cd|ca,finishes_materials,architect
+R703.14.2,Wall|Covering,Residential (R)|Business (B)|Assembly (A),sd|dd|cd,fire_resistance_smoke_protection,architect
+R703.14.3,Wall|Covering|Roof|Slab,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Institutional (I),sd|dd|cd,finishes_materials,architect
+R703.15,Wall|Covering,Residential (R)|Assembly (A)|Business (B)|Educational (E)|Mercantile (M),sd|dd|cd,assemblies_envelope,architect
+R703.15.1,Wall|Covering,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,assemblies_envelope,architect
+R703.15.2,Wall|Covering|Slab,Residential (R)|Business (B)|Assembly (A),sd|dd|cd,assemblies_envelope,architect
+R703.16,Wall|Covering|Slab,Assembly (A)|Business (B)|Institutional (I)|Mercantile (M)|Residential (R),sd|dd|cd,assemblies_envelope,architect
+R703.16.1,Wall|Covering,Residential (R)|Business (B)|Assembly (A),sd|dd|cd,assemblies_envelope,architect
+R703.16.2,Wall|Covering|BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),dd|cd,assemblies_envelope,architect
+R703.17,Wall|Covering,Residential (R),sd|dd|cd,assemblies_envelope,architect
+R703.18,Wall|Covering,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Mercantile (M),dd|cd,finishes_materials,architect
+R704,,,,none,none
+R704.1,Covering|Wall|Slab,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,assemblies_envelope,architect
+R704.2,Covering|Roof,Residential (R)|Business (B)|Assembly (A),sd|dd|cd,assemblies_envelope,architect
+R704.2.1,Covering|Slab|Wall,Assembly (A)|Business (B)|Educational (E)|Mercantile (M)|Residential (R),cd|ca,assemblies_envelope,architect
+R704.2.2,Slab|Covering,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,finishes_materials,architect
+R704.2.3,Covering|Slab|BuildingElementProxy,Residential (R)|Business (B)|Assembly (A),sd|dd|cd,finishes_materials,architect
+R704.2.4,Covering|Slab,Residential (R)|Business (B)|Assembly (A),sd|dd|cd,finishes_materials,architect
+R704.3,Covering|Slab|BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Mercantile (M),sd|dd|cd,assemblies_envelope,architect
+R704.3.1,Covering|Slab,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,assemblies_envelope,architect
+R704.3.2,Covering|Slab|Roof,Residential (R)|Business (B)|Assembly (A),sd|dd|cd,assemblies_envelope,architect
+R704.3.3,Covering|Slab|Roof,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,assemblies_envelope,architect
+R704.3.4,Slab|Covering,Residential (R)|Assembly (A)|Business (B)|Educational (E),sd|dd|cd,assemblies_envelope,architect
+R704.4,Covering|Roof,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|High Hazard (H),cd|ca,finishes_materials,architect
+R704.4.1,Covering,Residential (R),cd|ca,finishes_materials,architect
+R704.4.1.1,Covering|Roof,Residential (R)|Business (B)|Assembly (A),cd|ca,assemblies_envelope,architect
+R704.4.1.2,Covering|Roof,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),cd,assemblies_envelope,architect
+R705,,,,none,none
+R705.1,Wall|Window|Covering,Assembly (A)|Business (B)|Educational (E)|Residential (R),sd|dd|cd,assemblies_envelope,architect

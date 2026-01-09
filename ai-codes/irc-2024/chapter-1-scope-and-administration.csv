@@ -1,0 +1,132 @@
+id,ifc_type,occupancy,design_phase,code_category,primary_responsibility
+1,BuildingElementProxy,Residential (R),concept|sd|dd|cd|ca,occupancy_classification,architect
+divider_1_1,,,,none,none
+R101,,,,none,none
+R101.1,BuildingElementProxy,Residential (R),concept|sd|dd|cd,occupancy_classification,architect
+R101.2,Wall|Roof|Slab|Door|Window,Residential (R)|Business (B)|Institutional (I)|Assembly (A),concept|sd|dd|cd,occupancy_classification,architect
+R101.2.1,BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),concept|sd,occupancy_classification,architect
+R101.3,Wall|Slab|Stair,Assembly (A)|Business (B)|Residential (R),concept|sd|dd|cd,occupancy_classification,architect
+R102,,,,none,none
+R102.1,BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,occupancy_classification,architect
+R102.2,BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),concept|sd|dd|cd,occupancy_classification,architect
+R102.3,BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),concept|sd|dd|cd|ca,occupancy_classification,architect
+R102.4,BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),cd|ca,special_construction,architect
+R102.4.1,BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),cd,occupancy_classification,architect
+R102.4.2,BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),cd,occupancy_classification,architect
+R102.5,BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),cd,occupancy_classification,architect
+R102.6,BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),concept|sd|dd|cd,occupancy_classification,architect
+R102.6.1,Wall|Slab|Roof,Assembly (A)|Business (B)|Educational (E)|Residential (R),sd|dd|cd,occupancy_classification,architect
+divider_1_2,,,,none,none
+R103,,,,none,none
+R103.1,BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),concept|sd|dd|cd|ca,occupancy_classification,owner
+R103.2,BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|High Hazard (H),concept,occupancy_classification,owner
+R103.3,BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),cd,occupancy_classification,owner
+R104,,,,none,none
+R104.1,BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),cd|ca,occupancy_classification,owner
+R104.2,BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),cd,occupancy_classification,architect
+R104.2.1,BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),cd|ca,finishes_materials,architect
+R104.2.2,BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,special_construction,architect
+R104.2.2.1,BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,special_construction,architect
+R104.2.2.2,BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|High Hazard (H),sd|dd|cd,special_construction,architect
+R104.2.2.3,BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,special_construction,architect
+R104.2.2.4,Wall|Slab|Roof,Assembly (A)|Business (B)|Residential (R),sd|dd|cd,special_construction,architect
+R104.2.2.5,BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),dd|cd,special_construction,architect
+R104.2.2.6,BuildingElementProxy|Assemblies_envelope,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),dd|cd,special_construction,architect
+R104.2.2.6.1,BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),cd|ca,special_construction,architect
+R104.2.2.6.2,BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),cd,special_construction,architect
+R104.2.3,BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|High Hazard (H),cd|ca,occupancy_classification,architect
+R104.2.3.1,Slab|Footing|Wall,Residential (R)|Business (B)|Assembly (A),sd|dd|cd,site_planning,architect
+R104.3,BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,occupancy_classification,architect
+R104.3.1,Wall|Slab|Roof,Residential (R)|Business (B)|Mercantile (M),sd|dd|cd,site_planning,architect
+R104.4,BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|High Hazard (H),cd|ca,site_planning,owner
+R104.4.1,BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),ca,site_planning,owner
+R104.5,BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|High Hazard (H),ca,site_planning,owner
+R104.6,BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|High Hazard (H),cd|ca,occupancy_classification,architect
+R104.7,BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|High Hazard (H),cd|ca,special_construction,owner
+R104.7.1,BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Mercantile (M),cd|ca,site_planning,architect
+R104.7.2,BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),ca,site_planning,architect
+R104.7.3,BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),cd|ca,special_construction,architect
+R104.7.4,BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),cd|ca,special_construction,architect
+R104.7.5,BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|High Hazard (H),concept|sd,site_planning,owner
+R104.8,BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),cd,site_planning,owner
+R104.8.1,BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),cd,occupancy_classification,owner
+R104.9,BuildingElementProxy,Assembly (A)|Business (B)|Residential (R)|Educational (E)|Mercantile (M),sd|dd|cd,special_construction,architect
+R104.9.1,Wall|Door|Window|Roof|Slab,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Mercantile (M),dd|cd,finishes_materials,architect
+R105,,,,none,none
+R105.1,BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),concept|sd|dd|cd,site_planning,owner
+R105.2,Wall|Slab|Roof|Window|Door,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Utility and Miscellaneous (U),cd,site_planning,architect
+R105.2.1,BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),ca,site_planning,architect
+R105.2.2,Wall|Beam|Slab|Door|Window,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),cd|ca,special_construction,architect
+R105.2.3,BuildingElementProxy|ElectricalSystem,Utility and Miscellaneous (U),sd|dd|cd,electrical_systems,electrical_engineer
+R105.3,BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|High Hazard (H),sd|dd|cd,site_planning,architect
+R105.3.1,BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),cd,occupancy_classification,architect
+R105.3.2,BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),concept|sd|dd,site_planning,architect
+R105.4,BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd|ca,occupancy_classification,architect
+R105.5,BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),cd|ca,site_planning,architect
+R105.6,BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),cd,occupancy_classification,architect
+R105.7,BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|High Hazard (H),ca,site_planning,architect
+R105.8,BuildingElementProxy|Wall|Roof|Slab|Door,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),cd|ca,special_construction,owner
+R105.9,BuildingElementProxy|Site,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),concept|sd,site_planning,architect
+R106,,,,none,none
+R106.1,BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Mercantile (M),sd|dd|cd,special_construction,architect
+R106.1.1,BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,site_planning,architect
+R106.1.2,BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),ca,special_construction,architect
+R106.1.3,Wall|Slab|Footing,Residential (R)|Business (B)|Assembly (A)|Educational (E)|Mercantile (M),sd|dd|cd,structural_design,structural_engineer
+R106.1.4,Slab|Footing|Wall,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Storage (S),sd|dd|cd,site_planning,architect
+R106.1.5,BuildingElementProxy|Wall|Slab|Door,Assembly (A)|Educational (E)|Institutional (I),sd|dd|cd,special_construction,architect
+R106.2,BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|High Hazard (H),sd|dd|cd,site_planning,architect
+R106.3,BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),cd,occupancy_classification,architect
+R106.3.1,BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),cd|ca,site_planning,architect
+R106.3.2,BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),cd|ca,occupancy_classification,architect
+R106.3.3,Footing|Slab|Wall|Column,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),cd|ca,site_planning,architect
+R106.4,BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),cd|ca,site_planning,architect
+R106.5,BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),cd|ca,special_construction,owner
+R107,,,,none,none
+R107.1,BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Mercantile (M),sd|dd|cd,special_construction,architect
+R107.2,Wall|Roof|Slab|Door|Window,Assembly (A)|Business (B)|Mercantile (M)|Residential (R)|Utility and Miscellaneous (U),sd|dd|cd,special_construction,architect
+R107.3,BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),cd|ca,electrical_systems,electrical_engineer
+R107.4,BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Mercantile (M)|Utility and Miscellaneous (U),cd|ca,special_construction,architect
+R108,,,,none,none
+R108.1,BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),concept|sd|dd|cd,site_planning,architect
+R108.2,BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),concept|sd,site_planning,architect
+R108.3,BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),cd,site_planning,architect
+R108.4,BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),concept|sd|dd|cd,site_planning,architect
+R108.5,BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),ca,site_planning,owner
+R108.6,BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|High Hazard (H),sd|dd|cd,site_planning,architect
+R109,,,,none,none
+R109.1,BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),ca,special_construction,owner
+R109.1.1,Footing|Slab|Bearing|Wall,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),cd|ca,structural_design,structural_engineer
+R109.1.2,BuildingElementProxy,Business (B)|Residential (R)|Assembly (A)|Educational (E)|Mercantile (M),cd|ca,mechanical_systems,mechanical_engineer
+R109.1.3,Slab|Footing|BuildingElementProxy,Residential (R)|Business (B)|Assembly (A),cd|ca,site_planning,architect
+R109.1.4,Wall|Roof|Slab|Beam|Column,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Mercantile (M),cd|ca,structural_design,civil_engineer
+R109.1.5,BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),ca,special_construction,architect
+R109.1.5.1,Wall|Slab,Residential (R),cd|ca,fire_resistance_smoke_protection,architect
+R109.1.6,BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|High Hazard (H),ca,site_planning,architect
+R109.1.6.1,BuildingElementProxy|Slab|Footing,Residential (R),cd|ca,site_planning,architect
+R109.2,BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),cd|ca,special_construction,architect
+R109.3,BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|High Hazard (H),ca,special_construction,owner
+R109.4,Wall|Slab|Roof,Assembly (A)|Business (B)|Residential (R),ca,special_construction,architect
+R110,,,,none,none
+R110.1,BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|High Hazard (H),cd|ca,occupancy_classification,architect
+R110.2,BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|High Hazard (H),ca,occupancy_classification,architect
+R110.3,BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|High Hazard (H),cd|ca,occupancy_classification,architect
+R110.4,BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),ca,occupancy_classification,architect
+R111,,,,none,none
+R111.1,BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),cd|ca,site_planning,architect
+R111.2,BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),cd|ca,special_construction,architect
+R111.3,BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),cd|ca,electrical_systems,electrical_engineer
+R112,,,,none,none
+R112.1,BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),cd,occupancy_classification,owner
+R112.2,BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),cd,occupancy_classification,architect
+R112.3,BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),cd,occupancy_classification,owner
+R112.4,BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|High Hazard (H),cd|ca,site_planning,owner
+R113,,,,none,none
+R113.1,BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),cd,occupancy_classification,architect
+R113.2,BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|High Hazard (H),cd|ca,occupancy_classification,architect
+R113.3,BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),cd|ca,occupancy_classification,architect
+R113.4,BuildingElementProxy,Assembly (A)|Business (B)|Residential (R)|Mercantile (M)|Institutional (I),cd|ca,occupancy_classification,architect
+R114,,,,none,none
+R114.1,BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),ca,special_construction,architect
+R114.2,BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),ca,site_planning,owner
+R114.3,BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|High Hazard (H),cd|ca,special_construction,architect
+R114.4,BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),ca,site_planning,owner

@@ -1,0 +1,254 @@
+id,ifc_type,occupancy,design_phase,code_category,primary_responsibility
+11,Door|Ramp|Stair|Window|Slab,Assembly (A)|Business (B)|Educational (E)|Institutional (I)|Residential (R),sd|dd|cd,accessibility,architect
+1101,,,,none,none
+1101.1,Door|Ramp|Stair|Slab|Window,Assembly (A)|Business (B)|Educational (E)|Institutional (I)|Residential (R),sd|dd|cd,accessibility,architect
+1102,,,,none,none
+1102.1,Door|Ramp|Stair|Slab|RampFlight,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Mercantile (M),sd|dd|cd,accessibility,architect
+1103,,,,none,none
+1103.1,Door|Ramp|Stair|Slab|Window,Assembly (A)|Business (B)|Educational (E)|Mercantile (M)|Residential (R),sd|dd|cd,accessibility,architect
+1103.2,BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|High Hazard (H),sd|dd|cd,accessibility,architect
+1103.2.1,Door|Ramp|Stair|RampFlight|Slab,Assembly (A)|Business (B)|Educational (E)|Institutional (I)|Residential (R),sd|dd|cd,accessibility,architect
+1103.2.2,Door|Ramp|Stair|Slab,Business (B)|Assembly (A)|Educational (E)|Institutional (I)|Mercantile (M),sd|dd|cd,accessibility,architect
+1103.2.3,BuildingElementProxy|Site|Wall|Door|Window,Residential (R)|Utility and Miscellaneous (U),sd|dd|cd,accessibility,architect
+1103.2.4,Ramp|Kerb|Pavement|Slab|Door,Utility and Miscellaneous (U),sd|dd|cd,accessibility,architect
+1103.2.5,BuildingElementProxy|Roof|Slab,Utility and Miscellaneous (U),sd|dd|cd,accessibility,architect
+1103.2.6,Stair|Ramp|Railing|BuildingElementProxy,Institutional (I)|Assembly (A)|Utility and Miscellaneous (U),sd|dd|cd,accessibility,architect
+1103.2.7,Ramp|Stair|RampFlight|StairFlight|BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Storage (S),sd|dd|cd,accessibility,architect
+1103.2.8,Slab|Stair|Ramp,Assembly (A),sd|dd|cd,accessibility,architect
+1103.2.9,Room|BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Utility and Miscellaneous (U),sd|dd|cd,accessibility,architect
+1103.2.10,BuildingElementProxy|Ramp|Stair|Door,Utility and Miscellaneous (U),sd|dd|cd,accessibility,architect
+1103.2.11,Wall|Door|Slab,Residential (R),sd|dd|cd,occupancy_classification,architect
+1103.2.12,Door|Wall|Window,Residential (R)|Educational (E),sd|dd|cd,accessibility,architect
+1103.2.13,Wall|Door|Slab,Institutional (I),sd|dd|cd,accessibility,architect
+1103.2.14,Door|Wall|Slab|BuildingElementProxy,Business (B)|Factory and Industrial (F)|Mercantile (M),sd|dd|cd,accessibility,architect
+1104,,,,none,none
+1104.1,Ramp|Door|Slab|Stair|Pavement,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,accessibility,architect
+1104.2,Ramp|RampFlight|Pavement|Slab|Stair,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Institutional (I),sd|dd|cd,accessibility,architect
+1104.3,Ramp|Stair|Door|Slab,Assembly (A)|Business (B)|Educational (E)|Institutional (I)|Residential (R),sd|dd|cd,accessibility,architect
+1104.3.1,Wall|Covering|Slab|Door,Business (B)|Factory and Industrial (F)|Mercantile (M)|Institutional (I),sd|dd|cd,accessibility,architect
+1104.3.2,BuildingElementProxy|Ramp|Stair|Door,Assembly (A),sd|dd|cd,accessibility,architect
+1104.4,Ramp|RampFlight|Stair|StairFlight|Door,Assembly (A)|Business (B)|Institutional (I)|Mercantile (M)|Residential (R),sd|dd|cd,accessibility,architect
+1104.5,Ramp|RampFlight|Door|Stair|Slab,Assembly (A)|Business (B)|Educational (E)|Institutional (I)|Residential (R),sd|dd|cd,accessibility,architect
+1104.6,Wall|Door|BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Institutional (I)|Mercantile (M),sd|dd|cd,accessibility,architect
+1105,,,,none,none
+1105.1,Door,Assembly (A)|Business (B)|Educational (E)|Mercantile (M)|Residential (R),sd|dd|cd,accessibility,architect
+1105.1.1,Door,Assembly (A)|Business (B)|Mercantile (M)|Residential (R),sd|dd|cd,accessibility,architect
+1105.1.2,Door|Ramp|Stair|Slab,Assembly (A)|Business (B)|Residential (R)|Mercantile (M)|Storage (S),sd|dd|cd,accessibility,architect
+1105.1.3,Door|Ramp|RampFlight,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Mercantile (M),sd|dd|cd,accessibility,architect
+1105.1.4,Door|Ramp|RampFlight,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,accessibility,architect
+1105.1.5,Door|Wall|BuildingElementProxy,Institutional (I),sd|dd|cd,accessibility,architect
+1105.1.6,Door|Ramp|Stair|Slab|Wall,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Mercantile (M),sd|dd|cd,accessibility,architect
+1105.1.7,Door|Ramp|Stair|RampFlight,Business (B)|Mercantile (M)|Storage (S),sd|dd|cd,accessibility,architect
+1105.1.8,Door|Ramp|Stair|Slab,Residential (R)|Institutional (I),sd|dd|cd,accessibility,architect
+1106,,,,none,none
+1106.1,Slab|Pavement|Ramp|Kerb|BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,accessibility,architect
+1106.2,Site|Pavement,Assembly (A)|Business (B)|Educational (E)|Mercantile (M)|Residential (R),sd|dd|cd,accessibility,architect
+1106.3,Parking|Slab,Residential (R),sd|dd|cd,accessibility,architect
+1106.4,Parking|BuildingElementProxy,Institutional (I),sd|dd|cd,accessibility,architect
+1106.5,Parking|Slab|Ramp,Institutional (I)|Business (B),sd|dd|cd,accessibility,architect
+1106.6,Slab|Kerb|Ramp|Pavement,Residential (R)|Utility and Miscellaneous (U),sd|dd|cd,accessibility,architect
+1106.7,Pavement|Kerb|Ramp|Slab,Assembly (A)|Business (B)|Educational (E)|Institutional (I)|Mercantile (M),sd|dd|cd,accessibility,architect
+1106.7.1,Slab|Column|Ramp|Wall|Door,Assembly (A)|Business (B)|Residential (R)|Mercantile (M),sd|dd|cd,accessibility,architect
+1106.8,BuildingElementProxy,Assembly (A)|Business (B)|Mercantile (M)|Residential (R)|Utility and Miscellaneous (U),sd|dd|cd,accessibility,architect
+1106.9,Pavement|Kerb,Assembly (A)|Business (B)|Educational (E)|Institutional (I)|Residential (R),sd|dd|cd,accessibility,architect
+1106.9.1,Slab|Kerb|Pavement,Assembly (A)|Business (B)|Educational (E)|Institutional (I)|Residential (R),sd|dd|cd,accessibility,architect
+1106.9.2,Kerb|Pavement|Ramp|Covering|Slab,Institutional (I),sd|dd|cd,accessibility,architect
+1106.9.3,Pavement|Kerb|Slab|Covering,Assembly (A)|Business (B)|Mercantile (M)|Residential (R),sd|dd|cd,accessibility,architect
+1106.9.4,Slab|Ramp|Door|Wall,Utility and Miscellaneous (U),sd|dd|cd,accessibility,architect
+1107,,,,none,none
+1107.1,BuildingElementProxy,Business (B)|Assembly (A)|Mercantile (M)|Utility and Miscellaneous (U),sd|dd|cd,electrical_systems,electrical_engineer
+1107.2,BuildingElementProxy,Business (B)|Assembly (A)|Educational (E)|Factory and Industrial (F)|Mercantile (M),sd|dd|cd,accessibility,architect
+1107.2.1,Parking|Pavement|Kerb|EarthworksElement|Covering,Assembly (A)|Business (B)|Educational (E)|Mercantile (M)|Residential (R),sd|dd|cd,accessibility,architect
+1107.2.2,Pavement|Kerb|BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Institutional (I)|Mercantile (M),sd|dd|cd,accessibility,architect
+1107.3,BuildingElementProxy,Utility and Miscellaneous (U)|Assembly (A)|Business (B),sd|dd|cd,accessibility,architect
+1108,,,,none,none
+1108.1,Door|Ramp|Stair|Slab|Window,Residential (R)|Institutional (I)|Assembly (A),sd|dd|cd,accessibility,architect
+1108.2,Door|Slab|Wall|BuildingElementProxy,Residential (R)|Institutional (I),sd|dd|cd,accessibility,architect
+1108.3,Door|Slab|Window|Stair|Ramp,Residential (R)|Assembly (A)|Business (B),sd|dd|cd,accessibility,architect
+1108.4,Ramp|RampFlight|Door|Stair|Slab,Institutional (I)|Residential (R)|Assembly (A)|Business (B),sd|dd|cd,accessibility,architect
+1108.5,Door|Slab|Wall,Institutional (I),sd|dd|cd,accessibility,architect
+1108.5.1,Door|Ramp|Stair|Slab|Wall,Institutional (I),sd|dd|cd,accessibility,architect
+1108.5.1.1,Door|Slab|Wall,Institutional (I),sd|dd|cd,accessibility,architect
+1108.5.1.2,Slab|Door|Window|Wall|Stair,Institutional (I),sd|dd|cd,accessibility,architect
+1108.5.1.3,Wall|Door|Slab|Window,Residential (R),sd|dd|cd,accessibility,architect
+1108.5.2,Door|Ramp|Stair|Slab|Wall,Institutional (I),sd|dd|cd,accessibility,architect
+1108.5.2.1,Door|Slab|Wall,Residential (R)|Institutional (I),sd|dd|cd,accessibility,architect
+1108.5.2.2,Slab|Wall|Door|Window,Residential (R),sd|dd|cd,accessibility,architect
+1108.5.3,Door|Ramp|Stair|Slab|Wall,Institutional (I),sd|dd|cd,accessibility,architect
+1108.5.3.1,Door|BuildingElementProxy,Residential (R)|Institutional (I),sd|dd|cd,accessibility,architect
+1108.5.3.2,Wall|Door|Window|Slab,Residential (R),sd|dd|cd,accessibility,architect
+1108.5.4,Door|Slab|Wall,Institutional (I),sd|dd|cd,accessibility,architect
+1108.5.5,Door|Ramp|Stair|Slab|Wall,Institutional (I),sd|dd|cd,accessibility,architect
+1108.5.5.1,BuildingElementProxy|Door,Institutional (I),sd|dd|cd,accessibility,architect
+1108.5.5.2,Wall|Door|Slab,Institutional (I),sd|dd|cd,accessibility,architect
+1108.5.5.3,Wall|Door|BuildingElementProxy,Institutional (I),sd|dd|cd,accessibility,architect
+1108.6,Door|Slab|Ramp|Stair|Wall,Residential (R),sd|dd|cd,accessibility,architect
+1108.6.1,Door|Ramp|Stair|Slab|Wall,Residential (R),sd|dd|cd,accessibility,architect
+1108.6.1.1,Slab|Door|Window,Residential (R)|Institutional (I),sd|dd|cd,accessibility,architect
+1108.6.1.2,Wall|Door|Window|Slab,Residential (R),sd|dd|cd,accessibility,architect
+1108.6.2,Door|Ramp|Stair|Slab|Wall,Residential (R),sd|dd|cd,accessibility,architect
+1108.6.2.1,Wall|Door|Slab|Stair|Window,Business (B)|Residential (R),sd|dd|cd,accessibility,architect
+1108.6.2.2,Wall|Door|Window,Residential (R),sd|dd|cd,accessibility,architect
+1108.6.2.2.1,Door|Slab|Wall|Window,Residential (R),sd|dd|cd,accessibility,architect
+1108.6.2.2.2,Wall|Door|Window|Slab,Residential (R),sd|dd|cd,accessibility,architect
+1108.6.2.3,Door|BuildingElementProxy|Slab|Wall,Residential (R),sd|dd|cd,accessibility,architect
+1108.6.2.3.1,Door|Slab|Wall,Residential (R)|Institutional (I),sd|dd|cd,accessibility,architect
+1108.6.2.3.2,Door|Window|Wall|Slab,Residential (R),sd|dd|cd,accessibility,architect
+1108.6.3,BuildingElementProxy|Door|Slab|Wall,Residential (R),sd|dd|cd,accessibility,architect
+1108.6.3.1,Door|Ramp|Stair|Slab|BuildingElementProxy,Residential (R),sd|dd|cd,accessibility,architect
+1108.6.3.2,Wall|Door|Window|Slab,Residential (R),sd|dd|cd,accessibility,architect
+1108.6.4,Wall|Door|Window|Slab|Stair,Residential (R),sd|dd|cd,accessibility,architect
+1108.6.4.1,Door|Window|Slab|Wall,Residential (R),sd|dd|cd,accessibility,architect
+1108.6.4.2,Door|Window|Slab|Wall,Residential (R),sd|dd|cd,accessibility,architect
+1108.7,Wall|Door|Slab,Residential (R)|Institutional (I)|Assembly (A),sd|dd|cd,accessibility,architect
+1108.7.1,Stair|Ramp|Door|Slab|Wall,Residential (R)|Institutional (I),sd|dd|cd,accessibility,architect
+1108.7.1.1,Door|Ramp|Stair|Slab,Residential (R),sd|dd|cd,accessibility,architect
+1108.7.1.2,Door|Ramp|Stair|Slab|BuildingElementProxy,Residential (R),sd|dd|cd,accessibility,architect
+1108.7.2,Stair|Ramp|Door|Slab|Elevator,Residential (R)|Institutional (I),sd|dd|cd,accessibility,architect
+1108.7.3,BuildingElementProxy|Door|Ramp|Stair|Slab,Residential (R),sd|dd|cd,accessibility,architect
+1108.7.4,BuildingElementProxy|Ramp|Door|Slab,Residential (R),sd|dd|cd,accessibility,architect
+1108.7.5,Slab|Ramp|Stair|Door,Residential (R)|Assembly (A)|Business (B),sd|dd|cd,accessibility,architect
+1109,,,,none,none
+1109.1,Door|Ramp|Stair|RampFlight|Slab,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Institutional (I),sd|dd|cd,accessibility,architect
+1109.2,Slab|Stair|Seating|Ramp|Wall,Assembly (A),sd|dd|cd,accessibility,architect
+1109.2.1,Door|Ramp|Stair|Elevator|RampFlight,Assembly (A)|Business (B)|Educational (E)|Mercantile (M)|Residential (R),sd|dd|cd,accessibility,architect
+1109.2.2,Slab|Stair|Ramp|Railing|Door,Assembly (A)|Educational (E)|Institutional (I),sd|dd|cd,accessibility,architect
+1109.2.2.1,Slab|Ramp|Stair|Railing|Door,Assembly (A),sd|dd|cd,accessibility,architect
+1109.2.2.2,Space|Door|Ramp|Stair|Slab,Assembly (A),sd|dd|cd,accessibility,architect
+1109.2.2.3,Wall|Door|Railing,Assembly (A),sd|dd|cd,accessibility,architect
+1109.2.3,Slab|Railing|Stair|Ramp|BuildingElementProxy,Assembly (A)|Educational (E)|Institutional (I),sd|dd|cd,accessibility,architect
+1109.2.4,Slab|Stair|Ramp|Railing|Wall,Assembly (A),sd|dd|cd,accessibility,architect
+1109.2.5,BuildingElementProxy,Assembly (A),sd|dd|cd,accessibility,architect
+1109.2.6,Slab|Ramp|RampFlight|Pavement,Assembly (A),sd|dd|cd,accessibility,architect
+1109.2.7,Wall|BuildingElementProxy|Door,Assembly (A),sd|dd|cd,accessibility,architect
+1109.2.7.1,BuildingElementProxy|Wall|Door,Assembly (A),sd|dd|cd,accessibility,architect
+1109.2.7.2,Window|Wall|BuildingElementProxy,Assembly (A),sd|dd|cd,accessibility,architect
+1109.2.7.3,BuildingElementProxy,Assembly (A),sd|dd|cd,accessibility,architect
+1109.2.8,Ramp|Stair|Door|Slab|Wall,Assembly (A),sd|dd|cd,accessibility,architect
+1109.2.9,Slab|Ramp|Stair|Door,Assembly (A)|Mercantile (M),sd|dd|cd,accessibility,architect
+1109.2.9.1,Slab|Covering,Assembly (A)|Mercantile (M)|Business (B),sd|dd|cd,accessibility,architect
+1109.3,Door|Wall,Storage (S),sd|dd|cd,accessibility,architect
+1109.3.1,Door|Wall|Slab,Storage (S),sd|dd|cd,accessibility,architect
+1109.4,Door|Ramp|Stair|Wall,Assembly (A)|Institutional (I),sd|dd|cd,accessibility,architect
+1109.4.1,Door|Slab|Ramp|Stair|Railing,Assembly (A),sd|dd|cd,accessibility,architect
+1109.4.1.1,Slab|Stair|Railing|Wall,Assembly (A)|Institutional (I),sd|dd|cd,accessibility,architect
+1109.4.1.2,Stair|Ramp|Slab|Railing|Door,Assembly (A),sd|dd|cd,accessibility,architect
+1109.4.1.3,Wall|BuildingElementProxy,Assembly (A)|Educational (E),sd|dd|cd,accessibility,architect
+1109.4.1.4,Ramp|Lift|Door|Slab,Assembly (A),sd|dd|cd,accessibility,architect
+1109.4.1.5,BuildingElementProxy|Slab|Covering,Assembly (A),sd|dd|cd,accessibility,architect
+1109.4.2,Wall|Door|BuildingElementProxy,Institutional (I),sd|dd|cd,accessibility,architect
+1109.4.2.1,Wall|Door|BuildingElementProxy,Institutional (I),sd|dd|cd,accessibility,architect
+1109.4.2.2,Wall|Door|BuildingElementProxy,Institutional (I),sd|dd|cd,accessibility,architect
+1110,,,,none,none
+1110.1,Door|Ramp|Stair|Slab|Window,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Institutional (I),sd|dd|cd,accessibility,architect
+1110.2,Wall|Door|Slab|BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Institutional (I)|Residential (R),sd|dd|cd,accessibility,architect
+1110.2.1,Slab|Wall|Door,Assembly (A)|Mercantile (M),sd|dd|cd,accessibility,architect
+1110.2.1.1,Wall|Door|Slab,Assembly (A)|Business (B)|Educational (E)|Institutional (I)|Residential (R),sd|dd|cd,accessibility,architect
+1110.2.1.2,Door|Slab|Wall|Covering,Assembly (A)|Business (B)|Educational (E)|Institutional (I)|Residential (R),sd|dd|cd,accessibility,architect
+1110.2.1.3,Wall|Door|Slab|Covering,Assembly (A)|Business (B)|Educational (E)|Institutional (I)|Residential (R),sd|dd|cd,accessibility,architect
+1110.2.1.4,Door|Slab|Stair|Ramp|Wall,Assembly (A)|Business (B)|Educational (E)|Institutional (I)|Mercantile (M),sd|dd|cd,accessibility,architect
+1110.2.1.5,Door|Wall|BuildingElementProxy,Assembly (A)|Business (B),sd|dd|cd,accessibility,architect
+1110.2.1.6,Door,Assembly (A)|Business (B)|Educational (E)|Institutional (I)|Residential (R),sd|dd|cd,accessibility,architect
+1110.2.2,Wall|Door|Slab|Covering,Assembly (A)|Business (B)|Educational (E)|Institutional (I)|Residential (R),sd|dd|cd,accessibility,architect
+1110.2.2.1,Wall|Slab|Door,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,accessibility,architect
+1110.2.2.2,Wall|Slab|Door,Assembly (A)|Business (B)|Educational (E)|Institutional (I)|Mercantile (M),sd|dd|cd,accessibility,architect
+1110.2.2.2.1,Wall|Slab|Door,Assembly (A)|Business (B)|Educational (E)|Institutional (I)|Residential (R),sd|dd|cd,accessibility,architect
+1110.2.2.2.2,Wall|Slab|Door,Assembly (A)|Business (B)|Educational (E)|Institutional (I)|Residential (R),sd|dd|cd,accessibility,architect
+1110.2.2.2.3,Slab|Wall|Door,Assembly (A)|Business (B)|Educational (E)|Institutional (I)|Mercantile (M),sd|dd|cd,accessibility,architect
+1110.2.2.3,BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|High Hazard (H),sd|dd|cd,accessibility,architect
+1110.2.2.4,Covering,Assembly (A)|Business (B)|Educational (E)|Institutional (I)|Residential (R),sd|dd|cd,accessibility,architect
+1110.2.2.5,Covering,Assembly (A)|Business (B)|Educational (E)|Institutional (I)|Residential (R),sd|dd|cd,accessibility,architect
+1110.2.2.6,Wall|Covering,Assembly (A)|Business (B)|Educational (E)|Institutional (I)|Residential (R),sd|dd|cd,accessibility,architect
+1110.2.3,Slab|Wall|Door,Institutional (I)|Residential (R)|Assembly (A),sd|dd|cd,accessibility,architect
+1110.2.3.1,Slab|Wall|Door,Residential (R)|Institutional (I)|Assembly (A),sd|dd|cd,accessibility,architect
+1110.2.3.2,Slab|Wall|Door,Assembly (A)|Business (B)|Educational (E)|Institutional (I)|Residential (R),sd|dd|cd,accessibility,architect
+1110.2.3.3,Wall|Covering,Assembly (A)|Business (B)|Educational (E)|Institutional (I)|Mercantile (M),sd|dd|cd,accessibility,architect
+1110.2.3.3.1,Wall|Covering,Assembly (A)|Business (B)|Educational (E)|Institutional (I)|Residential (R),sd|dd|cd,accessibility,architect
+1110.2.3.3.2,Wall|Covering,Assembly (A)|Business (B)|Educational (E)|Institutional (I)|Mercantile (M),sd|dd|cd,accessibility,architect
+1110.2.3.4,Wall|Covering,Assembly (A)|Business (B)|Educational (E)|Institutional (I),sd|dd|cd,accessibility,architect
+1110.2.3.5,Covering,Institutional (I)|Residential (R)|Assembly (A),sd|dd|cd,accessibility,architect
+1110.2.3.6,Covering,Assembly (A)|Business (B)|Educational (E)|Institutional (I)|Residential (R),sd|dd|cd,accessibility,architect
+1110.2.3.7,Door|Slab|Ramp,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,accessibility,architect
+1110.2.3.8,Covering,Assembly (A)|Business (B)|Educational (E)|Institutional (I)|Residential (R),sd|dd|cd,accessibility,architect
+1110.2.3.9,PlumbingElement,Assembly (A)|Business (B)|Educational (E)|Institutional (I)|Residential (R),sd|dd|cd,accessibility,architect
+1110.2.4,Wall|Door|Slab,Assembly (A)|Business (B)|Educational (E)|Institutional (I)|Mercantile (M),sd|dd|cd,accessibility,architect
+1110.2.5,Slab|Wall|BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Institutional (I)|Residential (R),sd|dd|cd,accessibility,architect
+1110.3,Covering,Assembly (A)|Business (B)|Educational (E)|Institutional (I)|Residential (R),sd|dd|cd,accessibility,architect
+1110.4,BuildingElementProxy|Door|Slab,Assembly (A)|Business (B)|Educational (E)|Institutional (I)|Mercantile (M),sd|dd|cd,accessibility,architect
+1110.4.1,Covering|Slab|Door,Assembly (A)|Business (B)|Educational (E)|Mercantile (M),sd|dd|cd,accessibility,architect
+1110.4.2,Door|Slab|Wall,Assembly (A)|Business (B)|Educational (E)|Institutional (I)|Mercantile (M),sd|dd|cd,accessibility,architect
+1110.4.3,Door|Wall|Slab,Assembly (A)|Business (B)|Institutional (I)|Educational (E),sd|dd|cd,accessibility,architect
+1110.4.4,Stair|Ramp|Door|Slab,Assembly (A)|Business (B)|Educational (E)|Institutional (I)|Mercantile (M),sd|dd|cd,accessibility,architect
+1110.5,Slab|Wall|Door,Assembly (A)|Business (B)|Educational (E)|Institutional (I)|Residential (R),sd|dd|cd,accessibility,architect
+1110.6,Covering|BuildingElementProxy,Residential (R)|Institutional (I)|Assembly (A),sd|dd|cd,accessibility,architect
+1110.6.1,BuildingElementProxy|Covering|Slab|Door,Residential (R)|Institutional (I)|Assembly (A),sd|dd|cd,accessibility,architect
+1110.6.2,BuildingElementProxy,Residential (R)|Institutional (I)|Assembly (A),sd|dd|cd,accessibility,architect
+1110.7,Covering|BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Institutional (I)|Mercantile (M),sd|dd|cd,accessibility,architect
+1110.7.1,BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Institutional (I)|Mercantile (M),sd|dd|cd,accessibility,architect
+1110.7.2,BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Institutional (I)|Mercantile (M),sd|dd|cd,accessibility,architect
+1110.8,Covering,Assembly (A)|Business (B)|Educational (E)|Institutional (I)|Mercantile (M),sd|dd|cd,accessibility,architect
+1110.9,BuildingElementProxy|Door|Wall|Slab,Assembly (A)|Residential (R)|Institutional (I),sd|dd|cd,accessibility,architect
+1110.10,Elevator|BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Institutional (I)|Residential (R),sd|dd|cd,accessibility,architect
+1110.11,Ramp|Stair|Door|RampFlight,Assembly (A)|Business (B)|Educational (E)|Institutional (I)|Residential (R),sd|dd|cd,accessibility,architect
+1110.12,BuildingElementProxy|Covering,Assembly (A)|Business (B)|Educational (E)|Institutional (I)|Residential (R),sd|dd|cd,accessibility,architect
+1110.12.1,Covering|BuildingElementProxy|Door,Assembly (A)|Business (B)|Educational (E)|Institutional (I)|Residential (R),sd|dd|cd,accessibility,architect
+1110.12.2,BuildingElementProxy|Covering,Assembly (A)|Business (B)|Mercantile (M),sd|dd|cd,accessibility,architect
+1110.13,Slab|Railing|Covering,Assembly (A)|Business (B),sd|dd|cd,accessibility,architect
+1110.14,Slab|Covering|BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Mercantile (M)|Residential (R),sd|dd|cd,accessibility,architect
+1110.14.1,Slab|Covering|BuildingElementProxy,Assembly (A)|Business (B)|Mercantile (M)|Residential (R),sd|dd|cd,accessibility,architect
+1110.14.2,Slab|Covering,Assembly (A)|Business (B)|Mercantile (M)|Educational (E),sd|dd|cd,accessibility,architect
+1110.14.3,Slab|Ramp|Stair|Door,Assembly (A)|Business (B)|Educational (E)|Mercantile (M),sd|dd|cd,accessibility,architect
+1110.15,Wall|Door|Window,Institutional (I),sd|dd|cd,accessibility,architect
+1110.15.1,BuildingElementProxy|Door|Wall,Institutional (I),sd|dd|cd,accessibility,architect
+1110.15.2,Wall|Covering,Institutional (I),sd|dd|cd,accessibility,architect
+1110.16,Door|Ramp|RampFlight|Stair|Slab,Assembly (A)|Business (B)|Educational (E)|Institutional (I)|Mercantile (M),sd|dd|cd,accessibility,architect
+1110.16.1,BuildingElementProxy|Door,Mercantile (M),sd|dd|cd,accessibility,architect
+1110.16.2,Window|Counter|Door,Assembly (A)|Business (B)|Mercantile (M)|Institutional (I),sd|dd|cd,accessibility,architect
+1110.16.3,Slab|Railing|Covering|BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Institutional (I)|Residential (R),sd|dd|cd,accessibility,architect
+1110.16.4,Wall|Slab|Railing,Assembly (A)|Business (B)|Mercantile (M),sd|dd|cd,accessibility,architect
+1110.17,Wall|Door|Slab,Assembly (A)|Business (B)|Educational (E)|Institutional (I)|Residential (R),sd|dd|cd,accessibility,architect
+1110.18,Door|Window,Assembly (A)|Business (B)|Educational (E)|Institutional (I)|Residential (R),sd|dd|cd,accessibility,architect
+1110.19,BuildingElementProxy,Assembly (A),sd|dd|cd,accessibility,architect
+1111,,,,none,none
+1111.1,Door|Ramp|Stair|Slab|Railing,Assembly (A)|Business (B)|Educational (E)|Institutional (I)|Residential (R),sd|dd|cd,accessibility,architect
+1111.2,BuildingElementProxy|Door|Ramp|Stair|Slab,Residential (R),sd|dd|cd,accessibility,architect
+1111.2.1,BuildingElementProxy|Door|Ramp|RampFlight|Slab,Residential (R),sd|dd|cd,accessibility,architect
+1111.2.2,BuildingElementProxy|Door|Ramp|Stair,Residential (R),sd|dd|cd,accessibility,architect
+1111.2.3,BuildingElementProxy|Door|Ramp|Stair|Slab,Residential (R),sd|dd|cd,accessibility,architect
+1111.3,Door|Ramp|Stair|Slab|Railing,Assembly (A)|Business (B)|Mercantile (M)|Institutional (I)|Residential (R),sd|dd|cd,accessibility,architect
+1111.4,Ramp|Door|Slab,Assembly (A)|Business (B)|Educational (E)|Institutional (I)|Residential (R),sd|dd|cd,accessibility,architect
+1111.4.1,Slab|Ramp|Stair|Door,Assembly (A),sd|dd|cd,accessibility,architect
+1111.4.2,Seating|BuildingElementProxy,Assembly (A),sd|dd|cd,accessibility,architect
+1111.4.3,Ramp|Slab|BuildingElementProxy,Assembly (A),sd|dd|cd,accessibility,architect
+1111.4.4,Ramp|Stair|Slab|Door,Assembly (A),sd|dd|cd,accessibility,architect
+1111.4.5,Slab|Stair|Ramp,Assembly (A),sd|dd|cd,accessibility,architect
+1111.4.6,Ramp|Stair|Slab,Assembly (A),sd|dd|cd,accessibility,architect
+1111.4.7,Wall|Door|Slab,Utility and Miscellaneous (U)|Business (B),sd|dd|cd,accessibility,architect
+1111.4.8,BuildingElementProxy|TrackElement|Ramp,Assembly (A),sd|dd|cd,accessibility,architect
+1111.4.8.1,Ramp|Slab|Door,Assembly (A),sd|dd|cd,accessibility,architect
+1111.4.8.2,Ramp|RampFlight|Slab|Stair|Door,Assembly (A),sd|dd|cd,accessibility,architect
+1111.4.8.3,BuildingElementProxy,Assembly (A),sd|dd|cd,accessibility,architect
+1111.4.9,Ramp|Slab|Covering,Assembly (A)|Utility and Miscellaneous (U),sd|dd|cd,accessibility,architect
+1111.4.9.1,MooringDevice|NavigationElement|BuildingElementProxy,Assembly (A)|Utility and Miscellaneous (U),sd|dd|cd,accessibility,architect
+1111.4.9.2,MooringDevice|NavigationElement,Assembly (A),sd|dd|cd,accessibility,architect
+1111.4.9.3,NavigationElement|Ramp,Utility and Miscellaneous (U),sd|dd|cd,accessibility,architect
+1111.4.10,BuildingElementProxy|Slab|Ramp|Door,Assembly (A)|Business (B),sd|dd|cd,accessibility,architect
+1111.4.11,Slab|Ramp|Railing,Assembly (A)|Utility and Miscellaneous (U),sd|dd|cd,accessibility,architect
+1111.4.12,Slab|Railing|Ramp|Stair|Wall,Assembly (A),sd|dd|cd,accessibility,architect
+1111.4.12.1,Slab|Ramp|Stair|Wall,Assembly (A),sd|dd|cd,accessibility,architect
+1111.4.12.2,Ramp|Slab|Pavement,Assembly (A),sd|dd|cd,accessibility,architect
+1111.4.12.3,Slab|Ramp,Assembly (A)|Business (B),sd|dd|cd,accessibility,architect
+1111.4.13,Ramp|Pavement|Slab,Assembly (A)|Educational (E)|Institutional (I)|Residential (R),sd|dd|cd,accessibility,architect
+1111.4.14,Slab|BuildingElementProxy,Assembly (A)|Residential (R)|Institutional (I),sd|dd|cd,accessibility,architect
+1111.4.14.1,Slab|Stair|Railing,Assembly (A)|Educational (E),sd|dd|cd,accessibility,architect
+1111.4.14.2,BuildingElementProxy,Assembly (A),sd|dd|cd,accessibility,architect
+1111.4.15,BuildingElementProxy|Ramp|RampFlight|Slab|Stair,Assembly (A),sd|dd|cd,accessibility,architect
+1112,,,,none,none
+1112.1,Door|Ramp|Slab,Assembly (A)|Business (B)|Institutional (I)|Residential (R),sd|dd|cd,accessibility,architect
+1112.2,Door|Wall,Assembly (A)|Business (B)|Educational (E)|Mercantile (M)|Residential (R),sd|dd|cd,accessibility,architect
+1112.3,Door|Stair|Ramp|Elevator|BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Institutional (I)|Mercantile (M),sd|dd|cd,accessibility,architect
+1112.4,Door|Ramp|Stair|RampFlight,Assembly (A)|Business (B),sd|dd|cd,accessibility,architect
+1112.5,BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Institutional (I)|Mercantile (M),sd|dd|cd,accessibility,architect
+1112.5.1,BuildingElementProxy,Assembly (A)|Business (B)|Utility and Miscellaneous (U),sd|dd|cd,accessibility,architect
+1112.5.2,BuildingElementProxy|Wall,Assembly (A)|Institutional (I)|Residential (R),sd|dd|cd,accessibility,architect
+1112.6,Door|Wall,Assembly (A)|Business (B)|Educational (E)|Institutional (I)|Residential (R),sd|dd|cd,accessibility,architect

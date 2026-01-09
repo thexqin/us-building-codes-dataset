@@ -1,0 +1,142 @@
+id,ifc_type,occupancy,design_phase,code_category,primary_responsibility
+4,Footing|Wall|Slab,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,structural_design,structural_engineer
+R401,,,,none,none
+R401.1,Footing|Slab|Wall,Residential (R)|Assembly (A)|Business (B),sd|dd|cd,structural_design,structural_engineer
+R401.2,Footing|Slab|DeepFoundation|Wall,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,structural_design,structural_engineer
+R401.3,Slab|EarthworksElement|Wall,Residential (R)|Business (B)|Assembly (A),sd|dd|cd,site_planning,civil_engineer
+R401.4,Footing|Slab|DeepFoundation|Wall,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|High Hazard (H),sd|dd|cd,site_planning,civil_engineer
+R401.4.1,Footing|Slab|Wall,Residential (R)|Assembly (A)|Business (B),sd|dd|cd,site_planning,civil_engineer
+R401.4.2,EarthworksElement|Footing|Slab,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,site_planning,civil_engineer
+R402,,,,none,none
+R402.1,Wall|Footing|Slab,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Storage (S),sd|dd|cd,structural_design,structural_engineer
+R402.1.1,Wall|Slab,Assembly (A)|Business (B)|Educational (E)|Residential (R),sd|dd|cd,finishes_materials,architect
+R402.1.2,Wall|Roof|Slab|Beam|Column,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Storage (S),sd|dd|cd,finishes_materials,architect
+R402.2,Slab|Footing|Wall,Residential (R)|Assembly (A)|Business (B),sd|dd|cd,assemblies_envelope,structural_engineer
+R402.2.1,Slab|Wall|Footing|Column,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,assemblies_envelope,structural_engineer
+R402.3,Wall|Footing|Slab,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,structural_design,structural_engineer
+R402.3.1,Wall|Footing,Residential (R),sd|dd|cd,assemblies_envelope,structural_engineer
+R402.4,Wall|Column|Footing,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Storage (S),sd|dd|cd,structural_design,structural_engineer
+R403,,,,none,none
+R403.1,Wall|Footing|Slab,Residential (R),sd|dd|cd,structural_design,structural_engineer
+R403.1.1,Footing|Column|Wall,Residential (R)|Business (B)|Assembly (A)|Educational (E)|Mercantile (M),sd|dd|cd,structural_design,structural_engineer
+R403.1.2,Footing|Wall,Residential (R),sd|dd|cd,structural_design,structural_engineer
+R403.1.3,Footing|Wall,Residential (R)|Business (B)|Assembly (A)|Educational (E)|Institutional (I),sd|dd|cd,structural_design,structural_engineer
+R403.1.3.1,Footing|Wall,Residential (R)|Business (B)|Assembly (A),sd|dd|cd,structural_design,structural_engineer
+R403.1.3.2,Wall|Footing,Residential (R)|Business (B)|Educational (E)|Assembly (A),sd|dd|cd,structural_design,structural_engineer
+R403.1.3.3,Slab|Footing,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|High Hazard (H),sd|dd|cd,structural_design,structural_engineer
+R403.1.3.4,Footing|Wall|Slab,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,structural_design,structural_engineer
+R403.1.3.5,Footing|Wall|Slab,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Storage (S),sd|dd|cd,structural_design,structural_engineer
+R403.1.3.5.1,Beam|Column|Footing|Slab|Wall,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,structural_design,structural_engineer
+R403.1.3.5.2,Wall|Footing,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Storage (S),sd|dd|cd,structural_design,structural_engineer
+R403.1.3.5.3,Slab|Footing|Wall,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),dd|cd,structural_design,structural_engineer
+R403.1.3.5.4,Wall|Footing|Slab|Column|Beam,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Institutional (I),sd|dd|cd,structural_design,structural_engineer
+R403.1.3.6,Footing|Column,Residential (R),sd|dd|cd,structural_design,structural_engineer
+R403.1.4,Footing,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Utility and Miscellaneous (U),sd|dd|cd,structural_design,structural_engineer
+R403.1.4.1,Footing|Wall|Column|Slab,Residential (R)|Utility and Miscellaneous (U),sd|dd|cd,structural_design,structural_engineer
+R403.1.5,Footing,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|High Hazard (H),sd|dd|cd,structural_design,structural_engineer
+R403.1.6,Wall|Footing|Slab,Residential (R)|Business (B)|Assembly (A),sd|dd|cd,structural_design,structural_engineer
+R403.1.6.1,Wall|Footing|Slab|Bearing,Residential (R),sd|dd|cd,structural_design,structural_engineer
+R403.1.7,Footing|Slab,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Storage (S),sd|dd|cd,site_planning,civil_engineer
+R403.1.7.1,Footing|Slab|Wall|RetainingWall|BuildingElementProxy,Residential (R)|Assembly (A)|Business (B)|Educational (E)|Institutional (I),sd|dd|cd,site_planning,civil_engineer
+R403.1.7.2,Footing|Slab|Wall,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Storage (S),sd|dd|cd,site_planning,civil_engineer
+R403.1.7.3,Footing|Slab|Wall,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|High Hazard (H),sd|dd|cd,site_planning,civil_engineer
+R403.1.7.4,Footing|EarthworksElement,Assembly (A)|Business (B)|Educational (E)|Mercantile (M)|Residential (R),sd|dd|cd,site_planning,civil_engineer
+R403.1.8,Footing|Slab|Foundation|BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,structural_design,structural_engineer
+R403.1.8.1,Footing|DeepFoundation|EarthworksElement,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,site_planning,civil_engineer
+R403.2,Footing,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Storage (S),sd|dd|cd,structural_design,structural_engineer
+R403.3,Footing|Slab,Residential (R)|Utility and Miscellaneous (U),sd|dd|cd,site_planning,architect
+R403.3.1,Footing|Slab|Wall,Residential (R)|Assembly (A)|Business (B)|Storage (S),sd|dd|cd,structural_design,structural_engineer
+R403.3.1.1,Slab|Wall|Footing|Beam,Residential (R)|Business (B)|Assembly (A)|Educational (E)|Institutional (I),sd|dd|cd,assemblies_envelope,architect
+R403.3.1.2,Slab|Footing|Wall,Residential (R),sd|dd|cd,assemblies_envelope,architect
+R403.3.2,Slab|Footing|Covering,Residential (R),sd|dd|cd,assemblies_envelope,architect
+R403.3.3,Slab|EarthworksElement|Footing,Residential (R)|Business (B)|Assembly (A),sd|dd|cd,site_planning,civil_engineer
+R403.3.4,Slab|Wall|Footing|BuildingElementProxy,Residential (R)|Commercial (B),sd|dd|cd,special_construction,architect
+R403.4,Footing|Wall|BuildingElementProxy,Residential (R)|Assembly (A)|Business (B),sd|dd|cd,structural_design,structural_engineer
+R403.4.1,Footing|Slab,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Storage (S),sd|dd|cd,structural_design,structural_engineer
+R403.4.2,Footing,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Storage (S),sd|dd|cd,structural_design,structural_engineer
+R403.5,Footing|Slab|Wall,Residential (R),sd|dd|cd,structural_design,structural_engineer
+R404,,,,none,none
+R404.1,Wall|Footing,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Storage (S),sd|dd|cd,structural_design,structural_engineer
+R404.1.1,Wall|Footing|Slab,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Storage (S),sd|dd|cd,structural_design,structural_engineer
+R404.1.2,Wall|Footing,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|High Hazard (H),sd|dd|cd,structural_design,structural_engineer
+R404.1.2.1,Wall|Footing|Slab,Residential (R)|Assembly (A)|Business (B),sd|dd|cd,structural_design,structural_engineer
+R404.1.3,Wall|Footing|Slab,Residential (R)|Business (B)|Assembly (A)|Educational (E)|Institutional (I),sd|dd|cd,structural_design,structural_engineer
+R404.1.3.1,Wall,Residential (R),sd|dd|cd,structural_design,structural_engineer
+R404.1.3.2,Wall|Footing|Slab,Residential (R)|Business (B)|Assembly (A),sd|dd|cd,structural_design,structural_engineer
+R404.1.3.2.1,Wall|Slab|Footing,Residential (R),sd|dd|cd,structural_design,structural_engineer
+R404.1.3.2.2,Wall|Slab|Footing,Residential (R),sd|dd|cd,structural_design,structural_engineer
+R404.1.3.3,Wall|Slab|Footing,Residential (R)|Business (B)|Assembly (A),sd|dd|cd,structural_design,structural_engineer
+R404.1.3.3.1,Wall|Footing|Slab,Residential (R)|Business (B)|Educational (E),sd|dd|cd,structural_design,structural_engineer
+R404.1.3.3.2,Slab|Footing|Wall|Column|Beam,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|High Hazard (H),cd|ca,structural_design,structural_engineer
+R404.1.3.3.3,Slab|Wall|Footing|Column|Beam,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,structural_design,structural_engineer
+R404.1.3.3.4,Slab|Footing|Wall|Column,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,finishes_materials,structural_engineer
+R404.1.3.3.5,Wall|Column|Slab|Footing,Residential (R)|Business (B)|Assembly (A)|Educational (E)|Institutional (I),cd|ca,structural_design,structural_engineer
+R404.1.3.3.6,Wall|Slab|Footing,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Storage (S),sd|dd|cd,structural_design,structural_engineer
+R404.1.3.3.6.1,Wall|Slab|Footing,Residential (R),sd|dd|cd,assemblies_envelope,architect
+R404.1.3.3.7.1,Footing|Slab|Wall|Column,Residential (R)|Business (B)|Educational (E)|Assembly (A)|Institutional (I),sd|dd|cd,structural_design,structural_engineer
+R404.1.3.3.7.2,Wall|Footing,Residential (R)|Business (B)|Assembly (A),sd|dd|cd,structural_design,structural_engineer
+R404.1.3.3.7.3,Wall,Residential (R),sd|dd|cd,structural_design,structural_engineer
+R404.1.3.3.7.4,Wall|Slab|Footing,Residential (R)|Business (B)|Assembly (A),sd|dd|cd,structural_design,structural_engineer
+R404.1.3.3.7.5,Wall|ReinforcingBar|BuildingElementProxy,Residential (R)|Business (B)|Educational (E),sd|dd|cd,structural_design,structural_engineer
+R404.1.3.3.7.6,Wall|ReinforcingBar,Residential (R)|Business (B)|Educational (E)|Assembly (A),sd|dd|cd,structural_design,structural_engineer
+R404.1.3.3.7.7,Wall|Footing|Slab,Residential (R),sd|dd|cd,structural_design,structural_engineer
+R404.1.3.3.7.8,Wall|Footing,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,structural_design,structural_engineer
+R404.1.3.3.8,Wall|Covering,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Mercantile (M),sd|dd|cd,assemblies_envelope,architect
+R404.1.3.4,Wall|Footing|Slab,Residential (R),sd|dd|cd,structural_design,structural_engineer
+R404.1.4.1,Wall|Footing,Residential (R),sd|dd|cd,structural_design,structural_engineer
+R404.1.4.2,Wall|Footing,Residential (R)|Assembly (A)|Business (B),sd|dd|cd,structural_design,structural_engineer
+R404.1.5,Wall|Footing|Slab,Residential (R)|Business (B)|Assembly (A),sd|dd|cd,structural_design,structural_engineer
+R404.1.5.1,Wall|Footing,Residential (R),sd|dd|cd,structural_design,structural_engineer
+R404.1.5.2,Wall|Footing,Residential (R)|Business (B)|Educational (E)|Assembly (A),sd|dd|cd,structural_design,structural_engineer
+R404.1.5.3,Wall|Footing|Column,Residential (R),sd|dd|cd,structural_design,structural_engineer
+R404.1.6,Wall|Footing,Residential (R)|Assembly (A)|Business (B),sd|dd|cd,assemblies_envelope,architect
+R404.1.7,Wall|Slab|Footing,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Storage (S),sd|dd|cd,structural_design,structural_engineer
+R404.1.8,Wall|Footing,Residential (R),sd|dd|cd,structural_design,structural_engineer
+R404.1.9,Column|Footing,Residential (R)|Utility and Miscellaneous (U),sd|dd|cd,structural_design,structural_engineer
+R404.1.9.1,Footing|Wall,Residential (R),sd|dd|cd,structural_design,structural_engineer
+R404.1.9.2,Bearing|Footing|Member,Residential (R),sd|dd|cd,structural_design,structural_engineer
+R404.1.9.3,Column|Wall|Bearing,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Storage (S),sd|dd|cd,structural_design,structural_engineer
+R404.1.9.4,Wall|Column,Residential (R),sd|dd|cd,structural_design,structural_engineer
+R404.1.9.5,Column|Footing|Wall,Residential (R),sd|dd|cd,structural_design,structural_engineer
+R404.2,Wall|Footing|Slab,Residential (R),sd|dd|cd,structural_design,structural_engineer
+R404.2.1,Wall|Beam|Column|Slab,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Storage (S),sd|dd|cd,structural_design,structural_engineer
+R404.2.2,Wall,Residential (R),sd|dd|cd,structural_design,structural_engineer
+R404.2.3,Wall|Slab|Footing,Residential (R),sd|dd|cd,structural_design,structural_engineer
+R404.2.4,Wall|Slab,Residential (R),sd|dd|cd,structural_design,structural_engineer
+R404.2.5,Wall|Slab|Footing,Residential (R),sd|dd|cd,assemblies_envelope,architect
+R404.2.6,Wall|Covering,Residential (R),sd|dd|cd,structural_design,structural_engineer
+R404.3,Slab|Footing|Wall,Residential (R),sd|dd|cd,structural_design,structural_engineer
+R404.4,Wall|EarthworksElement|Footing,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,structural_design,structural_engineer
+R404.5.1,Wall|BuildingElementProxy|Footing,Residential (R),sd|dd|cd,structural_design,structural_engineer
+R404.5.2,Wall|Footing,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),cd,structural_design,structural_engineer
+R404.5.3,Wall|Slab,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Storage (S),cd|ca,special_construction,structural_engineer
+R405,,,,none,none
+R405.1,Footing|Slab|Wall,Residential (R)|Assembly (A)|Business (B),sd|dd|cd,site_planning,architect
+R405.1.1,Wall|Footing|Slab,Residential (R)|Business (B)|Assembly (A)|Institutional (I)|Storage (S),sd|dd|cd,assemblies_envelope,architect
+R405.2,Wall|Footing|Slab,Residential (R),sd|dd|cd,structural_design,architect
+R405.2.1,Slab|Footing|EarthworksElement,Residential (R)|Assembly (A)|Business (B)|Institutional (I)|Educational (E),sd|dd|cd,assemblies_envelope,architect
+R405.2.2,Slab|Covering,Residential (R),sd|dd|cd,assemblies_envelope,architect
+R405.2.3,Footing|Slab|BuildingElementProxy,Residential (R)|Business (B)|Assembly (A),sd|dd|cd,plumbing_systems,civil_engineer
+R406,,,,none,none
+R406.1,Wall|Footing|Slab,Residential (R)|Assembly (A)|Business (B)|Educational (E)|Institutional (I),sd|dd|cd,assemblies_envelope,architect
+R406.2,Wall|Footing|Slab,Residential (R)|Assembly (A)|Business (B)|Educational (E),sd|dd|cd,assemblies_envelope,architect
+R406.3,Wall|Slab|Footing,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Storage (S),sd|dd|cd,assemblies_envelope,architect
+R406.3.1,Wall,Residential (R)|Assembly (A)|Business (B)|Educational (E)|Institutional (I),cd|ca,assemblies_envelope,architect
+R406.3.2,Wall|Slab|Footing|Covering,Residential (R)|Business (B)|Assembly (A),sd|dd|cd,assemblies_envelope,architect
+R406.3.3,Footing|Wall|Slab|Covering,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,assemblies_envelope,architect
+R406.3.4,EarthworksElement|Footing,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,site_planning,civil_engineer
+R406.4,Wall|Slab|Footing,Residential (R)|Assembly (A)|Business (B)|Institutional (I),sd|dd|cd,assemblies_envelope,architect
+R406.4.1,Wall|Slab,Residential (R)|Business (B),cd|ca,assemblies_envelope,architect
+R407,,,,none,none
+R407.1,Column,Residential (R),sd|dd|cd,finishes_materials,architect
+R407.2,Column,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Storage (S),sd|dd|cd,finishes_materials,architect
+R407.3,Column|Footing,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,structural_design,structural_engineer
+R408,,,,none,none
+R408.1,Slab|Wall|BuildingElementProxy,Residential (R)|Business (B)|Assembly (A),sd|dd|cd,assemblies_envelope,architect
+R408.2,Wall|Slab,Residential (R)|Assembly (A)|Business (B)|Educational (E)|Institutional (I),sd|dd|cd,assemblies_envelope,architect
+R408.3,Slab|Wall|Covering,Residential (R),sd|dd|cd,interior_environment,architect
+R408.4,Slab|Wall|BuildingElementProxy,Residential (R),sd|dd|cd,accessibility,architect
+R408.5,Slab|Footing|Covering,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),cd|ca,finishes_materials,architect
+R408.6,Slab|Footing|EarthworksElement,Residential (R)|Business (B)|Assembly (A),sd|dd|cd,site_planning,civil_engineer
+R408.7,Wall|Slab|Footing,Residential (R)|Storage (S)|Utility and Miscellaneous (U),sd|dd|cd,site_planning,architect
+R408.8,Slab|Covering,Residential (R),sd|dd|cd,assemblies_envelope,architect

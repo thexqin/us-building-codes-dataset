@@ -1,0 +1,238 @@
+id,ifc_type,occupancy,design_phase,code_category,primary_responsibility
+18,Footing|DeepFoundation|Slab|EarthworksElement,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,structural_design,structural_engineer
+1801,,,,none,none
+1801.1,Wall|Footing|Slab|Column,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,structural_design,structural_engineer
+1802,,,,none,none
+1802.1,Footing|DeepFoundation|EarthworksElement,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,structural_design,structural_engineer
+1803,,,,none,none
+1803.1,Footing|Slab|DeepFoundation|EarthworksElement,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,site_planning,civil_engineer
+1803.2,Footing|DeepFoundation|Slab|Wall,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,structural_design,civil_engineer
+1803.3,Footing|Slab|DeepFoundation|EarthworksElement,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,structural_design,civil_engineer
+1803.3.1,Footing|DeepFoundation|EarthworksElement,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,site_planning,civil_engineer
+1803.4,EarthworksElement|Footing|DeepFoundation,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|High Hazard (H),sd|dd|cd,structural_design,civil_engineer
+1803.5,Footing|DeepFoundation|Slab,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,site_planning,civil_engineer
+1803.5.1,EarthworksElement|Footing|DeepFoundation,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,site_planning,civil_engineer
+1803.5.2,Footing|DeepFoundation|Slab,Assembly (A)|Business (B)|Residential (R)|Educational (E)|Storage (S),sd|dd|cd,site_planning,civil_engineer
+1803.5.3,Footing|Slab|Wall,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Storage (S),sd|dd|cd,structural_design,structural_engineer
+1803.5.4,Slab|Footing|Wall,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Storage (S),sd|dd|cd,site_planning,civil_engineer
+1803.5.5,DeepFoundation|Footing,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,structural_design,structural_engineer
+1803.5.6,Footing|DeepFoundation|Slab,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,structural_design,structural_engineer
+1803.5.7,Footing|Wall|Slab|DeepFoundation|EarthworksElement,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,structural_design,structural_engineer
+1803.5.8,Footing|Slab|Wall,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,site_planning,civil_engineer
+1803.5.9,Footing|Slab|EarthworksElement,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,structural_design,structural_engineer
+1803.5.10,Footing|Slab|Wall|EarthworksElement,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|High Hazard (H),sd|dd|cd,structural_design,structural_engineer
+1803.5.11,Footing|Slab|DeepFoundation,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|High Hazard (H),sd|dd|cd,structural_design,structural_engineer
+1803.5.12,Footing|DeepFoundation|Wall|Slab,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Institutional (I),sd|dd|cd,structural_design,structural_engineer
+1803.6,Footing|DeepFoundation|Slab|Wall,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,site_planning,civil_engineer
+1804,,,,none,none
+1804.1,Footing|DeepFoundation|EarthworksElement,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,structural_design,structural_engineer
+1804.2,Footing|Wall|Slab|DeepFoundation,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),dd|cd,structural_design,structural_engineer
+1804.2.1,Footing|Wall,Business (B)|Residential (R)|Assembly (A),cd|ca,structural_design,structural_engineer
+1804.3,Wall|Footing|Slab|EarthworksElement,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,site_planning,civil_engineer
+1804.4,Slab|Wall|Footing|EarthworksElement,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|High Hazard (H),sd|dd|cd,site_planning,civil_engineer
+1804.5,EarthworksElement|Slab|Footing,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,site_planning,civil_engineer
+1804.6,Footing|Slab|DeepFoundation|EarthworksElement,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,structural_design,structural_engineer
+1804.7,Footing|Slab|DeepFoundation,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,site_planning,civil_engineer
+1805,,,,none,none
+1805.1,Wall|Slab,Residential (R)|Institutional (I),sd|dd|cd,assemblies_envelope,architect
+1805.1.1,Wall|Slab|Footing|BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,site_planning,architect
+1805.1.2,Slab|Footing|EarthworksElement,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,site_planning,civil_engineer
+1805.1.2.1,Slab|Wall|Footing,Residential (R),sd|dd|cd,site_planning,architect
+1805.1.3,Slab|Wall|Footing,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,site_planning,civil_engineer
+1805.2,Wall|Slab|Footing,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|High Hazard (H),sd|dd|cd,assemblies_envelope,architect
+1805.2.1,Slab|Covering,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,finishes_materials,architect
+1805.2.2,Wall|Footing,Business (B)|Residential (R)|Assembly (A)|Educational (E)|Mercantile (M),sd|dd|cd,assemblies_envelope,architect
+1805.2.2.1,Wall|Footing,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,assemblies_envelope,architect
+1805.3,Wall|Slab,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Storage (S),sd|dd|cd,assemblies_envelope,architect
+1805.3.1,Slab|Covering,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Institutional (I),sd|dd|cd,assemblies_envelope,architect
+1805.3.2,Wall,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,assemblies_envelope,architect
+1805.3.2.1,Wall,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,assemblies_envelope,architect
+1805.3.3,Wall|Slab,Business (B)|Educational (E)|Residential (R)|Assembly (A),sd|dd|cd,assemblies_envelope,architect
+1805.4,Footing|Slab|Wall|DrainageElement|BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,site_planning,civil_engineer
+1805.4.1,Slab,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Storage (S),sd|dd|cd,assemblies_envelope,architect
+1805.4.2,Footing|Slab|Wall,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,site_planning,civil_engineer
+1805.4.3,Footing|Slab|Wall,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,plumbing_systems,civil_engineer
+1806,,,,none,none
+1806.1,Footing|DeepFoundation|Slab,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Storage (S),sd|dd|cd,structural_design,structural_engineer
+1806.2,Footing|Slab|Wall,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Storage (S),sd|dd|cd,structural_design,structural_engineer
+1806.3,Wall|Footing|Slab,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Storage (S),sd|dd|cd,structural_design,structural_engineer
+1806.3.1,Footing|Slab|Wall|DeepFoundation,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,structural_design,structural_engineer
+1806.3.2,Footing|Slab|DeepFoundation,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|High Hazard (H),sd|dd|cd,structural_design,structural_engineer
+1806.3.3,Footing|DeepFoundation|Slab|Wall,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,structural_design,structural_engineer
+1806.3.4,Column|BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Utility and Miscellaneous (U),sd|dd|cd,structural_design,structural_engineer
+1807,,,,none,none
+1807.1,Wall|Footing,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,structural_design,structural_engineer
+1807.1.1,Wall|Footing|Slab,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|High Hazard (H),sd|dd|cd,structural_design,structural_engineer
+1807.1.2,Wall|Slab|Footing,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,structural_design,structural_engineer
+1807.1.3,Wall|Footing|Slab,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Storage (S),sd|dd|cd,structural_design,structural_engineer
+1807.1.4,Wall|Footing|Slab,Residential (R)|Business (B)|Institutional (I),sd|dd|cd,structural_design,structural_engineer
+1807.1.5,Wall|Footing|Slab,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Storage (S),sd|dd|cd,structural_design,structural_engineer
+1807.1.6,Wall|Footing|Slab,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,structural_design,structural_engineer
+1807.1.6.1,Wall|Footing,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|High Hazard (H),sd|dd|cd,structural_design,structural_engineer
+1807.1.6.2,Wall|Footing,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Storage (S),sd|dd|cd,structural_design,structural_engineer
+1807.1.6.2.1,Wall|Footing|Slab,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Institutional (I),sd|dd|cd,structural_design,structural_engineer
+1807.1.6.3,Wall|Footing|Slab,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Storage (S),sd|dd|cd,structural_design,structural_engineer
+1807.1.6.3.1,Wall|Footing,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,structural_design,structural_engineer
+1807.1.6.3.2,Wall|Footing|Slab,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Institutional (I),sd|dd|cd,structural_design,structural_engineer
+1807.2,Wall|EarthworksElement|Footing,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,structural_design,structural_engineer
+1807.2.1,Wall|Footing|Slab,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Storage (S),sd|dd|cd,structural_design,structural_engineer
+1807.2.2,Wall|Slab|Footing,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,structural_design,structural_engineer
+1807.2.3,Wall|Footing,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,structural_design,structural_engineer
+1807.2.4,Wall|BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|High Hazard (H),sd|dd|cd,structural_design,structural_engineer
+1807.2.5,Wall|Railing,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|High Hazard (H),sd|dd|cd,means_of_egress,architect
+1807.2.5.1,Wall|Railing|Slab,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Mercantile (M),sd|dd|cd,means_of_egress,architect
+1807.2.5.2,Wall|Railing,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Mercantile (M),sd|dd|cd,means_of_egress,architect
+1807.2.5.3,Railing|Wall,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Institutional (I),sd|dd|cd,means_of_egress,architect
+1807.3,Column|Footing|DeepFoundation,Utility and Miscellaneous (U)|Assembly (A)|Business (B)|Educational (E)|Residential (R),sd|dd|cd,structural_design,structural_engineer
+1807.3.1,Wall|Slab|Footing|Column,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,structural_design,structural_engineer
+1807.3.2,Wall|Slab|Footing,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,structural_design,structural_engineer
+1807.3.2.1,Footing|Column|DeepFoundation,Assembly (A)|Business (B)|Residential (R)|Storage (S)|Mercantile (M),sd|dd|cd,structural_design,structural_engineer
+1807.3.2.2,Footing|DeepFoundation|Slab,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,structural_design,structural_engineer
+1807.3.2.3,Footing|DeepFoundation|Slab,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,structural_design,structural_engineer
+1807.3.3,Column|Footing|EarthworksElement,Business (B)|Residential (R)|Assembly (A)|Educational (E)|Factory and Industrial (F),sd|dd|cd,structural_design,structural_engineer
+1808,,,,none,none
+1808.1,Footing|DeepFoundation|Slab,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,structural_design,structural_engineer
+1808.2,Footing|DeepFoundation|Slab,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Storage (S),sd|dd|cd,structural_design,structural_engineer
+1808.3,Footing|DeepFoundation|Slab,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,structural_design,structural_engineer
+1808.3.1,Footing|DeepFoundation|Slab,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Institutional (I),sd|dd|cd,structural_design,structural_engineer
+1808.3.2,Footing|Slab|Wall,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Storage (S),sd|dd|cd,structural_design,structural_engineer
+1808.4,Footing|DeepFoundation|Slab,Factory and Industrial (F)|Business (B)|Institutional (I),sd|dd|cd,structural_design,structural_engineer
+1808.5,Footing|DeepFoundation|Slab,Assembly (A)|Business (B)|Residential (R)|Factory and Industrial (F)|Institutional (I),sd|dd|cd,structural_design,structural_engineer
+1808.6,Footing|Slab|DeepFoundation,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,structural_design,structural_engineer
+1808.6.1,Footing|Slab|DeepFoundation,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,structural_design,structural_engineer
+1808.6.2,Slab|Footing,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Storage (S),sd|dd|cd,structural_design,structural_engineer
+1808.6.3,Footing|Slab|Wall,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Storage (S),sd|dd|cd,structural_design,structural_engineer
+1808.6.4,Footing|DeepFoundation|Slab,Business (B)|Residential (R)|Educational (E)|Assembly (A)|Mercantile (M),sd|dd|cd,site_planning,civil_engineer
+1808.7,Footing|Slab|Wall|BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|High Hazard (H),sd|dd|cd,site_planning,civil_engineer
+1808.7.1,Footing|Wall|Slab,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,site_planning,civil_engineer
+1808.7.2,Footing|Slab|Wall,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,site_planning,civil_engineer
+1808.7.3,Slab|Wall,Assembly (A)|Residential (R)|Institutional (I),sd|dd|cd,site_planning,civil_engineer
+1808.7.4,Footing|Slab,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|High Hazard (H),sd|dd|cd,site_planning,civil_engineer
+1808.7.5,Footing|DeepFoundation|Slab,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,site_planning,civil_engineer
+1808.8,Footing|Wall|Slab|Column,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Storage (S),sd|dd|cd,structural_design,structural_engineer
+1808.8.1,Footing|DeepFoundation|Slab,Residential (R)|Utility and Miscellaneous (U)|Assembly (A)|Business (B),sd|dd|cd,structural_design,structural_engineer
+1808.8.2,Footing|DeepFoundation,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,structural_design,structural_engineer
+1808.8.3,DeepFoundation|Footing|Slab,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,structural_design,structural_engineer
+1808.8.4,Footing|Slab|Wall|Column|DeepFoundation,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),cd|ca,structural_design,structural_engineer
+1808.8.5,Footing|Wall|Slab|DeepFoundation,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,structural_design,structural_engineer
+1808.8.6,Footing|DeepFoundation|Slab,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|High Hazard (H),sd|dd|cd,structural_design,structural_engineer
+1808.9,Column|Wall|Footing,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,structural_design,structural_engineer
+1809,,,,none,none
+1809.1,Footing|Slab,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Storage (S),sd|dd|cd,structural_design,structural_engineer
+1809.2,Footing|Slab|Wall,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Storage (S),sd|dd|cd,structural_design,structural_engineer
+1809.3,Footing,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,structural_design,structural_engineer
+1809.4,Footing,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Storage (S),sd|dd|cd,structural_design,structural_engineer
+1809.5,Footing|DeepFoundation|Slab,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|High Hazard (H),sd|dd|cd,structural_design,structural_engineer
+1809.5.1,Slab|Door|Ramp|Stair,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,site_planning,architect
+1809.6,Footing|Slab,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|High Hazard (H),sd|dd|cd,structural_design,structural_engineer
+1809.7,Footing|Wall,Residential (R),sd|dd|cd,structural_design,structural_engineer
+1809.8,Footing|Wall,Residential (R),sd|dd|cd,structural_design,structural_engineer
+1809.9,Footing|Wall,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Storage (S),sd|dd|cd,structural_design,structural_engineer
+1809.9.1,Footing|Wall|Column,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,structural_design,structural_engineer
+1809.9.2,Wall|Footing|Course,Business (B)|Residential (R)|Assembly (A)|Educational (E)|Mercantile (M),sd|dd|cd,structural_design,structural_engineer
+1809.10,Wall|Footing|Column,Residential (R)|Business (B),sd|dd|cd,structural_design,structural_engineer
+1809.11,Footing|Member,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,structural_design,structural_engineer
+1809.12,Footing|DeepFoundation,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,structural_design,structural_engineer
+1809.13,Footing|Slab|Beam,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|High Hazard (H),sd|dd|cd,structural_design,structural_engineer
+1809.14,Beam|Footing,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,structural_design,structural_engineer
+1810,,,,none,none
+1810.1,DeepFoundation|Footing|Column,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,structural_design,structural_engineer
+1810.1.1,DeepFoundation|Footing,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,structural_design,structural_engineer
+1810.1.2,DeepFoundation|Footing,Business (B)|Assembly (A)|Residential (R)|Educational (E)|Factory and Industrial (F),sd|dd|cd,structural_design,structural_engineer
+1810.1.3,DeepFoundation|Column,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,structural_design,structural_engineer
+1810.1.4,DeepFoundation|Footing,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Institutional (I),sd|dd|cd,structural_design,structural_engineer
+1810.2,DeepFoundation|Footing|Column,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,structural_design,structural_engineer
+1810.2.1,DeepFoundation|Footing|Column,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,structural_design,structural_engineer
+1810.2.2,DeepFoundation|Wall|Slab,Residential (R)|Business (B)|Assembly (A),sd|dd|cd,structural_design,structural_engineer
+1810.2.3,DeepFoundation|Footing,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Institutional (I),sd|dd|cd,structural_design,structural_engineer
+1810.2.4,DeepFoundation|Column|Footing,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,structural_design,structural_engineer
+1810.2.4.1,DeepFoundation|Footing,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Institutional (I),sd|dd|cd,structural_design,structural_engineer
+1810.2.5,DeepFoundation|Footing,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,structural_design,structural_engineer
+1810.3,DeepFoundation|Footing,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,structural_design,structural_engineer
+1810.3.1,DeepFoundation|Footing,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,structural_design,structural_engineer
+1810.3.1.1,DeepFoundation,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,structural_design,structural_engineer
+1810.3.1.2,DeepFoundation|Member,Assembly (A)|Business (B)|Residential (R)|Institutional (I)|Mercantile (M),sd|dd|cd,structural_design,structural_engineer
+1810.3.1.3,DeepFoundation|Footing|Column,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Storage (S),sd|dd|cd,structural_design,structural_engineer
+1810.3.1.4,DeepFoundation,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,structural_design,structural_engineer
+1810.3.1.5,DeepFoundation|Footing,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,structural_design,structural_engineer
+1810.3.1.6,DeepFoundation,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Factory and Industrial (F),sd|dd|cd,structural_design,structural_engineer
+1810.3.2,DeepFoundation|Footing,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|High Hazard (H),sd|dd|cd,structural_design,structural_engineer
+1810.3.2.1,DeepFoundation|Footing,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,structural_design,structural_engineer
+1810.3.2.1.1,DeepFoundation|Footing,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|High Hazard (H),sd|dd|cd,structural_design,structural_engineer
+1810.3.2.1.2,DeepFoundation|Footing,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,structural_design,structural_engineer
+1810.3.2.2,Beam|Slab|Column|Footing|DeepFoundation,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,structural_design,structural_engineer
+1810.3.2.3,DeepFoundation|Member|Plate,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|High Hazard (H),sd|dd|cd,structural_design,structural_engineer
+1810.3.2.4,DeepFoundation,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,structural_design,structural_engineer
+1810.3.2.4.1,DeepFoundation|Footing,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,construction_type_ratings,structural_engineer
+1810.3.2.5,DeepFoundation|Footing,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,structural_design,structural_engineer
+1810.3.2.6,DeepFoundation|Footing,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|High Hazard (H),sd|dd|cd,structural_design,structural_engineer
+1810.3.2.7,DeepFoundation,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,structural_design,structural_engineer
+1810.3.2.8,DeepFoundation|Footing,Assembly (A)|Business (B)|Residential (R)|Institutional (I)|Mercantile (M),sd|dd|cd,structural_design,structural_engineer
+1810.3.3,DeepFoundation|Footing,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|High Hazard (H),sd|dd|cd,structural_design,structural_engineer
+1810.3.3.1,DeepFoundation|Footing,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,structural_design,structural_engineer
+1810.3.3.1.1,DeepFoundation,Business (B)|Residential (R)|Assembly (A)|Institutional (I)|Factory and Industrial (F),sd|dd|cd,structural_design,structural_engineer
+1810.3.3.1.2,DeepFoundation|Footing,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Institutional (I),sd|dd|cd,structural_design,structural_engineer
+1810.3.3.1.3,DeepFoundation,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,structural_design,structural_engineer
+1810.3.3.1.4,DeepFoundation|Footing,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,structural_design,structural_engineer
+1810.3.3.1.5,DeepFoundation|Footing,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,structural_design,structural_engineer
+1810.3.3.1.6,DeepFoundation|Footing,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,structural_design,structural_engineer
+1810.3.3.1.7,DeepFoundation|Footing|Column,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,structural_design,structural_engineer
+1810.3.3.1.8,DeepFoundation,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,structural_design,structural_engineer
+1810.3.3.1.9,DeepFoundation,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,structural_design,structural_engineer
+1810.3.3.2,DeepFoundation|Footing,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,structural_design,structural_engineer
+1810.3.4,DeepFoundation|Footing|Column,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,structural_design,structural_engineer
+1810.3.5,DeepFoundation|Footing,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,structural_design,structural_engineer
+1810.3.5.1,DeepFoundation,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Storage (S),dd|cd,structural_design,structural_engineer
+1810.3.5.2,DeepFoundation|Footing,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,structural_design,structural_engineer
+1810.3.5.2.1,DeepFoundation,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,structural_design,structural_engineer
+1810.3.5.2.2,DeepFoundation|Footing,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,structural_design,structural_engineer
+1810.3.5.2.3,DeepFoundation,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Mercantile (M),sd|dd|cd,structural_design,structural_engineer
+1810.3.5.3,DeepFoundation|Member,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|High Hazard (H),sd|dd|cd,structural_design,structural_engineer
+1810.3.5.3.1,DeepFoundation,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Factory and Industrial (F),sd|dd|cd,structural_design,structural_engineer
+1810.3.5.3.2,DeepFoundation|Member,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,structural_design,structural_engineer
+1810.3.5.3.3,DeepFoundation,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,structural_design,structural_engineer
+1810.3.5.3.4,DeepFoundation,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|High Hazard (H),sd|dd|cd,structural_design,structural_engineer
+1810.3.5.3.5,DeepFoundation|Footing,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,structural_design,structural_engineer
+1810.3.6,DeepFoundation|Member,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,structural_design,structural_engineer
+1810.3.6.1,DeepFoundation|Footing,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|High Hazard (H),sd|dd|cd,structural_design,structural_engineer
+1810.3.7,DeepFoundation|Footing,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,structural_design,structural_engineer
+1810.3.8,DeepFoundation,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,structural_design,structural_engineer
+1810.3.9,DeepFoundation|Footing,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,structural_design,structural_engineer
+1810.3.9.1,DeepFoundation,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,structural_design,structural_engineer
+1810.3.9.2,DeepFoundation|Footing,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|High Hazard (H),sd|dd|cd,structural_design,structural_engineer
+1810.3.9.3,DeepFoundation|ReinforcingElement,Residential (R)|Utility and Miscellaneous (U),sd|dd|cd,structural_design,structural_engineer
+1810.3.9.4,DeepFoundation|Footing,Residential (R)|Utility and Miscellaneous (U),sd|dd|cd,structural_design,structural_engineer
+1810.3.9.4.1,DeepFoundation|Footing,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Institutional (I),sd|dd|cd,structural_design,structural_engineer
+1810.3.9.4.2,DeepFoundation,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|High Hazard (H),sd|dd|cd,structural_design,structural_engineer
+1810.3.9.4.2.1,DeepFoundation|Footing,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|High Hazard (H),sd|dd|cd,structural_design,structural_engineer
+1810.3.9.4.2.2,DeepFoundation|Footing|Slab,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,structural_design,structural_engineer
+1810.3.9.5,DeepFoundation|Footing,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,structural_design,structural_engineer
+1810.3.9.6,DeepFoundation,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,structural_design,structural_engineer
+1810.3.10,DeepFoundation|Footing,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|High Hazard (H),sd|dd|cd,structural_design,structural_engineer
+1810.3.10.1,DeepFoundation,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,structural_design,structural_engineer
+1810.3.10.2,DeepFoundation|ReinforcingElement,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|High Hazard (H),sd|dd|cd,structural_design,structural_engineer
+1810.3.10.3,DeepFoundation|Member,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,structural_design,structural_engineer
+1810.3.10.4,DeepFoundation,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Institutional (I),sd|dd|cd,structural_design,structural_engineer
+1810.3.11,Footing|DeepFoundation|Slab,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Institutional (I),sd|dd|cd,structural_design,structural_engineer
+1810.3.11.1,DeepFoundation|Footing,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|High Hazard (H),sd|dd|cd,structural_design,structural_engineer
+1810.3.11.2,DeepFoundation|Footing|Member,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Institutional (I),sd|dd|cd,structural_design,structural_engineer
+1810.3.12,Beam|DeepFoundation|Footing,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,structural_design,structural_engineer
+1810.3.13,DeepFoundation|Footing|Column,Residential (R)|Utility and Miscellaneous (U),sd|dd|cd,structural_design,structural_engineer
+1810.4,DeepFoundation|Footing,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),dd|cd,structural_design,structural_engineer
+1810.4.1,DeepFoundation|Footing,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Institutional (I),sd|dd|cd,structural_design,structural_engineer
+1810.4.1.1,DeepFoundation|Footing,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|High Hazard (H),sd|dd|cd,structural_design,structural_engineer
+1810.4.1.2,DeepFoundation,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,structural_design,structural_engineer
+1810.4.1.3,DeepFoundation|Footing,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,structural_design,structural_engineer
+1810.4.1.4,DeepFoundation|Footing,Business (B)|Residential (R)|Assembly (A)|Institutional (I)|Factory and Industrial (F),sd|dd|cd,structural_design,structural_engineer
+1810.4.1.5,DeepFoundation,Business (B)|Educational (E)|Residential (R)|Assembly (A)|Institutional (I),cd|ca,structural_design,structural_engineer
+1810.4.2,DeepFoundation|Footing,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),cd,structural_design,structural_engineer
+1810.4.3,DeepFoundation|Footing,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,structural_design,structural_engineer
+1810.4.4,DeepFoundation|Footing,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,structural_design,structural_engineer
+1810.4.5,DeepFoundation|Footing,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,structural_design,structural_engineer
+1810.4.6,DeepFoundation|Footing,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,structural_design,structural_engineer
+1810.4.7,DeepFoundation|Footing|Column,Business (B)|Residential (R)|Assembly (A)|Institutional (I)|Factory and Industrial (F),sd|dd|cd,structural_design,structural_engineer
+1810.4.8,DeepFoundation|Footing,Business (B)|Residential (R)|Assembly (A)|Institutional (I)|Mercantile (M),sd|dd|cd,structural_design,structural_engineer
+1810.4.9,DeepFoundation|Footing,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),cd|ca,structural_design,structural_engineer
+1810.4.10,DeepFoundation,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,structural_design,structural_engineer
+1810.4.11,DeepFoundation,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,structural_design,structural_engineer
+1810.4.12,DeepFoundation|Footing,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),cd|ca,structural_design,structural_engineer

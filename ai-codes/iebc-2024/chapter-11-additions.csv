@@ -1,0 +1,20 @@
+id,ifc_type,occupancy,design_phase,code_category,primary_responsibility
+11.0,Wall|Slab|Roof|BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Mercantile (M)|Residential (R),sd|dd|cd,special_construction,architect
+1101.0,,,,none,none
+1101.1,Wall|Slab|Roof,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Mercantile (M),sd|dd|cd,occupancy_classification,architect
+1101.2,Wall|Slab|Roof|Column|Covering,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Institutional (I),sd|dd|cd,special_construction,architect
+1101.3,BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Institutional (I),sd|dd|cd,occupancy_classification,architect
+1101.4,Wall|Slab|Roof|Window|Door,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Mercantile (M),sd|dd|cd,special_construction,architect
+1101.5,Wall|Door|BuildingElementProxy,Institutional (I),sd|dd|cd,fire_resistance_smoke_protection,architect
+1101.6,Wall|Slab|Roof|Window,Educational (E),sd|dd|cd,interior_environment,architect
+1101.7,Roof|Slab|Railing|Stair|Door,Assembly (A)|Business (B)|Educational (E)|Mercantile (M)|Residential (R),sd|dd|cd,assemblies_envelope,architect
+1102.0,,,,none,none
+1102.1,Wall|Slab|Roof|Column|BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),concept|sd|dd|cd,building_height_area_limits,architect
+1102.2,Wall|Slab|Stair|Elevator|CurtainWall,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,building_height_area_limits,architect
+1102.3,Wall|Stair|Elevator|BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,fire_protection_alarm_systems,fire_protection_engineer
+1103.0,,,,none,none
+1103.1,Beam|Column|Slab|Footing,Residential (R)|Assembly (A)|Business (B),sd|dd|cd,structural_design,structural_engineer
+1103.2,Wall|Column|Beam,Residential (R),sd|dd|cd,structural_design,structural_engineer
+1103.3,Wall|Foundation|Slab,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Mercantile (M),sd|dd|cd,site_planning,architect
+1104.0,,,,none,none
+1104.1,Wall|Roof|Slab|Window|Door,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,assemblies_envelope,architect

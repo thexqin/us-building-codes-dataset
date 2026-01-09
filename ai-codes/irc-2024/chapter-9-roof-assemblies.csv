@@ -1,0 +1,168 @@
+id,ifc_type,occupancy,design_phase,code_category,primary_responsibility
+9,Roof|Slab|Covering,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Mercantile (M),sd|dd|cd,assemblies_envelope,architect
+R901,,,,none,none
+R901.1,Roof|Slab|Covering,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Mercantile (M),sd|dd|cd,assemblies_envelope,architect
+R902,,,,none,none
+R902.1,Roof|Slab,Assembly (A)|Business (B)|Educational (E)|Mercantile (M)|Residential (R),sd|dd|cd,assemblies_envelope,architect
+R902.2,Roof|Covering,Residential (R),sd|dd|cd,finishes_materials,architect
+R902.3,Roof|Covering,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,fire_resistance_smoke_protection,architect
+R902.4,Roof|BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,fire_resistance_smoke_protection,architect
+R903,,,,none,none
+R903.1,Roof|Slab|Covering,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,assemblies_envelope,architect
+R903.2,Wall|Roof|Covering,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Mercantile (M),sd|dd|cd,assemblies_envelope,architect
+R903.2.1,Wall|Roof|Covering|Slab|Window,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,assemblies_envelope,architect
+R903.2.2,Chimney|Roof|Covering,Residential (R),sd|dd|cd,assemblies_envelope,architect
+R903.3,Wall|Covering|Slab,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Mercantile (M),sd|dd|cd,assemblies_envelope,architect
+R903.4,Roof|Slab|Drainage,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Mercantile (M),sd|dd|cd,plumbing_systems,architect
+R903.4.1,Roof|Slab|Wall|Covering,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,plumbing_systems,architect
+R904,,,,none,none
+R904.1,Roof|Covering,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,finishes_materials,architect
+R904.2,Roof|Covering,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Mercantile (M),sd|dd|cd,finishes_materials,architect
+R904.3,Roof|Covering,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,finishes_materials,architect
+R904.4,Roof,Assembly (A)|Business (B)|Educational (E)|Mercantile (M)|Residential (R),cd|ca,finishes_materials,architect
+R905,,,,none,none
+R905.1,Roof|Covering,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,assemblies_envelope,architect
+R905.1.1,Roof|Slab|Covering,Residential (R)|Business (B)|Assembly (A),sd|dd|cd,assemblies_envelope,architect
+R905.1.2,Roof|Covering,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|High Hazard (H),sd|dd|cd,assemblies_envelope,architect
+R905.2,Roof,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Mercantile (M),sd|dd|cd,finishes_materials,architect
+R905.2.1,Roof|Slab,Residential (R)|Assembly (A)|Business (B)|Educational (E)|Mercantile (M),sd|dd|cd,assemblies_envelope,architect
+R905.2.2,Roof|Covering,"Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|High Hazard (H)', 'Institutional (I)', 'Mercantile (M)', 'Residential (R)', 'Storage (S)', 'Utility and Miscellaneous (U)",sd|dd|cd,assemblies_envelope,architect
+R905.2.3,Roof|Slab|Covering,Residential (R)|Assembly (A)|Business (B)|Mercantile (M),sd|dd|cd,assemblies_envelope,architect
+R905.2.4,Roof,Assembly (A)|Business (B)|Educational (E)|Residential (R),sd|dd|cd,finishes_materials,architect
+R905.2.4.1,Roof|Covering,Residential (R)|Business (B)|Educational (E)|Assembly (A)|Institutional (I),sd|dd|cd,assemblies_envelope,architect
+R905.2.5,Roof|Slab,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Mercantile (M),dd|cd,finishes_materials,architect
+R905.2.6,Roof,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Utility and Miscellaneous (U),cd|ca,finishes_materials,architect
+R905.2.7,Roof|Slab|Covering,Residential (R)|Business (B),sd|dd|cd,assemblies_envelope,architect
+R905.2.8,Roof|Covering|Slab,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,assemblies_envelope,architect
+R905.2.8.1,Roof|Covering|Wall,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,finishes_materials,architect
+R905.2.8.2,Roof|Covering|Slab,Residential (R)|Business (B)|Assembly (A),sd|dd|cd,finishes_materials,architect
+R905.2.8.3,Wall|Roof|Slab|Covering,Residential (R),sd|dd|cd,assemblies_envelope,architect
+R905.2.8.4,Wall|Chimney|Roof,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),cd|ca,assemblies_envelope,architect
+R905.2.8.5,Roof|Covering,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Mercantile (M),sd|dd|cd,assemblies_envelope,architect
+R905.3,Roof,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Mercantile (M),sd|dd|cd,finishes_materials,architect
+R905.3.1,Roof|Slab,Residential (R),sd|dd|cd,assemblies_envelope,architect
+R905.3.2,Roof,Residential (R),sd|dd|cd,assemblies_envelope,architect
+R905.3.3,Roof|Covering,Residential (R),sd|dd|cd,finishes_materials,architect
+R905.3.4,Roof,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Mercantile (M),sd|dd|cd,finishes_materials,architect
+R905.3.5,Roof|Covering,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|High Hazard (H),sd|dd|cd,finishes_materials,architect
+R905.3.6,Roof|Covering,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|High Hazard (H),sd|dd|cd,assemblies_envelope,architect
+R905.3.7,Roof|Slab|Covering,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),dd|cd,finishes_materials,architect
+R905.3.8,Roof,Residential (R)|Business (B)|Assembly (A),sd|dd|cd,finishes_materials,architect
+R905.3.9,Roof|Covering,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Mercantile (M),dd|cd,assemblies_envelope,architect
+R905.4,Roof|Covering,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|High Hazard (H),sd|dd|cd,finishes_materials,architect
+R905.4.1,Roof|Slab,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Mercantile (M),sd|dd|cd,assemblies_envelope,architect
+R905.4.2,Roof|Slab,Residential (R),sd|dd|cd,assemblies_envelope,architect
+R905.4.3,Roof|Slab|Covering,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,finishes_materials,architect
+R905.4.3.1,Roof|Slab,Residential (R)|Business (B)|Assembly (A),sd|dd|cd,assemblies_envelope,architect
+R905.4.4,Roof,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Mercantile (M),sd|dd|cd,finishes_materials,architect
+R905.4.4.1,Roof|Slab,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Mercantile (M),sd|dd|cd,assemblies_envelope,architect
+R905.4.5,Roof|Covering,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),cd|ca,finishes_materials,architect
+R905.4.6,Roof|Slab|Covering,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|High Hazard (H),sd|dd|cd,assemblies_envelope,architect
+R905.5,Roof|Covering,Residential (R)|Business (B)|Assembly (A)|Educational (E)|Mercantile (M),sd|dd|cd,finishes_materials,architect
+R905.5.1,Roof|Slab,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Utility and Miscellaneous (U),sd|dd|cd,finishes_materials,architect
+R905.5.2,Roof,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Mercantile (M),sd|dd|cd,assemblies_envelope,architect
+R905.5.3,Roof|Covering,Assembly (A)|Business (B)|Educational (E)|Mercantile (M)|Residential (R),sd|dd|cd,finishes_materials,architect
+R905.5.3.1,Roof|Slab,Residential (R)|Assembly (A)|Business (B),sd|dd|cd,assemblies_envelope,architect
+R905.5.4,Roof|Covering,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|High Hazard (H),sd|dd|cd,finishes_materials,architect
+R905.5.5,Roof|Covering,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|High Hazard (H),cd|ca,finishes_materials,architect
+R905.5.6,Roof|Covering,Residential (R)|Business (B)|Educational (E)|Assembly (A),sd|dd|cd,assemblies_envelope,architect
+R905.6,Roof,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Mercantile (M),cd|ca,finishes_materials,architect
+R905.6.1,Roof|Slab,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Mercantile (M),sd|dd|cd,assemblies_envelope,architect
+R905.6.2,Roof|Covering,Residential (R)|Business (B)|Assembly (A)|Educational (E)|Mercantile (M),sd|dd|cd,finishes_materials,architect
+R905.6.3,Roof|Slab|Covering,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|High Hazard (H),sd|dd|cd,finishes_materials,architect
+R905.6.3.1,Roof|Slab,Residential (R)|Assembly (A)|Business (B),sd|dd|cd,assemblies_envelope,architect
+R905.6.4,Roof,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Mercantile (M),sd|dd|cd,finishes_materials,architect
+R905.6.5,Roof|Covering,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Mercantile (M),sd|dd|cd,finishes_materials,architect
+R905.6.6,Roof|Covering,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Mercantile (M),dd|cd,finishes_materials,architect
+R905.6.7,Roof|Chimney|Wall,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),dd|cd,assemblies_envelope,architect
+R905.7,Roof|Covering,Residential (R)|Assembly (A)|Business (B)|Educational (E)|Mercantile (M),sd|dd|cd,finishes_materials,architect
+R905.7.1,Roof|Slab|Covering,Residential (R)|Assembly (A)|Business (B),sd|dd|cd,assemblies_envelope,architect
+R905.7.1.1,Roof|Slab,Residential (R)|Business (B)|Assembly (A)|Educational (E),sd|dd|cd,assemblies_envelope,architect
+R905.7.2,Roof|Covering,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Utility and Miscellaneous (U),sd|dd|cd,finishes_materials,architect
+R905.7.3,Roof|Slab|Covering,Residential (R)|Business (B)|Assembly (A),sd|dd|cd,finishes_materials,architect
+R905.7.3.1,Roof|Slab|Covering,Residential (R)|Assembly (A)|Business (B),sd|dd|cd,assemblies_envelope,architect
+R905.7.4,Roof|Covering,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,finishes_materials,architect
+R905.7.5,Roof,Residential (R)|Assembly (A)|Business (B)|Educational (E)|Mercantile (M),sd|dd|cd,assemblies_envelope,architect
+R905.7.6,Roof|Covering,Residential (R)|Business (B)|Assembly (A),dd|cd,finishes_materials,architect
+R905.7.7,Roof|Covering,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,assemblies_envelope,architect
+R905.7.8,Roof,Assembly (A)|Business (B)|Educational (E)|Residential (R),cd|ca,finishes_materials,architect
+R905.8,Roof,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Utility and Miscellaneous (U),sd|dd|cd,finishes_materials,architect
+R905.8.1,Roof|Slab|Covering,Residential (R)|Assembly (A)|Business (B),sd|dd|cd,assemblies_envelope,architect
+R905.8.1.1,Roof|Slab|Covering,Residential (R)|Assembly (A)|Educational (E)|Business (B),sd|dd|cd,assemblies_envelope,architect
+R905.8.2,Roof,Residential (R),sd|dd|cd,finishes_materials,architect
+R905.8.3,Roof|Slab|Covering,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|High Hazard (H),sd|dd|cd,finishes_materials,architect
+R905.8.3.1,Roof|Slab|Covering,Residential (R)|Assembly (A)|Business (B)|Educational (E),sd|dd|cd,assemblies_envelope,architect
+R905.8.4,Roof|Slab,Residential (R)|Business (B)|Assembly (A),sd|dd|cd,finishes_materials,architect
+R905.8.5,Roof,Assembly (A)|Business (B)|Educational (E)|Residential (R),sd|dd|cd,finishes_materials,architect
+R905.8.6,Roof|Covering,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,assemblies_envelope,architect
+R905.8.7,Roof|Covering,Residential (R),cd|ca,finishes_materials,architect
+R905.8.8,Roof|Covering,Residential (R)|Assembly (A)|Business (B),sd|dd|cd,finishes_materials,architect
+R905.8.9,Roof|Covering,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|High Hazard (H),sd|dd|cd,assemblies_envelope,architect
+R905.8.10,Roof|Covering,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Mercantile (M),cd|ca,finishes_materials,architect
+R905.9,Roof,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),cd|ca,finishes_materials,architect
+R905.9.1,Roof|Slab,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|High Hazard (H),sd|dd|cd,assemblies_envelope,architect
+R905.9.2,Roof|Covering,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Mercantile (M),sd|dd|cd,finishes_materials,architect
+R905.9.3,Roof,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Mercantile (M),cd|ca,finishes_materials,architect
+R905.9.4,Roof|Slab|Covering,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,assemblies_envelope,architect
+R905.10,Roof,Assembly (A)|Business (B)|Educational (E)|Mercantile (M)|Residential (R),sd|dd|cd,finishes_materials,architect
+R905.10.1,Roof|Slab,Residential (R)|Business (B)|Assembly (A),sd|dd|cd,assemblies_envelope,architect
+R905.10.2,Roof,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Utility and Miscellaneous (U),sd|dd|cd,assemblies_envelope,architect
+R905.10.3,Roof|Slab|Covering,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Mercantile (M),sd|dd|cd,finishes_materials,architect
+R905.10.4,Roof|Covering,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|High Hazard (H),cd|ca,finishes_materials,architect
+R905.10.5,Roof|Slab,Assembly (A)|Business (B)|Educational (E)|Mercantile (M)|Residential (R),sd|dd|cd,assemblies_envelope,architect
+R905.10.6,Roof|Slab|Covering,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,finishes_materials,architect
+R905.11,Roof,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Mercantile (M),dd|cd|ca,finishes_materials,architect
+R905.11.1,Roof|Slab,Business (B)|Educational (E)|Residential (R)|Assembly (A)|Mercantile (M),sd|dd|cd,assemblies_envelope,architect
+R905.11.2,Roof|Covering,Assembly (A)|Business (B)|Educational (E)|Mercantile (M)|Residential (R),dd|cd,finishes_materials,architect
+R905.11.2.1,Roof|Covering,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Mercantile (M),cd,finishes_materials,architect
+R905.11.3,Roof,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Mercantile (M),dd|cd,finishes_materials,architect
+R905.11.4,Roof|Slab|Covering,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),dd|cd,assemblies_envelope,architect
+R905.12,Roof|Covering,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Mercantile (M),sd|dd|cd,finishes_materials,architect
+R905.12.1,Roof|Slab,Assembly (A)|Business (B)|Educational (E)|Mercantile (M)|Residential (R),sd|dd|cd,assemblies_envelope,architect
+R905.12.2,Roof,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Mercantile (M),sd|dd|cd,finishes_materials,architect
+R905.12.3,Roof|Slab|Covering,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),cd|ca,finishes_materials,architect
+R905.12.4,Roof|Slab|Covering,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,assemblies_envelope,architect
+R905.13,Roof|Covering,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|High Hazard (H),sd|dd|cd,finishes_materials,architect
+R905.13.1,Roof,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Mercantile (M),sd|dd|cd,assemblies_envelope,architect
+R905.13.2,Slab|Roof|Covering,Residential (R)|Business (B)|Assembly (A),sd|dd|cd,finishes_materials,architect
+R905.13.3,Roof|Slab|Covering,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),dd|cd,finishes_materials,architect
+R905.13.4,Roof,Assembly (A)|Business (B)|Educational (E)|Mercantile (M)|Residential (R),sd|dd|cd,assemblies_envelope,architect
+R905.13.5,Roof|Slab|Wall|Covering,Residential (R),sd|dd|cd,finishes_materials,architect
+R905.14,Roof|Slab,Assembly (A)|Business (B)|Educational (E)|Mercantile (M)|Residential (R),dd|cd,finishes_materials,architect
+R905.14.1,Roof|Slab,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,assemblies_envelope,architect
+R905.14.2,Roof|Covering,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|High Hazard (H),sd|dd|cd,finishes_materials,architect
+R905.14.3,Roof|Slab|Covering,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Mercantile (M),cd|ca,finishes_materials,architect
+R905.14.4,Roof|Slab,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Mercantile (M),sd|dd|cd,assemblies_envelope,architect
+R905.15,Roof|Covering,Residential (R),sd|dd|cd,assemblies_envelope,architect
+R905.15.1,Roof|Slab|Covering,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,assemblies_envelope,architect
+R905.15.2,Roof,Residential (R)|Business (B)|Assembly (A)|Educational (E)|Mercantile (M),sd|dd|cd,assemblies_envelope,architect
+R905.15.3,Roof|Slab|Covering,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|High Hazard (H),sd|dd|cd,assemblies_envelope,architect
+R905.15.3.1,Roof|Slab|Covering,Residential (R)|Assembly (A)|Business (B),sd|dd|cd,assemblies_envelope,architect
+R905.15.4,Roof|Covering,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|High Hazard (H),sd|dd|cd,finishes_materials,architect
+R905.15.5,Roof|Covering,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Mercantile (M),cd|ca,assemblies_envelope,architect
+R905.15.6,Roof|Covering,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Mercantile (M),sd|dd|cd,assemblies_envelope,architect
+R905.16,Roof|Covering,Residential (R)|Business (B),sd|dd|cd,special_construction,architect
+R905.16.1,Roof|Slab,Assembly (A)|Business (B)|Educational (E)|Residential (R),sd|dd|cd,assemblies_envelope,architect
+R905.16.2,Roof|Slab,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Mercantile (M),sd|dd|cd,assemblies_envelope,architect
+R905.16.3,Roof|Slab|Covering,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,finishes_materials,architect
+R905.16.3.1,Roof|Slab|Covering,Residential (R)|Business (B),sd|dd|cd,assemblies_envelope,architect
+R905.16.4,Roof|Slab|Covering,Residential (R)|Utility and Miscellaneous (U),sd|dd|cd,assemblies_envelope,architect
+R905.16.5,Roof|Covering,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,assemblies_envelope,architect
+R905.16.6,Roof|Covering,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|High Hazard (H),cd|ca,assemblies_envelope,architect
+R905.16.7,Roof|Covering,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Mercantile (M),sd|dd|cd,assemblies_envelope,architect
+R906,,,,none,none
+R906.1,Roof|Slab|Covering,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),dd|cd,assemblies_envelope,architect
+R906.2,Slab|Roof,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Mercantile (M),sd|dd|cd,finishes_materials,architect
+R907,,,,none,none
+R907.1,Roof|BuildingElementProxy,Business (B)|Educational (E)|Residential (R)|Assembly (A)|Mercantile (M),sd|dd|cd,special_construction,architect
+R908,,,,none,none
+R908.1,Roof|Slab|Covering,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,finishes_materials,architect
+R908.2,Roof|Slab|Beam|Column,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,structural_design,structural_engineer
+R908.3,Roof|Slab|Covering,Residential (R)|Business (B)|Assembly (A),sd|dd|cd,assemblies_envelope,architect
+R908.4,Roof|Covering|Slab,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Mercantile (M),sd|dd|cd,assemblies_envelope,architect
+R908.4.1,Roof|Covering,Residential (R)|Assembly (A)|Business (B)|Mercantile (M),dd|cd,fire_resistance_smoke_protection,architect
+R908.5,Roof|Covering,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,finishes_materials,architect
+R908.6,Roof|Covering|Wall,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,assemblies_envelope,architect
+R909,,,,none,none
+R909.1,Roof|Covering,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),dd|cd,finishes_materials,architect
+R909.2,Roof,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Mercantile (M),dd|cd,finishes_materials,architect

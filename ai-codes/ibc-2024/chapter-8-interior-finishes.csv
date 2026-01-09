@@ -1,0 +1,70 @@
+id,ifc_type,occupancy,design_phase,code_category,primary_responsibility
+8,Wall|Ceiling|Slab|Covering|BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Institutional (I)|Residential (R),sd|dd|cd,finishes_materials,architect
+801,,,,none,none
+801.1,Covering|Wall|Slab,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Institutional (I),sd|dd|cd,finishes_materials,architect
+802,,,,none,none
+802.1,Wall|Slab|Covering,Assembly (A)|Business (B)|Educational (E)|Institutional (I)|Residential (R),sd|dd|cd,finishes_materials,architect
+802.2,Slab|Covering,Assembly (A)|Business (B)|Educational (E)|Institutional (I)|Residential (R),sd|dd|cd,finishes_materials,architect
+802.3,Wall|Covering|Roof,Assembly (A)|Business (B)|Educational (E)|Institutional (I),sd|dd|cd,finishes_materials,architect
+802.4,Wall|Covering|Slab|BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,finishes_materials,architect
+802.5,Wall|Slab|Roof|Covering|Ceiling,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Mercantile (M),sd|dd|cd,finishes_materials,architect
+802.6,Window|Wall,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|High Hazard (H),sd|dd|cd,finishes_materials,architect
+802.7,Wall|Covering|Slab|Ceiling|BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,finishes_materials,architect
+803,,,,none,none
+803.1,Wall|Covering|Slab,Assembly (A)|Business (B)|Educational (E)|Institutional (I)|Residential (R),sd|dd|cd,finishes_materials,architect
+803.1.1,Wall|Slab|Covering,Assembly (A)|Business (B)|Educational (E)|Institutional (I)|Residential (R),sd|dd|cd,finishes_materials,architect
+803.1.1.1,Wall|Slab|Ceiling,Assembly (A)|Business (B)|Educational (E)|Institutional (I)|Residential (R),sd|dd|cd,finishes_materials,architect
+803.1.2,Wall|Slab|Covering,Assembly (A)|Business (B)|Educational (E)|Institutional (I)|Residential (R),sd|dd|cd,finishes_materials,architect
+803.1.3,Wall|Covering|Slab,Assembly (A)|Business (B)|Educational (E)|Institutional (I)|Residential (R),sd|dd|cd,finishes_materials,architect
+803.2,Wall|Slab|Covering,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Institutional (I),sd|dd|cd,finishes_materials,architect
+803.3,Wall|Column|Beam|Roof,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Mercantile (M),sd|dd|cd,finishes_materials,architect
+803.4,Wall|Ceiling|Slab|Covering,Assembly (A)|Business (B)|Educational (E)|Institutional (I)|Residential (R),sd|dd|cd,finishes_materials,architect
+803.5,Wall|Covering,Assembly (A)|Business (B)|Educational (E)|Institutional (I)|Residential (R),sd|dd|cd,finishes_materials,architect
+803.5.1,Wall|Covering,Assembly (A)|Business (B)|Educational (E)|Institutional (I)|Residential (R),sd|dd|cd,finishes_materials,architect
+803.5.1.1,Wall|Covering,Assembly (A)|Business (B)|Educational (E)|Institutional (I)|Residential (R),sd|dd|cd,finishes_materials,architect
+803.5.2,Wall|Covering|Slab,Assembly (A)|Business (B)|Educational (E)|Institutional (I)|Residential (R),sd|dd|cd,finishes_materials,architect
+803.6,Covering|Slab|BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Institutional (I)|Residential (R),sd|dd|cd,finishes_materials,architect
+803.7,Covering|Wall,Assembly (A)|Business (B)|Educational (E)|Institutional (I)|Residential (R),sd|dd|cd,finishes_materials,architect
+803.8,Covering,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|High Hazard (H),sd|dd|cd,finishes_materials,architect
+803.9,Wall|Ceiling|BuildingElementProxy|Covering,Assembly (A)|Business (B)|Educational (E)|Institutional (I)|Residential (R),sd|dd|cd,finishes_materials,architect
+803.10,Wall|Slab|Covering,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Institutional (I),sd|dd|cd,finishes_materials,architect
+803.11,Wall|Ceiling|Covering,Assembly (A)|Business (B)|Educational (E)|Institutional (I)|Residential (R),sd|dd|cd,finishes_materials,architect
+803.12,Wall|Slab|Covering,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Institutional (I),sd|dd|cd,finishes_materials,architect
+803.13,Wall|Slab|Covering|Stair|Ramp,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Institutional (I),sd|dd|cd,finishes_materials,architect
+803.14,Wall|Ceiling|Slab|Covering,Assembly (A)|Business (B)|Educational (E)|Institutional (I)|Residential (R),sd|dd|cd,finishes_materials,architect
+803.15,Wall|Slab|Roof|Column|Beam,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Institutional (I),dd|cd,finishes_materials,architect
+803.15.1,Wall|Slab|Covering|Roof,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Institutional (I),sd|dd|cd,finishes_materials,architect
+803.15.1.1,Wall|Covering|Slab,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Institutional (I),sd|dd|cd,finishes_materials,architect
+803.15.2,Wall|Slab|Covering|Roof|Ceiling,Assembly (A)|Business (B)|Educational (E)|Institutional (I)|Residential (R),sd|dd|cd,finishes_materials,architect
+803.15.2.1,Covering|Slab|Roof|Wall,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,fire_resistance_smoke_protection,architect
+803.15.3,Wall|Slab|Covering,Assembly (A)|Business (B)|Educational (E)|Mercantile (M)|Residential (R),dd|cd,fire_resistance_smoke_protection,architect
+803.15.4,Wall|Slab|Covering|Roof,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Institutional (I),sd|dd|cd,finishes_materials,architect
+804,,,,none,none
+804.1,Slab|Covering,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Mercantile (M),sd|dd|cd,finishes_materials,architect
+804.2,Slab|Covering,Assembly (A)|Business (B)|Educational (E)|Institutional (I)|Mercantile (M),sd|dd|cd,finishes_materials,architect
+804.3,Slab|Covering,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,finishes_materials,architect
+804.4,Slab|Covering,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Institutional (I),sd|dd|cd,finishes_materials,architect
+804.4.1,Slab|Covering,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|High Hazard (H),sd|dd|cd,finishes_materials,architect
+804.4.2,Slab|Stair|Ramp,Institutional (I)|Assembly (A)|Business (B)|Educational (E)|High Hazard (H),sd|dd|cd,finishes_materials,architect
+805,,,,none,none
+805.1,Slab|Floor|Covering,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Institutional (I),sd|dd|cd,fire_resistance_smoke_protection,architect
+805.1.1,Slab|Wall|Floor|BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,fire_resistance_smoke_protection,architect
+805.1.2,Slab|Covering,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Institutional (I),sd|dd|cd,finishes_materials,architect
+805.1.3,Slab|Covering,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Mercantile (M),sd|dd|cd,finishes_materials,architect
+806,,,,none,none
+806.1,Covering|BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Institutional (I)|Residential (R),sd|dd|cd,finishes_materials,architect
+806.2,Covering|Wall|Slab,Assembly (A)|Business (B)|Educational (E)|Institutional (I)|Mercantile (M),sd|dd|cd,finishes_materials,architect
+806.3,Covering,Assembly (A)|Educational (E)|Institutional (I)|Residential (R)|Business (B),dd|cd,fire_protection_alarm_systems,architect
+806.4,Covering|Wall|Slab,Assembly (A)|Business (B)|Educational (E)|Institutional (I)|Residential (R),sd|dd|cd,finishes_materials,architect
+806.5,Covering|Wall|Slab,Assembly (A),sd|dd|cd,finishes_materials,architect
+806.6,Wall|Slab|Covering,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Institutional (I),sd|dd|cd,finishes_materials,architect
+806.6.1,Covering,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Institutional (I),sd|dd|cd,finishes_materials,architect
+806.7,Covering|Wall|Slab,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,finishes_materials,architect
+806.8,BuildingElementProxy|Covering,Assembly (A)|Educational (E)|Institutional (I)|Residential (R)|Business (B),sd|dd|cd,finishes_materials,architect
+807,,,,none,none
+807.1,Wall|Slab|Roof|Covering,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),dd|cd,finishes_materials,architect
+808,,,,none,none
+808.1,Covering|Slab,Assembly (A)|Business (B)|Educational (E)|Institutional (I)|Residential (R),sd|dd|cd,finishes_materials,architect
+808.1.1,Covering|Wall|Slab,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Institutional (I),dd|cd,finishes_materials,architect
+808.1.1.1,Covering,Assembly (A)|Business (B)|Educational (E)|Residential (R),dd|cd,finishes_materials,architect
+808.1.1.2,Covering|Slab,Assembly (A)|Business (B)|Educational (E)|Residential (R),dd|cd,fire_resistance_smoke_protection,architect

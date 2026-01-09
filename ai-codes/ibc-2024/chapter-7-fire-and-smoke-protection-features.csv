@@ -1,0 +1,547 @@
+id,ifc_type,occupancy,design_phase,code_category,primary_responsibility
+7,Wall|Slab|Column|BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Residential (R),sd|dd|cd,fire_resistance_smoke_protection,architect
+701,,,,none,none
+701.1,Wall|Slab|Door|CurtainWall|Roof,Assembly (A)|Business (B)|Residential (R)|Educational (E)|Institutional (I),sd|dd|cd,fire_resistance_smoke_protection,architect
+702,,,,none,none
+702.1,Wall|Slab|Door|Window|Roof,Assembly (A)|Business (B)|Residential (R)|Educational (E)|Institutional (I),sd|dd|cd,fire_resistance_smoke_protection,architect
+703,,,,none,none
+703.1,Wall|Slab|Column,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Institutional (I),sd|dd|cd,fire_resistance_smoke_protection,architect
+703.2,Wall|Slab|Roof|Column|Door,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Institutional (I),sd|dd|cd,fire_resistance_smoke_protection,architect
+703.2.1,Wall|Slab|Roof|Door|Window,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Institutional (I),sd|dd|cd,fire_resistance_smoke_protection,architect
+703.2.1.1,Wall|Partition,Assembly (A)|Business (B)|Educational (E)|Institutional (I)|Residential (R),sd|dd|cd,fire_resistance_smoke_protection,architect
+703.2.1.2,Wall|Slab|Roof,Assembly (A)|Business (B)|Educational (E)|Residential (R),sd|dd|cd,fire_resistance_smoke_protection,architect
+703.2.1.3,Slab|Wall|Beam|Column,Assembly (A)|Business (B)|Residential (R)|Institutional (I),dd|cd,fire_resistance_smoke_protection,architect
+703.2.1.4,Wall|Slab|Roof|Door|CurtainWall,Assembly (A)|Business (B)|Residential (R)|Institutional (I)|Mercantile (M),sd|dd|cd,fire_resistance_smoke_protection,architect
+703.2.1.5,Wall|Bearing,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Institutional (I),sd|dd|cd,fire_resistance_smoke_protection,architect
+703.2.2,Wall|Slab|Roof|Column|Beam,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Institutional (I),sd|dd|cd,fire_resistance_smoke_protection,architect
+703.2.3,Wall|Slab|Column|Beam|Roof,Assembly (A)|Business (B)|Residential (R)|Educational (E)|Institutional (I),dd|cd,fire_resistance_smoke_protection,architect
+703.3,Wall|Slab|Roof|Column|Beam,Assembly (A)|Business (B)|Educational (E)|Residential (R),sd|dd|cd,construction_type_ratings,architect
+703.3.1,Wall|Slab|Roof|Column|Beam,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Institutional (I),sd|dd|cd,finishes_materials,architect
+703.4,Window|Door|CurtainWall|Wall,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Institutional (I),sd|dd|cd,fire_resistance_smoke_protection,architect
+703.5,Wall|Partition|Slab|Roof,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),cd|ca,fire_resistance_smoke_protection,architect
+703.6,Wall|Beam|Column|Slab|Roof,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Storage (S),sd|dd|cd,fire_resistance_smoke_protection,architect
+703.7,Wall|Slab|Beam|Column|Roof,Assembly (A)|Business (B)|Educational (E)|Residential (R),dd|cd,fire_resistance_smoke_protection,architect
+704,,,,none,none
+704.1,Wall|Beam|Column|Slab|Roof,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,fire_resistance_smoke_protection,architect
+704.1.1,Wall|Beam|Column|Slab,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Institutional (I),sd|dd|cd,fire_resistance_smoke_protection,architect
+704.2,Column|Beam|Slab|Wall,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,fire_resistance_smoke_protection,architect
+704.3,Beam|Column|Slab|Wall,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,fire_resistance_smoke_protection,architect
+704.3.1,Wall|Column,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Institutional (I),sd|dd|cd,fire_resistance_smoke_protection,architect
+704.3.2,Slab|Covering,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Institutional (I),sd|dd|cd,fire_resistance_smoke_protection,architect
+704.4,Beam|Slab|BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Institutional (I),sd|dd|cd,fire_resistance_smoke_protection,architect
+704.5,Beam|Column|Member,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),dd|cd,fire_resistance_smoke_protection,structural_engineer
+704.5.1,Beam|Column|Member|BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),dd|cd,fire_resistance_smoke_protection,architect
+704.6,Wall|Column|Slab|Footing,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,fire_resistance_smoke_protection,structural_engineer
+704.7,Column|Beam|Slab,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Institutional (I),dd|cd,fire_resistance_smoke_protection,architect
+704.8,Column|Beam,Assembly (A)|Business (B)|Factory and Industrial (F)|Mercantile (M)|Storage (S),sd|dd|cd,fire_resistance_smoke_protection,architect
+704.9,Wall|Column|Beam,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,fire_resistance_smoke_protection,architect
+704.10,Beam|Plate|BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,fire_resistance_smoke_protection,architect
+704.11,Column|Wall|Bearing,Assembly (A)|Business (B)|Educational (E)|Institutional (I)|Residential (R),dd|cd,fire_resistance_smoke_protection,structural_engineer
+704.12,Wall|Column|Beam|Slab,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),dd|cd,fire_resistance_smoke_protection,architect
+704.12.1,Wall|Column|Beam|Slab,Assembly (A)|Business (B)|Residential (R),dd|cd,fire_resistance_smoke_protection,architect
+704.12.2,Wall|Column|Beam|Slab,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Institutional (I),cd|ca,fire_resistance_smoke_protection,architect
+704.12.3,Wall|Column|Beam|Slab,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Institutional (I),dd|cd,fire_resistance_smoke_protection,architect
+704.12.3.1,Beam|Column|Slab|Wall,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Institutional (I),cd|ca,fire_resistance_smoke_protection,architect
+704.12.3.2,Beam|Column,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),cd|ca,fire_resistance_smoke_protection,fire_protection_engineer
+704.12.4,Beam|Column|Slab,Business (B)|Assembly (A)|Residential (R),cd|ca,fire_resistance_smoke_protection,architect
+704.12.5,Beam|Column|Slab|Wall,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),cd|ca,fire_resistance_smoke_protection,architect
+705,,,,none,none
+705.1,Wall,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,fire_resistance_smoke_protection,architect
+705.2,Wall|Roof|Slab|Stair|Ramp,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,fire_resistance_smoke_protection,architect
+705.2.1,Wall|Covering|Slab|Roof,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,fire_resistance_smoke_protection,architect
+705.2.2,Wall|Covering|Roof,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Mercantile (M),sd|dd|cd,construction_type_ratings,architect
+705.2.3,Wall|Slab|Roof|Covering,Residential (R)|Utility and Miscellaneous (U),sd|dd|cd,fire_resistance_smoke_protection,architect
+705.2.3.1,Slab|Railing|Stair|Covering,Residential (R)|Assembly (A)|Business (B)|Mercantile (M),sd|dd|cd,fire_resistance_smoke_protection,architect
+705.2.4,Window|Wall,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Mercantile (M),sd|dd|cd,construction_type_ratings,architect
+705.3,Wall|Door|Window|Slab|Roof,Residential (R)|Storage (S),sd|dd|cd,fire_resistance_smoke_protection,architect
+705.4,Wall,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Mercantile (M),sd|dd|cd,construction_type_ratings,architect
+705.5,Wall,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Utility and Miscellaneous (U),sd|dd|cd,fire_resistance_smoke_protection,architect
+705.6,Wall|Slab|Roof,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Institutional (I),sd|dd|cd,fire_resistance_smoke_protection,architect
+705.7,Wall|Column|Beam|Slab|Footing,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,fire_resistance_smoke_protection,architect
+705.7.1,Slab|Wall|Plate,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Mercantile (M),sd|dd|cd,fire_resistance_smoke_protection,architect
+705.8,Wall,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Institutional (I),sd|dd|cd,fire_resistance_smoke_protection,architect
+705.9,Wall|Window|Door,Assembly (A)|Business (B)|Educational (E)|High Hazard (H)|Residential (R),sd|dd|cd,fire_resistance_smoke_protection,architect
+705.9.1,Wall|Window|Door,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,fire_resistance_smoke_protection,architect
+705.9.2,Wall|Door|Window,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Institutional (I),sd|dd|cd,fire_resistance_smoke_protection,architect
+705.9.3,Window|Door|Wall,Assembly (A)|Business (B)|Residential (R),sd|dd|cd,fire_resistance_smoke_protection,architect
+705.9.4,Wall|Window|Door,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,fire_resistance_smoke_protection,architect
+705.9.5,Wall|Slab|BuildingElementProxy,Business (B)|Residential (R)|Assembly (A)|Educational (E)|Institutional (I),sd|dd|cd,fire_resistance_smoke_protection,architect
+705.9.6,Wall|Roof|Window|Door,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,fire_resistance_smoke_protection,architect
+705.10,Wall|Slab,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Institutional (I),sd|dd|cd,fire_resistance_smoke_protection,architect
+705.10.1,Slab|CurtainWall,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,fire_resistance_smoke_protection,architect
+705.11,Wall|Covering,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,fire_resistance_smoke_protection,architect
+705.12,Wall|Roof|Slab,Residential (R)|Utility and Miscellaneous (U)|Assembly (A)|Business (B)|Educational (E),sd|dd|cd,fire_resistance_smoke_protection,architect
+705.12.1,Wall|Slab|Covering,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,fire_resistance_smoke_protection,architect
+706,,,,none,none
+706.1,Wall|Slab,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,fire_resistance_smoke_protection,architect
+706.1.1,Wall,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Mercantile (M),sd|dd|cd,fire_resistance_smoke_protection,architect
+706.1.2,Wall,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|High Hazard (H),sd|dd|cd,fire_resistance_smoke_protection,architect
+706.2,Wall|Slab|Roof,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,fire_resistance_smoke_protection,architect
+706.3,Wall,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Institutional (I),sd|dd|cd,fire_resistance_smoke_protection,architect
+706.4,Wall,Assembly (A)|Business (B)|Educational (E)|High Hazard (H)|Institutional (I),sd|dd|cd,fire_resistance_smoke_protection,architect
+706.5,Wall|Slab,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|High Hazard (H),sd|dd|cd,fire_resistance_smoke_protection,architect
+706.5.1,Wall,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,fire_resistance_smoke_protection,architect
+706.5.2,Wall|Slab|Roof|Covering,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,fire_resistance_smoke_protection,architect
+706.6,Wall|Slab|Roof,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,fire_resistance_smoke_protection,architect
+706.6.1,Wall|Slab|Roof,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,fire_resistance_smoke_protection,architect
+706.6.2,Wall|Roof|Slab,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,fire_resistance_smoke_protection,architect
+706.7,Wall|Beam|Column,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Storage (S),sd|dd|cd,fire_resistance_smoke_protection,architect
+706.8,Wall|Door|Window,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,fire_resistance_smoke_protection,architect
+706.9,Wall|Door|Window|Slab,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Institutional (I),sd|dd|cd,fire_resistance_smoke_protection,architect
+706.10,Wall|Slab|Roof,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,fire_resistance_smoke_protection,architect
+706.11,Wall,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,fire_resistance_smoke_protection,architect
+707,,,,none,none
+707.1,Wall|Slab,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,fire_resistance_smoke_protection,architect
+707.2,Wall|Slab,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,fire_resistance_smoke_protection,architect
+707.3,Wall|Slab,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Institutional (I),sd|dd|cd,fire_resistance_smoke_protection,architect
+707.3.1,Wall|Slab|Door,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Institutional (I),sd|dd|cd,fire_resistance_smoke_protection,architect
+707.3.2,Wall|Stair|Ramp,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Institutional (I),sd|dd|cd,fire_resistance_smoke_protection,architect
+707.3.3,Wall|Stair|Ramp|Door,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Institutional (I),sd|dd|cd,fire_resistance_smoke_protection,architect
+707.3.4,Wall|Door,Assembly (A)|Business (B)|Educational (E)|Institutional (I)|Residential (R),sd|dd|cd,fire_resistance_smoke_protection,architect
+707.3.5,Wall|Door|Slab,Assembly (A)|Business (B)|Educational (E)|Institutional (I)|Residential (R),sd|dd|cd,fire_resistance_smoke_protection,architect
+707.3.6,Wall|Slab,Assembly (A)|Business (B)|Educational (E)|Mercantile (M)|Residential (R),sd|dd|cd,fire_resistance_smoke_protection,architect
+707.3.7,Wall|Door|Slab,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,fire_resistance_smoke_protection,architect
+707.3.8,Wall|Slab,Factory and Industrial (F)|High Hazard (H)|Business (B)|Storage (S),sd|dd|cd,fire_resistance_smoke_protection,architect
+707.3.9,Wall|Door,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Storage (S),sd|dd|cd,fire_resistance_smoke_protection,architect
+707.3.10,Wall|Slab|Roof,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|High Hazard (H),sd|dd|cd,fire_resistance_smoke_protection,architect
+707.3.11,Wall|Slab,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Storage (S),sd|dd|cd,fire_resistance_smoke_protection,architect
+707.4,Wall|Stair|Ramp|CurtainWall,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Institutional (I),sd|dd|cd,fire_resistance_smoke_protection,architect
+707.5,Wall|Slab|Roof,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Institutional (I),sd|dd|cd,fire_resistance_smoke_protection,architect
+707.5.1,Wall|Slab|Beam|Column,Factory and Industrial (F)|High Hazard (H)|Storage (S),sd|dd|cd,fire_resistance_smoke_protection,architect
+707.6,Wall|Door|Window,Assembly (A)|Business (B)|Educational (E)|Institutional (I)|Residential (R),sd|dd|cd,fire_resistance_smoke_protection,architect
+707.7,Wall|Slab|Door|Window,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Institutional (I),sd|dd|cd,fire_resistance_smoke_protection,architect
+707.7.1,Wall|Door|Slab|Stair|Ramp,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Institutional (I),sd|dd|cd,fire_resistance_smoke_protection,architect
+707.8,Wall|Slab|Roof,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,fire_resistance_smoke_protection,architect
+707.9,Wall|Roof|Slab,Assembly (A)|Business (B)|Educational (E)|Residential (R),sd|dd|cd,fire_resistance_smoke_protection,architect
+707.10,Wall|Slab,Assembly (A)|Business (B)|Educational (E)|Residential (R),sd|dd|cd,fire_resistance_smoke_protection,architect
+708,,,,none,none
+708.1,Wall|BuildingElementProxy,Institutional (I)|Residential (R)|Assembly (A)|Business (B),sd|dd|cd,fire_resistance_smoke_protection,architect
+708.2,Wall,Assembly (A)|Business (B)|Educational (E)|Mercantile (M)|Residential (R),sd|dd|cd,construction_type_ratings,architect
+708.3,Wall,Residential (R)|Institutional (I)|Assembly (A)|Business (B),sd|dd|cd,fire_resistance_smoke_protection,architect
+708.4,Wall|Slab|Roof,Assembly (A)|Business (B)|Educational (E)|Residential (R),sd|dd|cd,fire_resistance_smoke_protection,architect
+708.4.1,Wall|Door,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Institutional (I),sd|dd|cd,fire_resistance_smoke_protection,architect
+708.4.2,Wall|Slab|Column|Beam,Assembly (A)|Business (B)|Institutional (I)|Residential (R)|Mercantile (M),sd|dd|cd,fire_resistance_smoke_protection,architect
+708.4.3,Wall|Slab|Roof,Residential (R)|Assembly (A),sd|dd|cd,fire_resistance_smoke_protection,architect
+708.5,Wall,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Institutional (I),sd|dd|cd,fire_resistance_smoke_protection,architect
+708.6,Wall|Door|Window,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,fire_resistance_smoke_protection,architect
+708.7,Wall|Slab|Door|Window,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Institutional (I),sd|dd|cd,fire_resistance_smoke_protection,architect
+708.8,Wall|Slab,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Institutional (I),sd|dd|cd,fire_resistance_smoke_protection,architect
+708.9,Wall|Covering,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),dd|cd,fire_resistance_smoke_protection,architect
+709,,,,none,none
+709.1,Wall|Slab,Assembly (A)|Business (B)|Educational (E)|Institutional (I)|Residential (R),sd|dd|cd,fire_resistance_smoke_protection,architect
+709.2,Wall|Slab,Assembly (A)|Business (B)|Educational (E)|Institutional (I)|Residential (R),sd|dd|cd,fire_resistance_smoke_protection,architect
+709.3,Wall,Institutional (I),sd|dd|cd,fire_resistance_smoke_protection,architect
+709.4,Wall|Slab|Roof|Covering,Assembly (A)|Business (B)|Educational (E)|Institutional (I)|Residential (R),sd|dd|cd,fire_resistance_smoke_protection,architect
+709.4.1,Wall|Slab,Institutional (I)|Healthcare|Educational (E),sd|dd|cd,fire_resistance_smoke_protection,architect
+709.4.2,Wall|Door,Assembly (A)|Business (B)|Educational (E)|Institutional (I)|Residential (R),sd|dd|cd,fire_resistance_smoke_protection,architect
+709.5,Door|Wall,Institutional (I),sd|dd|cd,fire_resistance_smoke_protection,architect
+709.5.1,Door|Wall,Institutional (I),sd|dd|cd,fire_resistance_smoke_protection,architect
+709.6,Wall|Slab|Door,Assembly (A)|Business (B)|Educational (E)|Institutional (I)|Residential (R),sd|dd|cd,fire_resistance_smoke_protection,architect
+709.7,Wall|Slab|Door,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,fire_resistance_smoke_protection,architect
+709.8,Wall|BuildingElementProxy|Slab,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Institutional (I),dd|cd,fire_resistance_smoke_protection,architect
+710,,,,none,none
+710.1,Wall|BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,fire_resistance_smoke_protection,architect
+710.2,Wall,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Mercantile (M),sd|dd|cd,construction_type_ratings,architect
+710.3,Wall|BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Institutional (I)|Residential (R),sd|dd|cd,fire_resistance_smoke_protection,architect
+710.4,Wall|Slab|Roof|Covering,Institutional (I),sd|dd|cd,fire_resistance_smoke_protection,architect
+710.4.1,Wall|Door,Assembly (A)|Business (B)|Educational (E)|Institutional (I)|Residential (R),sd|dd|cd,fire_resistance_smoke_protection,architect
+710.5,Wall|Door|Window,Assembly (A)|Business (B)|Educational (E)|Institutional (I)|Residential (R),sd|dd|cd,fire_resistance_smoke_protection,architect
+710.5.1,Window|Wall,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|High Hazard (H),sd|dd|cd,fire_resistance_smoke_protection,architect
+710.5.2,Door|Wall,Assembly (A)|Business (B)|Educational (E)|Institutional (I)|Residential (R),sd|dd|cd,fire_resistance_smoke_protection,architect
+710.5.2.1,Door|Wall,Business (B)|Institutional (I)|Residential (R),sd|dd|cd,fire_resistance_smoke_protection,architect
+710.5.2.2,Door|Wall,Assembly (A)|Business (B)|Educational (E)|Institutional (I)|Residential (R),sd|dd|cd,fire_resistance_smoke_protection,architect
+710.5.2.2.1,Door,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),cd|ca,fire_resistance_smoke_protection,architect
+710.5.2.3,Door|Wall,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,fire_resistance_smoke_protection,architect
+710.5.3,Wall|Door|Window,Institutional (I),sd|dd|cd,fire_resistance_smoke_protection,architect
+710.6,Wall|Slab|Door,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Institutional (I),dd|cd,fire_resistance_smoke_protection,architect
+710.7,Wall|Slab|Roof,Assembly (A)|Business (B)|Educational (E)|Institutional (I)|Residential (R),dd|cd,fire_resistance_smoke_protection,architect
+710.8,Wall|Slab,Business (B)|Residential (R)|Assembly (A),dd|cd,fire_resistance_smoke_protection,mechanical_engineer
+711,,,,none,none
+711.1,Slab|Roof,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,assemblies_envelope,architect
+711.2,Slab|Roof,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,fire_resistance_smoke_protection,architect
+711.2.1,Wall|Slab|Roof|CurtainWall,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Storage (S),sd|dd|cd,construction_type_ratings,architect
+711.2.2,Wall|Slab|CurtainWall,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Institutional (I),sd|dd|cd,fire_resistance_smoke_protection,architect
+711.2.3,Slab|Beam|Column|Wall,Residential (R)|Institutional (I)|Assembly (A)|Business (B),sd|dd|cd,fire_resistance_smoke_protection,architect
+711.2.4,Slab|Roof,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Institutional (I),sd|dd|cd,fire_resistance_smoke_protection,architect
+711.2.4.1,Slab,Assembly (A)|Business (B)|Educational (E)|Mercantile (M)|Residential (R),sd|dd|cd,fire_resistance_smoke_protection,architect
+711.2.4.2,Slab|Wall,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Institutional (I),sd|dd|cd,fire_resistance_smoke_protection,architect
+711.2.4.3,Slab,Residential (R),sd|dd|cd,fire_resistance_smoke_protection,architect
+711.2.4.4,Slab|Wall,Institutional (I)|Residential (R)|Business (B),sd|dd|cd,fire_resistance_smoke_protection,architect
+711.2.4.5,Slab|Wall,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|High Hazard (H),sd|dd|cd,fire_resistance_smoke_protection,architect
+711.2.4.6,Slab|Roof,Assembly (A)|Business (B)|Educational (E)|Residential (R),sd|dd|cd,fire_resistance_smoke_protection,architect
+711.2.5,Covering|Slab|Roof,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),dd|cd,fire_resistance_smoke_protection,architect
+711.2.6,Slab|Roof,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,fire_resistance_smoke_protection,architect
+711.3,Slab|Roof,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Mercantile (M),sd|dd|cd,assemblies_envelope,architect
+711.3.1,Wall|Slab|Beam,Assembly (A)|Business (B)|Residential (R),sd|dd|cd,construction_type_ratings,architect
+711.3.2,Slab|Wall,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Institutional (I),sd|dd|cd,fire_resistance_smoke_protection,architect
+712,,,,none,none
+712.1,Wall|Slab|Door|Stair|Ramp,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,fire_resistance_smoke_protection,architect
+712.1.1,Wall|Slab|Door,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Institutional (I),sd|dd|cd,fire_resistance_smoke_protection,architect
+712.1.2,Stair|Wall|Slab,Residential (R),sd|dd|cd,fire_resistance_smoke_protection,architect
+712.1.3,Slab|Ramp|BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Mercantile (M),sd|dd|cd,fire_resistance_smoke_protection,architect
+712.1.3.1,Slab|Stair|Ramp|Covering,Assembly (A)|Educational (E)|Institutional (I)|Residential (R)|Storage (S),sd|dd|cd,fire_resistance_smoke_protection,architect
+712.1.3.2,ShadingDevice|BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Mercantile (M),sd|dd|cd,fire_resistance_smoke_protection,architect
+712.1.4,Wall|Slab|Roof,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),dd|cd,fire_resistance_smoke_protection,architect
+712.1.5,Wall|Slab,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Institutional (I),dd|cd,fire_resistance_smoke_protection,architect
+712.1.5.1,Slab|CurtainWall,Assembly (A)|Business (B)|Residential (R),sd|dd|cd,fire_resistance_smoke_protection,architect
+712.1.5.2,Slab|Wall|Covering,Assembly (A)|Business (B)|Residential (R)|Educational (E)|Institutional (I),sd|dd|cd,fire_resistance_smoke_protection,architect
+712.1.6,Wall|Slab|BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,fire_resistance_smoke_protection,mechanical_engineer
+712.1.7,Stair|Ramp|Slab|Wall|Railing,Institutional (I)|Assembly (A)|High Hazard (H),sd|dd|cd,means_of_egress,architect
+712.1.8,Chimney|Wall,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,fire_resistance_smoke_protection,architect
+712.1.9,Slab|Wall|Stair|StairFlight|BuildingElementProxy,Business (B)|Educational (E)|Factory and Industrial (F)|Mercantile (M)|Residential (R),sd|dd|cd,fire_resistance_smoke_protection,architect
+712.1.10,Ramp|RampFlight|Slab|Door,Storage (S),sd|dd|cd,fire_resistance_smoke_protection,architect
+712.1.10.1,Ramp|Slab|Wall,Storage (S),sd|dd|cd,fire_resistance_smoke_protection,architect
+712.1.10.2,Elevator|BuildingElementProxy,Storage (S),sd|dd|cd,elevators_conveying_systems,architect
+712.1.10.3,Slab|Wall,Storage (S),sd|dd|cd,fire_resistance_smoke_protection,architect
+712.1.11,Slab|Stair|Railing|Wall,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,fire_resistance_smoke_protection,architect
+712.1.12,Stair|Ramp|Wall|Slab,Assembly (A)|Business (B)|Educational (E)|Institutional (I)|Residential (R),sd|dd|cd,means_of_egress,architect
+712.1.13,Slab|Door|Wall,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Institutional (I),sd|dd|cd,fire_resistance_smoke_protection,architect
+712.1.13.1,Door|Slab,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),dd|cd,fire_resistance_smoke_protection,architect
+712.1.13.2,Slab|Roof|Covering,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,fire_resistance_smoke_protection,architect
+712.1.14,Wall|Slab|Stair|Door,Institutional (I),sd|dd|cd,fire_resistance_smoke_protection,architect
+712.1.15,Roof|Slab|Window,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,fire_resistance_smoke_protection,architect
+712.1.16,Slab|Wall|Stair|Door,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Institutional (I),sd|dd|cd,fire_resistance_smoke_protection,architect
+713,,,,none,none
+713.1,Wall|Slab|Stair|Ramp|Roof,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,fire_resistance_smoke_protection,architect
+713.2,Wall|Slab,Assembly (A)|Business (B)|Educational (E)|Institutional (I)|Residential (R),sd|dd|cd,fire_resistance_smoke_protection,architect
+713.3,Wall|Slab|Door,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Institutional (I),sd|dd|cd,fire_resistance_smoke_protection,architect
+713.4,Wall|Slab|Door,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Institutional (I),sd|dd|cd,fire_resistance_smoke_protection,architect
+713.5,Wall|Slab,Assembly (A)|Business (B)|Residential (R)|Institutional (I)|Storage (S),sd|dd|cd,fire_resistance_smoke_protection,architect
+713.6,Wall|Slab|Stair|Ramp,Assembly (A)|Business (B)|Educational (E)|Residential (R),sd|dd|cd,fire_resistance_smoke_protection,architect
+713.7,Wall|Door|Slab,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Institutional (I),sd|dd|cd,fire_resistance_smoke_protection,architect
+713.7.1,Wall|Door|Window,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,fire_resistance_smoke_protection,architect
+713.8,Wall|Beam|Slab,Assembly (A)|Business (B)|Residential (R)|Institutional (I)|High Hazard (H),sd|dd|cd,fire_resistance_smoke_protection,architect
+713.8.1,Wall|Slab|Door,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,fire_resistance_smoke_protection,architect
+713.9,Wall|Slab,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Institutional (I),dd|cd,fire_resistance_smoke_protection,architect
+713.10,Wall|Slab,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Institutional (I),dd|cd,fire_resistance_smoke_protection,architect
+713.11,Wall|Slab|Door,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,fire_resistance_smoke_protection,architect
+713.12,Wall|Slab|Roof,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,fire_resistance_smoke_protection,architect
+713.12.1,Roof|Slab|Wall|BuildingElementProxy,Business (B)|Residential (R)|Assembly (A)|Institutional (I)|Mercantile (M),sd|dd|cd,fire_resistance_smoke_protection,mechanical_engineer
+713.13,Wall|BuildingElementProxy|Door|Slab,Residential (R)|Business (B)|Institutional (I)|Mercantile (M),sd|dd|cd,fire_resistance_smoke_protection,architect
+713.13.1,Wall|Door|BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,fire_resistance_smoke_protection,architect
+713.13.2,Wall|Shaft|Slab|BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,fire_resistance_smoke_protection,architect
+713.13.3,Wall|Door|Slab,Residential (R)|Institutional (I)|Assembly (A)|Business (B),sd|dd|cd,fire_resistance_smoke_protection,architect
+713.13.4,Wall|Door|Slab,Residential (R)|Institutional (I)|Assembly (A),sd|dd|cd,fire_resistance_smoke_protection,architect
+713.13.5,Wall|Door|Slab,Assembly (A)|Business (B)|Institutional (I)|Residential (R)|Utility and Miscellaneous (U),sd|dd|cd,fire_resistance_smoke_protection,architect
+713.13.6,Wall|Slab|Door,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,fire_protection_alarm_systems,fire_protection_engineer
+713.14,Shaft|Wall|Door,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,elevators_conveying_systems,architect
+714,,,,none,none
+714.1,Wall|Slab|BuildingElementProxy,Assembly (A)|Business (B)|Residential (R)|Institutional (I)|Educational (E),sd|dd|cd,fire_resistance_smoke_protection,architect
+714.1.1,Wall|Slab,Assembly (A)|Business (B)|Residential (R),dd|cd,fire_resistance_smoke_protection,architect
+714.2,Wall|Slab|Floor|Roof,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Institutional (I),cd|ca,fire_resistance_smoke_protection,architect
+714.3,Wall|Slab|Roof,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Institutional (I),dd|cd,fire_resistance_smoke_protection,architect
+714.4,Wall,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,fire_resistance_smoke_protection,architect
+714.4.1,Wall|Pipe,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Institutional (I),sd|dd|cd,fire_resistance_smoke_protection,architect
+714.4.1.1,Wall|Slab|Floor|Roof|BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),dd|cd,fire_resistance_smoke_protection,architect
+714.4.1.2,Wall|Slab,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Institutional (I),sd|dd|cd,fire_resistance_smoke_protection,architect
+714.4.2,Wall|Partition|Covering,Assembly (A)|Business (B)|Educational (E)|Residential (R),sd|dd|cd,fire_resistance_smoke_protection,architect
+714.4.3,Wall|Covering|BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),dd|cd,fire_resistance_smoke_protection,architect
+714.5,Slab|Roof,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,fire_resistance_smoke_protection,architect
+714.5.1,Slab|Wall,Assembly (A)|Business (B)|Residential (R)|Storage (S)|Mercantile (M),sd|dd|cd,fire_resistance_smoke_protection,architect
+714.5.1.1,Wall|Slab|Roof,Assembly (A)|Business (B)|Institutional (I)|Residential (R)|Storage (S),sd|dd|cd,fire_resistance_smoke_protection,architect
+714.5.1.2,Slab|Wall,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Institutional (I),dd|cd,fire_resistance_smoke_protection,architect
+714.5.2,Slab|Covering|Wall,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Institutional (I),sd|dd|cd,fire_resistance_smoke_protection,architect
+714.5.3,Slab|Wall,Assembly (A)|Business (B)|Residential (R)|Educational (E)|Institutional (I),dd|cd,fire_resistance_smoke_protection,architect
+714.5.4,Wall|Slab,Assembly (A)|Business (B)|Educational (E)|Institutional (I)|Residential (R),dd|cd,fire_resistance_smoke_protection,architect
+714.6,Slab|Roof|Covering,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Mercantile (M),sd|dd|cd,fire_resistance_smoke_protection,architect
+714.6.1,Wall|Slab|BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Institutional (I),sd|dd|cd,fire_resistance_smoke_protection,architect
+714.6.2,Wall|Slab|BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),dd|cd,fire_resistance_smoke_protection,architect
+715,,,,none,none
+715.1,Wall|Slab|Roof,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Institutional (I),dd|cd,fire_resistance_smoke_protection,architect
+715.2,Wall|Slab|Roof,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Institutional (I),dd|cd,fire_resistance_smoke_protection,architect
+715.2.1,Wall|Slab|Roof,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),cd|ca,fire_resistance_smoke_protection,architect
+715.2.2,Wall|Slab|Roof|Floor|CurtainWall,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Institutional (I),cd|ca,fire_resistance_smoke_protection,architect
+715.3,Wall|Slab|Roof|CurtainWall,Residential (R)|Assembly (A)|Business (B)|Mercantile (M)|Storage (S),sd|dd|cd,fire_resistance_smoke_protection,architect
+715.3.1,Wall|Slab,Assembly (A)|Business (B)|Educational (E)|Institutional (I)|Residential (R),sd|dd|cd,fire_resistance_smoke_protection,architect
+715.4,CurtainWall|Slab,Business (B)|Assembly (A)|Residential (R)|Institutional (I)|Mercantile (M),dd|cd,fire_resistance_smoke_protection,architect
+715.4.1,CurtainWall|Slab,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),dd|cd,fire_resistance_smoke_protection,architect
+715.5,CurtainWall|Slab,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,fire_resistance_smoke_protection,architect
+715.6,Wall|Slab|Roof,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Storage (S),sd|dd|cd,fire_resistance_smoke_protection,architect
+715.7,Wall|Slab,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,fire_resistance_smoke_protection,architect
+715.8,CurtainWall|Slab,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Mercantile (M),sd|dd|cd,fire_resistance_smoke_protection,architect
+715.9,CurtainWall|Wall|Slab,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),dd|cd,fire_resistance_smoke_protection,architect
+716,,,,none,none
+716.1,Door|Window|Wall|Slab,Assembly (A)|Business (B)|Institutional (I)|Residential (R)|Storage (S),sd|dd|cd,fire_resistance_smoke_protection,architect
+716.1.1,Door|Window|CurtainWall|Wall,Assembly (A)|Business (B)|Institutional (I)|Residential (R)|Educational (E),dd|cd,fire_resistance_smoke_protection,architect
+716.1.2,Door|Window|Wall,Assembly (A)|Business (B)|Educational (E)|Institutional (I)|Residential (R),sd|dd|cd,fire_resistance_smoke_protection,architect
+716.1.2.1,Door|Window,Assembly (A)|Business (B)|Educational (E)|Institutional (I)|Residential (R),sd|dd|cd,fire_resistance_smoke_protection,architect
+716.1.2.2,Door|Window|CurtainWall|Wall,Assembly (A)|Business (B)|Educational (E)|Institutional (I)|Residential (R),cd,fire_resistance_smoke_protection,architect
+716.1.2.2.1,Door|Window|CurtainWall,Assembly (A)|Business (B)|Educational (E)|Institutional (I)|Residential (R),cd,fire_resistance_smoke_protection,architect
+716.1.2.2.2,Window|Door|CurtainWall,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Institutional (I),dd|cd,fire_resistance_smoke_protection,architect
+716.1.2.2.3,Window|Door|CurtainWall,Assembly (A)|Business (B)|Educational (E)|Institutional (I)|Residential (R),cd|ca,fire_resistance_smoke_protection,architect
+716.1.2.2.4,Door|Window|Wall,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Institutional (I),sd|dd|cd,fire_resistance_smoke_protection,architect
+716.1.2.3,Wall|Slab|Window,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Institutional (I),sd|dd|cd,fire_resistance_smoke_protection,architect
+716.1.2.3.1,Door|Window,Assembly (A)|Business (B)|Educational (E)|Institutional (I)|Residential (R),sd|dd|cd,fire_resistance_smoke_protection,architect
+716.2,Door|Wall|Window,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Institutional (I),sd|dd|cd,fire_resistance_smoke_protection,architect
+716.2.1,Door|Slab,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,fire_resistance_smoke_protection,architect
+716.2.1.1,Door,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,fire_resistance_smoke_protection,architect
+716.2.1.2,Door,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,fire_resistance_smoke_protection,architect
+716.2.1.3,Door|Window|Wall,Assembly (A)|Business (B)|Educational (E)|Institutional (I)|Residential (R),sd|dd|cd,fire_resistance_smoke_protection,architect
+716.2.1.4,Door|Wall,Assembly (A)|Business (B)|Educational (E)|Institutional (I)|Residential (R),sd|dd|cd,fire_resistance_smoke_protection,architect
+716.2.2,Door|Wall,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Institutional (I),sd|dd|cd,fire_resistance_smoke_protection,architect
+716.2.2.1,Door|Wall,Institutional (I)|Assembly (A),sd|dd|cd,fire_resistance_smoke_protection,architect
+716.2.2.1.1,Door,Assembly (A)|Business (B)|Educational (E)|Institutional (I)|Residential (R),sd|dd|cd,fire_resistance_smoke_protection,architect
+716.2.2.2,Door|Wall,Assembly (A)|Business (B)|Educational (E)|Institutional (I)|Residential (R),sd|dd|cd,fire_resistance_smoke_protection,architect
+716.2.2.3,Door|Stair|Ramp,Assembly (A)|Business (B)|Educational (E)|Institutional (I)|Residential (R),sd|dd|cd,fire_resistance_smoke_protection,architect
+716.2.2.3.1,Door|Window,Assembly (A)|Business (B)|Educational (E)|Institutional (I)|Residential (R),sd|dd|cd,fire_resistance_smoke_protection,architect
+716.2.3,Door|Wall,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Institutional (I),sd|dd|cd,fire_resistance_smoke_protection,architect
+716.2.4,Door|Wall,Assembly (A)|Business (B)|Educational (E)|Institutional (I)|Residential (R),dd|cd,fire_resistance_smoke_protection,architect
+716.2.5,Door|Window,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Institutional (I),sd|dd|cd,fire_resistance_smoke_protection,architect
+716.2.5.1,Wall|Window|Door,Assembly (A)|Business (B)|Educational (E)|Institutional (I)|Residential (R),sd|dd|cd,fire_resistance_smoke_protection,architect
+716.2.5.1.1,Door|Wall,Assembly (A)|Business (B)|Educational (E)|Institutional (I)|Residential (R),sd|dd|cd,fire_resistance_smoke_protection,architect
+716.2.5.1.2,Door|Wall,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Institutional (I),sd|dd|cd,fire_resistance_smoke_protection,architect
+716.2.5.1.2.1,Wall|Door|Window,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Institutional (I),sd|dd|cd,fire_resistance_smoke_protection,architect
+716.2.5.1.2.2,Door|Wall,Assembly (A)|Business (B)|Educational (E)|Institutional (I)|Residential (R),sd|dd|cd,fire_resistance_smoke_protection,architect
+716.2.5.2,Door|Wall|Stair|Ramp|Window,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Institutional (I),sd|dd|cd,fire_resistance_smoke_protection,architect
+716.2.5.3,Door|Wall,Assembly (A)|Business (B)|Educational (E)|Institutional (I)|Residential (R),sd|dd|cd,fire_resistance_smoke_protection,architect
+716.2.5.4,Door|Wall|Window,Assembly (A)|Business (B)|Educational (E)|Institutional (I)|Residential (R),sd|dd|cd,fire_resistance_smoke_protection,architect
+716.2.5.4.1,Door|Wall|Window,Factory and Industrial (F)|Business (B)|Storage (S),sd|dd|cd,fire_resistance_smoke_protection,architect
+716.2.6,Door,Assembly (A)|Business (B)|Educational (E)|Institutional (I)|Residential (R),sd|dd|cd,fire_resistance_smoke_protection,architect
+716.2.6.1,Door,Residential (R)|Assembly (A)|Business (B)|Institutional (I),sd|dd|cd,fire_resistance_smoke_protection,architect
+716.2.6.2,Door,Assembly (A)|Business (B)|Educational (E)|Institutional (I)|Residential (R),sd|dd|cd,fire_resistance_smoke_protection,architect
+716.2.6.3,Door|Wall,Assembly (A)|Business (B)|Educational (E)|Institutional (I)|Residential (R),sd|dd|cd,fire_resistance_smoke_protection,architect
+716.2.6.4,Door,Assembly (A)|Business (B)|Educational (E)|Institutional (I)|Residential (R),sd|dd|cd,fire_resistance_smoke_protection,architect
+716.2.6.5,Door,Assembly (A)|Business (B)|Educational (E)|Institutional (I)|Residential (R),sd|dd|cd,fire_resistance_smoke_protection,architect
+716.2.6.6,Door|Wall,Assembly (A)|Business (B)|Educational (E)|Institutional (I)|Residential (R),sd|dd|cd,fire_resistance_smoke_protection,architect
+716.2.6.7,Door,Assembly (A)|Business (B)|Educational (E)|Mercantile (M)|Institutional (I),sd|dd|cd,fire_resistance_smoke_protection,architect
+716.2.7,Window|Door|ShadingDevice,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Storage (S),sd|dd|cd,fire_resistance_smoke_protection,architect
+716.2.8,Door|ShadingDevice|BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,fire_resistance_smoke_protection,architect
+716.2.9,Door,Assembly (A)|Business (B)|Educational (E)|Institutional (I)|Residential (R),dd|cd,fire_resistance_smoke_protection,architect
+716.2.9.1,Door,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Institutional (I),dd|cd,fire_resistance_smoke_protection,architect
+716.2.9.1.1,Door,Assembly (A)|Business (B)|Educational (E)|Institutional (I)|Residential (R),dd|cd,fire_resistance_smoke_protection,architect
+716.2.9.2,Door,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),cd,fire_resistance_smoke_protection,architect
+716.2.9.3,Door,Assembly (A)|Business (B)|Educational (E)|Institutional (I)|Residential (R),sd|dd|cd,fire_resistance_smoke_protection,architect
+716.2.9.4,Door,Assembly (A)|Business (B)|Educational (E)|Institutional (I)|Residential (R),cd|ca,fire_resistance_smoke_protection,architect
+716.2.9.5,Window|Door|CurtainWall,Assembly (A)|Business (B)|Educational (E)|Institutional (I)|Residential (R),cd|ca,fire_resistance_smoke_protection,architect
+716.2.9.6,Door,Assembly (A)|Business (B)|Educational (E)|Institutional (I)|Residential (R),sd|dd|cd,fire_resistance_smoke_protection,architect
+716.2.10,Door|Wall,Assembly (A)|Business (B)|Educational (E)|Institutional (I)|Residential (R),sd|dd|cd,fire_resistance_smoke_protection,architect
+716.3,Window|Wall,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Institutional (I),sd|dd|cd,fire_resistance_smoke_protection,architect
+716.3.1,Window|Door|Wall,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Institutional (I),sd|dd|cd,fire_resistance_smoke_protection,architect
+716.3.1.1,Window|Door|CurtainWall,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Institutional (I),cd,fire_resistance_smoke_protection,fire_protection_engineer
+716.3.1.2,Window|Wall|Door,Assembly (A)|Business (B)|Educational (E)|Institutional (I)|Residential (R),sd|dd|cd,fire_resistance_smoke_protection,architect
+716.3.2,Window|Wall,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Institutional (I),sd|dd|cd,fire_resistance_smoke_protection,architect
+716.3.2.1,Window|Wall,Assembly (A)|Business (B)|Educational (E)|Institutional (I)|Residential (R),sd|dd|cd,fire_resistance_smoke_protection,architect
+716.3.2.1.1,Wall|Window,Assembly (A)|Business (B)|Educational (E)|Institutional (I)|Residential (R),sd|dd|cd,fire_resistance_smoke_protection,architect
+716.3.2.1.1.1,Wall|Window,Factory and Industrial (F)|Storage (S)|Business (B),sd|dd|cd,fire_resistance_smoke_protection,architect
+716.3.2.1.2,Window|Wall,Assembly (A)|Business (B)|Educational (E)|Institutional (I)|Residential (R),sd|dd|cd,fire_resistance_smoke_protection,architect
+716.3.2.1.3,Window|Wall,Assembly (A)|Business (B)|Educational (E)|Institutional (I)|Residential (R),sd|dd|cd,fire_resistance_smoke_protection,architect
+716.3.3,Window|Wall,Assembly (A)|Business (B)|Educational (E)|Institutional (I)|Residential (R),sd|dd|cd,fire_resistance_smoke_protection,architect
+716.3.3.1,Wall|Window,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Institutional (I),sd|dd|cd,fire_resistance_smoke_protection,architect
+716.3.4,Window|CurtainWall|Wall,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,fire_resistance_smoke_protection,architect
+716.3.4.1,Window|Door|CurtainWall,Assembly (A)|Business (B)|Educational (E)|Institutional (I)|Residential (R),sd|dd|cd,fire_resistance_smoke_protection,architect
+716.3.5,Window|Wall,Assembly (A)|Business (B)|Educational (E)|Institutional (I)|Residential (R),dd|cd,fire_resistance_smoke_protection,architect
+716.3.5.1,Window|Wall,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Institutional (I),sd|dd|cd,fire_resistance_smoke_protection,architect
+716.3.5.2,Window|Door|CurtainWall,Assembly (A)|Business (B)|Educational (E)|Institutional (I)|Residential (R),cd,fire_resistance_smoke_protection,architect
+716.3.6,Window|Wall,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Institutional (I),cd,fire_resistance_smoke_protection,architect
+716.3.6.1,Door|Window|Wall,Assembly (A)|Business (B)|Educational (E)|Institutional (I)|Residential (R),sd|dd|cd,fire_resistance_smoke_protection,architect
+716.4,Covering|ShadingDevice|BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Institutional (I)|Residential (R),sd|dd|cd,fire_resistance_smoke_protection,architect
+716.4.1,Wall|Door|CurtainWall,Assembly (A)|Business (B)|Educational (E)|Institutional (I)|Residential (R),sd|dd|cd,fire_resistance_smoke_protection,architect
+716.4.2,Door|CurtainWall|Wall,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Institutional (I),sd|dd|cd,fire_resistance_smoke_protection,architect
+716.4.3,CurtainWall|Door,Assembly (A)|Business (B)|Educational (E)|Institutional (I)|Residential (R),dd|cd,fire_resistance_smoke_protection,architect
+717,,,,none,none
+717.1,Wall|Slab|Roof,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Institutional (I),dd|cd,fire_resistance_smoke_protection,architect
+717.1.1,Wall|Slab|BuildingElementProxy,Assembly (A)|Business (B)|Residential (R)|Institutional (I)|Educational (E),sd|dd|cd,fire_resistance_smoke_protection,mechanical_engineer
+717.1.2,Wall|Slab,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Institutional (I),dd|cd,fire_resistance_smoke_protection,architect
+717.1.2.1,Slab,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Institutional (I),dd|cd,fire_resistance_smoke_protection,mechanical_engineer
+717.2,Wall|Slab|Roof,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Institutional (I),cd,fire_resistance_smoke_protection,mechanical_engineer
+717.2.1,Wall|Slab|Door|CurtainWall|Covering,Assembly (A)|Business (B)|Educational (E)|Institutional (I)|Residential (R),dd|cd,fire_resistance_smoke_protection,fire_protection_engineer
+717.2.2,Covering|Wall|Slab,Factory and Industrial (F)|High Hazard (H)|Business (B),dd|cd,fire_protection_alarm_systems,mechanical_engineer
+717.2.3,Covering|Slab|Wall,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,fire_resistance_smoke_protection,mechanical_engineer
+717.2.4,Covering,Business (B)|Residential (R)|Assembly (A)|Educational (E)|Institutional (I),dd|cd,mechanical_systems,mechanical_engineer
+717.2.4.1,Wall|Slab|Roof,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Institutional (I),sd|dd|cd,fire_resistance_smoke_protection,mechanical_engineer
+717.3,Wall|Slab|Door,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Institutional (I),cd|ca,fire_resistance_smoke_protection,fire_protection_engineer
+717.3.1,Wall|Slab|Roof|BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Institutional (I)|Residential (R),dd|cd,fire_resistance_smoke_protection,mechanical_engineer
+717.3.2,Wall|Slab|Door,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),dd|cd,fire_resistance_smoke_protection,fire_protection_engineer
+717.3.2.1,Wall|Slab,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Institutional (I),dd|cd,fire_resistance_smoke_protection,fire_protection_engineer
+717.3.2.2,Wall|Slab,Assembly (A)|Business (B)|Educational (E)|Institutional (I)|Residential (R),dd|cd,fire_resistance_smoke_protection,fire_protection_engineer
+717.3.2.3,Wall|Slab,Assembly (A)|Business (B)|Educational (E)|Institutional (I)|Residential (R),dd|cd,fire_resistance_smoke_protection,fire_protection_engineer
+717.3.2.4,Wall|Door|Slab,Assembly (A)|Business (B)|Educational (E)|Institutional (I)|Residential (R),cd,fire_resistance_smoke_protection,fire_protection_engineer
+717.3.3,Wall|Slab|Door,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),dd|cd,fire_resistance_smoke_protection,fire_protection_engineer
+717.3.3.1,Wall|Slab|BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Institutional (I),dd|cd,fire_protection_alarm_systems,mechanical_engineer
+717.3.3.2,Wall|Slab|Door,Assembly (A)|Business (B)|Educational (E)|Institutional (I)|Residential (R),dd|cd,fire_resistance_smoke_protection,fire_protection_engineer
+717.3.3.3,Wall|Slab|BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Institutional (I)|Residential (R),dd|cd,fire_resistance_smoke_protection,mechanical_engineer
+717.3.3.4,Slab|Covering,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Institutional (I),dd|cd,fire_resistance_smoke_protection,mechanical_engineer
+717.3.3.5,Wall|Door|Slab,Assembly (A)|Business (B)|Educational (E)|Institutional (I)|Residential (R),dd|cd,fire_resistance_smoke_protection,fire_protection_engineer
+717.4,Wall|Slab|Covering,Assembly (A)|Business (B)|Educational (E)|Institutional (I)|Residential (R),dd|cd,fire_protection_alarm_systems,mechanical_engineer
+717.4.1,Wall|Slab|BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Institutional (I)|Residential (R),dd|cd,fire_resistance_smoke_protection,mechanical_engineer
+717.4.1.1,Wall|Slab|Door,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Institutional (I),dd|cd,fire_resistance_smoke_protection,architect
+717.4.1.2,Wall|Slab|Door|CurtainWall,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Institutional (I),dd|cd,fire_resistance_smoke_protection,fire_protection_engineer
+717.4.2,Wall|Slab|Door,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),cd|ca,fire_resistance_smoke_protection,mechanical_engineer
+717.5,Wall|Slab|Door,Assembly (A)|Business (B)|Educational (E)|Institutional (I)|Residential (R),dd|cd,fire_resistance_smoke_protection,fire_protection_engineer
+717.5.1,Wall,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Institutional (I),sd|dd|cd,fire_resistance_smoke_protection,architect
+717.5.1.1,Wall|Covering,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Institutional (I),dd|cd,fire_resistance_smoke_protection,fire_protection_engineer
+717.5.2,Wall|Slab|Ramp,Assembly (A)|Business (B)|Educational (E)|Institutional (I)|Residential (R),sd|dd|cd,fire_resistance_smoke_protection,architect
+717.5.2.1,Wall|Slab|Door,Assembly (A)|Business (B)|Educational (E)|Institutional (I)|Residential (R),sd|dd|cd,fire_resistance_smoke_protection,architect
+717.5.3,Wall|Slab|Door,Business (B)|Residential (R)|Assembly (A)|Storage (S)|Utility and Miscellaneous (U),dd|cd,fire_resistance_smoke_protection,architect
+717.5.3.1,Wall|Slab|CurtainWall,Assembly (A)|Business (B)|Institutional (I)|Residential (R)|Mercantile (M),sd|dd|cd,fire_resistance_smoke_protection,architect
+717.5.4,Wall|Covering|Slab,Assembly (A)|Business (B)|Educational (E)|Mercantile (M)|Residential (R),sd|dd|cd,fire_resistance_smoke_protection,architect
+717.5.4.1,Wall|Slab|Door,Assembly (A)|Business (B)|Educational (E)|Institutional (I)|Residential (R),sd|dd|cd,fire_resistance_smoke_protection,architect
+717.5.5,Wall|Slab|Covering,Institutional (I)|Business (B)|Assembly (A),sd|dd|cd,fire_resistance_smoke_protection,architect
+717.5.6,Wall,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Institutional (I),dd|cd,fire_resistance_smoke_protection,architect
+717.5.7,Wall|Door|BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Institutional (I)|Residential (R),sd|dd|cd,fire_resistance_smoke_protection,architect
+717.6,Slab|Roof|Covering,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,fire_resistance_smoke_protection,architect
+717.6.1,Wall|Slab|Covering,Residential (R)|Institutional (I),sd|dd|cd,fire_resistance_smoke_protection,architect
+717.6.2,Slab|Roof|Wall,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Institutional (I),sd|dd|cd,fire_resistance_smoke_protection,architect
+717.6.2.1,Slab|Covering,Assembly (A)|Business (B)|Educational (E)|Institutional (I)|Residential (R),dd|cd,fire_resistance_smoke_protection,architect
+717.6.2.1.1,Covering|Slab|Wall,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),dd|cd,fire_resistance_smoke_protection,mechanical_engineer
+717.6.2.1.2,Covering|Slab,Assembly (A)|Business (B)|Educational (E)|Institutional (I)|Residential (R),sd|dd|cd,fire_resistance_smoke_protection,mechanical_engineer
+717.6.3,Slab|BuildingElementProxy,Residential (R)|Business (B)|Assembly (A),dd|cd,fire_resistance_smoke_protection,mechanical_engineer
+717.7,Wall|Slab|Roof|BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Institutional (I),sd|dd|cd,fire_resistance_smoke_protection,mechanical_engineer
+718,,,,none,none
+718.1,Wall|Slab|Roof,Assembly (A)|Business (B)|Educational (E)|Residential (R),sd|dd|cd,fire_resistance_smoke_protection,architect
+718.2,Wall|Floor|Roof|Slab|BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,fire_resistance_smoke_protection,architect
+718.2.1,Wall|Slab|Column,Assembly (A)|Business (B)|Educational (E)|Residential (R),dd|cd,fire_resistance_smoke_protection,architect
+718.2.1.1,Wall,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),dd|cd,fire_resistance_smoke_protection,architect
+718.2.1.2,Wall,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),cd,fire_resistance_smoke_protection,architect
+718.2.1.3,Wall|Slab|Covering,Assembly (A)|Business (B)|Residential (R)|Educational (E)|Institutional (I),dd|cd,fire_resistance_smoke_protection,architect
+718.2.1.4,Wall|Slab|Floor|Roof,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Institutional (I),sd|dd|cd,fire_resistance_smoke_protection,architect
+718.2.1.5,Wall,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,fire_resistance_smoke_protection,architect
+718.2.2,Wall|Covering,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,fire_resistance_smoke_protection,architect
+718.2.3,Wall|Slab|Covering|Stair|Roof,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Institutional (I),sd|dd|cd,fire_resistance_smoke_protection,architect
+718.2.4,Stair|StairFlight|Wall,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Institutional (I),sd|dd|cd,fire_resistance_smoke_protection,architect
+718.2.5,Slab|Roof|Chimney|Covering,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Storage (S),dd|cd,fire_resistance_smoke_protection,architect
+718.2.5.1,Chimney|Wall,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,fire_resistance_smoke_protection,architect
+718.2.6,Wall|Covering,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Mercantile (M),sd|dd|cd,fire_resistance_smoke_protection,architect
+718.2.7,Slab|Covering,Assembly (A)|Educational (E)|Business (B)|Residential (R),sd|dd|cd,fire_resistance_smoke_protection,architect
+718.3,Slab|Covering,Business (B)|Educational (E)|Factory and Industrial (F)|Mercantile (M)|Assembly (A),sd|dd|cd,fire_resistance_smoke_protection,architect
+718.3.1,Wall|Slab|Covering,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,fire_resistance_smoke_protection,architect
+718.4,Slab|Roof|Wall,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|High Hazard (H),sd|dd|cd,fire_resistance_smoke_protection,architect
+718.4.1,Slab|Wall|Covering,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),dd|cd,fire_resistance_smoke_protection,architect
+718.4.1.1,Door|Wall,Assembly (A)|Business (B)|Educational (E)|Institutional (I)|Residential (R),sd|dd|cd,fire_resistance_smoke_protection,architect
+718.5,Wall|Roof|Slab|Covering,Assembly (A)|Business (B)|Educational (E)|Institutional (I)|Residential (R),sd|dd|cd,fire_resistance_smoke_protection,architect
+719,,,,none,none
+719.1,Wall|Slab|Covering,Assembly (A)|Business (B)|Residential (R),dd|cd,fire_resistance_smoke_protection,architect
+719.2,Wall|Slab|Column|Beam,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Institutional (I),sd|dd|cd,fire_resistance_smoke_protection,architect
+719.3,Wall|Slab|Covering,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,fire_resistance_smoke_protection,architect
+719.4,Wall|Slab|Covering,Assembly (A)|Business (B)|Educational (E)|Institutional (I)|Residential (R),sd|dd|cd,fire_resistance_smoke_protection,architect
+719.5,Slab|Column|Covering,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,fire_resistance_smoke_protection,architect
+720,,,,none,none
+720.1,Covering|Slab|Roof|Wall,Assembly (A)|Business (B)|Residential (R)|Educational (E),sd|dd|cd,finishes_materials,architect
+720.2,Wall|Roof|Slab|Covering|BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Institutional (I),sd|dd|cd,finishes_materials,architect
+720.2.1,Wall|Slab|Roof|Covering,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,fire_resistance_smoke_protection,architect
+720.3,Covering|Slab|Wall|Roof,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),dd|cd,finishes_materials,architect
+720.3.1,Slab|Covering,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,finishes_materials,architect
+720.4,Covering|Slab|Roof,Assembly (A)|Business (B)|Residential (R),sd|dd|cd,finishes_materials,architect
+720.5,Roof|Slab|Covering,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,fire_resistance_smoke_protection,architect
+720.6,Covering|Slab|Wall|Roof,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Mercantile (M),sd|dd|cd,finishes_materials,architect
+720.7,BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),dd|cd,fire_resistance_smoke_protection,mechanical_engineer
+721,,,,none,none
+721.1,Wall|Slab|Column|Beam|Roof,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Institutional (I),sd|dd|cd,fire_resistance_smoke_protection,architect
+721.1.1,Beam|Column|Slab|Wall|Roof,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,fire_resistance_smoke_protection,architect
+721.1.2,Column|Wall,Business (B)|Educational (E)|Assembly (A)|Residential (R)|Institutional (I),dd|cd,fire_resistance_smoke_protection,architect
+721.1.3,Column,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),dd|cd,fire_resistance_smoke_protection,structural_engineer
+721.1.4,Wall|Slab|Column,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Institutional (I),sd|dd|cd,fire_resistance_smoke_protection,architect
+721.1.5,Beam|Slab,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Institutional (I),sd|dd|cd,fire_resistance_smoke_protection,structural_engineer
+722,,,,none,none
+722.1,Wall|Slab|Roof|Beam|Column,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Institutional (I),sd|dd|cd,fire_resistance_smoke_protection,architect
+722.2,Wall|Slab|Beam|Column,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Institutional (I),sd|dd|cd,fire_resistance_smoke_protection,architect
+722.2.1,Wall,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Institutional (I),sd|dd|cd,fire_resistance_smoke_protection,architect
+722.2.1.1,Wall,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Institutional (I),sd|dd|cd,fire_resistance_smoke_protection,architect
+722.2.1.1.1,Wall,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,fire_resistance_smoke_protection,architect
+722.2.1.1.2,Wall,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,fire_resistance_smoke_protection,architect
+722.2.1.1.3,Slab|Wall|Roof,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Institutional (I),sd|dd|cd,fire_resistance_smoke_protection,architect
+722.2.1.1.4,Wall|Slab|Roof,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Institutional (I),sd|dd|cd,fire_resistance_smoke_protection,architect
+722.2.1.2,Wall,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Institutional (I),sd|dd|cd,fire_resistance_smoke_protection,architect
+722.2.1.2.1,Wall,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Institutional (I),sd|dd|cd,fire_resistance_smoke_protection,architect
+722.2.1.2.2,Wall,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,fire_resistance_smoke_protection,architect
+722.2.1.3,Wall,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,fire_resistance_smoke_protection,architect
+722.2.1.3.1,Wall,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Institutional (I),sd|dd|cd,fire_resistance_smoke_protection,architect
+722.2.1.4,Wall|Covering,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Institutional (I),sd|dd|cd,fire_resistance_smoke_protection,architect
+722.2.1.4.1,Wall|Covering,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Institutional (I),sd|dd|cd,fire_resistance_smoke_protection,architect
+722.2.1.4.2,Wall|Covering,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,fire_resistance_smoke_protection,architect
+722.2.1.4.3,Wall,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Institutional (I),sd|dd|cd,fire_resistance_smoke_protection,architect
+722.2.1.4.4,Wall|Covering,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Institutional (I),sd|dd|cd,fire_resistance_smoke_protection,architect
+722.2.1.4.5,Wall|Finishes_Materials,Assembly (A)|Business (B)|Educational (E)|Institutional (I)|Residential (R),sd|dd|cd,fire_resistance_smoke_protection,architect
+722.2.2,Slab|Roof,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Institutional (I),sd|dd|cd,fire_resistance_smoke_protection,structural_engineer
+722.2.2.1,Slab|Ramp|Roof,Business (B)|Residential (R)|Assembly (A)|Storage (S)|Mercantile (M),sd|dd|cd,fire_resistance_smoke_protection,architect
+722.2.2.1.1,Slab,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Institutional (I),sd|dd|cd,fire_resistance_smoke_protection,architect
+722.2.2.1.2,Slab,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Storage (S),sd|dd|cd,fire_resistance_smoke_protection,structural_engineer
+722.2.2.1.3,Slab,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Institutional (I),sd|dd|cd,fire_resistance_smoke_protection,structural_engineer
+722.2.2.1.4,Slab,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Storage (S),sd|dd|cd,fire_resistance_smoke_protection,structural_engineer
+722.2.2.2,Slab,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Institutional (I),sd|dd|cd,fire_resistance_smoke_protection,architect
+722.2.2.3,Slab|Roof|Covering,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,fire_resistance_smoke_protection,architect
+722.2.2.3.1,Roof|Slab,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Institutional (I),sd|dd|cd,fire_resistance_smoke_protection,architect
+722.2.2.4,Slab,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Storage (S),sd|dd|cd,fire_resistance_smoke_protection,architect
+722.2.3,Slab|Beam,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Institutional (I),sd|dd|cd,fire_resistance_smoke_protection,structural_engineer
+722.2.3.1,Slab,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,fire_resistance_smoke_protection,structural_engineer
+722.2.3.2,Beam,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Institutional (I),sd|dd|cd,fire_resistance_smoke_protection,structural_engineer
+722.2.3.3,Beam,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Institutional (I),sd|dd|cd,fire_resistance_smoke_protection,structural_engineer
+722.2.3.3.1,Beam|Slab,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Institutional (I),sd|dd|cd,fire_resistance_smoke_protection,structural_engineer
+722.2.4,Column,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Institutional (I),sd|dd|cd,fire_resistance_smoke_protection,structural_engineer
+722.2.4.1,Column,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,fire_resistance_smoke_protection,structural_engineer
+722.2.4.1.1,Column,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Institutional (I),sd|dd|cd,fire_resistance_smoke_protection,structural_engineer
+722.2.4.1.2,Column,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,fire_resistance_smoke_protection,structural_engineer
+722.2.4.2,Column,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Institutional (I),sd|dd|cd,fire_resistance_smoke_protection,structural_engineer
+722.2.4.3,Column,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,structural_design,structural_engineer
+722.2.4.4,Column|Wall,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,fire_resistance_smoke_protection,structural_engineer
+722.2.4.5,Column,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),dd|cd,fire_resistance_smoke_protection,architect
+722.3,Wall|Slab|Column|Footing,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Institutional (I),sd|dd|cd,fire_resistance_smoke_protection,architect
+722.3.1,Wall|Slab|Footing,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Institutional (I),sd|dd|cd,fire_resistance_smoke_protection,architect
+722.3.1.1,Wall|Covering,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,fire_resistance_smoke_protection,architect
+722.3.1.2,Wall|Slab,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Storage (S),sd|dd|cd,fire_resistance_smoke_protection,architect
+722.3.1.3,Wall|Column|Footing,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,fire_resistance_smoke_protection,architect
+722.3.1.4,Wall,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Institutional (I),sd|dd|cd,fire_resistance_smoke_protection,architect
+722.3.2,Wall,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Institutional (I),sd|dd|cd,fire_resistance_smoke_protection,architect
+722.3.2.1,Wall|Covering,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,fire_resistance_smoke_protection,architect
+722.3.2.2,Wall|Covering,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,fire_resistance_smoke_protection,architect
+722.3.2.3,Wall,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Institutional (I),sd|dd|cd,fire_resistance_smoke_protection,architect
+722.3.2.4,Wall|Covering,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Institutional (I),sd|dd|cd,fire_resistance_smoke_protection,architect
+722.3.2.5,Wall|Covering,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Institutional (I),sd|dd|cd,finishes_materials,architect
+722.3.3,Wall,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Institutional (I),sd|dd|cd,fire_resistance_smoke_protection,architect
+722.3.4,Beam|BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,fire_resistance_smoke_protection,architect
+722.3.5,Column,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|High Hazard (H),sd|dd|cd,fire_resistance_smoke_protection,structural_engineer
+722.4,Wall|Slab,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Institutional (I),sd|dd|cd,fire_resistance_smoke_protection,architect
+722.4.1,Wall|Column|Slab|Covering,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Institutional (I),sd|dd|cd,fire_resistance_smoke_protection,architect
+722.4.1.1,Wall,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Institutional (I),sd|dd|cd,fire_resistance_smoke_protection,architect
+722.4.1.1.1,Wall,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Institutional (I),sd|dd|cd,fire_resistance_smoke_protection,architect
+722.4.1.1.2,Wall,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Institutional (I),sd|dd|cd,fire_resistance_smoke_protection,architect
+722.4.1.1.3,Wall,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Institutional (I),sd|dd|cd,fire_resistance_smoke_protection,architect
+722.4.1.2,Wall|Covering,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Institutional (I),sd|dd|cd,fire_resistance_smoke_protection,architect
+722.4.1.3,Wall,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Institutional (I),sd|dd|cd,fire_resistance_smoke_protection,architect
+722.4.1.4,Wall,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Institutional (I),sd|dd|cd,fire_resistance_smoke_protection,architect
+722.4.2,Wall,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Institutional (I),sd|dd|cd,fire_resistance_smoke_protection,architect
+722.4.2.1,Wall,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Institutional (I),sd|dd|cd,fire_resistance_smoke_protection,architect
+722.4.3,Beam|Wall,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Institutional (I),sd|dd|cd,fire_resistance_smoke_protection,architect
+722.4.4,Column,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,fire_resistance_smoke_protection,structural_engineer
+722.5,Beam|Column|Slab|Roof|Wall,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Storage (S),dd|cd,fire_resistance_smoke_protection,structural_engineer
+722.5.1,Column,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Institutional (I),sd|dd|cd,fire_resistance_smoke_protection,architect
+722.5.1.1,Column|Covering,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),dd|cd,fire_resistance_smoke_protection,architect
+722.5.1.1.1,Column|Covering,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,fire_resistance_smoke_protection,architect
+722.5.1.1.2,Wall|Slab|Roof,Assembly (A)|Business (B)|Residential (R)|Institutional (I)|Educational (E),dd|cd,fire_resistance_smoke_protection,architect
+722.5.1.1.3,Column,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,fire_resistance_smoke_protection,structural_engineer
+722.5.1.2,Column|Covering,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,fire_resistance_smoke_protection,architect
+722.5.1.2.1,Wall|Slab|Roof,Assembly (A)|Business (B)|Educational (E)|Residential (R),dd|cd,fire_resistance_smoke_protection,architect
+722.5.1.2.2,Column|Covering,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,fire_resistance_smoke_protection,architect
+722.5.1.3,Column,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,fire_resistance_smoke_protection,fire_protection_engineer
+722.5.1.3.1,Column,Business (B)|Assembly (A)|Educational (E)|Residential (R)|Factory and Industrial (F),sd|dd|cd,fire_resistance_smoke_protection,structural_engineer
+722.5.1.3.2,Wall|Beam|Column|Slab,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),cd|ca,fire_resistance_smoke_protection,fire_protection_engineer
+722.5.1.4,Column|Covering,Business (B)|Residential (R)|Assembly (A)|Institutional (I)|Factory and Industrial (F),sd|dd|cd,fire_resistance_smoke_protection,structural_engineer
+722.5.1.4.1,Column|Slab,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Institutional (I),sd|dd|cd,fire_resistance_smoke_protection,structural_engineer
+722.5.1.4.2,Slab|Wall|Column|Footing|Beam,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Institutional (I),sd|dd|cd,fire_resistance_smoke_protection,architect
+722.5.1.4.3,Column|Covering,Business (B)|Educational (E)|Residential (R)|Assembly (A)|Institutional (I),sd|dd|cd,fire_resistance_smoke_protection,structural_engineer
+722.5.1.4.4,Column|Covering,Assembly (A)|Business (B)|Educational (E)|Institutional (I)|Residential (R),sd|dd|cd,fire_resistance_smoke_protection,structural_engineer
+722.5.1.4.5,Column|Wall|Slab,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Institutional (I),dd|cd,fire_resistance_smoke_protection,structural_engineer
+722.5.1.4.6,Column|Covering,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,fire_resistance_smoke_protection,architect
+722.5.2,Beam,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Institutional (I),sd|dd|cd,fire_resistance_smoke_protection,structural_engineer
+722.5.2.1,Beam,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Institutional (I),sd|dd|cd,fire_resistance_smoke_protection,structural_engineer
+722.5.2.1.1,Beam|Member,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Institutional (I),sd|dd|cd,fire_resistance_smoke_protection,structural_engineer
+722.5.2.1.2,Beam|Member,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,fire_resistance_smoke_protection,structural_engineer
+722.5.2.2,Beam,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,fire_resistance_smoke_protection,fire_protection_engineer
+722.5.2.2.1,Beam|Member,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),dd|cd,fire_resistance_smoke_protection,structural_engineer
+722.5.2.3,Beam|BuildingElementProxy|Member,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,fire_resistance_smoke_protection,structural_engineer
+722.6,Wall|Slab|Roof,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Institutional (I),sd|dd|cd,fire_resistance_smoke_protection,architect
+722.6.1,Wall|Slab|Roof,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,fire_resistance_smoke_protection,architect
+722.6.1.1,Wall|Slab|Roof|Floor|Plate,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Institutional (I),sd|dd|cd,fire_resistance_smoke_protection,architect
+722.6.1.2,Wall,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Institutional (I),sd|dd|cd,fire_resistance_smoke_protection,architect
+722.6.2,Wall|Slab|Roof,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Institutional (I),sd|dd|cd,fire_resistance_smoke_protection,architect
+722.6.2.1,Wall|Slab|Roof,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Institutional (I),sd|dd|cd,fire_resistance_smoke_protection,architect
+722.6.2.2,Wall|Slab|Roof|Ceiling|Covering,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Institutional (I),sd|dd|cd,fire_resistance_smoke_protection,architect
+722.6.2.3,Wall|Covering,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|High Hazard (H),sd|dd|cd,fire_resistance_smoke_protection,architect
+722.6.2.4,Slab|Roof,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Institutional (I),sd|dd|cd,fire_resistance_smoke_protection,architect
+722.6.2.5,Wall|Slab|Roof,Assembly (A)|Business (B)|Residential (R)|Educational (E)|Institutional (I),sd|dd|cd,fire_resistance_smoke_protection,architect
+722.6.2.6,Wall|Slab|Roof,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Institutional (I),cd,fire_resistance_smoke_protection,architect
+722.7,Wall|Beam|Column|Slab|Roof,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Mercantile (M),sd|dd|cd,fire_resistance_smoke_protection,architect
+722.7.1,Wall|Slab|Column|Beam,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Institutional (I),sd|dd|cd,fire_resistance_smoke_protection,architect
+722.7.2,Wall|Slab|Roof,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Institutional (I),dd|cd,fire_resistance_smoke_protection,architect
+722.7.2.1,Wall|Slab|Covering,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Institutional (I),dd|cd,fire_resistance_smoke_protection,architect
+722.7.2.2,Wall|Covering,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Storage (S),dd|cd,fire_resistance_smoke_protection,architect

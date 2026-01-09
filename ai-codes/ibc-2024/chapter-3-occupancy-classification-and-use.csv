@@ -1,0 +1,99 @@
+id,ifc_type,occupancy,design_phase,code_category,primary_responsibility
+3,Wall|Slab|Door,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Mercantile (M),concept|sd|dd,occupancy_classification,architect
+301,,,,none,none
+301.1,BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,occupancy_classification,architect
+302,,,,none,none
+302.1,BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|High Hazard (H),sd|dd|cd,occupancy_classification,architect
+302.2,BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|High Hazard (H),concept|sd|dd,occupancy_classification,architect
+303,,,,none,none
+303.1,Wall|Door|Stair|Slab,Assembly (A),concept|sd|dd|cd,occupancy_classification,architect
+303.1.1,Wall|Door|Slab,Assembly (A)|Business (B),sd|dd|cd,occupancy_classification,architect
+303.1.2,Wall|Door|Slab,Assembly (A)|Business (B),sd|dd|cd,occupancy_classification,architect
+303.1.3,Wall|Door|Slab,Educational (E)|Assembly (A),concept|sd|dd|cd,occupancy_classification,architect
+303.1.4,Wall|Door|Slab,Assembly (A)|Educational (E),sd|dd|cd,occupancy_classification,architect
+303.1.5,Wall|Door|Window|Slab,Assembly (A),sd|dd|cd,occupancy_classification,architect
+303.2,Wall|Door|Slab|Stair|Roof,Assembly (A),concept|sd|dd|cd,occupancy_classification,architect
+303.3,Wall|Door|Slab|Window|BuildingElementProxy,Assembly (A),concept|sd|dd|cd,occupancy_classification,architect
+303.4,Wall|Slab|Door|Window,Assembly (A),concept|sd|dd|cd,occupancy_classification,architect
+303.5,Slab|Railing|Stair|Door|Wall,Assembly (A),concept|sd|dd|cd,occupancy_classification,architect
+303.6,Slab|Stair|Railing|Roof|Beam,Assembly (A),concept|sd|dd|cd,occupancy_classification,architect
+304,,,,none,none
+304.1,Wall|Slab|Door,Business (B),concept|sd|dd|cd,occupancy_classification,architect
+304.2,BuildingElementProxy|Slab|Stair|Wall|Window,Business (B),sd|dd|cd,occupancy_classification,architect
+304.3,BuildingElementProxy,Business (B),concept|sd|dd|cd,occupancy_classification,architect
+304.4,Wall|Door|Window|Slab,Educational (E),sd|dd|cd,occupancy_classification,architect
+305,,,,none,none
+305.1,Wall|Door|Slab,Educational (E),concept|sd|dd|cd,occupancy_classification,architect
+305.1.1,Wall|Door|Slab,Assembly (A)|Educational (E),sd|dd|cd,occupancy_classification,architect
+305.2,Wall|Door|Window,Educational (E),concept|sd|dd|cd,occupancy_classification,architect
+305.2.1,Wall|Door|Slab,Assembly (A)|Educational (E),concept|sd|dd|cd,occupancy_classification,architect
+305.2.2,BuildingElementProxy,Educational (E)|Residential (R),concept|sd|dd|cd,occupancy_classification,architect
+305.2.3,Wall|Door|Window,Residential (R),sd|dd|cd,occupancy_classification,architect
+305.3,Wall|Slab|Door|Roof,Educational (E),sd|dd|cd,special_construction,architect
+306,,,,none,none
+306.1,BuildingElementProxy|Slab|Wall,Factory and Industrial (F),concept|sd|dd|cd,occupancy_classification,architect
+306.2,Wall|Slab|Roof,Factory and Industrial (F),concept|sd|dd,occupancy_classification,architect
+306.2.1,BuildingElementProxy|Slab|Wall,Factory and Industrial (F),sd|dd|cd,occupancy_classification,architect
+306.3,Wall|Slab|Column|Roof|Door,Factory and Industrial (F),concept|sd|dd|cd,occupancy_classification,architect
+307,,,,none,none
+307.1,Wall|Slab|Roof,High Hazard (H),sd|dd|cd,occupancy_classification,architect
+307.1.1,BuildingElementProxy|Wall|Slab,Business (B)|Factory and Industrial (F)|Mercantile (M)|Storage (S)|Residential (R),sd|dd|cd,hazardous_materials,architect
+307.2,BuildingElementProxy,High Hazard (H),sd|dd|cd,hazardous_materials,architect
+307.3,Wall|Door|Slab,High Hazard (H),concept|sd|dd|cd,occupancy_classification,architect
+307.3.1,Wall|Door|Slab,High Hazard (H),sd|dd|cd,occupancy_classification,architect
+307.4,Wall|Slab|Door,High Hazard (H),concept|sd|dd|cd,occupancy_classification,architect
+307.5,Wall|Door|Slab,High Hazard (H),sd|dd|cd,occupancy_classification,architect
+307.6,Wall|Door|Slab,High Hazard (H),concept|sd|dd|cd,occupancy_classification,architect
+307.7,Wall|Door|Slab,High Hazard (H),concept|sd|dd|cd,occupancy_classification,architect
+307.8,Wall|Door|Slab,High Hazard (H),sd|dd|cd,hazardous_materials,architect
+308,,,,none,none
+308.1,Wall|Door|Slab,Institutional (I),concept|sd|dd|cd,occupancy_classification,architect
+308.2,Wall|Door|Window,Institutional (I),sd|dd|cd,occupancy_classification,architect
+308.2.1,Wall|Door|Stair|Ramp|Slab,Institutional (I),sd|dd|cd,occupancy_classification,architect
+308.2.2,Wall|Door|Ramp|Stair|Slab,Institutional (I),concept|sd|dd|cd,occupancy_classification,architect
+308.2.3,Wall|Door|Window,Residential (R),concept|sd|dd|cd,occupancy_classification,architect
+308.2.4,Wall|Door|Slab,Residential (R)|Institutional (I),sd|dd|cd,occupancy_classification,architect
+308.3,Wall|Door|Slab,Institutional (I),concept|sd|dd|cd,occupancy_classification,architect
+308.3.1,Wall|Door|Slab,Institutional (I),sd|dd|cd,occupancy_classification,architect
+308.3.1.1,Wall|Door|Window,Institutional (I),sd|dd|cd,occupancy_classification,architect
+308.3.1.2,Wall|Door|Slab,Institutional (I),sd|dd|cd,occupancy_classification,architect
+308.3.2,Wall|Door|Slab,Residential (R)|Institutional (I),sd|dd|cd,occupancy_classification,architect
+308.4,Wall|Door|Window|Slab,Institutional (I),concept|sd|dd|cd,occupancy_classification,architect
+308.4.1,Door|Wall|Stair|Ramp|Slab,Residential (R),sd|dd|cd,occupancy_classification,architect
+308.4.2,Door|Wall,Institutional (I),sd|dd|cd,means_of_egress,architect
+308.4.3,Wall|Door|Slab,Institutional (I)|Residential (R),sd|dd|cd,occupancy_classification,architect
+308.4.4,Door|Wall|BuildingElementProxy,Institutional (I),sd|dd|cd,means_of_egress,architect
+308.4.5,Door|Wall,Institutional (I),sd|dd|cd,means_of_egress,architect
+308.5,Wall|Door|Slab,Institutional (I),concept|sd|dd|cd,occupancy_classification,architect
+308.5.1,Door|Slab|Wall,Educational (E),sd|dd|cd,occupancy_classification,architect
+308.5.2,Wall|Door|Slab,Assembly (A),sd|dd|cd,occupancy_classification,architect
+308.5.3,Wall|Door,Institutional (I),concept|sd|dd|cd,occupancy_classification,architect
+308.5.4,Wall|Door|Window,Residential (R)|Institutional (I),concept|sd|dd|cd,occupancy_classification,architect
+309,,,,none,none
+309.1,Wall|Door|Slab,Mercantile (M),concept|sd|dd|cd,occupancy_classification,architect
+309.2,Wall|Door|Slab,Mercantile (M),sd|dd|cd,hazardous_materials,architect
+309.3,Slab|Covering|Wall|BuildingElementProxy,Utility and Miscellaneous (U),sd|dd|cd,hazardous_materials,architect
+310,,,,none,none
+310.1,Wall|Slab|Door,Residential (R),concept|sd|dd|cd,occupancy_classification,architect
+310.2,Wall|Door|Window,Residential (R),concept|sd|dd|cd,occupancy_classification,architect
+310.3,Wall|Door|Window|Slab,Residential (R),concept|sd|dd|cd,occupancy_classification,architect
+310.4,Wall|Slab|Door,Residential (R),concept|sd|dd|cd,occupancy_classification,architect
+310.4.1,Slab|Wall|Roof|Door,Residential (R)|Institutional (I),sd|dd|cd,occupancy_classification,architect
+310.4.2,Wall|Door|Roof|Slab,Residential (R),sd|dd|cd,occupancy_classification,architect
+310.5,Wall|Door|Slab,Residential (R),concept|sd|dd|cd,occupancy_classification,architect
+310.5.1,Door|Stair|Ramp|RampFlight|Slab,Institutional (I),sd|dd|cd,occupancy_classification,architect
+310.5.2,Door|Stair|Ramp|RampFlight|Wall,Institutional (I),concept|sd|dd|cd,occupancy_classification,architect
+311,,,,none,none
+311.1,Wall|Slab|Door,Storage (S),concept|sd|dd|cd,occupancy_classification,architect
+311.1.1,Wall|Door|Slab,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,occupancy_classification,architect
+311.1.2,Slab|Roof|Wall,Storage (S)|Factory and Industrial (F)|Mercantile (M),sd|dd|cd,hazardous_materials,architect
+311.2,Wall|Slab|Door,Storage (S),concept|sd|dd|cd,occupancy_classification,architect
+311.2.1,BuildingElementProxy|Slab|Roof|Door,Storage (S)|Factory and Industrial (F),sd|dd|cd,occupancy_classification,architect
+311.2.2,Wall|Door|Slab,Factory and Industrial (F),sd|dd|cd,occupancy_classification,architect
+311.3,Wall|Slab|Door|Window,Storage (S),concept|sd|dd|cd,occupancy_classification,architect
+311.3.1,Slab|Ramp|Wall|Column|Door,Storage (S),sd|dd|cd,occupancy_classification,architect
+312,,,,none,none
+312.1,BuildingElementProxy|Wall|Roof|Slab|Column,Utility and Miscellaneous (U),sd|dd|cd,occupancy_classification,architect
+312.1.1,BuildingElementProxy|Roof|Slab|Wall|Door,Utility and Miscellaneous (U),concept|sd|dd|cd,occupancy_classification,architect
+312.2,Wall|Slab|Roof|Door,Residential (R)|Utility and Miscellaneous (U),sd|dd|cd,occupancy_classification,architect
+312.3,Slab|Wall|Roof|Door,Residential (R)|Utility and Miscellaneous (U),sd|dd|cd,occupancy_classification,architect

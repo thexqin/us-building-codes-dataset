@@ -1,0 +1,79 @@
+id,ifc_type,occupancy,design_phase,code_category,primary_responsibility
+14,BuildingElementProxy,Residential (R),sd|dd|cd,mechanical_systems,mechanical_engineer
+M1401,,,,none,none
+M1401.1,BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),dd|cd,mechanical_systems,mechanical_engineer
+M1401.2,BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,mechanical_systems,mechanical_engineer
+M1401.3,BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Institutional (I),sd|dd|cd,mechanical_systems,mechanical_engineer
+M1401.4,BuildingElementProxy|Slab|Footing,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,mechanical_systems,mechanical_engineer
+M1401.5,BuildingElementProxy,Residential (R)|Business (B)|Assembly (A),sd|dd|cd,mechanical_systems,mechanical_engineer
+M1402,,,,none,none
+M1402.1,BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,mechanical_systems,mechanical_engineer
+M1402.2,BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,mechanical_systems,mechanical_engineer
+M1402.3,Wall|BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,mechanical_systems,mechanical_engineer
+M1403,,,,none,none
+M1403.1,BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|High Hazard (H),sd|dd|cd,mechanical_systems,mechanical_engineer
+M1404,,,,none,none
+M1404.1,BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),dd|cd,mechanical_systems,mechanical_engineer
+M1405,,,,none,none
+M1405.1,BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Institutional (I),cd|ca,mechanical_systems,mechanical_engineer
+M1406,,,,none,none
+M1406.1,Slab|Covering|BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Institutional (I),dd|cd,mechanical_systems,mechanical_engineer
+M1406.2,Covering|BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,mechanical_systems,mechanical_engineer
+M1406.3,Slab|Wall|Plate,Residential (R)|Business (B)|Assembly (A),dd|cd,mechanical_systems,mechanical_engineer
+M1406.4,Slab|Wall,Assembly (A)|Business (B)|Educational (E)|Residential (R),sd|dd|cd,mechanical_systems,mechanical_engineer
+M1406.5,Slab|Covering|Plate,Residential (R)|Assembly (A)|Business (B),dd|cd,finishes_materials,architect
+M1407,,,,none,none
+M1407.1,BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),dd|cd,mechanical_systems,mechanical_engineer
+M1407.2,Covering|BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),dd|cd,mechanical_systems,mechanical_engineer
+M1407.3,BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,mechanical_systems,mechanical_engineer
+M1407.4,BuildingElementProxy,Business (B)|Educational (E)|Residential (R)|Assembly (A)|Mercantile (M),dd|cd,mechanical_systems,mechanical_engineer
+M1407.5,BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),dd|cd,mechanical_systems,mechanical_engineer
+M1408,,,,none,none
+M1408.1,BuildingElementProxy,Residential (R)|Business (B)|Assembly (A),sd|dd|cd,mechanical_systems,mechanical_engineer
+M1408.2,Slab|BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),dd|cd,mechanical_systems,mechanical_engineer
+M1408.3,Slab|Wall|Door|Covering,Residential (R)|Assembly (A)|Business (B),sd|dd|cd,mechanical_systems,mechanical_engineer
+M1408.4,Slab|Floor|BuildingElementProxy,Residential (R)|Business (B)|Assembly (A),sd|dd|cd,mechanical_systems,mechanical_engineer
+M1408.5,Slab|BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Residential (R),sd|dd|cd,mechanical_systems,mechanical_engineer
+M1409,,,,none,none
+M1409.1,Wall|BuildingElementProxy,Assembly (A)|Business (B)|Residential (R),sd|dd|cd,mechanical_systems,mechanical_engineer
+M1409.2,Wall|Door|BuildingElementProxy,Residential (R)|Business (B)|Assembly (A),sd|dd|cd,mechanical_systems,mechanical_engineer
+M1409.3,Wall|BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Residential (R),dd|cd,mechanical_systems,mechanical_engineer
+M1409.4,Wall|BuildingElementProxy,Residential (R)|Business (B)|Institutional (I),sd|dd|cd,mechanical_systems,mechanical_engineer
+M1410,,,,none,none
+M1410.1,BuildingElementProxy,Residential (R)|Business (B)|Assembly (A),sd|dd|cd,mechanical_systems,mechanical_engineer
+M1410.2,Slab|Covering,Assembly (A)|Residential (R)|Business (B),dd|cd,fire_resistance_smoke_protection,architect
+M1411,,,,none,none
+M1411.1,BuildingElementProxy,Business (B)|Residential (R)|Assembly (A)|Educational (E)|Institutional (I),dd|cd,mechanical_systems,mechanical_engineer
+M1411.2,BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),dd|cd,mechanical_systems,mechanical_engineer
+M,BuildingElementProxy,Business (B)|Residential (R)|Assembly (A)|Mercantile (M)|Institutional (I),cd|ca,mechanical_systems,mechanical_engineer
+M1411.4,BuildingElementProxy,Business (B)|Assembly (A)|Mercantile (M)|Residential (R),dd|cd|ca,mechanical_systems,mechanical_engineer
+M1411.5,BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),cd|ca,mechanical_systems,mechanical_engineer
+M1411.6,BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),dd|cd,mechanical_systems,mechanical_engineer
+M1411.7,BuildingElementProxy,Business (B)|Assembly (A)|Residential (R),cd|ca,mechanical_systems,mechanical_engineer
+M1411.8,BuildingElementProxy,Business (B)|Residential (R)|Assembly (A)|Educational (E)|Institutional (I),dd|cd,mechanical_systems,mechanical_engineer
+M1411.9,BuildingElementProxy|Slab,Business (B)|Residential (R)|Assembly (A)|Mercantile (M),dd|cd|ca,plumbing_systems,mechanical_engineer
+M1411.9.1,BuildingElementProxy,Business (B)|Residential (R)|Assembly (A)|Institutional (I),dd|cd,mechanical_systems,mechanical_engineer
+M1411.9.1.1,MechanicalSystem|Slab,Business (B)|Residential (R)|Institutional (I)|Assembly (A),dd|cd,mechanical_systems,mechanical_engineer
+M1411.9.1.2,BuildingElementProxy|Slab|Covering,Residential (R)|Business (B)|Assembly (A),sd|dd|cd,mechanical_systems,mechanical_engineer
+M1411.9.2,BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),dd|cd,plumbing_systems,mechanical_engineer
+M1411.9.3,PlumbingSystems,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Institutional (I),dd|cd,plumbing_systems,mechanical_engineer
+M1411.9.4,BuildingElementProxy|Slab,Assembly (A)|Business (B)|Residential (R)|Institutional (I)|Mercantile (M),dd|cd,mechanical_systems,mechanical_engineer
+M1411.10,BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,mechanical_systems,mechanical_engineer
+M1411.11,BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,mechanical_systems,mechanical_engineer
+M1411.12,BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),dd|cd,mechanical_systems,mechanical_engineer
+M1411.12.1,Covering|BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),dd|cd,mechanical_systems,mechanical_engineer
+M1411.13,Roof|BuildingElementProxy,Business (B)|Educational (E)|Factory and Industrial (F)|Mercantile (M)|Residential (R),dd|cd,mechanical_systems,mechanical_engineer
+M1411.14,BuildingElementProxy,Business (B)|Residential (R)|Assembly (A)|Educational (E)|Institutional (I),dd|cd,mechanical_systems,mechanical_engineer
+M1411.15,BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),cd|ca,mechanical_systems,mechanical_engineer
+M1412,,,,none,none
+M1412.1,BuildingElementProxy,Business (B)|Residential (R)|Assembly (A)|Institutional (I)|Mercantile (M),cd|ca,mechanical_systems,mechanical_engineer
+M1412.2,MechanicalSystem,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),dd|cd,mechanical_systems,mechanical_engineer
+M1412.3,PipeSegment|Covering,Business (B)|Residential (R)|Institutional (I)|Mercantile (M)|Assembly (A),dd|cd,mechanical_systems,mechanical_engineer
+M1412.4,BuildingElementProxy,Business (B)|Factory and Industrial (F)|Institutional (I)|Residential (R)|Assembly (A),dd|cd,mechanical_systems,mechanical_engineer
+M1413,,,,none,none
+M1413.1,BuildingElementProxy|Slab|Wall,Assembly (A)|Business (B)|Educational (E)|Mercantile (M)|Residential (R),sd|dd|cd,mechanical_systems,mechanical_engineer
+M1414,,,,none,none
+M1414.1,Chimney|BuildingElementProxy,Residential (R)|Assembly (A)|Business (B)|Institutional (I),sd|dd|cd,special_construction,architect
+M1414.2,Slab|Covering,Assembly (A)|Business (B)|Residential (R),sd|dd|cd,finishes_materials,architect
+M1415,,,,none,none
+M1415.1,Chimney|Wall,Residential (R),sd|dd|cd,special_construction,architect

@@ -1,0 +1,144 @@
+id,ifc_type,occupancy,design_phase,code_category,primary_responsibility
+5,Slab|Beam|Member,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,structural_design,structural_engineer
+R501,,,,none,none
+R501.1,Slab|Covering,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,assemblies_envelope,architect
+R501.2,Slab|Beam|Joist|Footing|Column,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Storage (S),sd|dd|cd,structural_design,structural_engineer
+R502,,,,none,none
+R502.1,Beam|Column|Slab|Wall|Roof,Assembly (A)|Business (B)|Residential (R)|Educational (E)|Institutional (I),sd|dd|cd,structural_design,structural_engineer
+R502.1.1,Beam|Column|Slab|Wall,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Storage (S),sd|dd|cd,finishes_materials,architect
+R502.1.1.1,Wall|Beam|Slab|Column,Residential (R)|Business (B),sd|dd|cd,finishes_materials,architect
+R502.1.1.2,Beam|Column|Slab|Plate|Wall,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Institutional (I),sd|dd|cd,fire_resistance_smoke_protection,architect
+R502.1.2,Beam|Slab,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Mercantile (M),sd|dd|cd,structural_design,structural_engineer
+R502.1.3,Beam|Column|Member,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Institutional (I),sd|dd|cd,structural_design,structural_engineer
+R502.1.4,Wall|Beam|Column,Residential (R)|Assembly (A)|Business (B),sd|dd|cd,structural_design,structural_engineer
+R502.1.5,Beam|Column|Member|Slab|Wall,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Institutional (I),sd|dd|cd,structural_design,structural_engineer
+R502.1.6,Slab|Wall|Roof,Assembly (A)|Business (B)|Residential (R)|Educational (E)|Mercantile (M),sd|dd|cd,construction_type_ratings,architect
+R502.1.7,Slab|Beam|BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,structural_design,structural_engineer
+R502.2,Slab|Beam|Member,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Mercantile (M),sd|dd|cd,structural_design,structural_engineer
+R502.2.1,Wall|Slab|Beam|Column|BuildingElementProxy,Residential (R)|Assembly (A)|Business (B)|Educational (E)|Institutional (I),sd|dd|cd,structural_design,structural_engineer
+R502.2.2,Slab|Beam|Member,Residential (R)|Assembly (A)|Business (B),sd|dd|cd,finishes_materials,architect
+R502.3,Beam|Slab,Residential (R)|Assembly (A)|Business (B)|Educational (E),sd|dd|cd,structural_design,structural_engineer
+R502.3.1,Slab|Beam|Member,Residential (R),sd|dd|cd,structural_design,structural_engineer
+R502.3.2,Beam|Slab,Assembly (A)|Business (B)|Educational (E)|Mercantile (M)|Residential (R),sd|dd|cd,structural_design,structural_engineer
+R502.3.3,Slab|Beam|Wall|Footing,Residential (R)|Assembly (A)|Business (B),sd|dd|cd,structural_design,structural_engineer
+R502.4,Joist|Bearing|Wall|Slab,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,structural_design,structural_engineer
+R502.5,Beam|Bearing|BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,structural_design,structural_engineer
+R502.6,Beam|Bearing|BuildingElementProxy|Footing,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,structural_design,structural_engineer
+R502.6.1,Beam|Bearing|Member|Slab,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,structural_design,structural_engineer
+R502.6.2,Beam|Joist|Member,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,structural_design,structural_engineer
+R502.7,Beam|Member|Slab,Assembly (A)|Business (B)|Educational (E)|Residential (R),sd|dd|cd,structural_design,structural_engineer
+R502.7.1,Beam|Slab|Member,Residential (R)|Assembly (A)|Business (B)|Educational (E),sd|dd|cd,structural_design,structural_engineer
+R502.8,Beam|Slab|Plate,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,structural_design,structural_engineer
+R502.8.1,Beam|Member,Assembly (A)|Business (B)|Residential (R)|Educational (E)|Mercantile (M),sd|dd|cd,structural_design,structural_engineer
+R502.8.2,Beam|Slab|Column,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Storage (S),sd|dd|cd,structural_design,structural_engineer
+R502.9,Beam|Slab|Column|BuildingElementProxy,Residential (R)|Assembly (A)|Business (B),sd|dd|cd,structural_design,structural_engineer
+R502.10,Slab|Beam|Member,Residential (R)|Assembly (A)|Business (B),sd|dd|cd,structural_design,structural_engineer
+R502.11,Slab|Beam|Railing|Member,Assembly (A)|Business (B)|Educational (E)|Residential (R),sd|dd|cd,structural_design,structural_engineer
+R502.11.1,Beam|Slab|Member,Residential (R),sd|dd|cd,structural_design,structural_engineer
+R502.11.2,Beam|Member|Slab,Residential (R),sd|dd|cd,structural_design,structural_engineer
+R502.11.3,Slab|Beam|Member,Residential (R)|Business (B)|Assembly (A),sd|dd|cd,structural_design,structural_engineer
+R502.12.1,Beam|Member,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Storage (S),sd|dd|cd,structural_design,structural_engineer
+R502.12.2,Beam|Member|BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,structural_design,structural_engineer
+R502.12.3,Beam|Member|BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Storage (S),sd|dd|cd,structural_design,structural_engineer
+R502.12.4,Beam|Bearing|Member|BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Residential (R),sd|dd|cd,structural_design,structural_engineer
+R502.13,Wall|Slab|Covering,Residential (R),sd|dd|cd,fire_resistance_smoke_protection,architect
+R502.14,Wall|Slab|Floor|Roof,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,fire_resistance_smoke_protection,architect
+R503,,,,none,none
+R503.1,Slab|Beam,Residential (R)|Business (B)|Assembly (A),sd|dd|cd,structural_design,structural_engineer
+R503.1.1,Slab|Beam,Residential (R)|Assembly (A)|Business (B),sd|dd|cd,assemblies_envelope,architect
+R503.2.1,Slab|Wall|Roof,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Storage (S),sd|dd|cd,finishes_materials,architect
+R503.2.1.1,Slab|Covering,Residential (R)|Business (B)|Educational (E)|Assembly (A),sd|dd|cd,assemblies_envelope,architect
+R503.2.2,Slab,Assembly (A)|Business (B)|Educational (E)|Mercantile (M)|Residential (R),sd|dd|cd,structural_design,structural_engineer
+R503.2.3,Slab,Residential (R)|Business (B)|Assembly (A)|Educational (E)|Mercantile (M),sd|dd|cd,assemblies_envelope,architect
+R503.3.1,Slab|Wall|Roof|Covering,Business (B)|Residential (R)|Educational (E)|Assembly (A)|Mercantile (M),sd|dd|cd,finishes_materials,architect
+R503.3.2,Slab|Covering,Residential (R)|Business (B)|Educational (E)|Assembly (A)|Mercantile (M),sd|dd|cd,finishes_materials,architect
+R503.3.3,Slab|Covering,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|High Hazard (H),cd|ca,finishes_materials,architect
+R504,,,,none,none
+R504.1,Slab|Beam|Floor|Wall,Residential (R),sd|dd|cd,structural_design,structural_engineer
+R504.1.1,Slab|Footing|Wall,Residential (R),sd|dd|cd,structural_design,structural_engineer
+R504.1.2,Slab|Beam|Wall|Member,Residential (R),sd|dd|cd,structural_design,structural_engineer
+R504.1.3,Wall|Bearing|BuildingElementProxy|Footing,Residential (R)|Assembly (A)|Business (B),sd|dd|cd,structural_design,structural_engineer
+R504.2,Slab|Footing|EarthworksElement,Residential (R),sd|dd|cd,site_planning,civil_engineer
+R504.2.1,Slab|Footing,Residential (R)|Business (B)|Assembly (A),sd|dd|cd,assemblies_envelope,architect
+R504.2.2,Slab|Footing|Covering,Residential (R)|Business (B)|Assembly (A)|Educational (E)|Mercantile (M),sd|dd|cd,assemblies_envelope,architect
+R504.3,Slab|Beam|Member,Residential (R),sd|dd|cd,finishes_materials,architect
+R505,,,,none,none
+R505.1,Slab|Beam|Member,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,structural_design,structural_engineer
+R505.1.1,Slab|Beam|Member,Business (B)|Residential (R)|Assembly (A),sd|dd|cd,structural_design,structural_engineer
+R505.1.1.1,Slab|Beam|Member,Residential (R)|Assembly (A)|Business (B),sd|dd|cd,structural_design,structural_engineer
+R505.1.2,Wall|Beam|Slab,Residential (R),sd|dd|cd,structural_design,structural_engineer
+R505.1.3,Member|Beam|Slab,Residential (R)|Business (B)|Educational (E)|Assembly (A)|Mercantile (M),sd|dd|cd,structural_design,structural_engineer
+R505.2,Beam|Slab|Column|Member,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,structural_design,structural_engineer
+R505.2.1,Wall|Beam|Column,Residential (R),sd|dd|cd,construction_type_ratings,structural_engineer
+R505.2.2,Wall|Beam|Column|Slab,Business (B)|Residential (R)|Assembly (A)|Educational (E)|Mercantile (M),sd|dd|cd,construction_type_ratings,structural_engineer
+R505.2.3,Beam|Slab|BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Residential (R),sd|dd|cd,structural_design,structural_engineer
+R505.2.4,Wall|Beam|Column,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Mercantile (M),cd|ca,construction_type_ratings,structural_engineer
+R505.2.5,Slab|Beam|Plate,Residential (R)|Business (B)|Educational (E)|Assembly (A),cd|ca,structural_design,structural_engineer
+R505.2.6,Beam|Slab|BuildingElementProxy,Residential (R)|Business (B)|Assembly (A),sd|dd|cd,structural_design,structural_engineer
+R505.3,Slab|Beam|Plate,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Mercantile (M),sd|dd|cd,structural_design,structural_engineer
+R505.3.1,Slab|Footing|Wall|Beam,Residential (R)|Assembly (A)|Business (B),sd|dd|cd,structural_design,structural_engineer
+R505.3.2,Beam|Slab|Bearing,Residential (R)|Assembly (A)|Business (B)|Educational (E),sd|dd|cd,structural_design,structural_engineer
+R505.3.3,Beam|Slab,Assembly (A)|Business (B)|Educational (E)|Residential (R),sd|dd|cd,structural_design,structural_engineer
+R505.3.3.1,Slab|Beam,Residential (R)|Assembly (A)|Business (B),sd|dd|cd,structural_design,structural_engineer
+R505.3.3.2,Beam|Slab,Residential (R)|Business (B)|Assembly (A),sd|dd|cd,structural_design,structural_engineer
+R505.3.3.3,Beam|Bearing|BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,structural_design,structural_engineer
+R505.3.3.4,Beam|Member|Slab,Residential (R)|Business (B)|Educational (E),sd|dd|cd,structural_design,structural_engineer
+R505.3.4,Member|Bearing,Residential (R)|Business (B)|Educational (E)|Assembly (A),sd|dd|cd,structural_design,structural_engineer
+R505.3.5,Beam|Slab|Member,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Mercantile (M),sd|dd|cd,structural_design,structural_engineer
+R505.3.6,Slab|Beam|Plate,Residential (R)|Business (B)|Assembly (A),sd|dd|cd,structural_design,structural_engineer
+R505.3.7,Beam|Member,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,structural_design,structural_engineer
+R505.3.8,Slab|Beam|Member,Residential (R)|Assembly (A)|Business (B)|Educational (E),sd|dd|cd,structural_design,structural_engineer
+R506,,,,none,none
+R506.1,Slab,Residential (R),sd|dd|cd,assemblies_envelope,architect
+R506.2,Slab,Residential (R)|Business (B)|Assembly (A),sd|dd|cd,structural_design,structural_engineer
+R506.3,Slab|Footing|EarthworksElement,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|High Hazard (H),sd|dd|cd,site_planning,civil_engineer
+R506.3.1,Slab|EarthworksElement|Footing,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,assemblies_envelope,architect
+R506.3.2,Slab,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,assemblies_envelope,architect
+R506.3.3,Slab|Covering,Residential (R)|Utility and Miscellaneous (U)|Storage (S),sd|dd|cd,assemblies_envelope,architect
+R506.3.4,Slab,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Mercantile (M),sd|dd|cd,structural_design,structural_engineer
+R507,,,,none,none
+R507.1,Slab|Beam|Column,Residential (R)|Assembly (A),sd|dd|cd,structural_design,structural_engineer
+R507.2,Slab|Beam|Column,Residential (R)|Assembly (A)|Business (B),sd|dd|cd,finishes_materials,architect
+R507.2.1,Beam|Column|Slab|Wall,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Utility and Miscellaneous (U),sd|dd|cd,finishes_materials,architect
+R507.2.1.1,Beam|Floor|Roof|Slab|Column,Residential (R),sd|dd|cd,structural_design,structural_engineer
+R507.2.2,Slab|Stair|Railing,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Mercantile (M),sd|dd|cd,finishes_materials,architect
+R507.2.2.1,Slab|StairFlight|Railing,Assembly (A)|Business (B)|Residential (R),cd|ca,finishes_materials,architect
+R507.2.2.2,Slab|Stair|Railing|StairFlight,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,finishes_materials,architect
+R507.2.2.3,Slab|Stair|Railing,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Mercantile (M),sd|dd|cd,finishes_materials,architect
+R507.2.2.4,Slab|Stair|Railing,Residential (R)|Assembly (A)|Business (B),sd|dd|cd,finishes_materials,architect
+R507.2.2.5,Slab|Stair|Railing,Residential (R),sd|dd|cd,finishes_materials,architect
+R507.2.3,Member|Beam|Fastener,Residential (R)|Assembly (A)|Business (B),cd|ca,finishes_materials,architect
+R507.2.4,Wall|Roof|Slab,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Mercantile (M),sd|dd|cd,assemblies_envelope,architect
+R507.2.5,Wall|Slab|Roof,Assembly (A)|Business (B)|Residential (R),sd|dd|cd,finishes_materials,architect
+R507.3,Footing|Slab,Residential (R),sd|dd|cd,structural_design,structural_engineer
+R507.3.1,Footing|Slab,Residential (R)|Assembly (A),sd|dd|cd,structural_design,structural_engineer
+R507.3.2,Footing|Slab,Residential (R),sd|dd|cd,structural_design,structural_engineer
+R507.3.3,Footing|Slab|BuildingElementProxy,Residential (R)|Assembly (A),sd|dd|cd,site_planning,civil_engineer
+R507.4,Column|Footing,Residential (R),sd|dd|cd,structural_design,structural_engineer
+R507.4.1,Column|Footing,Residential (R)|Assembly (A),sd|dd|cd,structural_design,structural_engineer
+R507.5,Beam,Residential (R)|Assembly (A),sd|dd|cd,structural_design,structural_engineer
+R507.5.1,Beam|Bearing,Residential (R)|Assembly (A),sd|dd|cd,structural_design,structural_engineer
+R507.5.2,Beam|Column,Residential (R)|Assembly (A)|Business (B),sd|dd|cd,structural_design,structural_engineer
+R507.6,Beam|Slab,Residential (R)|Assembly (A),sd|dd|cd,structural_design,structural_engineer
+R507.6.1,Beam|Joist|BuildingElementProxy,Residential (R),sd|dd|cd,structural_design,structural_engineer
+R507.6.2,Beam|Joist|Member,Residential (R),sd|dd|cd,structural_design,structural_engineer
+R507.7,Slab|Member,Assembly (A)|Residential (R)|Business (B),sd|dd|cd,structural_design,structural_engineer
+R507.8,Slab|Beam|Column|Wall|Footing,Assembly (A)|Business (B)|Residential (R),sd|dd|cd,structural_design,structural_engineer
+R507.9,Slab|Wall|Beam|BuildingElementProxy,Residential (R)|Assembly (A)|Business (B),sd|dd|cd,structural_design,structural_engineer
+R507.9.1,Beam|Slab|BuildingElementProxy,Residential (R)|Assembly (A)|Business (B),sd|dd|cd,structural_design,structural_engineer
+R507.9.1.1,Beam|Slab|Wall,Residential (R)|Assembly (A),sd|dd|cd,assemblies_envelope,architect
+R507.9.1.2,Beam|Slab|BuildingElementProxy,Residential (R),sd|dd|cd,structural_design,structural_engineer
+R507.9.1.3,Beam|Slab|Wall,Residential (R)|Assembly (A),sd|dd|cd,structural_design,structural_engineer
+R507.9.1.4,Wall|Slab|Beam,Residential (R),sd|dd|cd,structural_design,structural_engineer
+R507.9.1.5,Wall|Slab|Covering,Residential (R)|Business (B)|Assembly (A),sd|dd|cd,assemblies_envelope,architect
+R507.9.1.6,Wall|Covering|Slab,Residential (R),sd|dd|cd,assemblies_envelope,architect
+R507.9.1.7,Wall|Slab|Covering,Residential (R)|Business (B),sd|dd|cd,assemblies_envelope,architect
+R507.9.1.8,Wall|Covering|Slab,Residential (R),sd|dd|cd,assemblies_envelope,architect
+R507.9.2,Slab|Member|Wall,Residential (R)|Assembly (A),sd|dd|cd,structural_design,structural_engineer
+R507.10,Railing|Stair|Ramp|Slab,Assembly (A)|Business (B)|Educational (E)|Residential (R),sd|dd|cd,means_of_egress,architect
+R507.10.1,Railing|Slab|Beam|Member,Residential (R)|Assembly (A)|Business (B),sd|dd|cd,structural_design,structural_engineer
+R507.10.1.1,Beam|Railing|Slab|Member,Residential (R),sd|dd|cd,structural_design,structural_engineer
+R507.10.1.2,Railing|Slab|Member,Assembly (A)|Residential (R)|Mercantile (M),sd|dd|cd,structural_design,architect
+R507.10.2,Column|Railing,Residential (R)|Assembly (A),sd|dd|cd,structural_design,architect
+R507.10.3,Railing,Residential (R),sd|dd|cd,finishes_materials,architect
+R507.10.4,Railing,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Mercantile (M),sd|dd|cd,means_of_egress,architect

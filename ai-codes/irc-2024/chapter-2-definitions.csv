@@ -1,0 +1,8 @@
+id,ifc_type,occupancy,design_phase,code_category,primary_responsibility
+2,BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),concept|sd|dd|cd,occupancy_classification,architect
+R201,,,,none,none
+R201.1,BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|High Hazard (H),concept|sd|dd|cd|ca,occupancy_classification,architect
+R201.2,BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),cd,occupancy_classification,architect
+R201.3,BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),concept|sd|dd|cd,occupancy_classification,architect
+R201.4,BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),cd,occupancy_classification,architect
+R202,Wall|Roof|Slab|Chimney|Door,Residential (R)|Business (B)|Assembly (A),sd|dd|cd,occupancy_classification,architect

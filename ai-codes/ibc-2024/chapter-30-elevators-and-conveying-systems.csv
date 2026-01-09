@@ -1,0 +1,106 @@
+id,ifc_type,occupancy,design_phase,code_category,primary_responsibility
+30,Elevator|Ramp|Stair|RampFlight|Door,Assembly (A)|Business (B)|Educational (E)|Institutional (I)|Residential (R),sd|dd|cd,elevators_conveying_systems,elevator_consultant
+3001,,,,none,none
+3001.1,Elevator|BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Institutional (I),sd|dd|cd,elevators_conveying_systems,elevator_consultant
+3001.2,Elevator|BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Institutional (I)|Residential (R),sd|dd|cd,elevators_conveying_systems,elevator_consultant
+3001.3,ElevatorsConveyingSystems|Stair|Ramp,Assembly (A)|Business (B)|Educational (E)|Institutional (I)|Residential (R),sd|dd|cd,elevators_conveying_systems,elevator_consultant
+3001.4,Elevator|BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Institutional (I)|Residential (R),sd|dd|cd,accessibility,architect
+3001.5,Elevator|BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Institutional (I),sd|dd|cd,elevators_conveying_systems,elevator_consultant
+3001.6,Elevator|Stair|StairFlight|Ramp|RampFlight,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,structural_design,structural_engineer
+3002,,,,none,none
+3002.1,Wall|Shaft|Door,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Institutional (I),sd|dd|cd,fire_resistance_smoke_protection,architect
+3002.1.1,Door|Wall,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Institutional (I),sd|dd|cd,fire_resistance_smoke_protection,architect
+3002.1.2,Door,Assembly (A)|Business (B)|Educational (E)|Institutional (I)|Residential (R),dd|cd,elevators_conveying_systems,elevator_consultant
+3002.2,Elevator|BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Institutional (I)|Residential (R),sd|dd|cd,elevators_conveying_systems,architect
+3002.3,Elevator|Wall|Door,Assembly (A)|Business (B)|Educational (E)|Institutional (I)|Residential (R),cd,fire_protection_alarm_systems,architect
+3002.4,Elevator|BuildingElementProxy|Door,Assembly (A)|Business (B)|Educational (E)|Institutional (I)|Residential (R),sd|dd|cd,elevators_conveying_systems,architect
+3002.5,Door|Wall,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Institutional (I),sd|dd|cd,elevators_conveying_systems,elevator_consultant
+3002.6,Door,Assembly (A)|Business (B)|Educational (E)|Institutional (I)|Residential (R),sd|dd|cd,elevators_conveying_systems,architect
+3002.7,Ramp|Stair|StairFlight|BuildingElementProxy|Door,Assembly (A)|Business (B)|Mercantile (M)|Residential (R)|Storage (S),sd|dd|cd,means_of_egress,architect
+3002.8,Wall|Door|BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Institutional (I)|Residential (R),sd|dd|cd,elevators_conveying_systems,architect
+3002.9,BuildingElementProxy|Elevator|Slab,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|High Hazard (H),sd|dd|cd,plumbing_systems,mechanical_engineer
+3003,,,,none,none
+3003.1,Elevator|BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Institutional (I),dd|cd,elevators_conveying_systems,electrical_engineer
+3003.1.1,Elevators|BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),cd|ca,elevators_conveying_systems,electrical_engineer
+3003.1.2,Elevator|BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Institutional (I)|Residential (R),sd|dd|cd,elevators_conveying_systems,electrical_engineer
+3003.1.3,ElevatorsConveyingSystem|BuildingElementProxy,Assembly (A)|Business (B)|Institutional (I)|Residential (R),dd|cd,elevators_conveying_systems,electrical_engineer
+3003.1.4,Elevator|BuildingElementProxy,Assembly (A)|Business (B)|Residential (R)|Institutional (I)|Mercantile (M),sd|dd|cd,elevators_conveying_systems,electrical_engineer
+3003.2,Elevator|BuildingElementProxy,Assembly (A)|Business (B)|Institutional (I)|Residential (R),sd|dd|cd,elevators_conveying_systems,elevator_consultant
+3003.3,"Elevators are not directly represented on the allowed list, but the closest applicable type is BuildingElementProxy",Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|High Hazard (H),sd|dd|cd,elevators_conveying_systems,fire_protection_engineer
+3004,,,,none,none
+3004.1,Ramp|Stair|BuildingElementProxy,Assembly (A)|Business (B)|Institutional (I)|Mercantile (M)|Residential (R),sd|dd|cd,elevators_conveying_systems,elevator_consultant
+3004.2,Ramp|RampFlight|BuildingElementProxy,Assembly (A)|Business (B)|Mercantile (M)|Institutional (I)|Residential (R),dd|cd,finishes_materials,architect
+3004.2.1,Wall|Shaft|BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Mercantile (M)|Residential (R),sd|dd|cd,fire_resistance_smoke_protection,architect
+3004.2.2,Ramp|BuildingElementProxy,Assembly (A),sd|dd|cd,elevators_conveying_systems,architect
+3004.3,BuildingElementProxy,Factory and Industrial (F)|High Hazard (H)|Storage (S)|Business (B),sd|dd|cd,elevators_conveying_systems,architect
+3004.3.1,Wall|BuildingElementProxy|Slab|Door,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Institutional (I),sd|dd|cd,fire_resistance_smoke_protection,architect
+3004.3.2,TrackElement|BuildingElementProxy,Factory and Industrial (F)|Storage (S)|Mercantile (M),sd|dd|cd,elevators_conveying_systems,mechanical_engineer
+3004.4,BuildingElementProxy,Assembly (A)|Business (B)|Factory and Industrial (F)|Institutional (I)|Residential (R),sd|dd|cd,elevators_conveying_systems,elevator_consultant
+3005,,,,none,none
+3005.1,Door|Ramp|Stair|Wall,Assembly (A)|Business (B)|Educational (E)|Institutional (I)|Residential (R),sd|dd|cd,elevators_conveying_systems,architect
+3005.2,BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Institutional (I)|Residential (R),dd|cd,elevators_conveying_systems,elevator_consultant
+3005.3,ElevatorsConveyingSystem|Wall|Door,Assembly (A)|Business (B)|Educational (E)|Institutional (I)|Residential (R),dd|cd,fire_protection_alarm_systems,fire_protection_engineer
+3005.4,Wall|Slab|Door,Business (B)|Residential (R)|Assembly (A)|Institutional (I),sd|dd|cd,fire_resistance_smoke_protection,architect
+3005.5,Elevator|BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Institutional (I)|Residential (R),dd|cd,fire_protection_alarm_systems,fire_protection_engineer
+3005.6,BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Institutional (I)|Mercantile (M),sd|dd|cd,plumbing_systems,architect
+3006,,,,none,none
+3006.1,Door|Wall,Assembly (A)|Business (B)|Educational (E)|Institutional (I)|Residential (R),sd|dd|cd,elevators_conveying_systems,architect
+3006.2,Door|Wall,Institutional (I),sd|dd|cd,elevators_conveying_systems,architect
+3006.2.1,Wall|Door|BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Institutional (I)|Residential (R),sd|dd|cd,fire_resistance_smoke_protection,architect
+3006.3,Door|Wall|CurtainWall,Assembly (A)|Business (B)|Educational (E)|Institutional (I)|Residential (R),sd|dd|cd,fire_resistance_smoke_protection,architect
+3006.4,Door|Wall|BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,means_of_egress,architect
+3007,,,,none,none
+3007.1,Elevators_Conveying_Systems|BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Institutional (I),sd|dd|cd,elevators_conveying_systems,architect
+3007.2,Wall|Slab|Roof,Assembly (A)|Business (B)|Educational (E)|Institutional (I)|Residential (R),sd|dd|cd,fire_protection_alarm_systems,fire_protection_engineer
+3007.2.1,Elevator|BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,fire_protection_alarm_systems,fire_protection_engineer
+3007.2.2,BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Institutional (I)|Residential (R),dd|cd,fire_protection_alarm_systems,fire_protection_engineer
+3007.3,Wall|Door|Slab|BuildingElementProxy,Business (B)|Residential (R)|Assembly (A)|Institutional (I)|Mercantile (M),sd|dd|cd,fire_protection_alarm_systems,fire_protection_engineer
+3007.4,Elevator|BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,elevators_conveying_systems,fire_protection_engineer
+3007.5,BuildingElementProxy|Wall|Door,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,fire_resistance_smoke_protection,architect
+3007.5.1,Wall|Slab|BuildingElementProxy,Assembly (A)|Business (B)|Institutional (I)|Residential (R)|Mercantile (M),sd|dd|cd,elevators_conveying_systems,architect
+3007.5.2,BuildingElementProxy|Elevator|LightingDevice,Assembly (A)|Business (B)|Institutional (I)|Residential (R)|Mercantile (M),sd|dd|cd,fire_protection_alarm_systems,fire_protection_engineer
+3007.6,Door|Wall|BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Institutional (I)|Residential (R),sd|dd|cd,fire_resistance_smoke_protection,architect
+3007.6.1,Door|Wall|Stair|Ramp,Assembly (A)|Business (B)|Educational (E)|Institutional (I)|Residential (R),sd|dd|cd,means_of_egress,architect
+3007.6.2,Wall|Door,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,fire_resistance_smoke_protection,architect
+3007.6.3,Door|Wall,Assembly (A)|Business (B)|Educational (E)|Institutional (I)|Residential (R),sd|dd|cd,fire_resistance_smoke_protection,architect
+3007.6.4,BuildingElementProxy|Wall|Door,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Institutional (I),sd|dd|cd,elevators_conveying_systems,architect
+3007.6.5,Door,Assembly (A)|Business (B)|Educational (E)|Institutional (I)|Residential (R),cd|ca,elevators_conveying_systems,architect
+3007.7,Elevators|BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Institutional (I)|Residential (R),sd|dd|cd,fire_protection_alarm_systems,fire_protection_engineer
+3007.8,Elevator|BuildingElementProxy,Assembly (A)|Business (B)|Institutional (I)|Residential (R)|Mercantile (M),dd|cd,electrical_systems,electrical_engineer
+3007.8.1,Wall|CurtainWall|Door,Assembly (A)|Business (B)|Institutional (I)|Residential (R)|Mercantile (M),dd|cd,fire_resistance_smoke_protection,electrical_engineer
+3007.9,Stair|Ramp|Door,Assembly (A)|Business (B)|Educational (E)|Institutional (I)|Residential (R),sd|dd|cd,fire_protection_alarm_systems,fire_protection_engineer
+3007.9.1,Stair|Wall|Door,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,means_of_egress,architect
+3008,,,,none,none
+3008.1,Elevators_Conveying_Systems|BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Institutional (I)|Residential (R),sd|dd|cd,elevators_conveying_systems,elevator_consultant
+3008.1.1,Elevators_Conveying_Systems|BuildingElementProxy|Door,Assembly (A)|Business (B)|Institutional (I)|Residential (R),sd|dd|cd,elevators_conveying_systems,architect
+3008.1.2,Stair|StairFlight|ElevatorsConveyingSystems|BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Institutional (I)|Residential (R),sd|dd|cd,means_of_egress,architect
+3008.1.3,ElevatorsConveyingSystems|Stair|Door,Assembly (A)|Business (B)|Educational (E)|Institutional (I)|Residential (R),cd|ca,fire_protection_alarm_systems,fire_protection_engineer
+3008.1.4,Elevator|BuildingElementProxy,Assembly (A)|Business (B)|Institutional (I)|Residential (R),sd|dd|cd,elevators_conveying_systems,elevator_consultant
+3008.2,Wall|Slab,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|High Hazard (H),sd|dd|cd,fire_protection_alarm_systems,fire_protection_engineer
+3008.2.1,Elevator|BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Institutional (I),sd|dd|cd,fire_protection_alarm_systems,fire_protection_engineer
+3008.2.2,BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),dd|cd,fire_protection_alarm_systems,fire_protection_engineer
+3008.3,Wall|Door|Slab|BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Institutional (I)|Residential (R),sd|dd|cd,elevators_conveying_systems,architect
+3008.4,Elevator|BuildingElementProxy,Assembly (A)|Business (B)|Institutional (I)|Residential (R),sd|dd|cd,elevators_conveying_systems,elevator_consultant
+3008.5,Wall|BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Institutional (I)|Residential (R),sd|dd|cd,fire_resistance_smoke_protection,architect
+3008.5.1,Wall|BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Institutional (I)|Residential (R),sd|dd|cd,fire_resistance_smoke_protection,architect
+3008.6,Door|Wall|BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Institutional (I)|Residential (R),sd|dd|cd,means_of_egress,architect
+3008.6.1,Door|Stair|Ramp|Wall,Assembly (A)|Business (B)|Educational (E)|Institutional (I)|Residential (R),sd|dd|cd,means_of_egress,architect
+3008.6.2,Wall|Door,Assembly (A)|Business (B)|Educational (E)|Institutional (I)|Residential (R),sd|dd|cd,fire_resistance_smoke_protection,architect
+3008.6.3,Door|Wall,Assembly (A)|Business (B)|Educational (E)|Institutional (I)|Residential (R),sd|dd|cd,fire_resistance_smoke_protection,architect
+3008.6.3.1,Door|Wall,Assembly (A)|Business (B)|Educational (E)|Institutional (I)|Residential (R),sd|dd|cd,fire_resistance_smoke_protection,architect
+3008.6.3.2,Door|Wall,Assembly (A)|Business (B)|Educational (E)|Institutional (I)|Residential (R),sd|dd|cd,fire_resistance_smoke_protection,architect
+3008.6.4,Lobby|Wall|Door|Slab,Assembly (A)|Business (B)|Educational (E)|Institutional (I)|Residential (R),sd|dd|cd,means_of_egress,architect
+3008.6.5,Door|BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Institutional (I)|Residential (R),cd|ca,fire_protection_alarm_systems,architect
+3008.6.6,BuildingElementProxy|Door,Assembly (A)|Business (B)|Educational (E)|Institutional (I)|Residential (R),sd|dd|cd,fire_protection_alarm_systems,fire_protection_engineer
+3008.7,ElevatorsConveyingSystems|BuildingElementProxy,Assembly (A)|Business (B)|Institutional (I)|Residential (R),dd|cd,elevators_conveying_systems,fire_protection_engineer
+3008.7.1,Elevators|BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Institutional (I)|Residential (R),sd|dd|cd,elevators_conveying_systems,electrical_engineer
+3008.8,Elevator|BuildingElementProxy,Business (B)|Assembly (A)|Residential (R)|Institutional (I)|Educational (E),dd|cd,electrical_systems,electrical_engineer
+3008.8.1,ElevatorsConveyingSystems|BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Institutional (I)|Residential (R),sd|dd|cd,fire_protection_alarm_systems,fire_protection_engineer
+3008.8.2,BuildingElementProxy,Assembly (A)|Business (B)|Institutional (I)|Residential (R)|Mercantile (M),dd|cd,elevators_conveying_systems,electrical_engineer
+3008.9,Wall|BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Institutional (I)|Residential (R),sd|dd|cd,fire_protection_alarm_systems,fire_protection_engineer
+3008.9.1,Door|Wall|BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Institutional (I),dd|cd,fire_protection_alarm_systems,fire_protection_engineer
+3008.10,Wall|Door|Slab,Factory and Industrial (F)|High Hazard (H)|Storage (S),sd|dd|cd,hazardous_materials,architect
+3009,,,,none,none
+3009.1,"Elevators are not listed IFC types, but the closest related are Ramp|RampFlight",Residential (R),sd|dd|cd,elevators_conveying_systems,elevator_consultant
+3009.2,Wall|Door|Shaft,Assembly (A)|Business (B)|Educational (E)|Institutional (I)|Residential (R),dd|cd,elevators_conveying_systems,elevator_consultant
+3009.3,Door|Elevators_ConveyingSystems,Residential (R),sd|dd|cd,elevators_conveying_systems,elevator_consultant

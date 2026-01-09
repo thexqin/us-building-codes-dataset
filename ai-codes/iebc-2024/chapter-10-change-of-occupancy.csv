@@ -1,0 +1,70 @@
+id,ifc_type,occupancy,design_phase,code_category,primary_responsibility
+10,BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,occupancy_classification,architect
+1001,,,,none,none
+1001.1,BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,occupancy_classification,architect
+1001.2,BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,occupancy_classification,architect
+1001.2.1,BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|High Hazard (H),sd|dd|cd,occupancy_classification,architect
+1001.2.2,Wall|Door|Slab,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Institutional (I),sd|dd|cd,occupancy_classification,architect
+1001.2.2.1,Wall|Door|Stair|Ramp|Slab,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,occupancy_classification,architect
+1001.3,BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|High Hazard (H),cd|ca,occupancy_classification,architect
+1002,,,,none,none
+1002.1,BuildingElementProxy,Assembly (A)|Educational (E)|Institutional (I),sd|dd|cd,occupancy_classification,architect
+1002.2,Wall|Door|Slab,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,occupancy_classification,architect
+1002.3,Wall|Door|Slab,Institutional (I),sd|dd|cd,occupancy_classification,architect
+1002.4,Wall|Door,Institutional (I)|Storage (S),sd|dd|cd,fire_resistance_smoke_protection,architect
+1003,,,,none,none
+1003.1,Wall|Slab|Door|Window|Roof,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,occupancy_classification,architect
+1004,,,,none,none
+1004.1,Wall|Door,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Mercantile (M),sd|dd|cd,fire_protection_alarm_systems,fire_protection_engineer
+1005,,,,none,none
+1005.1,Door|Wall|Stair|Ramp|Slab,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,means_of_egress,architect
+1006,,,,none,none
+1006.1,Beam|Column|Slab|Footing,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,structural_design,structural_engineer
+1006.2,Wall|Roof|Column|Beam|Slab,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Institutional (I),sd|dd|cd,structural_design,structural_engineer
+1006.3,Wall|Column|Beam|Slab|BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Storage (S)|Utility and Miscellaneous (U),sd|dd|cd,structural_design,structural_engineer
+1006.4,Wall|Roof|Stair|Door,Institutional (I)|Assembly (A)|Business (B),sd|dd|cd,site_planning,architect
+1007,,,,none,none
+1007.1,BuildingElementProxy|Wall|Door|Slab,Assembly (A)|Business (B)|Institutional (I)|Residential (R)|Utility and Miscellaneous (U),sd|dd|cd,electrical_systems,electrical_engineer
+1007.2,BuildingElementProxy|Wall|Door,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,electrical_systems,electrical_engineer
+1007.3,BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,electrical_systems,electrical_engineer
+1007.4,BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,electrical_systems,electrical_engineer
+1008,,,,none,none
+1008.1,BuildingElementProxy|Covering|Door,Assembly (A)|Business (B)|Mercantile (M)|Residential (R)|Educational (E),sd|dd|cd,mechanical_systems,mechanical_engineer
+1009,,,,none,none
+1009.1,Slab|Wall|Door|BuildingElementProxy|PlumbingFixture,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,plumbing_systems,architect
+1009.2,Slab|Covering,Mercantile (M)|Assembly (A),sd|dd|cd,plumbing_systems,architect
+1009.3,PlumbingSystems,Assembly (A)|Business (B)|Mercantile (M)|Factory and Industrial (F),sd|dd|cd,plumbing_systems,mechanical_engineer
+1009.4,PlumbingSystem,Factory and Industrial (F)|High Hazard (H)|Business (B),sd|dd|cd,plumbing_systems,mechanical_engineer
+1009.5,BuildingElementProxy,Institutional (I),sd|dd|cd,plumbing_systems,mechanical_engineer
+1010,,,,none,none
+1010.1,Wall|Window|BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Residential (R),sd|dd|cd,interior_environment,architect
+1011,,,,none,none
+1011.1,BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|High Hazard (H),sd|dd|cd,occupancy_classification,architect
+1011.2,BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,fire_protection_alarm_systems,fire_protection_engineer
+1011.2.1,Wall|Slab|Door,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,fire_protection_alarm_systems,fire_protection_engineer
+1011.2.1.1,BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),cd|ca,fire_protection_alarm_systems,fire_protection_engineer
+1011.2.1.1.1,Wall|Slab|Roof,Assembly (A)|Business (B)|Educational (E)|Residential (R),cd|ca,fire_protection_alarm_systems,fire_protection_engineer
+1011.2.2,BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|High Hazard (H),sd|dd|cd,fire_protection_alarm_systems,fire_protection_engineer
+1011.3,Wall|Covering|Slab,Assembly (A)|Business (B)|Educational (E)|Mercantile (M)|Residential (R),sd|dd|cd,finishes_materials,architect
+1011.4,Wall|Slab|BuildingElementProxy,Educational (E),sd|dd|cd,interior_environment,architect
+1011.5,Door|Stair|StairFlight|Ramp|RampFlight,High Hazard (H)|Institutional (I)|Assembly (A)|Educational (E)|Mercantile (M),sd|dd|cd,means_of_egress,architect
+1011.5.1,Stair|StairFlight|Wall|Door|Window,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|High Hazard (H),sd|dd|cd,means_of_egress,architect
+1011.5.2,Stair|Railing|Ramp,Institutional (I)|Business (B)|Assembly (A)|Residential (R),sd|dd|cd,means_of_egress,architect
+1011.5.3,Stair|Ramp|Door|Slab,Assembly (A)|Business (B)|Educational (E)|Institutional (I)|Residential (R),sd|dd|cd,means_of_egress,architect
+1011.5.4,Stair|Railing,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Mercantile (M),sd|dd|cd,means_of_egress,architect
+1011.5.5,Railing,Assembly (A)|Business (B)|Educational (E)|Mercantile (M)|Residential (R),sd|dd|cd,means_of_egress,architect
+1011.5.6,Window,Residential (R)|Institutional (I)|Educational (E)|Assembly (A),sd|dd|cd,means_of_egress,architect
+1011.6,Wall|Slab|Roof,High Hazard (H)|Assembly (A)|Institutional (I)|Residential (R)|Educational (E),sd|dd|cd,building_height_area_limits,architect
+1011.6.1,Wall|Column|Slab,Assembly (A)|Business (B)|Educational (E)|High Hazard (H)|Residential (R),sd|dd|cd,building_height_area_limits,architect
+1011.6.1.1,Wall|Slab,Business (B)|Educational (E)|Institutional (I)|Mercantile (M)|Residential (R),sd|dd|cd,building_height_area_limits,architect
+1011.6.2,Wall|Slab|Roof,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|High Hazard (H),sd|dd|cd,building_height_area_limits,architect
+1011.6.3,Wall,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|High Hazard (H),sd|dd|cd,fire_resistance_smoke_protection,architect
+1011.7,Wall,High Hazard (H)|Factory and Industrial (F)|Mercantile (M)|Storage (S)|Assembly (A),sd|dd|cd,fire_resistance_smoke_protection,architect
+1011.7.1,Wall|Window|Door,Assembly (A)|Business (B)|Factory and Industrial (F)|Mercantile (M)|Storage (S),sd|dd|cd,fire_resistance_smoke_protection,architect
+1011.7.2,Wall|Window|Door,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|High Hazard (H),sd|dd|cd,fire_resistance_smoke_protection,architect
+1011.7.3,Wall|Window|Door,Residential (R)|Business (B)|Assembly (A)|Mercantile (M)|Institutional (I),sd|dd|cd,fire_resistance_smoke_protection,architect
+1011.8,Wall|Stair|StairFlight|Door,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,fire_resistance_smoke_protection,architect
+1011.8.1,Wall|Slab|Stair|Ramp|BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Institutional (I)|Residential (R),sd|dd|cd,fire_resistance_smoke_protection,architect
+1011.8.2,Stair|StairFlight|Wall|Door,Institutional (I)|Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F),sd|dd|cd,fire_resistance_smoke_protection,architect
+1011.8.3,BuildingElementProxy|Elevator|Stair|Wall,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,fire_resistance_smoke_protection,architect
+1011.8.4,Door|Wall,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,fire_resistance_smoke_protection,architect

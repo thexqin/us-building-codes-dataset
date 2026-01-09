@@ -1,0 +1,53 @@
+id,ifc_type,occupancy,design_phase,code_category,primary_responsibility
+2,BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),concept|sd|dd|cd|ca,occupancy_classification,architect
+201,,,,none,none
+201.1,BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),concept|sd|dd|cd,occupancy_classification,architect
+201.2,BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),concept|sd|dd|cd,occupancy_classification,architect
+201.3,BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|High Hazard (H),cd,occupancy_classification,architect
+201.4,BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),concept|sd|dd|cd,occupancy_classification,architect
+202,,,,none,none
+addition_,Wall|Slab|Column|Roof,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,building_height_area_limits,architect
+alteration_,Wall|Slab|Door|Window|Roof,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Mercantile (M),sd|dd|cd,occupancy_classification,architect
+ambulatory_care_facility_,Wall|Door|Slab,Institutional (I),concept|sd|dd|cd,occupancy_classification,architect
+approved_,BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),cd|ca,special_construction,architect
+approved_agency_,BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),cd|ca,special_construction,architect
+BUILDING_,Wall|Roof|Slab|Column|BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Storage (S),concept|sd|dd|cd,occupancy_classification,architect
+change_of_occupancy_,BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Mercantile (M),sd|dd|cd,occupancy_classification,architect
+change_of_use_,BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|High Hazard (H),sd|dd|cd,occupancy_classification,architect
+code_official_,BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),cd|ca,occupancy_classification,owner
+dangerous_,Wall|Column|Roof|Slab|BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd|ca,structural_design,structural_engineer
+deferred_submittal_,BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),cd|ca,special_construction,architect
+disproportionate_earthquake_damage_,Column|Wall|Beam,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Institutional (I),sd|dd|cd,structural_design,structural_engineer
+emergency_escape_and_rescue_opening_,Window|Door|Wall,Residential (R)|Institutional (I)|Educational (E),sd|dd|cd,means_of_egress,architect
+equipment_or_fixture_,BuildingElementProxy|Elevator,Business (B)|Factory and Industrial (F)|Institutional (I)|Mercantile (M)|Residential (R),sd|dd|cd,mechanical_systems,mechanical_engineer
+existing_building_,BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),concept|sd|dd|cd,occupancy_classification,architect
+existing_structure_,BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|High Hazard (H),concept|sd|dd|cd,occupancy_classification,architect
+exterior_wall_covering_,Covering|Wall,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Mercantile (M),sd|dd|cd,assemblies_envelope,architect
+exterior_wall_envelope_,Wall|Slab|Roof|Covering|BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,assemblies_envelope,architect
+facility_,BuildingElementProxy|Wall|Door|Ramp|Slab,Assembly (A)|Business (B)|Educational (E)|Mercantile (M)|Residential (R),concept|sd|dd|cd,accessibility,architect
+flood_hazard_area_,BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),concept|sd|dd,site_planning,civil_engineer
+historic_building_,BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Mercantile (M),concept|sd|dd|cd,special_construction,architect
+listed_,BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|High Hazard (H),cd,finishes_materials,architect
+lowest_floor_,Slab|Wall|Door,Residential (R)|Assembly (A)|Business (B),sd|dd|cd,site_planning,architect
+noncombustible_material_,Wall|Roof|Slab|Column|Beam,Assembly (A)|Business (B)|Residential (R),sd|dd|cd,finishes_materials,architect
+occupiable_roof_,Roof|Slab|Railing|Stair|Door,Assembly (A)|Business (B)|Residential (R),sd|dd|cd,means_of_egress,architect
+peer_review_,BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Institutional (I),cd,special_construction,owner
+photovoltaic_panel_system_,BuildingElementProxy|Roof|Slab|Covering,Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R)|Mercantile (M),sd|dd|cd,special_construction,architect
+primary_function_,Door|Slab|Wall|BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Mercantile (M),concept|sd|dd|cd,accessibility,architect
+registered_design_professional_in_responsible_charge_,BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,occupancy_classification,architect
+relocatable_building_,BuildingElementProxy|Wall|Roof|Slab|Door,Business (B)|Educational (E)|Assembly (A)|Residential (R)|Utility and Miscellaneous (U),concept|sd|dd|cd,special_construction,architect
+repair_,Wall|Roof|Slab|Door|Window,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Mercantile (M),sd|dd|cd,special_construction,architect
+reroofing_,Roof|Covering,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Mercantile (M),sd|dd|cd,assemblies_envelope,architect
+risk_category_,BuildingElementProxy|Column|Wall|Slab|Roof,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Institutional (I),sd|dd|cd,structural_design,structural_engineer
+roof_coating_,Roof|Covering,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|High Hazard (H),dd|cd,finishes_materials,architect
+roof_recover_,Roof|Slab|Covering,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,assemblies_envelope,architect
+roof_repair_,Roof,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Mercantile (M),sd|dd|cd,assemblies_envelope,architect
+roof_replacement_,Roof|Slab|Covering,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Mercantile (M),sd|dd|cd,assemblies_envelope,architect
+storm_shelter_,Wall|Roof|Slab|Door|Window,Assembly (A)|Educational (E)|Institutional (I),sd|dd|cd,special_construction,architect
+substantial_damage_,BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,site_planning,architect
+substantial_improvement_,Wall|Roof|Slab|Door|Window,Business (B)|Residential (R)|Assembly (A)|Mercantile (M)|Institutional (I),sd|dd|cd,site_planning,architect
+substantial_structural_alteration_,Beam|Column|Slab|Roof|Footing,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,structural_design,structural_engineer
+substantial_structural_damage_,Column|Beam|Slab|Wall|Roof,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Institutional (I),sd|dd|cd,structural_design,structural_engineer
+technically_infeasible_,Wall|Column|Bearing|BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Mercantile (M)|Residential (R),sd|dd|cd,accessibility,architect
+unsafe_,Wall|Door|Window|Slab|Roof,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Mercantile (M),sd|dd|cd,fire_resistance_smoke_protection,architect
+work_area_,BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,occupancy_classification,architect

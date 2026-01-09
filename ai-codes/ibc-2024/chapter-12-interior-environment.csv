@@ -1,0 +1,77 @@
+id,ifc_type,occupancy,design_phase,code_category,primary_responsibility
+12,Wall|Slab|Window|Door,Assembly (A)|Business (B)|Educational (E)|Residential (R),sd|dd|cd,interior_environment,architect
+1201,,,,none,none
+1201.1,Wall|Slab|Roof|Door|Window,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Institutional (I),sd|dd|cd,interior_environment,architect
+1202,,,,none,none
+1202.1,Window|Door|Wall|Slab,Residential (R)|Institutional (I),sd|dd|cd,interior_environment,mechanical_engineer
+1202.2,Roof|Slab,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,interior_environment,architect
+1202.2.1,Roof|Slab|Covering,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Storage (S),sd|dd|cd,interior_environment,architect
+1202.2.2,Wall|Roof|Slab|Window,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,assemblies_envelope,architect
+1202.3,Roof|Slab|Covering,Assembly (A)|Business (B)|Educational (E)|Residential (R),sd|dd|cd,assemblies_envelope,architect
+1202.4,Slab|Footing,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|High Hazard (H),sd|dd|cd,interior_environment,architect
+1202.4.1,Wall|Slab,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Storage (S),sd|dd|cd,interior_environment,architect
+1202.4.1.1,Slab|Wall,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Storage (S),sd|dd|cd,interior_environment,architect
+1202.4.1.2,Slab|Covering,Residential (R)|Business (B)|Educational (E),sd|dd|cd,interior_environment,architect
+1202.4.2,Wall|Window|Door|Slab,Business (B)|Educational (E)|Residential (R)|Assembly (A),sd|dd|cd,interior_environment,architect
+1202.4.3,Slab,Residential (R)|Business (B)|Assembly (A)|Educational (E)|Institutional (I),sd|dd|cd,mechanical_systems,mechanical_engineer
+1202.4.3.1,Slab|Covering,Residential (R)|Business (B)|Institutional (I)|Educational (E)|Assembly (A),sd|dd|cd,mechanical_systems,mechanical_engineer
+1202.4.3.2,Slab|Wall,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Mercantile (M),dd|cd,interior_environment,architect
+1202.4.4,Wall|Slab|BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,site_planning,architect
+1202.5,Window|Door|CurtainWall|Louver|Wall,Assembly (A)|Business (B)|Educational (E)|Mercantile (M)|Residential (R),sd|dd|cd,interior_environment,architect
+1202.5.1,Window|Door,Residential (R)|Business (B)|Educational (E)|Assembly (A),sd|dd|cd,interior_environment,architect
+1202.5.1.1,Wall|Window|Door,Assembly (A)|Business (B)|Educational (E)|Residential (R),sd|dd|cd,interior_environment,architect
+1202.5.1.2,Window|Wall|Slab,Assembly (A)|Business (B)|Educational (E)|Residential (R),sd|dd|cd,interior_environment,architect
+1202.5.2,Wall|Window|Door|Roof|BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Factory and Industrial (F),sd|dd|cd,mechanical_systems,mechanical_engineer
+1202.5.2.1,Wall|Door|Slab,Assembly (A)|Business (B)|Educational (E)|Institutional (I)|Residential (R),sd|dd|cd,mechanical_systems,mechanical_engineer
+1202.5.3,Wall|Window|Door,Assembly (A)|Business (B)|Educational (E)|Residential (R),sd|dd|cd,interior_environment,architect
+1202.6,Wall|Slab|Roof,Factory and Industrial (F)|High Hazard (H)|Business (B)|Storage (S),sd|dd|cd,mechanical_systems,mechanical_engineer
+1203,,,,none,none
+1203.1,BuildingElementProxy|Roof|Slab|Wall,Assembly (A)|Business (B)|Educational (E)|Institutional (I)|Mercantile (M),sd|dd|cd,interior_environment,mechanical_engineer
+1204,,,,none,none
+1204.1,Window|Door|Wall,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Institutional (I),sd|dd|cd,interior_environment,architect
+1204.2,Window,Residential (R)|Assembly (A)|Educational (E)|Business (B),sd|dd|cd,interior_environment,architect
+1204.2.1,Wall|Window|Door,Residential (R)|Assembly (A)|Business (B)|Educational (E)|Institutional (I),sd|dd|cd,interior_environment,architect
+1204.2.2,Window|Door|Roof|CurtainWall,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,interior_environment,architect
+1204.3,Covering|Slab|Wall,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Institutional (I),sd|dd|cd,interior_environment,architect
+1204.4,Stair|StairFlight|Slab,Residential (R),sd|dd|cd,interior_environment,architect
+1204.4.1,Stair|StairFlight|Covering,Assembly (A)|Business (B)|Educational (E)|Institutional (I)|Residential (R),dd|cd,electrical_systems,electrical_engineer
+1204.5,Wall|Door|Stair|StairFlight|Ramp,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Institutional (I),sd|dd|cd,means_of_egress,architect
+1205,,,,none,none
+1205.1,Wall|Window|Door,Assembly (A)|Business (B)|Residential (R)|Educational (E)|Institutional (I),sd|dd|cd,interior_environment,architect
+1205.2,Wall,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Mercantile (M),concept|sd|dd,site_planning,architect
+1205.3,Wall|Window|BuildingElementProxy,Residential (R)|Assembly (A)|Institutional (I)|Business (B),sd|dd|cd,site_planning,architect
+1205.3.1,BuildingElementProxy|Slab|Door|Stair,Assembly (A)|Business (B)|Educational (E)|Residential (R),sd|dd|cd,site_planning,architect
+1205.3.2,Wall|Slab|BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,interior_environment,architect
+1205.3.3,Slab|EarthworksElement|Pavement,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,plumbing_systems,civil_engineer
+1206,,,,none,none
+1206.1,Wall|Slab|Covering,Residential (R),sd|dd|cd,fire_resistance_smoke_protection,architect
+1206.2,Wall|Slab|BuildingElementProxy|Door,Residential (R),sd|dd|cd,interior_environment,architect
+1206.2.1,Wall|Slab,Residential (R)|Institutional (I)|Business (B),sd|dd|cd,interior_environment,architect
+1206.3,Slab|Roof,Residential (R)|Institutional (I)|Assembly (A),sd|dd|cd,interior_environment,architect
+1207,,,,none,none
+1207.1,Wall|Door|Window|Slab|Roof,Educational (E),sd|dd|cd,interior_environment,architect
+1207.2,Wall|Slab|Door|Window,Educational (E),sd|dd|cd,interior_environment,architect
+1208,,,,none,none
+1208.1,Wall|Slab|Door|Window,Residential (R)|Institutional (I)|Assembly (A)|Business (B)|Educational (E),sd|dd|cd,interior_environment,architect
+1208.2,Slab|Roof|Beam|Wall,Residential (R)|Assembly (A)|Business (B)|Educational (E)|Institutional (I),sd|dd|cd,interior_environment,architect
+1208.2.1,Slab|Covering|Wall,Residential (R)|Assembly (A)|Business (B)|Educational (E),sd|dd|cd,interior_environment,architect
+1208.3,Wall|Slab|Window|Door,Residential (R),concept|sd|dd|cd,interior_environment,architect
+1208.4,Wall|Slab|Door|Window,Residential (R),concept|sd|dd|cd,interior_environment,architect
+1208.5,Wall|Door|Slab|Window|Covering,Residential (R),sd|dd|cd,interior_environment,architect
+1209,,,,none,none
+1209.1,Slab|Wall,Residential (R)|Business (B)|Educational (E)|Assembly (A)|Mercantile (M),sd|dd|cd,accessibility,architect
+1209.2,Slab|Roof|Wall|BuildingElementProxy,Residential (R)|Assembly (A)|Business (B)|Educational (E)|Institutional (I),sd|dd|cd,means_of_egress,architect
+1209.3,Roof|Slab|BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Institutional (I),sd|dd|cd,mechanical_systems,mechanical_engineer
+1210,,,,none,none
+1210.1,BuildingElementProxy|Slab|Wall|Door,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,plumbing_systems,architect
+1210.2,Wall|Slab|Partition|Floor|Covering,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Institutional (I),sd|dd|cd,finishes_materials,architect
+1210.2.1,Slab|Wall|Covering,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Institutional (I),sd|dd|cd,finishes_materials,architect
+1210.2.2,Wall|Partition|Covering,Business (B)|Assembly (A)|Institutional (I)|Mercantile (M)|Educational (E),sd|dd|cd,finishes_materials,architect
+1210.2.3,Wall|Slab,Assembly (A)|Business (B)|Educational (E)|Institutional (I)|Mercantile (M),sd|dd|cd,finishes_materials,architect
+1210.2.4,Wall|Slab|Covering,Residential (R)|Institutional (I)|Assembly (A)|Educational (E)|Business (B),sd|dd|cd,finishes_materials,architect
+1210.2.5,Wall|Slab|BuildingElementProxy,Residential (R)|Institutional (I)|Hotel and Dormitory (R),sd|dd|cd,plumbing_systems,architect
+1210.3,Wall|Door|Covering,Assembly (A)|Business (B)|Educational (E)|Institutional (I)|Mercantile (M),sd|dd|cd,interior_environment,architect
+1210.3.1,Wall|Door|BuildingElementProxy|Slab,Business (B)|Educational (E)|Institutional (I)|Assembly (A),sd|dd|cd,accessibility,architect
+1210.3.2,Wall|Partition|BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Mercantile (M),sd|dd|cd,plumbing_systems,architect
+1211,,,,none,none
+1211.1,Covering|BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Institutional (I)|Residential (R),dd|cd,mechanical_systems,mechanical_engineer

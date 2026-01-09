@@ -1,0 +1,47 @@
+id,ifc_type,occupancy,design_phase,code_category,primary_responsibility
+15,BuildingElementProxy|Covering,Residential (R)|Assembly (A)|Business (B),sd|dd|cd,mechanical_systems,mechanical_engineer
+M1501,,,,none,none
+M1501.1,Covering|Roof,Residential (R),sd|dd|cd,mechanical_systems,mechanical_engineer
+M1502,,,,none,none
+M1502.1,BuildingElementProxy|MechanicalSystem,Residential (R)|Institutional (I)|Mercantile (M)|Utility and Miscellaneous (U),sd|dd|cd,mechanical_systems,mechanical_engineer
+M1502.2,BuildingElementProxy|Wall|Slab,Residential (R)|Institutional (I)|Business (B),sd|dd|cd,mechanical_systems,mechanical_engineer
+M1502.3,BuildingElementProxy,Residential (R)|Business (B)|Institutional (I)|Mercantile (M),sd|dd|cd,mechanical_systems,mechanical_engineer
+M1502.3.1,BuildingElementProxy|Wall|Slab,Residential (R)|Institutional (I)|Assembly (A),sd|dd|cd,mechanical_systems,mechanical_engineer
+M1502.4,BuildingElementProxy,Residential (R)|Assembly (A)|Institutional (I)|Business (B)|Mercantile (M),sd|dd|cd,mechanical_systems,mechanical_engineer
+M1502.4.1,BuildingElementProxy,Residential (R)|Business (B)|Assembly (A)|Mercantile (M),dd|cd,mechanical_systems,mechanical_engineer
+M1502.4.2,Wall|Slab|BuildingElementProxy,Residential (R)|Business (B)|Assembly (A)|Institutional (I),sd|dd|cd,mechanical_systems,mechanical_engineer
+M1502.4.3,BuildingElementProxy|Slab|Wall,Residential (R)|Business (B)|Mercantile (M),dd|cd,mechanical_systems,mechanical_engineer
+M1502.4.4,MechanicalSystem,Residential (R)|Business (B)|Institutional (I)|Mercantile (M),sd|dd|cd,mechanical_systems,mechanical_engineer
+M1502.4.5,MechanicalSystem|BuildingElementProxy,Residential (R)|Institutional (I)|Assembly (A),sd|dd|cd,mechanical_systems,mechanical_engineer
+M1502.4.6,Duct|Wall|Slab,Residential (R)|Business (B)|Institutional (I),sd|dd|cd,mechanical_systems,mechanical_engineer
+M1502.4.6.1,BuildingElementProxy,Residential (R)|Business (B)|Institutional (I)|Mercantile (M),sd|dd|cd,mechanical_systems,mechanical_engineer
+M1502.4.6.2,BuildingElementProxy,Residential (R)|Business (B)|Institutional (I),cd|ca,mechanical_systems,mechanical_engineer
+M1502.4.6.3,BuildingElementProxy,Residential (R)|Institutional (I)|Assembly (A),sd|dd|cd,mechanical_systems,mechanical_engineer
+M1502.4.7,BuildingElementProxy,Residential (R)|Business (B)|Assembly (A)|Institutional (I)|Mercantile (M),cd|ca,mechanical_systems,mechanical_engineer
+M1502.4.8,Covering|Wall|Slab,Residential (R)|Institutional (I)|Assembly (A)|Business (B),sd|dd|cd,mechanical_systems,mechanical_engineer
+M1502.5,Wall|Covering|Slab,Residential (R)|Business (B)|Institutional (I),dd|cd,mechanical_systems,mechanical_engineer
+M1502.6,BuildingElementProxy,Residential (R)|Mercantile (M)|Business (B),sd|dd|cd,mechanical_systems,mechanical_engineer
+M1502.6.1,Wall|Door|Slab,Residential (R),sd|dd|cd,mechanical_systems,mechanical_engineer
+M1503,,,,none,none
+M1503.1,Covering|BuildingElementProxy,Residential (R)|Assembly (A)|Business (B),sd|dd|cd,mechanical_systems,mechanical_engineer
+M1503.2,Door|Covering,Residential (R)|Business (B)|Assembly (A),sd|dd|cd,mechanical_systems,mechanical_engineer
+M1503.2.1,Covering|BuildingElementProxy,Residential (R)|Assembly (A),sd|dd|cd,mechanical_systems,mechanical_engineer
+M1503.3,BuildingElementProxy|Covering|Slab,Residential (R)|Assembly (A)|Business (B),sd|dd|cd,mechanical_systems,mechanical_engineer
+M1503.4,BuildingElementProxy,Residential (R)|Business (B)|Assembly (A),sd|dd|cd,mechanical_systems,mechanical_engineer
+M1503.5,Covering,Residential (R)|Assembly (A)|Business (B),sd|dd|cd,mechanical_systems,mechanical_engineer
+M1503.6,BuildingElementProxy|Slab|Window,Residential (R),sd|dd|cd,mechanical_systems,mechanical_engineer
+M1503.6.1,BuildingElementProxy|Door|Slab,Residential (R)|Assembly (A)|Business (B),sd|dd|cd,mechanical_systems,mechanical_engineer
+M1503.6.2,MechanicalSystem|BuildingElementProxy,Residential (R)|Business (B)|Assembly (A)|Mercantile (M),sd|dd|cd,mechanical_systems,mechanical_engineer
+M1504,,,,none,none
+M1504.1,BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,mechanical_systems,mechanical_engineer
+M1504.2,BuildingElementProxy,Residential (R)|Business (B)|Educational (E)|Assembly (A),sd|dd|cd,mechanical_systems,mechanical_engineer
+M1504.3,Wall|Window|Door|BuildingElementProxy,Residential (R)|Business (B)|Assembly (A),sd|dd|cd,mechanical_systems,mechanical_engineer
+M1505,,,,none,none
+M1505.1,MechanicalSystem,Residential (R)|Business (B)|Assembly (A)|Educational (E)|Institutional (I),sd|dd|cd,mechanical_systems,mechanical_engineer
+M1505.2,Wall|Slab|Door,Residential (R),sd|dd|cd,mechanical_systems,mechanical_engineer
+M1505.3,BuildingElementProxy,Residential (R)|Business (B)|Institutional (I)|Assembly (A),sd|dd|cd,mechanical_systems,mechanical_engineer
+M1505.4,BuildingElementProxy,Residential (R)|Institutional (I)|Business (B),sd|dd|cd,mechanical_systems,mechanical_engineer
+M1505.4.1,BuildingElementProxy,Residential (R),sd|dd|cd,mechanical_systems,mechanical_engineer
+M1505.4.2,MechanicalSystem,Residential (R)|Assembly (A)|Educational (E)|Business (B)|Institutional (I),sd|dd|cd,mechanical_systems,mechanical_engineer
+M1505.4.3,MechanicalSystem|BuildingElementProxy,Residential (R),sd|dd|cd,mechanical_systems,mechanical_engineer
+M1505.5,BuildingElementProxy,Residential (R),sd|dd|cd,mechanical_systems,mechanical_engineer

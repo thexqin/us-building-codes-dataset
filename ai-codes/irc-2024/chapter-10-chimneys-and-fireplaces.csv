@@ -1,0 +1,95 @@
+id,ifc_type,occupancy,design_phase,code_category,primary_responsibility
+10,Chimney|Wall|Covering,Assembly (A)|Residential (R)|Business (B),sd|dd|cd,fire_resistance_smoke_protection,architect
+R1001,,,,none,none
+R1001.1,Chimney|Wall|Footing,Residential (R),sd|dd|cd,assemblies_envelope,architect
+R1001.2,Footing|Chimney,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,structural_design,structural_engineer
+R1001.2.1,Wall|Footing|Door,Residential (R)|Assembly (A)|Business (B),sd|dd|cd,fire_resistance_smoke_protection,architect
+R1001.3,Chimney,Residential (R)|Assembly (A)|Business (B)|Institutional (I)|Educational (E),sd|dd|cd,structural_design,structural_engineer
+R1001.3.1,Chimney|Wall,Residential (R)|Assembly (A)|Business (B),sd|dd|cd,structural_design,structural_engineer
+R1001.3.2,Wall|Footing,Residential (R)|Assembly (A)|Business (B),sd|dd|cd,structural_design,structural_engineer
+R1001.4,Chimney|Column|Wall,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,structural_design,structural_engineer
+R1001.4.1,Chimney|Beam|Slab,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Storage (S),sd|dd|cd,structural_design,structural_engineer
+R1001.4.1.1,Wall|Beam|Column,Residential (R)|Business (B)|Assembly (A),sd|dd|cd,structural_design,structural_engineer
+R1001.5,Wall,Assembly (A)|Residential (R)|Business (B),sd|dd|cd,fire_resistance_smoke_protection,architect
+R1001.5.1,BuildingElementProxy|Wall|Covering,Assembly (A)|Residential (R)|Business (B),sd|dd|cd,special_construction,architect
+R1001.6,Chimney|Wall,Residential (R)|Assembly (A),sd|dd|cd,fire_resistance_smoke_protection,architect
+R1001.7,Wall|BuildingElementProxy|Chimney,Residential (R)|Assembly (A)|Business (B),sd|dd|cd,fire_resistance_smoke_protection,architect
+R1001.7.1,Chimney|Wall,Residential (R)|Assembly (A),sd|dd|cd,fire_protection_alarm_systems,architect
+R1001.8,Chimney|Wall,Residential (R),sd|dd|cd,fire_resistance_smoke_protection,architect
+R1001.8.1,Chimney|Wall,Assembly (A)|Business (B)|Educational (E)|Residential (R),sd|dd|cd,fire_resistance_smoke_protection,architect
+R1001.9,Slab|Covering|Wall,Assembly (A)|Business (B)|Residential (R),sd|dd|cd,fire_resistance_smoke_protection,architect
+R1001.9.1,Slab|Wall|Chimney,Assembly (A)|Business (B)|Educational (E)|Institutional (I)|Residential (R),sd|dd|cd,fire_resistance_smoke_protection,architect
+R1001.9.2,Slab|Covering,Assembly (A)|Business (B)|Educational (E)|Residential (R),sd|dd|cd,finishes_materials,architect
+R1001.10,Slab|Wall,Residential (R)|Assembly (A),sd|dd|cd,finishes_materials,architect
+R1001.11,Wall|Beam|Column|Slab|BuildingElementProxy,Assembly (A)|Residential (R)|Business (B),sd|dd|cd,fire_resistance_smoke_protection,architect
+R1001.12,Chimney|Wall|Slab|Covering,Assembly (A)|Business (B)|Educational (E)|Residential (R),sd|dd|cd,fire_resistance_smoke_protection,architect
+R1001.13,Wall|Chimney|Covering|BuildingElementProxy,Assembly (A)|Business (B)|Residential (R),sd|dd|cd,fire_protection_alarm_systems,architect
+R1002,,,,none,none
+R1002.1,Chimney|Wall|BuildingElementProxy,Residential (R)|Assembly (A)|Institutional (I),sd|dd|cd,special_construction,architect
+R1002.2,Chimney|Wall|BuildingElementProxy,Residential (R)|Assembly (A)|Business (B),sd|dd|cd,special_construction,architect
+R1002.3,Footing|Slab|BuildingElementProxy,Residential (R),sd|dd|cd,assemblies_envelope,architect
+R1002.4,Chimney|Footing|Wall,Residential (R),sd|dd|cd,structural_design,structural_engineer
+R1002.5,Wall|Slab|BuildingElementProxy,Residential (R)|Assembly (A)|Business (B),sd|dd|cd,fire_resistance_smoke_protection,architect
+R1003,,,,none,none
+R1003.1,Chimney,Assembly (A)|Business (B)|Educational (E)|Residential (R),sd|dd|cd,structural_design,structural_engineer
+R1003.2,Chimney|Footing,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,structural_design,structural_engineer
+R1003.3,Chimney,Residential (R)|Assembly (A)|Business (B),sd|dd|cd,structural_design,structural_engineer
+R1003.3.1,Chimney|ReinforcingElement,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,structural_design,structural_engineer
+R1003.3.2,Chimney|Wall,Residential (R)|Assembly (A)|Business (B),sd|dd|cd,structural_design,structural_engineer
+R1003.4,Chimney|Footing,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,structural_design,structural_engineer
+R1003.4.1,Chimney|Slab|Beam,Residential (R)|Business (B)|Assembly (A),sd|dd|cd,structural_design,structural_engineer
+R1003.4.1.1,Wall|Column|Beam,Business (B)|Residential (R)|Assembly (A)|Educational (E)|Mercantile (M),sd|dd|cd,structural_design,structural_engineer
+R1003.5,Chimney|Wall|Footing,Residential (R),sd|dd|cd,structural_design,structural_engineer
+R1003.6,Chimney|Slab|Roof,Residential (R)|Business (B)|Assembly (A)|Educational (E)|Institutional (I),sd|dd|cd,assemblies_envelope,architect
+R1003.7,Chimney|Wall,Residential (R)|Assembly (A)|Business (B),sd|dd|cd,assemblies_envelope,architect
+R1003.8,Chimney|Wall,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Institutional (I),sd|dd|cd,structural_design,structural_engineer
+R1003.9,Chimney|Roof,Assembly (A)|Business (B)|Educational (E)|Residential (R),sd|dd|cd,assemblies_envelope,architect
+R1003.9.1,Chimney,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Mercantile (M),sd|dd|cd,assemblies_envelope,architect
+R1003.9.2,Chimney|Covering,Residential (R)|Assembly (A)|Business (B),sd|dd|cd,fire_protection_alarm_systems,architect
+R1003.9.3,Chimney|Covering,Residential (R)|Assembly (A)|Business (B)|Educational (E)|Institutional (I),sd|dd|cd,assemblies_envelope,architect
+R1003.10,Chimney|Wall,Residential (R)|Assembly (A)|Business (B),sd|dd|cd,fire_resistance_smoke_protection,architect
+R1003.10.1,Chimney|Wall|Covering,Residential (R),sd|dd|cd,assemblies_envelope,architect
+R1003.11,Chimney,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Institutional (I),sd|dd|cd,fire_resistance_smoke_protection,architect
+R1003.11.1,Chimney|Covering,Residential (R),sd|dd|cd,finishes_materials,architect
+R1003.11.2,Chimney|BuildingElementProxy,Residential (R)|Business (B)|Assembly (A),sd|dd|cd,fire_resistance_smoke_protection,architect
+R1003.11.3,Chimney|BuildingElementProxy,Business (B)|Residential (R)|Assembly (A),sd|dd|cd,mechanical_systems,mechanical_engineer
+R1003.11.4,Chimney|BuildingElementProxy,Residential (R),sd|dd|cd,fire_protection_alarm_systems,architect
+R1003.11.5,Chimney|Wall,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,fire_protection_alarm_systems,architect
+R1003.11.6,Chimney|Wall,Residential (R)|Business (B)|Assembly (A),cd|ca,fire_protection_alarm_systems,architect
+R1003.12,Chimney|BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Residential (R),dd|cd,finishes_materials,architect
+R1003.12.1,Chimney,Residential (R)|Assembly (A)|Business (B)|Institutional (I)|Mercantile (M),cd|ca,finishes_materials,architect
+R1003.12.2,Chimney|BuildingElementProxy,Residential (R)|Assembly (A)|Business (B),sd|dd|cd,special_construction,architect
+R1003.13,Chimney|Wall,Residential (R)|Business (B)|Assembly (A),sd|dd|cd,assemblies_envelope,architect
+R1003.14,Chimney,Residential (R)|Business (B)|Assembly (A),sd|dd|cd,mechanical_systems,mechanical_engineer
+R1003.15,Chimney|Wall,Residential (R)|Assembly (A),sd|dd|cd,fire_protection_alarm_systems,architect
+R1003.15.1,Chimney|Wall,Residential (R)|Assembly (A),sd|dd|cd,assemblies_envelope,architect
+R1003.15.2,Chimney,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,assemblies_envelope,architect
+R1003.16,Chimney|Wall,Residential (R)|Assembly (A)|Business (B)|Institutional (I),sd|dd|cd,fire_resistance_smoke_protection,architect
+R1003.17,Chimney|Wall|Covering,Residential (R)|Assembly (A)|Business (B),sd|dd|cd,fire_resistance_smoke_protection,architect
+R1003.18,Chimney|Wall,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Utility and Miscellaneous (U),sd|dd|cd,fire_resistance_smoke_protection,architect
+R1003.19,Chimney|Slab|Beam|Floor|BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,fire_resistance_smoke_protection,architect
+R1003.20,Chimney|Roof,Residential (R),sd|dd|cd,assemblies_envelope,architect
+R1004,,,,none,none
+R1004.1,Chimney|BuildingElementProxy,Assembly (A)|Business (B)|Residential (R),sd|dd|cd,fire_protection_alarm_systems,architect
+R1004.2,Covering|Slab|BuildingElementProxy|Wall|Chimney,Assembly (A)|Business (B)|Educational (E)|Residential (R),sd|dd|cd,finishes_materials,architect
+R1004.3,Chimney|Covering,Assembly (A)|Business (B)|Educational (E)|Residential (R),sd|dd|cd,special_construction,architect
+R1004.4,Fireplace|BuildingElementProxy,Residential (R)|Assembly (A)|Business (B),sd|dd|cd,special_construction,architect
+R1004.5,BuildingElementProxy,Assembly (A)|Residential (R)|Business (B),dd|cd,special_construction,architect
+R1005,,,,none,none
+R1005.1,Chimney,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Utility and Miscellaneous (U),sd|dd|cd,special_construction,architect
+R1005.2,Chimney|Covering,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|High Hazard (H),sd|dd|cd,fire_protection_alarm_systems,architect
+R1005.3,Chimney,Residential (R)|Assembly (A)|Business (B)|Institutional (I),sd|dd|cd,special_construction,architect
+R1005.4,Chimney,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Mercantile (M),sd|dd|cd,fire_resistance_smoke_protection,architect
+R1005.5,Chimney|Beam|Bearing|Joist,Residential (R),sd|dd|cd,structural_design,structural_engineer
+R1005.6,Chimney,Factory and Industrial (F)|High Hazard (H)|Business (B),sd|dd|cd,fire_protection_alarm_systems,fire_protection_engineer
+R1005.7,Chimney,Residential (R)|Business (B)|Assembly (A),sd|dd|cd,special_construction,architect
+R1005.8,Chimney|Roof|Slab,Residential (R)|Assembly (A)|Business (B),sd|dd|cd,fire_resistance_smoke_protection,architect
+R1005.9,Chimney|BuildingElementProxy,Residential (R)|Assembly (A),sd|dd|cd,special_construction,architect
+R1006,,,,none,none
+R1006.1,Chimney|Wall|BuildingElementProxy,Residential (R)|Assembly (A)|Business (B),sd|dd|cd,mechanical_systems,architect
+R1006.1.1,Chimney|Wall,Assembly (A)|Business (B)|Residential (R),sd|dd|cd,fire_protection_alarm_systems,architect
+R1006.1.2,Chimney|Wall,Residential (R)|Assembly (A)|Business (B),sd|dd|cd,mechanical_systems,architect
+R1006.2,Wall|Chimney|BuildingElementProxy,Residential (R),sd|dd|cd,mechanical_systems,mechanical_engineer
+R1006.3,BuildingElementProxy|Wall|Slab,Residential (R)|Business (B)|Assembly (A),sd|dd|cd,fire_resistance_smoke_protection,architect
+R1006.4,Wall|Chimney|BuildingElementProxy,Residential (R)|Assembly (A),sd|dd|cd,mechanical_systems,mechanical_engineer
+R1006.5,Wall|Chimney|BuildingElementProxy,Residential (R)|Assembly (A)|Business (B),sd|dd|cd,fire_resistance_smoke_protection,architect

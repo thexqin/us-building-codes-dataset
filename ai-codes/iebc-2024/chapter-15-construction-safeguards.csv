@@ -1,0 +1,60 @@
+id,ifc_type,occupancy,design_phase,code_category,primary_responsibility
+15,Wall|Slab|Roof|Stair|Covering,Assembly (A)|Business (B)|Mercantile (M)|Residential (R)|Institutional (I),cd|ca,special_construction,architect
+1501,,,,none,none
+1501.1,Wall|Slab|Roof,Assembly (A)|Business (B)|Residential (R),cd|ca,special_construction,architect
+1501.2,BuildingElementProxy,Utility and Miscellaneous (U),cd|ca,site_planning,architect
+1501.3,Roof|Slab|Beam,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Mercantile (M),sd|dd|cd,structural_design,structural_engineer
+1501.4,Stair|Door|Wall|Slab|FireProtectionDevice,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),cd|ca,means_of_egress,architect
+1501.5,BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),cd|ca,site_planning,architect
+1502,,,,none,none
+1502.1,BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,fire_protection_alarm_systems,owner
+1502.1.1,BuildingElementProxy,Assembly (A)|Business (B)|Factory and Industrial (F)|High Hazard (H)|Residential (R),cd|ca,fire_protection_alarm_systems,fire_protection_engineer
+1502.2,BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),cd|ca,site_planning,owner
+1502.3,BuildingElementProxy|Door|Slab,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),ca,fire_protection_alarm_systems,fire_protection_engineer
+1502.3.1,BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),ca,site_planning,owner
+1503,,,,none,none
+1503.1,BuildingElementProxy,Utility and Miscellaneous (U),cd|ca,plumbing_systems,architect
+1504,,,,none,none
+1504.1,Railing|Barrier|Covering,Assembly (A)|Business (B)|Educational (E)|Mercantile (M)|Residential (R),cd|ca,site_planning,architect
+1504.1.1,Slab|Pavement,Assembly (A)|Business (B)|Educational (E)|Mercantile (M)|Residential (R),sd|dd|cd,site_planning,architect
+1504.1.2,BuildingElementProxy|Railing,Assembly (A)|Business (B)|Educational (E)|Mercantile (M)|Residential (R),sd|dd|cd,site_planning,architect
+1504.1.3,Railing,Assembly (A)|Business (B)|Educational (E)|Mercantile (M)|Utility and Miscellaneous (U),sd|dd|cd|ca,special_construction,architect
+1504.1.4,Wall|Door|BuildingElementProxy,Utility and Miscellaneous (U),sd|dd|cd,site_planning,architect
+1504.1.4.1,Wall,Assembly (A)|Business (B)|Educational (E)|Mercantile (M)|Residential (R),sd|dd|cd,structural_design,architect
+1504.1.5,Roof|Slab|Column|Footing|Beam,Assembly (A)|Business (B)|Educational (E)|Mercantile (M)|Residential (R),sd|dd|cd,special_construction,architect
+1504.1.6,Pavement|BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Mercantile (M),cd|ca,site_planning,owner
+1504.1.7,BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Mercantile (M),sd|dd|cd,site_planning,architect
+1505,,,,none,none
+1505.1,Footing|Foundation|Wall|Chimney|Roof,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|High Hazard (H),cd|ca,site_planning,architect
+1505.2,DeepFoundation|Wall|EarthworksElement,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,structural_design,structural_engineer
+1505.2.1,EarthworksElement|BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,structural_design,structural_engineer
+1505.2.2,DeepFoundation|EarthworksElement|Wall,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|High Hazard (H),sd|dd|cd,structural_design,structural_engineer
+1505.2.3,Wall|DeepFoundation|EarthworksElement|Slab,Business (B)|Residential (R)|Assembly (A),sd|dd|cd|ca,site_planning,civil_engineer
+1506,,,,none,none
+1506.1,BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),cd|ca,site_planning,civil_engineer
+1506.2,BuildingElementProxy|Pavement|Ramp,Assembly (A)|Business (B)|Mercantile (M)|Residential (R)|Utility and Miscellaneous (U),sd|dd|cd,site_planning,architect
+1506.3,Wall|Fence|BuildingElementProxy|Covering,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd|ca,site_planning,architect
+1507,,,,none,none
+1507.1,Stair|Storage|Slab|Wall,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Storage (S),cd|ca,fire_protection_alarm_systems,fire_protection_engineer
+1507.2,Wall|Roof|Slab,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Institutional (I),cd|ca,fire_protection_alarm_systems,fire_protection_engineer
+1508,,,,none,none
+1508.1,Stair|StairFlight|Slab,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|High Hazard (H),cd|ca,means_of_egress,architect
+1508.2,Door|Stair|Ramp|RampFlight|Slab,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),cd|ca,means_of_egress,architect
+1509,,,,none,none
+1509.1,Stair|Slab|BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),cd|ca,fire_protection_alarm_systems,fire_protection_engineer
+1509.2,BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),cd|ca,fire_protection_alarm_systems,fire_protection_engineer
+1509.3,BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|High Hazard (H),dd|cd,fire_protection_alarm_systems,fire_protection_engineer
+1510,,,,none,none
+1510.1,BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|High Hazard (H),cd|ca,fire_protection_alarm_systems,fire_protection_engineer
+1510.2,BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),cd|ca,fire_protection_alarm_systems,fire_protection_engineer
+1511,,,,none,none
+1511.1,BuildingElementProxy,Utility and Miscellaneous (U),cd|ca,accessibility,architect
+1512,,,,none,none
+1512.1,BuildingElementProxy|Wall|Column|Slab,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),cd|ca,fire_protection_alarm_systems,fire_protection_engineer
+1512.2,BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|High Hazard (H),sd|dd|cd,fire_protection_alarm_systems,fire_protection_engineer
+1512.3,Wall|Column|Slab|Roof|BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,fire_protection_alarm_systems,fire_protection_engineer
+1512.3.1,Wall|BuildingElementProxy|Roof,Assembly (A)|Business (B)|Educational (E)|Institutional (I)|Residential (R),sd|dd|cd,fire_protection_alarm_systems,fire_protection_engineer
+1512.3.2,Wall|Roof|Slab,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Mercantile (M),sd|dd|cd,fire_protection_alarm_systems,fire_protection_engineer
+1512.3.3,Wall|Slab|Roof,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,fire_protection_alarm_systems,fire_protection_engineer
+1512.4,Wall|Column|Slab,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Mercantile (M),cd|ca,fire_protection_alarm_systems,fire_protection_engineer
+1512.5,BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Institutional (I),sd|dd|cd,fire_protection_alarm_systems,fire_protection_engineer

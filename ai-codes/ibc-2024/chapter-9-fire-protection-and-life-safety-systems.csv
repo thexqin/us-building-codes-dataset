@@ -1,0 +1,537 @@
+id,ifc_type,occupancy,design_phase,code_category,primary_responsibility
+9,Wall|Door|Slab,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Institutional (I),sd|dd|cd,fire_protection_alarm_systems,fire_protection_engineer
+901,,,,none,none
+901.1,Wall|Door|Slab,Assembly (A)|Business (B)|Institutional (I)|Residential (R)|Storage (S),sd|dd|cd,fire_protection_alarm_systems,fire_protection_engineer
+901.2,Wall|Slab|Door,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Institutional (I),sd|dd|cd,fire_protection_alarm_systems,fire_protection_engineer
+901.3,Wall|Slab|Roof,Assembly (A)|Business (B)|Educational (E)|Institutional (I)|Residential (R),cd|ca,fire_protection_alarm_systems,fire_protection_engineer
+901.4,BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),dd|cd,fire_protection_alarm_systems,fire_protection_engineer
+901.5,Wall|Door|Slab,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Institutional (I),cd|ca,fire_protection_alarm_systems,fire_protection_engineer
+901.6,BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Institutional (I)|Residential (R),dd|cd,fire_protection_alarm_systems,fire_protection_engineer
+901.6.1,BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|High Hazard (H),dd|cd,fire_protection_alarm_systems,fire_protection_engineer
+901.6.2,BuildingElementProxy,Institutional (I)|Residential (R)|Assembly (A)|Business (B),dd|cd,fire_protection_alarm_systems,fire_protection_engineer
+901.6.3,BuildingElementProxy,High Hazard (H),sd|dd|cd,fire_protection_alarm_systems,fire_protection_engineer
+901.7,Wall|Slab,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Storage (S),sd|dd|cd,fire_resistance_smoke_protection,architect
+902,,,,none,none
+902.1,Wall|Door|Slab|Covering,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,fire_protection_alarm_systems,fire_protection_engineer
+902.1.1,Door|Wall|BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Institutional (I),sd|dd|cd,fire_protection_alarm_systems,fire_protection_engineer
+902.1.2,Door|Wall,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),cd,fire_protection_alarm_systems,fire_protection_engineer
+902.1.3,BuildingElementProxy|Wall|Slab,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|High Hazard (H),sd|dd|cd,fire_protection_alarm_systems,fire_protection_engineer
+902.1.4,BuildingElementProxy|Covering,Business (B)|Educational (E)|Factory and Industrial (F)|Institutional (I)|Residential (R),dd|cd,fire_protection_alarm_systems,fire_protection_engineer
+903,,,,none,none
+903.1,BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,fire_protection_alarm_systems,fire_protection_engineer
+903.1.1,Wall|Slab|Roof,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Institutional (I),sd|dd|cd,fire_protection_alarm_systems,fire_protection_engineer
+903.2,Wall|Slab,Business (B)|Factory and Industrial (F)|High Hazard (H)|Institutional (I)|Storage (S),sd|dd|cd,fire_protection_alarm_systems,fire_protection_engineer
+903.2.1,Wall|Slab|Roof|BuildingElementProxy,Assembly (A),sd|dd|cd,fire_protection_alarm_systems,fire_protection_engineer
+903.2.1.1,Wall|Door|Slab,Assembly (A),sd|dd|cd,fire_protection_alarm_systems,fire_protection_engineer
+903.2.1.2,Wall|Slab|Door|Stair|Ramp,Assembly (A),sd|dd|cd,fire_protection_alarm_systems,fire_protection_engineer
+903.2.1.3,Slab|Wall|Door|Stair|BuildingElementProxy,Assembly (A),sd|dd|cd,fire_protection_alarm_systems,fire_protection_engineer
+903.2.1.4,Wall|Door|Slab,Assembly (A),sd|dd|cd,fire_protection_alarm_systems,fire_protection_engineer
+903.2.1.5,Wall|Door|Slab,Assembly (A),sd|dd|cd,fire_protection_alarm_systems,fire_protection_engineer
+903.2.1.5.1,Slab|Covering|Wall,Assembly (A),sd|dd|cd,fire_protection_alarm_systems,fire_protection_engineer
+903.2.1.6,Slab|Stair|Ramp|Wall,Assembly (A),sd|dd|cd,fire_protection_alarm_systems,fire_protection_engineer
+903.2.1.7,Wall|Door|Stair|Railing|Slab,Assembly (A),sd|dd|cd,fire_protection_alarm_systems,fire_protection_engineer
+903.2.2,Wall|Slab|Door,Business (B),sd|dd|cd,fire_protection_alarm_systems,fire_protection_engineer
+903.2.2.1,Wall|Slab|Roof,Institutional (I),sd|dd|cd,fire_protection_alarm_systems,fire_protection_engineer
+903.2.2.2,Wall|Slab|Roof,Factory and Industrial (F)|High Hazard (H),sd|dd|cd,fire_protection_alarm_systems,fire_protection_engineer
+903.2.3,Wall|Door|Slab,Educational (E),sd|dd|cd,fire_protection_alarm_systems,fire_protection_engineer
+903.2.4,Wall|Slab|Roof,Factory and Industrial (F),sd|dd|cd,fire_protection_alarm_systems,fire_protection_engineer
+903.2.4.1,Wall|Door|Slab,Factory and Industrial (F),sd|dd|cd,fire_protection_alarm_systems,fire_protection_engineer
+903.2.4.2,Wall|Slab|Roof,Factory and Industrial (F),sd|dd|cd,fire_protection_alarm_systems,fire_protection_engineer
+903.2.4.3,Wall|Slab|Door,Factory and Industrial (F),sd|dd|cd,fire_protection_alarm_systems,fire_protection_engineer
+903.2.5,BuildingElementProxy,High Hazard (H),sd|dd|cd,fire_protection_alarm_systems,fire_protection_engineer
+903.2.5.1,Wall|Slab|Roof,High Hazard (H),sd|dd|cd,fire_protection_alarm_systems,fire_protection_engineer
+903.2.5.2,Wall|Door|Slab,High Hazard (H),sd|dd|cd,fire_protection_alarm_systems,fire_protection_engineer
+903.2.5.3,Wall|Roof|Slab|Door,Factory and Industrial (F)|Storage (S),sd|dd|cd,fire_protection_alarm_systems,fire_protection_engineer
+903.2.6,Wall|Door|Slab,Institutional (I),sd|dd|cd,fire_protection_alarm_systems,fire_protection_engineer
+903.2.7,Wall|Slab|Door|Window,Mercantile (M),sd|dd|cd,fire_protection_alarm_systems,fire_protection_engineer
+903.2.7.1,Slab|Wall|Roof,Mercantile (M),sd|dd|cd,fire_protection_alarm_systems,fire_protection_engineer
+903.2.7.2,Wall|Slab|Roof,Mercantile (M),sd|dd|cd,fire_protection_alarm_systems,fire_protection_engineer
+903.2.7.3,BuildingElementProxy,Mercantile (M),sd|dd|cd,fire_protection_alarm_systems,fire_protection_engineer
+903.2.8,Wall|Slab|Roof,Residential (R),sd|dd|cd,fire_protection_alarm_systems,fire_protection_engineer
+903.2.8.1,Wall|Slab|Roof,Residential (R),sd|dd|cd,fire_protection_alarm_systems,fire_protection_engineer
+903.2.8.2,Wall|Slab|Door,Residential (R),sd|dd|cd,fire_protection_alarm_systems,fire_protection_engineer
+903.2.8.3,Wall|BuildingElementProxy|Slab|Roof,Residential (R)|Institutional (I),sd|dd|cd,fire_protection_alarm_systems,fire_protection_engineer
+903.2.9,Slab|Wall|BuildingElementProxy,Storage (S),sd|dd|cd,fire_protection_alarm_systems,fire_protection_engineer
+903.2.9.1,Wall|Slab|Roof,Storage (S),sd|dd|cd,fire_protection_alarm_systems,fire_protection_engineer
+903.2.9.2,BuildingElementProxy|Slab|Wall,Storage (S),sd|dd|cd,fire_protection_alarm_systems,fire_protection_engineer
+903.2.9.3,Wall|Slab|Roof,Storage (S),sd|dd|cd,fire_protection_alarm_systems,fire_protection_engineer
+903.2.9.4,Wall|Door|Slab,Storage (S),sd|dd|cd,fire_protection_alarm_systems,fire_protection_engineer
+903.2.10,Slab|Wall|Column|Ramp|Roof,Storage (S),sd|dd|cd,fire_protection_alarm_systems,fire_protection_engineer
+903.2.10.1,Slab|Wall|Column|Ramp|Door,Storage (S),sd|dd|cd,fire_protection_alarm_systems,fire_protection_engineer
+903.2.10.2,Slab|Wall|Column|Ramp|Door,Storage (S),sd|dd|cd,fire_protection_alarm_systems,fire_protection_engineer
+903.2.11,Wall|Slab|Roof,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|High Hazard (H),sd|dd|cd,fire_protection_alarm_systems,fire_protection_engineer
+903.2.11.1,Wall|Door|Stair|Ramp|Slab,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,fire_protection_alarm_systems,fire_protection_engineer
+903.2.11.1.1,Door|Window|Wall,Assembly (A)|Business (B)|Educational (E)|Institutional (I)|Residential (R),sd|dd|cd,fire_protection_alarm_systems,architect
+903.2.11.1.2,Wall|Window|Door,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,fire_protection_alarm_systems,architect
+903.2.11.1.3,Wall|Slab|Partition|BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,fire_protection_alarm_systems,fire_protection_engineer
+903.2.11.2,BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Institutional (I)|Residential (R),sd|dd|cd,fire_protection_alarm_systems,fire_protection_engineer
+903.2.11.3,Slab|Stair|Ramp|Wall,Factory and Industrial (F),sd|dd|cd,fire_protection_alarm_systems,fire_protection_engineer
+903.2.11.4,BuildingElementProxy,Factory and Industrial (F)|High Hazard (H)|Business (B),sd|dd|cd,fire_protection_alarm_systems,fire_protection_engineer
+903.2.11.5,Covering|BuildingElementProxy,Assembly (A)|Business (B)|Mercantile (M),sd|dd|cd,fire_protection_alarm_systems,fire_protection_engineer
+903.2.11.6,Wall|Roof|Slab|BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|High Hazard (H)|Institutional (I),sd|dd|cd,fire_protection_alarm_systems,fire_protection_engineer
+903.2.12,Wall|Slab|Roof,Assembly (A)|Business (B)|Educational (E)|Mercantile (M)|Residential (R),cd|ca,fire_protection_alarm_systems,fire_protection_engineer
+903.3,Wall|Slab|Roof|BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),dd|cd,fire_protection_alarm_systems,fire_protection_engineer
+903.3.1,Wall|Slab|Roof,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,fire_protection_alarm_systems,fire_protection_engineer
+903.3.1.1,Wall|Slab|Roof,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,fire_protection_alarm_systems,fire_protection_engineer
+903.3.1.1.1,Wall|Slab|Roof|BuildingElementProxy,Business (B)|Factory and Industrial (F)|Institutional (I)|Utility and Miscellaneous (U),sd|dd|cd,fire_protection_alarm_systems,fire_protection_engineer
+903.3.1.1.2,Wall|Slab|Covering,Residential (R),sd|dd|cd,fire_protection_alarm_systems,architect
+903.3.1.1.3,Wall|Door|Roof|Slab|BuildingElementProxy,Factory and Industrial (F)|High Hazard (H)|Storage (S)|Utility and Miscellaneous (U),sd|dd|cd,fire_protection_alarm_systems,fire_protection_engineer
+903.3.1.2,Slab|Roof|Wall,Residential (R),sd|dd|cd,fire_protection_alarm_systems,fire_protection_engineer
+903.3.1.2.1,Slab|Covering|Railing|Wall,Residential (R)|Institutional (I),sd|dd|cd,fire_protection_alarm_systems,fire_protection_engineer
+903.3.1.2.2,Corridor|Balcony|Ramp|Stair|Wall,Assembly (A)|Business (B)|Educational (E)|Residential (R),sd|dd|cd,fire_protection_alarm_systems,fire_protection_engineer
+903.3.1.2.3,Roof|Slab|Wall,Residential (R)|Institutional (I),sd|dd|cd,fire_protection_alarm_systems,fire_protection_engineer
+903.3.1.3,BuildingElementProxy,Residential (R),sd|dd|cd,fire_protection_alarm_systems,fire_protection_engineer
+903.3.2,Wall|Slab|Roof,Institutional (I)|Residential (R),sd|dd|cd,fire_protection_alarm_systems,fire_protection_engineer
+903.3.3,Covering|Roof|Slab|Wall,Assembly (A)|Business (B)|Mercantile (M)|Institutional (I)|Residential (R),sd|dd|cd,fire_protection_alarm_systems,fire_protection_engineer
+903.3.4,BuildingElementProxy|Slab|Roof,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,fire_protection_alarm_systems,fire_protection_engineer
+903.3.5,BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,fire_protection_alarm_systems,fire_protection_engineer
+903.3.5.1,PlumbingSystem,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Institutional (I),dd|cd,fire_protection_alarm_systems,fire_protection_engineer
+903.3.5.2,Slab|Wall|BuildingElementProxy,Residential (R),dd|cd,plumbing_systems,mechanical_engineer
+903.3.6,BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),cd|ca,fire_protection_alarm_systems,fire_protection_engineer
+903.3.7,BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),dd|cd,fire_protection_alarm_systems,fire_protection_engineer
+903.3.8,Wall|Slab|Roof,Business (B)|Assembly (A)|Residential (R)|Mercantile (M)|Educational (E),sd|dd|cd,fire_protection_alarm_systems,fire_protection_engineer
+903.3.8.1,Slab|Wall|Roof,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),dd|cd,fire_protection_alarm_systems,fire_protection_engineer
+903.3.8.2,Wall|Slab|Roof,Assembly (A)|Business (B)|Educational (E)|Mercantile (M)|Residential (R),sd|dd|cd,fire_protection_alarm_systems,fire_protection_engineer
+903.3.8.3,BuildingElementProxy|Slab|Wall,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,fire_protection_alarm_systems,fire_protection_engineer
+903.3.8.4,BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),dd|cd,fire_protection_alarm_systems,fire_protection_engineer
+903.3.8.5,Slab|Wall|BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),dd|cd,fire_protection_alarm_systems,fire_protection_engineer
+903.3.9,BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),dd|cd,fire_protection_alarm_systems,fire_protection_engineer
+903.4,BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,fire_protection_alarm_systems,fire_protection_engineer
+903.4.1,BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Institutional (I),dd|cd,fire_protection_alarm_systems,fire_protection_engineer
+903.4.2,BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),dd|cd,fire_protection_alarm_systems,fire_protection_engineer
+903.4.3,BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Institutional (I),dd|cd,fire_protection_alarm_systems,fire_protection_engineer
+903.5,BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Institutional (I),cd|ca,fire_protection_alarm_systems,fire_protection_engineer
+904,,,,none,none
+904.1,BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,fire_protection_alarm_systems,fire_protection_engineer
+904.2,Wall|BuildingElementProxy|Roof,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,fire_protection_alarm_systems,fire_protection_engineer
+904.2.1,Wall|Slab|Roof,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,fire_protection_alarm_systems,fire_protection_engineer
+904.2.2,Covering|BuildingElementProxy,Assembly (A)|Business (B)|Mercantile (M),sd|dd|cd,fire_protection_alarm_systems,fire_protection_engineer
+904.3,Wall|Ceiling|Slab|BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),dd|cd,fire_protection_alarm_systems,fire_protection_engineer
+904.3.1,BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),dd|cd,electrical_systems,electrical_engineer
+904.3.2,BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Mercantile (M),dd|cd,fire_protection_alarm_systems,fire_protection_engineer
+904.3.3,Door|Window|Slab|CurtainWall|Roof,Assembly (A)|Business (B)|Factory and Industrial (F)|Institutional (I)|Mercantile (M),dd|cd,fire_protection_alarm_systems,fire_protection_engineer
+904.3.4,Wall|Door,Assembly (A)|Business (B)|Educational (E)|Institutional (I)|Residential (R),dd|cd,fire_protection_alarm_systems,fire_protection_engineer
+904.3.5,BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),dd|cd,fire_protection_alarm_systems,fire_protection_engineer
+904.4,BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),cd|ca,fire_protection_alarm_systems,fire_protection_engineer
+904.4.1,Wall|Door|BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Institutional (I)|Residential (R),cd|ca,fire_protection_alarm_systems,fire_protection_engineer
+904.4.2,Wall,Assembly (A)|Business (B)|Educational (E)|Institutional (I)|Residential (R),cd|ca,fire_protection_alarm_systems,fire_protection_engineer
+904.4.2.1,Wall|Ceiling|BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Institutional (I)|Residential (R),cd|ca,fire_protection_alarm_systems,fire_protection_engineer
+904.4.3,BuildingElementProxy,Assembly (A)|Business (B)|Institutional (I)|Mercantile (M)|Residential (R),cd|ca,fire_protection_alarm_systems,fire_protection_engineer
+904.5,BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Mercantile (M)|Residential (R),sd|dd|cd|ca,fire_protection_alarm_systems,fire_protection_engineer
+904.6,BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Mercantile (M),dd|cd|ca,fire_protection_alarm_systems,fire_protection_engineer
+904.7,BuildingElementProxy,Factory and Industrial (F)|High Hazard (H)|Storage (S),sd|dd|cd|ca,fire_protection_alarm_systems,fire_protection_engineer
+904.8,BuildingElementProxy,Assembly (A)|Business (B)|Factory and Industrial (F)|Mercantile (M)|Storage (S),dd|cd|ca,fire_protection_alarm_systems,fire_protection_engineer
+904.9,BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Institutional (I),cd|ca,fire_protection_alarm_systems,fire_protection_engineer
+904.10,BuildingElementProxy,Assembly (A)|Business (B)|Institutional (I)|Mercantile (M)|Residential (R),sd|dd|cd|ca,fire_protection_alarm_systems,fire_protection_engineer
+904.11,Covering|BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,fire_protection_alarm_systems,fire_protection_engineer
+904.11.1,BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,fire_protection_alarm_systems,fire_protection_engineer
+904.11.1.1,BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),dd|cd,fire_protection_alarm_systems,fire_protection_engineer
+904.11.1.2,BuildingElementProxy|Covering,Assembly (A)|Business (B)|Residential (R)|Institutional (I)|Mercantile (M),sd|dd|cd,fire_protection_alarm_systems,fire_protection_engineer
+904.11.1.3,BuildingElementProxy|PlumbingSystem,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Institutional (I),sd|dd|cd,plumbing_systems,mechanical_engineer
+904.11.1.4,BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Institutional (I)|Residential (R),dd|cd,fire_protection_alarm_systems,fire_protection_engineer
+904.11.2,Covering,Assembly (A)|Business (B)|Educational (E)|Institutional (I)|Residential (R),dd|cd,fire_protection_alarm_systems,fire_protection_engineer
+904.11.2.1,BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|High Hazard (H),dd|cd,fire_protection_alarm_systems,fire_protection_engineer
+904.11.2.2,BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|High Hazard (H),dd|cd,fire_protection_alarm_systems,fire_protection_engineer
+904.11.2.3,BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Institutional (I),dd|cd,fire_protection_alarm_systems,fire_protection_engineer
+904.11.3,BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Institutional (I),cd|ca,fire_protection_alarm_systems,fire_protection_engineer
+904.12,BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Institutional (I),dd|cd|ca,fire_protection_alarm_systems,fire_protection_engineer
+904.13,BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Institutional (I),dd|cd|ca,fire_protection_alarm_systems,fire_protection_engineer
+904.14,Covering|BuildingElementProxy,Assembly (A)|Business (B)|Mercantile (M),sd|dd|cd,fire_protection_alarm_systems,fire_protection_engineer
+904.14.1,Wall|Door|BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Mercantile (M),sd|dd|cd,fire_protection_alarm_systems,fire_protection_engineer
+904.14.2,BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Institutional (I)|Mercantile (M),dd|cd,fire_protection_alarm_systems,fire_protection_engineer
+904.14.3,BuildingElementProxy,Assembly (A)|Business (B)|Factory and Industrial (F)|High Hazard (H)|Institutional (I),sd|dd|cd,fire_protection_alarm_systems,fire_protection_engineer
+904.14.3.1,Covering|BuildingElementProxy,Assembly (A)|Business (B)|Mercantile (M),sd|dd|cd,fire_protection_alarm_systems,fire_protection_engineer
+904.14.4,BuildingElementProxy|Covering|Door,Assembly (A)|Business (B)|Mercantile (M),sd|dd|cd,fire_protection_alarm_systems,fire_protection_engineer
+904.14.4.1,Covering,Assembly (A)|Business (B)|Mercantile (M),dd|cd,fire_protection_alarm_systems,fire_protection_engineer
+904.15,Covering|Slab|Wall,Institutional (I)|Residential (R),sd|dd|cd,fire_protection_alarm_systems,fire_protection_engineer
+904.15.1,Covering|Slab|Wall,Assembly (A)|Business (B)|Residential (R)|Educational (E),sd|dd|cd,fire_protection_alarm_systems,fire_protection_engineer
+904.15.1.1,Covering,Residential (R)|Assembly (A)|Institutional (I)|Business (B),dd|cd,fire_protection_alarm_systems,fire_protection_engineer
+904.15.1.2,BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Institutional (I),sd|dd|cd,fire_protection_alarm_systems,fire_protection_engineer
+905,,,,none,none
+905.1,Wall|Stair|Slab,Storage (S)|Factory and Industrial (F)|Assembly (A)|Business (B),sd|dd|cd,fire_protection_alarm_systems,fire_protection_engineer
+905.2,BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,fire_protection_alarm_systems,fire_protection_engineer
+905.3,Wall|BuildingElementProxy,Residential (R),sd|dd|cd,fire_protection_alarm_systems,fire_protection_engineer
+905.3.1,BuildingElementProxy|Stair|Slab|Wall,Business (B)|Educational (E),sd|dd|cd,fire_protection_alarm_systems,fire_protection_engineer
+905.3.2,Wall|BuildingElementProxy,Assembly (A),sd|dd|cd,fire_protection_alarm_systems,fire_protection_engineer
+905.3.3,Wall|Stair|Slab|Door|BuildingElementProxy,Assembly (A)|Mercantile (M),sd|dd|cd,fire_protection_alarm_systems,fire_protection_engineer
+905.3.4,Wall|BuildingElementProxy|Stair|Ramp|Slab,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,fire_protection_alarm_systems,fire_protection_engineer
+905.3.5,Roof|Slab|BuildingElementProxy,Assembly (A)|Business (B)|Institutional (I),sd|dd|cd,fire_protection_alarm_systems,fire_protection_engineer
+905.3.6,Member|BuildingElementProxy,Utility and Miscellaneous (U),sd|dd|cd,fire_protection_alarm_systems,fire_protection_engineer
+905.3.7,Roof|Slab,Assembly (A)|Business (B)|Educational (E)|Institutional (I)|Residential (R),sd|dd|cd,fire_protection_alarm_systems,fire_protection_engineer
+905.4,Stair|StairFlight|Wall|Door|Ramp,Assembly (A)|Business (B)|Educational (E)|Institutional (I)|Mercantile (M),sd|dd|cd,fire_protection_alarm_systems,fire_protection_engineer
+905.4.1,Wall|Stair,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Institutional (I),sd|dd|cd,fire_resistance_smoke_protection,architect
+905.4.2,BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),dd|cd,fire_protection_alarm_systems,fire_protection_engineer
+905.5,Wall|Stair|Door,Assembly (A)|Business (B)|Educational (E)|Institutional (I)|Residential (R),sd|dd|cd,fire_protection_alarm_systems,fire_protection_engineer
+905.5.1,Wall|Slab|BuildingElementProxy,Assembly (A),sd|dd|cd,fire_protection_alarm_systems,fire_protection_engineer
+905.5.2,BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),cd,fire_protection_alarm_systems,fire_protection_engineer
+905.5.3,BuildingElementProxy,Business (B)|Educational (E)|Residential (R)|Assembly (A),dd|cd,fire_protection_alarm_systems,fire_protection_engineer
+905.6,Wall|Stair|StairFlight|Ramp|RampFlight,Assembly (A)|Business (B)|Educational (E)|Institutional (I)|Residential (R),sd|dd|cd,fire_protection_alarm_systems,fire_protection_engineer
+905.6.1,Wall|Slab|Stair|BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Institutional (I)|Residential (R),dd|cd,fire_protection_alarm_systems,fire_protection_engineer
+905.6.2,Slab|Wall,Assembly (A)|Business (B)|Educational (E)|Institutional (I)|Residential (R),dd|cd,fire_protection_alarm_systems,fire_protection_engineer
+905.7,BuildingElementProxy|Wall|Door,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,fire_protection_alarm_systems,architect
+905.7.1,Door|Wall,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),cd,fire_protection_alarm_systems,architect
+905.7.2,BuildingElementProxy|Door,Institutional (I),sd|dd|cd,fire_protection_alarm_systems,fire_protection_engineer
+905.8,Wall|BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Institutional (I)|Residential (R),sd|dd|cd,fire_protection_alarm_systems,fire_protection_engineer
+905.9,BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|High Hazard (H),cd|ca,fire_protection_alarm_systems,fire_protection_engineer
+905.10,BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),cd|ca,fire_protection_alarm_systems,fire_protection_engineer
+905.11,Wall|BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|High Hazard (H),cd|ca,fire_protection_alarm_systems,fire_protection_engineer
+906,,,,none,none
+906.1,Wall|Door|BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|High Hazard (H),sd|dd|cd,fire_protection_alarm_systems,fire_protection_engineer
+906.2,BuildingElementProxy|Door|Wall,Assembly (A)|Institutional (I),sd|dd|cd,fire_protection_alarm_systems,fire_protection_engineer
+906.3,BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|High Hazard (H),cd|ca,fire_protection_alarm_systems,fire_protection_engineer
+906.3.1,BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Institutional (I),sd|dd|cd,fire_protection_alarm_systems,fire_protection_engineer
+906.3.2,BuildingElementProxy,Factory and Industrial (F)|High Hazard (H)|Storage (S)|Business (B),sd|dd|cd,fire_protection_alarm_systems,fire_protection_engineer
+906.3.3,BuildingElementProxy,Business (B)|Factory and Industrial (F)|Institutional (I)|Mercantile (M)|Assembly (A),sd|dd|cd,fire_protection_alarm_systems,fire_protection_engineer
+906.3.4,BuildingElementProxy,Factory and Industrial (F)|High Hazard (H),sd|dd|cd,fire_protection_alarm_systems,fire_protection_engineer
+906.4,BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Institutional (I)|Mercantile (M),sd|dd|cd,fire_protection_alarm_systems,fire_protection_engineer
+906.5,Wall|BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,fire_protection_alarm_systems,fire_protection_engineer
+906.6,Wall|Door|Covering,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Institutional (I),sd|dd|cd,fire_protection_alarm_systems,fire_protection_engineer
+906.7,Wall,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Mercantile (M),dd|cd,fire_protection_alarm_systems,fire_protection_engineer
+906.8,Wall|Covering|BuildingElementProxy,Institutional (I),sd|dd|cd,fire_protection_alarm_systems,fire_protection_engineer
+906.9,BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,fire_protection_alarm_systems,fire_protection_engineer
+906.9.1,Wall,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Mercantile (M),cd|ca,fire_protection_alarm_systems,fire_protection_engineer
+906.9.2,Covering|Wall,Assembly (A)|Business (B)|Educational (E)|Mercantile (M)|Residential (R),sd|dd|cd,fire_protection_alarm_systems,fire_protection_engineer
+906.9.3,Wall,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,fire_protection_alarm_systems,architect
+906.10,BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|High Hazard (H),sd|dd|cd,fire_protection_alarm_systems,fire_protection_engineer
+907,,,,none,none
+907.1,BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Institutional (I)|Residential (R),sd|dd|cd,fire_protection_alarm_systems,fire_protection_engineer
+907.1.1,BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Institutional (I)|Residential (R),dd|cd,fire_protection_alarm_systems,fire_protection_engineer
+907.1.2,BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Institutional (I),cd|ca,fire_protection_alarm_systems,fire_protection_engineer
+907.1.3,BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Institutional (I)|Residential (R),dd|cd,fire_protection_alarm_systems,fire_protection_engineer
+907.2,BuildingElementProxy|Door,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|High Hazard (H),sd|dd|cd,fire_protection_alarm_systems,fire_protection_engineer
+907.2.1,BuildingElementProxy,Assembly (A)|Educational (E),sd|dd|cd,fire_protection_alarm_systems,fire_protection_engineer
+907.2.1.1,BuildingElementProxy,Assembly (A),sd|dd|cd,fire_protection_alarm_systems,fire_protection_engineer
+907.2.1.2,BuildingElementProxy,Assembly (A),sd|dd|cd,accessibility,architect
+907.2.2,Wall|Door|BuildingElementProxy,Business (B),sd|dd|cd,fire_protection_alarm_systems,fire_protection_engineer
+907.2.2.1,Wall|Door|CurtainWall|Slab|Window,Business (B)|Institutional (I),sd|dd|cd,fire_protection_alarm_systems,fire_protection_engineer
+907.2.2.2,BuildingElementProxy,Factory and Industrial (F)|High Hazard (H),sd|dd|cd,fire_protection_alarm_systems,fire_protection_engineer
+907.2.3,Wall|Door,Educational (E),sd|dd|cd,fire_protection_alarm_systems,fire_protection_engineer
+907.2.4,Wall|Door|Stair|Slab,Factory and Industrial (F),sd|dd|cd,fire_protection_alarm_systems,fire_protection_engineer
+907.2.4.1,Wall|Slab|Roof,Factory and Industrial (F)|High Hazard (H),sd|dd|cd,fire_protection_alarm_systems,fire_protection_engineer
+907.2.5,Wall|Door|BuildingElementProxy,High Hazard (H),sd|dd|cd,fire_protection_alarm_systems,fire_protection_engineer
+907.2.6,Wall|Door,Institutional (I),sd|dd|cd,fire_protection_alarm_systems,fire_protection_engineer
+907.2.6.1,Wall|Door|Slab,Institutional (I),sd|dd|cd,fire_protection_alarm_systems,fire_protection_engineer
+907.2.6.1.1,Wall|Slab|Roof,Residential (R)|Institutional (I),sd|dd|cd,fire_protection_alarm_systems,fire_protection_engineer
+907.2.6.2,Wall|Door,Institutional (I),sd|dd|cd,fire_protection_alarm_systems,fire_protection_engineer
+907.2.6.3,Wall|Door|BuildingElementProxy,Institutional (I),sd|dd|cd,fire_protection_alarm_systems,fire_protection_engineer
+907.2.6.3.1,Wall|Door|Slab,Institutional (I)|Residential (R)|Assembly (A),sd|dd|cd,fire_protection_alarm_systems,fire_protection_engineer
+907.2.6.3.2,Wall|Door,Assembly (A)|Institutional (I)|Educational (E),sd|dd|cd,fire_protection_alarm_systems,fire_protection_engineer
+907.2.6.3.2.1,Wall|Door,Institutional (I),sd|dd|cd,fire_protection_alarm_systems,fire_protection_engineer
+907.2.6.3.3,Wall|Door|Window,Institutional (I),sd|dd|cd,fire_protection_alarm_systems,fire_protection_engineer
+907.2.7,BuildingElementProxy,Mercantile (M),sd|dd|cd,fire_protection_alarm_systems,fire_protection_engineer
+907.2.7.1,Door|Wall|Slab,Mercantile (M),sd|dd|cd,fire_protection_alarm_systems,fire_protection_engineer
+907.2.7.1.1,Wall|Door,Assembly (A)|Business (B)|Educational (E)|Institutional (I),sd|dd|cd,fire_protection_alarm_systems,fire_protection_engineer
+907.2.7.2,Wall|Door|Slab,Mercantile (M),sd|dd|cd,fire_protection_alarm_systems,fire_protection_engineer
+907.2.8,Wall|BuildingElementProxy,Residential (R),sd|dd|cd,fire_protection_alarm_systems,fire_protection_engineer
+907.2.8.1,Wall|Door,Residential (R),sd|dd|cd,fire_protection_alarm_systems,fire_protection_engineer
+907.2.8.2,Wall|Door|Slab,Residential (R)|Institutional (I)|Hotel (R),sd|dd|cd,fire_protection_alarm_systems,fire_protection_engineer
+907.2.8.3,Wall|Slab|BuildingElementProxy,Residential (R)|Institutional (I),sd|dd|cd,fire_protection_alarm_systems,fire_protection_engineer
+907.2.9,Wall|Slab|Door,Residential (R),sd|dd|cd,fire_protection_alarm_systems,fire_protection_engineer
+907.2.9.1,Wall|Door,Residential (R),sd|dd|cd,fire_protection_alarm_systems,fire_protection_engineer
+907.2.9.2,Wall|Slab,Residential (R)|Institutional (I),sd|dd|cd,fire_protection_alarm_systems,fire_protection_engineer
+907.2.9.3,Wall|Door|Slab|Stair,Residential (R),sd|dd|cd,fire_protection_alarm_systems,fire_protection_engineer
+907.2.10,Wall|Door|Window,Storage (S),sd|dd|cd,fire_protection_alarm_systems,fire_protection_engineer
+907.2.10.1,Wall|Door|BuildingElementProxy,Storage (S),sd|dd|cd,fire_protection_alarm_systems,fire_protection_engineer
+907.2.10.2,Wall|Door|Slab,Storage (S)|High Hazard (H),sd|dd|cd,fire_protection_alarm_systems,fire_protection_engineer
+907.2.11,Covering,Assembly (A)|Business (B)|Educational (E)|Institutional (I)|Residential (R),sd|dd|cd,fire_protection_alarm_systems,fire_protection_engineer
+907.2.11.1,Door|Slab|Stair|Wall|BuildingElementProxy,Residential (R),sd|dd|cd,fire_protection_alarm_systems,architect
+907.2.11.2,Wall|Slab|Door,Residential (R)|Institutional (I),sd|dd|cd,fire_protection_alarm_systems,fire_protection_engineer
+907.2.11.3,Wall|BuildingElementProxy,Residential (R)|Institutional (I)|Assembly (A),sd|dd|cd,fire_protection_alarm_systems,fire_protection_engineer
+907.2.11.4,Wall|Door,Residential (R)|Institutional (I)|Assembly (A),sd|dd|cd,fire_protection_alarm_systems,fire_protection_engineer
+907.2.11.5,Wall|Door|Slab,Residential (R)|Institutional (I),sd|dd|cd,fire_protection_alarm_systems,fire_protection_engineer
+907.2.11.6,Covering|BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),dd|cd,fire_protection_alarm_systems,fire_protection_engineer
+907.2.11.7,BuildingElementProxy,Residential (R)|Institutional (I),sd|dd|cd,fire_protection_alarm_systems,fire_protection_engineer
+907.2.12,Wall|Door|Slab,Assembly (A),sd|dd|cd,fire_protection_alarm_systems,fire_protection_engineer
+907.2.13,Wall|Door|Stair|Slab,Assembly (A)|Business (B)|Institutional (I)|Residential (R),sd|dd|cd,fire_protection_alarm_systems,fire_protection_engineer
+907.2.13.1,Wall|Slab,Assembly (A)|Business (B)|Educational (E)|Institutional (I)|Residential (R),sd|dd|cd,fire_protection_alarm_systems,fire_protection_engineer
+907.2.13.1.1,BuildingElementProxy|Door|Slab|Room|CurtainWall,Business (B)|Assembly (A)|Institutional (I)|Residential (R)|Mercantile (M),sd|dd|cd,fire_protection_alarm_systems,fire_protection_engineer
+907.2.13.1.2,Covering|BuildingElementProxy,Residential (R)|Assembly (A)|Business (B)|Institutional (I),sd|dd|cd,fire_protection_alarm_systems,fire_protection_engineer
+907.2.13.2,Stair|StairFlight|Door|BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Institutional (I)|Residential (R),dd|cd,fire_protection_alarm_systems,fire_protection_engineer
+907.2.13.3,BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Institutional (I)|Residential (R),sd|dd|cd,fire_protection_alarm_systems,fire_protection_engineer
+907.2.14,Wall|Slab|CurtainWall|Door,Assembly (A)|Educational (E)|Mercantile (M),sd|dd|cd,fire_protection_alarm_systems,fire_protection_engineer
+907.2.15,Slab|Wall|Roof,Storage (S)|Factory and Industrial (F)|Mercantile (M),sd|dd|cd,fire_protection_alarm_systems,fire_protection_engineer
+907.2.16,Wall|Door|Slab,Factory and Industrial (F)|Storage (S),sd|dd|cd,fire_protection_alarm_systems,fire_protection_engineer
+907.2.17,BuildingElementProxy,Factory and Industrial (F),sd|dd|cd,fire_protection_alarm_systems,fire_protection_engineer
+907.2.18,Wall|Slab|Door,Assembly (A)|Business (B)|Institutional (I)|Mercantile (M)|Residential (R),dd|cd,fire_protection_alarm_systems,fire_protection_engineer
+907.2.18.1,BuildingElementProxy|Door|Wall,Business (B)|Educational (E)|Institutional (I)|Residential (R),sd|dd|cd,fire_protection_alarm_systems,fire_protection_engineer
+907.2.18.2,Door|Window|BuildingElementProxy,Assembly (A)|Business (B)|Institutional (I)|Residential (R)|Mercantile (M),sd|dd|cd,fire_protection_alarm_systems,fire_protection_engineer
+907.2.19,Stair|Ramp|Wall|Slab|Door,Assembly (A)|Business (B)|Institutional (I)|Residential (R)|Mercantile (M),sd|dd|cd,fire_protection_alarm_systems,fire_protection_engineer
+907.2.20,BuildingElementProxy|Door|Wall,Assembly (A)|Mercantile (M),sd|dd|cd,fire_protection_alarm_systems,fire_protection_engineer
+907.2.21,BuildingElementProxy|Door|Wall,Residential (R),sd|dd|cd,fire_protection_alarm_systems,architect
+907.2.22,BuildingElementProxy|Door|Slab,Business (B),sd|dd|cd,fire_protection_alarm_systems,fire_protection_engineer
+907.2.22.1,Wall|Door|Stair|Slab,Business (B),sd|dd|cd,fire_protection_alarm_systems,fire_protection_engineer
+907.2.22.2,Wall|Slab|Door|Stair|BuildingElementProxy,Business (B),sd|dd|cd,fire_protection_alarm_systems,fire_protection_engineer
+907.2.23,BuildingElementProxy|Slab|Wall|Door,Factory and Industrial (F)|Business (B)|Storage (S),sd|dd|cd,fire_protection_alarm_systems,fire_protection_engineer
+907.3,Wall|BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Institutional (I)|Residential (R),dd|cd,fire_protection_alarm_systems,fire_protection_engineer
+907.3.1,BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Institutional (I)|Residential (R),dd|cd,fire_protection_alarm_systems,fire_protection_engineer
+907.3.2,Door,Assembly (A)|Business (B)|Educational (E)|Institutional (I)|Residential (R),sd|dd|cd,fire_protection_alarm_systems,fire_protection_engineer
+907.3.3,BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Institutional (I)|Residential (R),dd|cd,fire_protection_alarm_systems,fire_protection_engineer
+907.3.4,BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Institutional (I)|Mercantile (M),dd|cd,fire_protection_alarm_systems,fire_protection_engineer
+907.4,Wall|BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,fire_protection_alarm_systems,fire_protection_engineer
+907.4.1,Wall|BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Institutional (I)|Residential (R),dd|cd,fire_protection_alarm_systems,fire_protection_engineer
+907.4.2,Wall|BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Institutional (I)|Residential (R),dd|cd,fire_protection_alarm_systems,fire_protection_engineer
+907.4.2.1,Door|Wall,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),dd|cd,fire_protection_alarm_systems,fire_protection_engineer
+907.4.2.2,BuildingElementProxy|Wall,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Institutional (I),sd|dd|cd,fire_protection_alarm_systems,fire_protection_engineer
+907.4.2.3,BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Institutional (I),dd|cd,fire_protection_alarm_systems,fire_protection_engineer
+907.4.2.4,Wall|BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),cd|ca,fire_protection_alarm_systems,fire_protection_engineer
+907.4.2.5,Covering,Assembly (A)|Business (B)|Educational (E)|Institutional (I)|Residential (R),dd|cd,fire_protection_alarm_systems,fire_protection_engineer
+907.4.2.6,Wall|Door|Stair|Railing,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,fire_protection_alarm_systems,fire_protection_engineer
+907.4.3,Wall|Ceiling|BuildingElementProxy,Assembly (A)|Educational (E)|Institutional (I)|Residential (R)|Business (B),sd|dd|cd,fire_protection_alarm_systems,fire_protection_engineer
+907.4.3.1,Wall|Slab|Roof,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Institutional (I),sd|dd|cd,fire_protection_alarm_systems,fire_protection_engineer
+907.5,Wall|Door|BuildingElementProxy,Residential (R),sd|dd|cd,fire_protection_alarm_systems,fire_protection_engineer
+907.5.1,BuildingElementProxy|Door,Assembly (A)|Business (B)|Educational (E)|Institutional (I)|Residential (R),sd|dd|cd,fire_protection_alarm_systems,fire_protection_engineer
+907.5.1.1,BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Institutional (I)|Residential (R),dd|cd,fire_protection_alarm_systems,fire_protection_engineer
+907.5.2,BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,fire_protection_alarm_systems,fire_protection_engineer
+907.5.2.1,BuildingElementProxy,Institutional (I),sd|dd|cd,fire_protection_alarm_systems,fire_protection_engineer
+907.5.2.1.1,Wall|Door|Window,Assembly (A)|Business (B)|Educational (E)|Institutional (I)|Residential (R),dd|cd,fire_protection_alarm_systems,fire_protection_engineer
+907.5.2.1.2,Wall|BuildingElementProxy|Covering,Assembly (A)|Business (B)|Educational (E)|Institutional (I)|Residential (R),dd|cd,fire_protection_alarm_systems,fire_protection_engineer
+907.5.2.1.3,BuildingElementProxy,Residential (R)|Institutional (I),sd|dd|cd,fire_protection_alarm_systems,fire_protection_engineer
+907.5.2.1.3.1,Door|Window|Wall,Residential (R)|Institutional (I),sd|dd|cd,fire_protection_alarm_systems,fire_protection_engineer
+907.5.2.1.3.2,Wall|Door|Window,Residential (R)|Institutional (I),sd|dd|cd,fire_protection_alarm_systems,fire_protection_engineer
+907.5.2.2,Door|Stair|Ramp|CurtainWall|Wall,Institutional (I)|Assembly (A)|Business (B),sd|dd|cd,fire_protection_alarm_systems,fire_protection_engineer
+907.5.2.2.1,BuildingElementProxy|Wall|Door,Assembly (A)|Business (B)|Educational (E)|Institutional (I)|Residential (R),dd|cd,fire_protection_alarm_systems,fire_protection_engineer
+907.5.2.2.2,BuildingElementProxy,Assembly (A)|Educational (E)|Institutional (I)|Residential (R)|Business (B),dd|cd,fire_protection_alarm_systems,fire_protection_engineer
+907.5.2.2.3,BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Institutional (I)|Residential (R),sd|dd|cd,fire_protection_alarm_systems,fire_protection_engineer
+907.5.2.2.4,BuildingElementProxy,Assembly (A),sd|dd|cd,fire_protection_alarm_systems,fire_protection_engineer
+907.5.2.2.5,BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Institutional (I)|Residential (R),dd|cd,fire_protection_alarm_systems,fire_protection_engineer
+907.5.2.3,Wall|Door|Stair|Ramp|BuildingElementProxy,Institutional (I)|Residential (R)|Assembly (A),sd|dd|cd,fire_protection_alarm_systems,fire_protection_engineer
+907.5.2.3.1,Wall|Door|BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Institutional (I)|Residential (R),sd|dd|cd,fire_protection_alarm_systems,fire_protection_engineer
+907.5.2.3.2,Door|Window|BuildingElementProxy,Institutional (I)|Residential (R),sd|dd|cd,fire_protection_alarm_systems,fire_protection_engineer
+907.5.2.3.3,Wall|Slab,Residential (R),sd|dd|cd,fire_protection_alarm_systems,fire_protection_engineer
+907.5.2.3.3.1,BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Institutional (I)|Residential (R),cd,fire_protection_alarm_systems,fire_protection_engineer
+907.6,Wall|BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Institutional (I)|Residential (R),dd|cd,fire_protection_alarm_systems,fire_protection_engineer
+907.6.1,BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Institutional (I)|Residential (R),dd|cd,fire_protection_alarm_systems,fire_protection_engineer
+907.6.2,BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),dd|cd,fire_protection_alarm_systems,fire_protection_engineer
+907.6.3,BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Institutional (I),dd|cd,fire_protection_alarm_systems,fire_protection_engineer
+907.6.3.1,BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),dd|cd,fire_protection_alarm_systems,fire_protection_engineer
+907.6.4,Wall|Door|Slab,Assembly (A)|Business (B)|Educational (E)|Institutional (I)|Residential (R),sd|dd|cd,fire_protection_alarm_systems,fire_protection_engineer
+907.6.4.1,BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Institutional (I),dd|cd,fire_protection_alarm_systems,fire_protection_engineer
+907.6.4.2,BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Institutional (I)|Residential (R),dd|cd,fire_protection_alarm_systems,fire_protection_engineer
+907.6.5,Wall|Ceiling|BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),dd|cd|ca,fire_protection_alarm_systems,fire_protection_engineer
+907.6.6,FireProtection|BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|High Hazard (H),sd|dd|cd,fire_protection_alarm_systems,fire_protection_engineer
+907.6.6.1,BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Institutional (I)|Residential (R),dd|cd,fire_protection_alarm_systems,fire_protection_engineer
+907.6.6.2,BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,fire_protection_alarm_systems,fire_protection_engineer
+907.6.6.3,BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),cd|ca,fire_protection_alarm_systems,fire_protection_engineer
+907.7,BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|High Hazard (H),cd|ca,fire_protection_alarm_systems,fire_protection_engineer
+907.7.1,Wall|BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),cd|ca,fire_protection_alarm_systems,fire_protection_engineer
+907.7.2,BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Institutional (I),cd|ca,fire_protection_alarm_systems,fire_protection_engineer
+907.7.3,BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),cd|ca,fire_protection_alarm_systems,fire_protection_engineer
+907.8,BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Institutional (I)|Residential (R),cd|ca,fire_protection_alarm_systems,fire_protection_engineer
+908,,,,none,none
+908.1,Wall|Door,High Hazard (H),sd|dd|cd,fire_protection_alarm_systems,fire_protection_engineer
+908.2,BuildingElementProxy,High Hazard (H),sd|dd|cd,fire_protection_alarm_systems,fire_protection_engineer
+908.3,BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Institutional (I)|Residential (R),dd|cd,fire_protection_alarm_systems,fire_protection_engineer
+909,,,,none,none
+909.1,Wall|Door|Roof,Assembly (A)|Business (B)|Institutional (I)|Residential (R),sd|dd|cd,fire_protection_alarm_systems,fire_protection_engineer
+909.2,Wall|Door|Window|Slab,Assembly (A)|Business (B)|Educational (E)|Institutional (I)|Residential (R),sd|dd|cd,fire_resistance_smoke_protection,fire_protection_engineer
+909.3,Wall|Door|CurtainWall|Roof,Assembly (A)|Business (B)|Educational (E)|Institutional (I)|Residential (R),cd|ca,fire_protection_alarm_systems,fire_protection_engineer
+909.4,Wall|Door|Window,Assembly (A)|Business (B)|Educational (E)|Institutional (I)|Residential (R),dd|cd,fire_resistance_smoke_protection,fire_protection_engineer
+909.4.1,Stair|Lift|Wall,Assembly (A)|Business (B)|Institutional (I)|Residential (R),sd|dd|cd,fire_protection_alarm_systems,mechanical_engineer
+909.4.2,Wall|Roof|Slab,Assembly (A)|Business (B)|Institutional (I)|Residential (R)|Storage (S),dd|cd,fire_protection_alarm_systems,fire_protection_engineer
+909.4.3,Wall|Roof|CurtainWall|Slab,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,structural_design,structural_engineer
+909.4.4,Wall|Slab|Door|Window,Assembly (A)|Business (B)|Educational (E)|Institutional (I)|Residential (R),sd|dd|cd,mechanical_systems,mechanical_engineer
+909.4.5,Covering|Roof|Wall,Assembly (A)|Business (B)|Educational (E)|Institutional (I)|Residential (R),sd|dd|cd,mechanical_systems,mechanical_engineer
+909.4.6,Wall|Door|Slab|Window,Assembly (A)|Business (B)|Educational (E)|Institutional (I)|Residential (R),sd|dd|cd,fire_protection_alarm_systems,fire_protection_engineer
+909.4.7,Wall|Door|Slab|CurtainWall|Window,Assembly (A)|Business (B)|Residential (R)|Institutional (I)|Mercantile (M),sd|dd|cd,fire_protection_alarm_systems,fire_protection_engineer
+909.5,Wall|Slab|Door,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),dd|cd,fire_resistance_smoke_protection,architect
+909.5.1,Wall|Door|Window,Assembly (A)|Business (B)|Residential (R)|Institutional (I),sd|dd|cd,fire_resistance_smoke_protection,architect
+909.5.2,Wall|Door|Window,Assembly (A)|Business (B)|Institutional (I)|Residential (R),dd|cd,fire_resistance_smoke_protection,fire_protection_engineer
+909.5.3,Door|Wall,Institutional (I),sd|dd|cd,fire_resistance_smoke_protection,architect
+909.5.3.1,Door|Wall,Institutional (I),sd|dd|cd,fire_resistance_smoke_protection,architect
+909.5.3.2,Wall|Slab,Assembly (A)|Business (B)|Educational (E)|Institutional (I)|Residential (R),dd|cd,fire_resistance_smoke_protection,mechanical_engineer
+909.6,Wall|Door,Assembly (A)|Business (B)|Educational (E)|Institutional (I)|Residential (R),sd|dd|cd,fire_protection_alarm_systems,mechanical_engineer
+909.6.1,Wall,Assembly (A)|Business (B)|Educational (E)|Institutional (I)|Residential (R),sd|dd|cd,fire_protection_alarm_systems,fire_protection_engineer
+909.6.2,Door|Wall,Assembly (A)|Business (B)|Educational (E)|Institutional (I)|Residential (R),dd|cd,fire_resistance_smoke_protection,mechanical_engineer
+909.6.3,Stair|StairFlight|Ramp|Door,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,fire_protection_alarm_systems,fire_protection_engineer
+909.7,Wall|Door|CurtainWall|Slab,Assembly (A)|Business (B)|Educational (E)|Institutional (I)|Residential (R),sd|dd|cd,fire_protection_alarm_systems,fire_protection_engineer
+909.7.1,Wall|Door|Slab,Assembly (A)|Business (B)|Residential (R)|Institutional (I)|Mercantile (M),sd|dd|cd,fire_protection_alarm_systems,fire_protection_engineer
+909.8,Slab|Roof|Wall|BuildingElementProxy,Assembly (A)|Business (B)|Mercantile (M),sd|dd|cd,fire_protection_alarm_systems,fire_protection_engineer
+909.8.1,Slab|Ramp|Stair|StairFlight|Wall,Assembly (A)|Business (B)|Educational (E)|Institutional (I)|Residential (R),sd|dd|cd,fire_resistance_smoke_protection,fire_protection_engineer
+909.9,Wall|Door|Roof,Assembly (A)|Business (B)|Residential (R),sd|dd|cd,fire_protection_alarm_systems,fire_protection_engineer
+909.9.1,Wall|Slab|Roof,Assembly (A)|Business (B)|Residential (R)|Institutional (I)|Mercantile (M),sd|dd|cd,fire_protection_alarm_systems,fire_protection_engineer
+909.9.2,Wall|Column|Slab|Roof,Assembly (A)|Business (B)|Institutional (I)|Residential (R)|Storage (S),sd|dd|cd,fire_protection_alarm_systems,fire_protection_engineer
+909.9.3,Wall|Slab|Roof,Assembly (A)|Business (B)|Institutional (I)|Residential (R)|Storage (S),sd|dd|cd,fire_protection_alarm_systems,fire_protection_engineer
+909.9.4,Wall|Slab|Roof,Assembly (A)|Business (B)|Institutional (I)|Residential (R)|Storage (S),dd|cd,fire_protection_alarm_systems,fire_protection_engineer
+909.10,BuildingElementProxy|Covering|Slab|Wall,Assembly (A)|Business (B)|Educational (E)|Institutional (I)|Residential (R),dd|cd,fire_protection_alarm_systems,fire_protection_engineer
+909.10.1,BuildingElementProxy,Assembly (A)|Business (B)|Institutional (I)|Residential (R),sd|dd|cd,mechanical_systems,mechanical_engineer
+909.10.2,BuildingElementProxy,Assembly (A)|Business (B)|Institutional (I)|Residential (R)|Mercantile (M),dd|cd,mechanical_systems,mechanical_engineer
+909.10.3,Wall|Roof|Window|Door|Slab,Assembly (A)|Business (B)|Educational (E)|Institutional (I)|Residential (R),sd|dd|cd,fire_protection_alarm_systems,mechanical_engineer
+909.10.4,Wall|Slab|CurtainWall,Assembly (A)|Business (B)|Institutional (I)|Residential (R),dd|cd,fire_protection_alarm_systems,fire_protection_engineer
+909.10.5,BuildingElementProxy,Business (B)|Assembly (A)|Residential (R)|Educational (E)|Institutional (I),dd|cd,mechanical_systems,mechanical_engineer
+909.11,BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Institutional (I),dd|cd,fire_protection_alarm_systems,fire_protection_engineer
+909.11.1,Wall|Slab|Door,Assembly (A)|Business (B)|Educational (E)|Institutional (I)|Residential (R),sd|dd|cd,fire_resistance_smoke_protection,architect
+909.11.2,BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Institutional (I)|Residential (R),dd|cd,fire_protection_alarm_systems,fire_protection_engineer
+909.12,BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Institutional (I)|Residential (R),dd|cd,fire_protection_alarm_systems,fire_protection_engineer
+909.12.1,BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Institutional (I)|Residential (R),dd|cd|ca,fire_protection_alarm_systems,fire_protection_engineer
+909.12.2,BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Institutional (I),dd|cd,fire_protection_alarm_systems,electrical_engineer
+909.12.3,Wall|Door|Slab|Window,Assembly (A)|Business (B)|Institutional (I)|Residential (R)|Mercantile (M),dd|cd,fire_protection_alarm_systems,fire_protection_engineer
+909.12.3.1,Wall|Door|Window,Assembly (A)|Business (B)|Institutional (I)|Residential (R),dd|cd,mechanical_systems,mechanical_engineer
+909.12.3.2,Wall|Door|Slab,Assembly (A)|Business (B)|Educational (E)|Institutional (I)|Residential (R),sd|dd|cd,fire_resistance_smoke_protection,fire_protection_engineer
+909.12.4,BuildingElementProxy|Door,Assembly (A)|Business (B)|Educational (E)|Institutional (I)|Residential (R),dd|cd,fire_protection_alarm_systems,fire_protection_engineer
+909.13,BuildingElementProxy,Business (B)|Assembly (A)|Institutional (I)|Residential (R)|Factory and Industrial (F),dd|cd,mechanical_systems,mechanical_engineer
+909.13.1,BuildingElementProxy,Business (B)|Educational (E)|Institutional (I)|Assembly (A)|Residential (R),dd|cd,mechanical_systems,mechanical_engineer
+909.13.2,BuildingElementProxy,Business (B)|Assembly (A)|Residential (R)|Institutional (I)|Mercantile (M),dd|cd,fire_protection_alarm_systems,fire_protection_engineer
+909.13.3,BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Institutional (I)|Residential (R),cd|ca,fire_protection_alarm_systems,fire_protection_engineer
+909.14,BuildingElementProxy|Wall,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Institutional (I),cd,fire_protection_alarm_systems,fire_protection_engineer
+909.15,BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Institutional (I)|Residential (R),cd|ca,fire_protection_alarm_systems,fire_protection_engineer
+909.16,BuildingElementProxy,Assembly (A)|Business (B)|Residential (R)|Institutional (I),sd|dd|cd,fire_protection_alarm_systems,fire_protection_engineer
+909.16.1,BuildingElementProxy,Assembly (A)|Business (B)|Institutional (I)|Residential (R)|Mercantile (M),dd|cd,fire_protection_alarm_systems,fire_protection_engineer
+909.16.2,Wall|Door,Assembly (A)|Business (B)|Institutional (I)|Residential (R),dd|cd,fire_protection_alarm_systems,fire_protection_engineer
+909.16.3,BuildingElementProxy,Assembly (A)|Business (B)|Institutional (I)|Residential (R)|Mercantile (M),sd|dd|cd,fire_protection_alarm_systems,fire_protection_engineer
+909.17,Wall|Door|BuildingElementProxy|Covering,Assembly (A)|Business (B)|Institutional (I)|Residential (R),dd|cd,fire_protection_alarm_systems,fire_protection_engineer
+909.18,BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Institutional (I)|Residential (R),cd|ca,fire_protection_alarm_systems,fire_protection_engineer
+909.18.1,Covering|BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),cd|ca,fire_protection_alarm_systems,fire_protection_engineer
+909.18.2,BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Institutional (I)|Residential (R),dd|cd,fire_protection_alarm_systems,mechanical_engineer
+909.18.3,Wall|Slab|Door,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),cd|ca,fire_resistance_smoke_protection,fire_protection_engineer
+909.18.4,BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,mechanical_systems,mechanical_engineer
+909.18.5,MechanicalSystem|BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Institutional (I)|Residential (R),cd|ca,mechanical_systems,mechanical_engineer
+909.18.6,Wall|Door,Assembly (A)|Business (B)|Educational (E)|Institutional (I)|Residential (R),dd|cd,fire_resistance_smoke_protection,fire_protection_engineer
+909.18.7,BuildingElementProxy,Assembly (A)|Business (B)|Institutional (I)|Residential (R)|Mercantile (M),dd|cd|ca,fire_protection_alarm_systems,fire_protection_engineer
+909.18.8,Wall|Door|Window|Slab|Roof,Assembly (A)|Business (B)|Educational (E)|Institutional (I)|Residential (R),cd|ca,fire_protection_alarm_systems,fire_protection_engineer
+909.18.8.1,BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Institutional (I)|Residential (R),cd|ca,fire_protection_alarm_systems,fire_protection_engineer
+909.18.8.2,Wall|Door|CurtainWall,Assembly (A)|Business (B)|Institutional (I)|Residential (R)|Storage (S),cd|ca,fire_protection_alarm_systems,fire_protection_engineer
+909.18.8.3,BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),cd|ca,fire_protection_alarm_systems,fire_protection_engineer
+909.18.8.3.1,BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Institutional (I)|Residential (R),cd|ca,fire_protection_alarm_systems,fire_protection_engineer
+909.18.9,Wall|Door|Window|BuildingElementProxy,Assembly (A)|Business (B)|Institutional (I)|Residential (R),cd|ca,fire_protection_alarm_systems,fire_protection_engineer
+909.19,BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Institutional (I)|Residential (R),cd|ca,fire_protection_alarm_systems,fire_protection_engineer
+909.20,Stair|Ramp|Wall|Door|Slab,Assembly (A)|Business (B)|Educational (E)|Institutional (I)|Residential (R),sd|dd|cd,fire_resistance_smoke_protection,architect
+909.20.1,Stair|Ramp|Door|Wall|Slab,Assembly (A)|Business (B)|Educational (E)|Institutional (I)|Residential (R),sd|dd|cd,means_of_egress,architect
+909.20.2,Wall|Slab|Stair|Door,Assembly (A)|Business (B)|Educational (E)|Institutional (I)|Residential (R),sd|dd|cd,fire_resistance_smoke_protection,architect
+909.20.2.1,Door|Wall,Assembly (A)|Business (B)|Educational (E)|Institutional (I)|Residential (R),sd|dd|cd,fire_resistance_smoke_protection,architect
+909.20.3,Stair|StairFlight|Wall|Door,Assembly (A)|Business (B)|Educational (E)|Institutional (I)|Residential (R),sd|dd|cd,fire_resistance_smoke_protection,architect
+909.20.3.1,Door|Wall,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Institutional (I),sd|dd|cd,fire_resistance_smoke_protection,architect
+909.20.3.2,Door|Wall,Assembly (A)|Business (B)|Educational (E)|Institutional (I)|Residential (R),sd|dd|cd,fire_resistance_smoke_protection,architect
+909.20.3.3,Wall|Door|Window,Assembly (A)|Business (B)|Educational (E)|Institutional (I)|Residential (R),sd|dd|cd,means_of_egress,architect
+909.20.4,Stair|Ramp|Wall|Door,Assembly (A)|Business (B)|Educational (E)|Institutional (I)|Residential (R),sd|dd|cd,fire_resistance_smoke_protection,fire_protection_engineer
+909.20.5,Stair|Wall|Door|Slab|Ramp,Assembly (A)|Business (B)|Educational (E)|Institutional (I)|Residential (R),sd|dd|cd,fire_resistance_smoke_protection,architect
+909.20.5.1,Door|Wall,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Institutional (I),sd|dd|cd,fire_resistance_smoke_protection,architect
+909.20.5.2,Stair|Door|Wall,Assembly (A)|Business (B)|Educational (E)|Institutional (I)|Residential (R),sd|dd|cd,fire_protection_alarm_systems,mechanical_engineer
+909.20.5.3,Wall|Door|BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Institutional (I)|Residential (R),sd|dd|cd,fire_protection_alarm_systems,mechanical_engineer
+909.20.5.4,BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),dd|cd,fire_protection_alarm_systems,fire_protection_engineer
+909.20.6,Stair|Ramp|Door,Assembly (A)|Business (B)|Educational (E)|Institutional (I)|Residential (R),dd|cd,fire_protection_alarm_systems,fire_protection_engineer
+909.20.6.1,Wall|Slab|BuildingElementProxy,Assembly (A)|Business (B)|Institutional (I)|Residential (R),dd|cd,fire_resistance_smoke_protection,fire_protection_engineer
+909.20.6.2,Stair|Ramp|CurtainWall|Wall|Slab,Assembly (A)|Business (B)|Educational (E)|Institutional (I)|Residential (R),dd|cd,fire_protection_alarm_systems,electrical_engineer
+909.20.6.3,BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Institutional (I)|Residential (R),cd|ca,mechanical_systems,mechanical_engineer
+909.21,BuildingElementProxy|Door|Wall,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Institutional (I),sd|dd|cd,fire_protection_alarm_systems,fire_protection_engineer
+909.21.1,BuildingElementProxy|Door,Business (B)|Residential (R)|Assembly (A)|Institutional (I)|Mercantile (M),sd|dd|cd,fire_protection_alarm_systems,fire_protection_engineer
+909.21.1.1,Door|CurtainWall|ShadingDevice|BuildingElementProxy,Assembly (A)|Business (B)|Residential (R)|Institutional (I),sd|dd|cd,mechanical_systems,mechanical_engineer
+909.21.2,Wall|Door|Window,Assembly (A)|Business (B)|Residential (R),cd,fire_protection_alarm_systems,fire_protection_engineer
+909.21.3,BuildingElementProxy|Shaft|Wall,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Institutional (I),dd|cd,fire_resistance_smoke_protection,fire_protection_engineer
+909.21.4,Fan|BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Institutional (I),sd|dd|cd,fire_protection_alarm_systems,mechanical_engineer
+909.21.4.1,Wall|BuildingElementProxy|Roof,Business (B)|Residential (R)|Institutional (I)|Assembly (A),dd|cd,fire_resistance_smoke_protection,architect
+909.21.4.2,BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Institutional (I)|Residential (R),dd|cd,fire_protection_alarm_systems,fire_protection_engineer
+909.21.4.3,Elevator|BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Institutional (I),sd|dd|cd,mechanical_systems,mechanical_engineer
+909.21.4.4,Door|MechanicalSystem,Assembly (A)|Business (B)|Institutional (I)|Residential (R)|Mercantile (M),dd|cd,mechanical_systems,mechanical_engineer
+909.21.5,BuildingElementProxy,Assembly (A)|Business (B)|Institutional (I)|Residential (R)|Mercantile (M),dd|cd,fire_protection_alarm_systems,electrical_engineer
+909.21.6,CurtainWall|Door,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Institutional (I),sd|dd|cd,fire_protection_alarm_systems,fire_protection_engineer
+909.21.7,Wall|Door|Window,Assembly (A)|Business (B)|Institutional (I)|Residential (R)|Mercantile (M),cd|ca,fire_protection_alarm_systems,fire_protection_engineer
+909.21.8,BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Institutional (I),cd|ca,fire_protection_alarm_systems,fire_protection_engineer
+909.21.9,BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),cd,fire_protection_alarm_systems,fire_protection_engineer
+909.21.10,BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Institutional (I),dd|cd,fire_protection_alarm_systems,fire_protection_engineer
+909.21.11,CurtainWall|Door|Shaft|BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Institutional (I)|Residential (R),dd|cd,fire_resistance_smoke_protection,fire_protection_engineer
+910,,,,none,none
+910.1,Roof|Slab|Window,Assembly (A)|Factory and Industrial (F)|Storage (S),sd|dd|cd,fire_protection_alarm_systems,fire_protection_engineer
+910.2,Roof|Slab|BuildingElementProxy,Storage (S)|Factory and Industrial (F),sd|dd|cd,fire_protection_alarm_systems,fire_protection_engineer
+910.2.1,Roof|Slab|Wall,Factory and Industrial (F)|Storage (S),sd|dd|cd,fire_protection_alarm_systems,fire_protection_engineer
+910.2.2,Roof|Slab|Wall,Storage (S)|Factory and Industrial (F),sd|dd|cd,fire_protection_alarm_systems,fire_protection_engineer
+910.3,Roof|Slab,Factory and Industrial (F)|Storage (S)|Mercantile (M),sd|dd|cd,fire_protection_alarm_systems,fire_protection_engineer
+910.3.1,Roof|BuildingElementProxy,Factory and Industrial (F)|Storage (S)|Mercantile (M)|Assembly (A),dd|cd,fire_protection_alarm_systems,fire_protection_engineer
+910.3.2,Roof|Slab|Wall,Factory and Industrial (F)|Storage (S)|Mercantile (M),sd|dd|cd,fire_protection_alarm_systems,architect
+910.3.3,Roof|Slab|BuildingElementProxy,Factory and Industrial (F)|Storage (S)|Mercantile (M)|Assembly (A),sd|dd|cd,fire_protection_alarm_systems,fire_protection_engineer
+910.3.4,Roof|Window|ShadingDevice,Factory and Industrial (F)|Storage (S)|Mercantile (M),sd|dd|cd,fire_protection_alarm_systems,fire_protection_engineer
+910.3.5,Roof|Slab|BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Storage (S),sd|dd|cd,fire_protection_alarm_systems,fire_protection_engineer
+910.4,Wall|Roof|Door,Factory and Industrial (F)|Storage (S)|Assembly (A)|Mercantile (M),sd|dd|cd,fire_protection_alarm_systems,mechanical_engineer
+910.4.1,Wall|Roof|Slab,Assembly (A)|Business (B)|Educational (E)|Institutional (I)|Residential (R),sd|dd|cd,fire_protection_alarm_systems,fire_protection_engineer
+910.4.2,BuildingElementProxy,Assembly (A)|Business (B)|Institutional (I)|Residential (R)|Mercantile (M),sd|dd|cd,mechanical_systems,mechanical_engineer
+910.4.3,BuildingElementProxy|Roof|Wall,Assembly (A)|Business (B)|Institutional (I)|Mercantile (M)|Residential (R),sd|dd|cd,mechanical_systems,mechanical_engineer
+910.4.3.1,Window|Door|ShadingDevice,Assembly (A)|Business (B)|Factory and Industrial (F)|Institutional (I)|Residential (R),sd|dd|cd,mechanical_systems,mechanical_engineer
+910.4.4,BuildingElementProxy|MechanicalSystem,Assembly (A)|Business (B)|Residential (R)|Institutional (I)|Mercantile (M),dd|cd,mechanical_systems,mechanical_engineer
+910.4.5,Wall|Door|Slab,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Institutional (I),sd|dd|cd,fire_resistance_smoke_protection,architect
+910.4.6,BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Institutional (I),dd|cd,fire_protection_alarm_systems,electrical_engineer
+910.4.7,BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Institutional (I)|Residential (R),dd|cd,fire_protection_alarm_systems,mechanical_engineer
+910.5,Roof|Slab|BuildingElementProxy,Factory and Industrial (F)|Storage (S)|Mercantile (M),cd|ca,fire_protection_alarm_systems,fire_protection_engineer
+911,,,,none,none
+911.1,BuildingElementProxy|Door|Wall,Factory and Industrial (F)|Storage (S),sd|dd|cd,fire_protection_alarm_systems,fire_protection_engineer
+911.1.1,BuildingElementProxy|Door|Wall,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,fire_protection_alarm_systems,architect
+911.1.2,Wall|Slab|Door,Assembly (A)|Business (B)|Educational (E)|Institutional (I)|Residential (R),sd|dd|cd,fire_resistance_smoke_protection,architect
+911.1.3,BuildingElementProxy|Wall|Door,Factory and Industrial (F)|Storage (S),sd|dd|cd,fire_protection_alarm_systems,fire_protection_engineer
+911.1.4,BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Institutional (I)|Residential (R),sd|dd|cd,fire_protection_alarm_systems,fire_protection_engineer
+911.1.5,Room|BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|High Hazard (H),sd|dd|cd,fire_protection_alarm_systems,architect
+911.1.6,BuildingElementProxy|Door|Stair|CurtainWall|Slab,Assembly (A)|Business (B)|Residential (R)|Institutional (I),sd|dd|cd,fire_protection_alarm_systems,fire_protection_engineer
+911.1.7,Door|Wall,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|High Hazard (H),dd|cd,fire_protection_alarm_systems,architect
+912,,,,none,none
+912.1,BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),dd|cd,fire_protection_alarm_systems,fire_protection_engineer
+912.2,BuildingElementProxy|Pavement,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,fire_protection_alarm_systems,fire_protection_engineer
+912.2.1,BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|High Hazard (H),sd|dd|cd,fire_protection_alarm_systems,fire_protection_engineer
+912.2.2,Wall|Door,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|High Hazard (H),cd|ca,fire_protection_alarm_systems,fire_protection_engineer
+912.3,BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),dd|cd,fire_protection_alarm_systems,fire_protection_engineer
+912.4,Wall|Door|BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|High Hazard (H),sd|dd|cd|ca,fire_protection_alarm_systems,architect
+912.4.1,BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|High Hazard (H),cd,fire_protection_alarm_systems,fire_protection_engineer
+912.4.2,Wall|BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,fire_protection_alarm_systems,fire_protection_engineer
+912.4.3,Wall|Column|Barrier|BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Institutional (I),sd|dd|cd,fire_protection_alarm_systems,fire_protection_engineer
+912.5,BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|High Hazard (H),cd|ca,fire_protection_alarm_systems,fire_protection_engineer
+912.5.1,BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Institutional (I)|Mercantile (M),cd|ca,fire_protection_alarm_systems,fire_protection_engineer
+912.5.2,BuildingElementProxy|Wall,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|High Hazard (H),cd|ca,fire_protection_alarm_systems,fire_protection_engineer
+912.5.3,BuildingElementProxy|Wall|Door,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),cd|ca,fire_protection_alarm_systems,fire_protection_engineer
+912.5.4,Wall|Covering,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Institutional (I),cd|ca,fire_protection_alarm_systems,fire_protection_engineer
+912.6,PipeSegment,Assembly (A)|Business (B)|Educational (E)|Institutional (I)|Residential (R),sd|dd|cd,plumbing_systems,mechanical_engineer
+913,,,,none,none
+913.1,BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),dd|cd,fire_protection_alarm_systems,fire_protection_engineer
+913.2,BuildingElementProxy|Wall|Door|Slab,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,fire_protection_alarm_systems,fire_protection_engineer
+913.2.1,Wall|Slab|BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Institutional (I),sd|dd|cd,fire_resistance_smoke_protection,architect
+913.2.2,Wall|Slab,Assembly (A)|Business (B)|Residential (R)|Institutional (I),dd|cd,fire_protection_alarm_systems,fire_protection_engineer
+913.3,Slab|Wall|Roof|Door,Business (B)|Institutional (I)|Residential (R)|Assembly (A)|Storage (S),dd|cd,mechanical_systems,mechanical_engineer
+913.3.1,BuildingElementProxy|Covering|Slab,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|High Hazard (H),sd|dd|cd,fire_protection_alarm_systems,fire_protection_engineer
+913.4,Valve|BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),dd|cd,fire_protection_alarm_systems,fire_protection_engineer
+913.4.1,BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Institutional (I),dd|cd,fire_protection_alarm_systems,fire_protection_engineer
+913.5,BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),cd|ca,fire_protection_alarm_systems,fire_protection_engineer
+914,,,,none,none
+914.1,Wall|Door,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),cd,fire_protection_alarm_systems,architect
+914.1.1,Wall|Door|Window,Assembly (A)|Business (B)|Educational (E)|Institutional (I)|Residential (R),cd|ca,fire_protection_alarm_systems,architect
+914.1.2,Door|Window|Wall,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),cd|ca,fire_protection_alarm_systems,architect
+914.2,Door|Wall|BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),cd|ca,fire_protection_alarm_systems,architect
+915,,,,none,none
+915.1,Wall|BuildingElementProxy,Business (B)|Educational (E)|Institutional (I)|Assembly (A)|Residential (R),sd|dd|cd,fire_protection_alarm_systems,fire_protection_engineer
+915.1.1,BuildingElementProxy|Wall|Roof|Slab|Door,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Storage (S),sd|dd|cd,fire_protection_alarm_systems,fire_protection_engineer
+915.2,Wall|BuildingElementProxy,Residential (R)|Educational (E)|Institutional (I),sd|dd|cd,fire_protection_alarm_systems,fire_protection_engineer
+915.2.1,Wall|Slab|Door,Residential (R),sd|dd|cd,fire_protection_alarm_systems,architect
+915.2.2,Wall|Door|BuildingElementProxy,Residential (R)|Institutional (I)|Hospitality (R),sd|dd|cd,fire_protection_alarm_systems,architect
+915.2.3,BuildingElementProxy,Educational (E),sd|dd|cd,fire_protection_alarm_systems,fire_protection_engineer
+915.2.4,Covering|Slab,Residential (R)|Assembly (A)|Business (B),sd|dd|cd,fire_protection_alarm_systems,fire_protection_engineer
+915.2.5,Wall|Door|Slab,Residential (R)|Utility and Miscellaneous (U),sd|dd|cd,fire_protection_alarm_systems,architect
+915.2.6,Wall|Slab|Roof,Assembly (A)|Business (B)|Educational (E)|Residential (R),sd|dd|cd,fire_protection_alarm_systems,fire_protection_engineer
+915.3,BuildingElementProxy,Residential (R)|Institutional (I)|Educational (E)|Assembly (A),sd|dd|cd,fire_protection_alarm_systems,fire_protection_engineer
+915.3.1,Wall|BuildingElementProxy,Residential (R)|Institutional (I),sd|dd|cd,fire_protection_alarm_systems,fire_protection_engineer
+915.3.2,Wall|Door|BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Institutional (I),sd|dd|cd,fire_protection_alarm_systems,fire_protection_engineer
+915.3.3,Wall|BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,fire_protection_alarm_systems,fire_protection_engineer
+915.3.4,BuildingElementProxy|Wall|Slab,Residential (R)|Assembly (A)|Educational (E)|Institutional (I),sd|dd|cd,fire_protection_alarm_systems,fire_protection_engineer
+915.4,Wall|Slab|BuildingElementProxy,Residential (R)|Institutional (I)|Educational (E)|Assembly (A)|Business (B),sd|dd|cd,fire_protection_alarm_systems,fire_protection_engineer
+915.4.1,BuildingElementProxy,Residential (R)|Institutional (I)|Educational (E)|Assembly (A)|Business (B),sd|dd|cd,fire_protection_alarm_systems,electrical_engineer
+915.4.2,BuildingElementProxy,Residential (R)|Institutional (I)|Assembly (A)|Educational (E),sd|dd|cd,fire_protection_alarm_systems,fire_protection_engineer
+915.4.3,BuildingElementProxy,Residential (R)|Institutional (I)|Educational (E)|Assembly (A)|Business (B),sd|dd|cd,fire_protection_alarm_systems,fire_protection_engineer
+915.4.4,BuildingElementProxy,Residential (R)|Institutional (I)|Educational (E),sd|dd|cd,fire_protection_alarm_systems,fire_protection_engineer
+915.5,BuildingElementProxy,Residential (R)|Institutional (I)|Educational (E),sd|dd|cd,fire_protection_alarm_systems,fire_protection_engineer
+915.5.1,BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Institutional (I)|Residential (R),dd|cd,fire_protection_alarm_systems,fire_protection_engineer
+915.5.2,Wall|Slab|BuildingElementProxy,Residential (R)|Institutional (I)|Educational (E)|Assembly (A)|Business (B),sd|dd|cd,fire_protection_alarm_systems,fire_protection_engineer
+915.5.3,BuildingElementProxy,Residential (R)|Institutional (I)|Educational (E)|Assembly (A),sd|dd|cd,fire_protection_alarm_systems,fire_protection_engineer
+915.5.4,BuildingElementProxy|Covering,Assembly (A)|Business (B)|Educational (E)|Institutional (I)|Residential (R),sd|dd|cd,fire_protection_alarm_systems,fire_protection_engineer
+915.5.5,Covering|Plate,Assembly (A)|Business (B)|Educational (E)|Institutional (I)|Residential (R),sd|dd|cd,fire_protection_alarm_systems,fire_protection_engineer
+915.6,BuildingElementProxy,Residential (R)|Institutional (I)|Educational (E)|Assembly (A),cd|ca,fire_protection_alarm_systems,fire_protection_engineer
+916,,,,none,none
+916.1,BuildingElementProxy,Factory and Industrial (F)|High Hazard (H)|Business (B),sd|dd|cd,fire_protection_alarm_systems,fire_protection_engineer
+916.2,BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),cd,fire_protection_alarm_systems,fire_protection_engineer
+916.2.1,BuildingElementProxy,Factory and Industrial (F)|High Hazard (H)|Business (B)|Storage (S),cd,fire_protection_alarm_systems,fire_protection_engineer
+916.3,BuildingElementProxy,Factory and Industrial (F)|High Hazard (H)|Business (B)|Storage (S),sd|dd|cd,hazardous_materials,mechanical_engineer
+916.4,BuildingElementProxy,Factory and Industrial (F)|High Hazard (H)|Business (B)|Assembly (A)|Institutional (I),dd|cd,electrical_systems,electrical_engineer
+916.5,BuildingElementProxy,Factory and Industrial (F)|High Hazard (H)|Business (B),dd|cd,fire_protection_alarm_systems,fire_protection_engineer
+916.6,Wall|BuildingElementProxy,Assembly (A)|Business (B)|Residential (R)|Mercantile (M)|Factory and Industrial (F),sd|dd|cd,fire_protection_alarm_systems,fire_protection_engineer
+916.7,BuildingElementProxy,High Hazard (H)|Factory and Industrial (F)|Business (B),sd|dd|cd,hazardous_materials,fire_protection_engineer
+916.8,BuildingElementProxy,Factory and Industrial (F)|High Hazard (H)|Business (B)|Mercantile (M)|Storage (S),sd|dd|cd,fire_protection_alarm_systems,fire_protection_engineer
+916.9,Covering,Factory and Industrial (F)|High Hazard (H)|Business (B),dd|cd,fire_protection_alarm_systems,fire_protection_engineer
+916.10,BuildingElementProxy,Assembly (A)|Business (B)|Residential (R)|Institutional (I)|Educational (E),dd|cd,fire_protection_alarm_systems,fire_protection_engineer
+916.11,BuildingElementProxy,Factory and Industrial (F)|High Hazard (H)|Institutional (I)|Residential (R)|Business (B),cd|ca,fire_protection_alarm_systems,fire_protection_engineer
+917,,,,none,none
+917.1,BuildingElementProxy|Wall|Door,Educational (E)|Assembly (A),sd|dd|cd,fire_protection_alarm_systems,fire_protection_engineer
+917.2,BuildingElementProxy,Educational (E),sd|dd|cd,fire_protection_alarm_systems,fire_protection_engineer
+918,,,,none,none
+918.1,BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Institutional (I),sd|dd|cd,fire_protection_alarm_systems,fire_protection_engineer

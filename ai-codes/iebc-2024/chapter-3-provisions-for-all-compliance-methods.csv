@@ -1,0 +1,80 @@
+id,ifc_type,occupancy,design_phase,code_category,primary_responsibility
+3,BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,occupancy_classification,architect
+301,,,,none,none
+301.1,Wall|Roof|Slab,Assembly (A)|Business (B)|Residential (R),sd|dd|cd,occupancy_classification,architect
+301.1.1,Stair|Railing|Slab,Assembly (A),sd|dd|cd,means_of_egress,architect
+301.2,Wall|Slab|Roof,Assembly (A)|Business (B)|Residential (R),cd|ca,special_construction,architect
+301.3,Wall|Column|Beam|Slab|BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Mercantile (M),sd|dd|cd,occupancy_classification,architect
+301.3.1,Wall|Door|Slab,Assembly (A)|Business (B)|Educational (E)|Mercantile (M)|Residential (R),sd|dd|cd,occupancy_classification,architect
+301.3.2,Wall|Door|Window,Assembly (A)|Business (B)|Mercantile (M)|Residential (R),sd|dd|cd,occupancy_classification,architect
+301.3.3,BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,occupancy_classification,architect
+301.4,BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,special_construction,architect
+302,,,,none,none
+302.1,BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Mercantile (M),cd|ca,fire_resistance_smoke_protection,architect
+302.2,BuildingElementProxy,Assembly (A)|Business (B)|Residential (R),sd|dd|cd,occupancy_classification,architect
+302.2.1,BuildingElementProxy,Institutional (I),sd|dd|cd,occupancy_classification,architect
+302.3,Wall|Roof|Slab|Door|Window,Assembly (A)|Business (B)|Educational (E),cd|ca,finishes_materials,architect
+302.4,Wall|Slab|Roof|Door|Window,Assembly (A)|Business (B)|Residential (R)|Educational (E)|Mercantile (M),sd|dd|cd,finishes_materials,architect
+302.4.1,Beam|Column|Footing|Slab|Wall,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Mercantile (M),sd|dd|cd,structural_design,structural_engineer
+302.5,BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Mercantile (M),concept|sd|dd,occupancy_classification,architect
+303,,,,none,none
+303.1,Wall|Roof|Slab|Door|Window,Assembly (A)|Educational (E)|Institutional (I)|Residential (R),sd|dd|cd,special_construction,architect
+303.1.1,Wall|Roof|Door|Slab|BuildingElementProxy,Educational (E)|Institutional (I),sd|dd|cd,special_construction,architect
+303.2,Wall|Roof|Door|Slab|BuildingElementProxy,Educational (E),sd|dd|cd,special_construction,architect
+303.2.1,BuildingElementProxy,Educational (E),sd|dd|cd,occupancy_classification,architect
+303.3,BuildingElementProxy|Wall|Roof,Assembly (A)|Institutional (I),sd|dd|cd,occupancy_classification,architect
+304,,,,none,none
+304.1,Slab|Beam|Column,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,structural_design,structural_engineer
+304.2,Roof|Wall|Slab,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,structural_design,structural_engineer
+304.3,Wall|Beam|Column|Slab|Footing,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Institutional (I),sd|dd|cd,structural_design,structural_engineer
+304.3.1,Wall|Column|Beam|Slab|Footing,Assembly (A)|Business (B)|Educational (E)|Institutional (I)|Residential (R),sd|dd|cd,structural_design,structural_engineer
+304.3.2,Wall|Slab|Column|Footing|BuildingElementProxy,Assembly (A)|Business (B)|Residential (R)|Educational (E),sd|dd|cd,structural_design,structural_engineer
+305,,,,none,none
+305.1,Slab|Beam|Column|Footing|Wall,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),cd|ca,structural_design,structural_engineer
+306,,,,none,none
+306.1,Wall|Slab|Roof|Window|Door,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Mercantile (M),sd|dd|cd,occupancy_classification,architect
+306.2,Door|Ramp|RampFlight|Stair|Slab,Assembly (A)|Business (B)|Educational (E)|Institutional (I)|Residential (R),sd|dd|cd|ca,accessibility,architect
+306.2.1,Door|Ramp|Stair|Slab|Elevator,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Institutional (I),sd|dd|cd,accessibility,architect
+306.3,Door|Ramp|Stair|Slab|Elevator,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,accessibility,architect
+306.4,Door|Ramp|Stair|Slab|Window,Assembly (A)|Business (B)|Educational (E)|Institutional (I)|Mercantile (M),sd|dd|cd,accessibility,architect
+306.5,Wall|Door|Slab,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Mercantile (M),sd|dd|cd,occupancy_classification,architect
+306.6,Wall|Door|Window,Residential (R)|Institutional (I),sd|dd|cd,accessibility,architect
+306.6.1,Door|Ramp|Stair|RampFlight,Assembly (A)|Business (B)|Educational (E)|Institutional (I)|Residential (R),sd|dd|cd,accessibility,architect
+306.6.1.1,Elevator|Stair|Door|Wall,Assembly (A)|Business (B)|Educational (E)|Institutional (I)|Residential (R),sd|dd|cd,accessibility,architect
+306.7,Door|Ramp|Stair|Slab|Wall,Assembly (A)|Business (B)|Educational (E)|Mercantile (M)|Residential (R),sd|dd|cd,accessibility,architect
+306.7.1,Door|Ramp|Stair|Slab|Toilet,Assembly (A)|Business (B)|Educational (E)|Institutional (I)|Mercantile (M),sd|dd|cd,accessibility,architect
+306.7.2,Door|Ramp|RampFlight|Stair|StairFlight,Assembly (A)|Business (B)|Educational (E)|Institutional (I)|Mercantile (M),sd|dd|cd,accessibility,architect
+306.7.3,Door|Slab|Wall|Window,Residential (R),sd|dd|cd,accessibility,architect
+306.7.4,BuildingElementProxy,Residential (R)|Institutional (I),sd|dd|cd,accessibility,architect
+306.7.5,Door,Assembly (A)|Business (B)|Educational (E)|Mercantile (M)|Residential (R),sd|dd|cd,accessibility,architect
+306.7.6,Kerb|Ramp|Pavement,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|High Hazard (H),sd|dd|cd,accessibility,architect
+306.7.7,Elevator,Assembly (A)|Business (B)|Educational (E)|Institutional (I)|Residential (R),cd|ca,elevators_conveying_systems,elevator_consultant
+306.7.8,Elevator,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Institutional (I),sd|dd|cd,accessibility,architect
+306.7.9,Elevator|Ramp,Assembly (A)|Business (B)|Educational (E)|Institutional (I)|Residential (R),sd|dd|cd,accessibility,architect
+306.7.10,Stair|Ramp|Elevator,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Institutional (I),sd|dd|cd,accessibility,architect
+306.7.11,Door|Ramp|Stair|Elevator|RampFlight,Residential (R)|Institutional (I)|Assembly (A)|Business (B),sd|dd|cd,accessibility,architect
+306.7.11.1,Door|Slab|Wall,Institutional (I)|Residential (R),sd|dd|cd,accessibility,architect
+306.7.11.2,Door|Slab|Wall,Residential (R),sd|dd|cd,accessibility,architect
+306.7.11.3,BuildingElementProxy|Door|Window,Institutional (I)|Residential (R),sd|dd|cd,accessibility,architect
+306.7.12,Door|Slab|Wall,Assembly (A)|Business (B)|Educational (E)|Institutional (I)|Mercantile (M),sd|dd|cd,accessibility,architect
+306.7.13,Door|Wall|Slab|Covering,Assembly (A)|Business (B)|Institutional (I)|Mercantile (M)|Residential (R),sd|dd|cd,accessibility,architect
+306.7.14,Door|Wall|Slab,Assembly (A)|Mercantile (M),sd|dd|cd,accessibility,architect
+306.7.15,Door|Slab|Wall|Covering,Assembly (A)|Business (B)|Educational (E)|Institutional (I)|Mercantile (M),sd|dd|cd,accessibility,architect
+306.7.16,Covering|Door|Wall,Assembly (A)|Business (B)|Educational (E)|Institutional (I)|Mercantile (M),sd|dd|cd,accessibility,architect
+306.7.17,BuildingElementProxy|StructuralElement|TrackElement,Assembly (A),sd|dd|cd,special_construction,architect
+306.7.18,Door|Ramp|RampFlight|Stair|Toilet,Assembly (A)|Business (B)|Educational (E)|Institutional (I)|Residential (R),sd|dd|cd,accessibility,architect
+306.7.18.1,Ramp|Kerb|Pavement|Door,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,accessibility,architect
+306.7.18.2,Ramp|RampFlight|Stair|Door|Slab,Assembly (A)|Business (B)|Educational (E)|Mercantile (M)|Residential (R),sd|dd|cd,accessibility,architect
+306.7.18.3,Door|Wall|Sign,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Mercantile (M),sd|dd|cd,accessibility,architect
+306.7.18.4,Door|Slab|Wall,Assembly (A)|Business (B)|Educational (E)|Institutional (I)|Mercantile (M),sd|dd|cd,accessibility,architect
+306.7.18.5,Slab|Wall|Door,Assembly (A)|Business (B)|Educational (E)|Institutional (I)|Residential (R),sd|dd|cd,accessibility,architect
+306.7.18.6,Wall|Door|Slab,Residential (R),sd|dd|cd,accessibility,architect
+306.7.18.7,Door|Slab|Stair|Wall|Window,Residential (R)|Institutional (I),sd|dd|cd,accessibility,architect
+307,,,,none,none
+307.1,BuildingElementProxy,Residential (R)|Institutional (I),sd|dd|cd,fire_protection_alarm_systems,architect
+308,,,,none,none
+308.1,BuildingElementProxy,Institutional (I)|Residential (R)|Educational (E)|Assembly (A)|Business (B),sd|dd|cd,fire_protection_alarm_systems,architect
+309,,,,none,none
+309.1,BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,occupancy_classification,architect
+309.2,Wall|BuildingElementProxy|Covering|CurtainWall,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,assemblies_envelope,architect
+309.2.1,Wall|Covering|BuildingElementProxy,Business (B)|Residential (R)|Institutional (I)|Assembly (A)|Mercantile (M),sd|dd|cd,fire_protection_alarm_systems,architect

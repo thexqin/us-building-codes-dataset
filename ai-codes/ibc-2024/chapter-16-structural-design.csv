@@ -1,0 +1,177 @@
+id,ifc_type,occupancy,design_phase,code_category,primary_responsibility
+16,Beam|Column|Slab|Wall|Footing,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Institutional (I),sd|dd|cd,structural_design,structural_engineer
+1601,,,,none,none
+1601.1,Wall|Beam|Column|Slab|Roof,Assembly (A)|Business (B)|Residential (R)|Educational (E)|Mercantile (M),sd|dd|cd,structural_design,structural_engineer
+1602,,,,none,none
+1602.1,Slab|Roof|Wall|Column|Footing,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,structural_design,structural_engineer
+1603,,,,none,none
+1603.1,Beam|Column|Footing|Slab|Wall,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Storage (S),sd|dd|cd,structural_design,structural_engineer
+1603.1.1,Slab|Beam|Column,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Mercantile (M),sd|dd|cd,structural_design,structural_engineer
+1603.1.2,Roof|Slab,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Mercantile (M),sd|dd|cd,structural_design,structural_engineer
+1603.1.3,Roof|Slab,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,structural_design,structural_engineer
+1603.1.4,Wall|Roof|Slab|Window|Door,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,structural_design,structural_engineer
+1603.1.5,Wall|Column|Beam|Slab|Footing,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Institutional (I),sd|dd|cd,structural_design,structural_engineer
+1603.1.6,Footing|Slab|DeepFoundation|EarthworksElement,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|High Hazard (H),sd|dd|cd,structural_design,civil_engineer
+1603.1.7,Slab|Footing|Wall,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,site_planning,civil_engineer
+1603.1.8,Slab|Roof|Beam|Column,Business (B)|Educational (E)|Assembly (A)|Factory and Industrial (F)|Storage (S),sd|dd|cd,structural_design,structural_engineer
+1603.1.8.1,Roof|Slab|BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Utility and Miscellaneous (U),sd|dd|cd,structural_design,structural_engineer
+1603.1.9,Roof|Slab|Drain|Covering,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,structural_design,structural_engineer
+1604,,,,none,none
+1604.1,Wall|Beam|Column|Slab|Roof,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,structural_design,structural_engineer
+1604.2,Wall|Beam|Column|Slab|Roof,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Factory and Industrial (F),sd|dd|cd,structural_design,structural_engineer
+1604.3,Roof|Slab|Wall|Beam|Column,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Institutional (I),sd|dd|cd,structural_design,structural_engineer
+1604.3.1,Beam|Column|Slab|Roof|Wall,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,structural_design,structural_engineer
+1604.3.2,Slab|Beam|Column|Wall,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,structural_design,structural_engineer
+1604.3.3,Beam|Column|Slab|Roof|BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,structural_design,structural_engineer
+1604.3.4,Wall|Column|Beam|Slab,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Institutional (I),sd|dd|cd,structural_design,structural_engineer
+1604.3.5,Beam|Column|Slab|Plate|Railing,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Mercantile (M),sd|dd|cd,structural_design,structural_engineer
+1604.3.6,Slab|Beam|Column|Wall|Roof,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,structural_design,structural_engineer
+1604.3.7,Beam|Column|BuildingElementProxy|CurtainWall,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,structural_design,structural_engineer
+1604.4,Beam|Column|Slab|Wall|Roof,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,structural_design,structural_engineer
+1604.5,BuildingElementProxy,Assembly (A)|Educational (E)|Institutional (I)|Storage (S)|Utility and Miscellaneous (U),sd|dd|cd,occupancy_classification,architect
+1604.5.1,Wall|Slab|Door,Assembly (A)|Business (B)|Educational (E)|Residential (R),concept|sd|dd|cd,occupancy_classification,architect
+1604.5.2,Roof|BuildingElementProxy|Slab,Residential (R)|Business (B)|Institutional (I)|Utility and Miscellaneous (U),sd|dd|cd,structural_design,structural_engineer
+1604.6,Beam|Column|Slab|Wall,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Industrial (F),cd|ca,structural_design,structural_engineer
+1604.7,Wall|Beam|Column|Slab|Roof,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Factory and Industrial (F),dd|cd,structural_design,structural_engineer
+1604.8,Wall|Column|Beam|Footing,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,structural_design,structural_engineer
+1604.8.1,Roof|Wall|Column|Footing,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Factory and Industrial (F),sd|dd|cd,structural_design,structural_engineer
+1604.8.2,Wall|Column|Beam|Slab|Footing,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Storage (S),sd|dd|cd,structural_design,structural_engineer
+1604.8.3,Slab|Beam|Column,Residential (R)|Assembly (A)|Business (B)|Mercantile (M),sd|dd|cd,structural_design,structural_engineer
+1604.9,Wall|Beam|Column|Slab|Footing,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Institutional (I),sd|dd|cd,structural_design,structural_engineer
+1604.10,Wall|Roof|Slab|Door,Assembly (A)|Educational (E)|Institutional (I),sd|dd|cd,structural_design,structural_engineer
+1605,,,,none,none
+1605.1,Wall|Beam|Column|Slab|Roof,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Storage (S),sd|dd|cd,structural_design,structural_engineer
+1605.1.1,Wall|Slab|Footing|Column|DeepFoundation,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,structural_design,structural_engineer
+1605.2,Slab|Column|Beam|Footing|Wall,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Storage (S),sd|dd|cd,structural_design,structural_engineer
+1606,,,,none,none
+1606.1,Slab|Wall|Column|Beam|Roof,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,structural_design,structural_engineer
+1606.2,Wall|Beam|Slab|Roof|Column,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Storage (S),sd|dd|cd,structural_design,structural_engineer
+1606.3,Slab|Beam|Column|Roof,Business (B)|Residential (R)|Assembly (A),sd|dd|cd,structural_design,structural_engineer
+1606.4,Roof|Plate|BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,structural_design,structural_engineer
+1606.5,Roof|Slab,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Mercantile (M),sd|dd|cd,structural_design,structural_engineer
+1607,,,,none,none
+1607.1,Slab|Beam|Column|Roof|Stair,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Storage (S),sd|dd|cd,structural_design,structural_engineer
+1607.2,Slab|Beam|Column|Wall,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,structural_design,structural_engineer
+1607.3,Slab|Roof|Stair|Ramp|Beam,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,structural_design,structural_engineer
+1607.3.1,Slab|Beam|Column,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Storage (S),sd|dd|cd,structural_design,structural_engineer
+1607.3.2,Roof|Beam|Slab|Column,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,structural_design,structural_engineer
+1607.4,Slab|Roof|Beam|Column|Footing,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,structural_design,structural_engineer
+1607.5,Slab|Wall,Business (B)|Assembly (A),sd|dd|cd,structural_design,structural_engineer
+1607.6,Slab|Covering|BuildingElementProxy,Utility and Miscellaneous (U),sd|dd|cd,special_construction,architect
+1607.6.1,Slab|Beam|Column,Utility and Miscellaneous (U),sd|dd|cd,structural_design,structural_engineer
+1607.7,Slab|Beam|Column|Footing,Storage (S)|Utility and Miscellaneous (U),sd|dd|cd,structural_design,structural_engineer
+1607.8,Slab|Pavement|Footing,Storage (S)|Utility and Miscellaneous (U)|Factory and Industrial (F),sd|dd|cd,structural_design,structural_engineer
+1607.8.1,Slab|Beam|Column|Footing|Ramp,Utility and Miscellaneous (U)|Business (B)|Assembly (A),sd|dd|cd,structural_design,structural_engineer
+1607.8.2,Slab|Footing|Ramp,Assembly (A)|Business (B)|Institutional (I)|Mercantile (M)|Residential (R),sd|dd|cd,structural_design,structural_engineer
+1607.8.3,Slab|Beam|Column,Storage (S)|Utility and Miscellaneous (U),sd|dd|cd,structural_design,structural_engineer
+1607.8.4,Slab|Footing|Beam,Factory and Industrial (F)|Storage (S)|Mercantile (M),sd|dd|cd,structural_design,structural_engineer
+1607.8.4.1,Slab|Beam|Column|Footing,Assembly (A)|Business (B)|Factory and Industrial (F)|Storage (S)|Utility and Miscellaneous (U),sd|dd|cd,structural_design,structural_engineer
+1607.8.5,Slab|Ramp|Wall,Storage (S)|Utility and Miscellaneous (U),cd|ca,site_planning,owner
+1607.9,Railing|Wall|Slab,Assembly (A)|Business (B)|Institutional (I)|Residential (R)|Educational (E),sd|dd|cd,structural_design,structural_engineer
+1607.9.1,Railing|Member|BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Institutional (I),sd|dd|cd,structural_design,structural_engineer
+1607.9.1.1,Railing,Institutional (I)|Factory and Industrial (F)|High Hazard (H)|Storage (S)|Residential (R),sd|dd|cd,structural_design,structural_engineer
+1607.9.1.2,Railing|Member|Plate,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Institutional (I),sd|dd|cd,structural_design,structural_engineer
+1607.9.2,Wall|BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Institutional (I)|Residential (R),sd|dd|cd,structural_design,architect
+1607.10,Stair|Railing,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Utility and Miscellaneous (U),sd|dd|cd,structural_design,structural_engineer
+1607.11,Railing|Slab|Wall,Assembly (A)|Business (B)|Residential (R)|Storage (S),sd|dd|cd,structural_design,structural_engineer
+1607.12,Slab|Beam|Column|Footing,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Industrial (F),sd|dd|cd,structural_design,structural_engineer
+1607.12.1,Beam|Column|Slab|Wall,Assembly (A)|Business (B)|Educational (E)|Institutional (I)|Residential (R),sd|dd|cd,structural_design,structural_engineer
+1607.12.2,Slab|Beam|Column|Footing,Factory and Industrial (F)|Business (B)|Utility and Miscellaneous (U),sd|dd|cd,structural_design,structural_engineer
+1607.12.3,Beam|Column|Slab|Roof,Business (B)|Educational (E)|Residential (R)|Institutional (I)|Assembly (A),sd|dd|cd,structural_design,structural_engineer
+1607.12.4,Beam|Column|Slab|Roof,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Institutional (I),sd|dd|cd,structural_design,structural_engineer
+1607.13,Slab|Beam|Column|Roof|Footing,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Storage (S),sd|dd|cd,structural_design,structural_engineer
+1607.13.1,Column|Beam|Slab,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,structural_design,structural_engineer
+1607.13.1.1,Slab,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,structural_design,structural_engineer
+1607.13.1.2,Beam|Slab|Column|Footing,Storage (S)|Business (B)|Assembly (A)|Residential (R),sd|dd|cd,structural_design,structural_engineer
+1607.13.1.3,Slab|Beam|Column,Storage (S)|Utility and Miscellaneous (U),sd|dd|cd,structural_design,structural_engineer
+1607.13.2,Slab|Beam|Column|Wall|Footing,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,structural_design,structural_engineer
+1607.14,Roof|Slab|Covering,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Mercantile (M),sd|dd|cd,structural_design,structural_engineer
+1607.14.1,Roof|Slab|Covering,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,structural_design,structural_engineer
+1607.14.2,Roof|Slab,Assembly (A)|Business (B)|Mercantile (M)|Residential (R),sd|dd|cd,structural_design,structural_engineer
+1607.15,Beam|Member|BuildingElementProxy,Factory and Industrial (F)|Storage (S),sd|dd|cd,structural_design,structural_engineer
+1607.16,Wall|Covering,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,structural_design,structural_engineer
+1607.16.1,Wall|Covering,Assembly (A)|Business (B)|Educational (E)|Institutional (I)|Mercantile (M),sd|dd|cd,structural_design,structural_engineer
+1607.16.2,Wall|Footing|Column,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,structural_design,structural_engineer
+1607.17,Slab|Covering,Assembly (A)|Business (B),sd|dd|cd,structural_design,structural_engineer
+1607.18,Stair|Slab|Railing,Assembly (A),sd|dd|cd,structural_design,structural_engineer
+1607.18.1,Slab|Beam|Column,Assembly (A),sd|dd|cd,structural_design,structural_engineer
+1607.19,Slab|Pavement|Footing,Assembly (A)|Business (B)|Mercantile (M)|Storage (S)|Utility and Miscellaneous (U),sd|dd|cd,structural_design,structural_engineer
+1607.19.1,Slab|Beam|Column|Footing,Assembly (A)|Business (B)|Factory and Industrial (F)|Mercantile (M)|Storage (S),sd|dd|cd,structural_design,structural_engineer
+1607.19.2,Slab|Beam|Footing,Business (B)|Educational (E)|Assembly (A)|Factory and Industrial (F)|Storage (S),sd|dd|cd,structural_design,structural_engineer
+1607.20,Stair|StairFlight|Slab,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,structural_design,structural_engineer
+1607.21,Slab|Roof,Residential (R),sd|dd|cd,structural_design,structural_engineer
+1607.21.1,Slab|Roof|Beam,Residential (R),sd|dd|cd,structural_design,structural_engineer
+1607.21.2,Slab|Roof|Beam,Residential (R),sd|dd|cd,structural_design,structural_engineer
+1607.21.3,Slab|Stair|StairFlight,Residential (R)|Assembly (A)|Business (B),sd|dd|cd,structural_design,structural_engineer
+1607.22,Roof|Slab|Beam|Column,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,structural_design,structural_engineer
+1607.22.1,Roof|Slab|Beam,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,structural_design,structural_engineer
+1607.22.2,Roof|Slab,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,structural_design,structural_engineer
+1607.22.3,Roof|Beam|Slab|Column|BuildingElementProxy,Business (B)|Educational (E)|Assembly (A)|Factory and Industrial (F)|Mercantile (M),sd|dd|cd,structural_design,structural_engineer
+1607.22.4,BuildingElementProxy|Slab|StructuralDesign,Utility and Miscellaneous (U),sd|dd|cd,structural_design,structural_engineer
+1607.22.5,Roof|Slab|BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,structural_design,structural_engineer
+1608,,,,none,none
+1608.1,Roof|Slab|Beam|Column,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,structural_design,structural_engineer
+1608.2,Roof|Slab,Assembly (A)|Business (B)|Educational (E)|Residential (R),sd|dd|cd,structural_design,structural_engineer
+1608.2.1,Roof|Slab|Beam|Column,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,structural_design,structural_engineer
+1608.3,Roof|Slab,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Mercantile (M),sd|dd|cd,structural_design,structural_engineer
+1609,,,,none,none
+1609.1,Wall|Roof|Slab|Column|Beam,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Storage (S),sd|dd|cd,structural_design,structural_engineer
+1609.1.1,Wall|Roof|Slab|Column,Residential (R)|Business (B)|Assembly (A)|Institutional (I),sd|dd|cd,structural_design,structural_engineer
+1609.1.1.1,Wall|Roof|Slab,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Storage (S),sd|dd|cd,structural_design,structural_engineer
+1609.2,Wall|Window|Door|Covering,Residential (R)|Business (B)|Assembly (A),sd|dd|cd,assemblies_envelope,architect
+1609.2.1,ShadingDevice|Covering|BuildingElementProxy,Business (B)|Assembly (A)|Educational (E)|Residential (R)|Factory and Industrial (F),sd|dd|cd,mechanical_systems,mechanical_engineer
+1609.2.2,Door,Assembly (A)|Business (B)|Factory and Industrial (F)|Mercentile (M)|Residential (R),sd|dd|cd,assemblies_envelope,architect
+1609.3,Wall|Roof|Slab|Column|Beam,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Institutional (I),sd|dd|cd,structural_design,structural_engineer
+1609.3.1,Wall|Roof|Slab|Window|Door,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Mercantile (M),sd|dd|cd,structural_design,structural_engineer
+1609.4,Wall|Roof|Slab|Column|BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Institutional (I),sd|dd|cd,site_planning,civil_engineer
+1609.4.1,Wall|Roof|Slab|Column|CurtainWall,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Storage (S),sd|dd|cd,structural_design,structural_engineer
+1609.4.2,Wall|Roof|Slab,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Mercantile (M),sd|dd|cd,structural_design,structural_engineer
+1609.4.3,Roof|Wall|Slab,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Storage (S),sd|dd|cd,structural_design,structural_engineer
+1609.5,Wall|Roof|Slab|Column|Footing,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Institutional (I),sd|dd|cd,structural_design,structural_engineer
+1609.6,Roof|Slab,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Mercantile (M),sd|dd|cd,structural_design,structural_engineer
+1609.6.1,Slab|Roof,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Storage (S),sd|dd|cd,structural_design,structural_engineer
+1609.6.2,Roof|Covering|Slab,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Institutional (I),sd|dd|cd,assemblies_envelope,architect
+1609.6.2.1,Roof|Covering,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|High Hazard (H),dd|cd,assemblies_envelope,architect
+1609.6.3,Roof|Slab,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Mercantile (M),sd|dd|cd,structural_design,structural_engineer
+1609.6.3.1,Roof|Slab|Covering,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Storage (S),sd|dd|cd,structural_design,structural_engineer
+1609.6.3.2,Roof|Covering,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,structural_design,structural_engineer
+1609.7,Elevators|BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Institutional (I),sd|dd|cd,elevators_conveying_systems,elevator_consultant
+1610,,,,none,none
+1610.1,Wall|Footing|Slab,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Storage (S),sd|dd|cd,structural_design,structural_engineer
+1610.2,Slab|Footing|DeepFoundation,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|High Hazard (H),sd|dd|cd,structural_design,structural_engineer
+1611,,,,none,none
+1611.1,Roof|Slab,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Storage (S),sd|dd|cd,structural_design,structural_engineer
+1611.2,Roof|Slab|Beam|Column,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,structural_design,structural_engineer
+1611.3,Roof|Slab,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Mercantile (M),sd|dd|cd,structural_design,structural_engineer
+1612,,,,none,none
+1612.1,Wall|Slab|Footing|Column,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Storage (S),sd|dd|cd,site_planning,civil_engineer
+1612.2,BuildingElementProxy|Slab|Column|Wall|Ramp,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,site_planning,architect
+1612.3,Slab|Wall|Footing,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Utility and Miscellaneous (U),sd|dd|cd,site_planning,civil_engineer
+1612.3.1,Slab|Wall|Footing|Column,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,site_planning,civil_engineer
+1612.3.2,Footing|Slab|Wall|BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,site_planning,civil_engineer
+1612.4,Slab|Wall|Column|Footing|BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,site_planning,architect
+1613,,,,none,none
+1613.1,Wall|Column|Beam|Slab|Footing,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Storage (S),sd|dd|cd,structural_design,structural_engineer
+1613.2,BuildingElementProxy|Slab|Wall|Roof|Column,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,structural_design,structural_engineer
+1613.3,Wall|Column|Beam|Slab,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Institutional (I),sd|dd|cd,structural_design,structural_engineer
+1613.4,Roof|BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Mercantile (M)|Residential (R),sd|dd|cd,special_construction,structural_engineer
+1613.5,Elevators|BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Institutional (I)|Residential (R),sd|dd|cd,elevators_conveying_systems,elevator_consultant
+1613.6,BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|High Hazard (H),sd|dd|cd,fire_protection_alarm_systems,fire_protection_engineer
+1614,,,,none,none
+1614.1,Roof|Member|Column|Beam|BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Institutional (I)|Residential (R),sd|dd|cd,structural_design,structural_engineer
+1615,,,,none,none
+1615.1,Wall|Slab|Column|Footing|Roof,Assembly (A)|Educational (E)|Institutional (I)|Residential (R),sd|dd|cd,structural_design,structural_engineer
+1616,,,,none,none
+1616.1,Wall|Bearing|Column|Beam,Assembly (A)|Business (B)|Institutional (I)|Residential (R),sd|dd|cd,structural_design,structural_engineer
+1616.2,Beam|Column|Slab|Wall|Footing,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,structural_design,structural_engineer
+1616.2.1,Column|Beam|Slab|Footing,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,structural_design,structural_engineer
+1616.2.2,Beam|Column|Slab|Member|Footing,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,structural_design,structural_engineer
+1616.2.2.1,Column,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,structural_design,structural_engineer
+1616.2.2.2,Beam|Member,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,structural_design,structural_engineer
+1616.3,Wall|Slab|Beam|Column,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Institutional (I),sd|dd|cd,structural_design,structural_engineer
+1616.3.1,Wall|Bearing,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,structural_design,structural_engineer
+1616.3.2,Wall|Bearing,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Institutional (I),sd|dd|cd,structural_design,structural_engineer
+1616.3.2.1,Slab|Wall|Beam|Member,Business (B)|Residential (R)|Educational (E)|Assembly (A),sd|dd|cd,structural_design,structural_engineer
+1616.3.2.2,Slab|Wall|Beam|Member,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Institutional (I),sd|dd|cd,structural_design,structural_engineer
+1616.3.2.3,Slab|Wall|Member|Roof,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,structural_design,structural_engineer
+1616.3.2.4,Wall|Bearing,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,structural_design,structural_engineer

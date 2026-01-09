@@ -1,0 +1,22 @@
+id,ifc_type,occupancy,design_phase,code_category,primary_responsibility
+32,Wall|Slab|Roof|BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Mercantile (M)|Residential (R),sd|dd|cd,site_planning,architect
+3201,,,,none,none
+3201.1,Wall|Balcony|Roof|BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Mercantile (M),sd|dd|cd,site_planning,architect
+3201.2,Wall|Roof|Window,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Mercantile (M),sd|dd|cd,site_planning,architect
+3201.3,BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Mercantile (M)|Institutional (I),concept|sd|dd|cd,site_planning,architect
+3201.4,Roof|Covering|Slab,Assembly (A)|Business (B)|Educational (E)|Mercantile (M)|Residential (R),sd|dd|cd,plumbing_systems,architect
+3202,,,,none,none
+3202.1,Wall|Slab|Footing|BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Mercantile (M)|Residential (R),sd|dd|cd,site_planning,architect
+3202.1.1,Footing|Wall,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Mercantile (M),sd|dd|cd,site_planning,architect
+3202.1.2,Slab|Wall|BuildingElementProxy,Business (B)|Residential (R)|Assembly (A),sd|dd|cd,site_planning,architect
+3202.1.3,Covering|Railing|Slab,Assembly (A)|Business (B)|Educational (E)|Mercantile (M)|Residential (R),sd|dd|cd,accessibility,architect
+3202.2,Door|Window|Wall|Slab,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,site_planning,architect
+3202.2.1,Stair|StairFlight|Railing|Column,Assembly (A)|Business (B)|Educational (E)|Mercantile (M)|Residential (R),sd|dd|cd,means_of_egress,architect
+3202.2.2,Column|Wall|BuildingElementProxy|Covering,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,assemblies_envelope,architect
+3202.2.3,ShadingDevice,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Institutional (I),sd|dd|cd,site_planning,architect
+3202.3,Wall|Covering|ShadingDevice|Roof|CurtainWall,Assembly (A)|Business (B)|Educational (E)|Mercantile (M)|Residential (R),sd|dd|cd,site_planning,architect
+3202.3.1,ShadingDevice|Covering|Column|BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|High Hazard (H),sd|dd|cd,site_planning,architect
+3202.3.2,Window|Slab|Roof|Covering,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,site_planning,architect
+3202.3.3,ShadingDevice|Roof|Balcony|CurtainWall,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,site_planning,architect
+3202.3.4,Ramp|BuildingElementProxy|Slab,Assembly (A)|Business (B)|Educational (E)|Institutional (I)|Residential (R),sd|dd|cd,site_planning,architect
+3202.4,Covering|ShadingDevice|BuildingElementProxy,Assembly (A)|Business (B)|Mercantile (M)|Residential (R),sd|dd|cd,site_planning,architect

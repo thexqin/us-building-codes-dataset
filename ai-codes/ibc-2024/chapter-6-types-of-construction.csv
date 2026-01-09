@@ -1,0 +1,47 @@
+id,ifc_type,occupancy,design_phase,code_category,primary_responsibility
+6,Wall|Roof|Slab|Beam|Column,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Institutional (I),sd|dd|cd,construction_type_ratings,architect
+601,Wall|Beam|Column|Slab|Roof,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,fire_resistance_smoke_protection,architect
+601.1,Wall|Column|Slab|Roof|Beam,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,construction_type_ratings,architect
+602,,,,none,none
+602.1,Wall|Slab|Column|Beam,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,construction_type_ratings,architect
+602.1.1,Wall|Slab|Column,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Institutional (I),sd|dd|cd,construction_type_ratings,architect
+602.2,Wall|Beam|Column|Slab|Roof,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,construction_type_ratings,architect
+602.3,Wall|Covering,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Storage (S),sd|dd|cd,construction_type_ratings,architect
+602.4,Wall|Column|Slab|Stair|Roof,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Mercantile (M),sd|dd|cd,construction_type_ratings,architect
+602.4.1,Wall|Beam|Column|Slab|Roof,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,construction_type_ratings,architect
+602.4.1.1,Wall|Covering,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Mercantile (M),sd|dd|cd,assemblies_envelope,architect
+602.4.1.2,Wall|Roof|Slab|Column,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Mercantile (M),sd|dd|cd,fire_resistance_smoke_protection,architect
+602.4.1.2.1,Wall|Slab|Roof|Column|Beam,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Storage (S),sd|dd|cd,fire_resistance_smoke_protection,architect
+602.4.1.3,Slab|Covering,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,fire_resistance_smoke_protection,architect
+602.4.1.4,Roof|Slab|Covering,Assembly (A)|Business (B)|Educational (E)|Mercantile (M)|Residential (R),sd|dd|cd,fire_resistance_smoke_protection,architect
+602.4.1.5,Wall|Slab|Roof|Ceiling|Covering,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,fire_resistance_smoke_protection,architect
+602.4.1.6,Wall|Slab|BuildingElementProxy,Assembly (A)|Business (B)|Residential (R),sd|dd|cd,fire_resistance_smoke_protection,architect
+602.4.2,Wall|Slab|Column|Beam|Roof,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Mercantile (M),sd|dd|cd,construction_type_ratings,architect
+602.4.2.1,Wall|Covering,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Mercantile (M),sd|dd|cd,assemblies_envelope,architect
+602.4.2.2,Wall|Roof|Slab,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Institutional (I),sd|dd|cd,fire_resistance_smoke_protection,architect
+602.4.2.2.1,Wall|Slab|Column,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Storage (S),sd|dd|cd,fire_resistance_smoke_protection,architect
+602.4.2.2.2,Wall|Slab|Beam|Column|Roof,Residential (R)|Assembly (A)|Business (B),sd|dd|cd,fire_resistance_smoke_protection,architect
+602.4.2.2.3,Wall|Slab,Residential (R),sd|dd|cd,fire_resistance_smoke_protection,architect
+602.4.2.2.4,Wall,Residential (R)|Assembly (A),sd|dd|cd,fire_resistance_smoke_protection,architect
+602.4.2.3,Slab|Covering,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,fire_resistance_smoke_protection,architect
+602.4.2.4,Roof|Slab,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|High Hazard (H),sd|dd|cd,fire_resistance_smoke_protection,architect
+602.4.2.5,Wall|Slab|Roof|Covering,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Institutional (I),sd|dd|cd,fire_resistance_smoke_protection,architect
+602.4.2.6,Wall|Slab|BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Residential (R),sd|dd|cd,fire_resistance_smoke_protection,architect
+602.4.3,Wall|Slab|Column|Beam,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,construction_type_ratings,architect
+602.4.3.1,Wall|Covering,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Mercantile (M),sd|dd|cd,fire_resistance_smoke_protection,architect
+602.4.3.2,Wall|Beam|Column|Slab|Roof,Assembly (A)|Business (B)|Educational (E)|Mercantile (M)|Residential (R),sd|dd|cd,fire_resistance_smoke_protection,architect
+602.4.3.3,Slab|Covering,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Institutional (I),dd|cd,finishes_materials,architect
+602.4.3.4,Roof|Covering,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,finishes_materials,architect
+602.4.3.5,Wall|Slab|Roof|Ceiling|Covering,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,fire_resistance_smoke_protection,architect
+602.4.3.6,Wall|Stair|BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Institutional (I),sd|dd|cd,fire_resistance_smoke_protection,architect
+602.4.4,Wall|Column|Beam|Slab,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Storage (S),sd|dd|cd,construction_type_ratings,architect
+602.4.4.1,Wall|Covering,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|High Hazard (H),sd|dd|cd,fire_resistance_smoke_protection,architect
+602.4.4.2,Wall|Covering,Assembly (A)|Business (B)|Educational (E)|Residential (R),sd|dd|cd,fire_resistance_smoke_protection,architect
+602.4.4.3,Wall|Slab|Roof|Covering,Assembly (A)|Business (B)|Educational (E)|Institutional (I)|Residential (R),sd|dd|cd,fire_resistance_smoke_protection,architect
+602.4.4.4,Column|Beam,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Mercantile (M),sd|dd|cd,construction_type_ratings,architect
+602.5,Wall|Column|Slab|Beam|BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,construction_type_ratings,architect
+603,,,,none,none
+603.1,Wall|Roof|Slab|Door|Window,Assembly (A)|Business (B)|Educational (E)|Institutional (I)|Residential (R),sd|dd|cd,finishes_materials,architect
+603.1.1,BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),dd|cd,mechanical_systems,mechanical_engineer
+603.1.2,PlumbingElement|PipeSegment,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Institutional (I),dd|cd,plumbing_systems,mechanical_engineer
+603.1.3,Wall|Slab|Roof|BuildingElementProxy,Business (B)|Residential (R)|Assembly (A)|Educational (E)|Mercantile (M),dd|cd,electrical_systems,electrical_engineer

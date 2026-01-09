@@ -1,0 +1,40 @@
+id,ifc_type,occupancy,design_phase,code_category,primary_responsibility
+7,Wall|Slab|Roof|Door|Window,Assembly (A)|Business (B)|Educational (E)|Mercantile (M)|Residential (R),sd|dd|cd,special_construction,architect
+701,,,,none,none
+701.1,Wall|Slab|Roof,Assembly (A)|Business (B)|Educational (E)|Mercantile (M)|Residential (R),sd|dd|cd,special_construction,architect
+701.2,Wall|Slab|Door,Assembly (A)|Business (B)|Educational (E)|Residential (R),sd|dd|cd,fire_resistance_smoke_protection,architect
+701.3,Slab|Wall|Footing,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|High Hazard (H),sd|dd|cd,site_planning,architect
+702,,,,none,none
+702.1,Wall|Slab|Covering,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Mercantile (M),sd|dd|cd,finishes_materials,architect
+702.2,Slab|Covering,Assembly (A)|Business (B)|Educational (E)|Institutional (I)|Mercantile (M),sd|dd|cd,finishes_materials,architect
+702.3,Wall|Covering|Ceiling|Slab|Door,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Institutional (I),sd|dd|cd,finishes_materials,architect
+702.4,Window,Residential (R),sd|dd|cd,fire_resistance_smoke_protection,architect
+702.5,Window,Residential (R),sd|dd|cd,means_of_egress,architect
+702.5.1,Window,Residential (R)|Institutional (I)|Educational (E)|Assembly (A),sd|dd|cd,means_of_egress,architect
+702.6,Window|Covering|Wall,Residential (R)|Institutional (I)|Assembly (A),sd|dd|cd,means_of_egress,architect
+702.7,Wall|Slab|Roof|Door|Window,Assembly (A)|Business (B)|Residential (R),dd|cd,assemblies_envelope,architect
+702.7.1,Chimney|BuildingElementProxy|Covering,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),cd|ca,mechanical_systems,mechanical_engineer
+703,,,,none,none
+703.1,Wall|Door|Slab,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Institutional (I),sd|dd|cd,fire_resistance_smoke_protection,architect
+704,,,,none,none
+704.1,Wall|Door|Stair|Ramp|Slab,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,means_of_egress,architect
+704.1.1,Wall|Covering|Door,Institutional (I),sd|dd|cd,means_of_egress,architect
+704.2,Wall|Covering|BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Institutional (I)|Mercantile (M),sd|dd|cd,means_of_egress,architect
+704.3,Door,Educational (E)|Business (B)|Institutional (I),sd|dd|cd,means_of_egress,architect
+705,,,,none,none
+705.1,Roof|Slab,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|High Hazard (H),cd|ca,assemblies_envelope,architect
+705.2,Roof|Slab|Covering,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Mercantile (M),sd|dd|cd,assemblies_envelope,architect
+705.3,Roof|Slab|Covering,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Mercantile (M),sd|dd|cd,finishes_materials,architect
+705.3.1,Roof|Covering,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,fire_resistance_smoke_protection,architect
+705.4,Roof|Covering|Slab,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),dd|cd,finishes_materials,architect
+705.5,Covering|Roof|Wall|Slab,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),cd|ca,assemblies_envelope,architect
+706,,,,none,none
+706.1,Roof|BuildingElementProxy,Business (B)|Residential (R)|Assembly (A)|Educational (E)|Mercantile (M),sd|dd|cd,assemblies_envelope,architect
+706.2,Roof|Slab|Beam|Column,Residential (R)|Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F),sd|dd|cd,structural_design,structural_engineer
+706.3,Roof|Covering,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|High Hazard (H),cd|ca,assemblies_envelope,architect
+706.3.1,Wall|Roof|Bearing,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,structural_design,structural_engineer
+706.3.2,Slab|Roof,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,structural_design,structural_engineer
+707,,,,none,none
+707.1,BuildingElementProxy,Institutional (I),sd|dd|cd,electrical_systems,electrical_engineer
+708,,,,none,none
+708.1,Wall|Roof|Slab|Window|Door,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,assemblies_envelope,architect

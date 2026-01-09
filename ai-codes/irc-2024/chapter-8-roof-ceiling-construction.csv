@@ -1,0 +1,100 @@
+id,ifc_type,occupancy,design_phase,code_category,primary_responsibility
+8,Roof|Slab|Covering,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,assemblies_envelope,architect
+R801,,,,none,none
+R801.1,Roof|Slab|Covering,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,assemblies_envelope,architect
+R801.2,Roof|Slab|Beam|Column|Wall,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,structural_design,structural_engineer
+R801.3,Roof|Slab|Footing,Residential (R),sd|dd|cd,site_planning,architect
+R802,,,,none,none
+R802.1,Beam|Column|Slab|Roof|Wall,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,structural_design,structural_engineer
+R802.1.1,Beam|Column|Wall|Roof|Slab,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Storage (S),sd|dd|cd,structural_design,structural_engineer
+R802.1.1.1,Beam|Column|Roof|Slab|Wall,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Storage (S),sd|dd|cd,fire_resistance_smoke_protection,architect
+R802.1.2,Beam|Column|Roof|Slab,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,structural_design,structural_engineer
+R802.1.3,Beam|Column|Wall,Residential (R)|Assembly (A)|Business (B),sd|dd|cd,structural_design,structural_engineer
+R802.1.4,Beam|Column|Slab|Wall,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Storage (S),sd|dd|cd,structural_design,structural_engineer
+R802.1.5,Slab|Wall|Roof,Residential (R),sd|dd|cd,assemblies_envelope,architect
+R802.1.6,Plate|Slab,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Storage (S),sd|dd|cd,structural_design,structural_engineer
+R802.1.7,Beam|Slab,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Mercantile (M),sd|dd|cd,structural_design,structural_engineer
+R802.2,Roof|Slab|Wall|Beam,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,structural_design,structural_engineer
+R802.3,Roof|Beam|Wall|Column,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,structural_design,structural_engineer
+R802.4,Beam|Roof|BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Storage (S),sd|dd|cd,structural_design,structural_engineer
+R802.4.1,Roof|Beam|Slab|Member|Footing,Residential (R)|Assembly (A)|Business (B),sd|dd|cd,structural_design,structural_engineer
+R802.4.2,Roof|Slab|Beam,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,structural_design,structural_engineer
+R802.4.3,Beam|Roof|BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,structural_design,structural_engineer
+R802.4.4,Roof|Beam|Rafter|Bearing,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,structural_design,structural_engineer
+R802.4.5,Beam|Rafter|BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,structural_design,structural_engineer
+R802.4.6,Beam|Plate|Roof,Assembly (A)|Business (B)|Educational (E)|Residential (R),sd|dd|cd,structural_design,structural_engineer
+R802.5,Slab|Beam,Residential (R),sd|dd|cd,structural_design,structural_engineer
+R802.5.1,Slab|Beam,Residential (R)|Assembly (A)|Business (B),sd|dd|cd,structural_design,structural_engineer
+R802.5.2,Beam|Slab|Roof|BuildingElementProxy,Residential (R),sd|dd|cd,structural_design,structural_engineer
+R802.5.2.1,Beam|Bearing|BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,structural_design,structural_engineer
+R802.5.2.2,Beam|Member|Roof,Residential (R)|Assembly (A)|Business (B),sd|dd|cd,structural_design,structural_engineer
+R802.5.2.3,Beam|Member|Slab,Assembly (A)|Business (B)|Educational (E)|Residential (R),sd|dd|cd,assemblies_envelope,architect
+R802.6,Beam|Bearing|Member|Slab,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Storage (S),sd|dd|cd,structural_design,structural_engineer
+R802.6.1,Slab|Wall|Bearing|BuildingElementProxy,Residential (R)|Assembly (A)|Business (B),sd|dd|cd,assemblies_envelope,architect
+R802.7,Beam|Column|Roof|BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Institutional (I),sd|dd|cd,structural_design,structural_engineer
+R802.7.1,Beam|Rafter|BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,structural_design,structural_engineer
+R802.7.1.1,Beam,Residential (R)|Assembly (A)|Business (B)|Educational (E)|Mercantile (M),sd|dd|cd,structural_design,structural_engineer
+R802.7.1.2,Beam|Member,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Utility and Miscellaneous (U),sd|dd|cd,structural_design,structural_engineer
+R802.7.2,Beam|Member|Slab,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Storage (S),sd|dd|cd,structural_design,structural_engineer
+R802.8,Beam|Slab,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Storage (S),sd|dd|cd,structural_design,structural_engineer
+R802.8.1,Beam,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Storage (S),sd|dd|cd,structural_design,structural_engineer
+R802.9,Beam|Slab|Roof,Residential (R)|Assembly (A)|Business (B),sd|dd|cd,structural_design,structural_engineer
+R802.10.1,Member|Bearing,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),cd|ca,structural_design,structural_engineer
+R802.10.2,Beam|Member|BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Residential (R),sd|dd|cd,structural_design,structural_engineer
+R802.10.2.1,Roof|Beam|Slab|BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,structural_design,structural_engineer
+R802.10.3,Member|Roof,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,structural_design,structural_engineer
+R802.10.4,Beam|Member|BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,structural_design,structural_engineer
+R802.11,Roof|Slab|Wall|Column|Beam,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Storage (S),sd|dd|cd,structural_design,structural_engineer
+R802.11.1,Roof|Wall,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Storage (S),sd|dd|cd,structural_design,structural_engineer
+R802.11.2,Roof|Beam|Wall,Residential (R)|Assembly (A)|Business (B),sd|dd|cd,structural_design,structural_engineer
+R803,,,,none,none
+R803.1,Slab|Roof,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Mercantile (M),sd|dd|cd,assemblies_envelope,architect
+R803.2.1,Slab|Wall|Roof,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Mercantile (M),sd|dd|cd,finishes_materials,architect
+R803.2.1.1,Slab|Roof|Covering,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,finishes_materials,architect
+R803.2.1.2,Slab|Roof|Wall,Residential (R)|Business (B)|Assembly (A),sd|dd|cd,fire_resistance_smoke_protection,architect
+R803.2.2,Slab|Roof,Assembly (A)|Business (B)|Educational (E)|Residential (R),sd|dd|cd,structural_design,structural_engineer
+R803.2.3,Slab|Roof,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,assemblies_envelope,architect
+R804,,,,none,none
+R804.1,Beam|Roof|BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Storage (S),sd|dd|cd,structural_design,structural_engineer
+R804.1.1,Roof|Slab|Beam|BuildingElementProxy,Business (B)|Residential (R)|Educational (E)|Assembly (A)|Mercantile (M),sd|dd|cd,structural_design,structural_engineer
+R804.1.1.1,Roof|Slab|Beam,Residential (R),sd|dd|cd,structural_design,structural_engineer
+R804.1.2,Roof|Beam,Residential (R),sd|dd|cd,structural_design,structural_engineer
+R804.2,Beam|Roof|Slab|Column,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,structural_design,structural_engineer
+R804.2.1,Wall|Beam|Column|Slab,Assembly (A)|Business (B)|Residential (R)|Educational (E)|Mercantile (M),sd|dd|cd,construction_type_ratings,structural_engineer
+R804.2.2,Wall|Beam|Column|BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,finishes_materials,architect
+R804.2.3,Roof|Beam|Column,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,structural_design,structural_engineer
+R804.2.4,Wall|Beam|Column|Slab|BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,construction_type_ratings,structural_engineer
+R804.2.5,Roof|Slab|Beam,Assembly (A)|Business (B)|Educational (E)|Residential (R),cd|ca,structural_design,structural_engineer
+R804.2.6,Beam|Slab,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Mercantile (M),sd|dd|cd,structural_design,structural_engineer
+R804.3,Roof|Slab|Member,Residential (R),sd|dd|cd,structural_design,structural_engineer
+R804.3.1,Slab|Beam,Residential (R),sd|dd|cd,structural_design,structural_engineer
+R804.3.1.1,Beam|Slab,Residential (R)|Assembly (A),sd|dd|cd,structural_design,structural_engineer
+R804.3.1.2,Beam|Slab|BuildingElementProxy,Residential (R),sd|dd|cd,structural_design,structural_engineer
+R804.3.1.3,Beam|Slab|BuildingElementProxy,Residential (R),sd|dd|cd,structural_design,structural_engineer
+R804.3.1.4,Beam|Bearing,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,structural_design,structural_engineer
+R804.3.2,Roof|Beam,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,structural_design,structural_engineer
+R804.3.2.1,Roof|Member|Beam,Residential (R)|Assembly (A)|Business (B),sd|dd|cd,structural_design,structural_engineer
+R804.3.2.1.1,Roof|Slab,Residential (R),sd|dd|cd,assemblies_envelope,architect
+R804.3.2.1.2,Roof|Slab|Member,Residential (R)|Assembly (A)|Business (B),sd|dd|cd,structural_design,structural_engineer
+R804.3.2.2,Beam|Roof|Member,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,structural_design,structural_engineer
+R804.3.2.3,Beam|Roof,Assembly (A)|Business (B)|Educational (E)|Residential (R),sd|dd|cd,structural_design,structural_engineer
+R804.3.2.4,Roof|Slab|Beam,Residential (R)|Assembly (A)|Business (B),sd|dd|cd,structural_design,structural_engineer
+R804.3.2.5,Roof|Member|Beam|Plate,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,structural_design,structural_engineer
+R804.3.3,Roof|Beam|Member,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,structural_design,structural_engineer
+R804.3.4,Wall|Beam|Bearing,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,structural_design,structural_engineer
+R804.3.5,Slab|Roof|Beam,Residential (R),sd|dd|cd,structural_design,structural_engineer
+R804.3.6,Roof|Slab|Member,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Storage (S),sd|dd|cd,structural_design,structural_engineer
+R804.3.7,Slab|Roof|Plate,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Mercantile (M),sd|dd|cd,structural_design,structural_engineer
+R804.3.7.1,Slab|Roof|Wall,Residential (R)|Assembly (A)|Business (B),sd|dd|cd,structural_design,structural_engineer
+R804.3.7.2,Roof|Slab|Beam,Residential (R)|Assembly (A)|Business (B),sd|dd|cd,structural_design,structural_engineer
+R804.3.8,Roof|Wall|Footing|Beam|Column,Residential (R),sd|dd|cd,structural_design,structural_engineer
+R805,,,,none,none
+R805.1,Covering|Slab,Assembly (A)|Business (B)|Educational (E)|Residential (R),sd|dd|cd,finishes_materials,architect
+R806,,,,none,none
+R806.1,Roof|Slab|Covering,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,interior_environment,architect
+R806.2,Roof|Slab|Covering,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,interior_environment,architect
+R806.3,Roof|Slab|Covering,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,interior_environment,architect
+R806.4,Roof|Wall,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Mercantile (M),dd|cd,assemblies_envelope,architect
+R806.5,Roof|Slab|Covering,Residential (R)|Assembly (A)|Business (B),sd|dd|cd,assemblies_envelope,architect
+R807,,,,none,none
+R807.1,Slab|Wall|Roof|BuildingElementProxy,Residential (R),sd|dd|cd,means_of_egress,architect

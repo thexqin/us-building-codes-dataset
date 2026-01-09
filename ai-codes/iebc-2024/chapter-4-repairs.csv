@@ -1,0 +1,39 @@
+id,ifc_type,occupancy,design_phase,code_category,primary_responsibility
+4,Wall|Slab|Roof,Assembly (A)|Business (B)|Residential (R),cd|ca,special_construction,architect
+401,,,,none,none
+401.1,Wall|Roof|Door|Window|Slab,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Mercantile (M),sd|dd|cd,special_construction,architect
+401.1.1,BuildingElementProxy|Stair|Railing|Slab,Assembly (A),sd|dd|cd,special_construction,architect
+401.2,Wall|Slab|Roof,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Mercantile (M),sd|dd|cd|ca,special_construction,architect
+401.3,Wall|Slab|Footing,Residential (R)|Business (B)|Assembly (A),sd|dd|cd,site_planning,architect
+402,,,,none,none
+402.1,Window|Door|Wall,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,finishes_materials,architect
+403,,,,none,none
+403.1,Wall|Slab|Door,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Institutional (I),cd|ca,fire_resistance_smoke_protection,architect
+404,,,,none,none
+404.1,Wall|Door|Stair|Ramp|Slab,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd|ca,means_of_egress,architect
+405,,,,none,none
+405.1,Wall|Slab|Beam|Column,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Storage (S),cd|ca,structural_design,structural_engineer
+405.1.1,Slab|Beam|Column|Wall|Footing,Business (B)|Assembly (A)|Residential (R)|Educational (E)|Factory and Industrial (F),cd|ca,structural_design,structural_engineer
+405.2,Wall|Roof|Slab|Column|Beam,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,special_construction,architect
+405.2.1,Wall|Beam|Column|Slab|Footing,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Mercantile (M),cd|ca,structural_design,structural_engineer
+405.2.1.1,Roof|Slab|Beam|Column|Footing,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),cd|ca,structural_design,structural_engineer
+405.2.2,Wall|Column|Beam|Slab,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Institutional (I),sd|dd|cd,structural_design,structural_engineer
+405.2.3,Column|Wall|Footing|Beam|BuildingElementProxy,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Institutional (I),sd|dd|cd,structural_design,structural_engineer
+405.2.3.1,Wall|Column|Footing|Slab,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Storage (S),sd|dd|cd,structural_design,structural_engineer
+405.2.3.2,Wall|Slab|Roof|Column|Beam,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Mercantile (M),cd|ca,special_construction,architect
+405.2.3.3,Wall|Column|Beam|Footing,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Institutional (I),sd|dd|cd,structural_design,structural_engineer
+405.2.4,Beam|Column|Footing|Slab|Wall,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,structural_design,structural_engineer
+405.2.4.1,Wall|Column|Beam|BuildingElementProxy,Business (B)|Residential (R)|Assembly (A)|Educational (E)|Institutional (I),sd|dd|cd,structural_design,structural_engineer
+405.2.5,Roof|Beam|Column|Slab|Footing,Assembly (A)|Business (B)|Educational (E)|Factory and Industrial (F)|Residential (R),sd|dd|cd,structural_design,structural_engineer
+405.2.6,Slab|Wall|Footing|Roof,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Storage (S),sd|dd|cd,site_planning,architect
+406,,,,none,none
+406.1,BuildingElementProxy,Business (B)|Assembly (A)|Residential (R)|Educational (E)|Mercantile (M),cd|ca,electrical_systems,electrical_engineer
+406.1.1,BuildingElementProxy,Business (B)|Educational (E)|Institutional (I)|Mercantile (M)|Residential (R),cd|ca,electrical_systems,electrical_engineer
+406.1.2,BuildingElementProxy,Institutional (I),cd|ca,electrical_systems,electrical_engineer
+407,,,,none,none
+407.1,BuildingElementProxy,Business (B)|Educational (E)|Institutional (I)|Residential (R),cd|ca,mechanical_systems,mechanical_engineer
+407.2,BuildingElementProxy,Assembly (A)|Residential (R)|Business (B),dd|cd,mechanical_systems,mechanical_engineer
+408,,,,none,none
+408.1,PlumbingSystems,Assembly (A)|Business (B)|Educational (E)|Residential (R)|Mercantile (M),cd|ca,plumbing_systems,mechanical_engineer
+408.2,BuildingElementProxy,Business (B)|Educational (E)|Institutional (I)|Mercantile (M)|Residential (R),dd|cd,plumbing_systems,architect
+408.3,BuildingElementProxy,Institutional (I),sd|dd|cd,mechanical_systems,mechanical_engineer
