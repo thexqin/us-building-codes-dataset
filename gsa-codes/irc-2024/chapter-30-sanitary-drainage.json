@@ -19,6 +19,7 @@
                 ],
                 "ingesterAmendmentsEnabled": false,
                 "ingesterCodeUnitsEnabled": false,
+                "isAmendStylingEnabled": true,
                 "isCorrespondable": true,
                 "jurisKey": "general-services-administration",
                 "jurisName": "General Services Administration",
@@ -45,7 +46,6 @@
                                 "href": "#P3001.1",
                                 "isCodeDivider": false,
                                 "isCodeDividerClickable": false,
-                                "orderIndex": 37810000,
                                 "reference": "P3001.1"
                             },
                             {
@@ -57,7 +57,6 @@
                                 "href": "#P3001.2",
                                 "isCodeDivider": false,
                                 "isCodeDividerClickable": false,
-                                "orderIndex": 37820000,
                                 "reference": "P3001.2"
                             },
                             {
@@ -69,7 +68,6 @@
                                 "href": "#P3001.3",
                                 "isCodeDivider": false,
                                 "isCodeDividerClickable": false,
-                                "orderIndex": 37830000,
                                 "reference": "P3001.3"
                             }
                         ],
@@ -79,7 +77,6 @@
                         "href": "#P3001",
                         "isCodeDivider": false,
                         "isCodeDividerClickable": false,
-                        "orderIndex": 37800000,
                         "reference": "P3001"
                     },
                     {
@@ -94,7 +91,6 @@
                                 "href": "#P3002.1",
                                 "isCodeDivider": false,
                                 "isCodeDividerClickable": false,
-                                "orderIndex": 37850000,
                                 "reference": "P3002.1"
                             },
                             {
@@ -109,7 +105,6 @@
                                         "href": "#P3002.2.1",
                                         "isCodeDivider": false,
                                         "isCodeDividerClickable": false,
-                                        "orderIndex": 37870000,
                                         "reference": "P3002.2.1"
                                     }
                                 ],
@@ -119,7 +114,6 @@
                                 "href": "#P3002.2",
                                 "isCodeDivider": false,
                                 "isCodeDividerClickable": false,
-                                "orderIndex": 37860000,
                                 "reference": "P3002.2"
                             },
                             {
@@ -134,7 +128,6 @@
                                         "href": "#P3002.3.1",
                                         "isCodeDivider": false,
                                         "isCodeDividerClickable": false,
-                                        "orderIndex": 37890000,
                                         "reference": "P3002.3.1"
                                     }
                                 ],
@@ -144,7 +137,6 @@
                                 "href": "#P3002.3",
                                 "isCodeDivider": false,
                                 "isCodeDividerClickable": false,
-                                "orderIndex": 37880000,
                                 "reference": "P3002.3"
                             },
                             {
@@ -159,7 +151,6 @@
                                         "href": "#P3002.4.1",
                                         "isCodeDivider": false,
                                         "isCodeDividerClickable": false,
-                                        "orderIndex": 37910000,
                                         "reference": "P3002.4.1"
                                     },
                                     {
@@ -171,7 +162,6 @@
                                         "href": "#P3002.4.2",
                                         "isCodeDivider": false,
                                         "isCodeDividerClickable": false,
-                                        "orderIndex": 37920000,
                                         "reference": "P3002.4.2"
                                     },
                                     {
@@ -183,7 +173,6 @@
                                         "href": "#P3002.4.3",
                                         "isCodeDivider": false,
                                         "isCodeDividerClickable": false,
-                                        "orderIndex": 37930000,
                                         "reference": "P3002.4.3"
                                     }
                                 ],
@@ -193,7 +182,6 @@
                                 "href": "#P3002.4",
                                 "isCodeDivider": false,
                                 "isCodeDividerClickable": false,
-                                "orderIndex": 37900000,
                                 "reference": "P3002.4"
                             }
                         ],
@@ -203,7 +191,6 @@
                         "href": "#P3002",
                         "isCodeDivider": false,
                         "isCodeDividerClickable": false,
-                        "orderIndex": 37840000,
                         "reference": "P3002"
                     },
                     {
@@ -221,7 +208,6 @@
                                         "href": "#P3003.1.1",
                                         "isCodeDivider": false,
                                         "isCodeDividerClickable": false,
-                                        "orderIndex": 37960000,
                                         "reference": "P3003.1.1"
                                     }
                                 ],
@@ -231,7 +217,6 @@
                                 "href": "#P3003.1",
                                 "isCodeDivider": false,
                                 "isCodeDividerClickable": false,
-                                "orderIndex": 37950000,
                                 "reference": "P3003.1"
                             },
                             {
@@ -243,7 +228,6 @@
                                 "href": "#P3003.2",
                                 "isCodeDivider": false,
                                 "isCodeDividerClickable": false,
-                                "orderIndex": 37970000,
                                 "reference": "P3003.2"
                             },
                             {
@@ -258,7 +242,6 @@
                                         "href": "#P3003.3.1",
                                         "isCodeDivider": false,
                                         "isCodeDividerClickable": false,
-                                        "orderIndex": 37990000,
                                         "reference": "P3003.3.1"
                                     },
                                     {
@@ -270,7 +253,6 @@
                                         "href": "#P3003.3.2",
                                         "isCodeDivider": false,
                                         "isCodeDividerClickable": false,
-                                        "orderIndex": 38000000,
                                         "reference": "P3003.3.2"
                                     },
                                     {
@@ -282,7 +264,6 @@
                                         "href": "#P3003.3.3",
                                         "isCodeDivider": false,
                                         "isCodeDividerClickable": false,
-                                        "orderIndex": 38010000,
                                         "reference": "P3003.3.3"
                                     },
                                     {
@@ -294,7 +275,6 @@
                                         "href": "#P3003.3.4",
                                         "isCodeDivider": false,
                                         "isCodeDividerClickable": false,
-                                        "orderIndex": 38020000,
                                         "reference": "P3003.3.4"
                                     }
                                 ],
@@ -304,7 +284,6 @@
                                 "href": "#P3003.3",
                                 "isCodeDivider": false,
                                 "isCodeDividerClickable": false,
-                                "orderIndex": 37980000,
                                 "reference": "P3003.3"
                             },
                             {
@@ -319,7 +298,6 @@
                                         "href": "#P3003.4.1",
                                         "isCodeDivider": false,
                                         "isCodeDividerClickable": false,
-                                        "orderIndex": 38040000,
                                         "reference": "P3003.4.1"
                                     },
                                     {
@@ -331,7 +309,6 @@
                                         "href": "#P3003.4.2",
                                         "isCodeDivider": false,
                                         "isCodeDividerClickable": false,
-                                        "orderIndex": 38050000,
                                         "reference": "P3003.4.2"
                                     },
                                     {
@@ -343,7 +320,6 @@
                                         "href": "#P3003.4.3",
                                         "isCodeDivider": false,
                                         "isCodeDividerClickable": false,
-                                        "orderIndex": 38060000,
                                         "reference": "P3003.4.3"
                                     }
                                 ],
@@ -353,7 +329,6 @@
                                 "href": "#P3003.4",
                                 "isCodeDivider": false,
                                 "isCodeDividerClickable": false,
-                                "orderIndex": 38030000,
                                 "reference": "P3003.4"
                             },
                             {
@@ -365,7 +340,6 @@
                                 "href": "#P3003.5",
                                 "isCodeDivider": false,
                                 "isCodeDividerClickable": false,
-                                "orderIndex": 38070000,
                                 "reference": "P3003.5"
                             },
                             {
@@ -380,7 +354,6 @@
                                         "href": "#P3003.6.1",
                                         "isCodeDivider": false,
                                         "isCodeDividerClickable": false,
-                                        "orderIndex": 38090000,
                                         "reference": "P3003.6.1"
                                     },
                                     {
@@ -392,7 +365,6 @@
                                         "href": "#P3003.6.2",
                                         "isCodeDivider": false,
                                         "isCodeDividerClickable": false,
-                                        "orderIndex": 38100000,
                                         "reference": "P3003.6.2"
                                     },
                                     {
@@ -404,7 +376,6 @@
                                         "href": "#P3003.6.3",
                                         "isCodeDivider": false,
                                         "isCodeDividerClickable": false,
-                                        "orderIndex": 38110000,
                                         "reference": "P3003.6.3"
                                     },
                                     {
@@ -416,7 +387,6 @@
                                         "href": "#P3003.6.4",
                                         "isCodeDivider": false,
                                         "isCodeDividerClickable": false,
-                                        "orderIndex": 38120000,
                                         "reference": "P3003.6.4"
                                     }
                                 ],
@@ -426,7 +396,6 @@
                                 "href": "#P3003.6",
                                 "isCodeDivider": false,
                                 "isCodeDividerClickable": false,
-                                "orderIndex": 38080000,
                                 "reference": "P3003.6"
                             },
                             {
@@ -441,7 +410,6 @@
                                         "href": "#P3003.7.1",
                                         "isCodeDivider": false,
                                         "isCodeDividerClickable": false,
-                                        "orderIndex": 38140000,
                                         "reference": "P3003.7.1"
                                     },
                                     {
@@ -453,7 +421,6 @@
                                         "href": "#P3003.7.2",
                                         "isCodeDivider": false,
                                         "isCodeDividerClickable": false,
-                                        "orderIndex": 38150000,
                                         "reference": "P3003.7.2"
                                     }
                                 ],
@@ -463,7 +430,6 @@
                                 "href": "#P3003.7",
                                 "isCodeDivider": false,
                                 "isCodeDividerClickable": false,
-                                "orderIndex": 38130000,
                                 "reference": "P3003.7"
                             },
                             {
@@ -478,7 +444,6 @@
                                         "href": "#P3003.8.1",
                                         "isCodeDivider": false,
                                         "isCodeDividerClickable": false,
-                                        "orderIndex": 38170000,
                                         "reference": "P3003.8.1"
                                     },
                                     {
@@ -490,7 +455,6 @@
                                         "href": "#P3003.8.2",
                                         "isCodeDivider": false,
                                         "isCodeDividerClickable": false,
-                                        "orderIndex": 38180000,
                                         "reference": "P3003.8.2"
                                     }
                                 ],
@@ -500,7 +464,6 @@
                                 "href": "#P3003.8",
                                 "isCodeDivider": false,
                                 "isCodeDividerClickable": false,
-                                "orderIndex": 38160000,
                                 "reference": "P3003.8"
                             },
                             {
@@ -515,7 +478,6 @@
                                         "href": "#P3003.9.1",
                                         "isCodeDivider": false,
                                         "isCodeDividerClickable": false,
-                                        "orderIndex": 38200000,
                                         "reference": "P3003.9.1"
                                     },
                                     {
@@ -527,7 +489,6 @@
                                         "href": "#P3003.9.2",
                                         "isCodeDivider": false,
                                         "isCodeDividerClickable": false,
-                                        "orderIndex": 38210000,
                                         "reference": "P3003.9.2"
                                     },
                                     {
@@ -539,7 +500,6 @@
                                         "href": "#P3003.9.3",
                                         "isCodeDivider": false,
                                         "isCodeDividerClickable": false,
-                                        "orderIndex": 38220000,
                                         "reference": "P3003.9.3"
                                     },
                                     {
@@ -551,7 +511,6 @@
                                         "href": "#P3003.9.4",
                                         "isCodeDivider": false,
                                         "isCodeDividerClickable": false,
-                                        "orderIndex": 38230000,
                                         "reference": "P3003.9.4"
                                     }
                                 ],
@@ -561,7 +520,6 @@
                                 "href": "#P3003.9",
                                 "isCodeDivider": false,
                                 "isCodeDividerClickable": false,
-                                "orderIndex": 38190000,
                                 "reference": "P3003.9"
                             },
                             {
@@ -573,7 +531,6 @@
                                 "href": "#P3003.10",
                                 "isCodeDivider": false,
                                 "isCodeDividerClickable": false,
-                                "orderIndex": 38240000,
                                 "reference": "P3003.10"
                             },
                             {
@@ -588,7 +545,6 @@
                                         "href": "#P3003.11.1",
                                         "isCodeDivider": false,
                                         "isCodeDividerClickable": false,
-                                        "orderIndex": 38260000,
                                         "reference": "P3003.11.1"
                                     },
                                     {
@@ -600,7 +556,6 @@
                                         "href": "#P3003.11.2",
                                         "isCodeDivider": false,
                                         "isCodeDividerClickable": false,
-                                        "orderIndex": 38270000,
                                         "reference": "P3003.11.2"
                                     }
                                 ],
@@ -610,7 +565,6 @@
                                 "href": "#P3003.11",
                                 "isCodeDivider": false,
                                 "isCodeDividerClickable": false,
-                                "orderIndex": 38250000,
                                 "reference": "P3003.11"
                             },
                             {
@@ -625,7 +579,6 @@
                                         "href": "#P3003.12.1",
                                         "isCodeDivider": false,
                                         "isCodeDividerClickable": false,
-                                        "orderIndex": 38290000,
                                         "reference": "P3003.12.1"
                                     },
                                     {
@@ -637,7 +590,6 @@
                                         "href": "#P3003.12.2",
                                         "isCodeDivider": false,
                                         "isCodeDividerClickable": false,
-                                        "orderIndex": 38300000,
                                         "reference": "P3003.12.2"
                                     }
                                 ],
@@ -647,7 +599,6 @@
                                 "href": "#P3003.12",
                                 "isCodeDivider": false,
                                 "isCodeDividerClickable": false,
-                                "orderIndex": 38280000,
                                 "reference": "P3003.12"
                             },
                             {
@@ -662,7 +613,6 @@
                                         "href": "#P3003.13.1",
                                         "isCodeDivider": false,
                                         "isCodeDividerClickable": false,
-                                        "orderIndex": 38320000,
                                         "reference": "P3003.13.1"
                                     },
                                     {
@@ -674,7 +624,6 @@
                                         "href": "#P3003.13.2",
                                         "isCodeDivider": false,
                                         "isCodeDividerClickable": false,
-                                        "orderIndex": 38330000,
                                         "reference": "P3003.13.2"
                                     },
                                     {
@@ -686,7 +635,6 @@
                                         "href": "#P3003.13.3",
                                         "isCodeDivider": false,
                                         "isCodeDividerClickable": false,
-                                        "orderIndex": 38340000,
                                         "reference": "P3003.13.3"
                                     },
                                     {
@@ -698,7 +646,6 @@
                                         "href": "#P3003.13.4",
                                         "isCodeDivider": false,
                                         "isCodeDividerClickable": false,
-                                        "orderIndex": 38350000,
                                         "reference": "P3003.13.4"
                                     },
                                     {
@@ -710,7 +657,6 @@
                                         "href": "#P3003.13.5",
                                         "isCodeDivider": false,
                                         "isCodeDividerClickable": false,
-                                        "orderIndex": 38360000,
                                         "reference": "P3003.13.5"
                                     },
                                     {
@@ -722,7 +668,6 @@
                                         "href": "#P3003.13.6",
                                         "isCodeDivider": false,
                                         "isCodeDividerClickable": false,
-                                        "orderIndex": 38370000,
                                         "reference": "P3003.13.6"
                                     }
                                 ],
@@ -732,7 +677,6 @@
                                 "href": "#P3003.13",
                                 "isCodeDivider": false,
                                 "isCodeDividerClickable": false,
-                                "orderIndex": 38310000,
                                 "reference": "P3003.13"
                             },
                             {
@@ -744,7 +688,6 @@
                                 "href": "#P3003.14",
                                 "isCodeDivider": false,
                                 "isCodeDividerClickable": false,
-                                "orderIndex": 38380000,
                                 "reference": "P3003.14"
                             }
                         ],
@@ -754,7 +697,6 @@
                         "href": "#P3003",
                         "isCodeDivider": false,
                         "isCodeDividerClickable": false,
-                        "orderIndex": 37940000,
                         "reference": "P3003"
                     },
                     {
@@ -769,7 +711,6 @@
                                 "href": "#P3004.1",
                                 "isCodeDivider": false,
                                 "isCodeDividerClickable": false,
-                                "orderIndex": 38400000,
                                 "reference": "P3004.1"
                             }
                         ],
@@ -779,7 +720,6 @@
                         "href": "#P3004",
                         "isCodeDivider": false,
                         "isCodeDividerClickable": false,
-                        "orderIndex": 38390000,
                         "reference": "P3004"
                     },
                     {
@@ -797,7 +737,6 @@
                                         "href": "#P3005.1.1",
                                         "isCodeDivider": false,
                                         "isCodeDividerClickable": false,
-                                        "orderIndex": 38430000,
                                         "reference": "P3005.1.1"
                                     },
                                     {
@@ -809,7 +748,6 @@
                                         "href": "#P3005.1.2",
                                         "isCodeDivider": false,
                                         "isCodeDividerClickable": false,
-                                        "orderIndex": 38440000,
                                         "reference": "P3005.1.2"
                                     },
                                     {
@@ -821,7 +759,6 @@
                                         "href": "#P3005.1.3",
                                         "isCodeDivider": false,
                                         "isCodeDividerClickable": false,
-                                        "orderIndex": 38450000,
                                         "reference": "P3005.1.3"
                                     },
                                     {
@@ -833,7 +770,6 @@
                                         "href": "#P3005.1.4",
                                         "isCodeDivider": false,
                                         "isCodeDividerClickable": false,
-                                        "orderIndex": 38460000,
                                         "reference": "P3005.1.4"
                                     },
                                     {
@@ -845,7 +781,6 @@
                                         "href": "#P3005.1.5",
                                         "isCodeDivider": false,
                                         "isCodeDividerClickable": false,
-                                        "orderIndex": 38470000,
                                         "reference": "P3005.1.5"
                                     },
                                     {
@@ -857,7 +792,6 @@
                                         "href": "#P3005.1.6",
                                         "isCodeDivider": false,
                                         "isCodeDividerClickable": false,
-                                        "orderIndex": 38480000,
                                         "reference": "P3005.1.6"
                                     }
                                 ],
@@ -867,7 +801,6 @@
                                 "href": "#P3005.1",
                                 "isCodeDivider": false,
                                 "isCodeDividerClickable": false,
-                                "orderIndex": 38420000,
                                 "reference": "P3005.1"
                             },
                             {
@@ -882,7 +815,6 @@
                                         "href": "#P3005.2.1",
                                         "isCodeDivider": false,
                                         "isCodeDividerClickable": false,
-                                        "orderIndex": 38500000,
                                         "reference": "P3005.2.1"
                                     },
                                     {
@@ -894,7 +826,6 @@
                                         "href": "#P3005.2.2",
                                         "isCodeDivider": false,
                                         "isCodeDividerClickable": false,
-                                        "orderIndex": 38510000,
                                         "reference": "P3005.2.2"
                                     },
                                     {
@@ -906,7 +837,6 @@
                                         "href": "#P3005.2.3",
                                         "isCodeDivider": false,
                                         "isCodeDividerClickable": false,
-                                        "orderIndex": 38520000,
                                         "reference": "P3005.2.3"
                                     },
                                     {
@@ -918,7 +848,6 @@
                                         "href": "#P3005.2.4",
                                         "isCodeDivider": false,
                                         "isCodeDividerClickable": false,
-                                        "orderIndex": 38530000,
                                         "reference": "P3005.2.4"
                                     },
                                     {
@@ -930,7 +859,6 @@
                                         "href": "#P3005.2.5",
                                         "isCodeDivider": false,
                                         "isCodeDividerClickable": false,
-                                        "orderIndex": 38540000,
                                         "reference": "P3005.2.5"
                                     },
                                     {
@@ -942,7 +870,6 @@
                                         "href": "#P3005.2.6",
                                         "isCodeDivider": false,
                                         "isCodeDividerClickable": false,
-                                        "orderIndex": 38550000,
                                         "reference": "P3005.2.6"
                                     },
                                     {
@@ -954,7 +881,6 @@
                                         "href": "#P3005.2.7",
                                         "isCodeDivider": false,
                                         "isCodeDividerClickable": false,
-                                        "orderIndex": 38560000,
                                         "reference": "P3005.2.7"
                                     },
                                     {
@@ -966,7 +892,6 @@
                                         "href": "#P3005.2.8",
                                         "isCodeDivider": false,
                                         "isCodeDividerClickable": false,
-                                        "orderIndex": 38570000,
                                         "reference": "P3005.2.8"
                                     },
                                     {
@@ -978,7 +903,6 @@
                                         "href": "#P3005.2.9",
                                         "isCodeDivider": false,
                                         "isCodeDividerClickable": false,
-                                        "orderIndex": 38580000,
                                         "reference": "P3005.2.9"
                                     },
                                     {
@@ -993,7 +917,6 @@
                                                 "href": "#P3005.2.10.1",
                                                 "isCodeDivider": false,
                                                 "isCodeDividerClickable": false,
-                                                "orderIndex": 38600000,
                                                 "reference": "P3005.2.10.1"
                                             },
                                             {
@@ -1005,7 +928,6 @@
                                                 "href": "#P3005.2.10.2",
                                                 "isCodeDivider": false,
                                                 "isCodeDividerClickable": false,
-                                                "orderIndex": 38610000,
                                                 "reference": "P3005.2.10.2"
                                             },
                                             {
@@ -1017,7 +939,6 @@
                                                 "href": "#P3005.2.10.3",
                                                 "isCodeDivider": false,
                                                 "isCodeDividerClickable": false,
-                                                "orderIndex": 38620000,
                                                 "reference": "P3005.2.10.3"
                                             }
                                         ],
@@ -1027,7 +948,6 @@
                                         "href": "#P3005.2.10",
                                         "isCodeDivider": false,
                                         "isCodeDividerClickable": false,
-                                        "orderIndex": 38590000,
                                         "reference": "P3005.2.10"
                                     },
                                     {
@@ -1039,7 +959,6 @@
                                         "href": "#P3005.2.11",
                                         "isCodeDivider": false,
                                         "isCodeDividerClickable": false,
-                                        "orderIndex": 38630000,
                                         "reference": "P3005.2.11"
                                     }
                                 ],
@@ -1049,7 +968,6 @@
                                 "href": "#P3005.2",
                                 "isCodeDivider": false,
                                 "isCodeDividerClickable": false,
-                                "orderIndex": 38490000,
                                 "reference": "P3005.2"
                             },
                             {
@@ -1061,7 +979,6 @@
                                 "href": "#P3005.3",
                                 "isCodeDivider": false,
                                 "isCodeDividerClickable": false,
-                                "orderIndex": 38640000,
                                 "reference": "P3005.3"
                             },
                             {
@@ -1076,7 +993,6 @@
                                         "href": "#P3005.4.1",
                                         "isCodeDivider": false,
                                         "isCodeDividerClickable": false,
-                                        "orderIndex": 38660000,
                                         "reference": "P3005.4.1"
                                     },
                                     {
@@ -1088,7 +1004,6 @@
                                         "href": "#P3005.4.2",
                                         "isCodeDivider": false,
                                         "isCodeDividerClickable": false,
-                                        "orderIndex": 38670000,
                                         "reference": "P3005.4.2"
                                     }
                                 ],
@@ -1098,7 +1013,6 @@
                                 "href": "#P3005.4",
                                 "isCodeDivider": false,
                                 "isCodeDividerClickable": false,
-                                "orderIndex": 38650000,
                                 "reference": "P3005.4"
                             },
                             {
@@ -1110,7 +1024,6 @@
                                 "href": "#P3005.5",
                                 "isCodeDivider": false,
                                 "isCodeDividerClickable": false,
-                                "orderIndex": 38680000,
                                 "reference": "P3005.5"
                             }
                         ],
@@ -1120,7 +1033,6 @@
                         "href": "#P3005",
                         "isCodeDivider": false,
                         "isCodeDividerClickable": false,
-                        "orderIndex": 38410000,
                         "reference": "P3005"
                     },
                     {
@@ -1135,7 +1047,6 @@
                                 "href": "#P3006.1",
                                 "isCodeDivider": false,
                                 "isCodeDividerClickable": false,
-                                "orderIndex": 38700000,
                                 "reference": "P3006.1"
                             },
                             {
@@ -1147,7 +1058,6 @@
                                 "href": "#P3006.2",
                                 "isCodeDivider": false,
                                 "isCodeDividerClickable": false,
-                                "orderIndex": 38710000,
                                 "reference": "P3006.2"
                             },
                             {
@@ -1159,7 +1069,6 @@
                                 "href": "#P3006.3",
                                 "isCodeDivider": false,
                                 "isCodeDividerClickable": false,
-                                "orderIndex": 38720000,
                                 "reference": "P3006.3"
                             }
                         ],
@@ -1169,7 +1078,6 @@
                         "href": "#P3006",
                         "isCodeDivider": false,
                         "isCodeDividerClickable": false,
-                        "orderIndex": 38690000,
                         "reference": "P3006"
                     },
                     {
@@ -1184,7 +1092,6 @@
                                 "href": "#P3007.1",
                                 "isCodeDivider": false,
                                 "isCodeDividerClickable": false,
-                                "orderIndex": 38740000,
                                 "reference": "P3007.1"
                             },
                             {
@@ -1196,7 +1103,6 @@
                                 "href": "#P3007.2",
                                 "isCodeDivider": false,
                                 "isCodeDividerClickable": false,
-                                "orderIndex": 38750000,
                                 "reference": "P3007.2"
                             },
                             {
@@ -1211,7 +1117,6 @@
                                         "href": "#P3007.3.1",
                                         "isCodeDivider": false,
                                         "isCodeDividerClickable": false,
-                                        "orderIndex": 38770000,
                                         "reference": "P3007.3.1"
                                     },
                                     {
@@ -1223,7 +1128,6 @@
                                         "href": "#P3007.3.2",
                                         "isCodeDivider": false,
                                         "isCodeDividerClickable": false,
-                                        "orderIndex": 38780000,
                                         "reference": "P3007.3.2"
                                     },
                                     {
@@ -1238,7 +1142,6 @@
                                                 "href": "#P3007.3.3.1",
                                                 "isCodeDivider": false,
                                                 "isCodeDividerClickable": false,
-                                                "orderIndex": 38800000,
                                                 "reference": "P3007.3.3.1"
                                             },
                                             {
@@ -1250,7 +1153,6 @@
                                                 "href": "#P3007.3.3.2",
                                                 "isCodeDivider": false,
                                                 "isCodeDividerClickable": false,
-                                                "orderIndex": 38810000,
                                                 "reference": "P3007.3.3.2"
                                             }
                                         ],
@@ -1260,7 +1162,6 @@
                                         "href": "#P3007.3.3",
                                         "isCodeDivider": false,
                                         "isCodeDividerClickable": false,
-                                        "orderIndex": 38790000,
                                         "reference": "P3007.3.3"
                                     },
                                     {
@@ -1272,7 +1173,6 @@
                                         "href": "#P3007.3.4",
                                         "isCodeDivider": false,
                                         "isCodeDividerClickable": false,
-                                        "orderIndex": 38820000,
                                         "reference": "P3007.3.4"
                                     },
                                     {
@@ -1284,7 +1184,6 @@
                                         "href": "#P3007.3.5",
                                         "isCodeDivider": false,
                                         "isCodeDividerClickable": false,
-                                        "orderIndex": 38830000,
                                         "reference": "P3007.3.5"
                                     }
                                 ],
@@ -1294,7 +1193,6 @@
                                 "href": "#P3007.3",
                                 "isCodeDivider": false,
                                 "isCodeDividerClickable": false,
-                                "orderIndex": 38760000,
                                 "reference": "P3007.3"
                             },
                             {
@@ -1306,7 +1204,6 @@
                                 "href": "#P3007.4",
                                 "isCodeDivider": false,
                                 "isCodeDividerClickable": false,
-                                "orderIndex": 38840000,
                                 "reference": "P3007.4"
                             },
                             {
@@ -1318,7 +1215,6 @@
                                 "href": "#P3007.5",
                                 "isCodeDivider": false,
                                 "isCodeDividerClickable": false,
-                                "orderIndex": 38850000,
                                 "reference": "P3007.5"
                             },
                             {
@@ -1330,7 +1226,6 @@
                                 "href": "#P3007.6",
                                 "isCodeDivider": false,
                                 "isCodeDividerClickable": false,
-                                "orderIndex": 38860000,
                                 "reference": "P3007.6"
                             }
                         ],
@@ -1340,7 +1235,6 @@
                         "href": "#P3007",
                         "isCodeDivider": false,
                         "isCodeDividerClickable": false,
-                        "orderIndex": 38730000,
                         "reference": "P3007"
                     },
                     {
@@ -1355,7 +1249,6 @@
                                 "href": "#P3008.1",
                                 "isCodeDivider": false,
                                 "isCodeDividerClickable": false,
-                                "orderIndex": 38880000,
                                 "reference": "P3008.1"
                             },
                             {
@@ -1367,7 +1260,6 @@
                                 "href": "#P3008.2",
                                 "isCodeDivider": false,
                                 "isCodeDividerClickable": false,
-                                "orderIndex": 38890000,
                                 "reference": "P3008.2"
                             },
                             {
@@ -1379,7 +1271,6 @@
                                 "href": "#P3008.3",
                                 "isCodeDivider": false,
                                 "isCodeDividerClickable": false,
-                                "orderIndex": 38900000,
                                 "reference": "P3008.3"
                             },
                             {
@@ -1391,7 +1282,6 @@
                                 "href": "#P3008.4",
                                 "isCodeDivider": false,
                                 "isCodeDividerClickable": false,
-                                "orderIndex": 38910000,
                                 "reference": "P3008.4"
                             }
                         ],
@@ -1401,7 +1291,6 @@
                         "href": "#P3008",
                         "isCodeDivider": false,
                         "isCodeDividerClickable": false,
-                        "orderIndex": 38870000,
                         "reference": "P3008"
                     },
                     {
@@ -1416,7 +1305,6 @@
                                 "href": "#P3009.1",
                                 "isCodeDivider": false,
                                 "isCodeDividerClickable": false,
-                                "orderIndex": 38930000,
                                 "reference": "P3009.1"
                             },
                             {
@@ -1428,7 +1316,6 @@
                                 "href": "#P3009.2",
                                 "isCodeDivider": false,
                                 "isCodeDividerClickable": false,
-                                "orderIndex": 38940000,
                                 "reference": "P3009.2"
                             },
                             {
@@ -1440,7 +1327,6 @@
                                 "href": "#P3009.3",
                                 "isCodeDivider": false,
                                 "isCodeDividerClickable": false,
-                                "orderIndex": 38950000,
                                 "reference": "P3009.3"
                             },
                             {
@@ -1452,7 +1338,6 @@
                                 "href": "#P3009.4",
                                 "isCodeDivider": false,
                                 "isCodeDividerClickable": false,
-                                "orderIndex": 38960000,
                                 "reference": "P3009.4"
                             },
                             {
@@ -1464,7 +1349,6 @@
                                 "href": "#P3009.5",
                                 "isCodeDivider": false,
                                 "isCodeDividerClickable": false,
-                                "orderIndex": 38970000,
                                 "reference": "P3009.5"
                             },
                             {
@@ -1476,7 +1360,6 @@
                                 "href": "#P3009.6",
                                 "isCodeDivider": false,
                                 "isCodeDividerClickable": false,
-                                "orderIndex": 38980000,
                                 "reference": "P3009.6"
                             },
                             {
@@ -1488,7 +1371,6 @@
                                 "href": "#P3009.7",
                                 "isCodeDivider": false,
                                 "isCodeDividerClickable": false,
-                                "orderIndex": 38990000,
                                 "reference": "P3009.7"
                             },
                             {
@@ -1506,7 +1388,6 @@
                                                 "href": "#P3009.8.1.1",
                                                 "isCodeDivider": false,
                                                 "isCodeDividerClickable": false,
-                                                "orderIndex": 39020000,
                                                 "reference": "P3009.8.1.1"
                                             },
                                             {
@@ -1518,7 +1399,6 @@
                                                 "href": "#P3009.8.1.2",
                                                 "isCodeDivider": false,
                                                 "isCodeDividerClickable": false,
-                                                "orderIndex": 39030000,
                                                 "reference": "P3009.8.1.2"
                                             },
                                             {
@@ -1530,7 +1410,6 @@
                                                 "href": "#P3009.8.1.3",
                                                 "isCodeDivider": false,
                                                 "isCodeDividerClickable": false,
-                                                "orderIndex": 39040000,
                                                 "reference": "P3009.8.1.3"
                                             },
                                             {
@@ -1542,7 +1421,6 @@
                                                 "href": "#P3009.8.1.4",
                                                 "isCodeDivider": false,
                                                 "isCodeDividerClickable": false,
-                                                "orderIndex": 39050000,
                                                 "reference": "P3009.8.1.4"
                                             }
                                         ],
@@ -1552,7 +1430,6 @@
                                         "href": "#P3009.8.1",
                                         "isCodeDivider": false,
                                         "isCodeDividerClickable": false,
-                                        "orderIndex": 39010000,
                                         "reference": "P3009.8.1"
                                     },
                                     {
@@ -1564,7 +1441,6 @@
                                         "href": "#P3009.8.2",
                                         "isCodeDivider": false,
                                         "isCodeDividerClickable": false,
-                                        "orderIndex": 39060000,
                                         "reference": "P3009.8.2"
                                     }
                                 ],
@@ -1574,7 +1450,6 @@
                                 "href": "#P3009.8",
                                 "isCodeDivider": false,
                                 "isCodeDividerClickable": false,
-                                "orderIndex": 39000000,
                                 "reference": "P3009.8"
                             },
                             {
@@ -1586,7 +1461,6 @@
                                 "href": "#P3009.9",
                                 "isCodeDivider": false,
                                 "isCodeDividerClickable": false,
-                                "orderIndex": 39070000,
                                 "reference": "P3009.9"
                             },
                             {
@@ -1601,7 +1475,6 @@
                                         "href": "#P3009.10.1",
                                         "isCodeDivider": false,
                                         "isCodeDividerClickable": false,
-                                        "orderIndex": 39090000,
                                         "reference": "P3009.10.1"
                                     },
                                     {
@@ -1613,7 +1486,6 @@
                                         "href": "#P3009.10.2",
                                         "isCodeDivider": false,
                                         "isCodeDividerClickable": false,
-                                        "orderIndex": 39100000,
                                         "reference": "P3009.10.2"
                                     },
                                     {
@@ -1625,7 +1497,6 @@
                                         "href": "#P3009.10.3",
                                         "isCodeDivider": false,
                                         "isCodeDividerClickable": false,
-                                        "orderIndex": 39110000,
                                         "reference": "P3009.10.3"
                                     },
                                     {
@@ -1637,7 +1508,6 @@
                                         "href": "#P3009.10.4",
                                         "isCodeDivider": false,
                                         "isCodeDividerClickable": false,
-                                        "orderIndex": 39120000,
                                         "reference": "P3009.10.4"
                                     },
                                     {
@@ -1649,7 +1519,6 @@
                                         "href": "#P3009.10.5",
                                         "isCodeDivider": false,
                                         "isCodeDividerClickable": false,
-                                        "orderIndex": 39130000,
                                         "reference": "P3009.10.5"
                                     }
                                 ],
@@ -1659,7 +1528,6 @@
                                 "href": "#P3009.10",
                                 "isCodeDivider": false,
                                 "isCodeDividerClickable": false,
-                                "orderIndex": 39080000,
                                 "reference": "P3009.10"
                             },
                             {
@@ -1674,7 +1542,6 @@
                                         "href": "#P3009.11.1",
                                         "isCodeDivider": false,
                                         "isCodeDividerClickable": false,
-                                        "orderIndex": 39150000,
                                         "reference": "P3009.11.1"
                                     }
                                 ],
@@ -1684,7 +1551,6 @@
                                 "href": "#P3009.11",
                                 "isCodeDivider": false,
                                 "isCodeDividerClickable": false,
-                                "orderIndex": 39140000,
                                 "reference": "P3009.11"
                             }
                         ],
@@ -1694,7 +1560,6 @@
                         "href": "#P3009",
                         "isCodeDivider": false,
                         "isCodeDividerClickable": false,
-                        "orderIndex": 38920000,
                         "reference": "P3009"
                     },
                     {
@@ -1709,7 +1574,6 @@
                                 "href": "#P3010.1",
                                 "isCodeDivider": false,
                                 "isCodeDividerClickable": false,
-                                "orderIndex": 39170000,
                                 "reference": "P3010.1"
                             },
                             {
@@ -1721,7 +1585,6 @@
                                 "href": "#P3010.2",
                                 "isCodeDivider": false,
                                 "isCodeDividerClickable": false,
-                                "orderIndex": 39180000,
                                 "reference": "P3010.2"
                             },
                             {
@@ -1733,7 +1596,6 @@
                                 "href": "#P3010.3",
                                 "isCodeDivider": false,
                                 "isCodeDividerClickable": false,
-                                "orderIndex": 39190000,
                                 "reference": "P3010.3"
                             },
                             {
@@ -1745,7 +1607,6 @@
                                 "href": "#P3010.4",
                                 "isCodeDivider": false,
                                 "isCodeDividerClickable": false,
-                                "orderIndex": 39200000,
                                 "reference": "P3010.4"
                             },
                             {
@@ -1757,7 +1618,6 @@
                                 "href": "#P3010.5",
                                 "isCodeDivider": false,
                                 "isCodeDividerClickable": false,
-                                "orderIndex": 39210000,
                                 "reference": "P3010.5"
                             },
                             {
@@ -1769,7 +1629,6 @@
                                 "href": "#P3010.6",
                                 "isCodeDivider": false,
                                 "isCodeDividerClickable": false,
-                                "orderIndex": 39220000,
                                 "reference": "P3010.6"
                             },
                             {
@@ -1781,7 +1640,6 @@
                                 "href": "#P3010.7",
                                 "isCodeDivider": false,
                                 "isCodeDividerClickable": false,
-                                "orderIndex": 39230000,
                                 "reference": "P3010.7"
                             },
                             {
@@ -1793,7 +1651,6 @@
                                 "href": "#P3010.8",
                                 "isCodeDivider": false,
                                 "isCodeDividerClickable": false,
-                                "orderIndex": 39240000,
                                 "reference": "P3010.8"
                             }
                         ],
@@ -1803,7 +1660,6 @@
                         "href": "#P3010",
                         "isCodeDivider": false,
                         "isCodeDividerClickable": false,
-                        "orderIndex": 39160000,
                         "reference": "P3010"
                     },
                     {
@@ -1818,7 +1674,6 @@
                                 "href": "#P3011.1",
                                 "isCodeDivider": false,
                                 "isCodeDividerClickable": false,
-                                "orderIndex": 39260000,
                                 "reference": "P3011.1"
                             },
                             {
@@ -1830,7 +1685,6 @@
                                 "href": "#P3011.2",
                                 "isCodeDivider": false,
                                 "isCodeDividerClickable": false,
-                                "orderIndex": 39270000,
                                 "reference": "P3011.2"
                             },
                             {
@@ -1845,7 +1699,6 @@
                                         "href": "#P3011.3.1",
                                         "isCodeDivider": false,
                                         "isCodeDividerClickable": false,
-                                        "orderIndex": 39290000,
                                         "reference": "P3011.3.1"
                                     }
                                 ],
@@ -1855,7 +1708,6 @@
                                 "href": "#P3011.3",
                                 "isCodeDivider": false,
                                 "isCodeDividerClickable": false,
-                                "orderIndex": 39280000,
                                 "reference": "P3011.3"
                             },
                             {
@@ -1867,7 +1719,6 @@
                                 "href": "#P3011.4",
                                 "isCodeDivider": false,
                                 "isCodeDividerClickable": false,
-                                "orderIndex": 39300000,
                                 "reference": "P3011.4"
                             },
                             {
@@ -1879,7 +1730,6 @@
                                 "href": "#P3011.5",
                                 "isCodeDivider": false,
                                 "isCodeDividerClickable": false,
-                                "orderIndex": 39310000,
                                 "reference": "P3011.5"
                             },
                             {
@@ -1891,7 +1741,6 @@
                                 "href": "#P3011.6",
                                 "isCodeDivider": false,
                                 "isCodeDividerClickable": false,
-                                "orderIndex": 39320000,
                                 "reference": "P3011.6"
                             },
                             {
@@ -1906,7 +1755,6 @@
                                         "href": "#P3011.7.1",
                                         "isCodeDivider": false,
                                         "isCodeDividerClickable": false,
-                                        "orderIndex": 39340000,
                                         "reference": "P3011.7.1"
                                     }
                                 ],
@@ -1916,7 +1764,6 @@
                                 "href": "#P3011.7",
                                 "isCodeDivider": false,
                                 "isCodeDividerClickable": false,
-                                "orderIndex": 39330000,
                                 "reference": "P3011.7"
                             },
                             {
@@ -1928,7 +1775,6 @@
                                 "href": "#P3011.8",
                                 "isCodeDivider": false,
                                 "isCodeDividerClickable": false,
-                                "orderIndex": 39350000,
                                 "reference": "P3011.8"
                             },
                             {
@@ -1940,7 +1786,6 @@
                                 "href": "#P3011.9",
                                 "isCodeDivider": false,
                                 "isCodeDividerClickable": false,
-                                "orderIndex": 39360000,
                                 "reference": "P3011.9"
                             },
                             {
@@ -1952,7 +1797,6 @@
                                 "href": "#P3011.10",
                                 "isCodeDivider": false,
                                 "isCodeDividerClickable": false,
-                                "orderIndex": 39370000,
                                 "reference": "P3011.10"
                             }
                         ],
@@ -1962,7 +1806,6 @@
                         "href": "#P3011",
                         "isCodeDivider": false,
                         "isCodeDividerClickable": false,
-                        "orderIndex": 39250000,
                         "reference": "P3011"
                     }
                 ],
@@ -1971,641 +1814,549 @@
                     {
                         "displayTitle": "Part I\u2014 Administrative",
                         "isCodeDivider": true,
-                        "orderIndex": 10000,
                         "reference": "divider_0_I\u2014",
                         "slug": "administrative"
                     },
                     {
                         "displayTitle": "Chapter 1 Scope and Administration",
                         "isExpandable": true,
-                        "orderIndex": 20000,
                         "reference": "1",
                         "slug": "scope-and-administration"
                     },
                     {
                         "displayTitle": "Part II\u2014 Definitions",
                         "isCodeDivider": true,
-                        "orderIndex": 2440000,
                         "reference": "divider_0_II\u2014",
                         "slug": "definitions"
                     },
                     {
                         "displayTitle": "Chapter 2 Definitions",
                         "isExpandable": true,
-                        "orderIndex": 2450000,
                         "reference": "2",
                         "slug": "definitions"
                     },
                     {
                         "displayTitle": "Part III\u2014 Building Planning and Construction",
                         "isCodeDivider": true,
-                        "orderIndex": 2520000,
                         "reference": "divider_0_III\u2014",
                         "slug": "building-planning-and-construction"
                     },
                     {
                         "displayTitle": "Chapter 3 Building Planning",
                         "isExpandable": true,
-                        "orderIndex": 2530000,
                         "reference": "3",
                         "slug": "building-planning"
                     },
                     {
                         "displayTitle": "Chapter 4 Foundations",
                         "isExpandable": true,
-                        "orderIndex": 8130000,
                         "reference": "4",
                         "slug": "foundations"
                     },
                     {
                         "displayTitle": "Chapter 5 Floors",
                         "isExpandable": true,
-                        "orderIndex": 9580000,
                         "reference": "5",
                         "slug": "floors"
                     },
                     {
                         "displayTitle": "Chapter 6 Wall Construction",
                         "isExpandable": true,
-                        "orderIndex": 11040000,
                         "reference": "6",
                         "slug": "wall-construction"
                     },
                     {
                         "displayTitle": "Chapter 7 Wall Covering",
                         "isExpandable": true,
-                        "orderIndex": 14720000,
                         "reference": "7",
                         "slug": "wall-covering"
                     },
                     {
                         "displayTitle": "Chapter 8 Roof-Ceiling Construction",
                         "isExpandable": true,
-                        "orderIndex": 16050000,
                         "reference": "8",
                         "slug": "roof-ceiling-construction"
                     },
                     {
                         "displayTitle": "Chapter 9 Roof Assemblies",
                         "isExpandable": true,
-                        "orderIndex": 17070000,
                         "reference": "9",
                         "slug": "roof-assemblies"
                     },
                     {
                         "displayTitle": "Chapter 10 Chimneys and Fireplaces",
                         "isExpandable": true,
-                        "orderIndex": 18780000,
                         "reference": "10",
                         "slug": "chimneys-and-fireplaces"
                     },
                     {
                         "displayTitle": "Part IV\u2014 Energy Conservation",
                         "isCodeDivider": true,
-                        "orderIndex": 19720000,
                         "reference": "divider_0_IV\u2014",
                         "slug": "energy-conservation"
                     },
                     {
                         "displayTitle": "Chapter 11 [RE] Energy Efficiency",
                         "isExpandable": true,
-                        "orderIndex": 19730000,
                         "reference": "11",
                         "slug": "re-energy-efficiency"
                     },
                     {
                         "displayTitle": "Part V\u2014 Mechanical",
                         "isCodeDivider": true,
-                        "orderIndex": 22140000,
                         "reference": "divider_0_V\u2014",
                         "slug": "mechanical"
                     },
                     {
                         "displayTitle": "Chapter 12 Mechanical Administration",
                         "isExpandable": true,
-                        "orderIndex": 22150000,
                         "reference": "12",
                         "slug": "mechanical-administration"
                     },
                     {
                         "displayTitle": "Chapter 13 General Mechanical System Requirements",
                         "isExpandable": true,
-                        "orderIndex": 22250000,
                         "reference": "13",
                         "slug": "general-mechanical-system-requirements"
                     },
                     {
                         "displayTitle": "Chapter 14 Heating and Cooling Equipment and Appliances",
                         "isExpandable": true,
-                        "orderIndex": 22750000,
                         "reference": "14",
                         "slug": "heating-and-cooling-equipment-and-appliances"
                     },
                     {
                         "displayTitle": "Chapter 15 Exhaust Systems",
                         "isExpandable": true,
-                        "orderIndex": 23560000,
                         "reference": "15",
                         "slug": "exhaust-systems"
                     },
                     {
                         "displayTitle": "Chapter 16 Duct Systems",
                         "isExpandable": true,
-                        "orderIndex": 24030000,
                         "reference": "16",
                         "slug": "duct-systems"
                     },
                     {
                         "displayTitle": "Chapter 17 Combustion Air",
                         "isExpandable": true,
-                        "orderIndex": 24320000,
                         "reference": "17",
                         "slug": "combustion-air"
                     },
                     {
                         "displayTitle": "Chapter 18 Chimneys and Vents",
                         "isExpandable": true,
-                        "orderIndex": 24370000,
                         "reference": "18",
                         "slug": "chimneys-and-vents"
                     },
                     {
                         "displayTitle": "Chapter 19 Special Appliances, Equipment and Systems",
                         "isExpandable": true,
-                        "orderIndex": 24940000,
                         "reference": "19",
                         "slug": "special-appliances-equipment-and-systems"
                     },
                     {
                         "displayTitle": "Chapter 20 Boilers and Water Heaters",
                         "isExpandable": true,
-                        "orderIndex": 25080000,
                         "reference": "20",
                         "slug": "boilers-and-water-heaters"
                     },
                     {
                         "displayTitle": "Chapter 21 Hydronic Piping",
                         "isExpandable": true,
-                        "orderIndex": 25390000,
                         "reference": "21",
                         "slug": "hydronic-piping"
                     },
                     {
                         "displayTitle": "Chapter 22 Special Piping and Storage Systems",
                         "isExpandable": true,
-                        "orderIndex": 26650000,
                         "reference": "22",
                         "slug": "special-piping-and-storage-systems"
                     },
                     {
                         "displayTitle": "Chapter 23 Solar Thermal Energy Systems",
                         "isExpandable": true,
-                        "orderIndex": 26930000,
                         "reference": "23",
                         "slug": "solar-thermal-energy-systems"
                     },
                     {
                         "displayTitle": "Part VI\u2014 Fuel Gas",
                         "isCodeDivider": true,
-                        "orderIndex": 27250000,
                         "reference": "divider_0_VI\u2014",
                         "slug": "fuel-gas"
                     },
                     {
                         "displayTitle": "Chapter 24 Fuel Gas",
                         "isExpandable": true,
-                        "orderIndex": 27260000,
                         "reference": "24",
                         "slug": "fuel-gas"
                     },
                     {
                         "displayTitle": "Part VII\u2014 Plumbing",
                         "isCodeDivider": true,
-                        "orderIndex": 33070000,
                         "reference": "divider_0_VII\u2014",
                         "slug": "plumbing"
                     },
                     {
                         "displayTitle": "Chapter 25 Plumbing Administration",
                         "isExpandable": true,
-                        "orderIndex": 33080000,
                         "reference": "25",
                         "slug": "plumbing-administration"
                     },
                     {
                         "displayTitle": "Chapter 26 General Plumbing Requirements",
                         "isExpandable": true,
-                        "orderIndex": 33290000,
                         "reference": "26",
                         "slug": "general-plumbing-requirements"
                     },
                     {
                         "displayTitle": "Chapter 27 Plumbing Fixtures",
                         "isExpandable": true,
-                        "orderIndex": 33680000,
                         "reference": "27",
                         "slug": "plumbing-fixtures"
                     },
                     {
                         "displayTitle": "Chapter 28 Water Heaters",
                         "isExpandable": true,
-                        "orderIndex": 34670000,
                         "reference": "28",
                         "slug": "water-heaters"
                     },
                     {
                         "displayTitle": "Chapter 29 Water Supply and Distribution",
                         "isExpandable": true,
-                        "orderIndex": 34950000,
                         "reference": "29",
                         "slug": "water-supply-and-distribution"
                     },
                     {
                         "displayTitle": "Chapter 30 Sanitary Drainage",
                         "isExpandable": true,
-                        "orderIndex": 37790000,
                         "reference": "30",
                         "slug": "sanitary-drainage"
                     },
                     {
                         "displayTitle": "Chapter 31 Vents",
                         "isExpandable": true,
-                        "orderIndex": 39380000,
                         "reference": "31",
                         "slug": "vents"
                     },
                     {
                         "displayTitle": "Chapter 32 Traps",
                         "isExpandable": true,
-                        "orderIndex": 40230000,
                         "reference": "32",
                         "slug": "traps"
                     },
                     {
                         "displayTitle": "Chapter 33 Storm Drainage",
                         "isExpandable": true,
-                        "orderIndex": 40390000,
                         "reference": "33",
                         "slug": "storm-drainage"
                     },
                     {
                         "displayTitle": "Part VIII\u2014 Electrical",
                         "isCodeDivider": true,
-                        "orderIndex": 40500000,
                         "reference": "divider_0_VIII\u2014",
                         "slug": "electrical"
                     },
                     {
                         "displayTitle": "Chapter 34 General Requirements",
                         "isExpandable": true,
-                        "orderIndex": 40510000,
                         "reference": "34",
                         "slug": "general-requirements"
                     },
                     {
                         "displayTitle": "Chapter 35 Electrical Definitions",
                         "isExpandable": true,
-                        "orderIndex": 41250000,
                         "reference": "35",
                         "slug": "electrical-definitions"
                     },
                     {
                         "displayTitle": "Chapter 36 Services",
                         "isExpandable": true,
-                        "orderIndex": 41280000,
                         "reference": "36",
                         "slug": "services"
                     },
                     {
                         "displayTitle": "Chapter 37 Branch Circuit and Feeder Requirements",
                         "isExpandable": true,
-                        "orderIndex": 42550000,
                         "reference": "37",
                         "slug": "branch-circuit-and-feeder-requirements"
                     },
                     {
                         "displayTitle": "Chapter 38 Wiring Methods",
                         "isExpandable": true,
-                        "orderIndex": 43320000,
                         "reference": "38",
                         "slug": "wiring-methods"
                     },
                     {
                         "displayTitle": "Chapter 39 Power and Lighting Distribution",
                         "isExpandable": true,
-                        "orderIndex": 43650000,
                         "reference": "39",
                         "slug": "power-and-lighting-distribution"
                     },
                     {
                         "displayTitle": "Chapter 40 Devices and Luminaires",
                         "isExpandable": true,
-                        "orderIndex": 45400000,
                         "reference": "40",
                         "slug": "devices-and-luminaires"
                     },
                     {
                         "displayTitle": "Chapter 41 Appliance Installation",
                         "isExpandable": true,
-                        "orderIndex": 46160000,
                         "reference": "41",
                         "slug": "appliance-installation"
                     },
                     {
                         "displayTitle": "Chapter 42 Swimming Pools",
                         "isExpandable": true,
-                        "orderIndex": 46280000,
                         "reference": "42",
                         "slug": "swimming-pools"
                     },
                     {
                         "displayTitle": "Chapter 43 Class 2 Remote-Control, Signaling and Power-Limited Circuits",
                         "isExpandable": true,
-                        "orderIndex": 47300000,
                         "reference": "43",
                         "slug": "class-2-remote-control-signaling-and-power-limited-circuits"
                     },
                     {
                         "displayTitle": "Part IX\u2014 Referenced Standards",
                         "isCodeDivider": true,
-                        "orderIndex": 47500000,
                         "reference": "divider_0_IX\u2014",
                         "slug": "referenced-standards"
                     },
                     {
                         "displayTitle": "Chapter 44 Referenced Standards",
-                        "orderIndex": 47510000,
                         "reference": "44",
                         "slug": "referenced-standards"
                     },
                     {
                         "disabled": true,
                         "displayTitle": "Appendix AA Board of Appeals",
-                        "orderIndex": 47520000,
                         "reference": "AA",
                         "slug": "board-of-appeals"
                     },
                     {
                         "disabled": true,
                         "displayTitle": "Appendix AB Permit Fees",
-                        "orderIndex": 47770000,
                         "reference": "AB",
                         "slug": "permit-fees"
                     },
                     {
                         "displayTitle": "Appendix AC Reserved",
-                        "orderIndex": 47800000,
                         "reference": "AC",
                         "slug": "reserved"
                     },
                     {
                         "disabled": true,
                         "displayTitle": "Appendix BA Manufactured Housing Used as Dwellings",
-                        "orderIndex": 47890000,
                         "reference": "BA",
                         "slug": "manufactured-housing-used-as-dwellings"
                     },
                     {
                         "disabled": true,
                         "displayTitle": "Appendix BB Tiny Houses",
-                        "orderIndex": 49130000,
                         "reference": "BB",
                         "slug": "tiny-houses"
                     },
                     {
                         "disabled": true,
                         "displayTitle": "Appendix BC Accessory Dwelling Units (ADU)",
-                        "orderIndex": 49470000,
                         "reference": "BC",
                         "slug": "accessory-dwelling-units-adu"
                     },
                     {
                         "disabled": true,
                         "displayTitle": "Appendix BD Home Day Care Occupancy",
-                        "orderIndex": 49660000,
                         "reference": "BD",
                         "slug": "home-day-care-occupancy"
                     },
                     {
                         "disabled": true,
                         "displayTitle": "Appendix BE Radon Control Methods",
-                        "orderIndex": 49880000,
                         "reference": "BE",
                         "slug": "radon-control-methods"
                     },
                     {
                         "disabled": true,
                         "displayTitle": "Appendix BF Patio Covers",
-                        "orderIndex": 50240000,
                         "reference": "BF",
                         "slug": "patio-covers"
                     },
                     {
                         "disabled": true,
                         "displayTitle": "Appendix BG Sound Transmission",
-                        "orderIndex": 50510000,
                         "reference": "BG",
                         "slug": "sound-transmission"
                     },
                     {
                         "disabled": true,
                         "displayTitle": "Appendix BH Automatic Vehicular Gates",
-                        "orderIndex": 50610000,
                         "reference": "BH",
                         "slug": "automatic-vehicular-gates"
                     },
                     {
                         "disabled": true,
                         "displayTitle": "Appendix BI Light Straw-Clay Construction",
-                        "orderIndex": 50710000,
                         "reference": "BI",
                         "slug": "light-straw-clay-construction"
                     },
                     {
                         "disabled": true,
                         "displayTitle": "Appendix BJ Strawbale Construction",
-                        "orderIndex": 51070000,
                         "reference": "BJ",
                         "slug": "strawbale-construction"
                     },
                     {
                         "disabled": true,
                         "displayTitle": "Appendix BK Cob Construction (Monolithic Adobe)",
-                        "orderIndex": 52100000,
                         "reference": "BK",
                         "slug": "cob-construction-monolithic-adobe"
                     },
                     {
                         "disabled": true,
                         "displayTitle": "Appendix BL Hemp-Lime (HempCrete) Construction",
-                        "orderIndex": 53080000,
                         "reference": "BL",
                         "slug": "hemp-lime-hempcrete-construction"
                     },
                     {
                         "disabled": true,
                         "displayTitle": "Appendix BM 3D-Printed Building Construction",
-                        "orderIndex": 54030000,
                         "reference": "BM",
                         "slug": "3d-printed-building-construction"
                     },
                     {
                         "disabled": true,
                         "displayTitle": "Appendix BN Extended Plate Wall Construction",
-                        "orderIndex": 54200000,
                         "reference": "BN",
                         "slug": "extended-plate-wall-construction"
                     },
                     {
                         "disabled": true,
                         "displayTitle": "Appendix BO Existing Buildings and Structures",
-                        "orderIndex": 54330000,
                         "reference": "BO",
                         "slug": "existing-buildings-and-structures"
                     },
                     {
                         "disabled": true,
                         "displayTitle": "Appendix CA Sizing and Capacities of Gas Piping",
-                        "orderIndex": 57420000,
                         "reference": "CA",
                         "slug": "sizing-and-capacities-of-gas-piping"
                     },
                     {
                         "disabled": true,
                         "displayTitle": "Appendix CB Sizing of Venting Systems Serving Appliances Equipped With Draft Hoods, Category I Appliances and Appliances Listed for Use With Type B Vents",
-                        "orderIndex": 57640000,
                         "reference": "CB",
                         "slug": "sizing-of-venting-systems-serving-appliances-equipped-with-draft-hoods-category"
                     },
                     {
                         "disabled": true,
                         "displayTitle": "Appendix CC Recommended Procedure for Safety Inspection of an Existing Appliance Installation",
-                        "orderIndex": 57760000,
                         "reference": "CC",
                         "slug": "recommended-procedure-for-safety-inspection-of-an-existing-appliance-installatio"
                     },
                     {
                         "displayTitle": "Appendix CD Piping Standards for Various Applications",
                         "isExpandable": true,
-                        "orderIndex": 57900000,
                         "reference": "CD",
                         "slug": "piping-standards-for-various-applications"
                     },
                     {
                         "disabled": true,
                         "displayTitle": "Appendix CE Venting Methods",
-                        "orderIndex": 57950000,
                         "reference": "CE",
                         "slug": "venting-methods"
                     },
                     {
                         "disabled": true,
                         "displayTitle": "Appendix CF Sizing of Water Piping System",
-                        "orderIndex": 57980000,
                         "reference": "CF",
                         "slug": "sizing-of-water-piping-system"
                     },
                     {
                         "disabled": true,
                         "displayTitle": "Appendix CG Nonsewered Sanitation Systems",
-                        "orderIndex": 58170000,
                         "reference": "CG",
                         "slug": "nonsewered-sanitation-systems"
                     },
                     {
                         "disabled": true,
                         "displayTitle": "Appendix CH Private Sewage Disposal",
-                        "orderIndex": 58370000,
                         "reference": "CH",
                         "slug": "private-sewage-disposal"
                     },
                     {
                         "displayTitle": "Appendix NA Reserved",
-                        "orderIndex": 58400000,
                         "reference": "NA",
                         "slug": "reserved"
                     },
                     {
                         "disabled": true,
                         "displayTitle": "Appendix NB (RB) Solar-Ready Provisions\u2014Detached One- And Two-Family Dwellings and Townhouses",
-                        "orderIndex": 58410000,
                         "reference": "NB",
                         "slug": "rb-solar-ready-provisions-detached-one-and-two-family-dwellings-and-townhouses"
                     },
                     {
                         "disabled": true,
                         "displayTitle": "Appendix NC (RC) Zero Net Energy Residential Building Provisions",
-                        "orderIndex": 58560000,
                         "reference": "NC",
                         "slug": "rc-zero-net-energy-residential-building-provisions"
                     },
                     {
                         "disabled": true,
                         "displayTitle": "Appendix ND (rd) Electric Energy Storage Provisions",
-                        "orderIndex": 58730000,
                         "reference": "ND",
                         "slug": "rd-electric-energy-storage-provisions"
                     },
                     {
                         "disabled": true,
                         "displayTitle": "Appendix NE (RE) Electric Vehicle Charging Infrastructure",
-                        "orderIndex": 58860000,
                         "reference": "NE",
                         "slug": "re-electric-vehicle-charging-infrastructure"
                     },
                     {
                         "disabled": true,
                         "displayTitle": "Appendix NF (RF) Alternative Building Thermal Envelope Insulation R -Value Options",
-                        "orderIndex": 58950000,
                         "reference": "NF",
                         "slug": "rf-alternative-building-thermal-envelope-insulation-r-value-options"
                     },
                     {
                         "disabled": true,
                         "displayTitle": "Appendix NG (RG) 2024 IECC Stretch Code",
-                        "orderIndex": 59080000,
                         "reference": "NG",
                         "slug": "rg-2024-iecc-stretch-code"
                     },
                     {
                         "disabled": true,
                         "displayTitle": "Appendix NH (RH) Operational Carbon Rating and Energy Reporting",
-                        "orderIndex": 59130000,
                         "reference": "NH",
                         "slug": "rh-operational-carbon-rating-and-energy-reporting"
                     },
                     {
                         "disabled": true,
                         "displayTitle": "Appendix NI (RI) On-Site Renewable Energy",
-                        "orderIndex": 59200000,
                         "reference": "NI",
                         "slug": "ri-on-site-renewable-energy"
                     },
                     {
                         "disabled": true,
                         "displayTitle": "Appendix NJ (RJ) Demand Responsive Controls",
-                        "orderIndex": 59300000,
                         "reference": "NJ",
                         "slug": "rj-demand-responsive-controls"
                     },
                     {
                         "disabled": true,
                         "displayTitle": "Appendix NK (Rk) Electric-Ready Residential Building Provisions",
-                        "orderIndex": 59350000,
                         "reference": "NK",
                         "slug": "rk-electric-ready-residential-building-provisions"
                     },
                     {
                         "disabled": true,
                         "displayTitle": "Appendix NL (Rl) Renewable Energy Infrastructure",
-                        "orderIndex": 59420000,
                         "reference": "NL",
                         "slug": "rl-renewable-energy-infrastructure"
                     },
                     {
                         "disabled": true,
                         "displayTitle": "Resource A All-Electric Residential Buildings",
-                        "orderIndex": 60640000,
                         "reference": "resource_A",
                         "slug": "all-electric-residential-buildings"
                     }
@@ -2624,7 +2375,6 @@
                         "numAssembliesOnRef": 0,
                         "numBuildingProductsOnRef": 0,
                         "numDiagramsOnRef": 0,
-                        "orderIndex": 37790000,
                         "reference": "30",
                         "slug": "sanitary-drainage",
                         "titleText": "Sanitary Drainage",
@@ -2643,7 +2393,6 @@
                                 "numAssembliesOnRef": 0,
                                 "numBuildingProductsOnRef": 0,
                                 "numDiagramsOnRef": 0,
-                                "orderIndex": 37800000,
                                 "reference": "P3001",
                                 "slug": "sanitary-drainage",
                                 "titleText": "General",
@@ -2682,7 +2431,6 @@
                                         "numAssembliesOnRef": 0,
                                         "numBuildingProductsOnRef": 0,
                                         "numDiagramsOnRef": 1,
-                                        "orderIndex": 37810000,
                                         "reference": "P3001.1",
                                         "slug": "sanitary-drainage",
                                         "titleText": "Scope",
@@ -2703,7 +2451,6 @@
                                         "numAssembliesOnRef": 0,
                                         "numBuildingProductsOnRef": 0,
                                         "numDiagramsOnRef": 0,
-                                        "orderIndex": 37820000,
                                         "reference": "P3001.2",
                                         "slug": "sanitary-drainage",
                                         "titleText": "Protection From Freezing",
@@ -2724,7 +2471,6 @@
                                         "numAssembliesOnRef": 0,
                                         "numBuildingProductsOnRef": 0,
                                         "numDiagramsOnRef": 0,
-                                        "orderIndex": 37830000,
                                         "reference": "P3001.3",
                                         "slug": "sanitary-drainage",
                                         "titleText": "Flood-Resistant Installation",
@@ -2746,7 +2492,6 @@
                                 "numAssembliesOnRef": 0,
                                 "numBuildingProductsOnRef": 0,
                                 "numDiagramsOnRef": 0,
-                                "orderIndex": 37840000,
                                 "reference": "P3002",
                                 "slug": "sanitary-drainage",
                                 "titleText": "Materials",
@@ -2789,7 +2534,6 @@
                                         "numAssembliesOnRef": 0,
                                         "numBuildingProductsOnRef": 0,
                                         "numDiagramsOnRef": 1,
-                                        "orderIndex": 37850000,
                                         "reference": "P3002.1",
                                         "slug": "sanitary-drainage",
                                         "titleText": "Piping Within Buildings",
@@ -2810,7 +2554,6 @@
                                         "numAssembliesOnRef": 0,
                                         "numBuildingProductsOnRef": 0,
                                         "numDiagramsOnRef": 0,
-                                        "orderIndex": 37860000,
                                         "reference": "P3002.2",
                                         "slug": "sanitary-drainage",
                                         "titleText": "Building Sewer",
@@ -2854,7 +2597,6 @@
                                                 "numAssembliesOnRef": 0,
                                                 "numBuildingProductsOnRef": 0,
                                                 "numDiagramsOnRef": 1,
-                                                "orderIndex": 37870000,
                                                 "reference": "P3002.2.1",
                                                 "slug": "sanitary-drainage",
                                                 "titleText": "Building Sewer Pipe Near the Water Service",
@@ -2877,7 +2619,6 @@
                                         "numAssembliesOnRef": 0,
                                         "numBuildingProductsOnRef": 0,
                                         "numDiagramsOnRef": 0,
-                                        "orderIndex": 37880000,
                                         "reference": "P3002.3",
                                         "slug": "sanitary-drainage",
                                         "titleText": "Fittings",
@@ -2917,7 +2658,6 @@
                                                 "numAssembliesOnRef": 0,
                                                 "numBuildingProductsOnRef": 0,
                                                 "numDiagramsOnRef": 1,
-                                                "orderIndex": 37890000,
                                                 "reference": "P3002.3.1",
                                                 "slug": "sanitary-drainage",
                                                 "titleText": "Drainage",
@@ -2940,7 +2680,6 @@
                                         "numAssembliesOnRef": 0,
                                         "numBuildingProductsOnRef": 0,
                                         "numDiagramsOnRef": 0,
-                                        "orderIndex": 37900000,
                                         "reference": "P3002.4",
                                         "slug": "sanitary-drainage",
                                         "titleText": "Other Materials",
@@ -2961,7 +2700,6 @@
                                                 "numAssembliesOnRef": 0,
                                                 "numBuildingProductsOnRef": 0,
                                                 "numDiagramsOnRef": 0,
-                                                "orderIndex": 37910000,
                                                 "reference": "P3002.4.1",
                                                 "slug": "sanitary-drainage",
                                                 "titleText": "Sheet Lead",
@@ -2983,7 +2721,6 @@
                                                 "numAssembliesOnRef": 0,
                                                 "numBuildingProductsOnRef": 0,
                                                 "numDiagramsOnRef": 0,
-                                                "orderIndex": 37920000,
                                                 "reference": "P3002.4.2",
                                                 "slug": "sanitary-drainage",
                                                 "titleText": "Lead Bends and Traps",
@@ -3005,7 +2742,6 @@
                                                 "numAssembliesOnRef": 0,
                                                 "numBuildingProductsOnRef": 0,
                                                 "numDiagramsOnRef": 0,
-                                                "orderIndex": 37930000,
                                                 "reference": "P3002.4.3",
                                                 "slug": "sanitary-drainage",
                                                 "titleText": "Sheet Copper",
@@ -3029,7 +2765,6 @@
                                 "numAssembliesOnRef": 0,
                                 "numBuildingProductsOnRef": 0,
                                 "numDiagramsOnRef": 0,
-                                "orderIndex": 37940000,
                                 "reference": "P3003",
                                 "slug": "sanitary-drainage",
                                 "titleText": "Joints and Connections",
@@ -3049,7 +2784,6 @@
                                         "numAssembliesOnRef": 0,
                                         "numBuildingProductsOnRef": 0,
                                         "numDiagramsOnRef": 0,
-                                        "orderIndex": 37950000,
                                         "reference": "P3003.1",
                                         "slug": "sanitary-drainage",
                                         "titleText": "Tightness",
@@ -3070,7 +2804,6 @@
                                                 "numAssembliesOnRef": 0,
                                                 "numBuildingProductsOnRef": 0,
                                                 "numDiagramsOnRef": 0,
-                                                "orderIndex": 37960000,
                                                 "reference": "P3003.1.1",
                                                 "slug": "sanitary-drainage",
                                                 "titleText": "Threaded Joints, General",
@@ -3093,7 +2826,6 @@
                                         "numAssembliesOnRef": 0,
                                         "numBuildingProductsOnRef": 0,
                                         "numDiagramsOnRef": 0,
-                                        "orderIndex": 37970000,
                                         "reference": "P3003.2",
                                         "slug": "sanitary-drainage",
                                         "titleText": "Prohibited Joints",
@@ -3114,7 +2846,6 @@
                                         "numAssembliesOnRef": 0,
                                         "numBuildingProductsOnRef": 0,
                                         "numDiagramsOnRef": 0,
-                                        "orderIndex": 37980000,
                                         "reference": "P3003.3",
                                         "slug": "sanitary-drainage",
                                         "titleText": "ABS Plastic",
@@ -3135,7 +2866,6 @@
                                                 "numAssembliesOnRef": 0,
                                                 "numBuildingProductsOnRef": 0,
                                                 "numDiagramsOnRef": 0,
-                                                "orderIndex": 37990000,
                                                 "reference": "P3003.3.1",
                                                 "slug": "sanitary-drainage",
                                                 "titleText": "Mechanical Joints",
@@ -3157,7 +2887,6 @@
                                                 "numAssembliesOnRef": 0,
                                                 "numBuildingProductsOnRef": 0,
                                                 "numDiagramsOnRef": 0,
-                                                "orderIndex": 38000000,
                                                 "reference": "P3003.3.2",
                                                 "slug": "sanitary-drainage",
                                                 "titleText": "Solvent Cementing",
@@ -3179,7 +2908,6 @@
                                                 "numAssembliesOnRef": 0,
                                                 "numBuildingProductsOnRef": 0,
                                                 "numDiagramsOnRef": 0,
-                                                "orderIndex": 38010000,
                                                 "reference": "P3003.3.3",
                                                 "slug": "sanitary-drainage",
                                                 "titleText": "Threaded Joints",
@@ -3201,7 +2929,6 @@
                                                 "numAssembliesOnRef": 0,
                                                 "numBuildingProductsOnRef": 0,
                                                 "numDiagramsOnRef": 0,
-                                                "orderIndex": 38020000,
                                                 "reference": "P3003.3.4",
                                                 "slug": "sanitary-drainage",
                                                 "titleText": "Push-Fit Fitting Joints",
@@ -3224,7 +2951,6 @@
                                         "numAssembliesOnRef": 0,
                                         "numBuildingProductsOnRef": 0,
                                         "numDiagramsOnRef": 0,
-                                        "orderIndex": 38030000,
                                         "reference": "P3003.4",
                                         "slug": "sanitary-drainage",
                                         "titleText": "Cast Iron",
@@ -3245,7 +2971,6 @@
                                                 "numAssembliesOnRef": 0,
                                                 "numBuildingProductsOnRef": 0,
                                                 "numDiagramsOnRef": 0,
-                                                "orderIndex": 38040000,
                                                 "reference": "P3003.4.1",
                                                 "slug": "sanitary-drainage",
                                                 "titleText": "Caulked Joints",
@@ -3267,7 +2992,6 @@
                                                 "numAssembliesOnRef": 0,
                                                 "numBuildingProductsOnRef": 0,
                                                 "numDiagramsOnRef": 0,
-                                                "orderIndex": 38050000,
                                                 "reference": "P3003.4.2",
                                                 "slug": "sanitary-drainage",
                                                 "titleText": "Compression Gasket Joints",
@@ -3289,7 +3013,6 @@
                                                 "numAssembliesOnRef": 0,
                                                 "numBuildingProductsOnRef": 0,
                                                 "numDiagramsOnRef": 0,
-                                                "orderIndex": 38060000,
                                                 "reference": "P3003.4.3",
                                                 "slug": "sanitary-drainage",
                                                 "titleText": "Mechanical Joint Coupling",
@@ -3312,7 +3035,6 @@
                                         "numAssembliesOnRef": 0,
                                         "numBuildingProductsOnRef": 0,
                                         "numDiagramsOnRef": 0,
-                                        "orderIndex": 38070000,
                                         "reference": "P3003.5",
                                         "slug": "sanitary-drainage",
                                         "titleText": "Concrete Joints",
@@ -3333,7 +3055,6 @@
                                         "numAssembliesOnRef": 0,
                                         "numBuildingProductsOnRef": 0,
                                         "numDiagramsOnRef": 0,
-                                        "orderIndex": 38080000,
                                         "reference": "P3003.6",
                                         "slug": "sanitary-drainage",
                                         "titleText": "Copper and Copper-Alloy Pipe and Tubing",
@@ -3354,7 +3075,6 @@
                                                 "numAssembliesOnRef": 0,
                                                 "numBuildingProductsOnRef": 0,
                                                 "numDiagramsOnRef": 0,
-                                                "orderIndex": 38090000,
                                                 "reference": "P3003.6.1",
                                                 "slug": "sanitary-drainage",
                                                 "titleText": "Brazed Joints",
@@ -3376,7 +3096,6 @@
                                                 "numAssembliesOnRef": 0,
                                                 "numBuildingProductsOnRef": 0,
                                                 "numDiagramsOnRef": 0,
-                                                "orderIndex": 38100000,
                                                 "reference": "P3003.6.2",
                                                 "slug": "sanitary-drainage",
                                                 "titleText": "Mechanical Joints",
@@ -3398,7 +3117,6 @@
                                                 "numAssembliesOnRef": 0,
                                                 "numBuildingProductsOnRef": 0,
                                                 "numDiagramsOnRef": 0,
-                                                "orderIndex": 38110000,
                                                 "reference": "P3003.6.3",
                                                 "slug": "sanitary-drainage",
                                                 "titleText": "Soldered Joints",
@@ -3420,7 +3138,6 @@
                                                 "numAssembliesOnRef": 0,
                                                 "numBuildingProductsOnRef": 0,
                                                 "numDiagramsOnRef": 0,
-                                                "orderIndex": 38120000,
                                                 "reference": "P3003.6.4",
                                                 "slug": "sanitary-drainage",
                                                 "titleText": "Threaded Joints",
@@ -3443,7 +3160,6 @@
                                         "numAssembliesOnRef": 0,
                                         "numBuildingProductsOnRef": 0,
                                         "numDiagramsOnRef": 0,
-                                        "orderIndex": 38130000,
                                         "reference": "P3003.7",
                                         "slug": "sanitary-drainage",
                                         "titleText": "Steel",
@@ -3464,7 +3180,6 @@
                                                 "numAssembliesOnRef": 0,
                                                 "numBuildingProductsOnRef": 0,
                                                 "numDiagramsOnRef": 0,
-                                                "orderIndex": 38140000,
                                                 "reference": "P3003.7.1",
                                                 "slug": "sanitary-drainage",
                                                 "titleText": "Threaded Joints",
@@ -3486,7 +3201,6 @@
                                                 "numAssembliesOnRef": 0,
                                                 "numBuildingProductsOnRef": 0,
                                                 "numDiagramsOnRef": 0,
-                                                "orderIndex": 38150000,
                                                 "reference": "P3003.7.2",
                                                 "slug": "sanitary-drainage",
                                                 "titleText": "Mechanical Joints",
@@ -3509,7 +3223,6 @@
                                         "numAssembliesOnRef": 0,
                                         "numBuildingProductsOnRef": 0,
                                         "numDiagramsOnRef": 0,
-                                        "orderIndex": 38160000,
                                         "reference": "P3003.8",
                                         "slug": "sanitary-drainage",
                                         "titleText": "Lead",
@@ -3530,7 +3243,6 @@
                                                 "numAssembliesOnRef": 0,
                                                 "numBuildingProductsOnRef": 0,
                                                 "numDiagramsOnRef": 0,
-                                                "orderIndex": 38170000,
                                                 "reference": "P3003.8.1",
                                                 "slug": "sanitary-drainage",
                                                 "titleText": "Burned",
@@ -3552,7 +3264,6 @@
                                                 "numAssembliesOnRef": 0,
                                                 "numBuildingProductsOnRef": 0,
                                                 "numDiagramsOnRef": 0,
-                                                "orderIndex": 38180000,
                                                 "reference": "P3003.8.2",
                                                 "slug": "sanitary-drainage",
                                                 "titleText": "Wiped",
@@ -3575,7 +3286,6 @@
                                         "numAssembliesOnRef": 0,
                                         "numBuildingProductsOnRef": 0,
                                         "numDiagramsOnRef": 0,
-                                        "orderIndex": 38190000,
                                         "reference": "P3003.9",
                                         "slug": "sanitary-drainage",
                                         "titleText": "PVC Plastic",
@@ -3596,7 +3306,6 @@
                                                 "numAssembliesOnRef": 0,
                                                 "numBuildingProductsOnRef": 0,
                                                 "numDiagramsOnRef": 0,
-                                                "orderIndex": 38200000,
                                                 "reference": "P3003.9.1",
                                                 "slug": "sanitary-drainage",
                                                 "titleText": "Mechanical Joints",
@@ -3618,7 +3327,6 @@
                                                 "numAssembliesOnRef": 0,
                                                 "numBuildingProductsOnRef": 0,
                                                 "numDiagramsOnRef": 0,
-                                                "orderIndex": 38210000,
                                                 "reference": "P3003.9.2",
                                                 "slug": "sanitary-drainage",
                                                 "titleText": "Solvent Cementing",
@@ -3640,7 +3348,6 @@
                                                 "numAssembliesOnRef": 0,
                                                 "numBuildingProductsOnRef": 0,
                                                 "numDiagramsOnRef": 0,
-                                                "orderIndex": 38220000,
                                                 "reference": "P3003.9.3",
                                                 "slug": "sanitary-drainage",
                                                 "titleText": "Threaded Joints",
@@ -3662,7 +3369,6 @@
                                                 "numAssembliesOnRef": 0,
                                                 "numBuildingProductsOnRef": 0,
                                                 "numDiagramsOnRef": 0,
-                                                "orderIndex": 38230000,
                                                 "reference": "P3003.9.4",
                                                 "slug": "sanitary-drainage",
                                                 "titleText": "Push-Fit Joints",
@@ -3685,7 +3391,6 @@
                                         "numAssembliesOnRef": 0,
                                         "numBuildingProductsOnRef": 0,
                                         "numDiagramsOnRef": 0,
-                                        "orderIndex": 38240000,
                                         "reference": "P3003.10",
                                         "slug": "sanitary-drainage",
                                         "titleText": "Vitrified Clay",
@@ -3706,7 +3411,6 @@
                                         "numAssembliesOnRef": 0,
                                         "numBuildingProductsOnRef": 0,
                                         "numDiagramsOnRef": 0,
-                                        "orderIndex": 38250000,
                                         "reference": "P3003.11",
                                         "slug": "sanitary-drainage",
                                         "titleText": "Polyolefin Plastic",
@@ -3727,7 +3431,6 @@
                                                 "numAssembliesOnRef": 0,
                                                 "numBuildingProductsOnRef": 0,
                                                 "numDiagramsOnRef": 0,
-                                                "orderIndex": 38260000,
                                                 "reference": "P3003.11.1",
                                                 "slug": "sanitary-drainage",
                                                 "titleText": "Heat-Fusion Joints",
@@ -3749,7 +3452,6 @@
                                                 "numAssembliesOnRef": 0,
                                                 "numBuildingProductsOnRef": 0,
                                                 "numDiagramsOnRef": 0,
-                                                "orderIndex": 38270000,
                                                 "reference": "P3003.11.2",
                                                 "slug": "sanitary-drainage",
                                                 "titleText": "Mechanical and Compression Sleeve Joints",
@@ -3772,7 +3474,6 @@
                                         "numAssembliesOnRef": 0,
                                         "numBuildingProductsOnRef": 0,
                                         "numDiagramsOnRef": 0,
-                                        "orderIndex": 38280000,
                                         "reference": "P3003.12",
                                         "slug": "sanitary-drainage",
                                         "titleText": "Polyethylene Plastic Pipe",
@@ -3793,7 +3494,6 @@
                                                 "numAssembliesOnRef": 0,
                                                 "numBuildingProductsOnRef": 0,
                                                 "numDiagramsOnRef": 0,
-                                                "orderIndex": 38290000,
                                                 "reference": "P3003.12.1",
                                                 "slug": "sanitary-drainage",
                                                 "titleText": "Heat Fusion Joints",
@@ -3815,7 +3515,6 @@
                                                 "numAssembliesOnRef": 0,
                                                 "numBuildingProductsOnRef": 0,
                                                 "numDiagramsOnRef": 0,
-                                                "orderIndex": 38300000,
                                                 "reference": "P3003.12.2",
                                                 "slug": "sanitary-drainage",
                                                 "titleText": "Mechanical Joints",
@@ -3838,7 +3537,6 @@
                                         "numAssembliesOnRef": 0,
                                         "numBuildingProductsOnRef": 0,
                                         "numDiagramsOnRef": 0,
-                                        "orderIndex": 38310000,
                                         "reference": "P3003.13",
                                         "slug": "sanitary-drainage",
                                         "titleText": "Joints Between Different Materials",
@@ -3859,7 +3557,6 @@
                                                 "numAssembliesOnRef": 0,
                                                 "numBuildingProductsOnRef": 0,
                                                 "numDiagramsOnRef": 0,
-                                                "orderIndex": 38320000,
                                                 "reference": "P3003.13.1",
                                                 "slug": "sanitary-drainage",
                                                 "titleText": "Copper Pipe or Tubing to Cast-Iron Hub Pipe",
@@ -3899,7 +3596,6 @@
                                                 "numAssembliesOnRef": 0,
                                                 "numBuildingProductsOnRef": 0,
                                                 "numDiagramsOnRef": 1,
-                                                "orderIndex": 38330000,
                                                 "reference": "P3003.13.2",
                                                 "slug": "sanitary-drainage",
                                                 "titleText": "Copper Pipe or Tubing to Galvanized Steel Pipe",
@@ -3921,7 +3617,6 @@
                                                 "numAssembliesOnRef": 0,
                                                 "numBuildingProductsOnRef": 0,
                                                 "numDiagramsOnRef": 0,
-                                                "orderIndex": 38340000,
                                                 "reference": "P3003.13.3",
                                                 "slug": "sanitary-drainage",
                                                 "titleText": "Cast-Iron Pipe to Galvanized Steel or Copper-Alloy Pipe",
@@ -3943,7 +3638,6 @@
                                                 "numAssembliesOnRef": 0,
                                                 "numBuildingProductsOnRef": 0,
                                                 "numDiagramsOnRef": 0,
-                                                "orderIndex": 38350000,
                                                 "reference": "P3003.13.4",
                                                 "slug": "sanitary-drainage",
                                                 "titleText": "Plastic Pipe or Tubing to Other Piping Material",
@@ -3965,7 +3659,6 @@
                                                 "numAssembliesOnRef": 0,
                                                 "numBuildingProductsOnRef": 0,
                                                 "numDiagramsOnRef": 0,
-                                                "orderIndex": 38360000,
                                                 "reference": "P3003.13.5",
                                                 "slug": "sanitary-drainage",
                                                 "titleText": "Lead Pipe to Other Piping Material",
@@ -3987,7 +3680,6 @@
                                                 "numAssembliesOnRef": 0,
                                                 "numBuildingProductsOnRef": 0,
                                                 "numDiagramsOnRef": 0,
-                                                "orderIndex": 38370000,
                                                 "reference": "P3003.13.6",
                                                 "slug": "sanitary-drainage",
                                                 "titleText": "Stainless Steel Drainage Systems to Other Materials",
@@ -4010,7 +3702,6 @@
                                         "numAssembliesOnRef": 0,
                                         "numBuildingProductsOnRef": 0,
                                         "numDiagramsOnRef": 0,
-                                        "orderIndex": 38380000,
                                         "reference": "P3003.14",
                                         "slug": "sanitary-drainage",
                                         "titleText": "Joints Between Drainage Piping and Water Closets",
@@ -4032,7 +3723,6 @@
                                 "numAssembliesOnRef": 0,
                                 "numBuildingProductsOnRef": 0,
                                 "numDiagramsOnRef": 0,
-                                "orderIndex": 38390000,
                                 "reference": "P3004",
                                 "slug": "sanitary-drainage",
                                 "titleText": "Determining Drainage Fixture Units",
@@ -4052,7 +3742,6 @@
                                         "numAssembliesOnRef": 0,
                                         "numBuildingProductsOnRef": 0,
                                         "numDiagramsOnRef": 0,
-                                        "orderIndex": 38400000,
                                         "reference": "P3004.1",
                                         "slug": "sanitary-drainage",
                                         "titleText": "DWV System Load",
@@ -4172,7 +3861,6 @@
                                 "numAssembliesOnRef": 0,
                                 "numBuildingProductsOnRef": 0,
                                 "numDiagramsOnRef": 6,
-                                "orderIndex": 38410000,
                                 "reference": "P3005",
                                 "slug": "sanitary-drainage",
                                 "titleText": "Drainage System",
@@ -4354,7 +4042,6 @@
                                         "numAssembliesOnRef": 0,
                                         "numBuildingProductsOnRef": 0,
                                         "numDiagramsOnRef": 10,
-                                        "orderIndex": 38420000,
                                         "reference": "P3005.1",
                                         "slug": "sanitary-drainage",
                                         "titleText": "Drainage Fittings and Connections",
@@ -4393,7 +4080,6 @@
                                                 "numAssembliesOnRef": 0,
                                                 "numBuildingProductsOnRef": 0,
                                                 "numDiagramsOnRef": 1,
-                                                "orderIndex": 38430000,
                                                 "reference": "P3005.1.1",
                                                 "slug": "sanitary-drainage",
                                                 "titleText": "Horizontal to Vertical (Multiple Connection Fittings)",
@@ -4433,7 +4119,6 @@
                                                 "numAssembliesOnRef": 0,
                                                 "numBuildingProductsOnRef": 0,
                                                 "numDiagramsOnRef": 1,
-                                                "orderIndex": 38440000,
                                                 "reference": "P3005.1.2",
                                                 "slug": "sanitary-drainage",
                                                 "titleText": "Heel- or Side-Inlet Quarter Bends, Drainage",
@@ -4473,7 +4158,6 @@
                                                 "numAssembliesOnRef": 0,
                                                 "numBuildingProductsOnRef": 0,
                                                 "numDiagramsOnRef": 1,
-                                                "orderIndex": 38450000,
                                                 "reference": "P3005.1.3",
                                                 "slug": "sanitary-drainage",
                                                 "titleText": "Heel- or Side-Inlet Quarter Bends, Venting",
@@ -4528,7 +4212,6 @@
                                                 "numAssembliesOnRef": 0,
                                                 "numBuildingProductsOnRef": 0,
                                                 "numDiagramsOnRef": 2,
-                                                "orderIndex": 38460000,
                                                 "reference": "P3005.1.4",
                                                 "slug": "sanitary-drainage",
                                                 "titleText": "Water Closet Connection Between Flange and Pipe",
@@ -4570,7 +4253,6 @@
                                                 "numAssembliesOnRef": 0,
                                                 "numBuildingProductsOnRef": 0,
                                                 "numDiagramsOnRef": 1,
-                                                "orderIndex": 38470000,
                                                 "reference": "P3005.1.5",
                                                 "slug": "sanitary-drainage",
                                                 "titleText": "Provisions for Future Fixtures",
@@ -4626,7 +4308,6 @@
                                                 "numAssembliesOnRef": 0,
                                                 "numBuildingProductsOnRef": 0,
                                                 "numDiagramsOnRef": 2,
-                                                "orderIndex": 38480000,
                                                 "reference": "P3005.1.6",
                                                 "slug": "sanitary-drainage",
                                                 "titleText": "Drainage Piping Size Reduction in the Direction of Flow",
@@ -4741,7 +4422,6 @@
                                         "numAssembliesOnRef": 0,
                                         "numBuildingProductsOnRef": 0,
                                         "numDiagramsOnRef": 5,
-                                        "orderIndex": 38490000,
                                         "reference": "P3005.2",
                                         "slug": "sanitary-drainage",
                                         "titleText": "Cleanouts Required",
@@ -4783,7 +4463,6 @@
                                                 "numAssembliesOnRef": 0,
                                                 "numBuildingProductsOnRef": 0,
                                                 "numDiagramsOnRef": 1,
-                                                "orderIndex": 38500000,
                                                 "reference": "P3005.2.1",
                                                 "slug": "sanitary-drainage",
                                                 "titleText": "Horizontal Drains and Building Drains",
@@ -4826,7 +4505,6 @@
                                                 "numAssembliesOnRef": 0,
                                                 "numBuildingProductsOnRef": 0,
                                                 "numDiagramsOnRef": 1,
-                                                "orderIndex": 38510000,
                                                 "reference": "P3005.2.2",
                                                 "slug": "sanitary-drainage",
                                                 "titleText": "Building Sewers",
@@ -4873,7 +4551,6 @@
                                                 "numAssembliesOnRef": 0,
                                                 "numBuildingProductsOnRef": 0,
                                                 "numDiagramsOnRef": 1,
-                                                "orderIndex": 38520000,
                                                 "reference": "P3005.2.3",
                                                 "slug": "sanitary-drainage",
                                                 "titleText": "Building Drain and Building Sewer Junction",
@@ -4917,7 +4594,6 @@
                                                 "numAssembliesOnRef": 0,
                                                 "numBuildingProductsOnRef": 0,
                                                 "numDiagramsOnRef": 1,
-                                                "orderIndex": 38530000,
                                                 "reference": "P3005.2.4",
                                                 "slug": "sanitary-drainage",
                                                 "titleText": "Changes of Direction",
@@ -4958,7 +4634,6 @@
                                                 "numAssembliesOnRef": 0,
                                                 "numBuildingProductsOnRef": 0,
                                                 "numDiagramsOnRef": 1,
-                                                "orderIndex": 38540000,
                                                 "reference": "P3005.2.5",
                                                 "slug": "sanitary-drainage",
                                                 "titleText": "Cleanout Size",
@@ -4981,7 +4656,6 @@
                                                 "numAssembliesOnRef": 0,
                                                 "numBuildingProductsOnRef": 0,
                                                 "numDiagramsOnRef": 0,
-                                                "orderIndex": 38550000,
                                                 "reference": "P3005.2.6",
                                                 "slug": "sanitary-drainage",
                                                 "titleText": "Cleanout Plugs",
@@ -5004,7 +4678,6 @@
                                                 "numAssembliesOnRef": 0,
                                                 "numBuildingProductsOnRef": 0,
                                                 "numDiagramsOnRef": 0,
-                                                "orderIndex": 38560000,
                                                 "reference": "P3005.2.7",
                                                 "slug": "sanitary-drainage",
                                                 "titleText": "Manholes",
@@ -5027,7 +4700,6 @@
                                                 "numAssembliesOnRef": 0,
                                                 "numBuildingProductsOnRef": 0,
                                                 "numDiagramsOnRef": 0,
-                                                "orderIndex": 38570000,
                                                 "reference": "P3005.2.8",
                                                 "slug": "sanitary-drainage",
                                                 "titleText": "Installation Arrangement",
@@ -5106,7 +4778,6 @@
                                                 "numAssembliesOnRef": 0,
                                                 "numBuildingProductsOnRef": 0,
                                                 "numDiagramsOnRef": 3,
-                                                "orderIndex": 38580000,
                                                 "reference": "P3005.2.9",
                                                 "slug": "sanitary-drainage",
                                                 "titleText": "Required Clearance",
@@ -5149,7 +4820,6 @@
                                                 "numAssembliesOnRef": 0,
                                                 "numBuildingProductsOnRef": 0,
                                                 "numDiagramsOnRef": 1,
-                                                "orderIndex": 38590000,
                                                 "reference": "P3005.2.10",
                                                 "slug": "sanitary-drainage",
                                                 "titleText": "Cleanout Access",
@@ -5172,7 +4842,6 @@
                                                         "numAssembliesOnRef": 0,
                                                         "numBuildingProductsOnRef": 0,
                                                         "numDiagramsOnRef": 0,
-                                                        "orderIndex": 38600000,
                                                         "reference": "P3005.2.10.1",
                                                         "slug": "sanitary-drainage",
                                                         "titleText": "Cleanout Equivalent",
@@ -5196,7 +4865,6 @@
                                                         "numAssembliesOnRef": 0,
                                                         "numBuildingProductsOnRef": 0,
                                                         "numDiagramsOnRef": 0,
-                                                        "orderIndex": 38610000,
                                                         "reference": "P3005.2.10.2",
                                                         "slug": "sanitary-drainage",
                                                         "titleText": "Cleanout Plug Trim Covers",
@@ -5220,7 +4888,6 @@
                                                         "numAssembliesOnRef": 0,
                                                         "numBuildingProductsOnRef": 0,
                                                         "numDiagramsOnRef": 0,
-                                                        "orderIndex": 38620000,
                                                         "reference": "P3005.2.10.3",
                                                         "slug": "sanitary-drainage",
                                                         "titleText": "Floor Cleanout Assemblies",
@@ -5245,7 +4912,6 @@
                                                 "numAssembliesOnRef": 0,
                                                 "numBuildingProductsOnRef": 0,
                                                 "numDiagramsOnRef": 0,
-                                                "orderIndex": 38630000,
                                                 "reference": "P3005.2.11",
                                                 "slug": "sanitary-drainage",
                                                 "titleText": "Prohibited Use",
@@ -5289,7 +4955,6 @@
                                         "numAssembliesOnRef": 0,
                                         "numBuildingProductsOnRef": 0,
                                         "numDiagramsOnRef": 1,
-                                        "orderIndex": 38640000,
                                         "reference": "P3005.3",
                                         "slug": "sanitary-drainage",
                                         "titleText": "Horizontal Drainage Piping Slope",
@@ -5311,7 +4976,6 @@
                                         "numAssembliesOnRef": 0,
                                         "numBuildingProductsOnRef": 0,
                                         "numDiagramsOnRef": 0,
-                                        "orderIndex": 38650000,
                                         "reference": "P3005.4",
                                         "slug": "sanitary-drainage",
                                         "titleText": "Drain Pipe Sizing",
@@ -5333,7 +4997,6 @@
                                                 "numAssembliesOnRef": 0,
                                                 "numBuildingProductsOnRef": 0,
                                                 "numDiagramsOnRef": 0,
-                                                "orderIndex": 38660000,
                                                 "reference": "P3005.4.1",
                                                 "slug": "sanitary-drainage",
                                                 "titleText": "Branch and Stack Sizing",
@@ -5356,7 +5019,6 @@
                                                 "numAssembliesOnRef": 0,
                                                 "numBuildingProductsOnRef": 0,
                                                 "numDiagramsOnRef": 0,
-                                                "orderIndex": 38670000,
                                                 "reference": "P3005.4.2",
                                                 "slug": "sanitary-drainage",
                                                 "titleText": "Building Drain and Sewer Size and Slope",
@@ -5398,7 +5060,6 @@
                                         "numAssembliesOnRef": 0,
                                         "numBuildingProductsOnRef": 0,
                                         "numDiagramsOnRef": 1,
-                                        "orderIndex": 38680000,
                                         "reference": "P3005.5",
                                         "slug": "sanitary-drainage",
                                         "titleText": "Connections to Offsets and Bases of Stacks",
@@ -5420,7 +5081,6 @@
                                 "numAssembliesOnRef": 0,
                                 "numBuildingProductsOnRef": 0,
                                 "numDiagramsOnRef": 0,
-                                "orderIndex": 38690000,
                                 "reference": "P3006",
                                 "slug": "sanitary-drainage",
                                 "titleText": "Sizing of Drain Pipe Offsets",
@@ -5440,7 +5100,6 @@
                                         "numAssembliesOnRef": 0,
                                         "numBuildingProductsOnRef": 0,
                                         "numDiagramsOnRef": 0,
-                                        "orderIndex": 38700000,
                                         "reference": "P3006.1",
                                         "slug": "sanitary-drainage",
                                         "titleText": "Vertical Offsets",
@@ -5461,7 +5120,6 @@
                                         "numAssembliesOnRef": 0,
                                         "numBuildingProductsOnRef": 0,
                                         "numDiagramsOnRef": 0,
-                                        "orderIndex": 38710000,
                                         "reference": "P3006.2",
                                         "slug": "sanitary-drainage",
                                         "titleText": "Horizontal Offsets Above the Lowest Branch",
@@ -5482,7 +5140,6 @@
                                         "numAssembliesOnRef": 0,
                                         "numBuildingProductsOnRef": 0,
                                         "numDiagramsOnRef": 0,
-                                        "orderIndex": 38720000,
                                         "reference": "P3006.3",
                                         "slug": "sanitary-drainage",
                                         "titleText": "Horizontal Offsets Below the Lowest Branch",
@@ -5504,7 +5161,6 @@
                                 "numAssembliesOnRef": 0,
                                 "numBuildingProductsOnRef": 0,
                                 "numDiagramsOnRef": 0,
-                                "orderIndex": 38730000,
                                 "reference": "P3007",
                                 "slug": "sanitary-drainage",
                                 "titleText": "Sumps and Ejectors",
@@ -5543,7 +5199,6 @@
                                         "numAssembliesOnRef": 0,
                                         "numBuildingProductsOnRef": 0,
                                         "numDiagramsOnRef": 1,
-                                        "orderIndex": 38740000,
                                         "reference": "P3007.1",
                                         "slug": "sanitary-drainage",
                                         "titleText": "Building Subdrains",
@@ -5583,7 +5238,6 @@
                                         "numAssembliesOnRef": 0,
                                         "numBuildingProductsOnRef": 0,
                                         "numDiagramsOnRef": 1,
-                                        "orderIndex": 38750000,
                                         "reference": "P3007.2",
                                         "slug": "sanitary-drainage",
                                         "titleText": "Valves Required",
@@ -5623,7 +5277,6 @@
                                         "numAssembliesOnRef": 0,
                                         "numBuildingProductsOnRef": 0,
                                         "numDiagramsOnRef": 1,
-                                        "orderIndex": 38760000,
                                         "reference": "P3007.3",
                                         "slug": "sanitary-drainage",
                                         "titleText": "Sump Design",
@@ -5645,7 +5298,6 @@
                                                 "numAssembliesOnRef": 0,
                                                 "numBuildingProductsOnRef": 0,
                                                 "numDiagramsOnRef": 0,
-                                                "orderIndex": 38770000,
                                                 "reference": "P3007.3.1",
                                                 "slug": "sanitary-drainage",
                                                 "titleText": "Sump Pump",
@@ -5668,7 +5320,6 @@
                                                 "numAssembliesOnRef": 0,
                                                 "numBuildingProductsOnRef": 0,
                                                 "numDiagramsOnRef": 0,
-                                                "orderIndex": 38780000,
                                                 "reference": "P3007.3.2",
                                                 "slug": "sanitary-drainage",
                                                 "titleText": "Sump",
@@ -5691,7 +5342,6 @@
                                                 "numAssembliesOnRef": 0,
                                                 "numBuildingProductsOnRef": 0,
                                                 "numDiagramsOnRef": 0,
-                                                "orderIndex": 38790000,
                                                 "reference": "P3007.3.3",
                                                 "slug": "sanitary-drainage",
                                                 "titleText": "Discharge Pipe and Fittings",
@@ -5714,7 +5364,6 @@
                                                         "numAssembliesOnRef": 0,
                                                         "numBuildingProductsOnRef": 0,
                                                         "numDiagramsOnRef": 0,
-                                                        "orderIndex": 38800000,
                                                         "reference": "P3007.3.3.1",
                                                         "slug": "sanitary-drainage",
                                                         "titleText": "Materials",
@@ -5738,7 +5387,6 @@
                                                         "numAssembliesOnRef": 0,
                                                         "numBuildingProductsOnRef": 0,
                                                         "numDiagramsOnRef": 0,
-                                                        "orderIndex": 38810000,
                                                         "reference": "P3007.3.3.2",
                                                         "slug": "sanitary-drainage",
                                                         "titleText": "Ratings",
@@ -5763,7 +5411,6 @@
                                                 "numAssembliesOnRef": 0,
                                                 "numBuildingProductsOnRef": 0,
                                                 "numDiagramsOnRef": 0,
-                                                "orderIndex": 38820000,
                                                 "reference": "P3007.3.4",
                                                 "slug": "sanitary-drainage",
                                                 "titleText": "Maximum Effluent Level",
@@ -5786,7 +5433,6 @@
                                                 "numAssembliesOnRef": 0,
                                                 "numBuildingProductsOnRef": 0,
                                                 "numDiagramsOnRef": 0,
-                                                "orderIndex": 38830000,
                                                 "reference": "P3007.3.5",
                                                 "slug": "sanitary-drainage",
                                                 "titleText": "Ejector Connection to the Drainage System",
@@ -5809,7 +5455,6 @@
                                         "numAssembliesOnRef": 0,
                                         "numBuildingProductsOnRef": 0,
                                         "numDiagramsOnRef": 0,
-                                        "orderIndex": 38840000,
                                         "reference": "P3007.4",
                                         "slug": "sanitary-drainage",
                                         "titleText": "Sewage Pumps and Sewage Ejectors",
@@ -5830,7 +5475,6 @@
                                         "numAssembliesOnRef": 0,
                                         "numBuildingProductsOnRef": 0,
                                         "numDiagramsOnRef": 0,
-                                        "orderIndex": 38850000,
                                         "reference": "P3007.5",
                                         "slug": "sanitary-drainage",
                                         "titleText": "Macerating Toilet Systems and Pumped Waste Systems",
@@ -5851,7 +5495,6 @@
                                         "numAssembliesOnRef": 0,
                                         "numBuildingProductsOnRef": 0,
                                         "numDiagramsOnRef": 0,
-                                        "orderIndex": 38860000,
                                         "reference": "P3007.6",
                                         "slug": "sanitary-drainage",
                                         "titleText": "Capacity",
@@ -5873,7 +5516,6 @@
                                 "numAssembliesOnRef": 0,
                                 "numBuildingProductsOnRef": 0,
                                 "numDiagramsOnRef": 0,
-                                "orderIndex": 38870000,
                                 "reference": "P3008",
                                 "slug": "sanitary-drainage",
                                 "titleText": "Backwater Valves",
@@ -5912,7 +5554,6 @@
                                         "numAssembliesOnRef": 0,
                                         "numBuildingProductsOnRef": 0,
                                         "numDiagramsOnRef": 1,
-                                        "orderIndex": 38880000,
                                         "reference": "P3008.1",
                                         "slug": "sanitary-drainage",
                                         "titleText": "Where Required",
@@ -5933,7 +5574,6 @@
                                         "numAssembliesOnRef": 0,
                                         "numBuildingProductsOnRef": 0,
                                         "numDiagramsOnRef": 0,
-                                        "orderIndex": 38890000,
                                         "reference": "P3008.2",
                                         "slug": "sanitary-drainage",
                                         "titleText": "Allowable Installations",
@@ -5954,7 +5594,6 @@
                                         "numAssembliesOnRef": 0,
                                         "numBuildingProductsOnRef": 0,
                                         "numDiagramsOnRef": 0,
-                                        "orderIndex": 38900000,
                                         "reference": "P3008.3",
                                         "slug": "sanitary-drainage",
                                         "titleText": "Material",
@@ -5975,7 +5614,6 @@
                                         "numAssembliesOnRef": 0,
                                         "numBuildingProductsOnRef": 0,
                                         "numDiagramsOnRef": 0,
-                                        "orderIndex": 38910000,
                                         "reference": "P3008.4",
                                         "slug": "sanitary-drainage",
                                         "titleText": "Location",
@@ -5997,7 +5635,6 @@
                                 "numAssembliesOnRef": 0,
                                 "numBuildingProductsOnRef": 0,
                                 "numDiagramsOnRef": 0,
-                                "orderIndex": 38920000,
                                 "reference": "P3009",
                                 "slug": "sanitary-drainage",
                                 "titleText": "Graywater Soil Absorption Systems",
@@ -6017,7 +5654,6 @@
                                         "numAssembliesOnRef": 0,
                                         "numBuildingProductsOnRef": 0,
                                         "numDiagramsOnRef": 0,
-                                        "orderIndex": 38930000,
                                         "reference": "P3009.1",
                                         "slug": "sanitary-drainage",
                                         "titleText": "Scope",
@@ -6038,7 +5674,6 @@
                                         "numAssembliesOnRef": 0,
                                         "numBuildingProductsOnRef": 0,
                                         "numDiagramsOnRef": 0,
-                                        "orderIndex": 38940000,
                                         "reference": "P3009.2",
                                         "slug": "sanitary-drainage",
                                         "titleText": "Materials",
@@ -6059,7 +5694,6 @@
                                         "numAssembliesOnRef": 0,
                                         "numBuildingProductsOnRef": 0,
                                         "numDiagramsOnRef": 0,
-                                        "orderIndex": 38950000,
                                         "reference": "P3009.3",
                                         "slug": "sanitary-drainage",
                                         "titleText": "Tests",
@@ -6080,7 +5714,6 @@
                                         "numAssembliesOnRef": 0,
                                         "numBuildingProductsOnRef": 0,
                                         "numDiagramsOnRef": 0,
-                                        "orderIndex": 38960000,
                                         "reference": "P3009.4",
                                         "slug": "sanitary-drainage",
                                         "titleText": "Inspections",
@@ -6101,7 +5734,6 @@
                                         "numAssembliesOnRef": 0,
                                         "numBuildingProductsOnRef": 0,
                                         "numDiagramsOnRef": 0,
-                                        "orderIndex": 38970000,
                                         "reference": "P3009.5",
                                         "slug": "sanitary-drainage",
                                         "titleText": "Disinfection",
@@ -6122,7 +5754,6 @@
                                         "numAssembliesOnRef": 0,
                                         "numBuildingProductsOnRef": 0,
                                         "numDiagramsOnRef": 0,
-                                        "orderIndex": 38980000,
                                         "reference": "P3009.6",
                                         "slug": "sanitary-drainage",
                                         "titleText": "Coloring",
@@ -6143,7 +5774,6 @@
                                         "numAssembliesOnRef": 0,
                                         "numBuildingProductsOnRef": 0,
                                         "numDiagramsOnRef": 0,
-                                        "orderIndex": 38990000,
                                         "reference": "P3009.7",
                                         "slug": "sanitary-drainage",
                                         "titleText": "Sizing",
@@ -6164,7 +5794,6 @@
                                         "numAssembliesOnRef": 0,
                                         "numBuildingProductsOnRef": 0,
                                         "numDiagramsOnRef": 0,
-                                        "orderIndex": 39000000,
                                         "reference": "P3009.8",
                                         "slug": "sanitary-drainage",
                                         "titleText": "Percolation Tests",
@@ -6185,7 +5814,6 @@
                                                 "numAssembliesOnRef": 0,
                                                 "numBuildingProductsOnRef": 0,
                                                 "numDiagramsOnRef": 0,
-                                                "orderIndex": 39010000,
                                                 "reference": "P3009.8.1",
                                                 "slug": "sanitary-drainage",
                                                 "titleText": "Percolation Tests and Procedures",
@@ -6207,7 +5835,6 @@
                                                         "numAssembliesOnRef": 0,
                                                         "numBuildingProductsOnRef": 0,
                                                         "numDiagramsOnRef": 0,
-                                                        "orderIndex": 39020000,
                                                         "reference": "P3009.8.1.1",
                                                         "slug": "sanitary-drainage",
                                                         "titleText": "Percolation Test Hole",
@@ -6230,7 +5857,6 @@
                                                         "numAssembliesOnRef": 0,
                                                         "numBuildingProductsOnRef": 0,
                                                         "numDiagramsOnRef": 0,
-                                                        "orderIndex": 39030000,
                                                         "reference": "P3009.8.1.2",
                                                         "slug": "sanitary-drainage",
                                                         "titleText": "Test Procedure, Sandy Soils",
@@ -6253,7 +5879,6 @@
                                                         "numAssembliesOnRef": 0,
                                                         "numBuildingProductsOnRef": 0,
                                                         "numDiagramsOnRef": 0,
-                                                        "orderIndex": 39040000,
                                                         "reference": "P3009.8.1.3",
                                                         "slug": "sanitary-drainage",
                                                         "titleText": "Test Procedure, Other Soils",
@@ -6276,7 +5901,6 @@
                                                         "numAssembliesOnRef": 0,
                                                         "numBuildingProductsOnRef": 0,
                                                         "numDiagramsOnRef": 0,
-                                                        "orderIndex": 39050000,
                                                         "reference": "P3009.8.1.4",
                                                         "slug": "sanitary-drainage",
                                                         "titleText": "Mechanical Test Equipment",
@@ -6300,7 +5924,6 @@
                                                 "numAssembliesOnRef": 0,
                                                 "numBuildingProductsOnRef": 0,
                                                 "numDiagramsOnRef": 0,
-                                                "orderIndex": 39060000,
                                                 "reference": "P3009.8.2",
                                                 "slug": "sanitary-drainage",
                                                 "titleText": "Permeability Evaluation",
@@ -6323,7 +5946,6 @@
                                         "numAssembliesOnRef": 0,
                                         "numBuildingProductsOnRef": 0,
                                         "numDiagramsOnRef": 0,
-                                        "orderIndex": 39070000,
                                         "reference": "P3009.9",
                                         "slug": "sanitary-drainage",
                                         "titleText": "Subsurface Graywater Soil Absorption System Site Location",
@@ -6344,7 +5966,6 @@
                                         "numAssembliesOnRef": 0,
                                         "numBuildingProductsOnRef": 0,
                                         "numDiagramsOnRef": 0,
-                                        "orderIndex": 39080000,
                                         "reference": "P3009.10",
                                         "slug": "sanitary-drainage",
                                         "titleText": "Installation",
@@ -6365,7 +5986,6 @@
                                                 "numAssembliesOnRef": 0,
                                                 "numBuildingProductsOnRef": 0,
                                                 "numDiagramsOnRef": 0,
-                                                "orderIndex": 39090000,
                                                 "reference": "P3009.10.1",
                                                 "slug": "sanitary-drainage",
                                                 "titleText": "Absorption Area",
@@ -6387,7 +6007,6 @@
                                                 "numAssembliesOnRef": 0,
                                                 "numBuildingProductsOnRef": 0,
                                                 "numDiagramsOnRef": 0,
-                                                "orderIndex": 39100000,
                                                 "reference": "P3009.10.2",
                                                 "slug": "sanitary-drainage",
                                                 "titleText": "Seepage Trench Excavations",
@@ -6409,7 +6028,6 @@
                                                 "numAssembliesOnRef": 0,
                                                 "numBuildingProductsOnRef": 0,
                                                 "numDiagramsOnRef": 0,
-                                                "orderIndex": 39110000,
                                                 "reference": "P3009.10.3",
                                                 "slug": "sanitary-drainage",
                                                 "titleText": "Seepage Bed Excavations",
@@ -6431,7 +6049,6 @@
                                                 "numAssembliesOnRef": 0,
                                                 "numBuildingProductsOnRef": 0,
                                                 "numDiagramsOnRef": 0,
-                                                "orderIndex": 39120000,
                                                 "reference": "P3009.10.4",
                                                 "slug": "sanitary-drainage",
                                                 "titleText": "Excavation and Construction",
@@ -6453,7 +6070,6 @@
                                                 "numAssembliesOnRef": 0,
                                                 "numBuildingProductsOnRef": 0,
                                                 "numDiagramsOnRef": 0,
-                                                "orderIndex": 39130000,
                                                 "reference": "P3009.10.5",
                                                 "slug": "sanitary-drainage",
                                                 "titleText": "Aggregate and Backfill",
@@ -6476,7 +6092,6 @@
                                         "numAssembliesOnRef": 0,
                                         "numBuildingProductsOnRef": 0,
                                         "numDiagramsOnRef": 0,
-                                        "orderIndex": 39140000,
                                         "reference": "P3009.11",
                                         "slug": "sanitary-drainage",
                                         "titleText": "Distribution Piping",
@@ -6497,7 +6112,6 @@
                                                 "numAssembliesOnRef": 0,
                                                 "numBuildingProductsOnRef": 0,
                                                 "numDiagramsOnRef": 0,
-                                                "orderIndex": 39150000,
                                                 "reference": "P3009.11.1",
                                                 "slug": "sanitary-drainage",
                                                 "titleText": "Joints",
@@ -6521,7 +6135,6 @@
                                 "numAssembliesOnRef": 0,
                                 "numBuildingProductsOnRef": 0,
                                 "numDiagramsOnRef": 0,
-                                "orderIndex": 39160000,
                                 "reference": "P3010",
                                 "slug": "sanitary-drainage",
                                 "titleText": "Replacement of Underground Building Sewers and Building Drains by Pipe Bursting Methods",
@@ -6541,7 +6154,6 @@
                                         "numAssembliesOnRef": 0,
                                         "numBuildingProductsOnRef": 0,
                                         "numDiagramsOnRef": 0,
-                                        "orderIndex": 39170000,
                                         "reference": "P3010.1",
                                         "slug": "sanitary-drainage",
                                         "titleText": "General",
@@ -6562,7 +6174,6 @@
                                         "numAssembliesOnRef": 0,
                                         "numBuildingProductsOnRef": 0,
                                         "numDiagramsOnRef": 0,
-                                        "orderIndex": 39180000,
                                         "reference": "P3010.2",
                                         "slug": "sanitary-drainage",
                                         "titleText": "Applicability",
@@ -6583,7 +6194,6 @@
                                         "numAssembliesOnRef": 0,
                                         "numBuildingProductsOnRef": 0,
                                         "numDiagramsOnRef": 0,
-                                        "orderIndex": 39190000,
                                         "reference": "P3010.3",
                                         "slug": "sanitary-drainage",
                                         "titleText": "Preinstallation Inspection",
@@ -6604,7 +6214,6 @@
                                         "numAssembliesOnRef": 0,
                                         "numBuildingProductsOnRef": 0,
                                         "numDiagramsOnRef": 0,
-                                        "orderIndex": 39200000,
                                         "reference": "P3010.4",
                                         "slug": "sanitary-drainage",
                                         "titleText": "Pipe",
@@ -6625,7 +6234,6 @@
                                         "numAssembliesOnRef": 0,
                                         "numBuildingProductsOnRef": 0,
                                         "numDiagramsOnRef": 0,
-                                        "orderIndex": 39210000,
                                         "reference": "P3010.5",
                                         "slug": "sanitary-drainage",
                                         "titleText": "Pipe Fittings",
@@ -6703,7 +6311,6 @@
                                         "numAssembliesOnRef": 0,
                                         "numBuildingProductsOnRef": 0,
                                         "numDiagramsOnRef": 3,
-                                        "orderIndex": 39220000,
                                         "reference": "P3010.6",
                                         "slug": "sanitary-drainage",
                                         "titleText": "Cleanouts",
@@ -6724,7 +6331,6 @@
                                         "numAssembliesOnRef": 0,
                                         "numBuildingProductsOnRef": 0,
                                         "numDiagramsOnRef": 0,
-                                        "orderIndex": 39230000,
                                         "reference": "P3010.7",
                                         "slug": "sanitary-drainage",
                                         "titleText": "Post-Installation Inspection",
@@ -6745,7 +6351,6 @@
                                         "numAssembliesOnRef": 0,
                                         "numBuildingProductsOnRef": 0,
                                         "numDiagramsOnRef": 0,
-                                        "orderIndex": 39240000,
                                         "reference": "P3010.8",
                                         "slug": "sanitary-drainage",
                                         "titleText": "Pressure Testing",
@@ -6767,7 +6372,6 @@
                                 "numAssembliesOnRef": 0,
                                 "numBuildingProductsOnRef": 0,
                                 "numDiagramsOnRef": 0,
-                                "orderIndex": 39250000,
                                 "reference": "P3011",
                                 "slug": "sanitary-drainage",
                                 "titleText": "Relining of Building Sewers and Building Drains",
@@ -6787,7 +6391,6 @@
                                         "numAssembliesOnRef": 0,
                                         "numBuildingProductsOnRef": 0,
                                         "numDiagramsOnRef": 0,
-                                        "orderIndex": 39260000,
                                         "reference": "P3011.1",
                                         "slug": "sanitary-drainage",
                                         "titleText": "General",
@@ -6808,7 +6411,6 @@
                                         "numAssembliesOnRef": 0,
                                         "numBuildingProductsOnRef": 0,
                                         "numDiagramsOnRef": 0,
-                                        "orderIndex": 39270000,
                                         "reference": "P3011.2",
                                         "slug": "sanitary-drainage",
                                         "titleText": "Applicability",
@@ -6829,7 +6431,6 @@
                                         "numAssembliesOnRef": 0,
                                         "numBuildingProductsOnRef": 0,
                                         "numDiagramsOnRef": 0,
-                                        "orderIndex": 39280000,
                                         "reference": "P3011.3",
                                         "slug": "sanitary-drainage",
                                         "titleText": "Preinstallation Requirements",
@@ -6850,7 +6451,6 @@
                                                 "numAssembliesOnRef": 0,
                                                 "numBuildingProductsOnRef": 0,
                                                 "numDiagramsOnRef": 0,
-                                                "orderIndex": 39290000,
                                                 "reference": "P3011.3.1",
                                                 "slug": "sanitary-drainage",
                                                 "titleText": "Preinstallation Recorded Video Camera Survey",
@@ -6873,7 +6473,6 @@
                                         "numAssembliesOnRef": 0,
                                         "numBuildingProductsOnRef": 0,
                                         "numDiagramsOnRef": 0,
-                                        "orderIndex": 39300000,
                                         "reference": "P3011.4",
                                         "slug": "sanitary-drainage",
                                         "titleText": "Permitting",
@@ -6894,7 +6493,6 @@
                                         "numAssembliesOnRef": 0,
                                         "numBuildingProductsOnRef": 0,
                                         "numDiagramsOnRef": 0,
-                                        "orderIndex": 39310000,
                                         "reference": "P3011.5",
                                         "slug": "sanitary-drainage",
                                         "titleText": "Prohibited Applications",
@@ -6915,7 +6513,6 @@
                                         "numAssembliesOnRef": 0,
                                         "numBuildingProductsOnRef": 0,
                                         "numDiagramsOnRef": 0,
-                                        "orderIndex": 39320000,
                                         "reference": "P3011.6",
                                         "slug": "sanitary-drainage",
                                         "titleText": "Relining Materials",
@@ -6936,7 +6533,6 @@
                                         "numAssembliesOnRef": 0,
                                         "numBuildingProductsOnRef": 0,
                                         "numDiagramsOnRef": 0,
-                                        "orderIndex": 39330000,
                                         "reference": "P3011.7",
                                         "slug": "sanitary-drainage",
                                         "titleText": "Installation",
@@ -6957,7 +6553,6 @@
                                                 "numAssembliesOnRef": 0,
                                                 "numBuildingProductsOnRef": 0,
                                                 "numDiagramsOnRef": 0,
-                                                "orderIndex": 39340000,
                                                 "reference": "P3011.7.1",
                                                 "slug": "sanitary-drainage",
                                                 "titleText": "Material Data Report",
@@ -6980,7 +6575,6 @@
                                         "numAssembliesOnRef": 0,
                                         "numBuildingProductsOnRef": 0,
                                         "numDiagramsOnRef": 0,
-                                        "orderIndex": 39350000,
                                         "reference": "P3011.8",
                                         "slug": "sanitary-drainage",
                                         "titleText": "Post-Installation Recorded Video Camera Survey",
@@ -7001,7 +6595,6 @@
                                         "numAssembliesOnRef": 0,
                                         "numBuildingProductsOnRef": 0,
                                         "numDiagramsOnRef": 0,
-                                        "orderIndex": 39360000,
                                         "reference": "P3011.9",
                                         "slug": "sanitary-drainage",
                                         "titleText": "Certification",
@@ -7022,7 +6615,6 @@
                                         "numAssembliesOnRef": 0,
                                         "numBuildingProductsOnRef": 0,
                                         "numDiagramsOnRef": 0,
-                                        "orderIndex": 39370000,
                                         "reference": "P3011.10",
                                         "slug": "sanitary-drainage",
                                         "titleText": "Approval",
@@ -7045,12 +6637,12 @@
         "chapterRef": "30",
         "chapterName": "sanitary-drainage"
     },
-    "buildId": "3sK5kbysqJcr5ch6xNgjL",
+    "buildId": "fFVLMUIiiAoykBGFSOQHj",
     "isFallback": false,
     "isExperimentalCompile": false,
     "dynamicIds": [
-        22103,
-        99618
+        61621,
+        54065
     ],
     "gssp": true,
     "scriptLoader": []

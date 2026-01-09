@@ -19,6 +19,7 @@
                 ],
                 "ingesterAmendmentsEnabled": false,
                 "ingesterCodeUnitsEnabled": false,
+                "isAmendStylingEnabled": true,
                 "isCorrespondable": true,
                 "jurisKey": "general-services-administration",
                 "jurisName": "General Services Administration",
@@ -48,7 +49,6 @@
                                         "href": "#301.1.1",
                                         "isCodeDivider": false,
                                         "isCodeDividerClickable": false,
-                                        "orderIndex": 2970000,
                                         "reference": "301.1.1"
                                     }
                                 ],
@@ -58,7 +58,6 @@
                                 "href": "#301.1",
                                 "isCodeDivider": false,
                                 "isCodeDividerClickable": false,
-                                "orderIndex": 2960000,
                                 "reference": "301.1"
                             },
                             {
@@ -70,7 +69,6 @@
                                 "href": "#301.2",
                                 "isCodeDivider": false,
                                 "isCodeDividerClickable": false,
-                                "orderIndex": 2980000,
                                 "reference": "301.2"
                             },
                             {
@@ -85,7 +83,6 @@
                                         "href": "#301.3.1",
                                         "isCodeDivider": false,
                                         "isCodeDividerClickable": false,
-                                        "orderIndex": 3000000,
                                         "reference": "301.3.1"
                                     },
                                     {
@@ -97,7 +94,6 @@
                                         "href": "#301.3.2",
                                         "isCodeDivider": false,
                                         "isCodeDividerClickable": false,
-                                        "orderIndex": 3010000,
                                         "reference": "301.3.2"
                                     },
                                     {
@@ -109,7 +105,6 @@
                                         "href": "#301.3.3",
                                         "isCodeDivider": false,
                                         "isCodeDividerClickable": false,
-                                        "orderIndex": 3020000,
                                         "reference": "301.3.3"
                                     }
                                 ],
@@ -119,7 +114,6 @@
                                 "href": "#301.3",
                                 "isCodeDivider": false,
                                 "isCodeDividerClickable": false,
-                                "orderIndex": 2990000,
                                 "reference": "301.3"
                             },
                             {
@@ -131,7 +125,6 @@
                                 "href": "#301.4",
                                 "isCodeDivider": false,
                                 "isCodeDividerClickable": false,
-                                "orderIndex": 3030000,
                                 "reference": "301.4"
                             }
                         ],
@@ -141,7 +134,6 @@
                         "href": "#301",
                         "isCodeDivider": false,
                         "isCodeDividerClickable": false,
-                        "orderIndex": 2950000,
                         "reference": "301"
                     },
                     {
@@ -156,7 +148,6 @@
                                 "href": "#302.1",
                                 "isCodeDivider": false,
                                 "isCodeDividerClickable": false,
-                                "orderIndex": 3050000,
                                 "reference": "302.1"
                             },
                             {
@@ -171,7 +162,6 @@
                                         "href": "#302.2.1",
                                         "isCodeDivider": false,
                                         "isCodeDividerClickable": false,
-                                        "orderIndex": 3080000,
                                         "reference": "302.2.1"
                                     }
                                 ],
@@ -181,7 +171,6 @@
                                 "href": "#302.2",
                                 "isCodeDivider": false,
                                 "isCodeDividerClickable": false,
-                                "orderIndex": 3070000,
                                 "reference": "302.2"
                             },
                             {
@@ -193,7 +182,6 @@
                                 "href": "#302.3",
                                 "isCodeDivider": false,
                                 "isCodeDividerClickable": false,
-                                "orderIndex": 3160000,
                                 "reference": "302.3"
                             },
                             {
@@ -208,7 +196,6 @@
                                         "href": "#302.4.1",
                                         "isCodeDivider": false,
                                         "isCodeDividerClickable": false,
-                                        "orderIndex": 3180000,
                                         "reference": "302.4.1"
                                     }
                                 ],
@@ -218,7 +205,6 @@
                                 "href": "#302.4",
                                 "isCodeDivider": false,
                                 "isCodeDividerClickable": false,
-                                "orderIndex": 3170000,
                                 "reference": "302.4"
                             },
                             {
@@ -230,7 +216,6 @@
                                 "href": "#302.5",
                                 "isCodeDivider": false,
                                 "isCodeDividerClickable": false,
-                                "orderIndex": 3190000,
                                 "reference": "302.5"
                             }
                         ],
@@ -240,7 +225,6 @@
                         "href": "#302",
                         "isCodeDivider": false,
                         "isCodeDividerClickable": false,
-                        "orderIndex": 3040000,
                         "reference": "302"
                     },
                     {
@@ -258,7 +242,6 @@
                                         "href": "#303.1.1",
                                         "isCodeDivider": false,
                                         "isCodeDividerClickable": false,
-                                        "orderIndex": 3220000,
                                         "reference": "303.1.1"
                                     }
                                 ],
@@ -268,7 +251,6 @@
                                 "href": "#303.1",
                                 "isCodeDivider": false,
                                 "isCodeDividerClickable": false,
-                                "orderIndex": 3210000,
                                 "reference": "303.1"
                             },
                             {
@@ -283,7 +265,6 @@
                                         "href": "#303.2.1",
                                         "isCodeDivider": false,
                                         "isCodeDividerClickable": false,
-                                        "orderIndex": 3240000,
                                         "reference": "303.2.1"
                                     }
                                 ],
@@ -293,7 +274,6 @@
                                 "href": "#303.2",
                                 "isCodeDivider": false,
                                 "isCodeDividerClickable": false,
-                                "orderIndex": 3230000,
                                 "reference": "303.2"
                             },
                             {
@@ -305,7 +285,6 @@
                                 "href": "#303.3",
                                 "isCodeDivider": false,
                                 "isCodeDividerClickable": false,
-                                "orderIndex": 3250000,
                                 "reference": "303.3"
                             }
                         ],
@@ -315,7 +294,6 @@
                         "href": "#303",
                         "isCodeDivider": false,
                         "isCodeDividerClickable": false,
-                        "orderIndex": 3200000,
                         "reference": "303"
                     },
                     {
@@ -330,7 +308,6 @@
                                 "href": "#304.1",
                                 "isCodeDivider": false,
                                 "isCodeDividerClickable": false,
-                                "orderIndex": 3270000,
                                 "reference": "304.1"
                             },
                             {
@@ -342,7 +319,6 @@
                                 "href": "#304.2",
                                 "isCodeDivider": false,
                                 "isCodeDividerClickable": false,
-                                "orderIndex": 3280000,
                                 "reference": "304.2"
                             },
                             {
@@ -357,7 +333,6 @@
                                         "href": "#304.3.1",
                                         "isCodeDivider": false,
                                         "isCodeDividerClickable": false,
-                                        "orderIndex": 3300000,
                                         "reference": "304.3.1"
                                     },
                                     {
@@ -369,7 +344,6 @@
                                         "href": "#304.3.2",
                                         "isCodeDivider": false,
                                         "isCodeDividerClickable": false,
-                                        "orderIndex": 3310000,
                                         "reference": "304.3.2"
                                     }
                                 ],
@@ -379,7 +353,6 @@
                                 "href": "#304.3",
                                 "isCodeDivider": false,
                                 "isCodeDividerClickable": false,
-                                "orderIndex": 3290000,
                                 "reference": "304.3"
                             }
                         ],
@@ -389,7 +362,6 @@
                         "href": "#304",
                         "isCodeDivider": false,
                         "isCodeDividerClickable": false,
-                        "orderIndex": 3260000,
                         "reference": "304"
                     },
                     {
@@ -404,7 +376,6 @@
                                 "href": "#305.1",
                                 "isCodeDivider": false,
                                 "isCodeDividerClickable": false,
-                                "orderIndex": 3330000,
                                 "reference": "305.1"
                             }
                         ],
@@ -414,7 +385,6 @@
                         "href": "#305",
                         "isCodeDivider": false,
                         "isCodeDividerClickable": false,
-                        "orderIndex": 3320000,
                         "reference": "305"
                     },
                     {
@@ -429,7 +399,6 @@
                                 "href": "#306.1",
                                 "isCodeDivider": false,
                                 "isCodeDividerClickable": false,
-                                "orderIndex": 3350000,
                                 "reference": "306.1"
                             },
                             {
@@ -444,7 +413,6 @@
                                         "href": "#306.2.1",
                                         "isCodeDivider": false,
                                         "isCodeDividerClickable": false,
-                                        "orderIndex": 3370000,
                                         "reference": "306.2.1"
                                     }
                                 ],
@@ -454,7 +422,6 @@
                                 "href": "#306.2",
                                 "isCodeDivider": false,
                                 "isCodeDividerClickable": false,
-                                "orderIndex": 3360000,
                                 "reference": "306.2"
                             },
                             {
@@ -466,7 +433,6 @@
                                 "href": "#306.3",
                                 "isCodeDivider": false,
                                 "isCodeDividerClickable": false,
-                                "orderIndex": 3380000,
                                 "reference": "306.3"
                             },
                             {
@@ -478,7 +444,6 @@
                                 "href": "#306.4",
                                 "isCodeDivider": false,
                                 "isCodeDividerClickable": false,
-                                "orderIndex": 3390000,
                                 "reference": "306.4"
                             },
                             {
@@ -490,7 +455,6 @@
                                 "href": "#306.5",
                                 "isCodeDivider": false,
                                 "isCodeDividerClickable": false,
-                                "orderIndex": 3400000,
                                 "reference": "306.5"
                             },
                             {
@@ -508,7 +472,6 @@
                                                 "href": "#306.6.1.1",
                                                 "isCodeDivider": false,
                                                 "isCodeDividerClickable": false,
-                                                "orderIndex": 3430000,
                                                 "reference": "306.6.1.1"
                                             }
                                         ],
@@ -518,7 +481,6 @@
                                         "href": "#306.6.1",
                                         "isCodeDivider": false,
                                         "isCodeDividerClickable": false,
-                                        "orderIndex": 3420000,
                                         "reference": "306.6.1"
                                     }
                                 ],
@@ -528,7 +490,6 @@
                                 "href": "#306.6",
                                 "isCodeDivider": false,
                                 "isCodeDividerClickable": false,
-                                "orderIndex": 3410000,
                                 "reference": "306.6"
                             },
                             {
@@ -543,7 +504,6 @@
                                         "href": "#306.7.1",
                                         "isCodeDivider": false,
                                         "isCodeDividerClickable": false,
-                                        "orderIndex": 3450000,
                                         "reference": "306.7.1"
                                     },
                                     {
@@ -555,7 +515,6 @@
                                         "href": "#306.7.2",
                                         "isCodeDivider": false,
                                         "isCodeDividerClickable": false,
-                                        "orderIndex": 3460000,
                                         "reference": "306.7.2"
                                     },
                                     {
@@ -567,7 +526,6 @@
                                         "href": "#306.7.3",
                                         "isCodeDivider": false,
                                         "isCodeDividerClickable": false,
-                                        "orderIndex": 3470000,
                                         "reference": "306.7.3"
                                     },
                                     {
@@ -579,7 +537,6 @@
                                         "href": "#306.7.4",
                                         "isCodeDivider": false,
                                         "isCodeDividerClickable": false,
-                                        "orderIndex": 3480000,
                                         "reference": "306.7.4"
                                     },
                                     {
@@ -591,7 +548,6 @@
                                         "href": "#306.7.5",
                                         "isCodeDivider": false,
                                         "isCodeDividerClickable": false,
-                                        "orderIndex": 3490000,
                                         "reference": "306.7.5"
                                     },
                                     {
@@ -603,7 +559,6 @@
                                         "href": "#306.7.6",
                                         "isCodeDivider": false,
                                         "isCodeDividerClickable": false,
-                                        "orderIndex": 3500000,
                                         "reference": "306.7.6"
                                     },
                                     {
@@ -615,7 +570,6 @@
                                         "href": "#306.7.7",
                                         "isCodeDivider": false,
                                         "isCodeDividerClickable": false,
-                                        "orderIndex": 3510000,
                                         "reference": "306.7.7"
                                     },
                                     {
@@ -627,7 +581,6 @@
                                         "href": "#306.7.8",
                                         "isCodeDivider": false,
                                         "isCodeDividerClickable": false,
-                                        "orderIndex": 3520000,
                                         "reference": "306.7.8"
                                     },
                                     {
@@ -639,7 +592,6 @@
                                         "href": "#306.7.9",
                                         "isCodeDivider": false,
                                         "isCodeDividerClickable": false,
-                                        "orderIndex": 3530000,
                                         "reference": "306.7.9"
                                     },
                                     {
@@ -651,7 +603,6 @@
                                         "href": "#306.7.10",
                                         "isCodeDivider": false,
                                         "isCodeDividerClickable": false,
-                                        "orderIndex": 3540000,
                                         "reference": "306.7.10"
                                     },
                                     {
@@ -666,7 +617,6 @@
                                                 "href": "#306.7.11.1",
                                                 "isCodeDivider": false,
                                                 "isCodeDividerClickable": false,
-                                                "orderIndex": 3560000,
                                                 "reference": "306.7.11.1"
                                             },
                                             {
@@ -678,7 +628,6 @@
                                                 "href": "#306.7.11.2",
                                                 "isCodeDivider": false,
                                                 "isCodeDividerClickable": false,
-                                                "orderIndex": 3570000,
                                                 "reference": "306.7.11.2"
                                             },
                                             {
@@ -690,7 +639,6 @@
                                                 "href": "#306.7.11.3",
                                                 "isCodeDivider": false,
                                                 "isCodeDividerClickable": false,
-                                                "orderIndex": 3580000,
                                                 "reference": "306.7.11.3"
                                             }
                                         ],
@@ -700,7 +648,6 @@
                                         "href": "#306.7.11",
                                         "isCodeDivider": false,
                                         "isCodeDividerClickable": false,
-                                        "orderIndex": 3550000,
                                         "reference": "306.7.11"
                                     },
                                     {
@@ -712,7 +659,6 @@
                                         "href": "#306.7.12",
                                         "isCodeDivider": false,
                                         "isCodeDividerClickable": false,
-                                        "orderIndex": 3590000,
                                         "reference": "306.7.12"
                                     },
                                     {
@@ -724,7 +670,6 @@
                                         "href": "#306.7.13",
                                         "isCodeDivider": false,
                                         "isCodeDividerClickable": false,
-                                        "orderIndex": 3600000,
                                         "reference": "306.7.13"
                                     },
                                     {
@@ -736,7 +681,6 @@
                                         "href": "#306.7.14",
                                         "isCodeDivider": false,
                                         "isCodeDividerClickable": false,
-                                        "orderIndex": 3610000,
                                         "reference": "306.7.14"
                                     },
                                     {
@@ -748,7 +692,6 @@
                                         "href": "#306.7.15",
                                         "isCodeDivider": false,
                                         "isCodeDividerClickable": false,
-                                        "orderIndex": 3620000,
                                         "reference": "306.7.15"
                                     },
                                     {
@@ -760,7 +703,6 @@
                                         "href": "#306.7.16",
                                         "isCodeDivider": false,
                                         "isCodeDividerClickable": false,
-                                        "orderIndex": 3630000,
                                         "reference": "306.7.16"
                                     },
                                     {
@@ -772,7 +714,6 @@
                                         "href": "#306.7.17",
                                         "isCodeDivider": false,
                                         "isCodeDividerClickable": false,
-                                        "orderIndex": 3640000,
                                         "reference": "306.7.17"
                                     },
                                     {
@@ -787,7 +728,6 @@
                                                 "href": "#306.7.18.1",
                                                 "isCodeDivider": false,
                                                 "isCodeDividerClickable": false,
-                                                "orderIndex": 3660000,
                                                 "reference": "306.7.18.1"
                                             },
                                             {
@@ -799,7 +739,6 @@
                                                 "href": "#306.7.18.2",
                                                 "isCodeDivider": false,
                                                 "isCodeDividerClickable": false,
-                                                "orderIndex": 3670000,
                                                 "reference": "306.7.18.2"
                                             },
                                             {
@@ -811,7 +750,6 @@
                                                 "href": "#306.7.18.3",
                                                 "isCodeDivider": false,
                                                 "isCodeDividerClickable": false,
-                                                "orderIndex": 3680000,
                                                 "reference": "306.7.18.3"
                                             },
                                             {
@@ -823,7 +761,6 @@
                                                 "href": "#306.7.18.4",
                                                 "isCodeDivider": false,
                                                 "isCodeDividerClickable": false,
-                                                "orderIndex": 3690000,
                                                 "reference": "306.7.18.4"
                                             },
                                             {
@@ -835,7 +772,6 @@
                                                 "href": "#306.7.18.5",
                                                 "isCodeDivider": false,
                                                 "isCodeDividerClickable": false,
-                                                "orderIndex": 3700000,
                                                 "reference": "306.7.18.5"
                                             },
                                             {
@@ -847,7 +783,6 @@
                                                 "href": "#306.7.18.6",
                                                 "isCodeDivider": false,
                                                 "isCodeDividerClickable": false,
-                                                "orderIndex": 3710000,
                                                 "reference": "306.7.18.6"
                                             },
                                             {
@@ -859,7 +794,6 @@
                                                 "href": "#306.7.18.7",
                                                 "isCodeDivider": false,
                                                 "isCodeDividerClickable": false,
-                                                "orderIndex": 3720000,
                                                 "reference": "306.7.18.7"
                                             }
                                         ],
@@ -869,7 +803,6 @@
                                         "href": "#306.7.18",
                                         "isCodeDivider": false,
                                         "isCodeDividerClickable": false,
-                                        "orderIndex": 3650000,
                                         "reference": "306.7.18"
                                     }
                                 ],
@@ -879,7 +812,6 @@
                                 "href": "#306.7",
                                 "isCodeDivider": false,
                                 "isCodeDividerClickable": false,
-                                "orderIndex": 3440000,
                                 "reference": "306.7"
                             }
                         ],
@@ -889,7 +821,6 @@
                         "href": "#306",
                         "isCodeDivider": false,
                         "isCodeDividerClickable": false,
-                        "orderIndex": 3340000,
                         "reference": "306"
                     },
                     {
@@ -904,7 +835,6 @@
                                 "href": "#307.1",
                                 "isCodeDivider": false,
                                 "isCodeDividerClickable": false,
-                                "orderIndex": 3760000,
                                 "reference": "307.1"
                             }
                         ],
@@ -914,7 +844,6 @@
                         "href": "#307",
                         "isCodeDivider": false,
                         "isCodeDividerClickable": false,
-                        "orderIndex": 3750000,
                         "reference": "307"
                     },
                     {
@@ -929,7 +858,6 @@
                                 "href": "#308.1",
                                 "isCodeDivider": false,
                                 "isCodeDividerClickable": false,
-                                "orderIndex": 3790000,
                                 "reference": "308.1"
                             }
                         ],
@@ -939,7 +867,6 @@
                         "href": "#308",
                         "isCodeDivider": false,
                         "isCodeDividerClickable": false,
-                        "orderIndex": 3780000,
                         "reference": "308"
                     },
                     {
@@ -954,7 +881,6 @@
                                 "href": "#309.1",
                                 "isCodeDivider": false,
                                 "isCodeDividerClickable": false,
-                                "orderIndex": 3830000,
                                 "reference": "309.1"
                             },
                             {
@@ -969,7 +895,6 @@
                                         "href": "#309.2.1",
                                         "isCodeDivider": false,
                                         "isCodeDividerClickable": false,
-                                        "orderIndex": 3850000,
                                         "reference": "309.2.1"
                                     }
                                 ],
@@ -979,7 +904,6 @@
                                 "href": "#309.2",
                                 "isCodeDivider": false,
                                 "isCodeDividerClickable": false,
-                                "orderIndex": 3840000,
                                 "reference": "309.2"
                             }
                         ],
@@ -989,7 +913,6 @@
                         "href": "#309",
                         "isCodeDivider": false,
                         "isCodeDividerClickable": false,
-                        "orderIndex": 3820000,
                         "reference": "309"
                     }
                 ],
@@ -998,153 +921,131 @@
                     {
                         "displayTitle": "Chapter 1 Scope and Administration",
                         "isExpandable": true,
-                        "orderIndex": 10000,
                         "reference": "1",
                         "slug": "scope-and-administration"
                     },
                     {
                         "displayTitle": "Chapter 2 Definitions",
                         "isExpandable": true,
-                        "orderIndex": 2180000,
                         "reference": "2",
                         "slug": "definitions"
                     },
                     {
                         "displayTitle": "Chapter 3 Provisions for All Compliance Methods",
                         "isExpandable": true,
-                        "orderIndex": 2940000,
                         "reference": "3",
                         "slug": "provisions-for-all-compliance-methods"
                     },
                     {
                         "displayTitle": "Chapter 4 Repairs",
                         "isExpandable": true,
-                        "orderIndex": 3900000,
                         "reference": "4",
                         "slug": "repairs"
                     },
                     {
                         "displayTitle": "Chapter 5 Prescriptive Compliance Method",
                         "isExpandable": true,
-                        "orderIndex": 4290000,
                         "reference": "5",
                         "slug": "prescriptive-compliance-method"
                     },
                     {
                         "displayTitle": "Chapter 6 Classification of Work",
                         "isExpandable": true,
-                        "orderIndex": 4990000,
                         "reference": "6",
                         "slug": "classification-of-work"
                     },
                     {
                         "displayTitle": "Chapter 7 Alterations\u2014Level 1",
                         "isExpandable": true,
-                        "orderIndex": 5220000,
                         "reference": "7",
                         "slug": "alterations-level-1"
                     },
                     {
                         "displayTitle": "Chapter 8 Alterations\u2014Level 2",
                         "isExpandable": true,
-                        "orderIndex": 5650000,
                         "reference": "8",
                         "slug": "alterations-level-2"
                     },
                     {
                         "displayTitle": "Chapter 9 Alterations\u2014Level 3",
                         "isExpandable": true,
-                        "orderIndex": 6790000,
                         "reference": "9",
                         "slug": "alterations-level-3"
                     },
                     {
                         "displayTitle": "Chapter 10 Change of Occupancy",
                         "isExpandable": true,
-                        "orderIndex": 7290000,
                         "reference": "10",
                         "slug": "change-of-occupancy"
                     },
                     {
                         "displayTitle": "Chapter 11 Additions",
                         "isExpandable": true,
-                        "orderIndex": 7990000,
                         "reference": "11",
                         "slug": "additions"
                     },
                     {
                         "displayTitle": "Chapter 12 Historic Buildings",
                         "isExpandable": true,
-                        "orderIndex": 8190000,
                         "reference": "12",
                         "slug": "historic-buildings"
                     },
                     {
                         "displayTitle": "Chapter 13 Performance Compliance Methods",
                         "isExpandable": true,
-                        "orderIndex": 8660000,
                         "reference": "13",
                         "slug": "performance-compliance-methods"
                     },
                     {
                         "displayTitle": "Chapter 14 Relocated or Moved Buildings",
                         "isExpandable": true,
-                        "orderIndex": 9490000,
                         "reference": "14",
                         "slug": "relocated-or-moved-buildings"
                     },
                     {
                         "displayTitle": "Chapter 15 Construction Safeguards",
                         "isExpandable": true,
-                        "orderIndex": 9630000,
                         "reference": "15",
                         "slug": "construction-safeguards"
                     },
                     {
                         "displayTitle": "Chapter 16 Referenced Standards",
-                        "orderIndex": 10220000,
                         "reference": "16",
                         "slug": "referenced-standards"
                     },
                     {
                         "disabled": true,
                         "displayTitle": "Appendix A Guidelines for the Seismic Retrofit of Existing Buildings",
-                        "orderIndex": 10230000,
                         "reference": "A",
                         "slug": "guidelines-for-the-seismic-retrofit-of-existing-buildings"
                     },
                     {
                         "disabled": true,
                         "displayTitle": "Appendix B Supplementary Accessibility Requirements for Existing Buildings and Facilities",
-                        "orderIndex": 12610000,
                         "reference": "B",
                         "slug": "supplementary-accessibility-requirements-for-existing-buildings-and-facilities"
                     },
                     {
                         "disabled": true,
                         "displayTitle": "Appendix C Guidelines for the Wind Retrofit of Existing Buildings",
-                        "orderIndex": 12830000,
                         "reference": "C",
                         "slug": "guidelines-for-the-wind-retrofit-of-existing-buildings"
                     },
                     {
                         "disabled": true,
                         "displayTitle": "Appendix D Board of Appeals",
-                        "orderIndex": 13410000,
                         "reference": "D",
                         "slug": "board-of-appeals"
                     },
                     {
                         "disabled": true,
                         "displayTitle": "Appendix E Temporary Emergency Uses",
-                        "orderIndex": 13660000,
                         "reference": "E",
                         "slug": "temporary-emergency-uses"
                     },
                     {
                         "disabled": true,
                         "displayTitle": "Resource A Guidelines on Fire Ratings of Archaic Materials and Assemblies",
-                        "orderIndex": 14420000,
                         "reference": "resource_A",
                         "slug": "guidelines-on-fire-ratings-of-archaic-materials-and-assemblies"
                     }
@@ -1163,7 +1064,6 @@
                         "numAssembliesOnRef": 0,
                         "numBuildingProductsOnRef": 0,
                         "numDiagramsOnRef": 0,
-                        "orderIndex": 2940000,
                         "reference": "3",
                         "slug": "provisions-for-all-compliance-methods",
                         "titleText": "Provisions for All Compliance Methods",
@@ -1182,7 +1082,6 @@
                                 "numAssembliesOnRef": 0,
                                 "numBuildingProductsOnRef": 0,
                                 "numDiagramsOnRef": 0,
-                                "orderIndex": 2950000,
                                 "reference": "301",
                                 "slug": "provisions-for-all-compliance-methods",
                                 "titleText": "Administration",
@@ -1202,7 +1101,6 @@
                                         "numAssembliesOnRef": 0,
                                         "numBuildingProductsOnRef": 0,
                                         "numDiagramsOnRef": 0,
-                                        "orderIndex": 2960000,
                                         "reference": "301.1",
                                         "slug": "provisions-for-all-compliance-methods",
                                         "titleText": "Applicability",
@@ -1223,7 +1121,6 @@
                                                 "numAssembliesOnRef": 0,
                                                 "numBuildingProductsOnRef": 0,
                                                 "numDiagramsOnRef": 0,
-                                                "orderIndex": 2970000,
                                                 "reference": "301.1.1",
                                                 "slug": "provisions-for-all-compliance-methods",
                                                 "titleText": "Bleachers, Folding and Telescopic Seating and Grandstands",
@@ -1246,7 +1143,6 @@
                                         "numAssembliesOnRef": 0,
                                         "numBuildingProductsOnRef": 0,
                                         "numDiagramsOnRef": 0,
-                                        "orderIndex": 2980000,
                                         "reference": "301.2",
                                         "slug": "provisions-for-all-compliance-methods",
                                         "titleText": "Repairs",
@@ -1267,7 +1163,6 @@
                                         "numAssembliesOnRef": 0,
                                         "numBuildingProductsOnRef": 0,
                                         "numDiagramsOnRef": 0,
-                                        "orderIndex": 2990000,
                                         "reference": "301.3",
                                         "slug": "provisions-for-all-compliance-methods",
                                         "titleText": "Alteration, Addition or Change of Occupancy",
@@ -1288,7 +1183,6 @@
                                                 "numAssembliesOnRef": 0,
                                                 "numBuildingProductsOnRef": 0,
                                                 "numDiagramsOnRef": 0,
-                                                "orderIndex": 3000000,
                                                 "reference": "301.3.1",
                                                 "slug": "provisions-for-all-compliance-methods",
                                                 "titleText": "Prescriptive Compliance Method",
@@ -1310,7 +1204,6 @@
                                                 "numAssembliesOnRef": 0,
                                                 "numBuildingProductsOnRef": 0,
                                                 "numDiagramsOnRef": 0,
-                                                "orderIndex": 3010000,
                                                 "reference": "301.3.2",
                                                 "slug": "provisions-for-all-compliance-methods",
                                                 "titleText": "Work Area Compliance Method",
@@ -1332,7 +1225,6 @@
                                                 "numAssembliesOnRef": 0,
                                                 "numBuildingProductsOnRef": 0,
                                                 "numDiagramsOnRef": 0,
-                                                "orderIndex": 3020000,
                                                 "reference": "301.3.3",
                                                 "slug": "provisions-for-all-compliance-methods",
                                                 "titleText": "Performance Compliance Method",
@@ -1355,7 +1247,6 @@
                                         "numAssembliesOnRef": 0,
                                         "numBuildingProductsOnRef": 0,
                                         "numDiagramsOnRef": 0,
-                                        "orderIndex": 3030000,
                                         "reference": "301.4",
                                         "slug": "provisions-for-all-compliance-methods",
                                         "titleText": "Relocated Buildings",
@@ -1368,16 +1259,69 @@
                                     "3"
                                 ],
                                 "depth": 1,
-                                "diagrams": [],
+                                "diagrams": [
+                                    {
+                                        "key": "replacement_mats_unsafe",
+                                        "title": "New and Replacement Materials - Unsafe Condition May Not Be Created",
+                                        "descriptionHtml": "<div>In repairs and alterations like materials are allowed to be used provided an unsafe condition is not created and the materials are not hazardous.  Where an unsafe condition would be created, the use of materials permitted by the applicable code for new construction is required.  Where hazardous materials are present, any hazardous materials removed for the work to occur may not be reinstalled, and new materials installed to take the place of the hazardous materials need to be as required for new construction.</div>",
+                                        "topics": [
+                                            "Example"
+                                        ],
+                                        "phases": [
+                                            "Post-Construction",
+                                            "Construction Docs",
+                                            "Construction Phase"
+                                        ],
+                                        "supressesChildrenAssociations": false,
+                                        "blacklistJurisdictions": [],
+                                        "whitelistJurisdictions": [],
+                                        "imageType": "svg"
+                                    },
+                                    {
+                                        "key": "replacement_mats_inkind",
+                                        "title": "New and Replacement Materials - Replacement in Kind",
+                                        "descriptionHtml": "<div>In repairs and alterations like materials are allowed to be used provided an unsafe condition is not created and the materials are not hazardous.  Where an unsafe condition would be created, the use of materials permitted by the applicable code for new construction is required.  Where hazardous materials are present, any hazardous materials removed for the work to occur may not be reinstalled, and new materials installed to take the place of the hazardous materials need to be as required for new construction.</div>",
+                                        "topics": [
+                                            "Example"
+                                        ],
+                                        "phases": [
+                                            "Post-Construction",
+                                            "Construction Docs",
+                                            "Construction Phase"
+                                        ],
+                                        "supressesChildrenAssociations": false,
+                                        "blacklistJurisdictions": [],
+                                        "whitelistJurisdictions": [],
+                                        "imageType": "svg"
+                                    },
+                                    {
+                                        "key": "replacement_mats_hazardous",
+                                        "title": "New and Replacement Materials - Hazardous Materials Shall Not Be Used",
+                                        "descriptionHtml": "<div>In repairs and alterations like materials are allowed to be used provided an unsafe condition is not created and the materials are not hazardous.  Where an unsafe condition would be created, the use of materials permitted by the applicable code for new construction is required.  Where hazardous materials are present, any hazardous materials removed for the work to occur may not be reinstalled, and new materials installed to take the place of the hazardous materials need to be as required for new construction.</div>",
+                                        "topics": [
+                                            "Example"
+                                        ],
+                                        "phases": [
+                                            "Post-Construction",
+                                            "Construction Docs",
+                                            "Construction Phase"
+                                        ],
+                                        "supressesChildrenAssociations": false,
+                                        "blacklistJurisdictions": [],
+                                        "whitelistJurisdictions": [],
+                                        "imageType": "svg"
+                                    }
+                                ],
                                 "displayRef": null,
                                 "displayTitle": "Section 302 General Provisions",
                                 "divisionType": "Section",
                                 "hasAssemblies": false,
+                                "hasDiagrams": true,
+                                "hasDiagramsOnRef": true,
                                 "isContiguous": true,
                                 "numAssembliesOnRef": 0,
                                 "numBuildingProductsOnRef": 0,
-                                "numDiagramsOnRef": 0,
-                                "orderIndex": 3040000,
+                                "numDiagramsOnRef": 3,
                                 "reference": "302",
                                 "slug": "provisions-for-all-compliance-methods",
                                 "titleText": "General Provisions",
@@ -1393,11 +1337,11 @@
                                         "displayRef": null,
                                         "displayTitle": "302.1 Dangerous Conditions",
                                         "hasAssemblies": false,
+                                        "hasDiagrams": true,
                                         "isContiguous": true,
                                         "numAssembliesOnRef": 0,
                                         "numBuildingProductsOnRef": 0,
                                         "numDiagramsOnRef": 0,
-                                        "orderIndex": 3050000,
                                         "reference": "302.1",
                                         "slug": "provisions-for-all-compliance-methods",
                                         "titleText": "Dangerous Conditions",
@@ -1414,11 +1358,11 @@
                                         "displayRef": null,
                                         "displayTitle": "302.2 Additional Codes",
                                         "hasAssemblies": false,
+                                        "hasDiagrams": true,
                                         "isContiguous": true,
                                         "numAssembliesOnRef": 0,
                                         "numBuildingProductsOnRef": 0,
                                         "numDiagramsOnRef": 0,
-                                        "orderIndex": 3070000,
                                         "reference": "302.2",
                                         "slug": "provisions-for-all-compliance-methods",
                                         "titleText": "Additional Codes",
@@ -1435,11 +1379,11 @@
                                                 "displayRef": null,
                                                 "displayTitle": "302.2.1 Additional Codes in Health Care",
                                                 "hasAssemblies": false,
+                                                "hasDiagrams": true,
                                                 "isContiguous": true,
                                                 "numAssembliesOnRef": 0,
                                                 "numBuildingProductsOnRef": 0,
                                                 "numDiagramsOnRef": 0,
-                                                "orderIndex": 3080000,
                                                 "reference": "302.2.1",
                                                 "slug": "provisions-for-all-compliance-methods",
                                                 "titleText": "Additional Codes in Health Care",
@@ -1458,11 +1402,11 @@
                                         "displayRef": null,
                                         "displayTitle": "302.3 Existing Materials",
                                         "hasAssemblies": true,
+                                        "hasDiagrams": true,
                                         "isContiguous": true,
                                         "numAssembliesOnRef": 8,
                                         "numBuildingProductsOnRef": 0,
                                         "numDiagramsOnRef": 0,
-                                        "orderIndex": 3160000,
                                         "reference": "302.3",
                                         "slug": "provisions-for-all-compliance-methods",
                                         "titleText": "Existing Materials",
@@ -1475,15 +1419,68 @@
                                         ],
                                         "body": "<div>Except as otherwise required or permitted by this code, materials                             permitted by the applicable code for new construction shall be used.                             Like materials shall be permitted for <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/general-services-administration/iebc-2024/chapter/2/definitions#repair_\">repairs</a></span> and <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/general-services-administration/iebc-2024/chapter/2/definitions#alteration_\">alterations</a></span>,                             provided that <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/general-services-administration/iebc-2024/chapter/2/definitions#unsafe_\">unsafe</a></span> conditions are                             not created. Hazardous materials shall not be used where the code for                             new construction would not permit their use in buildings of similar                             occupancy, purpose and location.</div>",
                                         "depth": 2,
-                                        "diagrams": [],
+                                        "diagrams": [
+                                            {
+                                                "key": "replacement_mats_unsafe",
+                                                "title": "New and Replacement Materials - Unsafe Condition May Not Be Created",
+                                                "descriptionHtml": "<div>In repairs and alterations like materials are allowed to be used provided an unsafe condition is not created and the materials are not hazardous.  Where an unsafe condition would be created, the use of materials permitted by the applicable code for new construction is required.  Where hazardous materials are present, any hazardous materials removed for the work to occur may not be reinstalled, and new materials installed to take the place of the hazardous materials need to be as required for new construction.</div>",
+                                                "topics": [
+                                                    "Example"
+                                                ],
+                                                "phases": [
+                                                    "Post-Construction",
+                                                    "Construction Docs",
+                                                    "Construction Phase"
+                                                ],
+                                                "supressesChildrenAssociations": false,
+                                                "blacklistJurisdictions": [],
+                                                "whitelistJurisdictions": [],
+                                                "imageType": "svg"
+                                            },
+                                            {
+                                                "key": "replacement_mats_inkind",
+                                                "title": "New and Replacement Materials - Replacement in Kind",
+                                                "descriptionHtml": "<div>In repairs and alterations like materials are allowed to be used provided an unsafe condition is not created and the materials are not hazardous.  Where an unsafe condition would be created, the use of materials permitted by the applicable code for new construction is required.  Where hazardous materials are present, any hazardous materials removed for the work to occur may not be reinstalled, and new materials installed to take the place of the hazardous materials need to be as required for new construction.</div>",
+                                                "topics": [
+                                                    "Example"
+                                                ],
+                                                "phases": [
+                                                    "Post-Construction",
+                                                    "Construction Docs",
+                                                    "Construction Phase"
+                                                ],
+                                                "supressesChildrenAssociations": false,
+                                                "blacklistJurisdictions": [],
+                                                "whitelistJurisdictions": [],
+                                                "imageType": "svg"
+                                            },
+                                            {
+                                                "key": "replacement_mats_hazardous",
+                                                "title": "New and Replacement Materials - Hazardous Materials Shall Not Be Used",
+                                                "descriptionHtml": "<div>In repairs and alterations like materials are allowed to be used provided an unsafe condition is not created and the materials are not hazardous.  Where an unsafe condition would be created, the use of materials permitted by the applicable code for new construction is required.  Where hazardous materials are present, any hazardous materials removed for the work to occur may not be reinstalled, and new materials installed to take the place of the hazardous materials need to be as required for new construction.</div>",
+                                                "topics": [
+                                                    "Example"
+                                                ],
+                                                "phases": [
+                                                    "Post-Construction",
+                                                    "Construction Docs",
+                                                    "Construction Phase"
+                                                ],
+                                                "supressesChildrenAssociations": false,
+                                                "blacklistJurisdictions": [],
+                                                "whitelistJurisdictions": [],
+                                                "imageType": "svg"
+                                            }
+                                        ],
                                         "displayRef": null,
                                         "displayTitle": "302.4 New and Replacement Materials",
                                         "hasAssemblies": false,
+                                        "hasDiagrams": true,
+                                        "hasDiagramsOnRef": true,
                                         "isContiguous": true,
                                         "numAssembliesOnRef": 0,
                                         "numBuildingProductsOnRef": 0,
-                                        "numDiagramsOnRef": 0,
-                                        "orderIndex": 3170000,
+                                        "numDiagramsOnRef": 3,
                                         "reference": "302.4",
                                         "slug": "provisions-for-all-compliance-methods",
                                         "titleText": "New and Replacement Materials",
@@ -1500,11 +1497,11 @@
                                                 "displayRef": null,
                                                 "displayTitle": "[BS]  302.4.1 New Structural Members and Connections",
                                                 "hasAssemblies": false,
+                                                "hasDiagrams": true,
                                                 "isContiguous": true,
                                                 "numAssembliesOnRef": 0,
                                                 "numBuildingProductsOnRef": 0,
                                                 "numDiagramsOnRef": 0,
-                                                "orderIndex": 3180000,
                                                 "reference": "302.4.1",
                                                 "refPrefix": "[BS]",
                                                 "slug": "provisions-for-all-compliance-methods",
@@ -1549,7 +1546,6 @@
                                         "numAssembliesOnRef": 0,
                                         "numBuildingProductsOnRef": 0,
                                         "numDiagramsOnRef": 1,
-                                        "orderIndex": 3190000,
                                         "reference": "302.5",
                                         "slug": "provisions-for-all-compliance-methods",
                                         "titleText": "Occupancy and Use",
@@ -1571,7 +1567,6 @@
                                 "numAssembliesOnRef": 0,
                                 "numBuildingProductsOnRef": 0,
                                 "numDiagramsOnRef": 0,
-                                "orderIndex": 3200000,
                                 "reference": "303",
                                 "slug": "provisions-for-all-compliance-methods",
                                 "titleText": "Storm Shelters",
@@ -1591,7 +1586,6 @@
                                         "numAssembliesOnRef": 0,
                                         "numBuildingProductsOnRef": 0,
                                         "numDiagramsOnRef": 0,
-                                        "orderIndex": 3210000,
                                         "reference": "303.1",
                                         "refPrefix": "[NY]",
                                         "slug": "provisions-for-all-compliance-methods",
@@ -1613,7 +1607,6 @@
                                                 "numAssembliesOnRef": 0,
                                                 "numBuildingProductsOnRef": 0,
                                                 "numDiagramsOnRef": 0,
-                                                "orderIndex": 3220000,
                                                 "reference": "303.1.1",
                                                 "slug": "provisions-for-all-compliance-methods",
                                                 "titleText": "Construction",
@@ -1636,7 +1629,6 @@
                                         "numAssembliesOnRef": 0,
                                         "numBuildingProductsOnRef": 0,
                                         "numDiagramsOnRef": 0,
-                                        "orderIndex": 3230000,
                                         "reference": "303.2",
                                         "slug": "provisions-for-all-compliance-methods",
                                         "titleText": "Addition to a Group E Occupancy",
@@ -1657,7 +1649,6 @@
                                                 "numAssembliesOnRef": 0,
                                                 "numBuildingProductsOnRef": 0,
                                                 "numDiagramsOnRef": 0,
-                                                "orderIndex": 3240000,
                                                 "reference": "303.2.1",
                                                 "slug": "provisions-for-all-compliance-methods",
                                                 "titleText": "Design Occupant Capacity",
@@ -1680,7 +1671,6 @@
                                         "numAssembliesOnRef": 0,
                                         "numBuildingProductsOnRef": 0,
                                         "numDiagramsOnRef": 0,
-                                        "orderIndex": 3250000,
                                         "reference": "303.3",
                                         "slug": "provisions-for-all-compliance-methods",
                                         "titleText": "Occupancy Classification",
@@ -1702,7 +1692,6 @@
                                 "numAssembliesOnRef": 0,
                                 "numBuildingProductsOnRef": 0,
                                 "numDiagramsOnRef": 0,
-                                "orderIndex": 3260000,
                                 "reference": "304",
                                 "slug": "provisions-for-all-compliance-methods",
                                 "titleText": "Structural Design Loads and Evaluation and Design Procedures",
@@ -1722,7 +1711,6 @@
                                         "numAssembliesOnRef": 0,
                                         "numBuildingProductsOnRef": 0,
                                         "numDiagramsOnRef": 0,
-                                        "orderIndex": 3270000,
                                         "reference": "304.1",
                                         "refPrefix": "[BS]",
                                         "slug": "provisions-for-all-compliance-methods",
@@ -1744,7 +1732,6 @@
                                         "numAssembliesOnRef": 0,
                                         "numBuildingProductsOnRef": 0,
                                         "numDiagramsOnRef": 0,
-                                        "orderIndex": 3280000,
                                         "reference": "304.2",
                                         "refPrefix": "[BS]",
                                         "slug": "provisions-for-all-compliance-methods",
@@ -1766,7 +1753,6 @@
                                         "numAssembliesOnRef": 0,
                                         "numBuildingProductsOnRef": 0,
                                         "numDiagramsOnRef": 0,
-                                        "orderIndex": 3290000,
                                         "reference": "304.3",
                                         "refPrefix": "[BS]",
                                         "slug": "provisions-for-all-compliance-methods",
@@ -1788,7 +1774,6 @@
                                                 "numAssembliesOnRef": 0,
                                                 "numBuildingProductsOnRef": 0,
                                                 "numDiagramsOnRef": 0,
-                                                "orderIndex": 3300000,
                                                 "reference": "304.3.1",
                                                 "refPrefix": "[BS]",
                                                 "slug": "provisions-for-all-compliance-methods",
@@ -1811,7 +1796,6 @@
                                                 "numAssembliesOnRef": 0,
                                                 "numBuildingProductsOnRef": 0,
                                                 "numDiagramsOnRef": 0,
-                                                "orderIndex": 3310000,
                                                 "reference": "304.3.2",
                                                 "refPrefix": "[BS]",
                                                 "slug": "provisions-for-all-compliance-methods",
@@ -1836,7 +1820,6 @@
                                 "numAssembliesOnRef": 0,
                                 "numBuildingProductsOnRef": 0,
                                 "numDiagramsOnRef": 0,
-                                "orderIndex": 3320000,
                                 "reference": "305",
                                 "slug": "provisions-for-all-compliance-methods",
                                 "titleText": "In-Situ Load Tests",
@@ -1856,7 +1839,6 @@
                                         "numAssembliesOnRef": 0,
                                         "numBuildingProductsOnRef": 0,
                                         "numDiagramsOnRef": 0,
-                                        "orderIndex": 3330000,
                                         "reference": "305.1",
                                         "refPrefix": "[BS]",
                                         "slug": "provisions-for-all-compliance-methods",
@@ -1888,6 +1870,21 @@
                                         "blacklistJurisdictions": [],
                                         "whitelistJurisdictions": [],
                                         "imageType": "svg"
+                                    },
+                                    {
+                                        "key": "additions_elevators_exist_bldg",
+                                        "title": "Additions of Elevators in Existing Buildings",
+                                        "descriptionHtml": "<div>When a building addition is constructed solely to install elevators for accessibility, an accessible means of egress is not required if certain conditions are met. These conditions include providing two way communication at all elevator landings, ensuring each landing connects to a horizontal exit or a stairway at least 36\" wide, and limiting elevator service so it does not extend to a required accessible floor or occupied roof located more than four stories above or below the exit discharge level.</div>",
+                                        "topics": [
+                                            "Interior"
+                                        ],
+                                        "phases": [
+                                            "Construction Docs"
+                                        ],
+                                        "supressesChildrenAssociations": false,
+                                        "blacklistJurisdictions": [],
+                                        "whitelistJurisdictions": [],
+                                        "imageType": "svg"
                                     }
                                 ],
                                 "displayRef": null,
@@ -1899,8 +1896,7 @@
                                 "isContiguous": true,
                                 "numAssembliesOnRef": 0,
                                 "numBuildingProductsOnRef": 0,
-                                "numDiagramsOnRef": 1,
-                                "orderIndex": 3340000,
+                                "numDiagramsOnRef": 2,
                                 "reference": "306",
                                 "slug": "provisions-for-all-compliance-methods",
                                 "titleText": "Accessibility for Existing Buildings",
@@ -1921,7 +1917,6 @@
                                         "numAssembliesOnRef": 0,
                                         "numBuildingProductsOnRef": 0,
                                         "numDiagramsOnRef": 0,
-                                        "orderIndex": 3350000,
                                         "reference": "306.1",
                                         "slug": "provisions-for-all-compliance-methods",
                                         "titleText": "Scope",
@@ -1943,7 +1938,6 @@
                                         "numAssembliesOnRef": 0,
                                         "numBuildingProductsOnRef": 0,
                                         "numDiagramsOnRef": 0,
-                                        "orderIndex": 3360000,
                                         "reference": "306.2",
                                         "slug": "provisions-for-all-compliance-methods",
                                         "titleText": "General",
@@ -1965,7 +1959,6 @@
                                                 "numAssembliesOnRef": 0,
                                                 "numBuildingProductsOnRef": 0,
                                                 "numDiagramsOnRef": 0,
-                                                "orderIndex": 3370000,
                                                 "reference": "306.2.1",
                                                 "slug": "provisions-for-all-compliance-methods",
                                                 "titleText": "Prohibited Reduction in Accessibility",
@@ -1989,7 +1982,6 @@
                                         "numAssembliesOnRef": 0,
                                         "numBuildingProductsOnRef": 0,
                                         "numDiagramsOnRef": 0,
-                                        "orderIndex": 3380000,
                                         "reference": "306.3",
                                         "slug": "provisions-for-all-compliance-methods",
                                         "titleText": "Design",
@@ -2011,7 +2003,6 @@
                                         "numAssembliesOnRef": 0,
                                         "numBuildingProductsOnRef": 0,
                                         "numDiagramsOnRef": 0,
-                                        "orderIndex": 3390000,
                                         "reference": "306.4",
                                         "slug": "provisions-for-all-compliance-methods",
                                         "titleText": "Extent of Application",
@@ -2033,7 +2024,6 @@
                                         "numAssembliesOnRef": 0,
                                         "numBuildingProductsOnRef": 0,
                                         "numDiagramsOnRef": 0,
-                                        "orderIndex": 3400000,
                                         "reference": "306.5",
                                         "slug": "provisions-for-all-compliance-methods",
                                         "titleText": "Change of Occupancy",
@@ -2055,7 +2045,6 @@
                                         "numAssembliesOnRef": 0,
                                         "numBuildingProductsOnRef": 0,
                                         "numDiagramsOnRef": 0,
-                                        "orderIndex": 3410000,
                                         "reference": "306.6",
                                         "slug": "provisions-for-all-compliance-methods",
                                         "titleText": "Additions",
@@ -2077,7 +2066,6 @@
                                                 "numAssembliesOnRef": 0,
                                                 "numBuildingProductsOnRef": 0,
                                                 "numDiagramsOnRef": 0,
-                                                "orderIndex": 3420000,
                                                 "reference": "306.6.1",
                                                 "slug": "provisions-for-all-compliance-methods",
                                                 "titleText": "Accessible Means of Egress",
@@ -2091,16 +2079,32 @@
                                                         ],
                                                         "body": "<div>Where an <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/general-services-administration/iebc-2024/chapter/2/definitions#addition_\">addition</a></span> is                                         being constructed exclusively to accommodate the                                         installation of an elevator or elevators to improve                                         accessibility, an accessible means of egress in accordance                                         with <a class=\"autolink\" href=\"/viewer/general-services-administration/ibc-2024/chapter/10/means-of-egress#1009.1\">Section 1009.1</a> of                                         the <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/general-services-administration/ibc-2024\">International Building Code</a></span>                                         is not required where all of the following conditions are                                         provided: <ol><li>Two-way                                                   communication is provided at all elevator landings                                                   that are part of the <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/general-services-administration/iebc-2024/chapter/2/definitions#addition_\">addition</a></span> in accordance with <a class=\"autolink\" href=\"/viewer/general-services-administration/ibc-2024/chapter/10/means-of-egress#1009.8\">Section                                                   1009.8</a> of the <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/general-services-administration/ibc-2024\">International Building Code</a></span>.</li><li>Each elevator                                                   landing is on floor level with access to a                                                   horizontal exit or to a stairway with a width of                                                   not less than 36 inches (914 mm).</li><li>The elevator does                                                   not serve a required accessible floor or occupied                                                   roof&nbsp;more than four stories&nbsp;above or below the                                                   level of exit discharge.</li></ol>                                     </div>",
                                                         "depth": 4,
-                                                        "diagrams": [],
+                                                        "diagrams": [
+                                                            {
+                                                                "key": "additions_elevators_exist_bldg",
+                                                                "title": "Additions of Elevators in Existing Buildings",
+                                                                "descriptionHtml": "<div>When a building addition is constructed solely to install elevators for accessibility, an accessible means of egress is not required if certain conditions are met. These conditions include providing two way communication at all elevator landings, ensuring each landing connects to a horizontal exit or a stairway at least 36\" wide, and limiting elevator service so it does not extend to a required accessible floor or occupied roof located more than four stories above or below the exit discharge level.</div>",
+                                                                "topics": [
+                                                                    "Interior"
+                                                                ],
+                                                                "phases": [
+                                                                    "Construction Docs"
+                                                                ],
+                                                                "supressesChildrenAssociations": false,
+                                                                "blacklistJurisdictions": [],
+                                                                "whitelistJurisdictions": [],
+                                                                "imageType": "svg"
+                                                            }
+                                                        ],
                                                         "displayRef": null,
                                                         "displayTitle": "306.6.1.1 Additions for Elevators",
                                                         "hasAssemblies": false,
                                                         "hasDiagrams": true,
+                                                        "hasDiagramsOnRef": true,
                                                         "isContiguous": true,
                                                         "numAssembliesOnRef": 0,
                                                         "numBuildingProductsOnRef": 0,
-                                                        "numDiagramsOnRef": 0,
-                                                        "orderIndex": 3430000,
+                                                        "numDiagramsOnRef": 1,
                                                         "reference": "306.6.1.1",
                                                         "slug": "provisions-for-all-compliance-methods",
                                                         "titleText": "Additions for Elevators",
@@ -2126,7 +2130,6 @@
                                         "numAssembliesOnRef": 0,
                                         "numBuildingProductsOnRef": 0,
                                         "numDiagramsOnRef": 0,
-                                        "orderIndex": 3440000,
                                         "reference": "306.7",
                                         "slug": "provisions-for-all-compliance-methods",
                                         "titleText": "Alterations",
@@ -2140,6 +2143,24 @@
                                                 "body": "<div>Where an <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/general-services-administration/iebc-2024/chapter/2/definitions#alteration_\">alteration</a></span> affects the accessibility to, or contains an area of, <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/general-services-administration/iebc-2024/chapter/2/definitions#primary_function_\">primary function</a></span>, the route to the <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/general-services-administration/iebc-2024/chapter/2/definitions#primary_function_\">primary function</a></span> area shall be accessible. Toilet <a class=\"autolink\" href=\"/viewer/general-services-administration/iebc-2024/chapter/2/definitions#facility_\">facilities</a> and drinking fountains serving the area of <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/general-services-administration/iebc-2024/chapter/2/definitions#primary_function_\">primary function</a></span>, including the route from the area of <a class=\"autolink\" href=\"/viewer/general-services-administration/iebc-2024/chapter/2/definitions#primary_function_\">primary function</a> to these <a class=\"autolink\" href=\"/viewer/general-services-administration/iebc-2024/chapter/2/definitions#facility_\">facilities</a>, shall be accessible. Priority shall be given to the improvements affecting the accessible route to the <a class=\"autolink\" href=\"/viewer/general-services-administration/iebc-2024/chapter/2/definitions#primary_function_\">primary function</a> area.\n<div class=\"u-ml-4\">\n<div class=\"u-mt-3 u-mb-3\"><span class=\"u-font-bold\">Exceptions: </span></div>\n<ol class=\"u-text-left\">\n<li>The cumulative costs of providing the accessible route, toilet <a class=\"autolink\" href=\"/viewer/general-services-administration/iebc-2024/chapter/2/definitions#facility_\">facilities</a> and drinking fountains are not required to exceed 20 percent of the costs of the <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/general-services-administration/iebc-2024/chapter/2/definitions#alteration_\">alterations</a> </span>affecting the area of <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/general-services-administration/iebc-2024/chapter/2/definitions#primary_function_\">primary function</a></span>.</li>\n<li>This provision does not apply to <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/general-services-administration/iebc-2024/chapter/2/definitions#alteration_\">alterations</a> </span>limited solely to windows, hardware, operating controls, electrical outlets and signs.</li>\n<li>This provision does not apply to <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/general-services-administration/iebc-2024/chapter/2/definitions#alteration_\">alterations</a> </span>limited solely to mechanical systems, electrical systems, installation or <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/general-services-administration/iebc-2024/chapter/2/definitions#alteration_\">alteration</a> </span>of fire protection systems and abatement of hazardous materials.</li>\n<li>This provision does not apply to <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/general-services-administration/iebc-2024/chapter/2/definitions#alteration_\">alterations</a> </span>undertaken for the primary purpose of increasing the accessibility of a <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/general-services-administration/iebc-2024/chapter/2/definitions#facility_\">facility</a></span>.</li>\n<li>This provision does not apply to altered areas limited to Type B dwelling and sleeping units.</li>\n</ol>\n</div>\n</div>",
                                                 "depth": 3,
                                                 "diagrams": [
+                                                    {
+                                                        "key": "maneuvering_clr_at_doors_a117_2017",
+                                                        "title": "Maneuvering Clearances: Doors ",
+                                                        "descriptionHtml": "<div>Maneuvering clearances shall extend the full width of the doorway and the required latch side or hinge side clearance.  Based on the 2017 A117.1 Accessibility Code, some conditions may differ for existing and new buildings, based on the larger wheelchair clear space of 52\" instead of 48\".</div>",
+                                                        "topics": [
+                                                            "Access",
+                                                            "Egress"
+                                                        ],
+                                                        "phases": [
+                                                            "Design Development",
+                                                            "Construction Docs",
+                                                            "Construction Phase"
+                                                        ],
+                                                        "supressesChildrenAssociations": false,
+                                                        "blacklistJurisdictions": [],
+                                                        "whitelistJurisdictions": [],
+                                                        "imageType": "svg"
+                                                    },
                                                     {
                                                         "key": "accessible_routes_alterations_multistory",
                                                         "title": "Routes: Alterations to Multistory Buildings",
@@ -2193,8 +2214,7 @@
                                                 "isContiguous": true,
                                                 "numAssembliesOnRef": 0,
                                                 "numBuildingProductsOnRef": 4,
-                                                "numDiagramsOnRef": 2,
-                                                "orderIndex": 3450000,
+                                                "numDiagramsOnRef": 3,
                                                 "reference": "306.7.1",
                                                 "slug": "provisions-for-all-compliance-methods",
                                                 "titleText": "Alterations Affecting an Area Containing a Primary Function",
@@ -2217,7 +2237,6 @@
                                                 "numAssembliesOnRef": 0,
                                                 "numBuildingProductsOnRef": 0,
                                                 "numDiagramsOnRef": 0,
-                                                "orderIndex": 3460000,
                                                 "reference": "306.7.2",
                                                 "slug": "provisions-for-all-compliance-methods",
                                                 "titleText": "Accessible Means of Egress",
@@ -2231,16 +2250,96 @@
                                                 ],
                                                 "body": "<div>The <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/general-services-administration/iebc-2024/chapter/2/definitions#alteration_\">alteration</a></span> to Type A                                 individually owned dwelling units within a Group R-2 occupancy shall                                 be permitted to meet the provision for a Type B dwelling unit.</div>",
                                                 "depth": 3,
-                                                "diagrams": [],
+                                                "diagrams": [
+                                                    {
+                                                        "key": "bathtubs_type_b_unit",
+                                                        "title": "Bathtubs - Type B Units",
+                                                        "descriptionHtml": "<div>For Type B Unit bathtubs, either all toilet and bathing areas provided shall comply with Section 1004.11.3.1 (Option A), or one toilet and bathing area shall comply with Section 1004.11.3.2 (Option B). Option A bathtubs can have either a parallel approach or forward approach configuration.</div>",
+                                                        "topics": [
+                                                            "Access",
+                                                            "Residential"
+                                                        ],
+                                                        "phases": [
+                                                            "Design Development",
+                                                            "Construction Docs"
+                                                        ],
+                                                        "supressesChildrenAssociations": false,
+                                                        "blacklistJurisdictions": [],
+                                                        "whitelistJurisdictions": [],
+                                                        "imageType": "svg"
+                                                    },
+                                                    {
+                                                        "key": "showers_type_b_units_2017",
+                                                        "title": "Showers - Type B Units (2017)",
+                                                        "descriptionHtml": "",
+                                                        "topics": [
+                                                            "Access",
+                                                            "Residential"
+                                                        ],
+                                                        "phases": [
+                                                            "Design Development",
+                                                            "Construction Docs"
+                                                        ],
+                                                        "supressesChildrenAssociations": false,
+                                                        "blacklistJurisdictions": [],
+                                                        "whitelistJurisdictions": [],
+                                                        "imageType": "svg"
+                                                    },
+                                                    {
+                                                        "key": "accessible_units_u_kitchens",
+                                                        "title": "Accessible Units: U-Kitchens",
+                                                        "descriptionHtml": "<div>\nAccessible, Type A and Type B dwelling units with U-shaped Kitchens shall provide a 60\" clearance between all opposing cabinets, counter tops, appliances or walls. If elements are not placed on all three contiguous sides, the clearance between elements can be 40\" in Type A and B units. Type C units must have a 40\" min clearance between all opposing elements in either configuration. Clear floor space must be provided for fixtures and appliances as shown.\nState and local codes and regulations should be consulted. In addition, if a project scoping falls under the scoping of both the FHA and ADA Standards, the most restrictive of both sets of regulations apply, per DOJ / HUD Joint statement and the Advisory 224.1, in addition to state and local regulations.</div>",
+                                                        "topics": [
+                                                            "Access",
+                                                            "Residential"
+                                                        ],
+                                                        "phases": [
+                                                            "Schematic",
+                                                            "Design Development",
+                                                            "Construction Docs",
+                                                            "Construction Phase"
+                                                        ],
+                                                        "supressesChildrenAssociations": false,
+                                                        "blacklistJurisdictions": [
+                                                            "california",
+                                                            "san_francisco",
+                                                            "los_angeles",
+                                                            "san-jose",
+                                                            "los-angeles-county",
+                                                            "san-diego"
+                                                        ],
+                                                        "whitelistJurisdictions": [],
+                                                        "imageType": "svg"
+                                                    },
+                                                    {
+                                                        "key": "type_b_dishwashers",
+                                                        "title": "Dishwasher Space in Type B Units",
+                                                        "descriptionHtml": "<div>In Type B units the dishwasher with the door open needs to be provided with a clear floor space per section 305.3 for a parallel or forward approach to the dishwasher.</div>",
+                                                        "topics": [
+                                                            "Access",
+                                                            "Interior"
+                                                        ],
+                                                        "phases": [
+                                                            "Construction Docs",
+                                                            "Construction Phase"
+                                                        ],
+                                                        "supressesChildrenAssociations": false,
+                                                        "blacklistJurisdictions": [
+                                                            "new_jersey"
+                                                        ],
+                                                        "whitelistJurisdictions": [],
+                                                        "imageType": "svg"
+                                                    }
+                                                ],
                                                 "displayRef": null,
                                                 "displayTitle": "306.7.3 Alteration of Type A Units",
                                                 "hasAssemblies": false,
                                                 "hasDiagrams": true,
+                                                "hasDiagramsOnRef": true,
                                                 "isContiguous": true,
                                                 "numAssembliesOnRef": 0,
                                                 "numBuildingProductsOnRef": 0,
-                                                "numDiagramsOnRef": 0,
-                                                "orderIndex": 3470000,
+                                                "numDiagramsOnRef": 4,
                                                 "reference": "306.7.3",
                                                 "slug": "provisions-for-all-compliance-methods",
                                                 "titleText": "Alteration of Type A Units",
@@ -2263,7 +2362,6 @@
                                                 "numAssembliesOnRef": 0,
                                                 "numBuildingProductsOnRef": 0,
                                                 "numDiagramsOnRef": 0,
-                                                "orderIndex": 3480000,
                                                 "reference": "306.7.4",
                                                 "slug": "provisions-for-all-compliance-methods",
                                                 "titleText": "Type B Units",
@@ -2308,7 +2406,6 @@
                                                 "numAssembliesOnRef": 0,
                                                 "numBuildingProductsOnRef": 0,
                                                 "numDiagramsOnRef": 1,
-                                                "orderIndex": 3490000,
                                                 "reference": "306.7.5",
                                                 "slug": "provisions-for-all-compliance-methods",
                                                 "titleText": "Entrances",
@@ -2350,7 +2447,6 @@
                                                 "numAssembliesOnRef": 0,
                                                 "numBuildingProductsOnRef": 0,
                                                 "numDiagramsOnRef": 1,
-                                                "orderIndex": 3500000,
                                                 "reference": "306.7.6",
                                                 "slug": "provisions-for-all-compliance-methods",
                                                 "titleText": "Accessible Route",
@@ -2373,7 +2469,6 @@
                                                 "numAssembliesOnRef": 0,
                                                 "numBuildingProductsOnRef": 0,
                                                 "numDiagramsOnRef": 0,
-                                                "orderIndex": 3510000,
                                                 "reference": "306.7.7",
                                                 "slug": "provisions-for-all-compliance-methods",
                                                 "titleText": "Elevators",
@@ -2415,7 +2510,6 @@
                                                 "numAssembliesOnRef": 0,
                                                 "numBuildingProductsOnRef": 0,
                                                 "numDiagramsOnRef": 1,
-                                                "orderIndex": 3520000,
                                                 "reference": "306.7.8",
                                                 "slug": "provisions-for-all-compliance-methods",
                                                 "titleText": "Limited-Use/Limited-Application Elevators",
@@ -2438,7 +2532,6 @@
                                                 "numAssembliesOnRef": 0,
                                                 "numBuildingProductsOnRef": 0,
                                                 "numDiagramsOnRef": 0,
-                                                "orderIndex": 3530000,
                                                 "reference": "306.7.9",
                                                 "slug": "provisions-for-all-compliance-methods",
                                                 "titleText": "Platform Lifts",
@@ -2487,7 +2580,6 @@
                                                 "numAssembliesOnRef": 0,
                                                 "numBuildingProductsOnRef": 0,
                                                 "numDiagramsOnRef": 1,
-                                                "orderIndex": 3540000,
                                                 "reference": "306.7.10",
                                                 "slug": "provisions-for-all-compliance-methods",
                                                 "titleText": "Stairways and Escalators in Existing Buildings",
@@ -2510,7 +2602,6 @@
                                                 "numAssembliesOnRef": 0,
                                                 "numBuildingProductsOnRef": 0,
                                                 "numDiagramsOnRef": 0,
-                                                "orderIndex": 3550000,
                                                 "reference": "306.7.11",
                                                 "slug": "provisions-for-all-compliance-methods",
                                                 "titleText": "Determination of Number of Units",
@@ -2524,16 +2615,137 @@
                                                         ],
                                                         "body": "<div>Where Group I-1, I-2, I-3, R-1, R-2 or R-4 dwelling or sleeping                                     units are being altered or added within an <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/general-services-administration/iebc-2024/chapter/2/definitions#existing_building_\">existing                                             building</a></span>, the requirements of <a class=\"autolink\" href=\"/viewer/general-services-administration/ibc-2024/chapter/11/accessibility#1108\">Section 1108</a> of the <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/general-services-administration/ibc-2024\">International                                         Building Code</a></span> for Accessible units apply only to the                                     quantity of dwelling or sleeping                                         units&nbsp;being altered or added.</div>",
                                                         "depth": 4,
-                                                        "diagrams": [],
+                                                        "diagrams": [
+                                                            {
+                                                                "key": "accessible_bathtubs_removable_seats",
+                                                                "title": "Accessible Bathtubs w/ Removable Seats",
+                                                                "descriptionHtml": "<div>If a bathtub is provided within an Accessible unit, at least one shall comply with Sections 607. Accessible bathtubs must provide a clearance that extends the length of the tub and is 30\" min in depth. Grab bars shall comply with Section 609 and shall be provided in accordance with Section 607.4.1 or 607.4.2. Accessible units must also provide a removable or permanent seat.</div>",
+                                                                "topics": [
+                                                                    "Access",
+                                                                    "Residential"
+                                                                ],
+                                                                "phases": [
+                                                                    "Design Development",
+                                                                    "Construction Docs"
+                                                                ],
+                                                                "supressesChildrenAssociations": false,
+                                                                "blacklistJurisdictions": [],
+                                                                "whitelistJurisdictions": [],
+                                                                "imageType": "svg"
+                                                            },
+                                                            {
+                                                                "key": "accessible_units_u_kitchens",
+                                                                "title": "Accessible Units: U-Kitchens",
+                                                                "descriptionHtml": "<div>\nAccessible, Type A and Type B dwelling units with U-shaped Kitchens shall provide a 60\" clearance between all opposing cabinets, counter tops, appliances or walls. If elements are not placed on all three contiguous sides, the clearance between elements can be 40\" in Type A and B units. Type C units must have a 40\" min clearance between all opposing elements in either configuration. Clear floor space must be provided for fixtures and appliances as shown.\nState and local codes and regulations should be consulted. In addition, if a project scoping falls under the scoping of both the FHA and ADA Standards, the most restrictive of both sets of regulations apply, per DOJ / HUD Joint statement and the Advisory 224.1, in addition to state and local regulations.</div>",
+                                                                "topics": [
+                                                                    "Access",
+                                                                    "Residential"
+                                                                ],
+                                                                "phases": [
+                                                                    "Schematic",
+                                                                    "Design Development",
+                                                                    "Construction Docs",
+                                                                    "Construction Phase"
+                                                                ],
+                                                                "supressesChildrenAssociations": false,
+                                                                "blacklistJurisdictions": [
+                                                                    "california",
+                                                                    "san_francisco",
+                                                                    "los_angeles",
+                                                                    "san-jose",
+                                                                    "los-angeles-county",
+                                                                    "san-diego"
+                                                                ],
+                                                                "whitelistJurisdictions": [],
+                                                                "imageType": "svg"
+                                                            },
+                                                            {
+                                                                "key": "accessible_units_passthrough_kitchens",
+                                                                "title": "Accessible Units: Pass-Through Kitchens",
+                                                                "descriptionHtml": "<div>All units must provide a 40\" min clearance between opposing cabinets, countertops, appliances or walls. A clear floor space must be provided for appliances and work surfaces as shown, except for Type C units which do not require clear floor spaces.</div>",
+                                                                "topics": [
+                                                                    "Access",
+                                                                    "Residential"
+                                                                ],
+                                                                "phases": [
+                                                                    "Schematic",
+                                                                    "Design Development",
+                                                                    "Construction Docs",
+                                                                    "Construction Phase"
+                                                                ],
+                                                                "supressesChildrenAssociations": false,
+                                                                "blacklistJurisdictions": [
+                                                                    "california",
+                                                                    "san_francisco",
+                                                                    "los_angeles",
+                                                                    "san-jose",
+                                                                    "los-angeles-county",
+                                                                    "san-diego"
+                                                                ],
+                                                                "whitelistJurisdictions": [],
+                                                                "imageType": "svg"
+                                                            },
+                                                            {
+                                                                "key": "showers_standard_roll_in",
+                                                                "title": "Showers - Standard Roll In - Accessible & Type A Units",
+                                                                "descriptionHtml": "",
+                                                                "topics": [
+                                                                    "Access",
+                                                                    "Residential"
+                                                                ],
+                                                                "phases": [
+                                                                    "Design Development",
+                                                                    "Construction Docs"
+                                                                ],
+                                                                "supressesChildrenAssociations": false,
+                                                                "blacklistJurisdictions": [],
+                                                                "whitelistJurisdictions": [],
+                                                                "imageType": "svg"
+                                                            },
+                                                            {
+                                                                "key": "showers_alternative_roll_in",
+                                                                "title": "Showers - Alt Roll In - Accessible & Type A Units",
+                                                                "descriptionHtml": "",
+                                                                "topics": [
+                                                                    "Access",
+                                                                    "Residential"
+                                                                ],
+                                                                "phases": [
+                                                                    "Design Development",
+                                                                    "Construction Docs"
+                                                                ],
+                                                                "supressesChildrenAssociations": false,
+                                                                "blacklistJurisdictions": [],
+                                                                "whitelistJurisdictions": [],
+                                                                "imageType": "svg"
+                                                            },
+                                                            {
+                                                                "key": "accessible_bathtubs_permanent_seats",
+                                                                "title": "Accessible Bathtubs w/ Permanent Seats",
+                                                                "descriptionHtml": "<div>If a bathtub is provided within an Accessible unit, at least one shall comply with Sections 607. Accessible bathtubs must provide a clearance that extends the length of the tub and is 30\" min in depth. Grab bars shall comply with Section 609 and shall be provided in accordance with Section 607.4.1 or 607.4.2. Accessible units must also provide a removable or permanent seat.</div>",
+                                                                "topics": [
+                                                                    "Access",
+                                                                    "Residential"
+                                                                ],
+                                                                "phases": [
+                                                                    "Design Development",
+                                                                    "Construction Docs"
+                                                                ],
+                                                                "supressesChildrenAssociations": false,
+                                                                "blacklistJurisdictions": [],
+                                                                "whitelistJurisdictions": [],
+                                                                "imageType": "svg"
+                                                            }
+                                                        ],
                                                         "displayRef": null,
                                                         "displayTitle": "306.7.11.1 Accessible Dwelling or Sleeping Units",
                                                         "hasAssemblies": false,
                                                         "hasDiagrams": true,
+                                                        "hasDiagramsOnRef": true,
                                                         "isContiguous": true,
                                                         "numAssembliesOnRef": 0,
                                                         "numBuildingProductsOnRef": 0,
-                                                        "numDiagramsOnRef": 0,
-                                                        "orderIndex": 3560000,
+                                                        "numDiagramsOnRef": 6,
                                                         "reference": "306.7.11.1",
                                                         "slug": "provisions-for-all-compliance-methods",
                                                         "titleText": "Accessible Dwelling or Sleeping Units",
@@ -2557,7 +2769,6 @@
                                                         "numAssembliesOnRef": 0,
                                                         "numBuildingProductsOnRef": 0,
                                                         "numDiagramsOnRef": 0,
-                                                        "orderIndex": 3570000,
                                                         "reference": "306.7.11.2",
                                                         "slug": "provisions-for-all-compliance-methods",
                                                         "titleText": "Type A Dwelling or Sleeping Units",
@@ -2572,16 +2783,154 @@
                                                         ],
                                                         "body": "<div>Where Group I-1, I-2, R-1, R-2, R-3 or R-4 dwelling or sleeping                                     units are being altered or added within an <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/general-services-administration/iebc-2024/chapter/2/definitions#existing_building_\">existing building</a></span>                                     and where the <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/general-services-administration/iebc-2024/chapter/2/definitions#work_area_\">work area</a></span>                                     is greater than 50 percent of the aggregate area of the                                     building, the requirements of <a class=\"autolink\" href=\"/viewer/general-services-administration/ibc-2024/chapter/11/accessibility#1108\">Section 1108</a> of the <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/general-services-administration/ibc-2024\">International Building Code</a> </span>for Type B                                     units apply only to the quantity of the dwelling or sleeping units&nbsp;being altered or added.</div>",
                                                         "depth": 4,
-                                                        "diagrams": [],
+                                                        "diagrams": [
+                                                            {
+                                                                "key": "bathtubs_type_b_unit",
+                                                                "title": "Bathtubs - Type B Units",
+                                                                "descriptionHtml": "<div>For Type B Unit bathtubs, either all toilet and bathing areas provided shall comply with Section 1004.11.3.1 (Option A), or one toilet and bathing area shall comply with Section 1004.11.3.2 (Option B). Option A bathtubs can have either a parallel approach or forward approach configuration.</div>",
+                                                                "topics": [
+                                                                    "Access",
+                                                                    "Residential"
+                                                                ],
+                                                                "phases": [
+                                                                    "Design Development",
+                                                                    "Construction Docs"
+                                                                ],
+                                                                "supressesChildrenAssociations": false,
+                                                                "blacklistJurisdictions": [],
+                                                                "whitelistJurisdictions": [],
+                                                                "imageType": "svg"
+                                                            },
+                                                            {
+                                                                "key": "accessible_units_u_kitchens",
+                                                                "title": "Accessible Units: U-Kitchens",
+                                                                "descriptionHtml": "<div>\nAccessible, Type A and Type B dwelling units with U-shaped Kitchens shall provide a 60\" clearance between all opposing cabinets, counter tops, appliances or walls. If elements are not placed on all three contiguous sides, the clearance between elements can be 40\" in Type A and B units. Type C units must have a 40\" min clearance between all opposing elements in either configuration. Clear floor space must be provided for fixtures and appliances as shown.\nState and local codes and regulations should be consulted. In addition, if a project scoping falls under the scoping of both the FHA and ADA Standards, the most restrictive of both sets of regulations apply, per DOJ / HUD Joint statement and the Advisory 224.1, in addition to state and local regulations.</div>",
+                                                                "topics": [
+                                                                    "Access",
+                                                                    "Residential"
+                                                                ],
+                                                                "phases": [
+                                                                    "Schematic",
+                                                                    "Design Development",
+                                                                    "Construction Docs",
+                                                                    "Construction Phase"
+                                                                ],
+                                                                "supressesChildrenAssociations": false,
+                                                                "blacklistJurisdictions": [
+                                                                    "california",
+                                                                    "san_francisco",
+                                                                    "los_angeles",
+                                                                    "san-jose",
+                                                                    "los-angeles-county",
+                                                                    "san-diego"
+                                                                ],
+                                                                "whitelistJurisdictions": [],
+                                                                "imageType": "svg"
+                                                            },
+                                                            {
+                                                                "key": "accessible_units_passthrough_kitchens",
+                                                                "title": "Accessible Units: Pass-Through Kitchens",
+                                                                "descriptionHtml": "<div>All units must provide a 40\" min clearance between opposing cabinets, countertops, appliances or walls. A clear floor space must be provided for appliances and work surfaces as shown, except for Type C units which do not require clear floor spaces.</div>",
+                                                                "topics": [
+                                                                    "Access",
+                                                                    "Residential"
+                                                                ],
+                                                                "phases": [
+                                                                    "Schematic",
+                                                                    "Design Development",
+                                                                    "Construction Docs",
+                                                                    "Construction Phase"
+                                                                ],
+                                                                "supressesChildrenAssociations": false,
+                                                                "blacklistJurisdictions": [
+                                                                    "california",
+                                                                    "san_francisco",
+                                                                    "los_angeles",
+                                                                    "san-jose",
+                                                                    "los-angeles-county",
+                                                                    "san-diego"
+                                                                ],
+                                                                "whitelistJurisdictions": [],
+                                                                "imageType": "svg"
+                                                            },
+                                                            {
+                                                                "key": "showers_type_b_units_2017",
+                                                                "title": "Showers - Type B Units (2017)",
+                                                                "descriptionHtml": "",
+                                                                "topics": [
+                                                                    "Access",
+                                                                    "Residential"
+                                                                ],
+                                                                "phases": [
+                                                                    "Design Development",
+                                                                    "Construction Docs"
+                                                                ],
+                                                                "supressesChildrenAssociations": false,
+                                                                "blacklistJurisdictions": [],
+                                                                "whitelistJurisdictions": [],
+                                                                "imageType": "svg"
+                                                            },
+                                                            {
+                                                                "key": "showers_standard_roll_in",
+                                                                "title": "Showers - Standard Roll In - Accessible & Type A Units",
+                                                                "descriptionHtml": "",
+                                                                "topics": [
+                                                                    "Access",
+                                                                    "Residential"
+                                                                ],
+                                                                "phases": [
+                                                                    "Design Development",
+                                                                    "Construction Docs"
+                                                                ],
+                                                                "supressesChildrenAssociations": false,
+                                                                "blacklistJurisdictions": [],
+                                                                "whitelistJurisdictions": [],
+                                                                "imageType": "svg"
+                                                            },
+                                                            {
+                                                                "key": "showers_alternative_roll_in",
+                                                                "title": "Showers - Alt Roll In - Accessible & Type A Units",
+                                                                "descriptionHtml": "",
+                                                                "topics": [
+                                                                    "Access",
+                                                                    "Residential"
+                                                                ],
+                                                                "phases": [
+                                                                    "Design Development",
+                                                                    "Construction Docs"
+                                                                ],
+                                                                "supressesChildrenAssociations": false,
+                                                                "blacklistJurisdictions": [],
+                                                                "whitelistJurisdictions": [],
+                                                                "imageType": "svg"
+                                                            },
+                                                            {
+                                                                "key": "bathtubs_type_a_unit_2017",
+                                                                "title": "Bathtubs - Type A Units",
+                                                                "descriptionHtml": "<div>If a bathtub is provided within a Type A unit, at least one shall comply with Sections 607. Type A bathtubs must provide a clearance that extends the length of the tub and is 30\" min in depth. Grab bars shall comply with Section 609 and shall be provided in accordance with Section 607.4.1 or 607.4.2. In Type A units, cabinetry shall be permitted at one end of the clearance per Section 1003.11.2.5.1. </div>",
+                                                                "topics": [
+                                                                    "Access",
+                                                                    "Residential"
+                                                                ],
+                                                                "phases": [
+                                                                    "Design Development",
+                                                                    "Construction Docs"
+                                                                ],
+                                                                "supressesChildrenAssociations": false,
+                                                                "blacklistJurisdictions": [],
+                                                                "whitelistJurisdictions": [],
+                                                                "imageType": "svg"
+                                                            }
+                                                        ],
                                                         "displayRef": null,
                                                         "displayTitle": "306.7.11.3 Type B Dwelling or Sleeping Units",
                                                         "hasAssemblies": false,
                                                         "hasDiagrams": true,
+                                                        "hasDiagramsOnRef": true,
                                                         "isContiguous": true,
                                                         "numAssembliesOnRef": 0,
                                                         "numBuildingProductsOnRef": 0,
-                                                        "numDiagramsOnRef": 0,
-                                                        "orderIndex": 3580000,
+                                                        "numDiagramsOnRef": 7,
                                                         "reference": "306.7.11.3",
                                                         "slug": "provisions-for-all-compliance-methods",
                                                         "titleText": "Type B Dwelling or Sleeping Units",
@@ -2625,7 +2974,6 @@
                                                 "numAssembliesOnRef": 0,
                                                 "numBuildingProductsOnRef": 0,
                                                 "numDiagramsOnRef": 1,
-                                                "orderIndex": 3590000,
                                                 "reference": "306.7.12",
                                                 "slug": "provisions-for-all-compliance-methods",
                                                 "titleText": "Toilet Rooms",
@@ -2648,7 +2996,6 @@
                                                 "numAssembliesOnRef": 0,
                                                 "numBuildingProductsOnRef": 0,
                                                 "numDiagramsOnRef": 0,
-                                                "orderIndex": 3600000,
                                                 "reference": "306.7.13",
                                                 "slug": "provisions-for-all-compliance-methods",
                                                 "titleText": "Bathing Rooms",
@@ -2689,9 +3036,8 @@
                                                 "hasDiagramsOnRef": true,
                                                 "isContiguous": true,
                                                 "numAssembliesOnRef": 0,
-                                                "numBuildingProductsOnRef": 11,
+                                                "numBuildingProductsOnRef": 12,
                                                 "numDiagramsOnRef": 1,
-                                                "orderIndex": 3610000,
                                                 "reference": "306.7.14",
                                                 "slug": "provisions-for-all-compliance-methods",
                                                 "titleText": "Additional Toilet and Bathing Facilities",
@@ -2714,7 +3060,6 @@
                                                 "numAssembliesOnRef": 0,
                                                 "numBuildingProductsOnRef": 0,
                                                 "numDiagramsOnRef": 0,
-                                                "orderIndex": 3620000,
                                                 "reference": "306.7.15",
                                                 "slug": "provisions-for-all-compliance-methods",
                                                 "titleText": "Adult Changing Stations",
@@ -2728,16 +3073,55 @@
                                                 ],
                                                 "body": "<div>Where it is <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/general-services-administration/iebc-2024/chapter/2/definitions#technically_infeasible_\">technically                                     infeasible</a></span> to provide accessible dressing, fitting or                                 locker rooms at the same location as similar types of rooms, one                                 accessible room on the same level shall be provided. Where                                 separate-sex <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/general-services-administration/iebc-2024/chapter/2/definitions#facility_\">facilities</a></span> are                                 provided, accessible rooms for each sex shall be provided.                                 Separate-sex <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/general-services-administration/iebc-2024/chapter/2/definitions#facility_\">facilities</a></span> are not                                 required where only unisex rooms are provided.</div>",
                                                 "depth": 3,
-                                                "diagrams": [],
+                                                "diagrams": [
+                                                    {
+                                                        "key": "technical_infeasibility_1",
+                                                        "title": "Technical Infeasibility: Dressing, Fitting and Locker  - Example 1",
+                                                        "descriptionHtml": "<div>Where separate-sex facilities are provided, accessible facilities for each sex are required.  Where only unisex facilities are provided separate-sex facilities are not required.  Where it is deemed technically infeasible to provide accessible facilities in the same location as similar existing facilities an accessible room of the same type of facility shall be provide on the same level. </div><br/>\n<div>Example: Men's and women's dressing rooms are provided on the 3rd level but are not accessible, an accessible men's dressing room and an accessible women's dressing room are required to be added to the 3rd level.</div>",
+                                                        "topics": [
+                                                            "Definition",
+                                                            "Example",
+                                                            "Access"
+                                                        ],
+                                                        "phases": [
+                                                            "Post-Construction",
+                                                            "Construction Docs",
+                                                            "Construction Phase"
+                                                        ],
+                                                        "supressesChildrenAssociations": false,
+                                                        "blacklistJurisdictions": [],
+                                                        "whitelistJurisdictions": [],
+                                                        "imageType": "svg"
+                                                    },
+                                                    {
+                                                        "key": "technical_infeasibility_2",
+                                                        "title": "Technical Infeasibility: Dressing, Fitting and Locker Rooms - Example 2",
+                                                        "descriptionHtml": "<div>Where separate-sex facilities are provided, accessible facilities for each sex are required.  Where only unisex facilities are provided separate-sex facilities are not required.  Where it is deemed technically infeasible to provide accessible facilities in the same location as similar existing facilities an accessible room of the same type of facility shall be provide on the same level. </div><br/>\n<div>In the illustrated example, an accessible fitting room is not able to be provided at the same location as the existing facilities due to structural walls and other existing conditions, such as plumbing facilities. Therefore an accessible fitting room must be provided on the same floor, but can be located in another area within the space.</div>",
+                                                        "topics": [
+                                                            "Definition",
+                                                            "Example",
+                                                            "Access"
+                                                        ],
+                                                        "phases": [
+                                                            "Construction Docs",
+                                                            "Construction Phase",
+                                                            "Post-Construction"
+                                                        ],
+                                                        "supressesChildrenAssociations": false,
+                                                        "blacklistJurisdictions": [],
+                                                        "whitelistJurisdictions": [],
+                                                        "imageType": "svg"
+                                                    }
+                                                ],
                                                 "displayRef": null,
                                                 "displayTitle": "306.7.16 Dressing, Fitting and Locker Rooms",
                                                 "hasAssemblies": false,
                                                 "hasDiagrams": true,
+                                                "hasDiagramsOnRef": true,
                                                 "isContiguous": true,
                                                 "numAssembliesOnRef": 0,
                                                 "numBuildingProductsOnRef": 4,
-                                                "numDiagramsOnRef": 0,
-                                                "orderIndex": 3630000,
+                                                "numDiagramsOnRef": 2,
                                                 "reference": "306.7.16",
                                                 "slug": "provisions-for-all-compliance-methods",
                                                 "titleText": "Dressing, Fitting and Locker Rooms",
@@ -2760,7 +3144,6 @@
                                                 "numAssembliesOnRef": 0,
                                                 "numBuildingProductsOnRef": 0,
                                                 "numDiagramsOnRef": 0,
-                                                "orderIndex": 3640000,
                                                 "reference": "306.7.17",
                                                 "slug": "provisions-for-all-compliance-methods",
                                                 "titleText": "Amusement Rides",
@@ -2783,7 +3166,6 @@
                                                 "numAssembliesOnRef": 0,
                                                 "numBuildingProductsOnRef": 0,
                                                 "numDiagramsOnRef": 0,
-                                                "orderIndex": 3650000,
                                                 "reference": "306.7.18",
                                                 "slug": "provisions-for-all-compliance-methods",
                                                 "titleText": "Historic Structures",
@@ -2826,7 +3208,6 @@
                                                         "numAssembliesOnRef": 0,
                                                         "numBuildingProductsOnRef": 0,
                                                         "numDiagramsOnRef": 1,
-                                                        "orderIndex": 3660000,
                                                         "reference": "306.7.18.1",
                                                         "slug": "provisions-for-all-compliance-methods",
                                                         "titleText": "Site Arrival Points",
@@ -2850,7 +3231,6 @@
                                                         "numAssembliesOnRef": 0,
                                                         "numBuildingProductsOnRef": 0,
                                                         "numDiagramsOnRef": 0,
-                                                        "orderIndex": 3670000,
                                                         "reference": "306.7.18.2",
                                                         "slug": "provisions-for-all-compliance-methods",
                                                         "titleText": "Multiple-Level Buildings and Facilities",
@@ -2874,7 +3254,6 @@
                                                         "numAssembliesOnRef": 0,
                                                         "numBuildingProductsOnRef": 0,
                                                         "numDiagramsOnRef": 0,
-                                                        "orderIndex": 3680000,
                                                         "reference": "306.7.18.3",
                                                         "slug": "provisions-for-all-compliance-methods",
                                                         "titleText": "Entrances",
@@ -2917,7 +3296,6 @@
                                                         "numAssembliesOnRef": 0,
                                                         "numBuildingProductsOnRef": 4,
                                                         "numDiagramsOnRef": 1,
-                                                        "orderIndex": 3690000,
                                                         "reference": "306.7.18.4",
                                                         "slug": "provisions-for-all-compliance-methods",
                                                         "titleText": "Toilet Facilities",
@@ -2941,7 +3319,6 @@
                                                         "numAssembliesOnRef": 0,
                                                         "numBuildingProductsOnRef": 0,
                                                         "numDiagramsOnRef": 0,
-                                                        "orderIndex": 3700000,
                                                         "reference": "306.7.18.5",
                                                         "slug": "provisions-for-all-compliance-methods",
                                                         "titleText": "Bathing Facilities",
@@ -2965,7 +3342,6 @@
                                                         "numAssembliesOnRef": 0,
                                                         "numBuildingProductsOnRef": 0,
                                                         "numDiagramsOnRef": 0,
-                                                        "orderIndex": 3710000,
                                                         "reference": "306.7.18.6",
                                                         "slug": "provisions-for-all-compliance-methods",
                                                         "titleText": "Type A Units",
@@ -2989,7 +3365,6 @@
                                                         "numAssembliesOnRef": 0,
                                                         "numBuildingProductsOnRef": 0,
                                                         "numDiagramsOnRef": 0,
-                                                        "orderIndex": 3720000,
                                                         "reference": "306.7.18.7",
                                                         "slug": "provisions-for-all-compliance-methods",
                                                         "titleText": "Type B Units",
@@ -3015,7 +3390,6 @@
                                 "numAssembliesOnRef": 0,
                                 "numBuildingProductsOnRef": 0,
                                 "numDiagramsOnRef": 0,
-                                "orderIndex": 3750000,
                                 "reference": "307",
                                 "slug": "provisions-for-all-compliance-methods",
                                 "titleText": "Smoke Alarms",
@@ -3054,7 +3428,6 @@
                                         "numAssembliesOnRef": 0,
                                         "numBuildingProductsOnRef": 0,
                                         "numDiagramsOnRef": 1,
-                                        "orderIndex": 3760000,
                                         "reference": "307.1",
                                         "slug": "provisions-for-all-compliance-methods",
                                         "titleText": "Smoke Alarms",
@@ -3076,7 +3449,6 @@
                                 "numAssembliesOnRef": 0,
                                 "numBuildingProductsOnRef": 0,
                                 "numDiagramsOnRef": 0,
-                                "orderIndex": 3780000,
                                 "reference": "308",
                                 "slug": "provisions-for-all-compliance-methods",
                                 "titleText": "Carbon Monoxide Detection",
@@ -3096,7 +3468,6 @@
                                         "numAssembliesOnRef": 0,
                                         "numBuildingProductsOnRef": 0,
                                         "numDiagramsOnRef": 0,
-                                        "orderIndex": 3790000,
                                         "reference": "308.1",
                                         "slug": "provisions-for-all-compliance-methods",
                                         "titleText": "Carbon Monoxide Detection",
@@ -3118,7 +3489,6 @@
                                 "numAssembliesOnRef": 0,
                                 "numBuildingProductsOnRef": 0,
                                 "numDiagramsOnRef": 0,
-                                "orderIndex": 3820000,
                                 "reference": "309",
                                 "slug": "provisions-for-all-compliance-methods",
                                 "titleText": "Additions and Replacements of Exterior Wall Coverings and Exterior Wall Envelopes",
@@ -3138,7 +3508,6 @@
                                         "numAssembliesOnRef": 0,
                                         "numBuildingProductsOnRef": 0,
                                         "numDiagramsOnRef": 0,
-                                        "orderIndex": 3830000,
                                         "reference": "309.1",
                                         "slug": "provisions-for-all-compliance-methods",
                                         "titleText": "General",
@@ -3159,7 +3528,6 @@
                                         "numAssembliesOnRef": 0,
                                         "numBuildingProductsOnRef": 0,
                                         "numDiagramsOnRef": 0,
-                                        "orderIndex": 3840000,
                                         "reference": "309.2",
                                         "slug": "provisions-for-all-compliance-methods",
                                         "titleText": "Additions and Replacements",
@@ -3180,7 +3548,6 @@
                                                 "numAssembliesOnRef": 0,
                                                 "numBuildingProductsOnRef": 0,
                                                 "numDiagramsOnRef": 0,
-                                                "orderIndex": 3850000,
                                                 "reference": "309.2.1",
                                                 "slug": "provisions-for-all-compliance-methods",
                                                 "titleText": "Automatic Sprinkler Systems",
@@ -3205,12 +3572,12 @@
         "chapterRef": "3",
         "chapterName": "provisions-for-all-compliance-methods"
     },
-    "buildId": "3sK5kbysqJcr5ch6xNgjL",
+    "buildId": "fFVLMUIiiAoykBGFSOQHj",
     "isFallback": false,
     "isExperimentalCompile": false,
     "dynamicIds": [
-        22103,
-        99618
+        61621,
+        54065
     ],
     "gssp": true,
     "scriptLoader": []

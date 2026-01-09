@@ -19,6 +19,7 @@
                 ],
                 "ingesterAmendmentsEnabled": false,
                 "ingesterCodeUnitsEnabled": false,
+                "isAmendStylingEnabled": true,
                 "isCorrespondable": true,
                 "jurisKey": "general-services-administration",
                 "jurisName": "General Services Administration",
@@ -42,7 +43,6 @@
                         "href": "#divider_1_1",
                         "isCodeDivider": true,
                         "isCodeDividerClickable": true,
-                        "orderIndex": 20000,
                         "reference": "divider_1_1"
                     },
                     {
@@ -57,7 +57,6 @@
                                 "href": "#101.1",
                                 "isCodeDivider": false,
                                 "isCodeDividerClickable": false,
-                                "orderIndex": 40000,
                                 "reference": "101.1"
                             },
                             {
@@ -72,7 +71,6 @@
                                         "href": "#101.2.1",
                                         "isCodeDivider": false,
                                         "isCodeDividerClickable": false,
-                                        "orderIndex": 70000,
                                         "reference": "101.2.1"
                                     }
                                 ],
@@ -82,7 +80,6 @@
                                 "href": "#101.2",
                                 "isCodeDivider": false,
                                 "isCodeDividerClickable": false,
-                                "orderIndex": 60000,
                                 "reference": "101.2"
                             },
                             {
@@ -94,7 +91,6 @@
                                 "href": "#101.3",
                                 "isCodeDivider": false,
                                 "isCodeDividerClickable": false,
-                                "orderIndex": 90000,
                                 "reference": "101.3"
                             },
                             {
@@ -109,7 +105,6 @@
                                         "href": "#101.4.1",
                                         "isCodeDivider": false,
                                         "isCodeDividerClickable": false,
-                                        "orderIndex": 110000,
                                         "reference": "101.4.1"
                                     },
                                     {
@@ -121,7 +116,6 @@
                                         "href": "#101.4.2",
                                         "isCodeDivider": false,
                                         "isCodeDividerClickable": false,
-                                        "orderIndex": 120000,
                                         "reference": "101.4.2"
                                     },
                                     {
@@ -133,7 +127,6 @@
                                         "href": "#101.4.3",
                                         "isCodeDivider": false,
                                         "isCodeDividerClickable": false,
-                                        "orderIndex": 130000,
                                         "reference": "101.4.3"
                                     },
                                     {
@@ -145,7 +138,6 @@
                                         "href": "#101.4.4",
                                         "isCodeDivider": false,
                                         "isCodeDividerClickable": false,
-                                        "orderIndex": 140000,
                                         "reference": "101.4.4"
                                     },
                                     {
@@ -157,7 +149,6 @@
                                         "href": "#101.4.5",
                                         "isCodeDivider": false,
                                         "isCodeDividerClickable": false,
-                                        "orderIndex": 150000,
                                         "reference": "101.4.5"
                                     },
                                     {
@@ -169,7 +160,6 @@
                                         "href": "#101.4.6",
                                         "isCodeDivider": false,
                                         "isCodeDividerClickable": false,
-                                        "orderIndex": 160000,
                                         "reference": "101.4.6"
                                     },
                                     {
@@ -181,7 +171,6 @@
                                         "href": "#101.4.7",
                                         "isCodeDivider": false,
                                         "isCodeDividerClickable": false,
-                                        "orderIndex": 180000,
                                         "reference": "101.4.7"
                                     }
                                 ],
@@ -191,7 +180,6 @@
                                 "href": "#101.4",
                                 "isCodeDivider": false,
                                 "isCodeDividerClickable": false,
-                                "orderIndex": 100000,
                                 "reference": "101.4"
                             }
                         ],
@@ -201,7 +189,6 @@
                         "href": "#101",
                         "isCodeDivider": false,
                         "isCodeDividerClickable": false,
-                        "orderIndex": 30000,
                         "reference": "101"
                     },
                     {
@@ -216,7 +203,6 @@
                                 "href": "#102.1",
                                 "isCodeDivider": false,
                                 "isCodeDividerClickable": false,
-                                "orderIndex": 300000,
                                 "reference": "102.1"
                             },
                             {
@@ -228,7 +214,6 @@
                                 "href": "#102.2",
                                 "isCodeDivider": false,
                                 "isCodeDividerClickable": false,
-                                "orderIndex": 310000,
                                 "reference": "102.2"
                             },
                             {
@@ -240,7 +225,6 @@
                                 "href": "#102.3",
                                 "isCodeDivider": false,
                                 "isCodeDividerClickable": false,
-                                "orderIndex": 340000,
                                 "reference": "102.3"
                             },
                             {
@@ -255,7 +239,6 @@
                                         "href": "#102.4.1",
                                         "isCodeDivider": false,
                                         "isCodeDividerClickable": false,
-                                        "orderIndex": 360000,
                                         "reference": "102.4.1"
                                     },
                                     {
@@ -267,7 +250,6 @@
                                         "href": "#102.4.2",
                                         "isCodeDivider": false,
                                         "isCodeDividerClickable": false,
-                                        "orderIndex": 370000,
                                         "reference": "102.4.2"
                                     }
                                 ],
@@ -277,7 +259,6 @@
                                 "href": "#102.4",
                                 "isCodeDivider": false,
                                 "isCodeDividerClickable": false,
-                                "orderIndex": 350000,
                                 "reference": "102.4"
                             },
                             {
@@ -289,7 +270,6 @@
                                 "href": "#102.5",
                                 "isCodeDivider": false,
                                 "isCodeDividerClickable": false,
-                                "orderIndex": 380000,
                                 "reference": "102.5"
                             },
                             {
@@ -304,7 +284,6 @@
                                         "href": "#102.6.1",
                                         "isCodeDivider": false,
                                         "isCodeDividerClickable": false,
-                                        "orderIndex": 400000,
                                         "reference": "102.6.1"
                                     },
                                     {
@@ -316,7 +295,6 @@
                                         "href": "#102.6.2",
                                         "isCodeDivider": false,
                                         "isCodeDividerClickable": false,
-                                        "orderIndex": 410000,
                                         "reference": "102.6.2"
                                     }
                                 ],
@@ -326,7 +304,6 @@
                                 "href": "#102.6",
                                 "isCodeDivider": false,
                                 "isCodeDividerClickable": false,
-                                "orderIndex": 390000,
                                 "reference": "102.6"
                             }
                         ],
@@ -336,7 +313,6 @@
                         "href": "#102",
                         "isCodeDivider": false,
                         "isCodeDividerClickable": false,
-                        "orderIndex": 290000,
                         "reference": "102"
                     },
                     {
@@ -348,7 +324,6 @@
                         "href": "#divider_1_2",
                         "isCodeDivider": true,
                         "isCodeDividerClickable": true,
-                        "orderIndex": 440000,
                         "reference": "divider_1_2"
                     },
                     {
@@ -363,7 +338,6 @@
                                 "href": "#103.1",
                                 "isCodeDivider": false,
                                 "isCodeDividerClickable": false,
-                                "orderIndex": 480000,
                                 "reference": "103.1"
                             },
                             {
@@ -375,7 +349,6 @@
                                 "href": "#103.2",
                                 "isCodeDivider": false,
                                 "isCodeDividerClickable": false,
-                                "orderIndex": 500000,
                                 "reference": "103.2"
                             },
                             {
@@ -387,7 +360,6 @@
                                 "href": "#103.3",
                                 "isCodeDivider": false,
                                 "isCodeDividerClickable": false,
-                                "orderIndex": 540000,
                                 "reference": "103.3"
                             }
                         ],
@@ -397,7 +369,6 @@
                         "href": "#103",
                         "isCodeDivider": false,
                         "isCodeDividerClickable": false,
-                        "orderIndex": 470000,
                         "reference": "103"
                     },
                     {
@@ -412,7 +383,6 @@
                                 "href": "#104.1",
                                 "isCodeDivider": false,
                                 "isCodeDividerClickable": false,
-                                "orderIndex": 560000,
                                 "reference": "104.1"
                             },
                             {
@@ -427,7 +397,6 @@
                                         "href": "#104.2.1",
                                         "isCodeDivider": false,
                                         "isCodeDividerClickable": false,
-                                        "orderIndex": 580000,
                                         "reference": "104.2.1"
                                     },
                                     {
@@ -442,7 +411,6 @@
                                                 "href": "#104.2.2.1",
                                                 "isCodeDivider": false,
                                                 "isCodeDividerClickable": false,
-                                                "orderIndex": 600000,
                                                 "reference": "104.2.2.1"
                                             },
                                             {
@@ -454,7 +422,6 @@
                                                 "href": "#104.2.2.2",
                                                 "isCodeDivider": false,
                                                 "isCodeDividerClickable": false,
-                                                "orderIndex": 610000,
                                                 "reference": "104.2.2.2"
                                             },
                                             {
@@ -466,7 +433,6 @@
                                                 "href": "#104.2.2.3",
                                                 "isCodeDivider": false,
                                                 "isCodeDividerClickable": false,
-                                                "orderIndex": 620000,
                                                 "reference": "104.2.2.3"
                                             },
                                             {
@@ -478,7 +444,6 @@
                                                 "href": "#104.2.2.4",
                                                 "isCodeDivider": false,
                                                 "isCodeDividerClickable": false,
-                                                "orderIndex": 630000,
                                                 "reference": "104.2.2.4"
                                             }
                                         ],
@@ -488,7 +453,6 @@
                                         "href": "#104.2.2",
                                         "isCodeDivider": false,
                                         "isCodeDividerClickable": false,
-                                        "orderIndex": 590000,
                                         "reference": "104.2.2"
                                     },
                                     {
@@ -503,7 +467,6 @@
                                                 "href": "#104.2.3.1",
                                                 "isCodeDivider": false,
                                                 "isCodeDividerClickable": false,
-                                                "orderIndex": 650000,
                                                 "reference": "104.2.3.1"
                                             },
                                             {
@@ -515,7 +478,6 @@
                                                 "href": "#104.2.3.2",
                                                 "isCodeDivider": false,
                                                 "isCodeDividerClickable": false,
-                                                "orderIndex": 660000,
                                                 "reference": "104.2.3.2"
                                             },
                                             {
@@ -527,7 +489,6 @@
                                                 "href": "#104.2.3.3",
                                                 "isCodeDivider": false,
                                                 "isCodeDividerClickable": false,
-                                                "orderIndex": 670000,
                                                 "reference": "104.2.3.3"
                                             },
                                             {
@@ -539,7 +500,6 @@
                                                 "href": "#104.2.3.4",
                                                 "isCodeDivider": false,
                                                 "isCodeDividerClickable": false,
-                                                "orderIndex": 680000,
                                                 "reference": "104.2.3.4"
                                             },
                                             {
@@ -554,7 +514,6 @@
                                                         "href": "#104.2.3.5.1",
                                                         "isCodeDivider": false,
                                                         "isCodeDividerClickable": false,
-                                                        "orderIndex": 700000,
                                                         "reference": "104.2.3.5.1"
                                                     }
                                                 ],
@@ -564,7 +523,6 @@
                                                 "href": "#104.2.3.5",
                                                 "isCodeDivider": false,
                                                 "isCodeDividerClickable": false,
-                                                "orderIndex": 690000,
                                                 "reference": "104.2.3.5"
                                             },
                                             {
@@ -579,7 +537,6 @@
                                                         "href": "#104.2.3.6.1",
                                                         "isCodeDivider": false,
                                                         "isCodeDividerClickable": false,
-                                                        "orderIndex": 720000,
                                                         "reference": "104.2.3.6.1"
                                                     },
                                                     {
@@ -591,7 +548,6 @@
                                                         "href": "#104.2.3.6.2",
                                                         "isCodeDivider": false,
                                                         "isCodeDividerClickable": false,
-                                                        "orderIndex": 730000,
                                                         "reference": "104.2.3.6.2"
                                                     }
                                                 ],
@@ -601,7 +557,6 @@
                                                 "href": "#104.2.3.6",
                                                 "isCodeDivider": false,
                                                 "isCodeDividerClickable": false,
-                                                "orderIndex": 710000,
                                                 "reference": "104.2.3.6"
                                             },
                                             {
@@ -613,7 +568,6 @@
                                                 "href": "#104.2.3.7",
                                                 "isCodeDivider": false,
                                                 "isCodeDividerClickable": false,
-                                                "orderIndex": 740000,
                                                 "reference": "104.2.3.7"
                                             }
                                         ],
@@ -623,7 +577,6 @@
                                         "href": "#104.2.3",
                                         "isCodeDivider": false,
                                         "isCodeDividerClickable": false,
-                                        "orderIndex": 640000,
                                         "reference": "104.2.3"
                                     },
                                     {
@@ -638,7 +591,6 @@
                                                 "href": "#104.2.4.1",
                                                 "isCodeDivider": false,
                                                 "isCodeDividerClickable": false,
-                                                "orderIndex": 760000,
                                                 "reference": "104.2.4.1"
                                             }
                                         ],
@@ -648,7 +600,6 @@
                                         "href": "#104.2.4",
                                         "isCodeDivider": false,
                                         "isCodeDividerClickable": false,
-                                        "orderIndex": 750000,
                                         "reference": "104.2.4"
                                     }
                                 ],
@@ -658,7 +609,6 @@
                                 "href": "#104.2",
                                 "isCodeDivider": false,
                                 "isCodeDividerClickable": false,
-                                "orderIndex": 570000,
                                 "reference": "104.2"
                             },
                             {
@@ -673,7 +623,6 @@
                                         "href": "#104.3.1",
                                         "isCodeDivider": false,
                                         "isCodeDividerClickable": false,
-                                        "orderIndex": 840000,
                                         "reference": "104.3.1"
                                     }
                                 ],
@@ -683,7 +632,6 @@
                                 "href": "#104.3",
                                 "isCodeDivider": false,
                                 "isCodeDividerClickable": false,
-                                "orderIndex": 830000,
                                 "reference": "104.3"
                             },
                             {
@@ -698,7 +646,6 @@
                                         "href": "#104.4.1",
                                         "isCodeDivider": false,
                                         "isCodeDividerClickable": false,
-                                        "orderIndex": 860000,
                                         "reference": "104.4.1"
                                     }
                                 ],
@@ -708,7 +655,6 @@
                                 "href": "#104.4",
                                 "isCodeDivider": false,
                                 "isCodeDividerClickable": false,
-                                "orderIndex": 850000,
                                 "reference": "104.4"
                             },
                             {
@@ -720,7 +666,6 @@
                                 "href": "#104.5",
                                 "isCodeDivider": false,
                                 "isCodeDividerClickable": false,
-                                "orderIndex": 870000,
                                 "reference": "104.5"
                             },
                             {
@@ -732,7 +677,6 @@
                                 "href": "#104.6",
                                 "isCodeDivider": false,
                                 "isCodeDividerClickable": false,
-                                "orderIndex": 880000,
                                 "reference": "104.6"
                             },
                             {
@@ -747,7 +691,6 @@
                                         "href": "#104.7.1",
                                         "isCodeDivider": false,
                                         "isCodeDividerClickable": false,
-                                        "orderIndex": 900000,
                                         "reference": "104.7.1"
                                     },
                                     {
@@ -759,7 +702,6 @@
                                         "href": "#104.7.2",
                                         "isCodeDivider": false,
                                         "isCodeDividerClickable": false,
-                                        "orderIndex": 910000,
                                         "reference": "104.7.2"
                                     },
                                     {
@@ -771,7 +713,6 @@
                                         "href": "#104.7.3",
                                         "isCodeDivider": false,
                                         "isCodeDividerClickable": false,
-                                        "orderIndex": 920000,
                                         "reference": "104.7.3"
                                     },
                                     {
@@ -783,7 +724,6 @@
                                         "href": "#104.7.4",
                                         "isCodeDivider": false,
                                         "isCodeDividerClickable": false,
-                                        "orderIndex": 930000,
                                         "reference": "104.7.4"
                                     },
                                     {
@@ -795,7 +735,6 @@
                                         "href": "#104.7.5",
                                         "isCodeDivider": false,
                                         "isCodeDividerClickable": false,
-                                        "orderIndex": 940000,
                                         "reference": "104.7.5"
                                     }
                                 ],
@@ -805,7 +744,6 @@
                                 "href": "#104.7",
                                 "isCodeDivider": false,
                                 "isCodeDividerClickable": false,
-                                "orderIndex": 890000,
                                 "reference": "104.7"
                             },
                             {
@@ -820,7 +758,6 @@
                                         "href": "#104.8.1",
                                         "isCodeDivider": false,
                                         "isCodeDividerClickable": false,
-                                        "orderIndex": 960000,
                                         "reference": "104.8.1"
                                     }
                                 ],
@@ -830,7 +767,6 @@
                                 "href": "#104.8",
                                 "isCodeDivider": false,
                                 "isCodeDividerClickable": false,
-                                "orderIndex": 950000,
                                 "reference": "104.8"
                             },
                             {
@@ -845,7 +781,6 @@
                                         "href": "#104.9.1",
                                         "isCodeDivider": false,
                                         "isCodeDividerClickable": false,
-                                        "orderIndex": 980000,
                                         "reference": "104.9.1"
                                     }
                                 ],
@@ -855,7 +790,6 @@
                                 "href": "#104.9",
                                 "isCodeDivider": false,
                                 "isCodeDividerClickable": false,
-                                "orderIndex": 970000,
                                 "reference": "104.9"
                             }
                         ],
@@ -865,7 +799,6 @@
                         "href": "#104",
                         "isCodeDivider": false,
                         "isCodeDividerClickable": false,
-                        "orderIndex": 550000,
                         "reference": "104"
                     },
                     {
@@ -883,7 +816,6 @@
                                         "href": "#105.1.1",
                                         "isCodeDivider": false,
                                         "isCodeDividerClickable": false,
-                                        "orderIndex": 1180000,
                                         "reference": "105.1.1"
                                     },
                                     {
@@ -895,7 +827,6 @@
                                         "href": "#105.1.2",
                                         "isCodeDivider": false,
                                         "isCodeDividerClickable": false,
-                                        "orderIndex": 1210000,
                                         "reference": "105.1.2"
                                     }
                                 ],
@@ -905,7 +836,6 @@
                                 "href": "#105.1",
                                 "isCodeDivider": false,
                                 "isCodeDividerClickable": false,
-                                "orderIndex": 1170000,
                                 "reference": "105.1"
                             },
                             {
@@ -920,7 +850,6 @@
                                         "href": "#105.2.1",
                                         "isCodeDivider": false,
                                         "isCodeDividerClickable": false,
-                                        "orderIndex": 1270000,
                                         "reference": "105.2.1"
                                     },
                                     {
@@ -932,7 +861,6 @@
                                         "href": "#105.2.2",
                                         "isCodeDivider": false,
                                         "isCodeDividerClickable": false,
-                                        "orderIndex": 1280000,
                                         "reference": "105.2.2"
                                     }
                                 ],
@@ -942,7 +870,6 @@
                                 "href": "#105.2",
                                 "isCodeDivider": false,
                                 "isCodeDividerClickable": false,
-                                "orderIndex": 1260000,
                                 "reference": "105.2"
                             },
                             {
@@ -957,7 +884,6 @@
                                         "href": "#105.3.1",
                                         "isCodeDivider": false,
                                         "isCodeDividerClickable": false,
-                                        "orderIndex": 1310000,
                                         "reference": "105.3.1"
                                     },
                                     {
@@ -969,7 +895,6 @@
                                         "href": "#105.3.2",
                                         "isCodeDivider": false,
                                         "isCodeDividerClickable": false,
-                                        "orderIndex": 1330000,
                                         "reference": "105.3.2"
                                     }
                                 ],
@@ -979,7 +904,6 @@
                                 "href": "#105.3",
                                 "isCodeDivider": false,
                                 "isCodeDividerClickable": false,
-                                "orderIndex": 1300000,
                                 "reference": "105.3"
                             },
                             {
@@ -991,7 +915,6 @@
                                 "href": "#105.4",
                                 "isCodeDivider": false,
                                 "isCodeDividerClickable": false,
-                                "orderIndex": 1350000,
                                 "reference": "105.4"
                             },
                             {
@@ -1003,7 +926,6 @@
                                 "href": "#105.5",
                                 "isCodeDivider": false,
                                 "isCodeDividerClickable": false,
-                                "orderIndex": 1360000,
                                 "reference": "105.5"
                             },
                             {
@@ -1015,7 +937,6 @@
                                 "href": "#105.6",
                                 "isCodeDivider": false,
                                 "isCodeDividerClickable": false,
-                                "orderIndex": 1410000,
                                 "reference": "105.6"
                             },
                             {
@@ -1027,7 +948,6 @@
                                 "href": "#105.7",
                                 "isCodeDivider": false,
                                 "isCodeDividerClickable": false,
-                                "orderIndex": 1420000,
                                 "reference": "105.7"
                             }
                         ],
@@ -1037,7 +957,6 @@
                         "href": "#105",
                         "isCodeDivider": false,
                         "isCodeDividerClickable": false,
-                        "orderIndex": 1160000,
                         "reference": "105"
                     },
                     {
@@ -1052,7 +971,6 @@
                                 "href": "#106.1",
                                 "isCodeDivider": false,
                                 "isCodeDividerClickable": false,
-                                "orderIndex": 1700000,
                                 "reference": "106.1"
                             },
                             {
@@ -1064,7 +982,6 @@
                                 "href": "#106.2",
                                 "isCodeDivider": false,
                                 "isCodeDividerClickable": false,
-                                "orderIndex": 1710000,
                                 "reference": "106.2"
                             },
                             {
@@ -1076,7 +993,6 @@
                                 "href": "#106.3",
                                 "isCodeDivider": false,
                                 "isCodeDividerClickable": false,
-                                "orderIndex": 1720000,
                                 "reference": "106.3"
                             }
                         ],
@@ -1086,7 +1002,6 @@
                         "href": "#106",
                         "isCodeDivider": false,
                         "isCodeDividerClickable": false,
-                        "orderIndex": 1690000,
                         "reference": "106"
                     },
                     {
@@ -1101,7 +1016,6 @@
                                 "href": "#107.1",
                                 "isCodeDivider": false,
                                 "isCodeDividerClickable": false,
-                                "orderIndex": 1740000,
                                 "reference": "107.1"
                             },
                             {
@@ -1116,7 +1030,6 @@
                                         "href": "#107.2.1",
                                         "isCodeDivider": false,
                                         "isCodeDividerClickable": false,
-                                        "orderIndex": 1760000,
                                         "reference": "107.2.1"
                                     },
                                     {
@@ -1128,7 +1041,6 @@
                                         "href": "#107.2.2",
                                         "isCodeDivider": false,
                                         "isCodeDividerClickable": false,
-                                        "orderIndex": 1780000,
                                         "reference": "107.2.2"
                                     },
                                     {
@@ -1140,7 +1052,6 @@
                                         "href": "#107.2.3",
                                         "isCodeDivider": false,
                                         "isCodeDividerClickable": false,
-                                        "orderIndex": 1790000,
                                         "reference": "107.2.3"
                                     },
                                     {
@@ -1152,7 +1063,6 @@
                                         "href": "#107.2.4",
                                         "isCodeDivider": false,
                                         "isCodeDividerClickable": false,
-                                        "orderIndex": 1800000,
                                         "reference": "107.2.4"
                                     },
                                     {
@@ -1164,7 +1074,6 @@
                                         "href": "#107.2.5",
                                         "isCodeDivider": false,
                                         "isCodeDividerClickable": false,
-                                        "orderIndex": 1810000,
                                         "reference": "107.2.5"
                                     },
                                     {
@@ -1179,7 +1088,6 @@
                                                 "href": "#107.2.6.1",
                                                 "isCodeDivider": false,
                                                 "isCodeDividerClickable": false,
-                                                "orderIndex": 1830000,
                                                 "reference": "107.2.6.1"
                                             }
                                         ],
@@ -1189,7 +1097,6 @@
                                         "href": "#107.2.6",
                                         "isCodeDivider": false,
                                         "isCodeDividerClickable": false,
-                                        "orderIndex": 1820000,
                                         "reference": "107.2.6"
                                     },
                                     {
@@ -1201,7 +1108,6 @@
                                         "href": "#107.2.7",
                                         "isCodeDivider": false,
                                         "isCodeDividerClickable": false,
-                                        "orderIndex": 1850000,
                                         "reference": "107.2.7"
                                     },
                                     {
@@ -1213,7 +1119,6 @@
                                         "href": "#107.2.8",
                                         "isCodeDivider": false,
                                         "isCodeDividerClickable": false,
-                                        "orderIndex": 1860000,
                                         "reference": "107.2.8"
                                     }
                                 ],
@@ -1223,7 +1128,6 @@
                                 "href": "#107.2",
                                 "isCodeDivider": false,
                                 "isCodeDividerClickable": false,
-                                "orderIndex": 1750000,
                                 "reference": "107.2"
                             },
                             {
@@ -1238,7 +1142,6 @@
                                         "href": "#107.3.1",
                                         "isCodeDivider": false,
                                         "isCodeDividerClickable": false,
-                                        "orderIndex": 1900000,
                                         "reference": "107.3.1"
                                     },
                                     {
@@ -1250,7 +1153,6 @@
                                         "href": "#107.3.2",
                                         "isCodeDivider": false,
                                         "isCodeDividerClickable": false,
-                                        "orderIndex": 1910000,
                                         "reference": "107.3.2"
                                     },
                                     {
@@ -1262,7 +1164,6 @@
                                         "href": "#107.3.3",
                                         "isCodeDivider": false,
                                         "isCodeDividerClickable": false,
-                                        "orderIndex": 1920000,
                                         "reference": "107.3.3"
                                     },
                                     {
@@ -1277,7 +1178,6 @@
                                                 "href": "#107.3.4.1",
                                                 "isCodeDivider": false,
                                                 "isCodeDividerClickable": false,
-                                                "orderIndex": 1940000,
                                                 "reference": "107.3.4.1"
                                             }
                                         ],
@@ -1287,7 +1187,6 @@
                                         "href": "#107.3.4",
                                         "isCodeDivider": false,
                                         "isCodeDividerClickable": false,
-                                        "orderIndex": 1930000,
                                         "reference": "107.3.4"
                                     }
                                 ],
@@ -1297,7 +1196,6 @@
                                 "href": "#107.3",
                                 "isCodeDivider": false,
                                 "isCodeDividerClickable": false,
-                                "orderIndex": 1890000,
                                 "reference": "107.3"
                             },
                             {
@@ -1309,7 +1207,6 @@
                                 "href": "#107.4",
                                 "isCodeDivider": false,
                                 "isCodeDividerClickable": false,
-                                "orderIndex": 1950000,
                                 "reference": "107.4"
                             },
                             {
@@ -1321,7 +1218,6 @@
                                 "href": "#107.5",
                                 "isCodeDivider": false,
                                 "isCodeDividerClickable": false,
-                                "orderIndex": 1960000,
                                 "reference": "107.5"
                             }
                         ],
@@ -1331,7 +1227,6 @@
                         "href": "#107",
                         "isCodeDivider": false,
                         "isCodeDividerClickable": false,
-                        "orderIndex": 1730000,
                         "reference": "107"
                     },
                     {
@@ -1346,7 +1241,6 @@
                                 "href": "#108.1",
                                 "isCodeDivider": false,
                                 "isCodeDividerClickable": false,
-                                "orderIndex": 2060000,
                                 "reference": "108.1"
                             },
                             {
@@ -1358,7 +1252,6 @@
                                 "href": "#108.2",
                                 "isCodeDivider": false,
                                 "isCodeDividerClickable": false,
-                                "orderIndex": 2070000,
                                 "reference": "108.2"
                             },
                             {
@@ -1370,7 +1263,6 @@
                                 "href": "#108.3",
                                 "isCodeDivider": false,
                                 "isCodeDividerClickable": false,
-                                "orderIndex": 2080000,
                                 "reference": "108.3"
                             },
                             {
@@ -1382,7 +1274,6 @@
                                 "href": "#108.4",
                                 "isCodeDivider": false,
                                 "isCodeDividerClickable": false,
-                                "orderIndex": 2090000,
                                 "reference": "108.4"
                             }
                         ],
@@ -1392,7 +1283,6 @@
                         "href": "#108",
                         "isCodeDivider": false,
                         "isCodeDividerClickable": false,
-                        "orderIndex": 2050000,
                         "reference": "108"
                     },
                     {
@@ -1407,7 +1297,6 @@
                                 "href": "#109.1",
                                 "isCodeDivider": false,
                                 "isCodeDividerClickable": false,
-                                "orderIndex": 2370000,
                                 "reference": "109.1"
                             },
                             {
@@ -1419,7 +1308,6 @@
                                 "href": "#109.2",
                                 "isCodeDivider": false,
                                 "isCodeDividerClickable": false,
-                                "orderIndex": 2380000,
                                 "reference": "109.2"
                             },
                             {
@@ -1431,7 +1319,6 @@
                                 "href": "#109.3",
                                 "isCodeDivider": false,
                                 "isCodeDividerClickable": false,
-                                "orderIndex": 2400000,
                                 "reference": "109.3"
                             },
                             {
@@ -1443,7 +1330,6 @@
                                 "href": "#109.4",
                                 "isCodeDivider": false,
                                 "isCodeDividerClickable": false,
-                                "orderIndex": 2410000,
                                 "reference": "109.4"
                             },
                             {
@@ -1455,7 +1341,6 @@
                                 "href": "#109.5",
                                 "isCodeDivider": false,
                                 "isCodeDividerClickable": false,
-                                "orderIndex": 2420000,
                                 "reference": "109.5"
                             },
                             {
@@ -1467,7 +1352,6 @@
                                 "href": "#109.6",
                                 "isCodeDivider": false,
                                 "isCodeDividerClickable": false,
-                                "orderIndex": 2440000,
                                 "reference": "109.6"
                             }
                         ],
@@ -1477,7 +1361,6 @@
                         "href": "#109",
                         "isCodeDivider": false,
                         "isCodeDividerClickable": false,
-                        "orderIndex": 2360000,
                         "reference": "109"
                     },
                     {
@@ -1492,7 +1375,6 @@
                                 "href": "#110.1",
                                 "isCodeDivider": false,
                                 "isCodeDividerClickable": false,
-                                "orderIndex": 2480000,
                                 "reference": "110.1"
                             },
                             {
@@ -1504,7 +1386,6 @@
                                 "href": "#110.2",
                                 "isCodeDivider": false,
                                 "isCodeDividerClickable": false,
-                                "orderIndex": 2490000,
                                 "reference": "110.2"
                             },
                             {
@@ -1519,7 +1400,6 @@
                                         "href": "#110.3.1",
                                         "isCodeDivider": false,
                                         "isCodeDividerClickable": false,
-                                        "orderIndex": 2510000,
                                         "reference": "110.3.1"
                                     },
                                     {
@@ -1531,7 +1411,6 @@
                                         "href": "#110.3.2",
                                         "isCodeDivider": false,
                                         "isCodeDividerClickable": false,
-                                        "orderIndex": 2520000,
                                         "reference": "110.3.2"
                                     },
                                     {
@@ -1543,7 +1422,6 @@
                                         "href": "#110.3.3",
                                         "isCodeDivider": false,
                                         "isCodeDividerClickable": false,
-                                        "orderIndex": 2530000,
                                         "reference": "110.3.3"
                                     },
                                     {
@@ -1555,7 +1433,6 @@
                                         "href": "#110.3.4",
                                         "isCodeDivider": false,
                                         "isCodeDividerClickable": false,
-                                        "orderIndex": 2540000,
                                         "reference": "110.3.4"
                                     },
                                     {
@@ -1567,7 +1444,6 @@
                                         "href": "#110.3.5",
                                         "isCodeDivider": false,
                                         "isCodeDividerClickable": false,
-                                        "orderIndex": 2550000,
                                         "reference": "110.3.5"
                                     },
                                     {
@@ -1579,7 +1455,6 @@
                                         "href": "#110.3.6",
                                         "isCodeDivider": false,
                                         "isCodeDividerClickable": false,
-                                        "orderIndex": 2560000,
                                         "reference": "110.3.6"
                                     },
                                     {
@@ -1591,7 +1466,6 @@
                                         "href": "#110.3.7",
                                         "isCodeDivider": false,
                                         "isCodeDividerClickable": false,
-                                        "orderIndex": 2570000,
                                         "reference": "110.3.7"
                                     },
                                     {
@@ -1603,7 +1477,6 @@
                                         "href": "#110.3.8",
                                         "isCodeDivider": false,
                                         "isCodeDividerClickable": false,
-                                        "orderIndex": 2580000,
                                         "reference": "110.3.8"
                                     },
                                     {
@@ -1615,7 +1488,6 @@
                                         "href": "#110.3.9",
                                         "isCodeDivider": false,
                                         "isCodeDividerClickable": false,
-                                        "orderIndex": 2590000,
                                         "reference": "110.3.9"
                                     },
                                     {
@@ -1627,7 +1499,6 @@
                                         "href": "#110.3.10",
                                         "isCodeDivider": false,
                                         "isCodeDividerClickable": false,
-                                        "orderIndex": 2600000,
                                         "reference": "110.3.10"
                                     },
                                     {
@@ -1639,7 +1510,6 @@
                                         "href": "#110.3.11",
                                         "isCodeDivider": false,
                                         "isCodeDividerClickable": false,
-                                        "orderIndex": 2630000,
                                         "reference": "110.3.11"
                                     },
                                     {
@@ -1654,7 +1524,6 @@
                                                 "href": "#110.3.12.1",
                                                 "isCodeDivider": false,
                                                 "isCodeDividerClickable": false,
-                                                "orderIndex": 2650000,
                                                 "reference": "110.3.12.1"
                                             }
                                         ],
@@ -1664,7 +1533,6 @@
                                         "href": "#110.3.12",
                                         "isCodeDivider": false,
                                         "isCodeDividerClickable": false,
-                                        "orderIndex": 2640000,
                                         "reference": "110.3.12"
                                     }
                                 ],
@@ -1674,7 +1542,6 @@
                                 "href": "#110.3",
                                 "isCodeDivider": false,
                                 "isCodeDividerClickable": false,
-                                "orderIndex": 2500000,
                                 "reference": "110.3"
                             },
                             {
@@ -1686,7 +1553,6 @@
                                 "href": "#110.4",
                                 "isCodeDivider": false,
                                 "isCodeDividerClickable": false,
-                                "orderIndex": 2660000,
                                 "reference": "110.4"
                             },
                             {
@@ -1698,7 +1564,6 @@
                                 "href": "#110.5",
                                 "isCodeDivider": false,
                                 "isCodeDividerClickable": false,
-                                "orderIndex": 2670000,
                                 "reference": "110.5"
                             },
                             {
@@ -1710,7 +1575,6 @@
                                 "href": "#110.6",
                                 "isCodeDivider": false,
                                 "isCodeDividerClickable": false,
-                                "orderIndex": 2680000,
                                 "reference": "110.6"
                             }
                         ],
@@ -1720,7 +1584,6 @@
                         "href": "#110",
                         "isCodeDivider": false,
                         "isCodeDividerClickable": false,
-                        "orderIndex": 2470000,
                         "reference": "110"
                     },
                     {
@@ -1735,7 +1598,6 @@
                                 "href": "#111.1",
                                 "isCodeDivider": false,
                                 "isCodeDividerClickable": false,
-                                "orderIndex": 2700000,
                                 "reference": "111.1"
                             },
                             {
@@ -1747,7 +1609,6 @@
                                 "href": "#111.2",
                                 "isCodeDivider": false,
                                 "isCodeDividerClickable": false,
-                                "orderIndex": 2740000,
                                 "reference": "111.2"
                             },
                             {
@@ -1759,7 +1620,6 @@
                                 "href": "#111.3",
                                 "isCodeDivider": false,
                                 "isCodeDividerClickable": false,
-                                "orderIndex": 2750000,
                                 "reference": "111.3"
                             },
                             {
@@ -1771,7 +1631,6 @@
                                 "href": "#111.4",
                                 "isCodeDivider": false,
                                 "isCodeDividerClickable": false,
-                                "orderIndex": 2780000,
                                 "reference": "111.4"
                             }
                         ],
@@ -1781,7 +1640,6 @@
                         "href": "#111",
                         "isCodeDivider": false,
                         "isCodeDividerClickable": false,
-                        "orderIndex": 2690000,
                         "reference": "111"
                     },
                     {
@@ -1796,7 +1654,6 @@
                                 "href": "#112.1",
                                 "isCodeDivider": false,
                                 "isCodeDividerClickable": false,
-                                "orderIndex": 2800000,
                                 "reference": "112.1"
                             },
                             {
@@ -1808,7 +1665,6 @@
                                 "href": "#112.2",
                                 "isCodeDivider": false,
                                 "isCodeDividerClickable": false,
-                                "orderIndex": 2810000,
                                 "reference": "112.2"
                             },
                             {
@@ -1820,7 +1676,6 @@
                                 "href": "#112.3",
                                 "isCodeDivider": false,
                                 "isCodeDividerClickable": false,
-                                "orderIndex": 2820000,
                                 "reference": "112.3"
                             }
                         ],
@@ -1830,7 +1685,6 @@
                         "href": "#112",
                         "isCodeDivider": false,
                         "isCodeDividerClickable": false,
-                        "orderIndex": 2790000,
                         "reference": "112"
                     },
                     {
@@ -1845,7 +1699,6 @@
                                 "href": "#113.1",
                                 "isCodeDivider": false,
                                 "isCodeDividerClickable": false,
-                                "orderIndex": 2850000,
                                 "reference": "113.1"
                             },
                             {
@@ -1857,7 +1710,6 @@
                                 "href": "#113.2",
                                 "isCodeDivider": false,
                                 "isCodeDividerClickable": false,
-                                "orderIndex": 2860000,
                                 "reference": "113.2"
                             },
                             {
@@ -1869,7 +1721,6 @@
                                 "href": "#113.3",
                                 "isCodeDivider": false,
                                 "isCodeDividerClickable": false,
-                                "orderIndex": 2880000,
                                 "reference": "113.3"
                             },
                             {
@@ -1881,7 +1732,6 @@
                                 "href": "#113.4",
                                 "isCodeDivider": false,
                                 "isCodeDividerClickable": false,
-                                "orderIndex": 2890000,
                                 "reference": "113.4"
                             }
                         ],
@@ -1891,7 +1741,6 @@
                         "href": "#113",
                         "isCodeDivider": false,
                         "isCodeDividerClickable": false,
-                        "orderIndex": 2840000,
                         "reference": "113"
                     },
                     {
@@ -1906,7 +1755,6 @@
                                 "href": "#114.1",
                                 "isCodeDivider": false,
                                 "isCodeDividerClickable": false,
-                                "orderIndex": 2940000,
                                 "reference": "114.1"
                             },
                             {
@@ -1918,7 +1766,6 @@
                                 "href": "#114.2",
                                 "isCodeDivider": false,
                                 "isCodeDividerClickable": false,
-                                "orderIndex": 3120000,
                                 "reference": "114.2"
                             },
                             {
@@ -1930,7 +1777,6 @@
                                 "href": "#114.3",
                                 "isCodeDivider": false,
                                 "isCodeDividerClickable": false,
-                                "orderIndex": 3140000,
                                 "reference": "114.3"
                             },
                             {
@@ -1942,7 +1788,6 @@
                                 "href": "#114.4",
                                 "isCodeDivider": false,
                                 "isCodeDividerClickable": false,
-                                "orderIndex": 3150000,
                                 "reference": "114.4"
                             }
                         ],
@@ -1952,7 +1797,6 @@
                         "href": "#114",
                         "isCodeDivider": false,
                         "isCodeDividerClickable": false,
-                        "orderIndex": 2930000,
                         "reference": "114"
                     },
                     {
@@ -1967,7 +1811,6 @@
                                 "href": "#115.1",
                                 "isCodeDivider": false,
                                 "isCodeDividerClickable": false,
-                                "orderIndex": 3190000,
                                 "reference": "115.1"
                             },
                             {
@@ -1979,7 +1822,6 @@
                                 "href": "#115.2",
                                 "isCodeDivider": false,
                                 "isCodeDividerClickable": false,
-                                "orderIndex": 3200000,
                                 "reference": "115.2"
                             },
                             {
@@ -1991,7 +1833,6 @@
                                 "href": "#115.3",
                                 "isCodeDivider": false,
                                 "isCodeDividerClickable": false,
-                                "orderIndex": 3210000,
                                 "reference": "115.3"
                             },
                             {
@@ -2003,7 +1844,6 @@
                                 "href": "#115.4",
                                 "isCodeDivider": false,
                                 "isCodeDividerClickable": false,
-                                "orderIndex": 3220000,
                                 "reference": "115.4"
                             }
                         ],
@@ -2013,7 +1853,6 @@
                         "href": "#115",
                         "isCodeDivider": false,
                         "isCodeDividerClickable": false,
-                        "orderIndex": 3180000,
                         "reference": "115"
                     },
                     {
@@ -2028,7 +1867,6 @@
                                 "href": "#116.1",
                                 "isCodeDivider": false,
                                 "isCodeDividerClickable": false,
-                                "orderIndex": 3240000,
                                 "reference": "116.1"
                             },
                             {
@@ -2040,7 +1878,6 @@
                                 "href": "#116.2",
                                 "isCodeDivider": false,
                                 "isCodeDividerClickable": false,
-                                "orderIndex": 3250000,
                                 "reference": "116.2"
                             },
                             {
@@ -2052,7 +1889,6 @@
                                 "href": "#116.3",
                                 "isCodeDivider": false,
                                 "isCodeDividerClickable": false,
-                                "orderIndex": 3290000,
                                 "reference": "116.3"
                             },
                             {
@@ -2064,7 +1900,6 @@
                                 "href": "#116.4",
                                 "isCodeDivider": false,
                                 "isCodeDividerClickable": false,
-                                "orderIndex": 3310000,
                                 "reference": "116.4"
                             },
                             {
@@ -2076,7 +1911,6 @@
                                 "href": "#116.5",
                                 "isCodeDivider": false,
                                 "isCodeDividerClickable": false,
-                                "orderIndex": 3330000,
                                 "reference": "116.5"
                             }
                         ],
@@ -2086,7 +1920,6 @@
                         "href": "#116",
                         "isCodeDivider": false,
                         "isCodeDividerClickable": false,
-                        "orderIndex": 3230000,
                         "reference": "116"
                     }
                 ],
@@ -2095,355 +1928,304 @@
                     {
                         "displayTitle": "Chapter 1 Scope and Administration",
                         "isExpandable": true,
-                        "orderIndex": 10000,
                         "reference": "1",
                         "slug": "scope-and-administration"
                     },
                     {
                         "displayTitle": "Chapter 2 Definitions",
                         "isExpandable": true,
-                        "orderIndex": 5470000,
                         "reference": "2",
                         "slug": "definitions"
                     },
                     {
                         "displayTitle": "Chapter 3 Occupancy Classification and Use",
                         "isExpandable": true,
-                        "orderIndex": 14850000,
                         "reference": "3",
                         "slug": "occupancy-classification-and-use"
                     },
                     {
                         "displayTitle": "Chapter 4 Special Detailed Requirements Based on Occupancy and Use",
                         "isExpandable": true,
-                        "orderIndex": 15870000,
                         "reference": "4",
                         "slug": "special-detailed-requirements-based-on-occupancy-and-use"
                     },
                     {
                         "displayTitle": "Chapter 5 General Building Heights and Areas",
                         "isExpandable": true,
-                        "orderIndex": 22700000,
                         "reference": "5",
                         "slug": "general-building-heights-and-areas"
                     },
                     {
                         "displayTitle": "Chapter 6 Types of Construction",
                         "isExpandable": true,
-                        "orderIndex": 23920000,
                         "reference": "6",
                         "slug": "types-of-construction"
                     },
                     {
                         "displayTitle": "Chapter 7 Fire and Smoke Protection Features",
                         "isExpandable": true,
-                        "orderIndex": 24380000,
                         "reference": "7",
                         "slug": "fire-and-smoke-protection-features"
                     },
                     {
                         "displayTitle": "Chapter 8 Interior Finishes",
                         "isExpandable": true,
-                        "orderIndex": 29860000,
                         "reference": "8",
                         "slug": "interior-finishes"
                     },
                     {
                         "displayTitle": "Chapter 9 Fire Protection and Life Safety Systems",
                         "isExpandable": true,
-                        "orderIndex": 30570000,
                         "reference": "9",
                         "slug": "fire-protection-and-life-safety-systems"
                     },
                     {
                         "displayTitle": "Chapter 10 Means of Egress",
                         "isExpandable": true,
-                        "orderIndex": 36300000,
                         "reference": "10",
                         "slug": "means-of-egress"
                     },
                     {
                         "displayTitle": "Chapter 11 Accessibility",
                         "isExpandable": true,
-                        "orderIndex": 41050000,
                         "reference": "11",
                         "slug": "accessibility"
                     },
                     {
                         "displayTitle": "Chapter 12 Interior Environment",
                         "isExpandable": true,
-                        "orderIndex": 43700000,
                         "reference": "12",
                         "slug": "interior-environment"
                     },
                     {
                         "displayTitle": "Chapter 13 Energy Efficiency",
                         "isExpandable": true,
-                        "orderIndex": 44530000,
                         "reference": "13",
                         "slug": "energy-efficiency"
                     },
                     {
                         "displayTitle": "Chapter 14 Exterior Walls",
                         "isExpandable": true,
-                        "orderIndex": 44580000,
                         "reference": "14",
                         "slug": "exterior-walls"
                     },
                     {
                         "displayTitle": "Chapter 15 Roof Assemblies and Rooftop Structures",
                         "isExpandable": true,
-                        "orderIndex": 46900000,
                         "reference": "15",
                         "slug": "roof-assemblies-and-rooftop-structures"
                     },
                     {
                         "displayTitle": "Chapter 16 Structural Design",
                         "isExpandable": true,
-                        "orderIndex": 49170000,
                         "reference": "16",
                         "slug": "structural-design"
                     },
                     {
                         "displayTitle": "Chapter 17 Special Inspections and Tests",
                         "isExpandable": true,
-                        "orderIndex": 51230000,
                         "reference": "17",
                         "slug": "special-inspections-and-tests"
                     },
                     {
                         "displayTitle": "Chapter 18 Soils and Foundations",
                         "isExpandable": true,
-                        "orderIndex": 52930000,
                         "reference": "18",
                         "slug": "soils-and-foundations"
                     },
                     {
                         "displayTitle": "Chapter 19 Concrete",
                         "isExpandable": true,
-                        "orderIndex": 55500000,
                         "reference": "19",
                         "slug": "concrete"
                     },
                     {
                         "displayTitle": "Chapter 20 Aluminum",
                         "isExpandable": true,
-                        "orderIndex": 56110000,
                         "reference": "20",
                         "slug": "aluminum"
                     },
                     {
                         "displayTitle": "Chapter 21 Masonry",
                         "isExpandable": true,
-                        "orderIndex": 56170000,
                         "reference": "21",
                         "slug": "masonry"
                     },
                     {
                         "displayTitle": "Chapter 22 Steel",
                         "isExpandable": true,
-                        "orderIndex": 58350000,
                         "reference": "22",
                         "slug": "steel"
                     },
                     {
                         "displayTitle": "Chapter 23 Wood",
                         "isExpandable": true,
-                        "orderIndex": 59070000,
                         "reference": "23",
                         "slug": "wood"
                     },
                     {
                         "displayTitle": "Chapter 24 Glass and Glazing",
                         "isExpandable": true,
-                        "orderIndex": 61680000,
                         "reference": "24",
                         "slug": "glass-and-glazing"
                     },
                     {
                         "displayTitle": "Chapter 25 Gypsum Panel Products and Plaster",
                         "isExpandable": true,
-                        "orderIndex": 62390000,
                         "reference": "25",
                         "slug": "gypsum-panel-products-and-plaster"
                     },
                     {
                         "displayTitle": "Chapter 26 Plastic",
                         "isExpandable": true,
-                        "orderIndex": 63280000,
                         "reference": "26",
                         "slug": "plastic"
                     },
                     {
                         "displayTitle": "Chapter 27 Electrical",
                         "isExpandable": true,
-                        "orderIndex": 64500000,
                         "reference": "27",
                         "slug": "electrical"
                     },
                     {
                         "displayTitle": "Chapter 28 Mechanical Systems",
                         "isExpandable": true,
-                        "orderIndex": 64980000,
                         "reference": "28",
                         "slug": "mechanical-systems"
                     },
                     {
                         "displayTitle": "Chapter 29 Plumbing Systems",
                         "isExpandable": true,
-                        "orderIndex": 65010000,
                         "reference": "29",
                         "slug": "plumbing-systems"
                     },
                     {
                         "displayTitle": "Chapter 30 Elevators and Conveying Systems",
                         "isExpandable": true,
-                        "orderIndex": 65370000,
                         "reference": "30",
                         "slug": "elevators-and-conveying-systems"
                     },
                     {
                         "displayTitle": "Chapter 31 Special Construction",
                         "isExpandable": true,
-                        "orderIndex": 66480000,
                         "reference": "31",
                         "slug": "special-construction"
                     },
                     {
                         "displayTitle": "Chapter 32 Encroachments Into the Public Right-of-Way",
                         "isExpandable": true,
-                        "orderIndex": 68950000,
                         "reference": "32",
                         "slug": "encroachments-into-the-public-right-of-way"
                     },
                     {
                         "displayTitle": "Chapter 33 Safeguards During Construction",
                         "isExpandable": true,
-                        "orderIndex": 69180000,
                         "reference": "33",
                         "slug": "safeguards-during-construction"
                     },
                     {
                         "displayTitle": "Chapter 34 Reserved",
-                        "orderIndex": 70030000,
                         "reference": "34",
                         "slug": "reserved"
                     },
                     {
                         "displayTitle": "Chapter 35 Referenced Standards",
-                        "orderIndex": 70140000,
                         "reference": "35",
                         "slug": "referenced-standards"
                     },
                     {
                         "disabled": true,
                         "displayTitle": "Appendix A Employee Qualifications",
-                        "orderIndex": 70150000,
                         "reference": "A",
                         "slug": "employee-qualifications"
                     },
                     {
                         "disabled": true,
                         "displayTitle": "Appendix B Board of Appeals",
-                        "orderIndex": 70230000,
                         "reference": "B",
                         "slug": "board-of-appeals"
                     },
                     {
                         "disabled": true,
                         "displayTitle": "Appendix C Group U\u2014Agricultural Buildings",
-                        "orderIndex": 70480000,
                         "reference": "C",
                         "slug": "group-u-agricultural-buildings"
                     },
                     {
                         "disabled": true,
                         "displayTitle": "Appendix D Fire Districts",
-                        "orderIndex": 70590000,
                         "reference": "D",
                         "slug": "fire-districts"
                     },
                     {
                         "disabled": true,
                         "displayTitle": "[BE] Appendix E Supplementary Accessibility Requirements",
-                        "orderIndex": 70920000,
                         "reference": "E",
                         "slug": "supplementary-accessibility-requirements"
                     },
                     {
                         "disabled": true,
                         "displayTitle": "Appendix F Rodentproofing",
-                        "orderIndex": 71630000,
                         "reference": "F",
                         "slug": "rodentproofing"
                     },
                     {
                         "disabled": true,
                         "displayTitle": "Appendix G Flood-Resistant Construction",
-                        "orderIndex": 71760000,
                         "reference": "G",
                         "slug": "flood-resistant-construction"
                     },
                     {
                         "disabled": true,
                         "displayTitle": "Appendix H Signs",
-                        "orderIndex": 72590000,
                         "reference": "H",
                         "slug": "signs"
                     },
                     {
                         "disabled": true,
                         "displayTitle": "Appendix I Patio Covers",
-                        "orderIndex": 73210000,
                         "reference": "I",
                         "slug": "patio-covers"
                     },
                     {
                         "disabled": true,
                         "displayTitle": "Appendix J Grading",
-                        "orderIndex": 73340000,
                         "reference": "J",
                         "slug": "grading"
                     },
                     {
                         "disabled": true,
                         "displayTitle": "Appendix K Administrative Provisions",
-                        "orderIndex": 73740000,
                         "reference": "K",
                         "slug": "administrative-provisions"
                     },
                     {
                         "disabled": true,
                         "displayTitle": "Appendix L Earthquake Recording Instrumentation",
-                        "orderIndex": 74260000,
                         "reference": "L",
                         "slug": "earthquake-recording-instrumentation"
                     },
                     {
                         "disabled": true,
                         "displayTitle": "Appendix M Tsunami-Generated Flood Hazards",
-                        "orderIndex": 74330000,
                         "reference": "M",
                         "slug": "tsunami-generated-flood-hazards"
                     },
                     {
                         "disabled": true,
                         "displayTitle": "Appendix N Replicable Buildings",
-                        "orderIndex": 74410000,
                         "reference": "N",
                         "slug": "replicable-buildings"
                     },
                     {
                         "disabled": true,
                         "displayTitle": "[A] Appendix O Performance-Based Application",
-                        "orderIndex": 74660000,
                         "reference": "O",
                         "slug": "performance-based-application"
                     },
                     {
                         "disabled": true,
                         "displayTitle": "Appendix P Sleeping Lofts",
-                        "orderIndex": 74860000,
                         "reference": "P",
                         "slug": "sleeping-lofts"
                     }
@@ -2462,7 +2244,6 @@
                         "numAssembliesOnRef": 0,
                         "numBuildingProductsOnRef": 0,
                         "numDiagramsOnRef": 0,
-                        "orderIndex": 10000,
                         "reference": "1",
                         "slug": "scope-and-administration",
                         "titleText": "Scope and Administration",
@@ -2482,7 +2263,6 @@
                                 "numAssembliesOnRef": 0,
                                 "numBuildingProductsOnRef": 0,
                                 "numDiagramsOnRef": 0,
-                                "orderIndex": 20000,
                                 "reference": "divider_1_1",
                                 "slug": "scope-and-administration",
                                 "titleText": "Scope and Application",
@@ -2502,7 +2282,6 @@
                                 "numAssembliesOnRef": 0,
                                 "numBuildingProductsOnRef": 0,
                                 "numDiagramsOnRef": 0,
-                                "orderIndex": 30000,
                                 "reference": "101",
                                 "slug": "scope-and-administration",
                                 "titleText": "Scope and General Requirements",
@@ -2522,7 +2301,6 @@
                                         "numAssembliesOnRef": 0,
                                         "numBuildingProductsOnRef": 0,
                                         "numDiagramsOnRef": 0,
-                                        "orderIndex": 40000,
                                         "reference": "101.1",
                                         "refPrefix": "[A]",
                                         "slug": "scope-and-administration",
@@ -2544,7 +2322,6 @@
                                         "numAssembliesOnRef": 0,
                                         "numBuildingProductsOnRef": 0,
                                         "numDiagramsOnRef": 0,
-                                        "orderIndex": 60000,
                                         "reference": "101.2",
                                         "refPrefix": "[A]",
                                         "slug": "scope-and-administration",
@@ -2566,7 +2343,6 @@
                                                 "numAssembliesOnRef": 0,
                                                 "numBuildingProductsOnRef": 0,
                                                 "numDiagramsOnRef": 0,
-                                                "orderIndex": 70000,
                                                 "reference": "101.2.1",
                                                 "refPrefix": "[A]",
                                                 "slug": "scope-and-administration",
@@ -2590,7 +2366,6 @@
                                         "numAssembliesOnRef": 0,
                                         "numBuildingProductsOnRef": 0,
                                         "numDiagramsOnRef": 0,
-                                        "orderIndex": 90000,
                                         "reference": "101.3",
                                         "refPrefix": "[A]",
                                         "slug": "scope-and-administration",
@@ -2612,7 +2387,6 @@
                                         "numAssembliesOnRef": 0,
                                         "numBuildingProductsOnRef": 0,
                                         "numDiagramsOnRef": 0,
-                                        "orderIndex": 100000,
                                         "reference": "101.4",
                                         "refPrefix": "[A]",
                                         "slug": "scope-and-administration",
@@ -2634,7 +2408,6 @@
                                                 "numAssembliesOnRef": 0,
                                                 "numBuildingProductsOnRef": 0,
                                                 "numDiagramsOnRef": 0,
-                                                "orderIndex": 110000,
                                                 "reference": "101.4.1",
                                                 "refPrefix": "[A]",
                                                 "slug": "scope-and-administration",
@@ -2657,7 +2430,6 @@
                                                 "numAssembliesOnRef": 0,
                                                 "numBuildingProductsOnRef": 0,
                                                 "numDiagramsOnRef": 0,
-                                                "orderIndex": 120000,
                                                 "reference": "101.4.2",
                                                 "refPrefix": "[A]",
                                                 "slug": "scope-and-administration",
@@ -2680,7 +2452,6 @@
                                                 "numAssembliesOnRef": 0,
                                                 "numBuildingProductsOnRef": 0,
                                                 "numDiagramsOnRef": 0,
-                                                "orderIndex": 130000,
                                                 "reference": "101.4.3",
                                                 "refPrefix": "[A]",
                                                 "slug": "scope-and-administration",
@@ -2703,7 +2474,6 @@
                                                 "numAssembliesOnRef": 0,
                                                 "numBuildingProductsOnRef": 0,
                                                 "numDiagramsOnRef": 0,
-                                                "orderIndex": 140000,
                                                 "reference": "101.4.4",
                                                 "refPrefix": "[A]",
                                                 "slug": "scope-and-administration",
@@ -2726,7 +2496,6 @@
                                                 "numAssembliesOnRef": 0,
                                                 "numBuildingProductsOnRef": 0,
                                                 "numDiagramsOnRef": 0,
-                                                "orderIndex": 150000,
                                                 "reference": "101.4.5",
                                                 "refPrefix": "[A]",
                                                 "slug": "scope-and-administration",
@@ -2749,7 +2518,6 @@
                                                 "numAssembliesOnRef": 0,
                                                 "numBuildingProductsOnRef": 0,
                                                 "numDiagramsOnRef": 0,
-                                                "orderIndex": 160000,
                                                 "reference": "101.4.6",
                                                 "refPrefix": "[A]",
                                                 "slug": "scope-and-administration",
@@ -2791,7 +2559,6 @@
                                                 "numAssembliesOnRef": 0,
                                                 "numBuildingProductsOnRef": 0,
                                                 "numDiagramsOnRef": 1,
-                                                "orderIndex": 180000,
                                                 "reference": "101.4.7",
                                                 "refPrefix": "[A]",
                                                 "slug": "scope-and-administration",
@@ -2816,7 +2583,6 @@
                                 "numAssembliesOnRef": 0,
                                 "numBuildingProductsOnRef": 0,
                                 "numDiagramsOnRef": 0,
-                                "orderIndex": 290000,
                                 "reference": "102",
                                 "slug": "scope-and-administration",
                                 "titleText": "Applicability",
@@ -2836,7 +2602,6 @@
                                         "numAssembliesOnRef": 0,
                                         "numBuildingProductsOnRef": 0,
                                         "numDiagramsOnRef": 0,
-                                        "orderIndex": 300000,
                                         "reference": "102.1",
                                         "refPrefix": "[A]",
                                         "slug": "scope-and-administration",
@@ -2858,7 +2623,6 @@
                                         "numAssembliesOnRef": 0,
                                         "numBuildingProductsOnRef": 0,
                                         "numDiagramsOnRef": 0,
-                                        "orderIndex": 310000,
                                         "reference": "102.2",
                                         "refPrefix": "[A]",
                                         "slug": "scope-and-administration",
@@ -2880,7 +2644,6 @@
                                         "numAssembliesOnRef": 0,
                                         "numBuildingProductsOnRef": 0,
                                         "numDiagramsOnRef": 0,
-                                        "orderIndex": 340000,
                                         "reference": "102.3",
                                         "refPrefix": "[A]",
                                         "slug": "scope-and-administration",
@@ -2902,7 +2665,6 @@
                                         "numAssembliesOnRef": 0,
                                         "numBuildingProductsOnRef": 0,
                                         "numDiagramsOnRef": 0,
-                                        "orderIndex": 350000,
                                         "reference": "102.4",
                                         "refPrefix": "[A]",
                                         "slug": "scope-and-administration",
@@ -2924,7 +2686,6 @@
                                                 "numAssembliesOnRef": 0,
                                                 "numBuildingProductsOnRef": 0,
                                                 "numDiagramsOnRef": 0,
-                                                "orderIndex": 360000,
                                                 "reference": "102.4.1",
                                                 "refPrefix": "[A]",
                                                 "slug": "scope-and-administration",
@@ -2947,7 +2708,6 @@
                                                 "numAssembliesOnRef": 0,
                                                 "numBuildingProductsOnRef": 0,
                                                 "numDiagramsOnRef": 0,
-                                                "orderIndex": 370000,
                                                 "reference": "102.4.2",
                                                 "refPrefix": "[A]",
                                                 "slug": "scope-and-administration",
@@ -2971,7 +2731,6 @@
                                         "numAssembliesOnRef": 0,
                                         "numBuildingProductsOnRef": 0,
                                         "numDiagramsOnRef": 0,
-                                        "orderIndex": 380000,
                                         "reference": "102.5",
                                         "refPrefix": "[A]",
                                         "slug": "scope-and-administration",
@@ -2993,7 +2752,6 @@
                                         "numAssembliesOnRef": 0,
                                         "numBuildingProductsOnRef": 0,
                                         "numDiagramsOnRef": 0,
-                                        "orderIndex": 390000,
                                         "reference": "102.6",
                                         "refPrefix": "[A]",
                                         "slug": "scope-and-administration",
@@ -3015,7 +2773,6 @@
                                                 "numAssembliesOnRef": 0,
                                                 "numBuildingProductsOnRef": 0,
                                                 "numDiagramsOnRef": 0,
-                                                "orderIndex": 400000,
                                                 "reference": "102.6.1",
                                                 "refPrefix": "[A]",
                                                 "slug": "scope-and-administration",
@@ -3038,7 +2795,6 @@
                                                 "numAssembliesOnRef": 0,
                                                 "numBuildingProductsOnRef": 0,
                                                 "numDiagramsOnRef": 0,
-                                                "orderIndex": 410000,
                                                 "reference": "102.6.2",
                                                 "refPrefix": "[A]",
                                                 "slug": "scope-and-administration",
@@ -3064,7 +2820,6 @@
                                 "numAssembliesOnRef": 0,
                                 "numBuildingProductsOnRef": 0,
                                 "numDiagramsOnRef": 0,
-                                "orderIndex": 440000,
                                 "reference": "divider_1_2",
                                 "slug": "scope-and-administration",
                                 "titleText": "Administration and Enforcement",
@@ -3084,7 +2839,6 @@
                                 "numAssembliesOnRef": 0,
                                 "numBuildingProductsOnRef": 0,
                                 "numDiagramsOnRef": 0,
-                                "orderIndex": 470000,
                                 "reference": "103",
                                 "slug": "scope-and-administration",
                                 "titleText": "Code Compliance Agency",
@@ -3104,7 +2858,6 @@
                                         "numAssembliesOnRef": 0,
                                         "numBuildingProductsOnRef": 0,
                                         "numDiagramsOnRef": 0,
-                                        "orderIndex": 480000,
                                         "reference": "103.1",
                                         "refPrefix": "[A]",
                                         "slug": "scope-and-administration",
@@ -3126,7 +2879,6 @@
                                         "numAssembliesOnRef": 0,
                                         "numBuildingProductsOnRef": 0,
                                         "numDiagramsOnRef": 0,
-                                        "orderIndex": 500000,
                                         "reference": "103.2",
                                         "refPrefix": "[A]",
                                         "slug": "scope-and-administration",
@@ -3148,7 +2900,6 @@
                                         "numAssembliesOnRef": 0,
                                         "numBuildingProductsOnRef": 0,
                                         "numDiagramsOnRef": 0,
-                                        "orderIndex": 540000,
                                         "reference": "103.3",
                                         "refPrefix": "[A]",
                                         "slug": "scope-and-administration",
@@ -3171,7 +2922,6 @@
                                 "numAssembliesOnRef": 0,
                                 "numBuildingProductsOnRef": 0,
                                 "numDiagramsOnRef": 0,
-                                "orderIndex": 550000,
                                 "reference": "104",
                                 "slug": "scope-and-administration",
                                 "titleText": "Duties and Powers of Building Official",
@@ -3191,7 +2941,6 @@
                                         "numAssembliesOnRef": 0,
                                         "numBuildingProductsOnRef": 0,
                                         "numDiagramsOnRef": 0,
-                                        "orderIndex": 560000,
                                         "reference": "104.1",
                                         "refPrefix": "[A]",
                                         "slug": "scope-and-administration",
@@ -3213,7 +2962,6 @@
                                         "numAssembliesOnRef": 0,
                                         "numBuildingProductsOnRef": 0,
                                         "numDiagramsOnRef": 0,
-                                        "orderIndex": 570000,
                                         "reference": "104.2",
                                         "refPrefix": "[A]",
                                         "slug": "scope-and-administration",
@@ -3235,7 +2983,6 @@
                                                 "numAssembliesOnRef": 0,
                                                 "numBuildingProductsOnRef": 0,
                                                 "numDiagramsOnRef": 0,
-                                                "orderIndex": 580000,
                                                 "reference": "104.2.1",
                                                 "refPrefix": "[A]",
                                                 "slug": "scope-and-administration",
@@ -3258,7 +3005,6 @@
                                                 "numAssembliesOnRef": 0,
                                                 "numBuildingProductsOnRef": 0,
                                                 "numDiagramsOnRef": 0,
-                                                "orderIndex": 590000,
                                                 "reference": "104.2.2",
                                                 "refPrefix": "[A]",
                                                 "slug": "scope-and-administration",
@@ -3281,7 +3027,6 @@
                                                         "numAssembliesOnRef": 0,
                                                         "numBuildingProductsOnRef": 0,
                                                         "numDiagramsOnRef": 0,
-                                                        "orderIndex": 600000,
                                                         "reference": "104.2.2.1",
                                                         "refPrefix": "[A]",
                                                         "slug": "scope-and-administration",
@@ -3305,7 +3050,6 @@
                                                         "numAssembliesOnRef": 0,
                                                         "numBuildingProductsOnRef": 0,
                                                         "numDiagramsOnRef": 0,
-                                                        "orderIndex": 610000,
                                                         "reference": "104.2.2.2",
                                                         "refPrefix": "[A]",
                                                         "slug": "scope-and-administration",
@@ -3329,7 +3073,6 @@
                                                         "numAssembliesOnRef": 0,
                                                         "numBuildingProductsOnRef": 0,
                                                         "numDiagramsOnRef": 0,
-                                                        "orderIndex": 620000,
                                                         "reference": "104.2.2.3",
                                                         "refPrefix": "[A]",
                                                         "slug": "scope-and-administration",
@@ -3353,7 +3096,6 @@
                                                         "numAssembliesOnRef": 0,
                                                         "numBuildingProductsOnRef": 0,
                                                         "numDiagramsOnRef": 0,
-                                                        "orderIndex": 630000,
                                                         "reference": "104.2.2.4",
                                                         "refPrefix": "[A]",
                                                         "slug": "scope-and-administration",
@@ -3378,7 +3120,6 @@
                                                 "numAssembliesOnRef": 0,
                                                 "numBuildingProductsOnRef": 0,
                                                 "numDiagramsOnRef": 0,
-                                                "orderIndex": 640000,
                                                 "reference": "104.2.3",
                                                 "refPrefix": "[A]",
                                                 "slug": "scope-and-administration",
@@ -3401,7 +3142,6 @@
                                                         "numAssembliesOnRef": 0,
                                                         "numBuildingProductsOnRef": 0,
                                                         "numDiagramsOnRef": 0,
-                                                        "orderIndex": 650000,
                                                         "reference": "104.2.3.1",
                                                         "refPrefix": "[A]",
                                                         "slug": "scope-and-administration",
@@ -3425,7 +3165,6 @@
                                                         "numAssembliesOnRef": 0,
                                                         "numBuildingProductsOnRef": 0,
                                                         "numDiagramsOnRef": 0,
-                                                        "orderIndex": 660000,
                                                         "reference": "104.2.3.2",
                                                         "refPrefix": "[A]",
                                                         "slug": "scope-and-administration",
@@ -3449,7 +3188,6 @@
                                                         "numAssembliesOnRef": 0,
                                                         "numBuildingProductsOnRef": 0,
                                                         "numDiagramsOnRef": 0,
-                                                        "orderIndex": 670000,
                                                         "reference": "104.2.3.3",
                                                         "refPrefix": "[A]",
                                                         "slug": "scope-and-administration",
@@ -3473,7 +3211,6 @@
                                                         "numAssembliesOnRef": 0,
                                                         "numBuildingProductsOnRef": 0,
                                                         "numDiagramsOnRef": 0,
-                                                        "orderIndex": 680000,
                                                         "reference": "104.2.3.4",
                                                         "refPrefix": "[A]",
                                                         "slug": "scope-and-administration",
@@ -3497,7 +3234,6 @@
                                                         "numAssembliesOnRef": 0,
                                                         "numBuildingProductsOnRef": 0,
                                                         "numDiagramsOnRef": 0,
-                                                        "orderIndex": 690000,
                                                         "reference": "104.2.3.5",
                                                         "refPrefix": "[A]",
                                                         "slug": "scope-and-administration",
@@ -3521,7 +3257,6 @@
                                                                 "numAssembliesOnRef": 0,
                                                                 "numBuildingProductsOnRef": 0,
                                                                 "numDiagramsOnRef": 0,
-                                                                "orderIndex": 700000,
                                                                 "reference": "104.2.3.5.1",
                                                                 "refPrefix": "[A]",
                                                                 "slug": "scope-and-administration",
@@ -3547,7 +3282,6 @@
                                                         "numAssembliesOnRef": 0,
                                                         "numBuildingProductsOnRef": 0,
                                                         "numDiagramsOnRef": 0,
-                                                        "orderIndex": 710000,
                                                         "reference": "104.2.3.6",
                                                         "refPrefix": "[A]",
                                                         "slug": "scope-and-administration",
@@ -3571,7 +3305,6 @@
                                                                 "numAssembliesOnRef": 0,
                                                                 "numBuildingProductsOnRef": 0,
                                                                 "numDiagramsOnRef": 0,
-                                                                "orderIndex": 720000,
                                                                 "reference": "104.2.3.6.1",
                                                                 "refPrefix": "[A]",
                                                                 "slug": "scope-and-administration",
@@ -3596,7 +3329,6 @@
                                                                 "numAssembliesOnRef": 0,
                                                                 "numBuildingProductsOnRef": 0,
                                                                 "numDiagramsOnRef": 0,
-                                                                "orderIndex": 730000,
                                                                 "reference": "104.2.3.6.2",
                                                                 "refPrefix": "[A]",
                                                                 "slug": "scope-and-administration",
@@ -3622,7 +3354,6 @@
                                                         "numAssembliesOnRef": 0,
                                                         "numBuildingProductsOnRef": 0,
                                                         "numDiagramsOnRef": 0,
-                                                        "orderIndex": 740000,
                                                         "reference": "104.2.3.7",
                                                         "refPrefix": "[A]",
                                                         "slug": "scope-and-administration",
@@ -3647,7 +3378,6 @@
                                                 "numAssembliesOnRef": 0,
                                                 "numBuildingProductsOnRef": 0,
                                                 "numDiagramsOnRef": 0,
-                                                "orderIndex": 750000,
                                                 "reference": "104.2.4",
                                                 "refPrefix": "[A]",
                                                 "slug": "scope-and-administration",
@@ -3670,7 +3400,6 @@
                                                         "numAssembliesOnRef": 0,
                                                         "numBuildingProductsOnRef": 0,
                                                         "numDiagramsOnRef": 0,
-                                                        "orderIndex": 760000,
                                                         "reference": "104.2.4.1",
                                                         "refPrefix": "[A]",
                                                         "slug": "scope-and-administration",
@@ -3696,7 +3425,6 @@
                                         "numAssembliesOnRef": 0,
                                         "numBuildingProductsOnRef": 0,
                                         "numDiagramsOnRef": 0,
-                                        "orderIndex": 830000,
                                         "reference": "104.3",
                                         "refPrefix": "[A]",
                                         "slug": "scope-and-administration",
@@ -3738,7 +3466,6 @@
                                                 "numAssembliesOnRef": 0,
                                                 "numBuildingProductsOnRef": 0,
                                                 "numDiagramsOnRef": 1,
-                                                "orderIndex": 840000,
                                                 "reference": "104.3.1",
                                                 "refPrefix": "[A]",
                                                 "slug": "scope-and-administration",
@@ -3762,7 +3489,6 @@
                                         "numAssembliesOnRef": 0,
                                         "numBuildingProductsOnRef": 0,
                                         "numDiagramsOnRef": 0,
-                                        "orderIndex": 850000,
                                         "reference": "104.4",
                                         "refPrefix": "[A]",
                                         "slug": "scope-and-administration",
@@ -3784,7 +3510,6 @@
                                                 "numAssembliesOnRef": 0,
                                                 "numBuildingProductsOnRef": 0,
                                                 "numDiagramsOnRef": 0,
-                                                "orderIndex": 860000,
                                                 "reference": "104.4.1",
                                                 "refPrefix": "[A]",
                                                 "slug": "scope-and-administration",
@@ -3808,7 +3533,6 @@
                                         "numAssembliesOnRef": 0,
                                         "numBuildingProductsOnRef": 0,
                                         "numDiagramsOnRef": 0,
-                                        "orderIndex": 870000,
                                         "reference": "104.5",
                                         "refPrefix": "[A]",
                                         "slug": "scope-and-administration",
@@ -3830,7 +3554,6 @@
                                         "numAssembliesOnRef": 0,
                                         "numBuildingProductsOnRef": 0,
                                         "numDiagramsOnRef": 0,
-                                        "orderIndex": 880000,
                                         "reference": "104.6",
                                         "refPrefix": "[A]",
                                         "slug": "scope-and-administration",
@@ -3852,7 +3575,6 @@
                                         "numAssembliesOnRef": 0,
                                         "numBuildingProductsOnRef": 0,
                                         "numDiagramsOnRef": 0,
-                                        "orderIndex": 890000,
                                         "reference": "104.7",
                                         "refPrefix": "[A]",
                                         "slug": "scope-and-administration",
@@ -3874,7 +3596,6 @@
                                                 "numAssembliesOnRef": 0,
                                                 "numBuildingProductsOnRef": 0,
                                                 "numDiagramsOnRef": 0,
-                                                "orderIndex": 900000,
                                                 "reference": "104.7.1",
                                                 "refPrefix": "[A]",
                                                 "slug": "scope-and-administration",
@@ -3897,7 +3618,6 @@
                                                 "numAssembliesOnRef": 0,
                                                 "numBuildingProductsOnRef": 0,
                                                 "numDiagramsOnRef": 0,
-                                                "orderIndex": 910000,
                                                 "reference": "104.7.2",
                                                 "refPrefix": "[A]",
                                                 "slug": "scope-and-administration",
@@ -3920,7 +3640,6 @@
                                                 "numAssembliesOnRef": 0,
                                                 "numBuildingProductsOnRef": 0,
                                                 "numDiagramsOnRef": 0,
-                                                "orderIndex": 920000,
                                                 "reference": "104.7.3",
                                                 "refPrefix": "[A]",
                                                 "slug": "scope-and-administration",
@@ -3943,7 +3662,6 @@
                                                 "numAssembliesOnRef": 0,
                                                 "numBuildingProductsOnRef": 0,
                                                 "numDiagramsOnRef": 0,
-                                                "orderIndex": 930000,
                                                 "reference": "104.7.4",
                                                 "refPrefix": "[A]",
                                                 "slug": "scope-and-administration",
@@ -3966,7 +3684,6 @@
                                                 "numAssembliesOnRef": 0,
                                                 "numBuildingProductsOnRef": 0,
                                                 "numDiagramsOnRef": 0,
-                                                "orderIndex": 940000,
                                                 "reference": "104.7.5",
                                                 "refPrefix": "[A]",
                                                 "slug": "scope-and-administration",
@@ -3990,7 +3707,6 @@
                                         "numAssembliesOnRef": 0,
                                         "numBuildingProductsOnRef": 0,
                                         "numDiagramsOnRef": 0,
-                                        "orderIndex": 950000,
                                         "reference": "104.8",
                                         "refPrefix": "[A]",
                                         "slug": "scope-and-administration",
@@ -4012,7 +3728,6 @@
                                                 "numAssembliesOnRef": 0,
                                                 "numBuildingProductsOnRef": 0,
                                                 "numDiagramsOnRef": 0,
-                                                "orderIndex": 960000,
                                                 "reference": "104.8.1",
                                                 "refPrefix": "[A]",
                                                 "slug": "scope-and-administration",
@@ -4036,7 +3751,6 @@
                                         "numAssembliesOnRef": 0,
                                         "numBuildingProductsOnRef": 0,
                                         "numDiagramsOnRef": 0,
-                                        "orderIndex": 970000,
                                         "reference": "104.9",
                                         "refPrefix": "[A]",
                                         "slug": "scope-and-administration",
@@ -4058,7 +3772,6 @@
                                                 "numAssembliesOnRef": 0,
                                                 "numBuildingProductsOnRef": 0,
                                                 "numDiagramsOnRef": 0,
-                                                "orderIndex": 980000,
                                                 "reference": "104.9.1",
                                                 "refPrefix": "[A]",
                                                 "slug": "scope-and-administration",
@@ -4083,7 +3796,6 @@
                                 "numAssembliesOnRef": 0,
                                 "numBuildingProductsOnRef": 0,
                                 "numDiagramsOnRef": 0,
-                                "orderIndex": 1160000,
                                 "reference": "105",
                                 "slug": "scope-and-administration",
                                 "titleText": "Permits",
@@ -4103,7 +3815,6 @@
                                         "numAssembliesOnRef": 0,
                                         "numBuildingProductsOnRef": 0,
                                         "numDiagramsOnRef": 0,
-                                        "orderIndex": 1170000,
                                         "reference": "105.1",
                                         "refPrefix": "[A]",
                                         "slug": "scope-and-administration",
@@ -4125,7 +3836,6 @@
                                                 "numAssembliesOnRef": 0,
                                                 "numBuildingProductsOnRef": 0,
                                                 "numDiagramsOnRef": 0,
-                                                "orderIndex": 1180000,
                                                 "reference": "105.1.1",
                                                 "refPrefix": "[A]",
                                                 "slug": "scope-and-administration",
@@ -4148,7 +3858,6 @@
                                                 "numAssembliesOnRef": 0,
                                                 "numBuildingProductsOnRef": 0,
                                                 "numDiagramsOnRef": 0,
-                                                "orderIndex": 1210000,
                                                 "reference": "105.1.2",
                                                 "refPrefix": "[A]",
                                                 "slug": "scope-and-administration",
@@ -4172,7 +3881,6 @@
                                         "numAssembliesOnRef": 0,
                                         "numBuildingProductsOnRef": 0,
                                         "numDiagramsOnRef": 0,
-                                        "orderIndex": 1260000,
                                         "reference": "105.2",
                                         "refPrefix": "[A]",
                                         "slug": "scope-and-administration",
@@ -4194,7 +3902,6 @@
                                                 "numAssembliesOnRef": 0,
                                                 "numBuildingProductsOnRef": 0,
                                                 "numDiagramsOnRef": 0,
-                                                "orderIndex": 1270000,
                                                 "reference": "105.2.1",
                                                 "refPrefix": "[A]",
                                                 "slug": "scope-and-administration",
@@ -4217,7 +3924,6 @@
                                                 "numAssembliesOnRef": 0,
                                                 "numBuildingProductsOnRef": 0,
                                                 "numDiagramsOnRef": 0,
-                                                "orderIndex": 1280000,
                                                 "reference": "105.2.2",
                                                 "refPrefix": "[A]",
                                                 "slug": "scope-and-administration",
@@ -4241,7 +3947,6 @@
                                         "numAssembliesOnRef": 0,
                                         "numBuildingProductsOnRef": 0,
                                         "numDiagramsOnRef": 0,
-                                        "orderIndex": 1300000,
                                         "reference": "105.3",
                                         "refPrefix": "[A]",
                                         "slug": "scope-and-administration",
@@ -4263,7 +3968,6 @@
                                                 "numAssembliesOnRef": 0,
                                                 "numBuildingProductsOnRef": 0,
                                                 "numDiagramsOnRef": 0,
-                                                "orderIndex": 1310000,
                                                 "reference": "105.3.1",
                                                 "refPrefix": "[A]",
                                                 "slug": "scope-and-administration",
@@ -4286,7 +3990,6 @@
                                                 "numAssembliesOnRef": 0,
                                                 "numBuildingProductsOnRef": 0,
                                                 "numDiagramsOnRef": 0,
-                                                "orderIndex": 1330000,
                                                 "reference": "105.3.2",
                                                 "refPrefix": "[A]",
                                                 "slug": "scope-and-administration",
@@ -4310,7 +4013,6 @@
                                         "numAssembliesOnRef": 0,
                                         "numBuildingProductsOnRef": 0,
                                         "numDiagramsOnRef": 0,
-                                        "orderIndex": 1350000,
                                         "reference": "105.4",
                                         "refPrefix": "[A]",
                                         "slug": "scope-and-administration",
@@ -4332,7 +4034,6 @@
                                         "numAssembliesOnRef": 0,
                                         "numBuildingProductsOnRef": 0,
                                         "numDiagramsOnRef": 0,
-                                        "orderIndex": 1360000,
                                         "reference": "105.5",
                                         "refPrefix": "[A]",
                                         "slug": "scope-and-administration",
@@ -4354,7 +4055,6 @@
                                         "numAssembliesOnRef": 0,
                                         "numBuildingProductsOnRef": 0,
                                         "numDiagramsOnRef": 0,
-                                        "orderIndex": 1410000,
                                         "reference": "105.6",
                                         "refPrefix": "[A]",
                                         "slug": "scope-and-administration",
@@ -4376,7 +4076,6 @@
                                         "numAssembliesOnRef": 0,
                                         "numBuildingProductsOnRef": 0,
                                         "numDiagramsOnRef": 0,
-                                        "orderIndex": 1420000,
                                         "reference": "105.7",
                                         "refPrefix": "[A]",
                                         "slug": "scope-and-administration",
@@ -4399,7 +4098,6 @@
                                 "numAssembliesOnRef": 0,
                                 "numBuildingProductsOnRef": 0,
                                 "numDiagramsOnRef": 0,
-                                "orderIndex": 1690000,
                                 "reference": "106",
                                 "slug": "scope-and-administration",
                                 "titleText": "Floor and Roof Design Loads",
@@ -4419,7 +4117,6 @@
                                         "numAssembliesOnRef": 0,
                                         "numBuildingProductsOnRef": 0,
                                         "numDiagramsOnRef": 0,
-                                        "orderIndex": 1700000,
                                         "reference": "106.1",
                                         "refPrefix": "[A]",
                                         "slug": "scope-and-administration",
@@ -4441,7 +4138,6 @@
                                         "numAssembliesOnRef": 0,
                                         "numBuildingProductsOnRef": 0,
                                         "numDiagramsOnRef": 0,
-                                        "orderIndex": 1710000,
                                         "reference": "106.2",
                                         "refPrefix": "[A]",
                                         "slug": "scope-and-administration",
@@ -4463,7 +4159,6 @@
                                         "numAssembliesOnRef": 0,
                                         "numBuildingProductsOnRef": 0,
                                         "numDiagramsOnRef": 0,
-                                        "orderIndex": 1720000,
                                         "reference": "106.3",
                                         "refPrefix": "[A]",
                                         "slug": "scope-and-administration",
@@ -4486,7 +4181,6 @@
                                 "numAssembliesOnRef": 0,
                                 "numBuildingProductsOnRef": 0,
                                 "numDiagramsOnRef": 0,
-                                "orderIndex": 1730000,
                                 "reference": "107",
                                 "slug": "scope-and-administration",
                                 "titleText": "Construction Documents",
@@ -4506,7 +4200,6 @@
                                         "numAssembliesOnRef": 0,
                                         "numBuildingProductsOnRef": 0,
                                         "numDiagramsOnRef": 0,
-                                        "orderIndex": 1740000,
                                         "reference": "107.1",
                                         "refPrefix": "[A]",
                                         "slug": "scope-and-administration",
@@ -4528,7 +4221,6 @@
                                         "numAssembliesOnRef": 0,
                                         "numBuildingProductsOnRef": 0,
                                         "numDiagramsOnRef": 0,
-                                        "orderIndex": 1750000,
                                         "reference": "107.2",
                                         "refPrefix": "[A]",
                                         "slug": "scope-and-administration",
@@ -4550,7 +4242,6 @@
                                                 "numAssembliesOnRef": 0,
                                                 "numBuildingProductsOnRef": 0,
                                                 "numDiagramsOnRef": 0,
-                                                "orderIndex": 1760000,
                                                 "reference": "107.2.1",
                                                 "refPrefix": "[A]",
                                                 "slug": "scope-and-administration",
@@ -4573,7 +4264,6 @@
                                                 "numAssembliesOnRef": 0,
                                                 "numBuildingProductsOnRef": 0,
                                                 "numDiagramsOnRef": 0,
-                                                "orderIndex": 1780000,
                                                 "reference": "107.2.2",
                                                 "refPrefix": "[A]",
                                                 "slug": "scope-and-administration",
@@ -4596,7 +4286,6 @@
                                                 "numAssembliesOnRef": 0,
                                                 "numBuildingProductsOnRef": 0,
                                                 "numDiagramsOnRef": 0,
-                                                "orderIndex": 1790000,
                                                 "reference": "107.2.3",
                                                 "refPrefix": "[A]",
                                                 "slug": "scope-and-administration",
@@ -4647,6 +4336,23 @@
                                                         "blacklistJurisdictions": [],
                                                         "whitelistJurisdictions": [],
                                                         "imageType": "svg"
+                                                    },
+                                                    {
+                                                        "key": "ext_wall_assembly_def",
+                                                        "title": "Exterior Wall Assembly / Envelope",
+                                                        "descriptionHtml": "",
+                                                        "topics": [
+                                                            "Definition",
+                                                            "Wall",
+                                                            "Exterior"
+                                                        ],
+                                                        "phases": [
+                                                            "Construction Docs"
+                                                        ],
+                                                        "supressesChildrenAssociations": false,
+                                                        "blacklistJurisdictions": [],
+                                                        "whitelistJurisdictions": [],
+                                                        "imageType": "svg"
                                                     }
                                                 ],
                                                 "displayRef": null,
@@ -4657,8 +4363,7 @@
                                                 "isContiguous": true,
                                                 "numAssembliesOnRef": 0,
                                                 "numBuildingProductsOnRef": 0,
-                                                "numDiagramsOnRef": 2,
-                                                "orderIndex": 1800000,
+                                                "numDiagramsOnRef": 3,
                                                 "reference": "107.2.4",
                                                 "refPrefix": "[A]",
                                                 "slug": "scope-and-administration",
@@ -4681,7 +4386,6 @@
                                                 "numAssembliesOnRef": 0,
                                                 "numBuildingProductsOnRef": 0,
                                                 "numDiagramsOnRef": 0,
-                                                "orderIndex": 1810000,
                                                 "reference": "107.2.5",
                                                 "refPrefix": "[A]",
                                                 "slug": "scope-and-administration",
@@ -4728,7 +4432,6 @@
                                                 "numAssembliesOnRef": 0,
                                                 "numBuildingProductsOnRef": 0,
                                                 "numDiagramsOnRef": 1,
-                                                "orderIndex": 1820000,
                                                 "reference": "107.2.6",
                                                 "refPrefix": "[A]",
                                                 "slug": "scope-and-administration",
@@ -4752,7 +4455,6 @@
                                                         "numAssembliesOnRef": 0,
                                                         "numBuildingProductsOnRef": 0,
                                                         "numDiagramsOnRef": 0,
-                                                        "orderIndex": 1830000,
                                                         "reference": "107.2.6.1",
                                                         "refPrefix": "[A]",
                                                         "slug": "scope-and-administration",
@@ -4777,7 +4479,6 @@
                                                 "numAssembliesOnRef": 0,
                                                 "numBuildingProductsOnRef": 0,
                                                 "numDiagramsOnRef": 0,
-                                                "orderIndex": 1850000,
                                                 "reference": "107.2.7",
                                                 "refPrefix": "[A]",
                                                 "slug": "scope-and-administration",
@@ -4800,7 +4501,6 @@
                                                 "numAssembliesOnRef": 0,
                                                 "numBuildingProductsOnRef": 0,
                                                 "numDiagramsOnRef": 0,
-                                                "orderIndex": 1860000,
                                                 "reference": "107.2.8",
                                                 "refPrefix": "[A]",
                                                 "slug": "scope-and-administration",
@@ -4824,7 +4524,6 @@
                                         "numAssembliesOnRef": 0,
                                         "numBuildingProductsOnRef": 0,
                                         "numDiagramsOnRef": 0,
-                                        "orderIndex": 1890000,
                                         "reference": "107.3",
                                         "refPrefix": "[A]",
                                         "slug": "scope-and-administration",
@@ -4846,7 +4545,6 @@
                                                 "numAssembliesOnRef": 0,
                                                 "numBuildingProductsOnRef": 0,
                                                 "numDiagramsOnRef": 0,
-                                                "orderIndex": 1900000,
                                                 "reference": "107.3.1",
                                                 "refPrefix": "[A]",
                                                 "slug": "scope-and-administration",
@@ -4869,7 +4567,6 @@
                                                 "numAssembliesOnRef": 0,
                                                 "numBuildingProductsOnRef": 0,
                                                 "numDiagramsOnRef": 0,
-                                                "orderIndex": 1910000,
                                                 "reference": "107.3.2",
                                                 "refPrefix": "[A]",
                                                 "slug": "scope-and-administration",
@@ -4892,7 +4589,6 @@
                                                 "numAssembliesOnRef": 0,
                                                 "numBuildingProductsOnRef": 0,
                                                 "numDiagramsOnRef": 0,
-                                                "orderIndex": 1920000,
                                                 "reference": "107.3.3",
                                                 "refPrefix": "[A]",
                                                 "slug": "scope-and-administration",
@@ -4915,7 +4611,6 @@
                                                 "numAssembliesOnRef": 0,
                                                 "numBuildingProductsOnRef": 0,
                                                 "numDiagramsOnRef": 0,
-                                                "orderIndex": 1930000,
                                                 "reference": "107.3.4",
                                                 "refPrefix": "[A]",
                                                 "slug": "scope-and-administration",
@@ -4938,7 +4633,6 @@
                                                         "numAssembliesOnRef": 0,
                                                         "numBuildingProductsOnRef": 0,
                                                         "numDiagramsOnRef": 0,
-                                                        "orderIndex": 1940000,
                                                         "reference": "107.3.4.1",
                                                         "refPrefix": "[A]",
                                                         "slug": "scope-and-administration",
@@ -4964,7 +4658,6 @@
                                         "numAssembliesOnRef": 0,
                                         "numBuildingProductsOnRef": 0,
                                         "numDiagramsOnRef": 0,
-                                        "orderIndex": 1950000,
                                         "reference": "107.4",
                                         "refPrefix": "[A]",
                                         "slug": "scope-and-administration",
@@ -4986,7 +4679,6 @@
                                         "numAssembliesOnRef": 0,
                                         "numBuildingProductsOnRef": 0,
                                         "numDiagramsOnRef": 0,
-                                        "orderIndex": 1960000,
                                         "reference": "107.5",
                                         "refPrefix": "[A]",
                                         "slug": "scope-and-administration",
@@ -5009,7 +4701,6 @@
                                 "numAssembliesOnRef": 0,
                                 "numBuildingProductsOnRef": 0,
                                 "numDiagramsOnRef": 0,
-                                "orderIndex": 2050000,
                                 "reference": "108",
                                 "slug": "scope-and-administration",
                                 "titleText": "Temporary Structures, Equipment and Systems",
@@ -5029,7 +4720,6 @@
                                         "numAssembliesOnRef": 0,
                                         "numBuildingProductsOnRef": 0,
                                         "numDiagramsOnRef": 0,
-                                        "orderIndex": 2060000,
                                         "reference": "108.1",
                                         "refPrefix": "[A]",
                                         "slug": "scope-and-administration",
@@ -5051,7 +4741,6 @@
                                         "numAssembliesOnRef": 0,
                                         "numBuildingProductsOnRef": 0,
                                         "numDiagramsOnRef": 0,
-                                        "orderIndex": 2070000,
                                         "reference": "108.2",
                                         "refPrefix": "[A]",
                                         "slug": "scope-and-administration",
@@ -5073,7 +4762,6 @@
                                         "numAssembliesOnRef": 0,
                                         "numBuildingProductsOnRef": 0,
                                         "numDiagramsOnRef": 0,
-                                        "orderIndex": 2080000,
                                         "reference": "108.3",
                                         "refPrefix": "[A]",
                                         "slug": "scope-and-administration",
@@ -5095,7 +4783,6 @@
                                         "numAssembliesOnRef": 0,
                                         "numBuildingProductsOnRef": 0,
                                         "numDiagramsOnRef": 0,
-                                        "orderIndex": 2090000,
                                         "reference": "108.4",
                                         "refPrefix": "[A]",
                                         "slug": "scope-and-administration",
@@ -5118,7 +4805,6 @@
                                 "numAssembliesOnRef": 0,
                                 "numBuildingProductsOnRef": 0,
                                 "numDiagramsOnRef": 0,
-                                "orderIndex": 2360000,
                                 "reference": "109",
                                 "slug": "scope-and-administration",
                                 "titleText": "Fees",
@@ -5138,7 +4824,6 @@
                                         "numAssembliesOnRef": 0,
                                         "numBuildingProductsOnRef": 0,
                                         "numDiagramsOnRef": 0,
-                                        "orderIndex": 2370000,
                                         "reference": "109.1",
                                         "refPrefix": "[A]",
                                         "slug": "scope-and-administration",
@@ -5160,7 +4845,6 @@
                                         "numAssembliesOnRef": 0,
                                         "numBuildingProductsOnRef": 0,
                                         "numDiagramsOnRef": 0,
-                                        "orderIndex": 2380000,
                                         "reference": "109.2",
                                         "refPrefix": "[A]",
                                         "slug": "scope-and-administration",
@@ -5182,7 +4866,6 @@
                                         "numAssembliesOnRef": 0,
                                         "numBuildingProductsOnRef": 0,
                                         "numDiagramsOnRef": 0,
-                                        "orderIndex": 2400000,
                                         "reference": "109.3",
                                         "refPrefix": "[A]",
                                         "slug": "scope-and-administration",
@@ -5204,7 +4887,6 @@
                                         "numAssembliesOnRef": 0,
                                         "numBuildingProductsOnRef": 0,
                                         "numDiagramsOnRef": 0,
-                                        "orderIndex": 2410000,
                                         "reference": "109.4",
                                         "refPrefix": "[A]",
                                         "slug": "scope-and-administration",
@@ -5226,7 +4908,6 @@
                                         "numAssembliesOnRef": 0,
                                         "numBuildingProductsOnRef": 0,
                                         "numDiagramsOnRef": 0,
-                                        "orderIndex": 2420000,
                                         "reference": "109.5",
                                         "refPrefix": "[A]",
                                         "slug": "scope-and-administration",
@@ -5248,7 +4929,6 @@
                                         "numAssembliesOnRef": 0,
                                         "numBuildingProductsOnRef": 0,
                                         "numDiagramsOnRef": 0,
-                                        "orderIndex": 2440000,
                                         "reference": "109.6",
                                         "refPrefix": "[A]",
                                         "slug": "scope-and-administration",
@@ -5271,7 +4951,6 @@
                                 "numAssembliesOnRef": 0,
                                 "numBuildingProductsOnRef": 0,
                                 "numDiagramsOnRef": 0,
-                                "orderIndex": 2470000,
                                 "reference": "110",
                                 "slug": "scope-and-administration",
                                 "titleText": "Inspections",
@@ -5291,7 +4970,6 @@
                                         "numAssembliesOnRef": 0,
                                         "numBuildingProductsOnRef": 0,
                                         "numDiagramsOnRef": 0,
-                                        "orderIndex": 2480000,
                                         "reference": "110.1",
                                         "refPrefix": "[A]",
                                         "slug": "scope-and-administration",
@@ -5313,7 +4991,6 @@
                                         "numAssembliesOnRef": 0,
                                         "numBuildingProductsOnRef": 0,
                                         "numDiagramsOnRef": 0,
-                                        "orderIndex": 2490000,
                                         "reference": "110.2",
                                         "refPrefix": "[A]",
                                         "slug": "scope-and-administration",
@@ -5335,7 +5012,6 @@
                                         "numAssembliesOnRef": 0,
                                         "numBuildingProductsOnRef": 0,
                                         "numDiagramsOnRef": 0,
-                                        "orderIndex": 2500000,
                                         "reference": "110.3",
                                         "refPrefix": "[A]",
                                         "slug": "scope-and-administration",
@@ -5357,7 +5033,6 @@
                                                 "numAssembliesOnRef": 0,
                                                 "numBuildingProductsOnRef": 0,
                                                 "numDiagramsOnRef": 0,
-                                                "orderIndex": 2510000,
                                                 "reference": "110.3.1",
                                                 "refPrefix": "[A]",
                                                 "slug": "scope-and-administration",
@@ -5380,7 +5055,6 @@
                                                 "numAssembliesOnRef": 0,
                                                 "numBuildingProductsOnRef": 0,
                                                 "numDiagramsOnRef": 0,
-                                                "orderIndex": 2520000,
                                                 "reference": "110.3.2",
                                                 "refPrefix": "[A]",
                                                 "slug": "scope-and-administration",
@@ -5444,7 +5118,6 @@
                                                 "numAssembliesOnRef": 0,
                                                 "numBuildingProductsOnRef": 0,
                                                 "numDiagramsOnRef": 2,
-                                                "orderIndex": 2530000,
                                                 "reference": "110.3.3",
                                                 "refPrefix": "[A]",
                                                 "slug": "scope-and-administration",
@@ -5467,7 +5140,6 @@
                                                 "numAssembliesOnRef": 0,
                                                 "numBuildingProductsOnRef": 0,
                                                 "numDiagramsOnRef": 0,
-                                                "orderIndex": 2540000,
                                                 "reference": "110.3.4",
                                                 "refPrefix": "[A]",
                                                 "slug": "scope-and-administration",
@@ -5490,7 +5162,6 @@
                                                 "numAssembliesOnRef": 0,
                                                 "numBuildingProductsOnRef": 0,
                                                 "numDiagramsOnRef": 0,
-                                                "orderIndex": 2550000,
                                                 "reference": "110.3.5",
                                                 "refPrefix": "[A]",
                                                 "slug": "scope-and-administration",
@@ -5513,7 +5184,6 @@
                                                 "numAssembliesOnRef": 0,
                                                 "numBuildingProductsOnRef": 0,
                                                 "numDiagramsOnRef": 0,
-                                                "orderIndex": 2560000,
                                                 "reference": "110.3.6",
                                                 "refPrefix": "[A]",
                                                 "slug": "scope-and-administration",
@@ -5556,7 +5226,6 @@
                                                 "numAssembliesOnRef": 0,
                                                 "numBuildingProductsOnRef": 0,
                                                 "numDiagramsOnRef": 1,
-                                                "orderIndex": 2570000,
                                                 "reference": "110.3.7",
                                                 "refPrefix": "[A]",
                                                 "slug": "scope-and-administration",
@@ -5600,7 +5269,6 @@
                                                 "numAssembliesOnRef": 0,
                                                 "numBuildingProductsOnRef": 0,
                                                 "numDiagramsOnRef": 1,
-                                                "orderIndex": 2580000,
                                                 "reference": "110.3.8",
                                                 "refPrefix": "[A]",
                                                 "slug": "scope-and-administration",
@@ -5623,7 +5291,6 @@
                                                 "numAssembliesOnRef": 0,
                                                 "numBuildingProductsOnRef": 0,
                                                 "numDiagramsOnRef": 0,
-                                                "orderIndex": 2590000,
                                                 "reference": "110.3.9",
                                                 "refPrefix": "[A]",
                                                 "slug": "scope-and-administration",
@@ -5646,7 +5313,6 @@
                                                 "numAssembliesOnRef": 0,
                                                 "numBuildingProductsOnRef": 0,
                                                 "numDiagramsOnRef": 0,
-                                                "orderIndex": 2600000,
                                                 "reference": "110.3.10",
                                                 "refPrefix": "[A]",
                                                 "slug": "scope-and-administration",
@@ -5669,7 +5335,6 @@
                                                 "numAssembliesOnRef": 0,
                                                 "numBuildingProductsOnRef": 0,
                                                 "numDiagramsOnRef": 0,
-                                                "orderIndex": 2630000,
                                                 "reference": "110.3.11",
                                                 "refPrefix": "[A]",
                                                 "slug": "scope-and-administration",
@@ -5692,7 +5357,6 @@
                                                 "numAssembliesOnRef": 0,
                                                 "numBuildingProductsOnRef": 0,
                                                 "numDiagramsOnRef": 0,
-                                                "orderIndex": 2640000,
                                                 "reference": "110.3.12",
                                                 "refPrefix": "[A]",
                                                 "slug": "scope-and-administration",
@@ -5715,7 +5379,6 @@
                                                         "numAssembliesOnRef": 0,
                                                         "numBuildingProductsOnRef": 0,
                                                         "numDiagramsOnRef": 0,
-                                                        "orderIndex": 2650000,
                                                         "reference": "110.3.12.1",
                                                         "refPrefix": "[A]",
                                                         "slug": "scope-and-administration",
@@ -5741,7 +5404,6 @@
                                         "numAssembliesOnRef": 0,
                                         "numBuildingProductsOnRef": 0,
                                         "numDiagramsOnRef": 0,
-                                        "orderIndex": 2660000,
                                         "reference": "110.4",
                                         "refPrefix": "[A]",
                                         "slug": "scope-and-administration",
@@ -5763,7 +5425,6 @@
                                         "numAssembliesOnRef": 0,
                                         "numBuildingProductsOnRef": 0,
                                         "numDiagramsOnRef": 0,
-                                        "orderIndex": 2670000,
                                         "reference": "110.5",
                                         "refPrefix": "[A]",
                                         "slug": "scope-and-administration",
@@ -5785,7 +5446,6 @@
                                         "numAssembliesOnRef": 0,
                                         "numBuildingProductsOnRef": 0,
                                         "numDiagramsOnRef": 0,
-                                        "orderIndex": 2680000,
                                         "reference": "110.6",
                                         "refPrefix": "[A]",
                                         "slug": "scope-and-administration",
@@ -5808,7 +5468,6 @@
                                 "numAssembliesOnRef": 0,
                                 "numBuildingProductsOnRef": 0,
                                 "numDiagramsOnRef": 0,
-                                "orderIndex": 2690000,
                                 "reference": "111",
                                 "slug": "scope-and-administration",
                                 "titleText": "Certificate of Occupancy",
@@ -5828,7 +5487,6 @@
                                         "numAssembliesOnRef": 0,
                                         "numBuildingProductsOnRef": 0,
                                         "numDiagramsOnRef": 0,
-                                        "orderIndex": 2700000,
                                         "reference": "111.1",
                                         "refPrefix": "[A]",
                                         "slug": "scope-and-administration",
@@ -5850,7 +5508,6 @@
                                         "numAssembliesOnRef": 0,
                                         "numBuildingProductsOnRef": 0,
                                         "numDiagramsOnRef": 0,
-                                        "orderIndex": 2740000,
                                         "reference": "111.2",
                                         "refPrefix": "[A]",
                                         "slug": "scope-and-administration",
@@ -5872,7 +5529,6 @@
                                         "numAssembliesOnRef": 0,
                                         "numBuildingProductsOnRef": 0,
                                         "numDiagramsOnRef": 0,
-                                        "orderIndex": 2750000,
                                         "reference": "111.3",
                                         "refPrefix": "[A]",
                                         "slug": "scope-and-administration",
@@ -5894,7 +5550,6 @@
                                         "numAssembliesOnRef": 0,
                                         "numBuildingProductsOnRef": 0,
                                         "numDiagramsOnRef": 0,
-                                        "orderIndex": 2780000,
                                         "reference": "111.4",
                                         "refPrefix": "[A]",
                                         "slug": "scope-and-administration",
@@ -5917,7 +5572,6 @@
                                 "numAssembliesOnRef": 0,
                                 "numBuildingProductsOnRef": 0,
                                 "numDiagramsOnRef": 0,
-                                "orderIndex": 2790000,
                                 "reference": "112",
                                 "slug": "scope-and-administration",
                                 "titleText": "Service Utilities",
@@ -5937,7 +5591,6 @@
                                         "numAssembliesOnRef": 0,
                                         "numBuildingProductsOnRef": 0,
                                         "numDiagramsOnRef": 0,
-                                        "orderIndex": 2800000,
                                         "reference": "112.1",
                                         "refPrefix": "[A]",
                                         "slug": "scope-and-administration",
@@ -5959,7 +5612,6 @@
                                         "numAssembliesOnRef": 0,
                                         "numBuildingProductsOnRef": 0,
                                         "numDiagramsOnRef": 0,
-                                        "orderIndex": 2810000,
                                         "reference": "112.2",
                                         "refPrefix": "[A]",
                                         "slug": "scope-and-administration",
@@ -5981,7 +5633,6 @@
                                         "numAssembliesOnRef": 0,
                                         "numBuildingProductsOnRef": 0,
                                         "numDiagramsOnRef": 0,
-                                        "orderIndex": 2820000,
                                         "reference": "112.3",
                                         "refPrefix": "[A]",
                                         "slug": "scope-and-administration",
@@ -6004,7 +5655,6 @@
                                 "numAssembliesOnRef": 0,
                                 "numBuildingProductsOnRef": 0,
                                 "numDiagramsOnRef": 0,
-                                "orderIndex": 2840000,
                                 "reference": "113",
                                 "slug": "scope-and-administration",
                                 "titleText": "Means of Appeals",
@@ -6024,7 +5674,6 @@
                                         "numAssembliesOnRef": 0,
                                         "numBuildingProductsOnRef": 0,
                                         "numDiagramsOnRef": 0,
-                                        "orderIndex": 2850000,
                                         "reference": "113.1",
                                         "refPrefix": "[A]",
                                         "slug": "scope-and-administration",
@@ -6046,7 +5695,6 @@
                                         "numAssembliesOnRef": 0,
                                         "numBuildingProductsOnRef": 0,
                                         "numDiagramsOnRef": 0,
-                                        "orderIndex": 2860000,
                                         "reference": "113.2",
                                         "refPrefix": "[A]",
                                         "slug": "scope-and-administration",
@@ -6068,7 +5716,6 @@
                                         "numAssembliesOnRef": 0,
                                         "numBuildingProductsOnRef": 0,
                                         "numDiagramsOnRef": 0,
-                                        "orderIndex": 2880000,
                                         "reference": "113.3",
                                         "refPrefix": "[A]",
                                         "slug": "scope-and-administration",
@@ -6090,7 +5737,6 @@
                                         "numAssembliesOnRef": 0,
                                         "numBuildingProductsOnRef": 0,
                                         "numDiagramsOnRef": 0,
-                                        "orderIndex": 2890000,
                                         "reference": "113.4",
                                         "refPrefix": "[A]",
                                         "slug": "scope-and-administration",
@@ -6113,7 +5759,6 @@
                                 "numAssembliesOnRef": 0,
                                 "numBuildingProductsOnRef": 0,
                                 "numDiagramsOnRef": 0,
-                                "orderIndex": 2930000,
                                 "reference": "114",
                                 "slug": "scope-and-administration",
                                 "titleText": "Violations",
@@ -6133,7 +5778,6 @@
                                         "numAssembliesOnRef": 0,
                                         "numBuildingProductsOnRef": 0,
                                         "numDiagramsOnRef": 0,
-                                        "orderIndex": 2940000,
                                         "reference": "114.1",
                                         "refPrefix": "[A]",
                                         "slug": "scope-and-administration",
@@ -6155,7 +5799,6 @@
                                         "numAssembliesOnRef": 0,
                                         "numBuildingProductsOnRef": 0,
                                         "numDiagramsOnRef": 0,
-                                        "orderIndex": 3120000,
                                         "reference": "114.2",
                                         "refPrefix": "[A]",
                                         "slug": "scope-and-administration",
@@ -6177,7 +5820,6 @@
                                         "numAssembliesOnRef": 0,
                                         "numBuildingProductsOnRef": 0,
                                         "numDiagramsOnRef": 0,
-                                        "orderIndex": 3140000,
                                         "reference": "114.3",
                                         "refPrefix": "[A]",
                                         "slug": "scope-and-administration",
@@ -6199,7 +5841,6 @@
                                         "numAssembliesOnRef": 0,
                                         "numBuildingProductsOnRef": 0,
                                         "numDiagramsOnRef": 0,
-                                        "orderIndex": 3150000,
                                         "reference": "114.4",
                                         "refPrefix": "[A]",
                                         "slug": "scope-and-administration",
@@ -6222,7 +5863,6 @@
                                 "numAssembliesOnRef": 0,
                                 "numBuildingProductsOnRef": 0,
                                 "numDiagramsOnRef": 0,
-                                "orderIndex": 3180000,
                                 "reference": "115",
                                 "slug": "scope-and-administration",
                                 "titleText": "Stop Work Order",
@@ -6242,7 +5882,6 @@
                                         "numAssembliesOnRef": 0,
                                         "numBuildingProductsOnRef": 0,
                                         "numDiagramsOnRef": 0,
-                                        "orderIndex": 3190000,
                                         "reference": "115.1",
                                         "refPrefix": "[A]",
                                         "slug": "scope-and-administration",
@@ -6264,7 +5903,6 @@
                                         "numAssembliesOnRef": 0,
                                         "numBuildingProductsOnRef": 0,
                                         "numDiagramsOnRef": 0,
-                                        "orderIndex": 3200000,
                                         "reference": "115.2",
                                         "refPrefix": "[A]",
                                         "slug": "scope-and-administration",
@@ -6286,7 +5924,6 @@
                                         "numAssembliesOnRef": 0,
                                         "numBuildingProductsOnRef": 0,
                                         "numDiagramsOnRef": 0,
-                                        "orderIndex": 3210000,
                                         "reference": "115.3",
                                         "refPrefix": "[A]",
                                         "slug": "scope-and-administration",
@@ -6308,7 +5945,6 @@
                                         "numAssembliesOnRef": 0,
                                         "numBuildingProductsOnRef": 0,
                                         "numDiagramsOnRef": 0,
-                                        "orderIndex": 3220000,
                                         "reference": "115.4",
                                         "refPrefix": "[A]",
                                         "slug": "scope-and-administration",
@@ -6331,7 +5967,6 @@
                                 "numAssembliesOnRef": 0,
                                 "numBuildingProductsOnRef": 0,
                                 "numDiagramsOnRef": 0,
-                                "orderIndex": 3230000,
                                 "reference": "116",
                                 "slug": "scope-and-administration",
                                 "titleText": "Unsafe Structures and Equipment",
@@ -6351,7 +5986,6 @@
                                         "numAssembliesOnRef": 0,
                                         "numBuildingProductsOnRef": 0,
                                         "numDiagramsOnRef": 0,
-                                        "orderIndex": 3240000,
                                         "reference": "116.1",
                                         "refPrefix": "[A]",
                                         "slug": "scope-and-administration",
@@ -6373,7 +6007,6 @@
                                         "numAssembliesOnRef": 0,
                                         "numBuildingProductsOnRef": 0,
                                         "numDiagramsOnRef": 0,
-                                        "orderIndex": 3250000,
                                         "reference": "116.2",
                                         "refPrefix": "[A]",
                                         "slug": "scope-and-administration",
@@ -6395,7 +6028,6 @@
                                         "numAssembliesOnRef": 0,
                                         "numBuildingProductsOnRef": 0,
                                         "numDiagramsOnRef": 0,
-                                        "orderIndex": 3290000,
                                         "reference": "116.3",
                                         "refPrefix": "[A]",
                                         "slug": "scope-and-administration",
@@ -6417,7 +6049,6 @@
                                         "numAssembliesOnRef": 0,
                                         "numBuildingProductsOnRef": 0,
                                         "numDiagramsOnRef": 0,
-                                        "orderIndex": 3310000,
                                         "reference": "116.4",
                                         "refPrefix": "[A]",
                                         "slug": "scope-and-administration",
@@ -6439,7 +6070,6 @@
                                         "numAssembliesOnRef": 0,
                                         "numBuildingProductsOnRef": 0,
                                         "numDiagramsOnRef": 0,
-                                        "orderIndex": 3330000,
                                         "reference": "116.5",
                                         "refPrefix": "[A]",
                                         "slug": "scope-and-administration",
@@ -6463,12 +6093,12 @@
         "chapterRef": "1",
         "chapterName": "scope-and-administration"
     },
-    "buildId": "3sK5kbysqJcr5ch6xNgjL",
+    "buildId": "fFVLMUIiiAoykBGFSOQHj",
     "isFallback": false,
     "isExperimentalCompile": false,
     "dynamicIds": [
-        22103,
-        99618
+        61621,
+        54065
     ],
     "gssp": true,
     "scriptLoader": []

@@ -19,6 +19,7 @@
                 ],
                 "ingesterAmendmentsEnabled": false,
                 "ingesterCodeUnitsEnabled": false,
+                "isAmendStylingEnabled": true,
                 "isCorrespondable": true,
                 "jurisKey": "general-services-administration",
                 "jurisName": "General Services Administration",
@@ -45,7 +46,6 @@
                                 "href": "#1101.1",
                                 "isCodeDivider": false,
                                 "isCodeDividerClickable": false,
-                                "orderIndex": 8010000,
                                 "reference": "1101.1"
                             },
                             {
@@ -57,7 +57,6 @@
                                 "href": "#1101.2",
                                 "isCodeDivider": false,
                                 "isCodeDividerClickable": false,
-                                "orderIndex": 8020000,
                                 "reference": "1101.2"
                             },
                             {
@@ -69,7 +68,6 @@
                                 "href": "#1101.3",
                                 "isCodeDivider": false,
                                 "isCodeDividerClickable": false,
-                                "orderIndex": 8030000,
                                 "reference": "1101.3"
                             },
                             {
@@ -81,7 +79,6 @@
                                 "href": "#1101.4",
                                 "isCodeDivider": false,
                                 "isCodeDividerClickable": false,
-                                "orderIndex": 8040000,
                                 "reference": "1101.4"
                             },
                             {
@@ -93,7 +90,6 @@
                                 "href": "#1101.5",
                                 "isCodeDivider": false,
                                 "isCodeDividerClickable": false,
-                                "orderIndex": 8050000,
                                 "reference": "1101.5"
                             },
                             {
@@ -105,7 +101,6 @@
                                 "href": "#1101.6",
                                 "isCodeDivider": false,
                                 "isCodeDividerClickable": false,
-                                "orderIndex": 8060000,
                                 "reference": "1101.6"
                             },
                             {
@@ -117,7 +112,6 @@
                                 "href": "#1101.7",
                                 "isCodeDivider": false,
                                 "isCodeDividerClickable": false,
-                                "orderIndex": 8070000,
                                 "reference": "1101.7"
                             }
                         ],
@@ -127,7 +121,6 @@
                         "href": "#1101",
                         "isCodeDivider": false,
                         "isCodeDividerClickable": false,
-                        "orderIndex": 8000000,
                         "reference": "1101"
                     },
                     {
@@ -142,7 +135,6 @@
                                 "href": "#1102.1",
                                 "isCodeDivider": false,
                                 "isCodeDividerClickable": false,
-                                "orderIndex": 8090000,
                                 "reference": "1102.1"
                             },
                             {
@@ -154,7 +146,6 @@
                                 "href": "#1102.2",
                                 "isCodeDivider": false,
                                 "isCodeDividerClickable": false,
-                                "orderIndex": 8100000,
                                 "reference": "1102.2"
                             },
                             {
@@ -166,7 +157,6 @@
                                 "href": "#1102.3",
                                 "isCodeDivider": false,
                                 "isCodeDividerClickable": false,
-                                "orderIndex": 8120000,
                                 "reference": "1102.3"
                             }
                         ],
@@ -176,7 +166,6 @@
                         "href": "#1102",
                         "isCodeDivider": false,
                         "isCodeDividerClickable": false,
-                        "orderIndex": 8080000,
                         "reference": "1102"
                     },
                     {
@@ -191,7 +180,6 @@
                                 "href": "#1103.1",
                                 "isCodeDivider": false,
                                 "isCodeDividerClickable": false,
-                                "orderIndex": 8140000,
                                 "reference": "1103.1"
                             },
                             {
@@ -203,7 +191,6 @@
                                 "href": "#1103.2",
                                 "isCodeDivider": false,
                                 "isCodeDividerClickable": false,
-                                "orderIndex": 8150000,
                                 "reference": "1103.2"
                             },
                             {
@@ -215,7 +202,6 @@
                                 "href": "#1103.3",
                                 "isCodeDivider": false,
                                 "isCodeDividerClickable": false,
-                                "orderIndex": 8160000,
                                 "reference": "1103.3"
                             }
                         ],
@@ -225,7 +211,6 @@
                         "href": "#1103",
                         "isCodeDivider": false,
                         "isCodeDividerClickable": false,
-                        "orderIndex": 8130000,
                         "reference": "1103"
                     },
                     {
@@ -240,7 +225,6 @@
                                 "href": "#1104.1",
                                 "isCodeDivider": false,
                                 "isCodeDividerClickable": false,
-                                "orderIndex": 8180000,
                                 "reference": "1104.1"
                             }
                         ],
@@ -250,7 +234,6 @@
                         "href": "#1104",
                         "isCodeDivider": false,
                         "isCodeDividerClickable": false,
-                        "orderIndex": 8170000,
                         "reference": "1104"
                     }
                 ],
@@ -259,153 +242,131 @@
                     {
                         "displayTitle": "Chapter 1 Scope and Administration",
                         "isExpandable": true,
-                        "orderIndex": 10000,
                         "reference": "1",
                         "slug": "scope-and-administration"
                     },
                     {
                         "displayTitle": "Chapter 2 Definitions",
                         "isExpandable": true,
-                        "orderIndex": 2180000,
                         "reference": "2",
                         "slug": "definitions"
                     },
                     {
                         "displayTitle": "Chapter 3 Provisions for All Compliance Methods",
                         "isExpandable": true,
-                        "orderIndex": 2940000,
                         "reference": "3",
                         "slug": "provisions-for-all-compliance-methods"
                     },
                     {
                         "displayTitle": "Chapter 4 Repairs",
                         "isExpandable": true,
-                        "orderIndex": 3900000,
                         "reference": "4",
                         "slug": "repairs"
                     },
                     {
                         "displayTitle": "Chapter 5 Prescriptive Compliance Method",
                         "isExpandable": true,
-                        "orderIndex": 4290000,
                         "reference": "5",
                         "slug": "prescriptive-compliance-method"
                     },
                     {
                         "displayTitle": "Chapter 6 Classification of Work",
                         "isExpandable": true,
-                        "orderIndex": 4990000,
                         "reference": "6",
                         "slug": "classification-of-work"
                     },
                     {
                         "displayTitle": "Chapter 7 Alterations\u2014Level 1",
                         "isExpandable": true,
-                        "orderIndex": 5220000,
                         "reference": "7",
                         "slug": "alterations-level-1"
                     },
                     {
                         "displayTitle": "Chapter 8 Alterations\u2014Level 2",
                         "isExpandable": true,
-                        "orderIndex": 5650000,
                         "reference": "8",
                         "slug": "alterations-level-2"
                     },
                     {
                         "displayTitle": "Chapter 9 Alterations\u2014Level 3",
                         "isExpandable": true,
-                        "orderIndex": 6790000,
                         "reference": "9",
                         "slug": "alterations-level-3"
                     },
                     {
                         "displayTitle": "Chapter 10 Change of Occupancy",
                         "isExpandable": true,
-                        "orderIndex": 7290000,
                         "reference": "10",
                         "slug": "change-of-occupancy"
                     },
                     {
                         "displayTitle": "Chapter 11 Additions",
                         "isExpandable": true,
-                        "orderIndex": 7990000,
                         "reference": "11",
                         "slug": "additions"
                     },
                     {
                         "displayTitle": "Chapter 12 Historic Buildings",
                         "isExpandable": true,
-                        "orderIndex": 8190000,
                         "reference": "12",
                         "slug": "historic-buildings"
                     },
                     {
                         "displayTitle": "Chapter 13 Performance Compliance Methods",
                         "isExpandable": true,
-                        "orderIndex": 8660000,
                         "reference": "13",
                         "slug": "performance-compliance-methods"
                     },
                     {
                         "displayTitle": "Chapter 14 Relocated or Moved Buildings",
                         "isExpandable": true,
-                        "orderIndex": 9490000,
                         "reference": "14",
                         "slug": "relocated-or-moved-buildings"
                     },
                     {
                         "displayTitle": "Chapter 15 Construction Safeguards",
                         "isExpandable": true,
-                        "orderIndex": 9630000,
                         "reference": "15",
                         "slug": "construction-safeguards"
                     },
                     {
                         "displayTitle": "Chapter 16 Referenced Standards",
-                        "orderIndex": 10220000,
                         "reference": "16",
                         "slug": "referenced-standards"
                     },
                     {
                         "disabled": true,
                         "displayTitle": "Appendix A Guidelines for the Seismic Retrofit of Existing Buildings",
-                        "orderIndex": 10230000,
                         "reference": "A",
                         "slug": "guidelines-for-the-seismic-retrofit-of-existing-buildings"
                     },
                     {
                         "disabled": true,
                         "displayTitle": "Appendix B Supplementary Accessibility Requirements for Existing Buildings and Facilities",
-                        "orderIndex": 12610000,
                         "reference": "B",
                         "slug": "supplementary-accessibility-requirements-for-existing-buildings-and-facilities"
                     },
                     {
                         "disabled": true,
                         "displayTitle": "Appendix C Guidelines for the Wind Retrofit of Existing Buildings",
-                        "orderIndex": 12830000,
                         "reference": "C",
                         "slug": "guidelines-for-the-wind-retrofit-of-existing-buildings"
                     },
                     {
                         "disabled": true,
                         "displayTitle": "Appendix D Board of Appeals",
-                        "orderIndex": 13410000,
                         "reference": "D",
                         "slug": "board-of-appeals"
                     },
                     {
                         "disabled": true,
                         "displayTitle": "Appendix E Temporary Emergency Uses",
-                        "orderIndex": 13660000,
                         "reference": "E",
                         "slug": "temporary-emergency-uses"
                     },
                     {
                         "disabled": true,
                         "displayTitle": "Resource A Guidelines on Fire Ratings of Archaic Materials and Assemblies",
-                        "orderIndex": 14420000,
                         "reference": "resource_A",
                         "slug": "guidelines-on-fire-ratings-of-archaic-materials-and-assemblies"
                     }
@@ -424,7 +385,6 @@
                         "numAssembliesOnRef": 0,
                         "numBuildingProductsOnRef": 0,
                         "numDiagramsOnRef": 0,
-                        "orderIndex": 7990000,
                         "reference": "11",
                         "slug": "additions",
                         "titleText": "Additions",
@@ -443,7 +403,6 @@
                                 "numAssembliesOnRef": 0,
                                 "numBuildingProductsOnRef": 0,
                                 "numDiagramsOnRef": 0,
-                                "orderIndex": 8000000,
                                 "reference": "1101",
                                 "slug": "additions",
                                 "titleText": "General",
@@ -521,7 +480,6 @@
                                         "numAssembliesOnRef": 0,
                                         "numBuildingProductsOnRef": 0,
                                         "numDiagramsOnRef": 3,
-                                        "orderIndex": 8010000,
                                         "reference": "1101.1",
                                         "slug": "additions",
                                         "titleText": "Scope",
@@ -542,7 +500,6 @@
                                         "numAssembliesOnRef": 0,
                                         "numBuildingProductsOnRef": 0,
                                         "numDiagramsOnRef": 0,
-                                        "orderIndex": 8020000,
                                         "reference": "1101.2",
                                         "slug": "additions",
                                         "titleText": "Creation or Extension of Nonconformity",
@@ -563,7 +520,6 @@
                                         "numAssembliesOnRef": 0,
                                         "numBuildingProductsOnRef": 0,
                                         "numDiagramsOnRef": 0,
-                                        "orderIndex": 8030000,
                                         "reference": "1101.3",
                                         "refPrefix": "[BS]",
                                         "slug": "additions",
@@ -585,7 +541,6 @@
                                         "numAssembliesOnRef": 0,
                                         "numBuildingProductsOnRef": 0,
                                         "numDiagramsOnRef": 0,
-                                        "orderIndex": 8040000,
                                         "reference": "1101.4",
                                         "slug": "additions",
                                         "titleText": "Other Work",
@@ -606,7 +561,6 @@
                                         "numAssembliesOnRef": 0,
                                         "numBuildingProductsOnRef": 0,
                                         "numDiagramsOnRef": 0,
-                                        "orderIndex": 8050000,
                                         "reference": "1101.5",
                                         "slug": "additions",
                                         "titleText": "Smoke Barriers in Group I-1, Condition 2",
@@ -627,7 +581,6 @@
                                         "numAssembliesOnRef": 0,
                                         "numBuildingProductsOnRef": 4,
                                         "numDiagramsOnRef": 0,
-                                        "orderIndex": 8060000,
                                         "reference": "1101.6",
                                         "slug": "additions",
                                         "titleText": "Enhanced Classroom Acoustics",
@@ -648,7 +601,6 @@
                                         "numAssembliesOnRef": 0,
                                         "numBuildingProductsOnRef": 0,
                                         "numDiagramsOnRef": 0,
-                                        "orderIndex": 8070000,
                                         "reference": "1101.7",
                                         "slug": "additions",
                                         "titleText": "Occupiable Roofs",
@@ -670,7 +622,6 @@
                                 "numAssembliesOnRef": 0,
                                 "numBuildingProductsOnRef": 0,
                                 "numDiagramsOnRef": 0,
-                                "orderIndex": 8080000,
                                 "reference": "1102",
                                 "slug": "additions",
                                 "titleText": "Heights and Areas",
@@ -711,7 +662,6 @@
                                         "numAssembliesOnRef": 0,
                                         "numBuildingProductsOnRef": 0,
                                         "numDiagramsOnRef": 1,
-                                        "orderIndex": 8090000,
                                         "reference": "1102.1",
                                         "slug": "additions",
                                         "titleText": "Height Limitations",
@@ -752,7 +702,6 @@
                                         "numAssembliesOnRef": 0,
                                         "numBuildingProductsOnRef": 0,
                                         "numDiagramsOnRef": 1,
-                                        "orderIndex": 8100000,
                                         "reference": "1102.2",
                                         "slug": "additions",
                                         "titleText": "Area Limitations",
@@ -795,7 +744,6 @@
                                         "numAssembliesOnRef": 0,
                                         "numBuildingProductsOnRef": 0,
                                         "numDiagramsOnRef": 1,
-                                        "orderIndex": 8120000,
                                         "reference": "1102.3",
                                         "slug": "additions",
                                         "titleText": "Fire Protection Systems",
@@ -817,7 +765,6 @@
                                 "numAssembliesOnRef": 0,
                                 "numBuildingProductsOnRef": 0,
                                 "numDiagramsOnRef": 0,
-                                "orderIndex": 8130000,
                                 "reference": "1103",
                                 "slug": "additions",
                                 "titleText": "Structural",
@@ -837,7 +784,6 @@
                                         "numAssembliesOnRef": 0,
                                         "numBuildingProductsOnRef": 0,
                                         "numDiagramsOnRef": 0,
-                                        "orderIndex": 8140000,
                                         "reference": "1103.1",
                                         "refPrefix": "[BS]",
                                         "slug": "additions",
@@ -859,7 +805,6 @@
                                         "numAssembliesOnRef": 0,
                                         "numBuildingProductsOnRef": 0,
                                         "numDiagramsOnRef": 0,
-                                        "orderIndex": 8150000,
                                         "reference": "1103.2",
                                         "refPrefix": "[BS]",
                                         "slug": "additions",
@@ -881,7 +826,6 @@
                                         "numAssembliesOnRef": 0,
                                         "numBuildingProductsOnRef": 0,
                                         "numDiagramsOnRef": 0,
-                                        "orderIndex": 8160000,
                                         "reference": "1103.3",
                                         "refPrefix": "[BS]",
                                         "slug": "additions",
@@ -904,7 +848,6 @@
                                 "numAssembliesOnRef": 0,
                                 "numBuildingProductsOnRef": 0,
                                 "numDiagramsOnRef": 0,
-                                "orderIndex": 8170000,
                                 "reference": "1104",
                                 "slug": "additions",
                                 "titleText": "Energy Conservation",
@@ -924,7 +867,6 @@
                                         "numAssembliesOnRef": 0,
                                         "numBuildingProductsOnRef": 0,
                                         "numDiagramsOnRef": 0,
-                                        "orderIndex": 8180000,
                                         "reference": "1104.1",
                                         "slug": "additions",
                                         "titleText": "Minimum Requirements",
@@ -947,12 +889,12 @@
         "chapterRef": "11",
         "chapterName": "additions"
     },
-    "buildId": "3sK5kbysqJcr5ch6xNgjL",
+    "buildId": "fFVLMUIiiAoykBGFSOQHj",
     "isFallback": false,
     "isExperimentalCompile": false,
     "dynamicIds": [
-        22103,
-        99618
+        61621,
+        54065
     ],
     "gssp": true,
     "scriptLoader": []

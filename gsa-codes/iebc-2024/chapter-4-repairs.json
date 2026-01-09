@@ -19,6 +19,7 @@
                 ],
                 "ingesterAmendmentsEnabled": false,
                 "ingesterCodeUnitsEnabled": false,
+                "isAmendStylingEnabled": true,
                 "isCorrespondable": true,
                 "jurisKey": "general-services-administration",
                 "jurisName": "General Services Administration",
@@ -48,7 +49,6 @@
                                         "href": "#401.1.1",
                                         "isCodeDivider": false,
                                         "isCodeDividerClickable": false,
-                                        "orderIndex": 3930000,
                                         "reference": "401.1.1"
                                     }
                                 ],
@@ -58,7 +58,6 @@
                                 "href": "#401.1",
                                 "isCodeDivider": false,
                                 "isCodeDividerClickable": false,
-                                "orderIndex": 3920000,
                                 "reference": "401.1"
                             },
                             {
@@ -70,7 +69,6 @@
                                 "href": "#401.2",
                                 "isCodeDivider": false,
                                 "isCodeDividerClickable": false,
-                                "orderIndex": 3940000,
                                 "reference": "401.2"
                             },
                             {
@@ -82,7 +80,6 @@
                                 "href": "#401.3",
                                 "isCodeDivider": false,
                                 "isCodeDividerClickable": false,
-                                "orderIndex": 3950000,
                                 "reference": "401.3"
                             }
                         ],
@@ -92,7 +89,6 @@
                         "href": "#401",
                         "isCodeDivider": false,
                         "isCodeDividerClickable": false,
-                        "orderIndex": 3910000,
                         "reference": "401"
                     },
                     {
@@ -107,7 +103,6 @@
                                 "href": "#402.1",
                                 "isCodeDivider": false,
                                 "isCodeDividerClickable": false,
-                                "orderIndex": 3970000,
                                 "reference": "402.1"
                             }
                         ],
@@ -117,7 +112,6 @@
                         "href": "#402",
                         "isCodeDivider": false,
                         "isCodeDividerClickable": false,
-                        "orderIndex": 3960000,
                         "reference": "402"
                     },
                     {
@@ -132,7 +126,6 @@
                                 "href": "#403.1",
                                 "isCodeDivider": false,
                                 "isCodeDividerClickable": false,
-                                "orderIndex": 3990000,
                                 "reference": "403.1"
                             }
                         ],
@@ -142,7 +135,6 @@
                         "href": "#403",
                         "isCodeDivider": false,
                         "isCodeDividerClickable": false,
-                        "orderIndex": 3980000,
                         "reference": "403"
                     },
                     {
@@ -157,7 +149,6 @@
                                 "href": "#404.1",
                                 "isCodeDivider": false,
                                 "isCodeDividerClickable": false,
-                                "orderIndex": 4010000,
                                 "reference": "404.1"
                             }
                         ],
@@ -167,7 +158,6 @@
                         "href": "#404",
                         "isCodeDivider": false,
                         "isCodeDividerClickable": false,
-                        "orderIndex": 4000000,
                         "reference": "404"
                     },
                     {
@@ -185,7 +175,6 @@
                                         "href": "#405.1.1",
                                         "isCodeDivider": false,
                                         "isCodeDividerClickable": false,
-                                        "orderIndex": 4040000,
                                         "reference": "405.1.1"
                                     }
                                 ],
@@ -195,7 +184,6 @@
                                 "href": "#405.1",
                                 "isCodeDivider": false,
                                 "isCodeDividerClickable": false,
-                                "orderIndex": 4030000,
                                 "reference": "405.1"
                             },
                             {
@@ -213,7 +201,6 @@
                                                 "href": "#405.2.1.1",
                                                 "isCodeDivider": false,
                                                 "isCodeDividerClickable": false,
-                                                "orderIndex": 4080000,
                                                 "reference": "405.2.1.1"
                                             }
                                         ],
@@ -223,7 +210,6 @@
                                         "href": "#405.2.1",
                                         "isCodeDivider": false,
                                         "isCodeDividerClickable": false,
-                                        "orderIndex": 4070000,
                                         "reference": "405.2.1"
                                     },
                                     {
@@ -235,7 +221,6 @@
                                         "href": "#405.2.2",
                                         "isCodeDivider": false,
                                         "isCodeDividerClickable": false,
-                                        "orderIndex": 4090000,
                                         "reference": "405.2.2"
                                     },
                                     {
@@ -250,7 +235,6 @@
                                                 "href": "#405.2.3.1",
                                                 "isCodeDivider": false,
                                                 "isCodeDividerClickable": false,
-                                                "orderIndex": 4110000,
                                                 "reference": "405.2.3.1"
                                             },
                                             {
@@ -262,7 +246,6 @@
                                                 "href": "#405.2.3.2",
                                                 "isCodeDivider": false,
                                                 "isCodeDividerClickable": false,
-                                                "orderIndex": 4120000,
                                                 "reference": "405.2.3.2"
                                             },
                                             {
@@ -274,7 +257,6 @@
                                                 "href": "#405.2.3.3",
                                                 "isCodeDivider": false,
                                                 "isCodeDividerClickable": false,
-                                                "orderIndex": 4130000,
                                                 "reference": "405.2.3.3"
                                             }
                                         ],
@@ -284,7 +266,6 @@
                                         "href": "#405.2.3",
                                         "isCodeDivider": false,
                                         "isCodeDividerClickable": false,
-                                        "orderIndex": 4100000,
                                         "reference": "405.2.3"
                                     },
                                     {
@@ -299,7 +280,6 @@
                                                 "href": "#405.2.4.1",
                                                 "isCodeDivider": false,
                                                 "isCodeDividerClickable": false,
-                                                "orderIndex": 4150000,
                                                 "reference": "405.2.4.1"
                                             }
                                         ],
@@ -309,7 +289,6 @@
                                         "href": "#405.2.4",
                                         "isCodeDivider": false,
                                         "isCodeDividerClickable": false,
-                                        "orderIndex": 4140000,
                                         "reference": "405.2.4"
                                     },
                                     {
@@ -321,7 +300,6 @@
                                         "href": "#405.2.5",
                                         "isCodeDivider": false,
                                         "isCodeDividerClickable": false,
-                                        "orderIndex": 4160000,
                                         "reference": "405.2.5"
                                     },
                                     {
@@ -333,7 +311,6 @@
                                         "href": "#405.2.6",
                                         "isCodeDivider": false,
                                         "isCodeDividerClickable": false,
-                                        "orderIndex": 4170000,
                                         "reference": "405.2.6"
                                     }
                                 ],
@@ -343,7 +320,6 @@
                                 "href": "#405.2",
                                 "isCodeDivider": false,
                                 "isCodeDividerClickable": false,
-                                "orderIndex": 4060000,
                                 "reference": "405.2"
                             }
                         ],
@@ -353,7 +329,6 @@
                         "href": "#405",
                         "isCodeDivider": false,
                         "isCodeDividerClickable": false,
-                        "orderIndex": 4020000,
                         "reference": "405"
                     },
                     {
@@ -371,7 +346,6 @@
                                         "href": "#406.1.1",
                                         "isCodeDivider": false,
                                         "isCodeDividerClickable": false,
-                                        "orderIndex": 4200000,
                                         "reference": "406.1.1"
                                     },
                                     {
@@ -383,7 +357,6 @@
                                         "href": "#406.1.2",
                                         "isCodeDivider": false,
                                         "isCodeDividerClickable": false,
-                                        "orderIndex": 4210000,
                                         "reference": "406.1.2"
                                     }
                                 ],
@@ -393,7 +366,6 @@
                                 "href": "#406.1",
                                 "isCodeDivider": false,
                                 "isCodeDividerClickable": false,
-                                "orderIndex": 4190000,
                                 "reference": "406.1"
                             }
                         ],
@@ -403,7 +375,6 @@
                         "href": "#406",
                         "isCodeDivider": false,
                         "isCodeDividerClickable": false,
-                        "orderIndex": 4180000,
                         "reference": "406"
                     },
                     {
@@ -418,7 +389,6 @@
                                 "href": "#407.1",
                                 "isCodeDivider": false,
                                 "isCodeDividerClickable": false,
-                                "orderIndex": 4230000,
                                 "reference": "407.1"
                             },
                             {
@@ -430,7 +400,6 @@
                                 "href": "#407.2",
                                 "isCodeDivider": false,
                                 "isCodeDividerClickable": false,
-                                "orderIndex": 4240000,
                                 "reference": "407.2"
                             }
                         ],
@@ -440,7 +409,6 @@
                         "href": "#407",
                         "isCodeDivider": false,
                         "isCodeDividerClickable": false,
-                        "orderIndex": 4220000,
                         "reference": "407"
                     },
                     {
@@ -455,7 +423,6 @@
                                 "href": "#408.1",
                                 "isCodeDivider": false,
                                 "isCodeDividerClickable": false,
-                                "orderIndex": 4260000,
                                 "reference": "408.1"
                             },
                             {
@@ -467,7 +434,6 @@
                                 "href": "#408.2",
                                 "isCodeDivider": false,
                                 "isCodeDividerClickable": false,
-                                "orderIndex": 4270000,
                                 "reference": "408.2"
                             },
                             {
@@ -479,7 +445,6 @@
                                 "href": "#408.3",
                                 "isCodeDivider": false,
                                 "isCodeDividerClickable": false,
-                                "orderIndex": 4280000,
                                 "reference": "408.3"
                             }
                         ],
@@ -489,7 +454,6 @@
                         "href": "#408",
                         "isCodeDivider": false,
                         "isCodeDividerClickable": false,
-                        "orderIndex": 4250000,
                         "reference": "408"
                     }
                 ],
@@ -498,153 +462,131 @@
                     {
                         "displayTitle": "Chapter 1 Scope and Administration",
                         "isExpandable": true,
-                        "orderIndex": 10000,
                         "reference": "1",
                         "slug": "scope-and-administration"
                     },
                     {
                         "displayTitle": "Chapter 2 Definitions",
                         "isExpandable": true,
-                        "orderIndex": 2180000,
                         "reference": "2",
                         "slug": "definitions"
                     },
                     {
                         "displayTitle": "Chapter 3 Provisions for All Compliance Methods",
                         "isExpandable": true,
-                        "orderIndex": 2940000,
                         "reference": "3",
                         "slug": "provisions-for-all-compliance-methods"
                     },
                     {
                         "displayTitle": "Chapter 4 Repairs",
                         "isExpandable": true,
-                        "orderIndex": 3900000,
                         "reference": "4",
                         "slug": "repairs"
                     },
                     {
                         "displayTitle": "Chapter 5 Prescriptive Compliance Method",
                         "isExpandable": true,
-                        "orderIndex": 4290000,
                         "reference": "5",
                         "slug": "prescriptive-compliance-method"
                     },
                     {
                         "displayTitle": "Chapter 6 Classification of Work",
                         "isExpandable": true,
-                        "orderIndex": 4990000,
                         "reference": "6",
                         "slug": "classification-of-work"
                     },
                     {
                         "displayTitle": "Chapter 7 Alterations\u2014Level 1",
                         "isExpandable": true,
-                        "orderIndex": 5220000,
                         "reference": "7",
                         "slug": "alterations-level-1"
                     },
                     {
                         "displayTitle": "Chapter 8 Alterations\u2014Level 2",
                         "isExpandable": true,
-                        "orderIndex": 5650000,
                         "reference": "8",
                         "slug": "alterations-level-2"
                     },
                     {
                         "displayTitle": "Chapter 9 Alterations\u2014Level 3",
                         "isExpandable": true,
-                        "orderIndex": 6790000,
                         "reference": "9",
                         "slug": "alterations-level-3"
                     },
                     {
                         "displayTitle": "Chapter 10 Change of Occupancy",
                         "isExpandable": true,
-                        "orderIndex": 7290000,
                         "reference": "10",
                         "slug": "change-of-occupancy"
                     },
                     {
                         "displayTitle": "Chapter 11 Additions",
                         "isExpandable": true,
-                        "orderIndex": 7990000,
                         "reference": "11",
                         "slug": "additions"
                     },
                     {
                         "displayTitle": "Chapter 12 Historic Buildings",
                         "isExpandable": true,
-                        "orderIndex": 8190000,
                         "reference": "12",
                         "slug": "historic-buildings"
                     },
                     {
                         "displayTitle": "Chapter 13 Performance Compliance Methods",
                         "isExpandable": true,
-                        "orderIndex": 8660000,
                         "reference": "13",
                         "slug": "performance-compliance-methods"
                     },
                     {
                         "displayTitle": "Chapter 14 Relocated or Moved Buildings",
                         "isExpandable": true,
-                        "orderIndex": 9490000,
                         "reference": "14",
                         "slug": "relocated-or-moved-buildings"
                     },
                     {
                         "displayTitle": "Chapter 15 Construction Safeguards",
                         "isExpandable": true,
-                        "orderIndex": 9630000,
                         "reference": "15",
                         "slug": "construction-safeguards"
                     },
                     {
                         "displayTitle": "Chapter 16 Referenced Standards",
-                        "orderIndex": 10220000,
                         "reference": "16",
                         "slug": "referenced-standards"
                     },
                     {
                         "disabled": true,
                         "displayTitle": "Appendix A Guidelines for the Seismic Retrofit of Existing Buildings",
-                        "orderIndex": 10230000,
                         "reference": "A",
                         "slug": "guidelines-for-the-seismic-retrofit-of-existing-buildings"
                     },
                     {
                         "disabled": true,
                         "displayTitle": "Appendix B Supplementary Accessibility Requirements for Existing Buildings and Facilities",
-                        "orderIndex": 12610000,
                         "reference": "B",
                         "slug": "supplementary-accessibility-requirements-for-existing-buildings-and-facilities"
                     },
                     {
                         "disabled": true,
                         "displayTitle": "Appendix C Guidelines for the Wind Retrofit of Existing Buildings",
-                        "orderIndex": 12830000,
                         "reference": "C",
                         "slug": "guidelines-for-the-wind-retrofit-of-existing-buildings"
                     },
                     {
                         "disabled": true,
                         "displayTitle": "Appendix D Board of Appeals",
-                        "orderIndex": 13410000,
                         "reference": "D",
                         "slug": "board-of-appeals"
                     },
                     {
                         "disabled": true,
                         "displayTitle": "Appendix E Temporary Emergency Uses",
-                        "orderIndex": 13660000,
                         "reference": "E",
                         "slug": "temporary-emergency-uses"
                     },
                     {
                         "disabled": true,
                         "displayTitle": "Resource A Guidelines on Fire Ratings of Archaic Materials and Assemblies",
-                        "orderIndex": 14420000,
                         "reference": "resource_A",
                         "slug": "guidelines-on-fire-ratings-of-archaic-materials-and-assemblies"
                     }
@@ -663,7 +605,6 @@
                         "numAssembliesOnRef": 0,
                         "numBuildingProductsOnRef": 0,
                         "numDiagramsOnRef": 0,
-                        "orderIndex": 3900000,
                         "reference": "4",
                         "slug": "repairs",
                         "titleText": "Repairs",
@@ -682,7 +623,6 @@
                                 "numAssembliesOnRef": 0,
                                 "numBuildingProductsOnRef": 0,
                                 "numDiagramsOnRef": 0,
-                                "orderIndex": 3910000,
                                 "reference": "401",
                                 "slug": "repairs",
                                 "titleText": "General",
@@ -702,7 +642,6 @@
                                         "numAssembliesOnRef": 0,
                                         "numBuildingProductsOnRef": 0,
                                         "numDiagramsOnRef": 0,
-                                        "orderIndex": 3920000,
                                         "reference": "401.1",
                                         "slug": "repairs",
                                         "titleText": "Scope",
@@ -723,7 +662,6 @@
                                                 "numAssembliesOnRef": 0,
                                                 "numBuildingProductsOnRef": 0,
                                                 "numDiagramsOnRef": 0,
-                                                "orderIndex": 3930000,
                                                 "reference": "401.1.1",
                                                 "slug": "repairs",
                                                 "titleText": "Bleachers, Folding and Telescopic Seating and Grandstands",
@@ -746,7 +684,6 @@
                                         "numAssembliesOnRef": 0,
                                         "numBuildingProductsOnRef": 0,
                                         "numDiagramsOnRef": 0,
-                                        "orderIndex": 3940000,
                                         "reference": "401.2",
                                         "slug": "repairs",
                                         "titleText": "Compliance",
@@ -767,7 +704,6 @@
                                         "numAssembliesOnRef": 0,
                                         "numBuildingProductsOnRef": 0,
                                         "numDiagramsOnRef": 0,
-                                        "orderIndex": 3950000,
                                         "reference": "401.3",
                                         "refPrefix": "[BS]",
                                         "slug": "repairs",
@@ -790,7 +726,6 @@
                                 "numAssembliesOnRef": 0,
                                 "numBuildingProductsOnRef": 0,
                                 "numDiagramsOnRef": 0,
-                                "orderIndex": 3960000,
                                 "reference": "402",
                                 "slug": "repairs",
                                 "titleText": "Building Elements and Materials",
@@ -884,7 +819,6 @@
                                         "numAssembliesOnRef": 0,
                                         "numBuildingProductsOnRef": 0,
                                         "numDiagramsOnRef": 4,
-                                        "orderIndex": 3970000,
                                         "reference": "402.1",
                                         "slug": "repairs",
                                         "titleText": "Glazing in Hazardous Locations",
@@ -906,7 +840,6 @@
                                 "numAssembliesOnRef": 0,
                                 "numBuildingProductsOnRef": 0,
                                 "numDiagramsOnRef": 0,
-                                "orderIndex": 3980000,
                                 "reference": "403",
                                 "slug": "repairs",
                                 "titleText": "Fire Protection",
@@ -926,7 +859,6 @@
                                         "numAssembliesOnRef": 1,
                                         "numBuildingProductsOnRef": 0,
                                         "numDiagramsOnRef": 0,
-                                        "orderIndex": 3990000,
                                         "reference": "403.1",
                                         "slug": "repairs",
                                         "titleText": "General",
@@ -948,7 +880,6 @@
                                 "numAssembliesOnRef": 0,
                                 "numBuildingProductsOnRef": 0,
                                 "numDiagramsOnRef": 0,
-                                "orderIndex": 4000000,
                                 "reference": "404",
                                 "slug": "repairs",
                                 "titleText": "Means of Egress",
@@ -968,7 +899,6 @@
                                         "numAssembliesOnRef": 0,
                                         "numBuildingProductsOnRef": 0,
                                         "numDiagramsOnRef": 0,
-                                        "orderIndex": 4010000,
                                         "reference": "404.1",
                                         "slug": "repairs",
                                         "titleText": "General",
@@ -990,7 +920,6 @@
                                 "numAssembliesOnRef": 0,
                                 "numBuildingProductsOnRef": 0,
                                 "numDiagramsOnRef": 0,
-                                "orderIndex": 4020000,
                                 "reference": "405",
                                 "slug": "repairs",
                                 "titleText": "Structural",
@@ -1010,7 +939,6 @@
                                         "numAssembliesOnRef": 0,
                                         "numBuildingProductsOnRef": 0,
                                         "numDiagramsOnRef": 0,
-                                        "orderIndex": 4030000,
                                         "reference": "405.1",
                                         "refPrefix": "[BS]",
                                         "slug": "repairs",
@@ -1032,7 +960,6 @@
                                                 "numAssembliesOnRef": 0,
                                                 "numBuildingProductsOnRef": 0,
                                                 "numDiagramsOnRef": 0,
-                                                "orderIndex": 4040000,
                                                 "reference": "405.1.1",
                                                 "slug": "repairs",
                                                 "titleText": "Structural Concrete",
@@ -1055,7 +982,6 @@
                                         "numAssembliesOnRef": 0,
                                         "numBuildingProductsOnRef": 0,
                                         "numDiagramsOnRef": 0,
-                                        "orderIndex": 4060000,
                                         "reference": "405.2",
                                         "refPrefix": "[BS]",
                                         "slug": "repairs",
@@ -1077,7 +1003,6 @@
                                                 "numAssembliesOnRef": 0,
                                                 "numBuildingProductsOnRef": 0,
                                                 "numDiagramsOnRef": 0,
-                                                "orderIndex": 4070000,
                                                 "reference": "405.2.1",
                                                 "refPrefix": "[BS]",
                                                 "slug": "repairs",
@@ -1100,7 +1025,6 @@
                                                         "numAssembliesOnRef": 0,
                                                         "numBuildingProductsOnRef": 0,
                                                         "numDiagramsOnRef": 0,
-                                                        "orderIndex": 4080000,
                                                         "reference": "405.2.1.1",
                                                         "refPrefix": "[BS]",
                                                         "slug": "repairs",
@@ -1125,7 +1049,6 @@
                                                 "numAssembliesOnRef": 0,
                                                 "numBuildingProductsOnRef": 0,
                                                 "numDiagramsOnRef": 0,
-                                                "orderIndex": 4090000,
                                                 "reference": "405.2.2",
                                                 "refPrefix": "[BS]",
                                                 "slug": "repairs",
@@ -1148,7 +1071,6 @@
                                                 "numAssembliesOnRef": 0,
                                                 "numBuildingProductsOnRef": 0,
                                                 "numDiagramsOnRef": 0,
-                                                "orderIndex": 4100000,
                                                 "reference": "405.2.3",
                                                 "refPrefix": "[BS]",
                                                 "slug": "repairs",
@@ -1171,7 +1093,6 @@
                                                         "numAssembliesOnRef": 0,
                                                         "numBuildingProductsOnRef": 0,
                                                         "numDiagramsOnRef": 0,
-                                                        "orderIndex": 4110000,
                                                         "reference": "405.2.3.1",
                                                         "refPrefix": "[BS]",
                                                         "slug": "repairs",
@@ -1195,7 +1116,6 @@
                                                         "numAssembliesOnRef": 0,
                                                         "numBuildingProductsOnRef": 0,
                                                         "numDiagramsOnRef": 0,
-                                                        "orderIndex": 4120000,
                                                         "reference": "405.2.3.2",
                                                         "refPrefix": "[BS]",
                                                         "slug": "repairs",
@@ -1219,7 +1139,6 @@
                                                         "numAssembliesOnRef": 0,
                                                         "numBuildingProductsOnRef": 0,
                                                         "numDiagramsOnRef": 0,
-                                                        "orderIndex": 4130000,
                                                         "reference": "405.2.3.3",
                                                         "refPrefix": "[BS]",
                                                         "slug": "repairs",
@@ -1244,7 +1163,6 @@
                                                 "numAssembliesOnRef": 0,
                                                 "numBuildingProductsOnRef": 0,
                                                 "numDiagramsOnRef": 0,
-                                                "orderIndex": 4140000,
                                                 "reference": "405.2.4",
                                                 "refPrefix": "[BS]",
                                                 "slug": "repairs",
@@ -1267,7 +1185,6 @@
                                                         "numAssembliesOnRef": 0,
                                                         "numBuildingProductsOnRef": 0,
                                                         "numDiagramsOnRef": 0,
-                                                        "orderIndex": 4150000,
                                                         "reference": "405.2.4.1",
                                                         "refPrefix": "[BS]",
                                                         "slug": "repairs",
@@ -1292,7 +1209,6 @@
                                                 "numAssembliesOnRef": 0,
                                                 "numBuildingProductsOnRef": 0,
                                                 "numDiagramsOnRef": 0,
-                                                "orderIndex": 4160000,
                                                 "reference": "405.2.5",
                                                 "refPrefix": "[BS]",
                                                 "slug": "repairs",
@@ -1315,7 +1231,6 @@
                                                 "numAssembliesOnRef": 0,
                                                 "numBuildingProductsOnRef": 0,
                                                 "numDiagramsOnRef": 0,
-                                                "orderIndex": 4170000,
                                                 "reference": "405.2.6",
                                                 "refPrefix": "[BS]",
                                                 "slug": "repairs",
@@ -1340,7 +1255,6 @@
                                 "numAssembliesOnRef": 0,
                                 "numBuildingProductsOnRef": 0,
                                 "numDiagramsOnRef": 0,
-                                "orderIndex": 4180000,
                                 "reference": "406",
                                 "slug": "repairs",
                                 "titleText": "Electrical",
@@ -1360,7 +1274,6 @@
                                         "numAssembliesOnRef": 0,
                                         "numBuildingProductsOnRef": 0,
                                         "numDiagramsOnRef": 0,
-                                        "orderIndex": 4190000,
                                         "reference": "406.1",
                                         "slug": "repairs",
                                         "titleText": "General",
@@ -1381,7 +1294,6 @@
                                                 "numAssembliesOnRef": 0,
                                                 "numBuildingProductsOnRef": 0,
                                                 "numDiagramsOnRef": 0,
-                                                "orderIndex": 4200000,
                                                 "reference": "406.1.1",
                                                 "slug": "repairs",
                                                 "titleText": "Reconditioned Electrical Equipment",
@@ -1403,7 +1315,6 @@
                                                 "numAssembliesOnRef": 0,
                                                 "numBuildingProductsOnRef": 0,
                                                 "numDiagramsOnRef": 0,
-                                                "orderIndex": 4210000,
                                                 "reference": "406.1.2",
                                                 "slug": "repairs",
                                                 "titleText": "Health Care Facilities",
@@ -1427,7 +1338,6 @@
                                 "numAssembliesOnRef": 0,
                                 "numBuildingProductsOnRef": 0,
                                 "numDiagramsOnRef": 0,
-                                "orderIndex": 4220000,
                                 "reference": "407",
                                 "slug": "repairs",
                                 "titleText": "Mechanical",
@@ -1447,7 +1357,6 @@
                                         "numAssembliesOnRef": 0,
                                         "numBuildingProductsOnRef": 0,
                                         "numDiagramsOnRef": 0,
-                                        "orderIndex": 4230000,
                                         "reference": "407.1",
                                         "slug": "repairs",
                                         "titleText": "General",
@@ -1468,7 +1377,6 @@
                                         "numAssembliesOnRef": 0,
                                         "numBuildingProductsOnRef": 0,
                                         "numDiagramsOnRef": 0,
-                                        "orderIndex": 4240000,
                                         "reference": "407.2",
                                         "slug": "repairs",
                                         "titleText": "Mechanical Draft Systems for Manually Fired Appliances and Fireplaces",
@@ -1490,7 +1398,6 @@
                                 "numAssembliesOnRef": 0,
                                 "numBuildingProductsOnRef": 0,
                                 "numDiagramsOnRef": 0,
-                                "orderIndex": 4250000,
                                 "reference": "408",
                                 "slug": "repairs",
                                 "titleText": "Plumbing",
@@ -1510,7 +1417,6 @@
                                         "numAssembliesOnRef": 0,
                                         "numBuildingProductsOnRef": 0,
                                         "numDiagramsOnRef": 0,
-                                        "orderIndex": 4260000,
                                         "reference": "408.1",
                                         "slug": "repairs",
                                         "titleText": "Materials",
@@ -1531,7 +1437,6 @@
                                         "numAssembliesOnRef": 0,
                                         "numBuildingProductsOnRef": 1,
                                         "numDiagramsOnRef": 0,
-                                        "orderIndex": 4270000,
                                         "reference": "408.2",
                                         "slug": "repairs",
                                         "titleText": "Water Closet Replacement",
@@ -1552,7 +1457,6 @@
                                         "numAssembliesOnRef": 0,
                                         "numBuildingProductsOnRef": 0,
                                         "numDiagramsOnRef": 0,
-                                        "orderIndex": 4280000,
                                         "reference": "408.3",
                                         "slug": "repairs",
                                         "titleText": "Health Care Facilities",
@@ -1575,12 +1479,12 @@
         "chapterRef": "4",
         "chapterName": "repairs"
     },
-    "buildId": "3sK5kbysqJcr5ch6xNgjL",
+    "buildId": "fFVLMUIiiAoykBGFSOQHj",
     "isFallback": false,
     "isExperimentalCompile": false,
     "dynamicIds": [
-        22103,
-        99618
+        61621,
+        54065
     ],
     "gssp": true,
     "scriptLoader": []

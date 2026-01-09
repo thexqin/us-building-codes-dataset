@@ -19,6 +19,7 @@
                 ],
                 "ingesterAmendmentsEnabled": false,
                 "ingesterCodeUnitsEnabled": false,
+                "isAmendStylingEnabled": true,
                 "isCorrespondable": true,
                 "jurisKey": "general-services-administration",
                 "jurisName": "General Services Administration",
@@ -45,7 +46,6 @@
                                 "href": "#201.1",
                                 "isCodeDivider": false,
                                 "isCodeDividerClickable": false,
-                                "orderIndex": 2200000,
                                 "reference": "201.1"
                             },
                             {
@@ -57,7 +57,6 @@
                                 "href": "#201.2",
                                 "isCodeDivider": false,
                                 "isCodeDividerClickable": false,
-                                "orderIndex": 2210000,
                                 "reference": "201.2"
                             },
                             {
@@ -69,7 +68,6 @@
                                 "href": "#201.3",
                                 "isCodeDivider": false,
                                 "isCodeDividerClickable": false,
-                                "orderIndex": 2220000,
                                 "reference": "201.3"
                             },
                             {
@@ -81,7 +79,6 @@
                                 "href": "#201.4",
                                 "isCodeDivider": false,
                                 "isCodeDividerClickable": false,
-                                "orderIndex": 2230000,
                                 "reference": "201.4"
                             }
                         ],
@@ -91,7 +88,6 @@
                         "href": "#201",
                         "isCodeDivider": false,
                         "isCodeDividerClickable": false,
-                        "orderIndex": 2190000,
                         "reference": "201"
                     },
                     {
@@ -106,7 +102,6 @@
                                 "href": "#addition_",
                                 "isCodeDivider": false,
                                 "isCodeDividerClickable": false,
-                                "orderIndex": 2250000,
                                 "reference": "addition_"
                             },
                             {
@@ -118,7 +113,6 @@
                                 "href": "#alteration_",
                                 "isCodeDivider": false,
                                 "isCodeDividerClickable": false,
-                                "orderIndex": 2270000,
                                 "reference": "alteration_"
                             },
                             {
@@ -130,7 +124,6 @@
                                 "href": "#ambulatory_care_facility_",
                                 "isCodeDivider": false,
                                 "isCodeDividerClickable": false,
-                                "orderIndex": 2280000,
                                 "reference": "ambulatory_care_facility_"
                             },
                             {
@@ -142,7 +135,6 @@
                                 "href": "#approved_",
                                 "isCodeDivider": false,
                                 "isCodeDividerClickable": false,
-                                "orderIndex": 2290000,
                                 "reference": "approved_"
                             },
                             {
@@ -154,7 +146,6 @@
                                 "href": "#approved_agency_",
                                 "isCodeDivider": false,
                                 "isCodeDividerClickable": false,
-                                "orderIndex": 2300000,
                                 "reference": "approved_agency_"
                             },
                             {
@@ -166,7 +157,6 @@
                                 "href": "#BUILDING_",
                                 "isCodeDivider": false,
                                 "isCodeDividerClickable": false,
-                                "orderIndex": 2320000,
                                 "reference": "BUILDING_"
                             },
                             {
@@ -178,7 +168,6 @@
                                 "href": "#change_of_occupancy_",
                                 "isCodeDivider": false,
                                 "isCodeDividerClickable": false,
-                                "orderIndex": 2350000,
                                 "reference": "change_of_occupancy_"
                             },
                             {
@@ -190,7 +179,6 @@
                                 "href": "#change_of_use_",
                                 "isCodeDivider": false,
                                 "isCodeDividerClickable": false,
-                                "orderIndex": 2360000,
                                 "reference": "change_of_use_"
                             },
                             {
@@ -202,7 +190,6 @@
                                 "href": "#code_official_",
                                 "isCodeDivider": false,
                                 "isCodeDividerClickable": false,
-                                "orderIndex": 2380000,
                                 "reference": "code_official_"
                             },
                             {
@@ -214,7 +201,6 @@
                                 "href": "#dangerous_",
                                 "isCodeDivider": false,
                                 "isCodeDividerClickable": false,
-                                "orderIndex": 2390000,
                                 "reference": "dangerous_"
                             },
                             {
@@ -226,7 +212,6 @@
                                 "href": "#deferred_submittal_",
                                 "isCodeDivider": false,
                                 "isCodeDividerClickable": false,
-                                "orderIndex": 2400000,
                                 "reference": "deferred_submittal_"
                             },
                             {
@@ -238,7 +223,6 @@
                                 "href": "#disproportionate_earthquake_damage_",
                                 "isCodeDivider": false,
                                 "isCodeDividerClickable": false,
-                                "orderIndex": 2410000,
                                 "reference": "disproportionate_earthquake_damage_"
                             },
                             {
@@ -250,7 +234,6 @@
                                 "href": "#emergency_escape_and_rescue_opening_",
                                 "isCodeDivider": false,
                                 "isCodeDividerClickable": false,
-                                "orderIndex": 2420000,
                                 "reference": "emergency_escape_and_rescue_opening_"
                             },
                             {
@@ -262,7 +245,6 @@
                                 "href": "#equipment_or_fixture_",
                                 "isCodeDivider": false,
                                 "isCodeDividerClickable": false,
-                                "orderIndex": 2460000,
                                 "reference": "equipment_or_fixture_"
                             },
                             {
@@ -274,7 +256,6 @@
                                 "href": "#existing_building_",
                                 "isCodeDivider": false,
                                 "isCodeDividerClickable": false,
-                                "orderIndex": 2470000,
                                 "reference": "existing_building_"
                             },
                             {
@@ -286,7 +267,6 @@
                                 "href": "#existing_structure_",
                                 "isCodeDivider": false,
                                 "isCodeDividerClickable": false,
-                                "orderIndex": 2480000,
                                 "reference": "existing_structure_"
                             },
                             {
@@ -298,7 +278,6 @@
                                 "href": "#exterior_wall_covering_",
                                 "isCodeDivider": false,
                                 "isCodeDividerClickable": false,
-                                "orderIndex": 2490000,
                                 "reference": "exterior_wall_covering_"
                             },
                             {
@@ -310,7 +289,6 @@
                                 "href": "#exterior_wall_envelope_",
                                 "isCodeDivider": false,
                                 "isCodeDividerClickable": false,
-                                "orderIndex": 2500000,
                                 "reference": "exterior_wall_envelope_"
                             },
                             {
@@ -322,7 +300,6 @@
                                 "href": "#facility_",
                                 "isCodeDivider": false,
                                 "isCodeDividerClickable": false,
-                                "orderIndex": 2510000,
                                 "reference": "facility_"
                             },
                             {
@@ -334,7 +311,6 @@
                                 "href": "#flood_hazard_area_",
                                 "isCodeDivider": false,
                                 "isCodeDividerClickable": false,
-                                "orderIndex": 2530000,
                                 "reference": "flood_hazard_area_"
                             },
                             {
@@ -346,7 +322,6 @@
                                 "href": "#historic_building_",
                                 "isCodeDivider": false,
                                 "isCodeDividerClickable": false,
-                                "orderIndex": 2550000,
                                 "reference": "historic_building_"
                             },
                             {
@@ -358,7 +333,6 @@
                                 "href": "#listed_",
                                 "isCodeDivider": false,
                                 "isCodeDividerClickable": false,
-                                "orderIndex": 2570000,
                                 "reference": "listed_"
                             },
                             {
@@ -370,7 +344,6 @@
                                 "href": "#lowest_floor_",
                                 "isCodeDivider": false,
                                 "isCodeDividerClickable": false,
-                                "orderIndex": 2580000,
                                 "reference": "lowest_floor_"
                             },
                             {
@@ -382,7 +355,6 @@
                                 "href": "#noncombustible_material_",
                                 "isCodeDivider": false,
                                 "isCodeDividerClickable": false,
-                                "orderIndex": 2600000,
                                 "reference": "noncombustible_material_"
                             },
                             {
@@ -394,7 +366,6 @@
                                 "href": "#occupiable_roof_",
                                 "isCodeDivider": false,
                                 "isCodeDividerClickable": false,
-                                "orderIndex": 2610000,
                                 "reference": "occupiable_roof_"
                             },
                             {
@@ -406,7 +377,6 @@
                                 "href": "#peer_review_",
                                 "isCodeDivider": false,
                                 "isCodeDividerClickable": false,
-                                "orderIndex": 2670000,
                                 "reference": "peer_review_"
                             },
                             {
@@ -418,7 +388,6 @@
                                 "href": "#photovoltaic_panel_system_",
                                 "isCodeDivider": false,
                                 "isCodeDividerClickable": false,
-                                "orderIndex": 2680000,
                                 "reference": "photovoltaic_panel_system_"
                             },
                             {
@@ -430,7 +399,6 @@
                                 "href": "#primary_function_",
                                 "isCodeDivider": false,
                                 "isCodeDividerClickable": false,
-                                "orderIndex": 2700000,
                                 "reference": "primary_function_"
                             },
                             {
@@ -442,7 +410,6 @@
                                 "href": "#registered_design_professional_in_responsible_charge_",
                                 "isCodeDivider": false,
                                 "isCodeDividerClickable": false,
-                                "orderIndex": 2730000,
                                 "reference": "registered_design_professional_in_responsible_charge_"
                             },
                             {
@@ -454,7 +421,6 @@
                                 "href": "#relocatable_building_",
                                 "isCodeDivider": false,
                                 "isCodeDividerClickable": false,
-                                "orderIndex": 2740000,
                                 "reference": "relocatable_building_"
                             },
                             {
@@ -466,7 +432,6 @@
                                 "href": "#repair_",
                                 "isCodeDivider": false,
                                 "isCodeDividerClickable": false,
-                                "orderIndex": 2750000,
                                 "reference": "repair_"
                             },
                             {
@@ -478,7 +443,6 @@
                                 "href": "#reroofing_",
                                 "isCodeDivider": false,
                                 "isCodeDividerClickable": false,
-                                "orderIndex": 2760000,
                                 "reference": "reroofing_"
                             },
                             {
@@ -490,7 +454,6 @@
                                 "href": "#risk_category_",
                                 "isCodeDivider": false,
                                 "isCodeDividerClickable": false,
-                                "orderIndex": 2780000,
                                 "reference": "risk_category_"
                             },
                             {
@@ -502,7 +465,6 @@
                                 "href": "#roof_coating_",
                                 "isCodeDivider": false,
                                 "isCodeDividerClickable": false,
-                                "orderIndex": 2790000,
                                 "reference": "roof_coating_"
                             },
                             {
@@ -514,7 +476,6 @@
                                 "href": "#roof_recover_",
                                 "isCodeDivider": false,
                                 "isCodeDividerClickable": false,
-                                "orderIndex": 2800000,
                                 "reference": "roof_recover_"
                             },
                             {
@@ -526,7 +487,6 @@
                                 "href": "#roof_repair_",
                                 "isCodeDivider": false,
                                 "isCodeDividerClickable": false,
-                                "orderIndex": 2810000,
                                 "reference": "roof_repair_"
                             },
                             {
@@ -538,7 +498,6 @@
                                 "href": "#roof_replacement_",
                                 "isCodeDivider": false,
                                 "isCodeDividerClickable": false,
-                                "orderIndex": 2820000,
                                 "reference": "roof_replacement_"
                             },
                             {
@@ -550,7 +509,6 @@
                                 "href": "#storm_shelter_",
                                 "isCodeDivider": false,
                                 "isCodeDividerClickable": false,
-                                "orderIndex": 2830000,
                                 "reference": "storm_shelter_"
                             },
                             {
@@ -562,7 +520,6 @@
                                 "href": "#substantial_damage_",
                                 "isCodeDivider": false,
                                 "isCodeDividerClickable": false,
-                                "orderIndex": 2840000,
                                 "reference": "substantial_damage_"
                             },
                             {
@@ -574,7 +531,6 @@
                                 "href": "#substantial_improvement_",
                                 "isCodeDivider": false,
                                 "isCodeDividerClickable": false,
-                                "orderIndex": 2850000,
                                 "reference": "substantial_improvement_"
                             },
                             {
@@ -586,7 +542,6 @@
                                 "href": "#substantial_structural_alteration_",
                                 "isCodeDivider": false,
                                 "isCodeDividerClickable": false,
-                                "orderIndex": 2860000,
                                 "reference": "substantial_structural_alteration_"
                             },
                             {
@@ -598,7 +553,6 @@
                                 "href": "#substantial_structural_damage_",
                                 "isCodeDivider": false,
                                 "isCodeDividerClickable": false,
-                                "orderIndex": 2870000,
                                 "reference": "substantial_structural_damage_"
                             },
                             {
@@ -610,7 +564,6 @@
                                 "href": "#technically_infeasible_",
                                 "isCodeDivider": false,
                                 "isCodeDividerClickable": false,
-                                "orderIndex": 2880000,
                                 "reference": "technically_infeasible_"
                             },
                             {
@@ -622,7 +575,6 @@
                                 "href": "#unsafe_",
                                 "isCodeDivider": false,
                                 "isCodeDividerClickable": false,
-                                "orderIndex": 2920000,
                                 "reference": "unsafe_"
                             },
                             {
@@ -634,7 +586,6 @@
                                 "href": "#work_area_",
                                 "isCodeDivider": false,
                                 "isCodeDividerClickable": false,
-                                "orderIndex": 2930000,
                                 "reference": "work_area_"
                             }
                         ],
@@ -644,7 +595,6 @@
                         "href": "#202",
                         "isCodeDivider": false,
                         "isCodeDividerClickable": false,
-                        "orderIndex": 2240000,
                         "reference": "202"
                     }
                 ],
@@ -653,153 +603,131 @@
                     {
                         "displayTitle": "Chapter 1 Scope and Administration",
                         "isExpandable": true,
-                        "orderIndex": 10000,
                         "reference": "1",
                         "slug": "scope-and-administration"
                     },
                     {
                         "displayTitle": "Chapter 2 Definitions",
                         "isExpandable": true,
-                        "orderIndex": 2180000,
                         "reference": "2",
                         "slug": "definitions"
                     },
                     {
                         "displayTitle": "Chapter 3 Provisions for All Compliance Methods",
                         "isExpandable": true,
-                        "orderIndex": 2940000,
                         "reference": "3",
                         "slug": "provisions-for-all-compliance-methods"
                     },
                     {
                         "displayTitle": "Chapter 4 Repairs",
                         "isExpandable": true,
-                        "orderIndex": 3900000,
                         "reference": "4",
                         "slug": "repairs"
                     },
                     {
                         "displayTitle": "Chapter 5 Prescriptive Compliance Method",
                         "isExpandable": true,
-                        "orderIndex": 4290000,
                         "reference": "5",
                         "slug": "prescriptive-compliance-method"
                     },
                     {
                         "displayTitle": "Chapter 6 Classification of Work",
                         "isExpandable": true,
-                        "orderIndex": 4990000,
                         "reference": "6",
                         "slug": "classification-of-work"
                     },
                     {
                         "displayTitle": "Chapter 7 Alterations\u2014Level 1",
                         "isExpandable": true,
-                        "orderIndex": 5220000,
                         "reference": "7",
                         "slug": "alterations-level-1"
                     },
                     {
                         "displayTitle": "Chapter 8 Alterations\u2014Level 2",
                         "isExpandable": true,
-                        "orderIndex": 5650000,
                         "reference": "8",
                         "slug": "alterations-level-2"
                     },
                     {
                         "displayTitle": "Chapter 9 Alterations\u2014Level 3",
                         "isExpandable": true,
-                        "orderIndex": 6790000,
                         "reference": "9",
                         "slug": "alterations-level-3"
                     },
                     {
                         "displayTitle": "Chapter 10 Change of Occupancy",
                         "isExpandable": true,
-                        "orderIndex": 7290000,
                         "reference": "10",
                         "slug": "change-of-occupancy"
                     },
                     {
                         "displayTitle": "Chapter 11 Additions",
                         "isExpandable": true,
-                        "orderIndex": 7990000,
                         "reference": "11",
                         "slug": "additions"
                     },
                     {
                         "displayTitle": "Chapter 12 Historic Buildings",
                         "isExpandable": true,
-                        "orderIndex": 8190000,
                         "reference": "12",
                         "slug": "historic-buildings"
                     },
                     {
                         "displayTitle": "Chapter 13 Performance Compliance Methods",
                         "isExpandable": true,
-                        "orderIndex": 8660000,
                         "reference": "13",
                         "slug": "performance-compliance-methods"
                     },
                     {
                         "displayTitle": "Chapter 14 Relocated or Moved Buildings",
                         "isExpandable": true,
-                        "orderIndex": 9490000,
                         "reference": "14",
                         "slug": "relocated-or-moved-buildings"
                     },
                     {
                         "displayTitle": "Chapter 15 Construction Safeguards",
                         "isExpandable": true,
-                        "orderIndex": 9630000,
                         "reference": "15",
                         "slug": "construction-safeguards"
                     },
                     {
                         "displayTitle": "Chapter 16 Referenced Standards",
-                        "orderIndex": 10220000,
                         "reference": "16",
                         "slug": "referenced-standards"
                     },
                     {
                         "disabled": true,
                         "displayTitle": "Appendix A Guidelines for the Seismic Retrofit of Existing Buildings",
-                        "orderIndex": 10230000,
                         "reference": "A",
                         "slug": "guidelines-for-the-seismic-retrofit-of-existing-buildings"
                     },
                     {
                         "disabled": true,
                         "displayTitle": "Appendix B Supplementary Accessibility Requirements for Existing Buildings and Facilities",
-                        "orderIndex": 12610000,
                         "reference": "B",
                         "slug": "supplementary-accessibility-requirements-for-existing-buildings-and-facilities"
                     },
                     {
                         "disabled": true,
                         "displayTitle": "Appendix C Guidelines for the Wind Retrofit of Existing Buildings",
-                        "orderIndex": 12830000,
                         "reference": "C",
                         "slug": "guidelines-for-the-wind-retrofit-of-existing-buildings"
                     },
                     {
                         "disabled": true,
                         "displayTitle": "Appendix D Board of Appeals",
-                        "orderIndex": 13410000,
                         "reference": "D",
                         "slug": "board-of-appeals"
                     },
                     {
                         "disabled": true,
                         "displayTitle": "Appendix E Temporary Emergency Uses",
-                        "orderIndex": 13660000,
                         "reference": "E",
                         "slug": "temporary-emergency-uses"
                     },
                     {
                         "disabled": true,
                         "displayTitle": "Resource A Guidelines on Fire Ratings of Archaic Materials and Assemblies",
-                        "orderIndex": 14420000,
                         "reference": "resource_A",
                         "slug": "guidelines-on-fire-ratings-of-archaic-materials-and-assemblies"
                     }
@@ -818,7 +746,6 @@
                         "numAssembliesOnRef": 0,
                         "numBuildingProductsOnRef": 0,
                         "numDiagramsOnRef": 0,
-                        "orderIndex": 2180000,
                         "reference": "2",
                         "slug": "definitions",
                         "titleText": "Definitions",
@@ -837,7 +764,6 @@
                                 "numAssembliesOnRef": 0,
                                 "numBuildingProductsOnRef": 0,
                                 "numDiagramsOnRef": 0,
-                                "orderIndex": 2190000,
                                 "reference": "201",
                                 "slug": "definitions",
                                 "titleText": "General",
@@ -857,7 +783,6 @@
                                         "numAssembliesOnRef": 0,
                                         "numBuildingProductsOnRef": 0,
                                         "numDiagramsOnRef": 0,
-                                        "orderIndex": 2200000,
                                         "reference": "201.1",
                                         "refPrefix": "[NY]",
                                         "slug": "definitions",
@@ -879,7 +804,6 @@
                                         "numAssembliesOnRef": 0,
                                         "numBuildingProductsOnRef": 0,
                                         "numDiagramsOnRef": 0,
-                                        "orderIndex": 2210000,
                                         "reference": "201.2",
                                         "refPrefix": "[NY]",
                                         "slug": "definitions",
@@ -901,7 +825,6 @@
                                         "numAssembliesOnRef": 0,
                                         "numBuildingProductsOnRef": 0,
                                         "numDiagramsOnRef": 0,
-                                        "orderIndex": 2220000,
                                         "reference": "201.3",
                                         "refPrefix": "[NY]",
                                         "slug": "definitions",
@@ -923,7 +846,6 @@
                                         "numAssembliesOnRef": 0,
                                         "numBuildingProductsOnRef": 0,
                                         "numDiagramsOnRef": 0,
-                                        "orderIndex": 2230000,
                                         "reference": "201.4",
                                         "refPrefix": "[NY]",
                                         "slug": "definitions",
@@ -981,7 +903,6 @@
                                 "numAssembliesOnRef": 0,
                                 "numBuildingProductsOnRef": 0,
                                 "numDiagramsOnRef": 2,
-                                "orderIndex": 2240000,
                                 "reference": "202",
                                 "slug": "definitions",
                                 "titleText": "General Definitions",
@@ -1002,7 +923,6 @@
                                         "numAssembliesOnRef": 0,
                                         "numBuildingProductsOnRef": 0,
                                         "numDiagramsOnRef": 0,
-                                        "orderIndex": 2250000,
                                         "reference": "addition_",
                                         "refPrefix": "[A]",
                                         "slug": "definitions",
@@ -1025,7 +945,6 @@
                                         "numAssembliesOnRef": 0,
                                         "numBuildingProductsOnRef": 0,
                                         "numDiagramsOnRef": 0,
-                                        "orderIndex": 2270000,
                                         "reference": "alteration_",
                                         "refPrefix": "[A]",
                                         "slug": "definitions",
@@ -1048,7 +967,6 @@
                                         "numAssembliesOnRef": 0,
                                         "numBuildingProductsOnRef": 0,
                                         "numDiagramsOnRef": 0,
-                                        "orderIndex": 2280000,
                                         "reference": "ambulatory_care_facility_",
                                         "refPrefix": "[BG]",
                                         "slug": "definitions",
@@ -1071,7 +989,6 @@
                                         "numAssembliesOnRef": 0,
                                         "numBuildingProductsOnRef": 0,
                                         "numDiagramsOnRef": 0,
-                                        "orderIndex": 2290000,
                                         "reference": "approved_",
                                         "refPrefix": "[A]",
                                         "slug": "definitions",
@@ -1094,7 +1011,6 @@
                                         "numAssembliesOnRef": 0,
                                         "numBuildingProductsOnRef": 0,
                                         "numDiagramsOnRef": 0,
-                                        "orderIndex": 2300000,
                                         "reference": "approved_agency_",
                                         "refPrefix": "[A]",
                                         "slug": "definitions",
@@ -1117,7 +1033,6 @@
                                         "numAssembliesOnRef": 0,
                                         "numBuildingProductsOnRef": 0,
                                         "numDiagramsOnRef": 0,
-                                        "orderIndex": 2320000,
                                         "reference": "BUILDING_",
                                         "refPrefix": "[A]",
                                         "slug": "definitions",
@@ -1140,7 +1055,6 @@
                                         "numAssembliesOnRef": 0,
                                         "numBuildingProductsOnRef": 0,
                                         "numDiagramsOnRef": 0,
-                                        "orderIndex": 2350000,
                                         "reference": "change_of_occupancy_",
                                         "refPrefix": "[A]",
                                         "slug": "definitions",
@@ -1163,7 +1077,6 @@
                                         "numAssembliesOnRef": 0,
                                         "numBuildingProductsOnRef": 0,
                                         "numDiagramsOnRef": 0,
-                                        "orderIndex": 2360000,
                                         "reference": "change_of_use_",
                                         "refPrefix": "[A]",
                                         "slug": "definitions",
@@ -1186,7 +1099,6 @@
                                         "numAssembliesOnRef": 0,
                                         "numBuildingProductsOnRef": 0,
                                         "numDiagramsOnRef": 0,
-                                        "orderIndex": 2380000,
                                         "reference": "code_official_",
                                         "refPrefix": "[A]",
                                         "slug": "definitions",
@@ -1209,7 +1121,6 @@
                                         "numAssembliesOnRef": 0,
                                         "numBuildingProductsOnRef": 0,
                                         "numDiagramsOnRef": 0,
-                                        "orderIndex": 2390000,
                                         "reference": "dangerous_",
                                         "refPrefix": "[BS]",
                                         "slug": "definitions",
@@ -1232,7 +1143,6 @@
                                         "numAssembliesOnRef": 0,
                                         "numBuildingProductsOnRef": 0,
                                         "numDiagramsOnRef": 0,
-                                        "orderIndex": 2400000,
                                         "reference": "deferred_submittal_",
                                         "refPrefix": "[A]",
                                         "slug": "definitions",
@@ -1255,7 +1165,6 @@
                                         "numAssembliesOnRef": 0,
                                         "numBuildingProductsOnRef": 0,
                                         "numDiagramsOnRef": 0,
-                                        "orderIndex": 2410000,
                                         "reference": "disproportionate_earthquake_damage_",
                                         "refPrefix": "[BS]",
                                         "slug": "definitions",
@@ -1278,7 +1187,6 @@
                                         "numAssembliesOnRef": 0,
                                         "numBuildingProductsOnRef": 0,
                                         "numDiagramsOnRef": 0,
-                                        "orderIndex": 2420000,
                                         "reference": "emergency_escape_and_rescue_opening_",
                                         "refPrefix": "[BE]",
                                         "slug": "definitions",
@@ -1301,7 +1209,6 @@
                                         "numAssembliesOnRef": 0,
                                         "numBuildingProductsOnRef": 0,
                                         "numDiagramsOnRef": 0,
-                                        "orderIndex": 2460000,
                                         "reference": "equipment_or_fixture_",
                                         "slug": "definitions",
                                         "titleText": "Equipment or Fixture",
@@ -1323,7 +1230,6 @@
                                         "numAssembliesOnRef": 0,
                                         "numBuildingProductsOnRef": 0,
                                         "numDiagramsOnRef": 0,
-                                        "orderIndex": 2470000,
                                         "reference": "existing_building_",
                                         "refPrefix": "[A]",
                                         "slug": "definitions",
@@ -1346,7 +1252,6 @@
                                         "numAssembliesOnRef": 0,
                                         "numBuildingProductsOnRef": 0,
                                         "numDiagramsOnRef": 0,
-                                        "orderIndex": 2480000,
                                         "reference": "existing_structure_",
                                         "refPrefix": "[A]",
                                         "slug": "definitions",
@@ -1369,7 +1274,6 @@
                                         "numAssembliesOnRef": 0,
                                         "numBuildingProductsOnRef": 0,
                                         "numDiagramsOnRef": 0,
-                                        "orderIndex": 2490000,
                                         "reference": "exterior_wall_covering_",
                                         "refPrefix": "[BF]",
                                         "slug": "definitions",
@@ -1392,7 +1296,6 @@
                                         "numAssembliesOnRef": 0,
                                         "numBuildingProductsOnRef": 0,
                                         "numDiagramsOnRef": 0,
-                                        "orderIndex": 2500000,
                                         "reference": "exterior_wall_envelope_",
                                         "refPrefix": "[BF]",
                                         "slug": "definitions",
@@ -1415,7 +1318,6 @@
                                         "numAssembliesOnRef": 0,
                                         "numBuildingProductsOnRef": 0,
                                         "numDiagramsOnRef": 0,
-                                        "orderIndex": 2510000,
                                         "reference": "facility_",
                                         "refPrefix": "[A]",
                                         "slug": "definitions",
@@ -1438,7 +1340,6 @@
                                         "numAssembliesOnRef": 0,
                                         "numBuildingProductsOnRef": 0,
                                         "numDiagramsOnRef": 0,
-                                        "orderIndex": 2530000,
                                         "reference": "flood_hazard_area_",
                                         "refPrefix": "[BS]",
                                         "slug": "definitions",
@@ -1461,7 +1362,6 @@
                                         "numAssembliesOnRef": 0,
                                         "numBuildingProductsOnRef": 0,
                                         "numDiagramsOnRef": 0,
-                                        "orderIndex": 2550000,
                                         "reference": "historic_building_",
                                         "refPrefix": "[A]",
                                         "slug": "definitions",
@@ -1484,7 +1384,6 @@
                                         "numAssembliesOnRef": 0,
                                         "numBuildingProductsOnRef": 0,
                                         "numDiagramsOnRef": 0,
-                                        "orderIndex": 2570000,
                                         "reference": "listed_",
                                         "refPrefix": "[A]",
                                         "slug": "definitions",
@@ -1507,7 +1406,6 @@
                                         "numAssembliesOnRef": 0,
                                         "numBuildingProductsOnRef": 0,
                                         "numDiagramsOnRef": 0,
-                                        "orderIndex": 2580000,
                                         "reference": "lowest_floor_",
                                         "refPrefix": "[BS]",
                                         "slug": "definitions",
@@ -1530,7 +1428,6 @@
                                         "numAssembliesOnRef": 0,
                                         "numBuildingProductsOnRef": 0,
                                         "numDiagramsOnRef": 0,
-                                        "orderIndex": 2600000,
                                         "reference": "noncombustible_material_",
                                         "refPrefix": "[BF]",
                                         "slug": "definitions",
@@ -1553,7 +1450,6 @@
                                         "numAssembliesOnRef": 0,
                                         "numBuildingProductsOnRef": 0,
                                         "numDiagramsOnRef": 0,
-                                        "orderIndex": 2610000,
                                         "reference": "occupiable_roof_",
                                         "refPrefix": "[BG]",
                                         "slug": "definitions",
@@ -1576,7 +1472,6 @@
                                         "numAssembliesOnRef": 0,
                                         "numBuildingProductsOnRef": 0,
                                         "numDiagramsOnRef": 0,
-                                        "orderIndex": 2670000,
                                         "reference": "peer_review_",
                                         "refPrefix": "[A]",
                                         "slug": "definitions",
@@ -1599,7 +1494,6 @@
                                         "numAssembliesOnRef": 0,
                                         "numBuildingProductsOnRef": 0,
                                         "numDiagramsOnRef": 0,
-                                        "orderIndex": 2680000,
                                         "reference": "photovoltaic_panel_system_",
                                         "refPrefix": "[BS]",
                                         "slug": "definitions",
@@ -1622,7 +1516,6 @@
                                         "numAssembliesOnRef": 0,
                                         "numBuildingProductsOnRef": 0,
                                         "numDiagramsOnRef": 0,
-                                        "orderIndex": 2700000,
                                         "reference": "primary_function_",
                                         "slug": "definitions",
                                         "titleText": "Primary Function",
@@ -1644,7 +1537,6 @@
                                         "numAssembliesOnRef": 0,
                                         "numBuildingProductsOnRef": 0,
                                         "numDiagramsOnRef": 0,
-                                        "orderIndex": 2730000,
                                         "reference": "registered_design_professional_in_responsible_charge_",
                                         "refPrefix": "[A]",
                                         "slug": "definitions",
@@ -1667,7 +1559,6 @@
                                         "numAssembliesOnRef": 0,
                                         "numBuildingProductsOnRef": 0,
                                         "numDiagramsOnRef": 0,
-                                        "orderIndex": 2740000,
                                         "reference": "relocatable_building_",
                                         "refPrefix": "[A]",
                                         "slug": "definitions",
@@ -1690,7 +1581,6 @@
                                         "numAssembliesOnRef": 0,
                                         "numBuildingProductsOnRef": 0,
                                         "numDiagramsOnRef": 0,
-                                        "orderIndex": 2750000,
                                         "reference": "repair_",
                                         "refPrefix": "[A]",
                                         "slug": "definitions",
@@ -1713,7 +1603,6 @@
                                         "numAssembliesOnRef": 0,
                                         "numBuildingProductsOnRef": 0,
                                         "numDiagramsOnRef": 0,
-                                        "orderIndex": 2760000,
                                         "reference": "reroofing_",
                                         "refPrefix": "[BS]",
                                         "slug": "definitions",
@@ -1736,7 +1625,6 @@
                                         "numAssembliesOnRef": 0,
                                         "numBuildingProductsOnRef": 0,
                                         "numDiagramsOnRef": 0,
-                                        "orderIndex": 2780000,
                                         "reference": "risk_category_",
                                         "refPrefix": "[BS]",
                                         "slug": "definitions",
@@ -1759,7 +1647,6 @@
                                         "numAssembliesOnRef": 0,
                                         "numBuildingProductsOnRef": 0,
                                         "numDiagramsOnRef": 0,
-                                        "orderIndex": 2790000,
                                         "reference": "roof_coating_",
                                         "refPrefix": "[BS]",
                                         "slug": "definitions",
@@ -1782,7 +1669,6 @@
                                         "numAssembliesOnRef": 0,
                                         "numBuildingProductsOnRef": 0,
                                         "numDiagramsOnRef": 0,
-                                        "orderIndex": 2800000,
                                         "reference": "roof_recover_",
                                         "refPrefix": "[BS]",
                                         "slug": "definitions",
@@ -1805,7 +1691,6 @@
                                         "numAssembliesOnRef": 0,
                                         "numBuildingProductsOnRef": 0,
                                         "numDiagramsOnRef": 0,
-                                        "orderIndex": 2810000,
                                         "reference": "roof_repair_",
                                         "refPrefix": "[BS]",
                                         "slug": "definitions",
@@ -1828,7 +1713,6 @@
                                         "numAssembliesOnRef": 0,
                                         "numBuildingProductsOnRef": 0,
                                         "numDiagramsOnRef": 0,
-                                        "orderIndex": 2820000,
                                         "reference": "roof_replacement_",
                                         "refPrefix": "[BS]",
                                         "slug": "definitions",
@@ -1851,7 +1735,6 @@
                                         "numAssembliesOnRef": 0,
                                         "numBuildingProductsOnRef": 0,
                                         "numDiagramsOnRef": 0,
-                                        "orderIndex": 2830000,
                                         "reference": "storm_shelter_",
                                         "refPrefix": "[BG]",
                                         "slug": "definitions",
@@ -1874,7 +1757,6 @@
                                         "numAssembliesOnRef": 0,
                                         "numBuildingProductsOnRef": 0,
                                         "numDiagramsOnRef": 0,
-                                        "orderIndex": 2840000,
                                         "reference": "substantial_damage_",
                                         "refPrefix": "[BS]",
                                         "slug": "definitions",
@@ -1897,7 +1779,6 @@
                                         "numAssembliesOnRef": 0,
                                         "numBuildingProductsOnRef": 0,
                                         "numDiagramsOnRef": 0,
-                                        "orderIndex": 2850000,
                                         "reference": "substantial_improvement_",
                                         "refPrefix": "[BS]",
                                         "slug": "definitions",
@@ -1920,7 +1801,6 @@
                                         "numAssembliesOnRef": 0,
                                         "numBuildingProductsOnRef": 0,
                                         "numDiagramsOnRef": 0,
-                                        "orderIndex": 2860000,
                                         "reference": "substantial_structural_alteration_",
                                         "refPrefix": "[BS]",
                                         "slug": "definitions",
@@ -1943,7 +1823,6 @@
                                         "numAssembliesOnRef": 0,
                                         "numBuildingProductsOnRef": 0,
                                         "numDiagramsOnRef": 0,
-                                        "orderIndex": 2870000,
                                         "reference": "substantial_structural_damage_",
                                         "refPrefix": "[BS]",
                                         "slug": "definitions",
@@ -1957,16 +1836,55 @@
                                         ],
                                         "body": "An <span class=\"u-italic\"><a class=\"autolink\" href=\"#alteration_\">alteration</a></span> of a <span class=\"u-italic\"><a class=\"autolink\" href=\"#facility_\">facility</a></span> that has little likelihood of being accomplished because the existing structural conditions require the removal or <span class=\"u-italic\"><a class=\"autolink\" href=\"#alteration_\">alteration</a></span> of a load-bearing member that is an essential part of the structural frame, or because other existing physical or site constraints prohibit modification or <a class=\"autolink\" href=\"#addition_\">addition</a> of elements, spaces or features which are in full and strict compliance with the minimum requirements for new construction and which are necessary to provide accessibility.",
                                         "depth": 2,
-                                        "diagrams": [],
+                                        "diagrams": [
+                                            {
+                                                "key": "technical_infeasibility_1",
+                                                "title": "Technical Infeasibility: Dressing, Fitting and Locker  - Example 1",
+                                                "descriptionHtml": "<div>Where separate-sex facilities are provided, accessible facilities for each sex are required.  Where only unisex facilities are provided separate-sex facilities are not required.  Where it is deemed technically infeasible to provide accessible facilities in the same location as similar existing facilities an accessible room of the same type of facility shall be provide on the same level. </div><br/>\n<div>Example: Men's and women's dressing rooms are provided on the 3rd level but are not accessible, an accessible men's dressing room and an accessible women's dressing room are required to be added to the 3rd level.</div>",
+                                                "topics": [
+                                                    "Definition",
+                                                    "Example",
+                                                    "Access"
+                                                ],
+                                                "phases": [
+                                                    "Post-Construction",
+                                                    "Construction Docs",
+                                                    "Construction Phase"
+                                                ],
+                                                "supressesChildrenAssociations": false,
+                                                "blacklistJurisdictions": [],
+                                                "whitelistJurisdictions": [],
+                                                "imageType": "svg"
+                                            },
+                                            {
+                                                "key": "technical_infeasibility_2",
+                                                "title": "Technical Infeasibility: Dressing, Fitting and Locker Rooms - Example 2",
+                                                "descriptionHtml": "<div>Where separate-sex facilities are provided, accessible facilities for each sex are required.  Where only unisex facilities are provided separate-sex facilities are not required.  Where it is deemed technically infeasible to provide accessible facilities in the same location as similar existing facilities an accessible room of the same type of facility shall be provide on the same level. </div><br/>\n<div>In the illustrated example, an accessible fitting room is not able to be provided at the same location as the existing facilities due to structural walls and other existing conditions, such as plumbing facilities. Therefore an accessible fitting room must be provided on the same floor, but can be located in another area within the space.</div>",
+                                                "topics": [
+                                                    "Definition",
+                                                    "Example",
+                                                    "Access"
+                                                ],
+                                                "phases": [
+                                                    "Construction Docs",
+                                                    "Construction Phase",
+                                                    "Post-Construction"
+                                                ],
+                                                "supressesChildrenAssociations": false,
+                                                "blacklistJurisdictions": [],
+                                                "whitelistJurisdictions": [],
+                                                "imageType": "svg"
+                                            }
+                                        ],
                                         "displayRef": null,
                                         "displayTitle": "Technically Infeasible",
                                         "hasAssemblies": false,
                                         "hasDiagrams": true,
+                                        "hasDiagramsOnRef": true,
                                         "isContiguous": true,
                                         "numAssembliesOnRef": 0,
                                         "numBuildingProductsOnRef": 0,
-                                        "numDiagramsOnRef": 0,
-                                        "orderIndex": 2880000,
+                                        "numDiagramsOnRef": 2,
                                         "reference": "technically_infeasible_",
                                         "slug": "definitions",
                                         "titleText": "Technically Infeasible",
@@ -1988,7 +1906,6 @@
                                         "numAssembliesOnRef": 0,
                                         "numBuildingProductsOnRef": 0,
                                         "numDiagramsOnRef": 0,
-                                        "orderIndex": 2920000,
                                         "reference": "unsafe_",
                                         "slug": "definitions",
                                         "titleText": "Unsafe",
@@ -2028,7 +1945,6 @@
                                         "numAssembliesOnRef": 0,
                                         "numBuildingProductsOnRef": 0,
                                         "numDiagramsOnRef": 1,
-                                        "orderIndex": 2930000,
                                         "reference": "work_area_",
                                         "slug": "definitions",
                                         "titleText": "Work Area",
@@ -2051,12 +1967,12 @@
         "chapterRef": "2",
         "chapterName": "definitions"
     },
-    "buildId": "3sK5kbysqJcr5ch6xNgjL",
+    "buildId": "fFVLMUIiiAoykBGFSOQHj",
     "isFallback": false,
     "isExperimentalCompile": false,
     "dynamicIds": [
-        22103,
-        99618
+        61621,
+        54065
     ],
     "gssp": true,
     "scriptLoader": []
