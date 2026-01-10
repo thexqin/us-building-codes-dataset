@@ -1,49 +1,98 @@
-# 🇺🇸 us-building-codes-dataset
+# US Building Codes Dataset Pipeline
 
-**Creating a Structured, Machine-Readable Dataset of US Building Codes**
+This repository contains a comprehensive, multi-stage pipeline designed to scrape, parse, and enrich US building codes (IBC, IRC, IEBC) and ADA standards. By combining programmatic parsing with LLM-based (OpenAI/Gemini) inference, this project transforms complex, hierarchical web data into structured, analysis-ready datasets.
 
-This repository provides a complete, robust Python pipeline for converting raw US building code content from **up.codes** into a structured, compliance-checking ready dataset. The final output is an Elasticsearch-ready JSON file, making the data directly queryable for AI and BIM compliance tools, such as the [cuniform](https://github.com/cuniform) project.
+## 🏗 Data Pipeline Architecture
 
-## 🚀 The Three-Stage Pipeline
+The repository employs a **"Base-to-State"** enrichment strategy. This maximizes data quality while minimizing API costs by using the GSA (General Services Administration) baseline as a semantic template for state-specific variations.
 
-The project executes a full pipeline to transform raw, embedded JSON into fully analyzed and indexed data. 
+### 1. Extraction & Initial Parse
 
-| Stage | Process | Output | Key Technology |
-| :--- | :--- | :--- | :--- |
-| **1. Acquisition** | Scrapes embedded JSON content from `up.codes` URLs, handling different code versions (IBC, IRC, IEBC). | Raw JSON files (per chapter) | Python, `requests`, `BeautifulSoup` |
-| **2. Structuring** | **Python/Regex** recursion to determine rule hierarchy, clean HTML, and extract plain text. | Structured CSV file (per chapter) | JSON Parsing, Regex |
-| **3. Abstraction & Indexing** | **LLM (OpenAI/Gemini)** performs structured Pydantic extraction and converts the final data into an indexable format. | Elasticsearch JSON (Bulk API) | Pydantic, LLM APIs, MD5 Hashing |
+* **Source**: Targets URLs defined in `upcodes-links.txt`.
+* **Storage**: Raw data is captured as JSON in `state-codes/` and `gsa-codes/`.
+* **Standard Parsing**: Extracts fundamental fields (ID, Section, Title, Body) into clean CSVs without AI intervention to establish the structural backbone.
 
-## ✨ AI-Powered Rule Abstraction & Data Fields
+### 2. Base Enrichment (GSA Template)
 
-The most critical step, Stage 3, utilizes Large Language Models (LLMs) to enrich the data with fields essential for automated compliance checking. The final CSV and JSON documents contain the following fields:
+* **LLM Inference**: Heavy AI analysis is performed **only** on `gsa-codes`.
+* **Metadata Generation**: The AI identifies IFC types, occupancy groups, design phases, and professional responsibilities.
+* **Result**: Creates an "AI Baseline" in `ai-codes/` that serves as a lookup table for state codes.
 
-| Field | Description | Type | Purpose in BIM Check |
-| :--- | :--- | :--- | :--- |
-| **`section`** | The top-level section title (e.g., *Section 202 Definitions*). | Text | High-level rule categorization. |
-| **`reference`** | The specific numerical or alphabetical reference (e.g., `2.202.1`). | Text | Hierarchical rule addressing. |
-| **`display_title`** | The title of the current sub-section or rule. | Text | Local context and identification. |
-| **`depth`** | The hierarchical nesting level of the rule (0 is highest). | Integer | Determines rule priority/specificity. |
-| **`body`** | The cleaned, plain-text content of the rule. | Text | The searchable rule text. |
-| **`ifc_type`** | The relevant IFC elements (e.g., `Wall`, `Slab`, `Door`). | List | Filters rules based on BIM element type. |
-| **`occupancy`** | Applicable IBC Occupancy Groups (e.g., `Assembly (A)`, `Residential (R)`). | List | Filters rules based on project occupancy. |
-| **`design_phase`** | When the rule is addressed (e.g., `concept`, `cd`). | List | Filters rules based on project status. |
-| **`code_category`** | Primary code domain (e.g., `means_of_egress`). | Single Value | Topic-based rule classification. |
-| **`primary_responsibility`** | The discipline responsible for compliance (e.g., `architect`, `structural_engineer`). | Single Value | Assigning compliance ownership. |
+### 3. State-Level Merger (`download/` folder)
 
-The final output also includes a **`call_id`** field, which is an MD5 hash of the rule body, crucial for deduplication and consistent indexing across different code versions.
+* **Strict Merge Logic**: State-specific sections are mapped to the GSA baseline using `id` and `title` matching.
+* **Deviation Handling**: If a state section's title deviates from the GSA base (indicating a state-specific amendment), the metadata is cleared to prevent false categorization.
 
-## 🛠️ Execution & Development
+### 4. Final Refinement (`download-v2/` folder)
 
-The pipeline is implemented using Python and is designed for reproducible execution, typically within a notebook environment like Colab.
+* **Cleaning**: Removes empty/null rows and standardizes data types.
+* **Spot-Inference**: Runs a targeted LLM pass only on rows missing metadata (amendments), ensuring 100% coverage with minimal token burn.
 
-### Key Scripts
+## 📁 Repository Structure
 
-* **`json batch downloader`**: Block that scrapes raw JSON data from a list of specified code URLs.
-* **`process_file()`**: Executes the Python/Regex-based structuring and initiates the LLM calls.
-* **`convert_csv_to_es_rules()`**: Prepares the final, indexed JSON output in Elasticsearch Bulk API format.
-* **`output folder`**: The main execution block using a **Thread Pool Executor** to run the full pipeline on a specified range of code chapters concurrently.
+| Folder | Description |
+| --- | --- |
+| `state-codes/` | Raw JSON and standard parsed CSVs for all 50 states. |
+| `gsa-codes/` | Baseline unamended building codes (The "Source of Truth"). |
+| `ai-codes/` | Semantic metadata extracted from GSA codes via LLM. |
+| `ada-codes/` | Scraped and AI-enhanced ADA Standards for Accessible Design. |
+| `download/` | First-pass merged datasets (State text + GSA metadata). |
+| `download-v2/` | Production-ready dataset with deduplicated entries and hashed IDs. |
 
-## 🔗 Related Project
+## 🧬 Technical Specifications
 
-This highly-structured dataset forms the core rule base for the efforts by the [cuniform](https://github.com/cuniform) organization, which develops tools for automated code compliance checking in IFC models.
+### 1. AI Enrichment Schema (Pydantic)
+
+We use **Pydantic V2** to enforce strict typing and enum-constrained values during LLM inference. This ensures that values like `occupancy` or `ifc_type` are always machine-readable and consistent.
+
+```python
+class RuleAnalysis(BaseModel):
+    ifc_type: List[str] = Field(
+        description="1-5 building element types from the allowed IFC list."
+    )
+    occupancy: List[str] = Field(
+        description="1-5 IBC occupancy groups (e.g., 'Residential (R)')."
+    )
+    design_phase: List[str] = Field(
+        description="Project phases: ['concept', 'sd', 'dd', 'cd', 'ca']."
+    )
+    code_category: CodeCategoryEnum = Field(
+        description="The single best thematic category for this rule."
+    )
+    primary_responsibility: ResponsibilityEnum = Field(
+        description="The primary discipline responsible for compliance."
+    )
+
+```
+
+### 2. Final CSV Output Schema
+
+The production CSVs in `download-v2/` use the following structure. Multi-value fields are pipe-delimited (`|`) to maintain CSV integrity.
+
+| Column | Data Type | Description |
+| --- | --- | --- |
+| `id` | `string` | The section reference number (e.g., `305.1`). |
+| `section` | `string` | Hierarchy path (e.g., `Chapter 3 > Section 305`). |
+| `title` | `string` | The provision name. |
+| `ifc_type` | `string` | Pipe-separated IFC classes (e.g., `Wall|Slab`). |
+| `occupancy` | `string` | Affected occupancy groups. |
+| `design_phase` | `string` | Relevant project phases. |
+| `code_category` | `string` | High-level rule classification. |
+| `primary_responsibility` | `string` | Lead professional discipline. |
+| `body` | `string` | Cleaned, plain-text code content. |
+
+## 🛠 Features
+
+* **Cost Optimization**: Reduces LLM API costs by >80% by focusing AI inference on base codes.
+* **Deduplication**: Uses MD5 hashing of the `body` text to create unique `call_id` keys for database ingestion.
+* **Search Engine Ready**: Includes scripts to convert CSVs into **JSON Lines (JSONL)** format for Elasticsearch Bulk API ingestion.
+* **High Scannability**: Cleans HTML noise, excessive whitespace, and non-breaking spaces for better RAG (Retrieval-Augmented Generation) performance.
+
+
+## 🚀 Usage
+
+1. **Configure API**: Set `gemini_api` or `openai_api` in your environment.
+2. **Run Scraper**: Populate `gsa-codes/` with the target year's baseline.
+3. **Generate Baseline**: Execute the AI Parse script on the GSA folder.
+4. **Batch Process States**: Run `process_state_codes()` to map metadata across the `state-codes/` directory.
+5. **Finalize**: Run the `download-v2` script to clean and perform spot-inference on amendments.
