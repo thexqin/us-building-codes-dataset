@@ -1,0 +1,1811 @@
+{
+    "props": {
+        "pageProps": {
+            "missingRequiredLogin": false,
+            "title": "Chapter 9 Alterations\u2014Level 3: 2023 FBC - Existing Building, 8<sup>th</sup> edition | UpCodes",
+            "leanChapterViewerData": {
+                "basePubName": "International Existing Building Code 2021 (IEBC 2021)",
+                "codeGroupingYear": "2023",
+                "codeName": "2023 FBC - Existing Building, 8<sup>th</sup> edition",
+                "codeUuid": "1e3c0ef0-fce3-4a1f-b3ee-6dc13d74cc1b",
+                "codeVersions": [
+                    {
+                        "codeUuid": "1e3c0ef0-fce3-4a1f-b3ee-6dc13d74cc1b",
+                        "name": "Original Adoption",
+                        "effectiveStartDate": "2023-12-31",
+                        "shortformUrlName": "fl-existing-building-code-2023",
+                        "activeStatus": "active"
+                    }
+                ],
+                "ingesterAmendmentsEnabled": false,
+                "ingesterCodeUnitsEnabled": false,
+                "isAmendStylingEnabled": false,
+                "isCorrespondable": true,
+                "jurisKey": "florida",
+                "jurisName": "Florida",
+                "metaInfoUrl": "/viewer/florida/fl-existing-building-code-2023",
+                "modelCodeUrl": null,
+                "placeholder": "Search 2023 FBC - Existing Building, 8th edition",
+                "pubKey": "florida_ebc_2023",
+                "pubPrefix": "int_ebc",
+                "shortformPubName": "fl-existing-building-code-2023",
+                "withAmendments": true,
+                "chapterRef": "9",
+                "publisher": "icc",
+                "hasLinkedResources": false,
+                "initialNonChapterTocLines": [
+                    {
+                        "amendType": null,
+                        "children": [
+                            {
+                                "amendType": null,
+                                "children": [],
+                                "depth": 2,
+                                "displayTitle": "901.1 Scope",
+                                "hasExpanderArrow": false,
+                                "href": "#901.1",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "reference": "901.1"
+                            },
+                            {
+                                "amendType": null,
+                                "children": [],
+                                "depth": 2,
+                                "displayTitle": "901.2 Compliance",
+                                "hasExpanderArrow": false,
+                                "href": "#901.2",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "reference": "901.2"
+                            }
+                        ],
+                        "depth": 1,
+                        "displayTitle": "901 General",
+                        "hasExpanderArrow": true,
+                        "href": "#901",
+                        "isCodeDivider": false,
+                        "isCodeDividerClickable": false,
+                        "reference": "901"
+                    },
+                    {
+                        "amendType": null,
+                        "children": [
+                            {
+                                "amendType": null,
+                                "children": [
+                                    {
+                                        "amendType": null,
+                                        "children": [],
+                                        "depth": 3,
+                                        "displayTitle": "902.1.1 Recirculating Air or Exhaust Systems",
+                                        "hasExpanderArrow": false,
+                                        "href": "#902.1.1",
+                                        "isCodeDivider": false,
+                                        "isCodeDividerClickable": false,
+                                        "reference": "902.1.1"
+                                    },
+                                    {
+                                        "amendType": null,
+                                        "children": [],
+                                        "depth": 3,
+                                        "displayTitle": "902.1.2 Elevators",
+                                        "hasExpanderArrow": false,
+                                        "href": "#902.1.2",
+                                        "isCodeDivider": false,
+                                        "isCodeDividerClickable": false,
+                                        "reference": "902.1.2"
+                                    }
+                                ],
+                                "depth": 2,
+                                "displayTitle": "902.1 High-Rise Buildings",
+                                "hasExpanderArrow": true,
+                                "href": "#902.1",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "reference": "902.1"
+                            },
+                            {
+                                "amendType": null,
+                                "children": [],
+                                "depth": 2,
+                                "displayTitle": "902.2 Boiler and Furnace Equipment Rooms",
+                                "hasExpanderArrow": false,
+                                "href": "#902.2",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "reference": "902.2"
+                            }
+                        ],
+                        "depth": 1,
+                        "displayTitle": "902 Special Use and Occupancy",
+                        "hasExpanderArrow": true,
+                        "href": "#902",
+                        "isCodeDivider": false,
+                        "isCodeDividerClickable": false,
+                        "reference": "902"
+                    },
+                    {
+                        "amendType": null,
+                        "children": [
+                            {
+                                "amendType": null,
+                                "children": [],
+                                "depth": 2,
+                                "displayTitle": "903.1 Existing Shafts and Vertical Openings",
+                                "hasExpanderArrow": false,
+                                "href": "#903.1",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "reference": "903.1"
+                            },
+                            {
+                                "amendType": null,
+                                "children": [
+                                    {
+                                        "amendType": null,
+                                        "children": [],
+                                        "depth": 3,
+                                        "displayTitle": "903.2.1 Separation Required",
+                                        "hasExpanderArrow": false,
+                                        "href": "#903.2.1",
+                                        "isCodeDivider": false,
+                                        "isCodeDividerClickable": false,
+                                        "reference": "903.2.1"
+                                    }
+                                ],
+                                "depth": 2,
+                                "displayTitle": "903.2 Fire Partitions in Group R-3",
+                                "hasExpanderArrow": true,
+                                "href": "#903.2",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "reference": "903.2"
+                            },
+                            {
+                                "amendType": null,
+                                "children": [],
+                                "depth": 2,
+                                "displayTitle": "903.3 Interior Finish",
+                                "hasExpanderArrow": false,
+                                "href": "#903.3",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "reference": "903.3"
+                            },
+                            {
+                                "amendType": null,
+                                "children": [],
+                                "depth": 2,
+                                "displayTitle": "903.4 Enhanced Classroom Acoustics",
+                                "hasExpanderArrow": false,
+                                "href": "#903.4",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "reference": "903.4"
+                            }
+                        ],
+                        "depth": 1,
+                        "displayTitle": "903 Building Elements and Materials",
+                        "hasExpanderArrow": true,
+                        "href": "#903",
+                        "isCodeDivider": false,
+                        "isCodeDividerClickable": false,
+                        "reference": "903"
+                    },
+                    {
+                        "amendType": null,
+                        "children": [
+                            {
+                                "amendType": null,
+                                "children": [
+                                    {
+                                        "amendType": null,
+                                        "children": [],
+                                        "depth": 3,
+                                        "displayTitle": "904.1.1 High-Rise Buildings",
+                                        "hasExpanderArrow": false,
+                                        "href": "#904.1.1",
+                                        "isCodeDivider": false,
+                                        "isCodeDividerClickable": false,
+                                        "reference": "904.1.1"
+                                    },
+                                    {
+                                        "amendType": null,
+                                        "children": [],
+                                        "depth": 3,
+                                        "displayTitle": "904.1.2 Rubbish and Linen Chutes",
+                                        "hasExpanderArrow": false,
+                                        "href": "#904.1.2",
+                                        "isCodeDivider": false,
+                                        "isCodeDividerClickable": false,
+                                        "reference": "904.1.2"
+                                    },
+                                    {
+                                        "amendType": null,
+                                        "children": [],
+                                        "depth": 3,
+                                        "displayTitle": "904.1.3 Upholstered Furniture or Mattresses",
+                                        "hasExpanderArrow": false,
+                                        "href": "#904.1.3",
+                                        "isCodeDivider": false,
+                                        "isCodeDividerClickable": false,
+                                        "reference": "904.1.3"
+                                    },
+                                    {
+                                        "amendType": null,
+                                        "children": [],
+                                        "depth": 3,
+                                        "displayTitle": "904.1.4 Groups A, B, E, F-1, H, I-1, I-3, I-4, M, R-1, R-2, R-4, S-1 and S-2",
+                                        "hasExpanderArrow": false,
+                                        "href": "#904.1.4",
+                                        "isCodeDivider": false,
+                                        "isCodeDividerClickable": false,
+                                        "reference": "904.1.4"
+                                    },
+                                    {
+                                        "amendType": null,
+                                        "children": [],
+                                        "depth": 3,
+                                        "displayTitle": "904.1.5 Group I-2",
+                                        "hasExpanderArrow": false,
+                                        "href": "#904.1.5",
+                                        "isCodeDivider": false,
+                                        "isCodeDividerClickable": false,
+                                        "reference": "904.1.5"
+                                    },
+                                    {
+                                        "amendType": null,
+                                        "children": [],
+                                        "depth": 3,
+                                        "displayTitle": "904.1.6 Windowless Stories",
+                                        "hasExpanderArrow": false,
+                                        "href": "#904.1.6",
+                                        "isCodeDivider": false,
+                                        "isCodeDividerClickable": false,
+                                        "reference": "904.1.6"
+                                    },
+                                    {
+                                        "amendType": null,
+                                        "children": [],
+                                        "depth": 3,
+                                        "displayTitle": "904.1.7 Other Required Automatic Sprinkler Systems",
+                                        "hasExpanderArrow": false,
+                                        "href": "#904.1.7",
+                                        "isCodeDivider": false,
+                                        "isCodeDividerClickable": false,
+                                        "reference": "904.1.7"
+                                    }
+                                ],
+                                "depth": 2,
+                                "displayTitle": "904.1 Automatic Sprinkler Systems",
+                                "hasExpanderArrow": true,
+                                "href": "#904.1",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "reference": "904.1"
+                            },
+                            {
+                                "amendType": null,
+                                "children": [
+                                    {
+                                        "amendType": null,
+                                        "children": [],
+                                        "depth": 3,
+                                        "displayTitle": "904.2.1 Manual Fire Alarm Systems",
+                                        "hasExpanderArrow": false,
+                                        "href": "#904.2.1",
+                                        "isCodeDivider": false,
+                                        "isCodeDividerClickable": false,
+                                        "reference": "904.2.1"
+                                    },
+                                    {
+                                        "amendType": null,
+                                        "children": [],
+                                        "depth": 3,
+                                        "displayTitle": "904.2.2 Automatic Fire Detection",
+                                        "hasExpanderArrow": false,
+                                        "href": "#904.2.2",
+                                        "isCodeDivider": false,
+                                        "isCodeDividerClickable": false,
+                                        "reference": "904.2.2"
+                                    }
+                                ],
+                                "depth": 2,
+                                "displayTitle": "904.2 Fire Alarm and Detection Systems",
+                                "hasExpanderArrow": true,
+                                "href": "#904.2",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "reference": "904.2"
+                            }
+                        ],
+                        "depth": 1,
+                        "displayTitle": "904 Fire Protection",
+                        "hasExpanderArrow": true,
+                        "href": "#904",
+                        "isCodeDivider": false,
+                        "isCodeDividerClickable": false,
+                        "reference": "904"
+                    },
+                    {
+                        "amendType": null,
+                        "children": [
+                            {
+                                "amendType": null,
+                                "children": [],
+                                "depth": 2,
+                                "displayTitle": "905.1 General",
+                                "hasExpanderArrow": false,
+                                "href": "#905.1",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "reference": "905.1"
+                            },
+                            {
+                                "amendType": null,
+                                "children": [],
+                                "depth": 2,
+                                "displayTitle": "905.2 Means-of-Egress Lighting",
+                                "hasExpanderArrow": false,
+                                "href": "#905.2",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "reference": "905.2"
+                            },
+                            {
+                                "amendType": null,
+                                "children": [],
+                                "depth": 2,
+                                "displayTitle": "905.3 Exit Signs",
+                                "hasExpanderArrow": false,
+                                "href": "#905.3",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "reference": "905.3"
+                            },
+                            {
+                                "amendType": null,
+                                "children": [],
+                                "depth": 2,
+                                "displayTitle": "905.4 Two-Way Communications Systems",
+                                "hasExpanderArrow": false,
+                                "href": "#905.4",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "reference": "905.4"
+                            }
+                        ],
+                        "depth": 1,
+                        "displayTitle": "905 Means of Egress",
+                        "hasExpanderArrow": true,
+                        "href": "#905",
+                        "isCodeDivider": false,
+                        "isCodeDividerClickable": false,
+                        "reference": "905"
+                    },
+                    {
+                        "amendType": null,
+                        "children": [
+                            {
+                                "amendType": null,
+                                "children": [],
+                                "depth": 2,
+                                "displayTitle": "906.1 General",
+                                "hasExpanderArrow": false,
+                                "href": "#906.1",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "reference": "906.1"
+                            },
+                            {
+                                "amendType": null,
+                                "children": [],
+                                "depth": 2,
+                                "displayTitle": "906.2 Type B Dwelling or Sleeping Units",
+                                "hasExpanderArrow": false,
+                                "href": "#906.2",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "reference": "906.2"
+                            }
+                        ],
+                        "depth": 1,
+                        "displayTitle": "906 Accessibility",
+                        "hasExpanderArrow": true,
+                        "href": "#906",
+                        "isCodeDivider": false,
+                        "isCodeDividerClickable": false,
+                        "reference": "906"
+                    },
+                    {
+                        "amendType": null,
+                        "children": [
+                            {
+                                "amendType": null,
+                                "children": [],
+                                "depth": 2,
+                                "displayTitle": "907.1 General",
+                                "hasExpanderArrow": false,
+                                "href": "#907.1",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "reference": "907.1"
+                            },
+                            {
+                                "amendType": null,
+                                "children": [],
+                                "depth": 2,
+                                "displayTitle": "907.2 New Structural Elements",
+                                "hasExpanderArrow": false,
+                                "href": "#907.2",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "reference": "907.2"
+                            },
+                            {
+                                "amendType": null,
+                                "children": [],
+                                "depth": 2,
+                                "displayTitle": "907.3 Existing Structural Elements Carrying Gravity Loads",
+                                "hasExpanderArrow": false,
+                                "href": "#907.3",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "reference": "907.3"
+                            },
+                            {
+                                "amendType": null,
+                                "children": [
+                                    {
+                                        "amendType": null,
+                                        "children": [],
+                                        "depth": 3,
+                                        "displayTitle": "907.4.1 Evaluation and Analysis",
+                                        "hasExpanderArrow": false,
+                                        "href": "#907.4.1",
+                                        "isCodeDivider": false,
+                                        "isCodeDividerClickable": false,
+                                        "reference": "907.4.1"
+                                    },
+                                    {
+                                        "amendType": null,
+                                        "children": [],
+                                        "depth": 3,
+                                        "displayTitle": "907.4.2 Substantial Structural Alteration",
+                                        "hasExpanderArrow": false,
+                                        "href": "#907.4.2",
+                                        "isCodeDivider": false,
+                                        "isCodeDividerClickable": false,
+                                        "reference": "907.4.2"
+                                    },
+                                    {
+                                        "amendType": null,
+                                        "children": [],
+                                        "depth": 3,
+                                        "displayTitle": "907.4.3 Seismic Design Category F",
+                                        "hasExpanderArrow": false,
+                                        "href": "#907.4.3",
+                                        "isCodeDivider": false,
+                                        "isCodeDividerClickable": false,
+                                        "reference": "907.4.3"
+                                    },
+                                    {
+                                        "amendType": null,
+                                        "children": [],
+                                        "depth": 3,
+                                        "displayTitle": "907.4.4 Limited Structural Alteration",
+                                        "hasExpanderArrow": false,
+                                        "href": "#907.4.4",
+                                        "isCodeDivider": false,
+                                        "isCodeDividerClickable": false,
+                                        "reference": "907.4.4"
+                                    }
+                                ],
+                                "depth": 2,
+                                "displayTitle": "907.4 Existing Structural Elements Resisting Lateral Loads",
+                                "hasExpanderArrow": true,
+                                "href": "#907.4",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "reference": "907.4"
+                            }
+                        ],
+                        "depth": 1,
+                        "displayTitle": "907 Structural",
+                        "hasExpanderArrow": true,
+                        "href": "#907",
+                        "isCodeDivider": false,
+                        "isCodeDividerClickable": false,
+                        "reference": "907"
+                    },
+                    {
+                        "amendType": null,
+                        "children": [
+                            {
+                                "amendType": null,
+                                "children": [],
+                                "depth": 2,
+                                "displayTitle": "908.1 Minimum Requirements",
+                                "hasExpanderArrow": false,
+                                "href": "#908.1",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "reference": "908.1"
+                            }
+                        ],
+                        "depth": 1,
+                        "displayTitle": "908 Energy Conservation",
+                        "hasExpanderArrow": true,
+                        "href": "#908",
+                        "isCodeDivider": false,
+                        "isCodeDividerClickable": false,
+                        "reference": "908"
+                    },
+                    {
+                        "amendType": null,
+                        "children": [
+                            {
+                                "amendType": null,
+                                "children": [],
+                                "depth": 2,
+                                "displayTitle": "909.1 Separate Facilities",
+                                "hasExpanderArrow": false,
+                                "href": "#909.1",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "reference": "909.1"
+                            }
+                        ],
+                        "depth": 1,
+                        "displayTitle": "909 Plumbing",
+                        "hasExpanderArrow": true,
+                        "href": "#909",
+                        "isCodeDivider": false,
+                        "isCodeDividerClickable": false,
+                        "reference": "909"
+                    }
+                ],
+                "title": "Chapter 9 Alterations\u2014Level 3: 2023 FBC - Existing Building, 8<sup>th</sup> edition | UpCodes",
+                "leanChapterLines": [
+                    {
+                        "displayTitle": "Chapter 1 Scope and Administration",
+                        "isExpandable": true,
+                        "reference": "1",
+                        "slug": "scope-and-administration"
+                    },
+                    {
+                        "displayTitle": "Chapter 2 Definitions",
+                        "isExpandable": true,
+                        "reference": "2",
+                        "slug": "definitions"
+                    },
+                    {
+                        "displayTitle": "Chapter 3 Provisions for All Compliance Methods",
+                        "isExpandable": true,
+                        "reference": "3",
+                        "slug": "provisions-for-all-compliance-methods"
+                    },
+                    {
+                        "displayTitle": "Chapter 4 Repairs",
+                        "isExpandable": true,
+                        "reference": "4",
+                        "slug": "repairs"
+                    },
+                    {
+                        "displayTitle": "Chapter 5 Prescriptive Compliance Method",
+                        "isExpandable": true,
+                        "reference": "5",
+                        "slug": "prescriptive-compliance-method"
+                    },
+                    {
+                        "displayTitle": "Chapter 6 Classification of Work",
+                        "isExpandable": true,
+                        "reference": "6",
+                        "slug": "classification-of-work"
+                    },
+                    {
+                        "displayTitle": "Chapter 7 Alterations\u2014Level 1",
+                        "isExpandable": true,
+                        "reference": "7",
+                        "slug": "alterations-level-1"
+                    },
+                    {
+                        "displayTitle": "Chapter 8 Alterations\u2014Level 2",
+                        "isExpandable": true,
+                        "reference": "8",
+                        "slug": "alterations-level-2"
+                    },
+                    {
+                        "displayTitle": "Chapter 9 Alterations\u2014Level 3",
+                        "isExpandable": true,
+                        "reference": "9",
+                        "slug": "alterations-level-3"
+                    },
+                    {
+                        "displayTitle": "Chapter 10 Change of Occupancy",
+                        "isExpandable": true,
+                        "reference": "10",
+                        "slug": "change-of-occupancy"
+                    },
+                    {
+                        "displayTitle": "Chapter 11 Additions",
+                        "isExpandable": true,
+                        "reference": "11",
+                        "slug": "additions"
+                    },
+                    {
+                        "displayTitle": "Chapter 12 Historic Buildings",
+                        "isExpandable": true,
+                        "reference": "12",
+                        "slug": "historic-buildings"
+                    },
+                    {
+                        "displayTitle": "Chapter 13 Relocated or Moved Buildings",
+                        "isExpandable": true,
+                        "reference": "13",
+                        "slug": "relocated-or-moved-buildings"
+                    },
+                    {
+                        "displayTitle": "Chapter 14 Performance Compliance Methods",
+                        "isExpandable": true,
+                        "reference": "14",
+                        "slug": "performance-compliance-methods"
+                    },
+                    {
+                        "displayTitle": "Chapter 15 Construction Safeguards",
+                        "isExpandable": true,
+                        "reference": "15",
+                        "slug": "construction-safeguards"
+                    },
+                    {
+                        "displayTitle": "Chapter 16 Referenced Standards",
+                        "reference": "16",
+                        "slug": "referenced-standards"
+                    },
+                    {
+                        "displayTitle": "Chapter 17 Retrofitting",
+                        "isExpandable": true,
+                        "reference": "17",
+                        "slug": "retrofitting"
+                    },
+                    {
+                        "displayTitle": "Chapter 18 Minimum Requirements for the Mandatory Milestone Inspections",
+                        "isExpandable": true,
+                        "reference": "18",
+                        "slug": "minimum-requirements-for-the-mandatory-milestone-inspections"
+                    },
+                    {
+                        "displayTitle": "Appendix A Guidelines for the Seismic Retrofit of Existing Buildings",
+                        "reference": "A",
+                        "slug": "guidelines-for-the-seismic-retrofit-of-existing-buildings"
+                    },
+                    {
+                        "displayTitle": "Appendix B Standard for Rehabilitation",
+                        "reference": "B",
+                        "slug": "standard-for-rehabilitation"
+                    },
+                    {
+                        "displayTitle": "Appendix C Refer to NFPA 914 Code for Fire Protection of Historic Structures 2001 Edition",
+                        "isExpandable": true,
+                        "reference": "C",
+                        "slug": "refer-to-nfpa-914-code-for-fire-protection-of-historic-structures-2001-edition"
+                    },
+                    {
+                        "displayTitle": "Resource A Guidelines on Fire Rating of Archaic Materials and Assemblies",
+                        "reference": "resource_A",
+                        "slug": "guidelines-on-fire-rating-of-archaic-materials-and-assemblies"
+                    }
+                ],
+                "leanCodeSectionsTree": [
+                    {
+                        "ancestorRefs": [],
+                        "depth": 0,
+                        "diagrams": [],
+                        "displayRef": null,
+                        "displayTitle": "Chapter 9 Alterations\u2014Level 3",
+                        "divisionType": "Chapter",
+                        "hasAssemblies": false,
+                        "isContiguous": true,
+                        "numAssembliesOnRef": 0,
+                        "numBuildingProductsOnRef": 0,
+                        "numDiagramsOnRef": 0,
+                        "reference": "9",
+                        "slug": "alterations-level-3",
+                        "titleText": "Alterations\u2014Level 3",
+                        "children": [
+                            {
+                                "ancestorRefs": [
+                                    "9"
+                                ],
+                                "depth": 1,
+                                "diagrams": [],
+                                "displayRef": null,
+                                "displayTitle": "Section 901 General",
+                                "divisionType": "Section",
+                                "hasAssemblies": false,
+                                "isContiguous": true,
+                                "numAssembliesOnRef": 0,
+                                "numBuildingProductsOnRef": 0,
+                                "numDiagramsOnRef": 0,
+                                "reference": "901",
+                                "slug": "alterations-level-3",
+                                "titleText": "General",
+                                "children": [
+                                    {
+                                        "ancestorRefs": [
+                                            "9",
+                                            "901"
+                                        ],
+                                        "body": "Level 3 <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/florida/fl-existing-building-code-2023/chapter/2/definitions#alteration\">alterations</a></span> as described in <a class=\"autolink\" href=\"/viewer/florida/fl-existing-building-code-2023/chapter/6/classification-of-work#604\">Section 604</a> shall comply with the requirements of this chapter.",
+                                        "depth": 2,
+                                        "diagrams": [],
+                                        "displayRef": null,
+                                        "displayTitle": "901.1 Scope",
+                                        "hasAssemblies": false,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 0,
+                                        "numDiagramsOnRef": 0,
+                                        "reference": "901.1",
+                                        "slug": "alterations-level-3",
+                                        "titleText": "Scope",
+                                        "children": []
+                                    },
+                                    {
+                                        "ancestorRefs": [
+                                            "9",
+                                            "901"
+                                        ],
+                                        "body": "In addition to the provisions of this chapter, work shall comply with all of the requirements of Chapters <a class=\"autolink\" href=\"/viewer/florida/fl-existing-building-code-2023/chapter/7/alterations-level-1#7\">7</a> and <a class=\"autolink\" href=\"/viewer/florida/fl-existing-building-code-2023/chapter/8/alterations-level-2#8\">8</a>. The requirements of Sections <a class=\"autolink\" href=\"/viewer/florida/fl-existing-building-code-2023/chapter/8/alterations-level-2#803\">803</a>, <a class=\"autolink\" href=\"/viewer/florida/fl-existing-building-code-2023/chapter/8/alterations-level-2#804\">804</a> and <a class=\"autolink\" href=\"/viewer/florida/fl-existing-building-code-2023/chapter/8/alterations-level-2#805\">805</a> shall apply within all <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/florida/fl-existing-building-code-2023/chapter/2/definitions#work_area\">work areas</a></span> whether or not they include exits and corridors shared by more than one tenant and regardless of the occupant load.",
+                                        "depth": 2,
+                                        "diagrams": [],
+                                        "displayRef": null,
+                                        "displayTitle": "901.2 Compliance",
+                                        "hasAssemblies": false,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 0,
+                                        "numDiagramsOnRef": 0,
+                                        "reference": "901.2",
+                                        "slug": "alterations-level-3",
+                                        "titleText": "Compliance",
+                                        "children": []
+                                    }
+                                ]
+                            },
+                            {
+                                "ancestorRefs": [
+                                    "9"
+                                ],
+                                "depth": 1,
+                                "diagrams": [],
+                                "displayRef": null,
+                                "displayTitle": "Section 902 Special Use and Occupancy",
+                                "divisionType": "Section",
+                                "hasAssemblies": false,
+                                "isContiguous": true,
+                                "numAssembliesOnRef": 0,
+                                "numBuildingProductsOnRef": 0,
+                                "numDiagramsOnRef": 0,
+                                "reference": "902",
+                                "slug": "alterations-level-3",
+                                "titleText": "Special Use and Occupancy",
+                                "children": [
+                                    {
+                                        "ancestorRefs": [
+                                            "9",
+                                            "902"
+                                        ],
+                                        "body": "Any building having occupied floors more than 75 feet (22 860 mm) above the lowest level of fire department vehicle access shall comply with the requirements of Sections <a class=\"autolink\" href=\"#902.1.1\">902.1.1</a> and <a class=\"autolink\" href=\"#902.1.2\">902.1.2</a>.",
+                                        "depth": 2,
+                                        "diagrams": [],
+                                        "displayRef": null,
+                                        "displayTitle": "902.1 High-Rise Buildings",
+                                        "hasAssemblies": false,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 0,
+                                        "numDiagramsOnRef": 0,
+                                        "reference": "902.1",
+                                        "slug": "alterations-level-3",
+                                        "titleText": "High-Rise Buildings",
+                                        "children": [
+                                            {
+                                                "ancestorRefs": [
+                                                    "9",
+                                                    "902",
+                                                    "902.1"
+                                                ],
+                                                "body": "When a floor is served by a recirculating air or exhaust system with a capacity greater than 15,000 cubic feet per minute (701 m<sup>3</sup>/s), that system shall be equipped with <a class=\"autolink\" href=\"/viewer/florida/fl-existing-building-code-2023/chapter/2/definitions#approved\">approved</a> smoke and heat detection devices installed in accordance with the <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/florida/fl-building-code-2023\">Florida Building Code</a>, Mechanical</span>.",
+                                                "depth": 3,
+                                                "diagrams": [],
+                                                "displayRef": null,
+                                                "displayTitle": "902.1.1 Recirculating Air or Exhaust Systems",
+                                                "hasAssemblies": false,
+                                                "isContiguous": true,
+                                                "numAssembliesOnRef": 0,
+                                                "numBuildingProductsOnRef": 0,
+                                                "numDiagramsOnRef": 0,
+                                                "reference": "902.1.1",
+                                                "slug": "alterations-level-3",
+                                                "titleText": "Recirculating Air or Exhaust Systems",
+                                                "children": []
+                                            },
+                                            {
+                                                "ancestorRefs": [
+                                                    "9",
+                                                    "902",
+                                                    "902.1"
+                                                ],
+                                                "body": "Where there is an elevator or <a class=\"autolink\" href=\"/viewer/florida/fl-existing-building-code-2023/chapter/7/alterations-level-1#705.1.2\">elevators</a> for public use, at least one elevator serving the <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/florida/fl-existing-building-code-2023/chapter/2/definitions#work_area\">work area</a></span> shall comply with this section. Existing <a class=\"autolink\" href=\"/viewer/florida/fl-existing-building-code-2023/chapter/7/alterations-level-1#705.1.2\">elevators</a> with a travel distance of 25 feet (7620 mm) or more above or below the main floor or other level of a building and intended to serve the needs of emergency personnel for fire-fighting or rescue <a class=\"autolink\" href=\"/viewer/florida/fl-existing-building-code-2023/chapter/17/retrofitting#1701.1\">purposes</a> shall be provided with emergency operation in accordance with ASME A17.3. New <a class=\"autolink\" href=\"/viewer/florida/fl-existing-building-code-2023/chapter/7/alterations-level-1#705.1.2\">elevators</a> shall be provided with Phase I emergency recall operation and Phase II emergency in-car operation in accordance with ASME A17.1/CSAB44.1.",
+                                                "depth": 3,
+                                                "diagrams": [],
+                                                "displayRef": null,
+                                                "displayTitle": "902.1.2 Elevators",
+                                                "hasAssemblies": false,
+                                                "isContiguous": true,
+                                                "numAssembliesOnRef": 0,
+                                                "numBuildingProductsOnRef": 0,
+                                                "numDiagramsOnRef": 0,
+                                                "reference": "902.1.2",
+                                                "slug": "alterations-level-3",
+                                                "titleText": "Elevators",
+                                                "children": []
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "ancestorRefs": [
+                                            "9",
+                                            "902"
+                                        ],
+                                        "body": "<div class=\"u-mb-3\">Boiler and furnace equipment rooms adjacent to or within Groups I-1, I-2, I-4, R-1, R-2 and R-4 occupancies shall be enclosed by 1-hour fire-resistance-rated construction.</div><div class=\"u-ml-4\"><div class=\"u-mb-3 u-mt-3\"><span class=\"u-font-bold\">Exceptions:</span></div><ol><li>Steam boiler equipment operating at pressures of 15 pounds per square inch gauge (psig) (103.4 KPa) or less is not required to be enclosed.</li><li>Hot water boilers operating at pressures of 170 psig (1171 KPa) or less are not required to be enclosed.</li><li>Furnace and boiler equipment with 400,000 British thermal units (Btu) (4.22 \u00d7 108 J) per hour input rating or less is not required to be enclosed.</li><li>Furnace rooms protected with an automatic sprinkler system are not required to be enclosed.</li></ol></div>",
+                                        "depth": 2,
+                                        "diagrams": [],
+                                        "displayRef": null,
+                                        "displayTitle": "902.2 Boiler and Furnace Equipment Rooms",
+                                        "hasAssemblies": true,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 2,
+                                        "numBuildingProductsOnRef": 0,
+                                        "numDiagramsOnRef": 0,
+                                        "reference": "902.2",
+                                        "slug": "alterations-level-3",
+                                        "titleText": "Boiler and Furnace Equipment Rooms",
+                                        "children": []
+                                    }
+                                ]
+                            },
+                            {
+                                "ancestorRefs": [
+                                    "9"
+                                ],
+                                "depth": 1,
+                                "diagrams": [],
+                                "displayRef": null,
+                                "displayTitle": "Section 903 Building Elements and Materials",
+                                "divisionType": "Section",
+                                "hasAssemblies": false,
+                                "isContiguous": true,
+                                "numAssembliesOnRef": 0,
+                                "numBuildingProductsOnRef": 0,
+                                "numDiagramsOnRef": 0,
+                                "reference": "903",
+                                "slug": "alterations-level-3",
+                                "titleText": "Building Elements and Materials",
+                                "children": [
+                                    {
+                                        "ancestorRefs": [
+                                            "9",
+                                            "903"
+                                        ],
+                                        "body": "Existing stairways that are part of the means of egress shall be enclosed in accordance with <a class=\"autolink\" href=\"/viewer/florida/fl-existing-building-code-2023/chapter/8/alterations-level-2#803.2.1\">Section 803.2.1</a> from the highest <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/florida/fl-existing-building-code-2023/chapter/2/definitions#work_area\">work area</a></span> floor to, and including, the level of exit discharge and all floors below.",
+                                        "depth": 2,
+                                        "diagrams": [],
+                                        "displayRef": null,
+                                        "displayTitle": "903.1 Existing Shafts and Vertical Openings",
+                                        "hasAssemblies": false,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 0,
+                                        "numDiagramsOnRef": 0,
+                                        "reference": "903.1",
+                                        "slug": "alterations-level-3",
+                                        "titleText": "Existing Shafts and Vertical Openings",
+                                        "children": []
+                                    },
+                                    {
+                                        "ancestorRefs": [
+                                            "9",
+                                            "903"
+                                        ],
+                                        "body": "Fire separation in Group R-3 occupancies shall be in accordance with <a class=\"autolink\" href=\"#903.2.1\">Section 903.2.1</a>.",
+                                        "depth": 2,
+                                        "diagrams": [],
+                                        "displayRef": null,
+                                        "displayTitle": "903.2 Fire Partitions in Group R-3",
+                                        "hasAssemblies": false,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 0,
+                                        "numDiagramsOnRef": 0,
+                                        "reference": "903.2",
+                                        "slug": "alterations-level-3",
+                                        "titleText": "Fire Partitions in Group R-3",
+                                        "children": [
+                                            {
+                                                "ancestorRefs": [
+                                                    "9",
+                                                    "903",
+                                                    "903.2"
+                                                ],
+                                                "body": "<div class=\"u-mb-3\">Where the <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/florida/fl-existing-building-code-2023/chapter/2/definitions#work_area\">work area</a></span> is in any attached dwelling unit in Group R-3 or any multiple single-family dwelling (townhouse), walls separating the dwelling units that are not continuous from the foundation to the underside of the roof sheathing shall be constructed to provide a continuous fire separation using construction materials consistent with the existing wall or complying with the requirements for new structures. All work shall be performed on the side of the dwelling unit wall that is part of the <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/florida/fl-existing-building-code-2023/chapter/2/definitions#work_area\">work area</a></span>.</div><div class=\"u-ml-4 u-mt-3\"><span class=\"u-font-bold\">Exception: </span> Where <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/florida/fl-existing-building-code-2023/chapter/2/definitions#alteration\">alterations</a></span> or <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/florida/fl-existing-building-code-2023/chapter/2/definitions#repair\">repairs</a></span> do not result in the removal of wall or ceiling finishes exposing the structure, walls are not required to be continuous through concealed floor spaces.</div>",
+                                                "depth": 3,
+                                                "diagrams": [],
+                                                "displayRef": null,
+                                                "displayTitle": "903.2.1 Separation Required",
+                                                "hasAssemblies": false,
+                                                "isContiguous": true,
+                                                "numAssembliesOnRef": 0,
+                                                "numBuildingProductsOnRef": 0,
+                                                "numDiagramsOnRef": 0,
+                                                "reference": "903.2.1",
+                                                "slug": "alterations-level-3",
+                                                "titleText": "Separation Required",
+                                                "children": []
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "ancestorRefs": [
+                                            "9",
+                                            "903"
+                                        ],
+                                        "body": "Interior finish in exits serving the <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/florida/fl-existing-building-code-2023/chapter/2/definitions#work_area\">work area</a></span> shall comply with <a class=\"autolink\" href=\"/viewer/florida/fl-existing-building-code-2023/chapter/8/alterations-level-2#803.4\">Section 803.4</a> between the highest floor on which there is a <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/florida/fl-existing-building-code-2023/chapter/2/definitions#work_area\">work area</a></span> to the floor of exit discharge.",
+                                        "depth": 2,
+                                        "diagrams": [],
+                                        "displayRef": null,
+                                        "displayTitle": "903.3 Interior Finish",
+                                        "hasAssemblies": false,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 0,
+                                        "numDiagramsOnRef": 0,
+                                        "reference": "903.3",
+                                        "slug": "alterations-level-3",
+                                        "titleText": "Interior Finish",
+                                        "children": []
+                                    },
+                                    {
+                                        "ancestorRefs": [
+                                            "9",
+                                            "903"
+                                        ],
+                                        "body": "In Group E occupancies, where the <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/florida/fl-existing-building-code-2023/chapter/2/definitions#work_area\">work area</a></span> is a Level 3 <a class=\"autolink\" href=\"/viewer/florida/fl-existing-building-code-2023/chapter/2/definitions#alteration\">alteration</a>, <a class=\"autolink\" href=\"/viewer/florida/fl-existing-building-code-2023/chapter/11/additions#1101.4\">enhanced classroom acoustics</a> shall be provided in all classrooms with a volume of 20,000 cubic feet (565 m<sup>3</sup> ) or less. <a class=\"autolink\" href=\"/viewer/florida/fl-existing-building-code-2023/chapter/11/additions#1101.4\">Enhanced classroom acoustics</a> shall comply with the reverberation time in Section 808 of ICC A117.1.",
+                                        "depth": 2,
+                                        "diagrams": [],
+                                        "displayRef": null,
+                                        "displayTitle": "903.4 Enhanced Classroom Acoustics",
+                                        "hasAssemblies": false,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 0,
+                                        "numDiagramsOnRef": 0,
+                                        "reference": "903.4",
+                                        "slug": "alterations-level-3",
+                                        "titleText": "Enhanced Classroom Acoustics",
+                                        "children": []
+                                    }
+                                ]
+                            },
+                            {
+                                "ancestorRefs": [
+                                    "9"
+                                ],
+                                "depth": 1,
+                                "diagrams": [],
+                                "displayRef": null,
+                                "displayTitle": "Section 904 Fire Protection",
+                                "divisionType": "Section",
+                                "hasAssemblies": false,
+                                "isContiguous": true,
+                                "numAssembliesOnRef": 0,
+                                "numBuildingProductsOnRef": 0,
+                                "numDiagramsOnRef": 0,
+                                "reference": "904",
+                                "slug": "alterations-level-3",
+                                "titleText": "Fire Protection",
+                                "children": [
+                                    {
+                                        "ancestorRefs": [
+                                            "9",
+                                            "904"
+                                        ],
+                                        "body": "An automatic sprinkler system shall be provided in a <a class=\"autolink\" href=\"/viewer/florida/fl-existing-building-code-2023/chapter/2/definitions#work_area\">work area</a> where required by <a class=\"autolink\" href=\"/viewer/florida/fl-existing-building-code-2023/chapter/8/alterations-level-2#804.2\">Section 804.2</a> or this section.",
+                                        "depth": 2,
+                                        "diagrams": [],
+                                        "displayRef": null,
+                                        "displayTitle": "904.1 Automatic Sprinkler Systems",
+                                        "hasAssemblies": false,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 0,
+                                        "numDiagramsOnRef": 0,
+                                        "reference": "904.1",
+                                        "slug": "alterations-level-3",
+                                        "titleText": "Automatic Sprinkler Systems",
+                                        "children": [
+                                            {
+                                                "ancestorRefs": [
+                                                    "9",
+                                                    "904",
+                                                    "904.1"
+                                                ],
+                                                "body": "An automatic sprinkler system shall be provided in <a class=\"autolink\" href=\"/viewer/florida/fl-existing-building-code-2023/chapter/2/definitions#work_area\">work areas</a> where the high-rise building has a sufficient municipal water supply for the design and installation of an automatic sprinkler system at the site.",
+                                                "depth": 3,
+                                                "diagrams": [],
+                                                "displayRef": null,
+                                                "displayTitle": "904.1.1 High-Rise Buildings",
+                                                "hasAssemblies": false,
+                                                "isContiguous": true,
+                                                "numAssembliesOnRef": 0,
+                                                "numBuildingProductsOnRef": 0,
+                                                "numDiagramsOnRef": 0,
+                                                "reference": "904.1.1",
+                                                "slug": "alterations-level-3",
+                                                "titleText": "High-Rise Buildings",
+                                                "children": []
+                                            },
+                                            {
+                                                "ancestorRefs": [
+                                                    "9",
+                                                    "904",
+                                                    "904.1"
+                                                ],
+                                                "body": "Rubbish and linen chutes located in the <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/florida/fl-existing-building-code-2023/chapter/2/definitions#work_area\">work area</a></span> shall be provided with automatic sprinkler system protection or an <a class=\"autolink\" href=\"/viewer/florida/fl-existing-building-code-2023/chapter/2/definitions#approved\">approved</a> automatic fire-extinguishing system where protection of the rubbish and linen chute would be required under the provisions of the <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/florida/fl-building-code-2023\">Florida Building Code</a>, Building</span> for new construction.",
+                                                "depth": 3,
+                                                "diagrams": [],
+                                                "displayRef": null,
+                                                "displayTitle": "904.1.2 Rubbish and Linen Chutes",
+                                                "hasAssemblies": false,
+                                                "isContiguous": true,
+                                                "numAssembliesOnRef": 0,
+                                                "numBuildingProductsOnRef": 0,
+                                                "numDiagramsOnRef": 0,
+                                                "reference": "904.1.2",
+                                                "slug": "alterations-level-3",
+                                                "titleText": "Rubbish and Linen Chutes",
+                                                "children": []
+                                            },
+                                            {
+                                                "ancestorRefs": [
+                                                    "9",
+                                                    "904",
+                                                    "904.1"
+                                                ],
+                                                "body": "<div class=\"u-mb-3\"><span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/florida/fl-existing-building-code-2023/chapter/2/definitions#work_area\">Work areas</a></span> shall be provided with an automatic sprinkler system in accordance with the <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/florida/fl-building-code-2023\">Florida Building Code</a>, Building</span> where any of the following conditions exist:</div><ol><li>A Group F-1 occupancy used for the manufacture of upholstered furniture or mattresses exceeds 2,500 square feet (232 m<sup>2</sup>).</li><li>A Group M occupancy used for the display and sale of upholstered furniture or mattresses exceeds 5,000 square feet (464 m<sup>2</sup>).</li><li>A Group S-1 occupancy used for the storage of upholstered furniture or mattresses exceeds 2,500 square feet (232 m<sup>2</sup>).</li></ol>",
+                                                "depth": 3,
+                                                "diagrams": [],
+                                                "displayRef": null,
+                                                "displayTitle": "904.1.3 Upholstered Furniture or Mattresses",
+                                                "hasAssemblies": false,
+                                                "isContiguous": true,
+                                                "numAssembliesOnRef": 0,
+                                                "numBuildingProductsOnRef": 0,
+                                                "numDiagramsOnRef": 0,
+                                                "reference": "904.1.3",
+                                                "slug": "alterations-level-3",
+                                                "titleText": "Upholstered Furniture or Mattresses",
+                                                "children": []
+                                            },
+                                            {
+                                                "ancestorRefs": [
+                                                    "9",
+                                                    "904",
+                                                    "904.1"
+                                                ],
+                                                "body": "<div class=\"u-mb-3\">In buildings with occupancies in Groups A, B, E, F-1, H, I-1, I-3, I-4, M, R-1, R-2, R-4, S-1 and S-2 <a class=\"autolink\" href=\"/viewer/florida/fl-existing-building-code-2023/chapter/2/definitions#work_area\">work areas</a> shall be provided with automatic sprinkler protection where all of the following conditions occur:</div><ol><li>The <a class=\"autolink\" href=\"/viewer/florida/fl-existing-building-code-2023/chapter/2/definitions#work_area\">work area</a> is required to be provided with automatic sprinkler protection in accordance with the <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/florida/fl-building-code-2023\">Florida Building Code</a>, Building</span>, as applicable to new construction; and</li><li>The building site has sufficient municipal water supply for design and installation of an automatic sprinkler system.</li></ol><div class=\"u-ml-4 u-mt-3\"><span class=\"u-font-bold\">Exception: </span> If the building site does not have sufficient municipal water supply for design of an automatic sprinkler system, <a class=\"autolink\" href=\"/viewer/florida/fl-existing-building-code-2023/chapter/2/definitions#work_area\">work areas</a> shall be protected by an automatic smoke detection system throughout all occupiable spaces other than sleeping units or individual dwelling units that activates the occupant notification system in accordance with Sections <a class=\"autolink\" href=\"/viewer/florida/fl-building-code-2023/chapter/9/fire-protection-systems#907.4\">907.4</a>, <a class=\"autolink\" href=\"/viewer/florida/fl-building-code-2023/chapter/9/fire-protection-systems#907.5\">907.5</a> and <a class=\"autolink\" href=\"/viewer/florida/fl-building-code-2023/chapter/9/fire-protection-systems#907.6\">907.6</a> of the <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/florida/fl-building-code-2023\">Florida Building Code</a>, Building</span>.</div>",
+                                                "depth": 3,
+                                                "diagrams": [],
+                                                "displayRef": null,
+                                                "displayTitle": "904.1.4 Groups A, B, E, F-1, H, I-1, I-3, I-4, M, R-1, R-2, R-4, S-1 and S-2",
+                                                "hasAssemblies": false,
+                                                "isContiguous": true,
+                                                "numAssembliesOnRef": 0,
+                                                "numBuildingProductsOnRef": 0,
+                                                "numDiagramsOnRef": 0,
+                                                "reference": "904.1.4",
+                                                "slug": "alterations-level-3",
+                                                "titleText": "Groups A, B, E, F-1, H, I-1, I-3, I-4, M, R-1, R-2, R-4, S-1 and S-2",
+                                                "children": []
+                                            },
+                                            {
+                                                "ancestorRefs": [
+                                                    "9",
+                                                    "904",
+                                                    "904.1"
+                                                ],
+                                                "body": "<div class=\"u-mb-3\">In Group I-2 occupancies, an automatic sprinkler system installed in accordance with the <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/florida/fl-building-code-2023\">Florida Building Code</a>, Building</span>, shall be provided in the following:</div><ol><li>In Group I-2, Condition 1, throughout the <a class=\"autolink\" href=\"/viewer/florida/fl-existing-building-code-2023/chapter/2/definitions#work_area\">work area</a>.</li><li>In Group I-2, Condition 2, throughout the <a class=\"autolink\" href=\"/viewer/florida/fl-existing-building-code-2023/chapter/2/definitions#work_area\">work area</a> where the <a class=\"autolink\" href=\"/viewer/florida/fl-existing-building-code-2023/chapter/2/definitions#work_area\">work area</a> is 50 percent or less of the smoke compartment.</li><li>In Group I-2, Condition 2, throughout the smoke compartment in which the work occurs where the <a class=\"autolink\" href=\"/viewer/florida/fl-existing-building-code-2023/chapter/2/definitions#work_area\">work area</a> exceeds 50 percent of the smoke compartment.</li></ol>",
+                                                "depth": 3,
+                                                "diagrams": [],
+                                                "displayRef": null,
+                                                "displayTitle": "904.1.5 Group I-2",
+                                                "hasAssemblies": false,
+                                                "isContiguous": true,
+                                                "numAssembliesOnRef": 0,
+                                                "numBuildingProductsOnRef": 0,
+                                                "numDiagramsOnRef": 0,
+                                                "reference": "904.1.5",
+                                                "slug": "alterations-level-3",
+                                                "titleText": "Group I-2",
+                                                "children": []
+                                            },
+                                            {
+                                                "ancestorRefs": [
+                                                    "9",
+                                                    "904",
+                                                    "904.1"
+                                                ],
+                                                "body": "Work located in a windowless story, as determined in accordance with the <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/florida/fl-building-code-2023\">Florida Building Code</a>, Building</span> shall be sprinklered where the <a class=\"autolink\" href=\"/viewer/florida/fl-existing-building-code-2023/chapter/2/definitions#work_area\">work area</a> is required to be sprinklered under the provisions of the <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/florida/fl-building-code-2023\">Florida Building Code</a>, Building</span> for newly constructed buildings and the building site has a sufficient municipal water supply for the design and installation of an <span class=\"u-italic\">automatic sprinkler system</span>.",
+                                                "depth": 3,
+                                                "diagrams": [],
+                                                "displayRef": null,
+                                                "displayTitle": "904.1.6 Windowless Stories",
+                                                "hasAssemblies": false,
+                                                "isContiguous": true,
+                                                "numAssembliesOnRef": 0,
+                                                "numBuildingProductsOnRef": 0,
+                                                "numDiagramsOnRef": 0,
+                                                "reference": "904.1.6",
+                                                "slug": "alterations-level-3",
+                                                "titleText": "Windowless Stories",
+                                                "children": []
+                                            },
+                                            {
+                                                "ancestorRefs": [
+                                                    "9",
+                                                    "904",
+                                                    "904.1"
+                                                ],
+                                                "body": "<div class=\"u-mb-3\">In buildings and areas listed in Table 903.2.11.6 of the <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/florida/fl-building-code-2023\">Florida Building Code</a>, Building</span>, <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/florida/fl-existing-building-code-2023/chapter/2/definitions#work_area\">work areas</a></span> shall be provided with an automatic sprinkler system under the following conditions:</div><ol><li>The <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/florida/fl-existing-building-code-2023/chapter/2/definitions#work_area\">work area</a></span> is required to be provided with an automatic sprinkler system in accordance with the <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/florida/fl-building-code-2023\">Florida Building Code</a>, Building</span> applicable to new construction; and</li><li>The building site has sufficient municipal water supply for design and installation of an automatic sprinkler system.</li></ol>",
+                                                "depth": 3,
+                                                "diagrams": [],
+                                                "displayRef": null,
+                                                "displayTitle": "904.1.7 Other Required Automatic Sprinkler Systems",
+                                                "hasAssemblies": false,
+                                                "isContiguous": true,
+                                                "numAssembliesOnRef": 0,
+                                                "numBuildingProductsOnRef": 0,
+                                                "numDiagramsOnRef": 0,
+                                                "reference": "904.1.7",
+                                                "slug": "alterations-level-3",
+                                                "titleText": "Other Required Automatic Sprinkler Systems",
+                                                "children": []
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "ancestorRefs": [
+                                            "9",
+                                            "904"
+                                        ],
+                                        "body": "Fire alarm and detection shall be provided in accordance with <a class=\"autolink\" href=\"/viewer/florida/fl-building-code-2023/chapter/9/fire-protection-systems#907\">Section 907</a> of the <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/florida/fl-building-code-2023\">Florida Building Code</a>, Building</span> as required for new construction.",
+                                        "depth": 2,
+                                        "diagrams": [],
+                                        "displayRef": null,
+                                        "displayTitle": "904.2 Fire Alarm and Detection Systems",
+                                        "hasAssemblies": false,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 0,
+                                        "numDiagramsOnRef": 0,
+                                        "reference": "904.2",
+                                        "slug": "alterations-level-3",
+                                        "titleText": "Fire Alarm and Detection Systems",
+                                        "children": [
+                                            {
+                                                "ancestorRefs": [
+                                                    "9",
+                                                    "904",
+                                                    "904.2"
+                                                ],
+                                                "body": "<div class=\"u-mb-3\">Where required by the <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/florida/fl-building-code-2023\">Florida Building Code</a>, Building</span>, a manual fire alarm system shall be provided throughout the <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/florida/fl-existing-building-code-2023/chapter/2/definitions#work_area\">work area</a></span>. Alarm notification appliances shall be provided on such floors and shall be automatically activated as required by the <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/florida/fl-building-code-2023\">Florida Building Code</a>, Building</span>.</div><div class=\"u-ml-4\"><div class=\"u-mb-3 u-mt-3\"><span class=\"u-font-bold\">Exceptions:</span></div><ol><li>Alarm-initiating and notification appliances shall not be required to be installed in tenant spaces outside of the <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/florida/fl-existing-building-code-2023/chapter/2/definitions#work_area\">work area</a></span>.</li><li>Visual alarm notification appliances are not required, except where an existing alarm system is upgraded or replaced or where a new fire alarm system is installed.</li></ol></div>",
+                                                "depth": 3,
+                                                "diagrams": [],
+                                                "displayRef": null,
+                                                "displayTitle": "904.2.1 Manual Fire Alarm Systems",
+                                                "hasAssemblies": false,
+                                                "isContiguous": true,
+                                                "numAssembliesOnRef": 0,
+                                                "numBuildingProductsOnRef": 0,
+                                                "numDiagramsOnRef": 0,
+                                                "reference": "904.2.1",
+                                                "slug": "alterations-level-3",
+                                                "titleText": "Manual Fire Alarm Systems",
+                                                "children": []
+                                            },
+                                            {
+                                                "ancestorRefs": [
+                                                    "9",
+                                                    "904",
+                                                    "904.2"
+                                                ],
+                                                "body": "Where required by the <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/florida/fl-building-code-2023\">Florida Building Code</a>, Building</span> for new buildings, automatic fire detection systems shall be provided throughout the <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/florida/fl-existing-building-code-2023/chapter/2/definitions#work_area\">work area</a></span>.",
+                                                "depth": 3,
+                                                "diagrams": [],
+                                                "displayRef": null,
+                                                "displayTitle": "904.2.2 Automatic Fire Detection",
+                                                "hasAssemblies": false,
+                                                "isContiguous": true,
+                                                "numAssembliesOnRef": 0,
+                                                "numBuildingProductsOnRef": 0,
+                                                "numDiagramsOnRef": 0,
+                                                "reference": "904.2.2",
+                                                "slug": "alterations-level-3",
+                                                "titleText": "Automatic Fire Detection",
+                                                "children": []
+                                            }
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "ancestorRefs": [
+                                    "9"
+                                ],
+                                "depth": 1,
+                                "diagrams": [],
+                                "displayRef": null,
+                                "displayTitle": "Section 905 Means of Egress",
+                                "divisionType": "Section",
+                                "hasAssemblies": false,
+                                "isContiguous": true,
+                                "numAssembliesOnRef": 0,
+                                "numBuildingProductsOnRef": 0,
+                                "numDiagramsOnRef": 0,
+                                "reference": "905",
+                                "slug": "alterations-level-3",
+                                "titleText": "Means of Egress",
+                                "children": [
+                                    {
+                                        "ancestorRefs": [
+                                            "9",
+                                            "905"
+                                        ],
+                                        "body": "The means of egress shall comply with the requirements of <a class=\"autolink\" href=\"/viewer/florida/fl-existing-building-code-2023/chapter/8/alterations-level-2#805\">Section 805</a> except as specifically required in Sections <a class=\"autolink\" href=\"#905.2\">905.2</a> and <a class=\"autolink\" href=\"#905.3\">905.3</a>.",
+                                        "depth": 2,
+                                        "diagrams": [],
+                                        "displayRef": null,
+                                        "displayTitle": "905.1 General",
+                                        "hasAssemblies": false,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 0,
+                                        "numDiagramsOnRef": 0,
+                                        "reference": "905.1",
+                                        "slug": "alterations-level-3",
+                                        "titleText": "General",
+                                        "children": []
+                                    },
+                                    {
+                                        "ancestorRefs": [
+                                            "9",
+                                            "905"
+                                        ],
+                                        "body": "Means of egress from the highest <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/florida/fl-existing-building-code-2023/chapter/2/definitions#work_area\">work area</a></span> floor to the floor of exit discharge shall be provided with artificial lighting within the exit enclosure in accordance with the requirements of the <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/florida/fl-building-code-2023\">Florida Building Code</a>, Building</span>.",
+                                        "depth": 2,
+                                        "diagrams": [
+                                            {
+                                                "key": "artificial_light",
+                                                "title": "Artificial Light",
+                                                "descriptionHtml": "<div>Where natural lighting is not provided in spaces intended for human occupancy artificial lighting is required.  The artificial light is required to achieve an average illumination level of 10 footcandles on an imaginary plane 30\" above the entire floor of the space.</div>",
+                                                "topics": [
+                                                    "Electrical"
+                                                ],
+                                                "phases": [
+                                                    "Construction Docs"
+                                                ],
+                                                "supressesChildrenAssociations": false,
+                                                "blacklistJurisdictions": [],
+                                                "whitelistJurisdictions": [],
+                                                "imageType": "svg"
+                                            },
+                                            {
+                                                "key": "means_of_egress_illum",
+                                                "title": "Means of Egress Illumination",
+                                                "descriptionHtml": "<div>The means of egress, path of travel from inside of a structure through the exit to the public way, must be illuminated under normal power, whenever the building is occupied. Illumination must be a minimum of 1 foot candle at the floor. This applies to all occupancy types except for Group U, dwelling and sleeping units in R-1, R-2, R-3, and Group I occupancies. In performance venues, Group A, the minimum foot candle requirement can be reduced to 0.2 in aisles and self-luminous lighting is permitted to be used. In Group-I illumination must be maintained at 1 foot candle throughout the path of egress, through exterior landings and discharge, and into the public way. Upon loss of power, emergency egress illumination must meet 1008.3.</div>",
+                                                "topics": [
+                                                    "Egress",
+                                                    "Electrical"
+                                                ],
+                                                "phases": [
+                                                    "Construction Docs",
+                                                    "Construction Phase"
+                                                ],
+                                                "supressesChildrenAssociations": false,
+                                                "blacklistJurisdictions": [
+                                                    "california",
+                                                    "los_angeles",
+                                                    "san_francisco",
+                                                    "san-jose",
+                                                    "los-angeles-county",
+                                                    "san-diego",
+                                                    "washington",
+                                                    "seattle"
+                                                ],
+                                                "whitelistJurisdictions": [],
+                                                "imageType": "svg"
+                                            }
+                                        ],
+                                        "displayRef": null,
+                                        "displayTitle": "905.2 Means-of-Egress Lighting",
+                                        "hasAssemblies": false,
+                                        "hasDiagrams": true,
+                                        "hasDiagramsOnRef": true,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 0,
+                                        "numDiagramsOnRef": 2,
+                                        "reference": "905.2",
+                                        "slug": "alterations-level-3",
+                                        "titleText": "Means-of-Egress Lighting",
+                                        "children": []
+                                    },
+                                    {
+                                        "ancestorRefs": [
+                                            "9",
+                                            "905"
+                                        ],
+                                        "body": "Means of egress from the highest <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/florida/fl-existing-building-code-2023/chapter/2/definitions#work_area\">work area</a></span> floor to the floor of exit discharge shall be provided with exit signs in accordance with the requirements of the <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/florida/fl-building-code-2023\">Florida Building Code</a>, Building</span>.",
+                                        "depth": 2,
+                                        "diagrams": [
+                                            {
+                                                "key": "exit_signs_required_locations",
+                                                "title": "Exit Signs: Where Required",
+                                                "descriptionHtml": "<div>Exit signs are required to be posted at exit doors and in the direction of egress. These signs must be visible from any direction. These can be either internally, or externally, illuminated, and must be lighted and visible at all times. The \"EXIT\" lettering must be within the minimum dimensions of this code and is to be in a contrasting color from the background (typically this is red or green lettering on a white background).</div>",
+                                                "topics": [
+                                                    "Egress",
+                                                    "Fire"
+                                                ],
+                                                "phases": [
+                                                    "Construction Docs",
+                                                    "Construction Phase"
+                                                ],
+                                                "supressesChildrenAssociations": false,
+                                                "blacklistJurisdictions": [],
+                                                "whitelistJurisdictions": [],
+                                                "imageType": "svg"
+                                            },
+                                            {
+                                                "key": "exit_signs",
+                                                "title": "Exit Signs: Size Requirements",
+                                                "descriptionHtml": "<div>Exit signs are required to be posted at exit doors and in the direction of egress. These signs must be visible from any direction. These can be either internally, or externally, illuminated, and must be lighted and visible at all times. The \"EXIT\" lettering must be within the minimum dimensions of this code and is to be in a contrasting color from the background (typically this is red or green lettering on a white background). </div>",
+                                                "topics": [
+                                                    "Egress",
+                                                    "Fire"
+                                                ],
+                                                "phases": [
+                                                    "Construction Docs",
+                                                    "Construction Phase"
+                                                ],
+                                                "supressesChildrenAssociations": false,
+                                                "blacklistJurisdictions": [],
+                                                "whitelistJurisdictions": [],
+                                                "imageType": "svg"
+                                            }
+                                        ],
+                                        "displayRef": null,
+                                        "displayTitle": "905.3 Exit Signs",
+                                        "hasAssemblies": false,
+                                        "hasDiagrams": true,
+                                        "hasDiagramsOnRef": true,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 0,
+                                        "numDiagramsOnRef": 2,
+                                        "reference": "905.3",
+                                        "slug": "alterations-level-3",
+                                        "titleText": "Exit Signs",
+                                        "children": []
+                                    },
+                                    {
+                                        "ancestorRefs": [
+                                            "9",
+                                            "905"
+                                        ],
+                                        "body": "In buildings with elevator service, a two-way communication system shall be provided where required by the <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/ada\">Florida Building Code</a>, <a class=\"autolink\" href=\"/viewer/florida/fl-existing-building-code-2023/chapter/10/change-of-occupancy#1012.1.4\">Accessibility</a></span>.",
+                                        "depth": 2,
+                                        "diagrams": [],
+                                        "displayRef": null,
+                                        "displayTitle": "905.4 Two-Way Communications Systems",
+                                        "hasAssemblies": false,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 0,
+                                        "numDiagramsOnRef": 0,
+                                        "reference": "905.4",
+                                        "slug": "alterations-level-3",
+                                        "titleText": "Two-Way Communications Systems",
+                                        "children": []
+                                    }
+                                ]
+                            },
+                            {
+                                "ancestorRefs": [
+                                    "9"
+                                ],
+                                "depth": 1,
+                                "diagrams": [],
+                                "displayRef": null,
+                                "displayTitle": "Section 906 Accessibility",
+                                "divisionType": "Section",
+                                "hasAssemblies": false,
+                                "isContiguous": true,
+                                "numAssembliesOnRef": 0,
+                                "numBuildingProductsOnRef": 0,
+                                "numDiagramsOnRef": 0,
+                                "reference": "906",
+                                "slug": "alterations-level-3",
+                                "titleText": "Accessibility",
+                                "children": [
+                                    {
+                                        "ancestorRefs": [
+                                            "9",
+                                            "906"
+                                        ],
+                                        "body": "A building, <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/florida/fl-existing-building-code-2023/chapter/2/definitions#facility\">facility</a></span> or element that is altered shall comply with the provisions of the <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/ada\">Florida Building Code</a>, <a class=\"autolink\" href=\"/viewer/florida/fl-existing-building-code-2023/chapter/10/change-of-occupancy#1012.1.4\">Accessibility</a></span>.",
+                                        "depth": 2,
+                                        "diagrams": [],
+                                        "displayRef": null,
+                                        "displayTitle": "906.1 General",
+                                        "hasAssemblies": false,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 0,
+                                        "numDiagramsOnRef": 0,
+                                        "reference": "906.1",
+                                        "slug": "alterations-level-3",
+                                        "titleText": "General",
+                                        "children": []
+                                    },
+                                    {
+                                        "ancestorRefs": [
+                                            "9",
+                                            "906"
+                                        ],
+                                        "body": "Reserved.",
+                                        "depth": 2,
+                                        "diagrams": [],
+                                        "displayRef": null,
+                                        "displayTitle": "906.2 Type B Dwelling or Sleeping Units",
+                                        "hasAssemblies": false,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 0,
+                                        "numDiagramsOnRef": 0,
+                                        "reference": "906.2",
+                                        "slug": "alterations-level-3",
+                                        "titleText": "Type B Dwelling or Sleeping Units",
+                                        "children": []
+                                    }
+                                ]
+                            },
+                            {
+                                "ancestorRefs": [
+                                    "9"
+                                ],
+                                "depth": 1,
+                                "diagrams": [],
+                                "displayRef": null,
+                                "displayTitle": "Section 907 Structural",
+                                "divisionType": "Section",
+                                "hasAssemblies": false,
+                                "isContiguous": true,
+                                "numAssembliesOnRef": 0,
+                                "numBuildingProductsOnRef": 0,
+                                "numDiagramsOnRef": 0,
+                                "reference": "907",
+                                "slug": "alterations-level-3",
+                                "titleText": "Structural",
+                                "children": [
+                                    {
+                                        "ancestorRefs": [
+                                            "9",
+                                            "907"
+                                        ],
+                                        "body": "Where buildings are undergoing Level 3 <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/florida/fl-existing-building-code-2023/chapter/2/definitions#alteration\">alterations</a></span> including structural <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/florida/fl-existing-building-code-2023/chapter/2/definitions#alteration\">alterations</a></span>, the provisions of this section shall apply.",
+                                        "depth": 2,
+                                        "diagrams": [],
+                                        "displayRef": null,
+                                        "displayTitle": "[BS]  907.1 General",
+                                        "hasAssemblies": false,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 0,
+                                        "numDiagramsOnRef": 0,
+                                        "reference": "907.1",
+                                        "refPrefix": "[BS]",
+                                        "slug": "alterations-level-3",
+                                        "titleText": "General",
+                                        "children": []
+                                    },
+                                    {
+                                        "ancestorRefs": [
+                                            "9",
+                                            "907"
+                                        ],
+                                        "body": "New structural elements shall comply with <a class=\"autolink\" href=\"/viewer/florida/fl-existing-building-code-2023/chapter/8/alterations-level-2#807.2\">Section 807.2</a>.",
+                                        "depth": 2,
+                                        "diagrams": [],
+                                        "displayRef": null,
+                                        "displayTitle": "[BS]  907.2 New Structural Elements",
+                                        "hasAssemblies": false,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 0,
+                                        "numDiagramsOnRef": 0,
+                                        "reference": "907.2",
+                                        "refPrefix": "[BS]",
+                                        "slug": "alterations-level-3",
+                                        "titleText": "New Structural Elements",
+                                        "children": []
+                                    },
+                                    {
+                                        "ancestorRefs": [
+                                            "9",
+                                            "907"
+                                        ],
+                                        "body": "Existing structural elements carrying gravity loads shall comply with <a class=\"autolink\" href=\"/viewer/florida/fl-existing-building-code-2023/chapter/8/alterations-level-2#807.4\">Section 807.4</a>.",
+                                        "depth": 2,
+                                        "diagrams": [],
+                                        "displayRef": null,
+                                        "displayTitle": "[BS]  907.3 Existing Structural Elements Carrying Gravity Loads",
+                                        "hasAssemblies": false,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 0,
+                                        "numDiagramsOnRef": 0,
+                                        "reference": "907.3",
+                                        "refPrefix": "[BS]",
+                                        "slug": "alterations-level-3",
+                                        "titleText": "Existing Structural Elements Carrying Gravity Loads",
+                                        "children": []
+                                    },
+                                    {
+                                        "ancestorRefs": [
+                                            "9",
+                                            "907"
+                                        ],
+                                        "body": "<div class=\"u-mb-3\">All existing elements of the lateral force-resisting system shall comply with this section.</div>\n<div class=\"u-ml-4\">\n<div class=\"u-mb-3 u-mt-3\"><span class=\"u-font-bold\">Exceptions:</span></div>\n<ol>\n<li>Buildings of Group R occupancy with no more than five dwelling or sleeping units used solely for residential <a class=\"autolink\" href=\"/viewer/florida/fl-existing-building-code-2023/chapter/17/retrofitting#1701.1\">purposes</a> that are altered based on the conventional light-frame construction methods of the <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/florida/fl-building-code-2023\">Florida Building Code</a>, Building</span> or in <a class=\"autolink\" href=\"#901.2\">compliance</a> with the provisions of the <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/florida/fl-building-code-2023\">Florida Building Code</a>, Residential</span>.</li>\n<li>Where the intended <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/florida/fl-existing-building-code-2023/chapter/2/definitions#alteration\">alteration</a></span> involves only the lowest story of a building, only the lateral load-resisting components in and below that story need comply with this section.</li>\n</ol>\n</div>",
+                                        "depth": 2,
+                                        "diagrams": [],
+                                        "displayRef": null,
+                                        "displayTitle": "[BS]  907.4 Existing Structural Elements Resisting Lateral Loads",
+                                        "hasAssemblies": false,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 0,
+                                        "numDiagramsOnRef": 0,
+                                        "reference": "907.4",
+                                        "refPrefix": "[BS]",
+                                        "slug": "alterations-level-3",
+                                        "titleText": "Existing Structural Elements Resisting Lateral Loads",
+                                        "children": [
+                                            {
+                                                "ancestorRefs": [
+                                                    "9",
+                                                    "907",
+                                                    "907.4"
+                                                ],
+                                                "body": "An engineering <a class=\"autolink\" href=\"/viewer/florida/fl-existing-building-code-2023/chapter/14/performance-compliance-methods#1401.5\">evaluation</a> and analysis that establishes the structural adequacy of the altered structure shall be prepared by a registered design professional and submitted to the <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/florida/fl-existing-building-code-2023/chapter/2/definitions#code_official\">code official</a></span>.",
+                                                "depth": 3,
+                                                "diagrams": [],
+                                                "displayRef": null,
+                                                "displayTitle": "[BS]  907.4.1 Evaluation and Analysis",
+                                                "hasAssemblies": false,
+                                                "isContiguous": true,
+                                                "numAssembliesOnRef": 0,
+                                                "numBuildingProductsOnRef": 0,
+                                                "numDiagramsOnRef": 0,
+                                                "reference": "907.4.1",
+                                                "refPrefix": "[BS]",
+                                                "slug": "alterations-level-3",
+                                                "titleText": "Evaluation and Analysis",
+                                                "children": []
+                                            },
+                                            {
+                                                "ancestorRefs": [
+                                                    "9",
+                                                    "907",
+                                                    "907.4"
+                                                ],
+                                                "body": "Where work involves a <a class=\"autolink\" href=\"/viewer/florida/fl-existing-building-code-2023/chapter/2/definitions#substantial_structural_alteration\">substantial structural alteration</a>, the <a class=\"autolink\" href=\"/viewer/florida/fl-existing-building-code-2023/chapter/14/performance-compliance-methods#1401.5\">evaluation</a> and analysis shall demonstrate that the lateral load-resisting system of the altered building or structure complies with the <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/florida/fl-building-code-2023\">Florida Building Code</a>, Building</span> for wind loading.",
+                                                "depth": 3,
+                                                "diagrams": [],
+                                                "displayRef": null,
+                                                "displayTitle": "[BS]  907.4.2 Substantial Structural Alteration",
+                                                "hasAssemblies": false,
+                                                "isContiguous": true,
+                                                "numAssembliesOnRef": 0,
+                                                "numBuildingProductsOnRef": 0,
+                                                "numDiagramsOnRef": 0,
+                                                "reference": "907.4.2",
+                                                "refPrefix": "[BS]",
+                                                "slug": "alterations-level-3",
+                                                "titleText": "Substantial Structural Alteration",
+                                                "children": []
+                                            },
+                                            {
+                                                "ancestorRefs": [
+                                                    "9",
+                                                    "907",
+                                                    "907.4"
+                                                ],
+                                                "body": "Reserved.",
+                                                "depth": 3,
+                                                "diagrams": [],
+                                                "displayRef": null,
+                                                "displayTitle": "[BS]  907.4.3 Seismic Design Category F",
+                                                "hasAssemblies": false,
+                                                "isContiguous": true,
+                                                "numAssembliesOnRef": 0,
+                                                "numBuildingProductsOnRef": 0,
+                                                "numDiagramsOnRef": 0,
+                                                "reference": "907.4.3",
+                                                "refPrefix": "[BS]",
+                                                "slug": "alterations-level-3",
+                                                "titleText": "Seismic Design Category F",
+                                                "children": []
+                                            },
+                                            {
+                                                "ancestorRefs": [
+                                                    "9",
+                                                    "907",
+                                                    "907.4"
+                                                ],
+                                                "body": "Where the work does not involve a <a class=\"autolink\" href=\"/viewer/florida/fl-existing-building-code-2023/chapter/2/definitions#substantial_structural_alteration\">substantial structural <span class=\"u-italic\">alteration</span></a> the existing elements of the lateral load-resisting system shall comply with <a class=\"autolink\" href=\"/viewer/florida/fl-existing-building-code-2023/chapter/8/alterations-level-2#807.5\">Section 807.5</a>.",
+                                                "depth": 3,
+                                                "diagrams": [],
+                                                "displayRef": null,
+                                                "displayTitle": "[BS]  907.4.4 Limited Structural Alteration",
+                                                "hasAssemblies": false,
+                                                "isContiguous": true,
+                                                "numAssembliesOnRef": 0,
+                                                "numBuildingProductsOnRef": 0,
+                                                "numDiagramsOnRef": 0,
+                                                "reference": "907.4.4",
+                                                "refPrefix": "[BS]",
+                                                "slug": "alterations-level-3",
+                                                "titleText": "Limited Structural Alteration",
+                                                "children": []
+                                            }
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "ancestorRefs": [
+                                    "9"
+                                ],
+                                "depth": 1,
+                                "diagrams": [
+                                    {
+                                        "key": "opaque_doors",
+                                        "title": "Opaque Doors (ASHRAE)",
+                                        "descriptionHtml": "<div>All opaque doors shall have a maximum U-factor as specified in Tables 5.5-0 through 5.5-8. Exceptions: non-swinging doors that are horizontally hinged sectional doors with a single row of fenestration whose area is at least 14% and no more than 25% of the total door area shall have an assembly U-factor less than or equal to 0.440 in Climate Zones 0 through 6 for conditioned spaces and in Climate Zones 3 through 6 for semi-heated spaces and less than or equal to 0.360 in Climate Zones 7 and 8, for both conditioned and semi-heated spaces.</div>",
+                                        "topics": [
+                                            "Energy",
+                                            "Envelope"
+                                        ],
+                                        "phases": [
+                                            "Construction Docs"
+                                        ],
+                                        "supressesChildrenAssociations": false,
+                                        "blacklistJurisdictions": [],
+                                        "whitelistJurisdictions": [],
+                                        "imageType": "svg"
+                                    }
+                                ],
+                                "displayRef": null,
+                                "displayTitle": "Section 908 Energy Conservation",
+                                "divisionType": "Section",
+                                "hasAssemblies": false,
+                                "hasDiagrams": true,
+                                "hasDiagramsOnRef": true,
+                                "isContiguous": true,
+                                "numAssembliesOnRef": 0,
+                                "numBuildingProductsOnRef": 0,
+                                "numDiagramsOnRef": 1,
+                                "reference": "908",
+                                "slug": "alterations-level-3",
+                                "titleText": "Energy Conservation",
+                                "children": [
+                                    {
+                                        "ancestorRefs": [
+                                            "9",
+                                            "908"
+                                        ],
+                                        "body": "<a class=\"autolink\" href=\"/viewer/florida/fl-existing-building-code-2023/chapter/2/definitions#alteration\">Alterations</a> subject to this Chapter shall comply with the requirements of the <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/florida/fl-building-code-2023\">Florida Building Code</a>, Energy Conservation</span>.",
+                                        "depth": 2,
+                                        "diagrams": [],
+                                        "displayRef": null,
+                                        "displayTitle": "908.1 Minimum Requirements",
+                                        "hasAssemblies": false,
+                                        "hasDiagrams": true,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 0,
+                                        "numDiagramsOnRef": 0,
+                                        "reference": "908.1",
+                                        "slug": "alterations-level-3",
+                                        "titleText": "Minimum Requirements",
+                                        "children": []
+                                    }
+                                ]
+                            },
+                            {
+                                "ancestorRefs": [
+                                    "9"
+                                ],
+                                "depth": 1,
+                                "diagrams": [],
+                                "displayRef": null,
+                                "displayTitle": "Section 909 Plumbing",
+                                "divisionType": "Section",
+                                "hasAssemblies": false,
+                                "isContiguous": true,
+                                "numAssembliesOnRef": 0,
+                                "numBuildingProductsOnRef": 0,
+                                "numDiagramsOnRef": 0,
+                                "reference": "909",
+                                "slug": "alterations-level-3",
+                                "titleText": "Plumbing",
+                                "children": [
+                                    {
+                                        "ancestorRefs": [
+                                            "9",
+                                            "909"
+                                        ],
+                                        "body": "Single-user <a class=\"autolink\" href=\"/viewer/florida/fl-existing-building-code-2023/chapter/2/definitions#facility\">facilities</a> that are or will be provided in Level 3 <a class=\"autolink\" href=\"/viewer/florida/fl-existing-building-code-2023/chapter/2/definitions#alteration\">alterations</a> to <a class=\"autolink\" href=\"/viewer/florida/fl-existing-building-code-2023/chapter/2/definitions#existing_building\">existing buildings</a> shall be permitted to comply with <a class=\"autolink\" href=\"/viewer/florida/fl-existing-building-code-2023/chapter/8/alterations-level-2#810.1\">Section 810.1</a>.",
+                                        "depth": 2,
+                                        "diagrams": [],
+                                        "displayRef": null,
+                                        "displayTitle": "909.1 Separate Facilities",
+                                        "hasAssemblies": false,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 0,
+                                        "numDiagramsOnRef": 0,
+                                        "reference": "909.1",
+                                        "slug": "alterations-level-3",
+                                        "titleText": "Separate Facilities",
+                                        "children": []
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            "chapterReference": "9"
+        },
+        "__N_SSP": true
+    },
+    "page": "/viewer/[urlFormPubOrJurisKey]/[urlFormPub]/chapter/[chapterRef]/[chapterName]",
+    "query": {
+        "urlFormPubOrJurisKey": "florida",
+        "urlFormPub": "fl-existing-building-code-2023",
+        "chapterRef": "9",
+        "chapterName": "alterations-level-3"
+    },
+    "buildId": "fFVLMUIiiAoykBGFSOQHj",
+    "isFallback": false,
+    "isExperimentalCompile": false,
+    "dynamicIds": [
+        61621,
+        54065
+    ],
+    "gssp": true,
+    "scriptLoader": []
+}
