@@ -1,0 +1,204 @@
+Log started: 2026-01-13T14:43:27.052553+00:00
+Source: download/alabama/ibc-2021/chapter-2-definitions.csv
+--------------------------------------------------
+
+[2026-01-13T14:43:27.056041+00:00] Row Index: 94
+TITLE: Building-Integrated Photovoltaic (BIPV) Product
+BODY: A building product that incorporates photovoltaic modules and functions as a component of the buildi...
+ESTIMATED TOKENS SENT: 25
+RESPONSE: {"ifc_type": ["Roof", "CurtainWall", "Slab", "Wall", "ShadingDevice"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Residential (R)", "Mercantile (M)"], "design_phase": ["sd", "dd", "cd"], "code_category": "assemblies_envelope", "primary_responsibility": "architect"}
+--------------------
+[2026-01-13T14:43:28.906403+00:00] Row Index: 95
+TITLE: Building-Integrated Photovoltaic Roof Panel (BIPV Roof Panel)
+BODY: A photovoltaic panel that functions as a component of the building envelope....
+ESTIMATED TOKENS SENT: 24
+RESPONSE: {"ifc_type": ["Roof", "Covering"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Mercantile (M)", "Residential (R)"], "design_phase": ["sd", "dd", "cd"], "code_category": "assemblies_envelope", "primary_responsibility": "architect"}
+--------------------
+[2026-01-13T14:43:30.103154+00:00] Row Index: 153
+TITLE: Type I
+BODY: See Section 602.2....
+ESTIMATED TOKENS SENT: 5
+RESPONSE: {"ifc_type": ["Wall", "Slab", "Column"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Residential (R)", "Institutional (I)"], "design_phase": ["sd", "dd", "cd"], "code_category": "construction_type_ratings", "primary_responsibility": "architect"}
+--------------------
+[2026-01-13T14:43:31.235951+00:00] Row Index: 154
+TITLE: Type II
+BODY: See Section 602.2....
+ESTIMATED TOKENS SENT: 5
+RESPONSE: {"ifc_type": ["Wall", "Slab", "Roof"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Residential (R)", "Institutional (I)"], "design_phase": ["sd", "dd", "cd"], "code_category": "construction_type_ratings", "primary_responsibility": "architect"}
+--------------------
+[2026-01-13T14:44:00.966214+00:00] Row Index: 155
+TITLE: Type III
+BODY: See Section 602.3....
+ESTIMATED TOKENS SENT: 5
+RESPONSE: {"ifc_type": ["Wall", "Slab", "Roof"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Residential (R)", "Storage (S)"], "design_phase": ["sd", "dd", "cd"], "code_category": "construction_type_ratings", "primary_responsibility": "architect"}
+--------------------
+[2026-01-13T14:44:03.033344+00:00] Row Index: 156
+TITLE: Type IV
+BODY: See Section 602.4....
+ESTIMATED TOKENS SENT: 5
+RESPONSE: {"ifc_type": ["Wall", "Column", "Beam", "Slab"], "occupancy": ["Business (B)", "Assembly (A)", "Educational (E)", "Residential (R)", "Mercantile (M)"], "design_phase": ["sd", "dd", "cd"], "code_category": "construction_type_ratings", "primary_responsibility": "architect"}
+--------------------
+[2026-01-13T14:44:04.869575+00:00] Row Index: 157
+TITLE: Type V
+BODY: See Section 602.5....
+ESTIMATED TOKENS SENT: 5
+RESPONSE: {"ifc_type": ["Wall", "Slab", "Roof"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Residential (R)", "Mercantile (M)"], "design_phase": ["sd", "dd", "cd"], "code_category": "construction_type_ratings", "primary_responsibility": "architect"}
+--------------------
+[2026-01-13T14:44:05.942426+00:00] Row Index: 183
+TITLE: Decorative Glass
+BODY: A carved, leaded or Dalle glass or glazing material whose purpose is decorative or artistic, not fun...
+ESTIMATED TOKENS SENT: 65
+RESPONSE: {"ifc_type": ["Window", "Door", "CurtainWall", "Wall"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Mercantile (M)", "Residential (R)"], "design_phase": ["sd", "dd", "cd"], "code_category": "finishes_materials", "primary_responsibility": "architect"}
+--------------------
+[2026-01-13T14:44:07.015581+00:00] Row Index: 204
+TITLE: Diaphragm
+BODY: A horizontal or sloped system acting to transmit lateral forces to vertical elements of the lateral ...
+ESTIMATED TOKENS SENT: 40
+RESPONSE: {"ifc_type": ["Slab", "Roof", "Plate"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Residential (R)", "Factory and Industrial (F)"], "design_phase": ["sd", "dd", "cd"], "code_category": "structural_design", "primary_responsibility": "structural_engineer"}
+--------------------
+[2026-01-13T14:44:08.800784+00:00] Row Index: 280
+TITLE: Exterior Wall Envelope
+BODY: A system or assembly of exterior wall components, including exterior wall covering materials, that p...
+ESTIMATED TOKENS SENT: 53
+RESPONSE: {"ifc_type": ["Wall", "Covering", "BuildingElementProxy", "Slab", "Roof"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Residential (R)", "Mercantile (M)"], "design_phase": ["sd", "dd", "cd"], "code_category": "assemblies_envelope", "primary_responsibility": "architect"}
+--------------------
+[2026-01-13T14:44:10.818162+00:00] Row Index: 444
+TITLE: Intumescent Fire-Resistant Coatings
+BODY: Thin film liquid mixture applied to substrates by brush, roller, spray or trowel which expands into ...
+ESTIMATED TOKENS SENT: 48
+RESPONSE: {"ifc_type": ["Wall", "Beam", "Column", "Slab", "Roof"], "occupancy": ["Assembly (A)", "Business (B)", "Residential (R)", "Institutional (I)", "Mercantile (M)"], "design_phase": ["dd", "cd"], "code_category": "fire_resistance_smoke_protection", "primary_responsibility": "architect"}
+--------------------
+[2026-01-13T14:44:12.700904+00:00] Row Index: 471
+TITLE: Lot
+BODY: A portion or parcel of land considered as a unit....
+ESTIMATED TOKENS SENT: 13
+RESPONSE: {"ifc_type": ["BuildingElementProxy"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Factory and Industrial (F)", "High Hazard (H)"], "design_phase": ["concept", "sd", "dd"], "code_category": "site_planning", "primary_responsibility": "architect"}
+--------------------
+[2026-01-13T14:44:14.312824+00:00] Row Index: 492
+TITLE: Mastic Fire-Resistant Coatings
+BODY: Liquid mixture applied to a substrate by brush, roller, spray or trowel that provides fire-resistant...
+ESTIMATED TOKENS SENT: 37
+RESPONSE: {"ifc_type": ["Wall", "Column", "Beam", "Slab", "Roof"], "occupancy": ["Assembly (A)", "Business (B)", "Institutional (I)", "Residential (R)", "Mercantile (M)"], "design_phase": ["dd", "cd"], "code_category": "fire_resistance_smoke_protection", "primary_responsibility": "architect"}
+--------------------
+[2026-01-13T14:44:16.117397+00:00] Row Index: 547
+TITLE: Ordinary Structural Plain Concrete Wall
+BODY: See Section 1905.1.1....
+ESTIMATED TOKENS SENT: 9
+RESPONSE: {"ifc_type": ["Wall"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Residential (R)", "Institutional (I)"], "design_phase": ["sd", "dd", "cd"], "code_category": "structural_design", "primary_responsibility": "structural_engineer"}
+--------------------
+[2026-01-13T14:44:18.111755+00:00] Row Index: 549
+TITLE: Class I
+BODY: Those formulations that are capable of deflagration but not detonation....
+ESTIMATED TOKENS SENT: 14
+RESPONSE: {"ifc_type": ["Wall", "Door", "Slab"], "occupancy": ["High Hazard (H)"], "design_phase": ["sd", "dd", "cd"], "code_category": "hazardous_materials", "primary_responsibility": "architect"}
+--------------------
+[2026-01-13T14:44:19.868159+00:00] Row Index: 562
+TITLE: Class 2
+BODY: An oxidizer that will cause a moderate increase in the burning rate of combustible materials with wh...
+ESTIMATED TOKENS SENT: 29
+RESPONSE: {"ifc_type": ["Wall", "Door", "Slab"], "occupancy": ["High Hazard (H)"], "design_phase": ["sd", "dd", "cd"], "code_category": "hazardous_materials", "primary_responsibility": "fire_protection_engineer"}
+--------------------
+[2026-01-13T14:44:21.387496+00:00] Row Index: 578
+TITLE: Photovoltaic Module
+BODY: A complete, environmentally protected unit consisting of solar cells, optics and other components, e...
+ESTIMATED TOKENS SENT: 34
+RESPONSE: {"ifc_type": ["ShadingDevice", "Covering", "BuildingElementProxy"], "occupancy": ["Business (B)", "Educational (E)", "Residential (R)", "Mercantile (M)", "Assembly (A)"], "design_phase": ["sd", "dd", "cd"], "code_category": "special_construction", "primary_responsibility": "architect"}
+--------------------
+[2026-01-13T14:44:23.694893+00:00] Row Index: 579
+TITLE: Photovoltaic Panel
+BODY: A collection of modules mechanically fastened together, wired and designed to provide a field-instal...
+ESTIMATED TOKENS SENT: 21
+RESPONSE: {"ifc_type": ["BuildingElementProxy", "Roof"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Mercantile (M)", "Residential (R)"], "design_phase": ["sd", "dd", "cd"], "code_category": "special_construction", "primary_responsibility": "architect"}
+--------------------
+[2026-01-13T14:44:25.408986+00:00] Row Index: 580
+TITLE: Photovoltaic Panel System
+BODY: A system that incorporates discrete photovoltaic panels, that converts solar radiation into electric...
+ESTIMATED TOKENS SENT: 25
+RESPONSE: {"ifc_type": ["Covering", "Roof", "BuildingElementProxy"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Mercantile (M)", "Residential (R)"], "design_phase": ["sd", "dd", "cd"], "code_category": "special_construction", "primary_responsibility": "architect"}
+--------------------
+[2026-01-13T14:44:27.172130+00:00] Row Index: 581
+TITLE: Photovoltaic Shingles
+BODY: A roof covering resembling shingles that incorporates photovoltaic modules....
+ESTIMATED TOKENS SENT: 13
+RESPONSE: {"ifc_type": ["Roof", "Covering"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Residential (R)", "Mercantile (M)"], "design_phase": ["sd", "dd", "cd"], "code_category": "assemblies_envelope", "primary_responsibility": "architect"}
+--------------------
+[2026-01-13T14:44:30.320897+00:00] Row Index: 628
+TITLE: Risk-Targeted Maximum Considered Earthquake (MCER) Ground Motion Response Accelerations
+BODY: The most severe earthquake effects considered by this code, determined for the orientation that resu...
+ESTIMATED TOKENS SENT: 50
+RESPONSE: {"ifc_type": ["Wall", "Beam", "Column", "Slab", "Footing"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Residential (R)", "Institutional (I)"], "design_phase": ["sd", "dd", "cd"], "code_category": "structural_design", "primary_responsibility": "structural_engineer"}
+--------------------
+[2026-01-13T14:44:32.163319+00:00] Row Index: 664
+TITLE: Site Coefficients
+BODY: The values of Fa and Fv indicated in Table 1613.2.3(1) and Table 1613.2.3(2), respectively....
+ESTIMATED TOKENS SENT: 20
+RESPONSE: {"ifc_type": ["Slab", "Footing", "Column", "Wall"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Residential (R)", "Institutional (I)"], "design_phase": ["sd", "dd", "cd"], "code_category": "structural_design", "primary_responsibility": "structural_engineer"}
+--------------------
+[2026-01-13T14:44:34.216309+00:00] Row Index: 687
+TITLE: Specified Compressive Strength of Masonry , f'm
+BODY: Minimum compressive strength, expressed as force per unit of net cross-sectional area, required of t...
+ESTIMATED TOKENS SENT: 90
+RESPONSE: {"ifc_type": ["Wall", "Column", "Footing"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Residential (R)", "Institutional (I)"], "design_phase": ["sd", "dd", "cd"], "code_category": "structural_design", "primary_responsibility": "structural_engineer"}
+--------------------
+[2026-01-13T14:44:36.249936+00:00] Row Index: 692
+TITLE: Sprayed Fire-Resistant Materials
+BODY: Cementitious or fibrous materials that are sprayed to provide fire-resistant protection of the subst...
+ESTIMATED TOKENS SENT: 21
+RESPONSE: {"ifc_type": ["Beam", "Column", "Slab", "Wall"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Residential (R)", "Institutional (I)"], "design_phase": ["dd", "cd"], "code_category": "fire_resistance_smoke_protection", "primary_responsibility": "architect"}
+--------------------
+[2026-01-13T14:44:38.196072+00:00] Row Index: 715
+TITLE: Steep Slope
+BODY: A roof slope 2 units vertical in 12 units horizontal (17-percent slope) or greater....
+ESTIMATED TOKENS SENT: 20
+RESPONSE: {"ifc_type": ["Roof"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Mercantile (M)", "Residential (R)"], "design_phase": ["sd", "dd", "cd"], "code_category": "assemblies_envelope", "primary_responsibility": "architect"}
+--------------------
+[2026-01-13T14:44:39.867361+00:00] Row Index: 726
+TITLE: Nominal Strength
+BODY: The capacity of a structure or member to resist the effects of loads, as determined by computations ...
+ESTIMATED TOKENS SENT: 72
+RESPONSE: {"ifc_type": ["Beam", "Column", "Slab", "Wall", "Footing"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Residential (R)", "Institutional (I)"], "design_phase": ["sd", "dd", "cd"], "code_category": "structural_design", "primary_responsibility": "structural_engineer"}
+--------------------
+[2026-01-13T14:44:41.954703+00:00] Row Index: 727
+TITLE: Required Strength
+BODY: Strength of a member, cross section or connection required to resist factored loads or related inter...
+ESTIMATED TOKENS SENT: 37
+RESPONSE: {"ifc_type": ["Beam", "Column", "Footing", "Slab", "Wall"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Factory and Industrial (F)", "Residential (R)"], "design_phase": ["sd", "dd", "cd"], "code_category": "structural_design", "primary_responsibility": "structural_engineer"}
+--------------------
+[2026-01-13T14:44:43.981421+00:00] Row Index: 728
+TITLE: Strength Design
+BODY: A method of proportioning structural members such that the computed forces produced in the members b...
+ESTIMATED TOKENS SENT: 65
+RESPONSE: {"ifc_type": ["Column", "Beam", "Slab", "Wall", "Footing"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Residential (R)", "Storage (S)"], "design_phase": ["sd", "dd", "cd"], "code_category": "structural_design", "primary_responsibility": "structural_engineer"}
+--------------------
+[2026-01-13T14:44:49.686551+00:00] Row Index: 729
+TITLE: Design Strength
+BODY: Nominal strength multiplied by a strength reduction factor....
+ESTIMATED TOKENS SENT: 12
+RESPONSE: {"ifc_type": ["Beam", "Column", "Slab", "Wall", "Footing"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Residential (R)", "Storage (S)"], "design_phase": ["sd", "dd", "cd"], "code_category": "structural_design", "primary_responsibility": "structural_engineer"}
+--------------------
+[2026-01-13T14:44:51.354602+00:00] Row Index: 730
+TITLE: Nominal Strength
+BODY: Strength of a member or cross section calculated in accordance with these provisions before applicat...
+ESTIMATED TOKENS SENT: 26
+RESPONSE: {"ifc_type": ["Beam", "Column", "Slab", "Wall", "Footing"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Residential (R)", "Mercantile (M)"], "design_phase": ["sd", "dd", "cd"], "code_category": "structural_design", "primary_responsibility": "structural_engineer"}
+--------------------
+[2026-01-13T14:44:54.096518+00:00] Row Index: 731
+TITLE: Required Strength
+BODY: Strength of a member or cross section required to resist factored loads....
+ESTIMATED TOKENS SENT: 17
+RESPONSE: {"ifc_type": ["Beam", "Column", "Slab", "Wall", "Footing"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Residential (R)", "Institutional (I)"], "design_phase": ["sd", "dd", "cd"], "code_category": "structural_design", "primary_responsibility": "structural_engineer"}
+--------------------
+[2026-01-13T14:44:56.323310+00:00] Row Index: 747
+TITLE: Susceptible Bay
+BODY: A roof or portion thereof with either of the following: A slope less than 1/4-inch per foot (0.0208 ...
+ESTIMATED TOKENS SENT: 90
+RESPONSE: {"ifc_type": ["Roof", "Slab"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Residential (R)", "Storage (S)"], "design_phase": ["sd", "dd", "cd"], "code_category": "structural_design", "primary_responsibility": "structural_engineer"}
+--------------------
+[2026-01-13T14:44:58.655876+00:00] Row Index: 810
+TITLE: Wind Speed, V
+BODY: Basic design wind speeds....
+ESTIMATED TOKENS SENT: 8
+RESPONSE: {"ifc_type": ["Wall", "Roof", "Slab", "Column", "Beam"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Residential (R)", "Storage (S)"], "design_phase": ["sd", "dd", "cd"], "code_category": "structural_design", "primary_responsibility": "structural_engineer"}
+--------------------
+
+CSV Saved Successfully at 2026-01-13T14:45:00.739779+00:00

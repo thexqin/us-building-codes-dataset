@@ -1,0 +1,12 @@
+Log started: 2026-01-13T14:45:00.750020+00:00
+Source: download/alabama/ibc-2021/chapter-3-occupancy-classification-and-use.csv
+--------------------------------------------------
+
+[2026-01-13T14:45:00.754483+00:00] Row Index: 38
+TITLE: Uses Other Than Group H
+BODY: An occupancy that stores, uses or handles hazardous materials as described in one or more of the fol...
+ESTIMATED TOKENS SENT: 546
+RESPONSE: {"ifc_type": ["BuildingElementProxy"], "occupancy": ["Business (B)", "Factory and Industrial (F)", "Institutional (I)", "Mercantile (M)", "Storage (S)"], "design_phase": ["sd", "dd", "cd"], "code_category": "occupancy_classification", "primary_responsibility": "architect"}
+--------------------
+
+CSV Saved Successfully at 2026-01-13T14:45:03.748675+00:00

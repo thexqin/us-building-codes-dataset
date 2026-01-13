@@ -1,0 +1,210 @@
+Log started: 2026-01-13T14:42:27.601823+00:00
+Source: download/alabama/ibc-2021/chapter-10-means-of-egress.csv
+--------------------------------------------------
+
+[2026-01-13T14:42:27.607104+00:00] Row Index: 58
+TITLE: Egress From Stories or Occupied Roofs
+BODY: The means of egress system serving any story or occupied roof shall be provided with the number of s...
+ESTIMATED TOKENS SENT: 57
+RESPONSE: {"ifc_type": ["Stair", "Door", "Ramp"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Residential (R)", "Institutional (I)"], "design_phase": ["sd", "dd", "cd"], "code_category": "means_of_egress", "primary_responsibility": "architect"}
+--------------------
+[2026-01-13T14:42:29.606604+00:00] Row Index: 77
+TITLE: Emergency Power for Illumination
+BODY: The power supply for means of egress illumination shall normally be provided by the premises' electr...
+ESTIMATED TOKENS SENT: 26
+RESPONSE: {"ifc_type": ["Slab", "Wall", "Door"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Institutional (I)", "Mercantile (M)"], "design_phase": ["sd", "dd", "cd"], "code_category": "means_of_egress", "primary_responsibility": "electrical_engineer"}
+--------------------
+[2026-01-13T14:42:31.560347+00:00] Row Index: 78
+TITLE: General
+BODY: In the event of power supply failure in rooms and spaces that require two or more exits or access to...
+ESTIMATED TOKENS SENT: 49
+RESPONSE: {"ifc_type": ["Stair", "Ramp", "Slab", "Railing", "CurtainWall"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Institutional (I)", "Residential (R)"], "design_phase": ["sd", "dd", "cd"], "code_category": "fire_protection_alarm_systems", "primary_responsibility": "electrical_engineer"}
+--------------------
+[2026-01-13T14:42:33.376085+00:00] Row Index: 79
+TITLE: Buildings
+BODY: In the event of power supply failure in buildings that require two or more exits or access to exits,...
+ESTIMATED TOKENS SENT: 100
+RESPONSE: {"ifc_type": ["Stair", "Ramp", "Door", "Slab", "BuildingElementProxy"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Institutional (I)", "Residential (R)"], "design_phase": ["sd", "dd", "cd"], "code_category": "fire_protection_alarm_systems", "primary_responsibility": "electrical_engineer"}
+--------------------
+[2026-01-13T14:42:41.596618+00:00] Row Index: 80
+TITLE: Rooms and Spaces
+BODY: In the event of power supply failure, an emergency electrical system shall automatically illuminate ...
+ESTIMATED TOKENS SENT: 52
+RESPONSE: {"ifc_type": ["BuildingElementProxy", "Door", "Window"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Institutional (I)", "Residential (R)"], "design_phase": ["sd", "dd", "cd"], "code_category": "electrical_systems", "primary_responsibility": "electrical_engineer"}
+--------------------
+[2026-01-13T14:42:43.078889+00:00] Row Index: 81
+TITLE: Duration
+BODY: The emergency power system shall provide power for a duration of not less than 90 minutes and shall ...
+ESTIMATED TOKENS SENT: 56
+RESPONSE: {"ifc_type": ["BuildingElementProxy"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Institutional (I)", "Residential (R)"], "design_phase": ["dd", "cd"], "code_category": "electrical_systems", "primary_responsibility": "electrical_engineer"}
+--------------------
+[2026-01-13T14:42:44.439872+00:00] Row Index: 82
+TITLE: Illumination Level Under Emergency Power
+BODY: Emergency lighting facilities shall be arranged to provide initial illumination that is not less tha...
+ESTIMATED TOKENS SENT: 156
+RESPONSE: {"ifc_type": ["LightingDevice", "BuildingElementProxy"], "occupancy": ["Institutional (I)", "Assembly (A)", "Business (B)", "Residential (R)"], "design_phase": ["sd", "dd", "cd"], "code_category": "fire_protection_alarm_systems", "primary_responsibility": "electrical_engineer"}
+--------------------
+[2026-01-13T14:42:45.966383+00:00] Row Index: 130
+TITLE: Bolt Locks
+BODY: Manually operated flush bolts or surface bolts are not permitted.Exceptions: On doors not required f...
+ESTIMATED TOKENS SENT: 277
+RESPONSE: {"ifc_type": ["Door"], "occupancy": ["Business (B)", "Factory and Industrial (F)", "Institutional (I)", "Storage (S)", "Residential (R)"], "design_phase": ["sd", "dd", "cd"], "code_category": "means_of_egress", "primary_responsibility": "architect"}
+--------------------
+[2026-01-13T14:42:47.309949+00:00] Row Index: 131
+TITLE: Closet Doors
+BODY: Closet doors that latch in the closed position shall be openable from inside the closet....
+ESTIMATED TOKENS SENT: 21
+RESPONSE: {"ifc_type": ["Door"], "occupancy": ["Residential (R)", "Institutional (I)", "Assembly (A)"], "design_phase": ["sd", "dd", "cd"], "code_category": "means_of_egress", "primary_responsibility": "architect"}
+--------------------
+[2026-01-13T14:42:48.624728+00:00] Row Index: 132
+TITLE: Stairway Doors
+BODY: Interior stairway means of egress doors shall be openable from both sides without the use of a key o...
+ESTIMATED TOKENS SENT: 268
+RESPONSE: {"ifc_type": ["Door", "Stair", "StairFlight"], "occupancy": ["Business (B)", "Factory and Industrial (F)", "Mercantile (M)", "Residential (R)", "Storage (S)"], "design_phase": ["sd", "dd", "cd"], "code_category": "means_of_egress", "primary_responsibility": "architect"}
+--------------------
+[2026-01-13T14:42:50.516802+00:00] Row Index: 133
+TITLE: Locking Arrangements in Educational Occupancies
+BODY: In Group E occupancies, Group B educational occupancies and Group I-4 occupancies, egress doors from...
+ESTIMATED TOKENS SENT: 161
+RESPONSE: {"ifc_type": ["Door"], "occupancy": ["Educational (E)", "Business (B)", "Institutional (I)"], "design_phase": ["sd", "dd", "cd"], "code_category": "means_of_egress", "primary_responsibility": "architect"}
+--------------------
+[2026-01-13T14:42:51.883400+00:00] Row Index: 134
+TITLE: Panic and Fire Exit Hardware
+BODY: Swinging doors serving a Group H occupancy and swinging doors serving rooms or spaces with an occupa...
+ESTIMATED TOKENS SENT: 178
+RESPONSE: {"ifc_type": ["Door"], "occupancy": ["High Hazard (H)", "Assembly (A)", "Educational (E)"], "design_phase": ["sd", "dd", "cd"], "code_category": "means_of_egress", "primary_responsibility": "architect"}
+--------------------
+[2026-01-13T14:42:53.023215+00:00] Row Index: 135
+TITLE: Refrigeration Machinery Room
+BODY: Refrigeration machinery rooms larger than 1,000 square feet (93 m2) shall have not less than two exi...
+ESTIMATED TOKENS SENT: 56
+RESPONSE: {"ifc_type": ["Door", "Slab", "Wall"], "occupancy": ["Factory and Industrial (F)", "Utility and Miscellaneous (U)"], "design_phase": ["sd", "dd", "cd"], "code_category": "means_of_egress", "primary_responsibility": "architect"}
+--------------------
+[2026-01-13T14:42:54.919885+00:00] Row Index: 136
+TITLE: Rooms With Electrical Equipment
+BODY: Exit or exit access doors serving transformer vaults, rooms designated for batteries or energy stora...
+ESTIMATED TOKENS SENT: 140
+RESPONSE: {"ifc_type": ["Door"], "occupancy": ["Business (B)", "Factory and Industrial (F)", "Storage (S)", "Utility and Miscellaneous (U)"], "design_phase": ["sd", "dd", "cd"], "code_category": "means_of_egress", "primary_responsibility": "architect"}
+--------------------
+[2026-01-13T14:42:56.249588+00:00] Row Index: 137
+TITLE: Installation
+BODY: Where panic or fire exit hardware is installed, it shall comply with the following:Panic hardware sh...
+ESTIMATED TOKENS SENT: 84
+RESPONSE: {"ifc_type": ["Door"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Institutional (I)", "Mercantile (M)"], "design_phase": ["sd", "dd", "cd"], "code_category": "means_of_egress", "primary_responsibility": "architect"}
+--------------------
+[2026-01-13T14:42:57.594450+00:00] Row Index: 138
+TITLE: Balanced Doors
+BODY: If balanced doors are used and panic hardware is required, the panic hardware shall be the push-pad ...
+ESTIMATED TOKENS SENT: 50
+RESPONSE: {"ifc_type": ["Door"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Mercantile (M)", "Institutional (I)"], "design_phase": ["sd", "dd", "cd"], "code_category": "means_of_egress", "primary_responsibility": "architect"}
+--------------------
+[2026-01-13T14:42:58.750986+00:00] Row Index: 139
+TITLE: Monitored or Recorded Egress
+BODY: Where electrical systems that monitor or record egress activity are incorporated, the locking system...
+ESTIMATED TOKENS SENT: 62
+RESPONSE: {"ifc_type": ["Door"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Residential (R)", "Institutional (I)"], "design_phase": ["sd", "dd", "cd"], "code_category": "means_of_egress", "primary_responsibility": "architect"}
+--------------------
+[2026-01-13T14:43:00.166495+00:00] Row Index: 140
+TITLE: Door Hardware Release of Electrically Locked Egress Doors
+BODY: Door hardware release of electric locking systems shall be permitted on doors in the means of egress...
+ESTIMATED TOKENS SENT: 189
+RESPONSE: {"ifc_type": ["Door"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Factory and Industrial (F)", "Institutional (I)"], "design_phase": ["sd", "dd", "cd"], "code_category": "means_of_egress", "primary_responsibility": "architect"}
+--------------------
+[2026-01-13T14:43:01.792296+00:00] Row Index: 141
+TITLE: Sensor Release of Electrically Locked Egress Doors
+BODY: Sensor release of electric locking systems shall be permitted on doors located in the means of egres...
+ESTIMATED TOKENS SENT: 366
+RESPONSE: {"ifc_type": ["Door"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Factory and Industrial (F)", "Institutional (I)"], "design_phase": ["sd", "dd", "cd"], "code_category": "means_of_egress", "primary_responsibility": "architect"}
+--------------------
+[2026-01-13T14:43:03.206661+00:00] Row Index: 142
+TITLE: Delayed Egress
+BODY: Delayed egress locking systems shall be permitted to be installed on doors serving the following occ...
+ESTIMATED TOKENS SENT: 153
+RESPONSE: {"ifc_type": ["Door"], "occupancy": ["Business (B)", "Factory and Industrial (F)", "Institutional (I)", "Mercantile (M)", "Residential (R)"], "design_phase": ["sd", "dd", "cd"], "code_category": "means_of_egress", "primary_responsibility": "architect"}
+--------------------
+[2026-01-13T14:43:04.610706+00:00] Row Index: 143
+TITLE: Delayed Egress Locking System
+BODY: The delayed egress locking system shall be installed and operated in accordance with all of the foll...
+ESTIMATED TOKENS SENT: 593
+RESPONSE: {"ifc_type": ["Door", "BuildingElementProxy"], "occupancy": ["Institutional (I)", "Assembly (A)", "Business (B)"], "design_phase": ["sd", "dd", "cd"], "code_category": "means_of_egress", "primary_responsibility": "architect"}
+--------------------
+[2026-01-13T14:43:05.952390+00:00] Row Index: 144
+TITLE: Controlled Egress Doors in Groups I-1 and I-2
+BODY: Electric locking systems, including electro-mechanical locking systems and electromagnetic locking s...
+ESTIMATED TOKENS SENT: 430
+RESPONSE: {"ifc_type": ["Door"], "occupancy": ["Institutional (I)"], "design_phase": ["sd", "dd", "cd"], "code_category": "means_of_egress", "primary_responsibility": "architect"}
+--------------------
+[2026-01-13T14:43:07.295978+00:00] Row Index: 233
+TITLE: Handrail Graspability
+BODY: Required handrails shall comply with Section 1014.3.1 or shall provide equivalent graspability.Excep...
+ESTIMATED TOKENS SENT: 92
+RESPONSE: {"ifc_type": ["Railing"], "occupancy": ["Residential (R)", "Utility and Miscellaneous (U)"], "design_phase": ["sd", "dd", "cd"], "code_category": "means_of_egress", "primary_responsibility": "architect"}
+--------------------
+[2026-01-13T14:43:08.741351+00:00] Row Index: 234
+TITLE: Type I
+BODY: Handrails with a circular cross section shall have an outside diameter of not less than 11/4 inches ...
+ESTIMATED TOKENS SENT: 114
+RESPONSE: {"ifc_type": ["Railing"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Institutional (I)", "Residential (R)"], "design_phase": ["sd", "dd", "cd"], "code_category": "accessibility", "primary_responsibility": "architect"}
+--------------------
+[2026-01-13T14:43:10.125380+00:00] Row Index: 235
+TITLE: Type II
+BODY: Handrails with a perimeter greater than 61/4 inches (160 mm) shall provide a graspable finger recess...
+ESTIMATED TOKENS SENT: 184
+RESPONSE: {"ifc_type": ["Railing"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Institutional (I)", "Residential (R)"], "design_phase": ["sd", "dd", "cd"], "code_category": "accessibility", "primary_responsibility": "architect"}
+--------------------
+[2026-01-13T14:43:11.761204+00:00] Row Index: 236
+TITLE: Continuity
+BODY: Handrail gripping surfaces shall be continuous, without interruption by newel posts or other obstruc...
+ESTIMATED TOKENS SENT: 241
+RESPONSE: {"ifc_type": ["Railing", "Stair", "Ramp"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Institutional (I)", "Residential (R)"], "design_phase": ["sd", "dd", "cd"], "code_category": "accessibility", "primary_responsibility": "architect"}
+--------------------
+[2026-01-13T14:43:14.317417+00:00] Row Index: 237
+TITLE: Fittings
+BODY: Handrails shall not rotate within their fittings....
+ESTIMATED TOKENS SENT: 9
+RESPONSE: {"ifc_type": ["Railing", "Stair", "Ramp"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Institutional (I)", "Residential (R)"], "design_phase": ["sd", "dd", "cd"], "code_category": "accessibility", "primary_responsibility": "architect"}
+--------------------
+[2026-01-13T14:43:15.570393+00:00] Row Index: 238
+TITLE: Handrail Extensions
+BODY: Handrails shall return to a wall, guard or the walking surface or shall be continuous to the handrai...
+ESTIMATED TOKENS SENT: 276
+RESPONSE: {"ifc_type": ["Railing", "Stair", "Ramp", "RampFlight", "StairFlight"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Institutional (I)", "Residential (R)"], "design_phase": ["sd", "dd", "cd"], "code_category": "accessibility", "primary_responsibility": "architect"}
+--------------------
+[2026-01-13T14:43:17.374741+00:00] Row Index: 239
+TITLE: Clearance
+BODY: Clear space between a handrail and a wall or other surface shall be not less than 11/2 inches (38 mm...
+ESTIMATED TOKENS SENT: 54
+RESPONSE: {"ifc_type": ["Railing", "Wall"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Institutional (I)", "Residential (R)"], "design_phase": ["sd", "dd", "cd"], "code_category": "accessibility", "primary_responsibility": "architect"}
+--------------------
+[2026-01-13T14:43:18.933509+00:00] Row Index: 240
+TITLE: Projections
+BODY: On ramps and on ramped aisles that are part of an accessible route, the clear width between handrail...
+ESTIMATED TOKENS SENT: 200
+RESPONSE: {"ifc_type": ["Ramp", "Railing", "Stair", "StairFlight"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Institutional (I)", "Residential (R)"], "design_phase": ["sd", "dd", "cd"], "code_category": "accessibility", "primary_responsibility": "architect"}
+--------------------
+[2026-01-13T14:43:20.178195+00:00] Row Index: 241
+TITLE: Intermediate Handrails
+BODY: Stairways shall have intermediate handrails located in such a manner that all portions of the stairw...
+ESTIMATED TOKENS SENT: 61
+RESPONSE: {"ifc_type": ["Stair", "StairFlight", "Railing"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Institutional (I)", "Residential (R)"], "design_phase": ["sd", "dd", "cd"], "code_category": "means_of_egress", "primary_responsibility": "architect"}
+--------------------
+[2026-01-13T14:43:22.190310+00:00] Row Index: 252
+TITLE: Window Opening Control Devices
+BODY: Window opening control devices shall comply with ASTM F2090. The window opening control device, afte...
+ESTIMATED TOKENS SENT: 69
+RESPONSE: {"ifc_type": ["Window"], "occupancy": ["Residential (R)", "Assembly (A)", "Institutional (I)", "Educational (E)"], "design_phase": ["sd", "dd", "cd"], "code_category": "fire_protection_alarm_systems", "primary_responsibility": "architect"}
+--------------------
+[2026-01-13T14:43:23.482644+00:00] Row Index: 282
+TITLE: Hoistway Opening Protection
+BODY: Elevator hoistway openings shall be protected in accordance with Section 3006.2.1....
+ESTIMATED TOKENS SENT: 17
+RESPONSE: {"ifc_type": ["Elevator", "Wall", "Door"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Institutional (I)", "Residential (R)"], "design_phase": ["sd", "dd", "cd"], "code_category": "elevators_conveying_systems", "primary_responsibility": "architect"}
+--------------------
+[2026-01-13T14:43:24.982577+00:00] Row Index: 285
+TITLE: Dead Ends
+BODY: Where more than one exit or exit access doorway is required, the exit access shall be arranged such ...
+ESTIMATED TOKENS SENT: 201
+RESPONSE: {"ifc_type": ["Wall", "Door"], "occupancy": ["Business (B)", "Educational (E)", "Factory and Industrial (F)", "Institutional (I)", "Residential (R)"], "design_phase": ["sd", "dd", "cd"], "code_category": "means_of_egress", "primary_responsibility": "architect"}
+--------------------
+
+CSV Saved Successfully at 2026-01-13T14:43:26.879443+00:00
