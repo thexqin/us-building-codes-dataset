@@ -1,0 +1,78 @@
+Log started: 2026-01-14T15:51:07.873628+00:00
+Source: download/district-of-columbia/ibc-2015/chapter-5-general-building-heights-and-areas.csv
+--------------------------------------------------
+
+[2026-01-14T15:51:07.882543+00:00] Row Index: 4
+TITLE: Definitions
+BODY: The following terms are defined in Chapter 2: AREA, BUILDING. BASEMENT. EQUIPMENT PLATFORM. GRADE PL...
+ESTIMATED TOKENS SENT: 24
+RESPONSE: {"ifc_type": ["BuildingElementProxy"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Factory and Industrial (F)", "Residential (R)"], "design_phase": ["concept", "sd", "dd", "cd"], "code_category": "occupancy_classification", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T15:51:09.698358+00:00] Row Index: 33
+TITLE: Single-Occupancy, One-Story Buildings
+BODY: The allowable area of a single-occupancy building with no more than one story above grade plane shal...
+ESTIMATED TOKENS SENT: 120
+RESPONSE: {"ifc_type": ["Wall", "Slab", "Roof"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Factory and Industrial (F)", "High Hazard (H)"], "design_phase": ["concept", "sd", "dd", "cd"], "code_category": "building_height_area_limits", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T15:51:11.392629+00:00] Row Index: 34
+TITLE: Mixed-Occupancy, One-Story Buildings
+BODY: The allowable area of a mixed-occupancy building with no more than one story above grade plane shall...
+ESTIMATED TOKENS SENT: 50
+RESPONSE: {"ifc_type": ["Wall", "Slab", "Roof"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Mercantile (M)", "Residential (R)"], "design_phase": ["sd", "dd", "cd"], "code_category": "building_height_area_limits", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T15:51:12.767776+00:00] Row Index: 36
+TITLE: Single-Occupancy, Multistory Buildings
+BODY: The allowable area of a single-occupancy building with more than one story above grade plane shall b...
+ESTIMATED TOKENS SENT: 205
+RESPONSE: {"ifc_type": ["Wall", "Slab", "Column", "Roof"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Factory and Industrial (F)", "Residential (R)"], "design_phase": ["sd", "dd", "cd"], "code_category": "building_height_area_limits", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T15:51:14.287957+00:00] Row Index: 37
+TITLE: Mixed-Occupancy, Multistory Buildings
+BODY: Each story of a mixed-occupancy building with more than one story above grade plane shall individual...
+ESTIMATED TOKENS SENT: 292
+RESPONSE: {"ifc_type": ["Wall", "Slab", "Stair", "Door", "Window"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Factory and Industrial (F)", "Residential (R)"], "design_phase": ["sd", "dd", "cd"], "code_category": "building_height_area_limits", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T15:51:15.879105+00:00] Row Index: 38
+TITLE: Group H-2 or H-3 Mixed Occupancies
+BODY: For a building containing Group H-2 or H-3 occupancies, the allowable area shall be determined in ac...
+ESTIMATED TOKENS SENT: 60
+RESPONSE: {"ifc_type": ["Wall", "Slab", "Door"], "occupancy": ["High Hazard (H)"], "design_phase": ["sd", "dd", "cd"], "code_category": "building_height_area_limits", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T15:51:17.233282+00:00] Row Index: 57
+TITLE: Liquid Use, Dispensing and Mixing Rooms
+BODY: Liquid use, dispensing and mixing rooms having a floor area of not more than 500 square feet (46.5 m...
+ESTIMATED TOKENS SENT: 64
+RESPONSE: {"ifc_type": ["Wall", "Door", "Slab"], "occupancy": ["Factory and Industrial (F)", "High Hazard (H)", "Storage (S)"], "design_phase": ["sd", "dd", "cd"], "code_category": "hazardous_materials", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T15:51:18.730190+00:00] Row Index: 58
+TITLE: Liquid Storage Rooms
+BODY: Liquid storage rooms having a floor area of not more than 1,000 square feet (93 m2) need not be loca...
+ESTIMATED TOKENS SENT: 52
+RESPONSE: {"ifc_type": ["Wall", "Door", "Slab"], "occupancy": ["Factory and Industrial (F)", "High Hazard (H)", "Storage (S)"], "design_phase": ["sd", "dd", "cd"], "code_category": "hazardous_materials", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T15:51:20.493419+00:00] Row Index: 77
+TITLE: Allowable Building Area and Height
+BODY: The allowable building area and height of the building or portion thereof shall be based on the most...
+ESTIMATED TOKENS SENT: 57
+RESPONSE: {"ifc_type": ["Wall", "Roof", "Slab", "Column"], "occupancy": ["Assembly (A)", "Business (B)", "Residential (R)"], "design_phase": ["sd", "dd", "cd"], "code_category": "building_height_area_limits", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T15:51:22.221290+00:00] Row Index: 82
+TITLE: Allowable Height
+BODY: Each separated occupancy shall comply with the building height limitations based on the type of cons...
+ESTIMATED TOKENS SENT: 57
+RESPONSE: {"ifc_type": ["Wall", "Column", "Slab"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Residential (R)", "Mercantile (M)"], "design_phase": ["sd", "dd", "cd"], "code_category": "building_height_area_limits", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T15:51:24.018040+00:00] Row Index: 85
+TITLE: Incidental Uses
+BODY: TABLE 509 INCIDENTAL USES ROOM OR AREA SEPARATION AND/OR PROTECTION Furnace room where any piece of ...
+ESTIMATED TOKENS SENT: 542
+RESPONSE: {"ifc_type": ["Wall", "Door", "Slab"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Institutional (I)", "Mercantile (M)"], "design_phase": ["sd", "dd", "cd"], "code_category": "fire_resistance_smoke_protection", "primary_responsibility": "architect"}
+--------------------
+
+==================================================
+SUMMARY STATISTICS
+Total Rows Processed by AI: 11
+Total Estimated Tokens Sent: 1523
+==================================================
+
+CSV Saved Successfully at 2026-01-14T15:51:25.774109+00:00

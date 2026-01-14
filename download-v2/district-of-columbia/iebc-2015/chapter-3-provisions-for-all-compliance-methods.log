@@ -1,0 +1,60 @@
+Log started: 2026-01-14T15:51:26.057763+00:00
+Source: download/district-of-columbia/iebc-2015/chapter-3-provisions-for-all-compliance-methods.csv
+--------------------------------------------------
+
+[2026-01-14T15:51:26.062404+00:00] Row Index: 2
+TITLE: General
+BODY: The repair, alteration, change of occupancy, addition or relocation of all existing buildings shall ...
+ESTIMATED TOKENS SENT: 233
+RESPONSE: {"ifc_type": ["Wall", "Column", "Slab", "Roof", "BuildingElementProxy"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Factory and Industrial (F)", "Residential (R)"], "design_phase": ["sd", "dd", "cd"], "code_category": "occupancy_classification", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T15:51:27.946231+00:00] Row Index: 3
+TITLE: Prescriptive Compliance Method
+BODY: Repairs, alterations, additions and changes of occupancy complying with Chapter 4 of this code in bu...
+ESTIMATED TOKENS SENT: 46
+RESPONSE: {"ifc_type": ["Wall", "Door", "Slab"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Mercantile (M)", "Residential (R)"], "design_phase": ["sd", "dd", "cd"], "code_category": "occupancy_classification", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T15:51:30.062250+00:00] Row Index: 4
+TITLE: Work Area Compliance Method
+BODY: Repairs, alterations, additions, changes in occupancy and relocated buildings complying with the app...
+ESTIMATED TOKENS SENT: 48
+RESPONSE: {"ifc_type": ["Wall", "Slab", "Door"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Residential (R)", "Mercantile (M)"], "design_phase": ["sd", "dd", "cd"], "code_category": "occupancy_classification", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T15:51:32.238083+00:00] Row Index: 5
+TITLE: Performance Compliance Method
+BODY: Repairs, alterations, additions, changes in occupancy and relocated buildings complying with Chapter...
+ESTIMATED TOKENS SENT: 38
+RESPONSE: {"ifc_type": ["BuildingElementProxy"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Factory and Industrial (F)", "Residential (R)"], "design_phase": ["sd", "dd", "cd"], "code_category": "occupancy_classification", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T15:51:34.540409+00:00] Row Index: 6
+TITLE: Seismic Evaluation and Design Procedures
+BODY: The seismic evaluation and design shall be based on the procedures specified in the International Bu...
+ESTIMATED TOKENS SENT: 58
+RESPONSE: {"ifc_type": ["Wall", "Column", "Beam", "Slab", "Footing"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Residential (R)", "Institutional (I)"], "design_phase": ["sd", "dd", "cd"], "code_category": "structural_design", "primary_responsibility": "structural_engineer"}
+--------------------
+[2026-01-14T15:51:36.404766+00:00] Row Index: 7
+TITLE: Compliance With International Building Code-Level Seismic Forces
+BODY: Where compliance with the seismic design provisions of the International Building Code is required, ...
+ESTIMATED TOKENS SENT: 277
+RESPONSE: {"ifc_type": ["Beam", "Column", "Slab", "Wall", "Footing"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Institutional (I)", "Residential (R)"], "design_phase": ["sd", "dd", "cd"], "code_category": "structural_design", "primary_responsibility": "structural_engineer"}
+--------------------
+[2026-01-14T15:51:38.474506+00:00] Row Index: 8
+TITLE: Compliance With Reduced International Building Code-Level Seismic Forces
+BODY: Where seismic evaluation and design is permitted to meet reduced International Building Code seismic...
+ESTIMATED TOKENS SENT: 502
+RESPONSE: {"ifc_type": ["Wall", "Slab", "Column", "Footing", "BuildingElementProxy"], "occupancy": ["Residential (R)", "Business (B)", "Assembly (A)", "Educational (E)", "Institutional (I)"], "design_phase": ["sd", "dd", "cd"], "code_category": "structural_design", "primary_responsibility": "structural_engineer"}
+--------------------
+[2026-01-14T15:51:40.492485+00:00] Row Index: 10
+TITLE: Applicability
+BODY: The provisions of Section 302 apply to all alterations, repairs, additions, relocations of structure...
+ESTIMATED TOKENS SENT: 29
+RESPONSE: {"ifc_type": ["Wall", "Slab", "Roof"], "occupancy": ["Assembly (A)", "Business (B)", "Residential (R)"], "design_phase": ["sd", "dd", "cd"], "code_category": "occupancy_classification", "primary_responsibility": "architect"}
+--------------------
+
+==================================================
+SUMMARY STATISTICS
+Total Rows Processed by AI: 8
+Total Estimated Tokens Sent: 1231
+==================================================
+
+CSV Saved Successfully at 2026-01-14T15:51:41.922468+00:00
