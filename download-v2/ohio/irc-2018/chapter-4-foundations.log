@@ -1,0 +1,42 @@
+Log started: 2026-01-14T20:41:11.055152+00:00
+Source: download/ohio/irc-2018/chapter-4-foundations.csv
+--------------------------------------------------
+
+[2026-01-14T20:41:11.059127+00:00] Row Index: 7
+TITLE: Controlled Low-Strength Material (CLSM)
+BODY: Where footings will bear on controlled low-strength material (CLSM), the CLSM shall comply with the ...
+ESTIMATED TOKENS SENT: 118
+RESPONSE: {"ifc_type": ["Footing", "Slab", "EarthworksElement"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Factory and Industrial (F)", "Residential (R)"], "design_phase": ["sd", "dd", "cd"], "code_category": "structural_design", "primary_responsibility": "structural_engineer"}
+--------------------
+[2026-01-14T20:41:12.887656+00:00] Row Index: 44
+TITLE: Exterior Deck Footings
+BODY: See Section 507 for exterior deck foundation requirements....
+ESTIMATED TOKENS SENT: 13
+RESPONSE: {"ifc_type": ["Footing", "Slab"], "occupancy": ["Assembly (A)", "Business (B)", "Residential (R)", "Educational (E)"], "design_phase": ["sd", "dd", "cd"], "code_category": "structural_design", "primary_responsibility": "structural_engineer"}
+--------------------
+[2026-01-14T20:41:14.445997+00:00] Row Index: 51
+TITLE: Concrete Cross-Section
+BODY: Concrete walls constructed in accordance with this code shall comply with the shapes and minimum con...
+ESTIMATED TOKENS SENT: 65
+RESPONSE: {"ifc_type": ["Wall"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Residential (R)", "Institutional (I)"], "design_phase": ["sd", "dd", "cd"], "code_category": "structural_design", "primary_responsibility": "structural_engineer"}
+--------------------
+[2026-01-14T20:41:15.922598+00:00] Row Index: 120
+TITLE: Ventilation
+BODY: The under-floor space between the bottom of the floor joists and the earth under any building (excep...
+ESTIMATED TOKENS SENT: 169
+RESPONSE: {"ifc_type": ["Slab", "Wall"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Residential (R)", "Storage (S)"], "design_phase": ["sd", "dd", "cd"], "code_category": "interior_environment", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T20:41:17.497554+00:00] Row Index: 128
+TITLE: Protection of Exposed Foundation Insulation
+BODY: Foundation walls and the edges of slab-on-grade floors with exterior applied insulation shall have a...
+ESTIMATED TOKENS SENT: 69
+RESPONSE: {"ifc_type": ["Slab", "Footing", "Wall"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Factory and Industrial (F)", "Residential (R)"], "design_phase": ["sd", "dd", "cd"], "code_category": "assemblies_envelope", "primary_responsibility": "architect"}
+--------------------
+
+==================================================
+SUMMARY STATISTICS
+Total Rows Processed by AI: 5
+Total Estimated Tokens Sent: 434
+==================================================
+
+CSV Saved Successfully at 2026-01-14T20:41:19.253235+00:00

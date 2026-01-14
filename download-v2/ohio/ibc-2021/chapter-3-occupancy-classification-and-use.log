@@ -1,0 +1,246 @@
+Log started: 2026-01-14T20:36:25.634827+00:00
+Source: download/ohio/ibc-2021/chapter-3-occupancy-classification-and-use.csv
+--------------------------------------------------
+
+[2026-01-14T20:36:25.638237+00:00] Row Index: 26
+TITLE: Group E, Day Care Facilities — More Than 2 1/2 Years Of Age
+BODY: Except for a Type A or Type B Family Daycare facilities, this group includes buildings and structure...
+ESTIMATED TOKENS SENT: 78
+RESPONSE: {"ifc_type": ["Wall", "Door", "Window"], "occupancy": ["Educational (E)"], "design_phase": ["concept", "sd", "dd", "cd"], "code_category": "occupancy_classification", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T20:36:27.035880+00:00] Row Index: 30
+TITLE: Group E, day care facilities - 2 1/2 years or less of age
+BODY: A day care facility that provides care for more than five but no more than 100 children 2 1/2 years ...
+ESTIMATED TOKENS SENT: 105
+RESPONSE: {"ifc_type": ["Door", "Slab", "Wall"], "occupancy": ["Educational (E)", "Institutional (I)"], "design_phase": ["sd", "dd", "cd"], "code_category": "means_of_egress", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T20:36:28.672259+00:00] Row Index: 31
+TITLE: Storm Shelters in Group E Occupancies
+BODY: When provided, storm shelters for Group E occupancies are to comply with ICC 500....
+ESTIMATED TOKENS SENT: 25
+RESPONSE: {"ifc_type": ["Wall", "Slab", "Roof", "Door", "Window"], "occupancy": ["Educational (E)"], "design_phase": ["sd", "dd", "cd"], "code_category": "special_construction", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T20:36:30.221225+00:00] Row Index: 39
+TITLE: Uses Other Than Group H
+BODY: An occupancy that stores, uses or handles hazardous materials as described in one or more of the fol...
+ESTIMATED TOKENS SENT: 576
+RESPONSE: {"ifc_type": ["BuildingElementProxy", "Slab", "Wall"], "occupancy": ["Business (B)", "Factory and Industrial (F)", "Mercantile (M)", "Storage (S)", "Residential (R)"], "design_phase": ["sd", "dd", "cd"], "code_category": "occupancy_classification", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T20:36:32.029763+00:00] Row Index: 51
+TITLE: Occupancy Conditions
+BODY: Buildings of Group I-1 are classified as one of the occupancy conditions specified in Section 308.2....
+ESTIMATED TOKENS SENT: 25
+RESPONSE: {"ifc_type": ["BuildingElementProxy"], "occupancy": ["Institutional (I)"], "design_phase": ["concept", "sd", "dd", "cd"], "code_category": "occupancy_classification", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T20:36:33.311049+00:00] Row Index: 52
+TITLE: Condition 1
+BODY: This occupancy condition includes buildings in which all persons receiving care who, without any ass...
+ESTIMATED TOKENS SENT: 37
+RESPONSE: {"ifc_type": ["Wall", "Door", "Stair", "Ramp", "Window"], "occupancy": ["Institutional (I)"], "design_phase": ["sd", "dd", "cd"], "code_category": "occupancy_classification", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T20:36:34.824180+00:00] Row Index: 53
+TITLE: Condition 2
+BODY: This occupancy condition includes buildings in which there are any persons receiving care who requir...
+ESTIMATED TOKENS SENT: 41
+RESPONSE: {"ifc_type": ["Door", "Stair", "Ramp", "Wall", "Window"], "occupancy": ["Institutional (I)"], "design_phase": ["sd", "dd", "cd"], "code_category": "occupancy_classification", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T20:36:36.930512+00:00] Row Index: 54
+TITLE: Six to 16 Persons Receiving Care
+BODY: A care facility housing not fewer than six and not more than 16 persons receiving care are classifie...
+ESTIMATED TOKENS SENT: 34
+RESPONSE: {"ifc_type": ["BuildingElementProxy"], "occupancy": ["Residential (R)"], "design_phase": ["concept", "sd", "dd", "cd"], "code_category": "occupancy_classification", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T20:36:38.208451+00:00] Row Index: 55
+TITLE: Five or Fewer Persons Receiving Care
+BODY: A care facility with five or fewer persons receiving care are classified as Group R as provided in S...
+ESTIMATED TOKENS SENT: 33
+RESPONSE: {"ifc_type": ["BuildingElementProxy", "Door", "Window"], "occupancy": ["Residential (R)"], "design_phase": ["concept", "sd", "dd", "cd"], "code_category": "occupancy_classification", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T20:36:39.730684+00:00] Row Index: 62
+TITLE: Occupancy Conditions
+BODY: Buildings of Group I-3 are classified as one of the occupancy conditions specified in Sections 308.4...
+ESTIMATED TOKENS SENT: 25
+RESPONSE: {"ifc_type": ["BuildingElementProxy"], "occupancy": ["Institutional (I)"], "design_phase": ["concept", "sd", "dd", "cd"], "code_category": "occupancy_classification", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T20:36:41.053950+00:00] Row Index: 63
+TITLE: Condition 1
+BODY: This occupancy condition includes buildings in which free movement is allowed from sleeping areas, a...
+ESTIMATED TOKENS SENT: 60
+RESPONSE: {"ifc_type": ["Door", "Stair", "Ramp", "Slab", "Wall"], "occupancy": ["Residential (R)"], "design_phase": ["sd", "dd", "cd"], "code_category": "occupancy_classification", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T20:36:42.671534+00:00] Row Index: 64
+TITLE: Condition 2
+BODY: This occupancy condition includes buildings in which free movement is allowed from sleeping areas an...
+ESTIMATED TOKENS SENT: 49
+RESPONSE: {"ifc_type": ["Door", "Wall", "BuildingElementProxy"], "occupancy": ["Institutional (I)"], "design_phase": ["sd", "dd", "cd"], "code_category": "means_of_egress", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T20:36:44.184899+00:00] Row Index: 65
+TITLE: Condition 3
+BODY: This occupancy condition includes buildings in which free movement is allowed within individual smok...
+ESTIMATED TOKENS SENT: 68
+RESPONSE: {"ifc_type": ["Wall", "Door", "Slab"], "occupancy": ["Residential (R)", "Institutional (I)"], "design_phase": ["sd", "dd", "cd"], "code_category": "means_of_egress", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T20:36:46.022611+00:00] Row Index: 66
+TITLE: Condition 4
+BODY: This occupancy condition includes buildings in which free movement is restricted from an occupied sp...
+ESTIMATED TOKENS SENT: 53
+RESPONSE: {"ifc_type": ["Door", "Wall"], "occupancy": ["Institutional (I)"], "design_phase": ["sd", "dd", "cd"], "code_category": "means_of_egress", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T20:36:48.749142+00:00] Row Index: 67
+TITLE: Condition 5
+BODY: This occupancy condition includes buildings in which free movement is restricted from an occupied sp...
+ESTIMATED TOKENS SENT: 54
+RESPONSE: {"ifc_type": ["Door", "Wall", "BuildingElementProxy"], "occupancy": ["Institutional (I)"], "design_phase": ["sd", "dd", "cd"], "code_category": "means_of_egress", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T20:36:50.796380+00:00] Row Index: 68
+TITLE: Five or Fewer Persons Secured or Restrained
+BODY: Buildings containing five or fewer persons who are being secured or restrained are included in the p...
+ESTIMATED TOKENS SENT: 33
+RESPONSE: {"ifc_type": ["Wall", "Door", "Window"], "occupancy": ["Institutional (I)"], "design_phase": ["sd", "dd", "cd"], "code_category": "occupancy_classification", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T20:36:52.211056+00:00] Row Index: 80
+TITLE: Detached One-, Two-, or Three- Family Dwellings
+BODY: The "Residential Code of Ohio for One-, Two-, or Three- Family Dwellings" applies to structures comp...
+ESTIMATED TOKENS SENT: 86
+RESPONSE: {"ifc_type": ["Wall", "Roof", "Slab", "Door", "Window"], "occupancy": ["Residential (R)"], "design_phase": ["concept", "sd", "dd", "cd"], "code_category": "occupancy_classification", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T20:36:55.004949+00:00] Row Index: 81
+TITLE: Five or Fewer Persons Receiving Care in a Single Family Dwelling
+BODY: A single family dwelling with five or fewer persons, excluding staff, who reside in a supervised env...
+ESTIMATED TOKENS SENT: 86
+RESPONSE: {"ifc_type": ["Wall", "Slab", "Door"], "occupancy": ["Residential (R)"], "design_phase": ["concept", "sd", "dd", "cd"], "code_category": "occupancy_classification", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T20:36:56.394659+00:00] Row Index: 82
+TITLE: Group R With Both Shared Exits and Independent Exits
+BODY: A building with both shared exits and independent exits is classified as Group R-2, unless the share...
+ESTIMATED TOKENS SENT: 54
+RESPONSE: {"ifc_type": ["Door", "Stair", "Wall"], "occupancy": ["Residential (R)"], "design_phase": ["sd", "dd", "cd"], "code_category": "occupancy_classification", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T20:36:58.300250+00:00] Row Index: 84
+TITLE: Units Not Used Primarily as Permanent Residences
+BODY: R-1 occupancies typically will include sleeping units but may also include dwelling units when those...
+ESTIMATED TOKENS SENT: 38
+RESPONSE: {"ifc_type": ["Wall", "Door", "Window"], "occupancy": ["Residential (R)"], "design_phase": ["concept", "sd", "dd", "cd"], "code_category": "occupancy_classification", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T20:37:00.049008+00:00] Row Index: 85
+TITLE: Transient Lodging Structures
+BODY: Except as provided in Sections 310.3.2.1 or 310.3.2.2, a Group R-1 structure composed exclusively of...
+ESTIMATED TOKENS SENT: 358
+RESPONSE: {"ifc_type": ["Stair", "Ramp", "Door", "Slab", "Wall"], "occupancy": ["Residential (R)"], "design_phase": ["sd", "dd", "cd"], "code_category": "occupancy_classification", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T20:37:01.687556+00:00] Row Index: 86
+TITLE: Semi-Primitive Transient Lodging Structures No Greater Than 400 sq. ft. in Area
+BODY: A Group R-1 structure that provides permanent provisions for sleeping only or sleeping with either s...
+ESTIMATED TOKENS SENT: 329
+RESPONSE: {"ifc_type": ["Wall", "Slab", "Roof", "Door", "Window"], "occupancy": ["Residential (R)"], "design_phase": ["sd", "dd", "cd"], "code_category": "occupancy_classification", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T20:37:03.505845+00:00] Row Index: 87
+TITLE: Primitive or Semi-Primitive Transient Lodging Structures Greater Than 400 sq. ft. in Area
+BODY: A Group R-1 structure, for not more than twenty transient occupants, that is greater than 400 sq. ft...
+ESTIMATED TOKENS SENT: 426
+RESPONSE: {"ifc_type": ["Wall", "Roof", "Slab", "Door", "Stair"], "occupancy": ["Residential (R)"], "design_phase": ["sd", "dd", "cd"], "code_category": "occupancy_classification", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T20:37:05.095438+00:00] Row Index: 88
+TITLE: Ten or Fewer Persons in a Boarding House or Congregate Living
+BODY: A boarding house or congregate living building intended for transient occupancy for ten or fewer per...
+ESTIMATED TOKENS SENT: 52
+RESPONSE: {"ifc_type": ["Wall", "Door", "Stair"], "occupancy": ["Residential (R)"], "design_phase": ["sd", "dd", "cd"], "code_category": "occupancy_classification", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T20:37:06.532567+00:00] Row Index: 90
+TITLE: Five or Fewer Persons Receiving Care
+BODY: A care facility with shared exit for five or fewer persons receiving care is classified as Group R-2...
+ESTIMATED TOKENS SENT: 30
+RESPONSE: {"ifc_type": ["Door", "Wall"], "occupancy": ["Residential (R)"], "design_phase": ["sd", "dd", "cd"], "code_category": "occupancy_classification", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T20:37:07.878588+00:00] Row Index: 91
+TITLE: Dwelling Units in Mixed Occupancy Buildings
+BODY: This group includes residential occupancies in buildings or structures of mixed use containing one o...
+ESTIMATED TOKENS SENT: 48
+RESPONSE: {"ifc_type": ["Wall", "Door", "Stair", "Slab", "Window"], "occupancy": ["Residential (R)", "Assembly (A)", "Business (B)"], "design_phase": ["sd", "dd", "cd"], "code_category": "occupancy_classification", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T20:37:09.382544+00:00] Row Index: 92
+TITLE: Dwelling Units With a Shared Exit
+BODY: This group includes buildings or structures containing two or three dwelling units where the occupan...
+ESTIMATED TOKENS SENT: 44
+RESPONSE: {"ifc_type": ["Door", "Stair", "Wall", "Slab", "Ramp"], "occupancy": ["Residential (R)"], "design_phase": ["sd", "dd", "cd"], "code_category": "means_of_egress", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T20:37:12.164306+00:00] Row Index: 93
+TITLE: Sixteen or Fewer Persons in a Boarding House or Congregate Living
+BODY: A boarding house or congregate living in a dwelling unit with an independent exit for sixteen or few...
+ESTIMATED TOKENS SENT: 45
+RESPONSE: {"ifc_type": ["Door", "Slab", "Wall"], "occupancy": ["Residential (R)"], "design_phase": ["sd", "dd", "cd"], "code_category": "occupancy_classification", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T20:37:14.049849+00:00] Row Index: 95
+TITLE: Five or Fewer Persons Receiving Care Not in a Dwelling
+BODY: A care facility with an independent exit for five or fewer persons receiving care is classified as G...
+ESTIMATED TOKENS SENT: 37
+RESPONSE: {"ifc_type": ["Door", "Wall", "Slab"], "occupancy": ["Residential (R)"], "design_phase": ["sd", "dd", "cd"], "code_category": "occupancy_classification", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T20:37:15.388716+00:00] Row Index: 96
+TITLE: Five or Fewer Persons Receiving Care Within a Dwelling
+BODY: A Group R-3 two- or three-family dwelling used exclusively as care facilities for an aggregate of fi...
+ESTIMATED TOKENS SENT: 186
+RESPONSE: {"ifc_type": ["Wall", "Slab", "Door", "Window"], "occupancy": ["Residential (R)", "Institutional (I)"], "design_phase": ["sd", "dd", "cd"], "code_category": "occupancy_classification", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T20:37:17.137375+00:00] Row Index: 97
+TITLE: Dwelling Units in Mixed Occupancy Buildings
+BODY: This group includes residential occupancies in buildings or structures of mixed use containing one o...
+ESTIMATED TOKENS SENT: 53
+RESPONSE: {"ifc_type": ["Wall", "Door", "Stair", "Slab", "Window"], "occupancy": ["Residential (R)", "Assembly (A)", "Business (B)"], "design_phase": ["sd", "dd", "cd"], "code_category": "occupancy_classification", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T20:37:19.430188+00:00] Row Index: 98
+TITLE: Lodging Houses
+BODY: A Group R-3 owner-occupied lodging house with five or fewer guest rooms and 10 or fewer total occupa...
+ESTIMATED TOKENS SENT: 50
+RESPONSE: {"ifc_type": ["Wall", "Slab", "Roof"], "occupancy": ["Residential (R)"], "design_phase": ["sd", "dd", "cd"], "code_category": "occupancy_classification", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T20:37:21.254354+00:00] Row Index: 99
+TITLE: Group R-3 Alternative Compliance Options
+BODY: The following are alternative compliance options for Group R-3 buildings with four or more dwellings...
+ESTIMATED TOKENS SENT: 34
+RESPONSE: {"ifc_type": ["Wall", "Door", "Window", "Slab"], "occupancy": ["Residential (R)"], "design_phase": ["sd", "dd", "cd"], "code_category": "occupancy_classification", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T20:37:24.306648+00:00] Row Index: 100
+TITLE: Multi-Family Alternative A
+BODY: A Group R-3 building may use Chapters 2 to 11 of the "Residential Code of Ohio for One-, Two-, and T...
+ESTIMATED TOKENS SENT: 325
+RESPONSE: {"ifc_type": ["Wall", "Slab", "Door"], "occupancy": ["Residential (R)"], "design_phase": ["sd", "dd", "cd"], "code_category": "occupancy_classification", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T20:37:26.447923+00:00] Row Index: 101
+TITLE: Multi-Family Alternative B
+BODY: A Group R-3 building may use the "Residential Code of Ohio for One-, Two-, and Three-Family Dwelling...
+ESTIMATED TOKENS SENT: 440
+RESPONSE: {"ifc_type": ["Wall", "Slab", "Door", "Window", "BuildingElementProxy"], "occupancy": ["Residential (R)"], "design_phase": ["sd", "dd", "cd"], "code_category": "occupancy_classification", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T20:37:29.231851+00:00] Row Index: 102
+TITLE: More Than Sixteen Occupants in a Boarding House or Congregate Living
+BODY: A boarding house or congregate living building for more than sixteen persons is classified as Group ...
+ESTIMATED TOKENS SENT: 36
+RESPONSE: {"ifc_type": ["BuildingElementProxy", "Door", "Window"], "occupancy": ["Residential (R)"], "design_phase": ["concept", "sd", "dd"], "code_category": "occupancy_classification", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T20:37:31.603593+00:00] Row Index: 104
+TITLE: Occupancy Conditions
+BODY: Buildings of Group R-4 are classified as one of the occupancy conditions specified in Section 310.5....
+ESTIMATED TOKENS SENT: 25
+RESPONSE: {"ifc_type": ["BuildingElementProxy", "Wall", "Door"], "occupancy": ["Residential (R)"], "design_phase": ["sd", "dd", "cd"], "code_category": "occupancy_classification", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T20:37:33.017352+00:00] Row Index: 105
+TITLE: Condition 1
+BODY: This occupancy condition includes buildings in which all persons receiving custodial care, without a...
+ESTIMATED TOKENS SENT: 37
+RESPONSE: {"ifc_type": ["Wall", "Door", "Stair", "Ramp", "Slab"], "occupancy": ["Institutional (I)"], "design_phase": ["sd", "dd", "cd"], "code_category": "occupancy_classification", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T20:37:34.628192+00:00] Row Index: 106
+TITLE: Condition 2
+BODY: This occupancy condition includes buildings in which there are any persons receiving custodial care ...
+ESTIMATED TOKENS SENT: 42
+RESPONSE: {"ifc_type": ["Door", "Stair", "Ramp", "Railing", "Wall"], "occupancy": ["Institutional (I)"], "design_phase": ["sd", "dd", "cd"], "code_category": "occupancy_classification", "primary_responsibility": "architect"}
+--------------------
+
+==================================================
+SUMMARY STATISTICS
+Total Rows Processed by AI: 39
+Total Estimated Tokens Sent: 4157
+==================================================
+
+CSV Saved Successfully at 2026-01-14T20:37:39.387913+00:00

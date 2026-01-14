@@ -1,0 +1,294 @@
+Log started: 2026-01-14T20:34:08.214553+00:00
+Source: download/north-carolina/irc-2021/chapter-4-foundations.csv
+--------------------------------------------------
+
+[2026-01-14T20:34:08.221094+00:00] Row Index: 24
+TITLE: Foundation Anchorage in Seismic Design Categories Category C, D0, D1 and D2
+BODY: In addition to the requirements of Section R403.1.6, the following requirements shall apply to wood ...
+ESTIMATED TOKENS SENT: 286
+RESPONSE: {"ifc_type": ["Wall", "Footing", "Slab"], "occupancy": ["Residential (R)"], "design_phase": ["sd", "dd", "cd"], "code_category": "structural_design", "primary_responsibility": "structural_engineer"}
+--------------------
+[2026-01-14T20:34:10.726138+00:00] Row Index: 25
+TITLE: Excavations Near Footings or Foundations
+BODY: Excavations shall not remove lateral support from any footing or foundation without first shoring, u...
+ESTIMATED TOKENS SENT: 141
+RESPONSE: {"ifc_type": ["Footing", "Slab", "Wall"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Residential (R)", "Storage (S)"], "design_phase": ["sd", "dd", "cd"], "code_category": "structural_design", "primary_responsibility": "structural_engineer"}
+--------------------
+[2026-01-14T20:34:13.664705+00:00] Row Index: 62
+TITLE: Piers
+BODY: The unsupported height of masonry piers shall not exceed 10 times their least dimension. When struct...
+ESTIMATED TOKENS SENT: 128
+RESPONSE: {"ifc_type": ["Column", "Footing"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Residential (R)", "Utility and Miscellaneous (U)"], "design_phase": ["sd", "dd", "cd"], "code_category": "structural_design", "primary_responsibility": "structural_engineer"}
+--------------------
+[2026-01-14T20:34:15.200537+00:00] Row Index: 107
+TITLE: Space Moisture Vapor Control
+BODY: Vented crawl space foundations shall be provided with foundation vent openings through the exterior ...
+ESTIMATED TOKENS SENT: 25
+RESPONSE: {"ifc_type": ["Wall", "Slab"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Residential (R)", "Storage (S)"], "design_phase": ["sd", "dd", "cd"], "code_category": "assemblies_envelope", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T20:34:17.507336+00:00] Row Index: 108
+TITLE: Foundation Vent Sizing
+BODY: The minimum net area of ventilation openings shall be not less than 1 square foot (0.0929 m2) for ea...
+ESTIMATED TOKENS SENT: 116
+RESPONSE: {"ifc_type": ["Slab", "Wall"], "occupancy": ["Residential (R)", "Utility and Miscellaneous (U)"], "design_phase": ["sd", "dd", "cd"], "code_category": "assemblies_envelope", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T20:34:19.064886+00:00] Row Index: 109
+TITLE: Foundation Vent Location
+BODY: One foundation vent shall be within 3 feet (914 mm) of each corner of the building. To prevent rainw...
+ESTIMATED TOKENS SENT: 89
+RESPONSE: {"ifc_type": ["Wall", "Slab", "BuildingElementProxy"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Factory and Industrial (F)", "Residential (R)"], "design_phase": ["sd", "dd", "cd"], "code_category": "assemblies_envelope", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T20:34:20.692969+00:00] Row Index: 110
+TITLE: Covering Material
+BODY: To prevent rodent entry, foundation vents shall be covered with any of the following materials provi...
+ESTIMATED TOKENS SENT: 118
+RESPONSE: {"ifc_type": ["Covering", "Wall", "Slab"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Factory and Industrial (F)", "Residential (R)"], "design_phase": ["sd", "dd", "cd"], "code_category": "assemblies_envelope", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T20:34:23.209912+00:00] Row Index: 111
+TITLE: Drains and Vent Terminations
+BODY: Drains (including pressure relief and drain pans) shall terminate outdoors, to crawl space floor dra...
+ESTIMATED TOKENS SENT: 68
+RESPONSE: {"ifc_type": ["Drain", "BuildingElementProxy", "Covering"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Residential (R)", "Institutional (I)"], "design_phase": ["sd", "dd", "cd"], "code_category": "plumbing_systems", "primary_responsibility": "mechanical_engineer"}
+--------------------
+[2026-01-14T20:34:26.048786+00:00] Row Index: 112
+TITLE: Space Separation
+BODY: Wall vented crawl spaces shall be separated from adjoining basements, porches and garages by permane...
+ESTIMATED TOKENS SENT: 60
+RESPONSE: {"ifc_type": ["Wall", "Door", "Slab"], "occupancy": ["Residential (R)"], "design_phase": ["sd", "dd", "cd"], "code_category": "fire_resistance_smoke_protection", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T20:34:28.599259+00:00] Row Index: 113
+TITLE: Ground Vapor Retarder
+BODY: When required by Section R408.1.1 Exception, a minimum 6-mil (0.15 mm) polyethylene vapor retarder o...
+ESTIMATED TOKENS SENT: 122
+RESPONSE: {"ifc_type": ["Slab", "Covering"], "occupancy": ["Residential (R)"], "design_phase": ["sd", "dd", "cd"], "code_category": "assemblies_envelope", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T20:34:33.812836+00:00] Row Index: 114
+TITLE: Wall Damp Proofing
+BODY: Where the outside grade is higher than the inside grade, the exterior walls shall be dampproofed fro...
+ESTIMATED TOKENS SENT: 44
+RESPONSE: {"ifc_type": ["Wall", "Footing"], "occupancy": ["Residential (R)"], "design_phase": ["sd", "dd", "cd"], "code_category": "assemblies_envelope", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T20:34:36.031536+00:00] Row Index: 115
+TITLE: Site Grading
+BODY: Building site shall be graded to drain water away from the crawl space foundation in accordance with...
+ESTIMATED TOKENS SENT: 30
+RESPONSE: {"ifc_type": ["EarthworksElement", "Footing"], "occupancy": ["Residential (R)"], "design_phase": ["sd", "dd", "cd"], "code_category": "site_planning", "primary_responsibility": "civil_engineer"}
+--------------------
+[2026-01-14T20:34:37.415620+00:00] Row Index: 116
+TITLE: Insulation
+BODY: The thermal insulation in a wall-vented crawl space shall be placed in the floor system. Wall insula...
+ESTIMATED TOKENS SENT: 54
+RESPONSE: {"ifc_type": ["Slab", "Wall", "Covering"], "occupancy": ["Residential (R)"], "design_phase": ["sd", "dd", "cd"], "code_category": "assemblies_envelope", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T20:34:39.179367+00:00] Row Index: 117
+TITLE: Floor Air Leakage Control
+BODY: All plumbing, electrical, duct, plenum, phone, cable, computer wiring and other penetrations through...
+ESTIMATED TOKENS SENT: 54
+RESPONSE: {"ifc_type": ["Slab", "Floor", "BuildingElementProxy"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Factory and Industrial (F)", "Residential (R)"], "design_phase": ["dd", "cd"], "code_category": "assemblies_envelope", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T20:34:40.614310+00:00] Row Index: 118
+TITLE: Duct Air Leakage Control
+BODY: All heating and cooling ductwork located in the crawl space shall be sealed with mastic or other ind...
+ESTIMATED TOKENS SENT: 32
+RESPONSE: {"ifc_type": ["BuildingElementProxy"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Factory and Industrial (F)", "Residential (R)"], "design_phase": ["dd", "cd"], "code_category": "mechanical_systems", "primary_responsibility": "mechanical_engineer"}
+--------------------
+[2026-01-14T20:34:44.031829+00:00] Row Index: 119
+TITLE: Access
+BODY: A minimum access opening measuring 18 inches by 24 inches (457 mm by 610 mm) shall be provided to th...
+ESTIMATED TOKENS SENT: 50
+RESPONSE: {"ifc_type": ["Slab", "Wall"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Residential (R)"], "design_phase": ["sd", "dd", "cd"], "code_category": "accessibility", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T20:34:45.452986+00:00] Row Index: 120
+TITLE: Removal of Debris
+BODY: The crawl space floor shall be cleaned of all vegetation and organic material. All wood forms used f...
+ESTIMATED TOKENS SENT: 66
+RESPONSE: {"ifc_type": ["Slab", "Footing", "BuildingElementProxy"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Factory and Industrial (F)", "Residential (R)"], "design_phase": ["cd", "ca"], "code_category": "site_planning", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T20:34:47.719558+00:00] Row Index: 121
+TITLE: Finished Grade
+BODY: The finished grade of the crawl space is permitted to be located at the bottom of the footings; howe...
+ESTIMATED TOKENS SENT: 114
+RESPONSE: {"ifc_type": ["Slab", "Footing", "EarthworksElement"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Factory and Industrial (F)", "High Hazard (H)"], "design_phase": ["sd", "dd", "cd"], "code_category": "site_planning", "primary_responsibility": "civil_engineer"}
+--------------------
+[2026-01-14T20:34:49.962106+00:00] Row Index: 122
+TITLE: Flood Resistance
+BODY: For buildings located in flood hazard areas as established in Table R301.2(1): Walls enclosing the u...
+ESTIMATED TOKENS SENT: 86
+RESPONSE: {"ifc_type": ["Wall", "Slab", "BuildingElementProxy"], "occupancy": ["Residential (R)", "Assembly (A)", "Business (B)"], "design_phase": ["sd", "dd", "cd"], "code_category": "site_planning", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T20:34:51.577382+00:00] Row Index: 124
+TITLE: Air Sealed Walls
+BODY: Closed crawl spaces shall be built to minimize the entry of outdoor air into the crawl space. Specif...
+ESTIMATED TOKENS SENT: 90
+RESPONSE: {"ifc_type": ["Wall", "Slab", "Covering"], "occupancy": ["Residential (R)", "Business (B)"], "design_phase": ["sd", "dd", "cd"], "code_category": "assemblies_envelope", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T20:34:53.528964+00:00] Row Index: 125
+TITLE: Caulking and Sealants
+BODY: Air sealing caulk, gaskets or sealants shall be applied to the foundation wall and floor assemblies ...
+ESTIMATED TOKENS SENT: 73
+RESPONSE: {"ifc_type": ["Wall", "Slab", "Covering"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Residential (R)", "Storage (S)"], "design_phase": ["dd", "cd"], "code_category": "assemblies_envelope", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T20:34:55.331024+00:00] Row Index: 126
+TITLE: Access Panel/Door
+BODY: A minimum access opening measuring 18 inches by 24 inches (457 mm by 610 mm) shall be provided to th...
+ESTIMATED TOKENS SENT: 86
+RESPONSE: {"ifc_type": ["Wall", "Door", "Covering"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Factory and Industrial (F)", "Residential (R)"], "design_phase": ["sd", "dd", "cd"], "code_category": "assemblies_envelope", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T20:34:57.322818+00:00] Row Index: 127
+TITLE: Groundwater Vapor Retarder
+BODY: Closed crawl spaces shall be protected from water entry by the evaporation of water from the ground ...
+ESTIMATED TOKENS SENT: 26
+RESPONSE: {"ifc_type": ["Slab", "Covering"], "occupancy": ["Residential (R)", "Business (B)", "Educational (E)"], "design_phase": ["sd", "dd", "cd"], "code_category": "assemblies_envelope", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T20:35:02.500995+00:00] Row Index: 128
+TITLE: Ground Vapor Retarder
+BODY: A minimum 6-mil (0.15 mm) polyethylene vapor retarder or equivalent shall be installed to nominally ...
+ESTIMATED TOKENS SENT: 132
+RESPONSE: {"ifc_type": ["Slab", "Covering"], "occupancy": ["Business (B)", "Residential (R)", "Educational (E)", "Assembly (A)", "Institutional (I)"], "design_phase": ["sd", "dd", "cd"], "code_category": "assemblies_envelope", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T20:35:07.036864+00:00] Row Index: 129
+TITLE: Liner
+BODY: The ground vapor retarder is permitted to be installed as a full interior liner by sealing the edges...
+ESTIMATED TOKENS SENT: 169
+RESPONSE: {"ifc_type": ["Slab", "Wall", "Column", "Covering"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Factory and Industrial (F)", "Residential (R)"], "design_phase": ["sd", "dd", "cd"], "code_category": "assemblies_envelope", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T20:35:09.346057+00:00] Row Index: 130
+TITLE: Wall Liner Termite Inspection Gap
+BODY: Provide a clear and unobstructed 3 inch (76 mm) minimum, 4 inch (102 mm) maximum inspection gap betw...
+ESTIMATED TOKENS SENT: 73
+RESPONSE: {"ifc_type": ["Wall", "Slab", "Covering"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Residential (R)", "Institutional (I)"], "design_phase": ["sd", "dd", "cd"], "code_category": "assemblies_envelope", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T20:35:13.636397+00:00] Row Index: 131
+TITLE: Drains and Vent Terminations
+BODY: Drains (including pressure relief and drain pans) shall terminate outdoors, to crawl space floor dra...
+ESTIMATED TOKENS SENT: 68
+RESPONSE: {"ifc_type": ["DrainageElement", "Covering", "Slab", "Wall", "Window"], "occupancy": ["Residential (R)", "Business (B)", "Institutional (I)", "Assembly (A)", "Educational (E)"], "design_phase": ["sd", "dd", "cd"], "code_category": "plumbing_systems", "primary_responsibility": "mechanical_engineer"}
+--------------------
+[2026-01-14T20:35:16.236240+00:00] Row Index: 132
+TITLE: Wall Damp Proofing
+BODY: Where the outside grade is higher than the inside grade, the exterior walls shall be dampproofed fro...
+ESTIMATED TOKENS SENT: 44
+RESPONSE: {"ifc_type": ["Wall", "Footing"], "occupancy": ["Residential (R)"], "design_phase": ["sd", "dd", "cd"], "code_category": "assemblies_envelope", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T20:35:17.585543+00:00] Row Index: 133
+TITLE: Site Grading
+BODY: Building site shall be graded to drain water away from the crawl space foundation in accordance with...
+ESTIMATED TOKENS SENT: 30
+RESPONSE: {"ifc_type": ["EarthworksElement", "Footing", "Slab"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Factory and Industrial (F)", "High Hazard (H)"], "design_phase": ["sd", "dd", "cd"], "code_category": "site_planning", "primary_responsibility": "civil_engineer"}
+--------------------
+[2026-01-14T20:35:20.600312+00:00] Row Index: 134
+TITLE: Space Moisture Vapor Control
+BODY: Closed crawl spaces shall be provided with a mechanical drying capability to control space moisture ...
+ESTIMATED TOKENS SENT: 57
+RESPONSE: {"ifc_type": ["Slab", "Wall", "BuildingElementProxy"], "occupancy": ["Residential (R)", "Institutional (I)"], "design_phase": ["sd", "dd", "cd"], "code_category": "interior_environment", "primary_responsibility": "mechanical_engineer"}
+--------------------
+[2026-01-14T20:35:22.162126+00:00] Row Index: 135
+TITLE: Dehumidifier
+BODY: A permanently installed dehumidifier shall be provided in the crawl space. The minimum rated capacit...
+ESTIMATED TOKENS SENT: 58
+RESPONSE: {"ifc_type": ["Slab", "BuildingElementProxy"], "occupancy": ["Residential (R)", "Institutional (I)", "Business (B)"], "design_phase": ["sd", "dd", "cd"], "code_category": "mechanical_systems", "primary_responsibility": "mechanical_engineer"}
+--------------------
+[2026-01-14T20:35:24.106040+00:00] Row Index: 136
+TITLE: Supply Air
+BODY: Supply air from the dwelling air conditioning system shall be ducted into the crawl space at the rat...
+ESTIMATED TOKENS SENT: 150
+RESPONSE: {"ifc_type": ["Slab", "Covering", "BuildingElementProxy"], "occupancy": ["Residential (R)"], "design_phase": ["sd", "dd", "cd"], "code_category": "mechanical_systems", "primary_responsibility": "mechanical_engineer"}
+--------------------
+[2026-01-14T20:35:26.691417+00:00] Row Index: 137
+TITLE: House Air
+BODY: House air shall be blown into the crawl space with a fan at the rate of 1 cubic foot per minute (0.5...
+ESTIMATED TOKENS SENT: 114
+RESPONSE: {"ifc_type": ["Slab", "Wall", "BuildingElementProxy"], "occupancy": ["Residential (R)", "Business (B)", "Institutional (I)"], "design_phase": ["sd", "dd", "cd"], "code_category": "mechanical_systems", "primary_responsibility": "mechanical_engineer"}
+--------------------
+[2026-01-14T20:35:28.887303+00:00] Row Index: 138
+TITLE: Exhaust Fan
+BODY: Crawl space air shall be exhausted to outside with a fan at the rate of 1 cubic foot per minute (0.5...
+ESTIMATED TOKENS SENT: 66
+RESPONSE: {"ifc_type": ["BuildingElementProxy", "Slab"], "occupancy": ["Residential (R)", "Business (B)", "Institutional (I)"], "design_phase": ["sd", "dd", "cd"], "code_category": "mechanical_systems", "primary_responsibility": "mechanical_engineer"}
+--------------------
+[2026-01-14T20:35:31.391930+00:00] Row Index: 139
+TITLE: Conditioned Space
+BODY: The crawl space shall be designed as a heated and cooled, conditioned space with wall insulation ins...
+ESTIMATED TOKENS SENT: 82
+RESPONSE: {"ifc_type": ["Wall", "Slab", "Covering"], "occupancy": ["Residential (R)"], "design_phase": ["sd", "dd", "cd"], "code_category": "interior_environment", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T20:35:33.590192+00:00] Row Index: 140
+TITLE: Plenums
+BODY: Closed crawl spaces used as supply or return plenums for distribution of heated or cooled air shall ...
+ESTIMATED TOKENS SENT: 80
+RESPONSE: {"ifc_type": ["Slab", "Wall", "Covering"], "occupancy": ["Business (B)", "Residential (R)", "Assembly (A)"], "design_phase": ["sd", "dd", "cd"], "code_category": "mechanical_systems", "primary_responsibility": "mechanical_engineer"}
+--------------------
+[2026-01-14T20:35:35.821207+00:00] Row Index: 141
+TITLE: Combustion Air
+BODY: The air sealing requirements of a closed crawl space may result in a foundation that cannot provide ...
+ESTIMATED TOKENS SENT: 70
+RESPONSE: {"ifc_type": ["Slab", "Wall", "BuildingElementProxy"], "occupancy": ["Residential (R)", "Business (B)", "Institutional (I)"], "design_phase": ["sd", "dd", "cd"], "code_category": "mechanical_systems", "primary_responsibility": "mechanical_engineer"}
+--------------------
+[2026-01-14T20:35:38.121218+00:00] Row Index: 142
+TITLE: Insulation
+BODY: The thermal insulation in a crawl space may be located in the floor system or at the exterior walls....
+ESTIMATED TOKENS SENT: 69
+RESPONSE: {"ifc_type": ["Slab", "Wall"], "occupancy": ["Residential (R)"], "design_phase": ["sd", "dd", "cd"], "code_category": "assemblies_envelope", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T20:35:40.789006+00:00] Row Index: 143
+TITLE: Wall Insulation
+BODY: Where the floor above a crawl space is not insulated, the walls shall be insulated. Wall insulation ...
+ESTIMATED TOKENS SENT: 177
+RESPONSE: {"ifc_type": ["Wall", "Slab", "Covering"], "occupancy": ["Residential (R)", "Assembly (A)", "Business (B)"], "design_phase": ["sd", "dd", "cd"], "code_category": "assemblies_envelope", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T20:35:43.802739+00:00] Row Index: 144
+TITLE: Inspection Gap Requirements for Insulation
+BODY: For outside walls, Section R318.4 governs applications. When expanded polystyrene, polyisocyanurate,...
+ESTIMATED TOKENS SENT: 92
+RESPONSE: {"ifc_type": ["Wall", "Slab"], "occupancy": ["Residential (R)"], "design_phase": ["sd", "dd", "cd"], "code_category": "assemblies_envelope", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T20:35:45.259674+00:00] Row Index: 145
+TITLE: Porous Insulation Material
+BODY: To reduce wicking potential, porous insulation ground contact is not allowed in earth floored or con...
+ESTIMATED TOKENS SENT: 77
+RESPONSE: {"ifc_type": ["Wall", "Slab"], "occupancy": ["Residential (R)", "Business (B)", "Educational (E)"], "design_phase": ["sd", "dd", "cd"], "code_category": "finishes_materials", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T20:35:46.811000+00:00] Row Index: 146
+TITLE: Foam Plastic Fire Safety
+BODY: Foam plastic insulation may be installed inside crawl spaces without a thermal cover when the insula...
+ESTIMATED TOKENS SENT: 174
+RESPONSE: {"ifc_type": ["Slab", "Covering", "BuildingElementProxy"], "occupancy": ["Assembly (A)", "Business (B)", "Residential (R)", "Educational (E)", "Institutional (I)"], "design_phase": ["sd", "dd", "cd"], "code_category": "fire_resistance_smoke_protection", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T20:35:48.621698+00:00] Row Index: 147
+TITLE: Floor Air Leakage Control
+BODY: All plumbing, electrical, duct, plenum, phone, cable, computer wiring and other penetrations through...
+ESTIMATED TOKENS SENT: 53
+RESPONSE: {"ifc_type": ["Slab", "Plate", "BuildingElementProxy"], "occupancy": ["Business (B)", "Residential (R)", "Educational (E)", "Assembly (A)", "Institutional (I)"], "design_phase": ["sd", "dd", "cd"], "code_category": "assemblies_envelope", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T20:35:50.323722+00:00] Row Index: 148
+TITLE: Duct Air Leakage Control
+BODY: All heating and cooling ductwork located in the crawl space shall be sealed with mastic or other ind...
+ESTIMATED TOKENS SENT: 33
+RESPONSE: {"ifc_type": ["BuildingElementProxy"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Factory and Industrial (F)", "Residential (R)"], "design_phase": ["sd", "dd", "cd"], "code_category": "mechanical_systems", "primary_responsibility": "mechanical_engineer"}
+--------------------
+[2026-01-14T20:35:51.654580+00:00] Row Index: 149
+TITLE: Access
+BODY: A minimum access opening measuring 18 inches by 24 inches (457 mm by 610 mm) shall be provided to th...
+ESTIMATED TOKENS SENT: 50
+RESPONSE: {"ifc_type": ["Slab", "BuildingElementProxy"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Factory and Industrial (F)", "Residential (R)"], "design_phase": ["sd", "dd", "cd"], "code_category": "accessibility", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T20:35:54.565559+00:00] Row Index: 150
+TITLE: Removal of Debris
+BODY: The crawl space floor shall be cleaned of all vegetation and organic material. All wood forms used f...
+ESTIMATED TOKENS SENT: 66
+RESPONSE: {"ifc_type": ["Slab", "Footing", "BuildingElementProxy"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Factory and Industrial (F)", "Residential (R)"], "design_phase": ["cd", "ca"], "code_category": "site_planning", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T20:35:56.629341+00:00] Row Index: 151
+TITLE: Finished Grade
+BODY: The finished grade of the crawlspace is permitted to be located at the bottom of the footings; howev...
+ESTIMATED TOKENS SENT: 113
+RESPONSE: {"ifc_type": ["Footing", "Slab", "EarthworksElement"], "occupancy": ["Residential (R)", "Business (B)", "Educational (E)"], "design_phase": ["sd", "dd", "cd"], "code_category": "site_planning", "primary_responsibility": "architect"}
+--------------------
+
+==================================================
+SUMMARY STATISTICS
+Total Rows Processed by AI: 47
+Total Estimated Tokens Sent: 4055
+==================================================
+
+CSV Saved Successfully at 2026-01-14T20:35:58.332068+00:00

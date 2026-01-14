@@ -1,0 +1,36 @@
+Log started: 2026-01-14T20:33:08.276797+00:00
+Source: download/connecticut/irc-2021/chapter-4-foundations.csv
+--------------------------------------------------
+
+[2026-01-14T20:33:08.280815+00:00] Row Index: 95
+TITLE: Guards
+BODY: Retaining walls with a difference in height between the finished grade at the top of the wall and th...
+ESTIMATED TOKENS SENT: 122
+RESPONSE: {"ifc_type": ["Wall", "Railing"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Residential (R)", "Mercantile (M)"], "design_phase": ["sd", "dd", "cd"], "code_category": "means_of_egress", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T20:33:10.447824+00:00] Row Index: 99
+TITLE: Deep Foundations
+BODY: Deep foundations shall comply with the requirements set forth in Section 1810 of the 2021 Internatio...
+ESTIMATED TOKENS SENT: 36
+RESPONSE: {"ifc_type": ["DeepFoundation", "Footing"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Residential (R)", "Institutional (I)"], "design_phase": ["sd", "dd", "cd"], "code_category": "structural_design", "primary_responsibility": "structural_engineer"}
+--------------------
+[2026-01-14T20:33:12.310025+00:00] Row Index: 100
+TITLE: Special Inspections of Deep Foundations
+BODY: Special inspections of deep foundations shall be performed in accordance with Sections 1705.7 throug...
+ESTIMATED TOKENS SENT: 46
+RESPONSE: {"ifc_type": ["DeepFoundation", "Footing"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Factory and Industrial (F)", "Residential (R)"], "design_phase": ["cd", "ca"], "code_category": "structural_design", "primary_responsibility": "structural_engineer"}
+--------------------
+[2026-01-14T20:33:13.674447+00:00] Row Index: 108
+TITLE: Above-Grade Drainage
+BODY: Above-grade drainage systems, including but not limited to, gutters and downspouts, roof drains, and...
+ESTIMATED TOKENS SENT: 34
+RESPONSE: {"ifc_type": ["Roof", "Slab", "BuildingElementProxy"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Factory and Industrial (F)", "Residential (R)"], "design_phase": ["sd", "dd", "cd"], "code_category": "plumbing_systems", "primary_responsibility": "architect"}
+--------------------
+
+==================================================
+SUMMARY STATISTICS
+Total Rows Processed by AI: 4
+Total Estimated Tokens Sent: 238
+==================================================
+
+CSV Saved Successfully at 2026-01-14T20:33:15.895648+00:00

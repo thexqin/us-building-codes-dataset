@@ -1,0 +1,120 @@
+Log started: 2026-01-14T20:40:13.526677+00:00
+Source: download/ohio/iebc-2021/chapter-5-prescriptive-compliance-method.csv
+--------------------------------------------------
+
+[2026-01-14T20:40:13.531902+00:00] Row Index: 4
+TITLE: General Provisions
+BODY: When using the prescriptive compliance method, existing buildings in which there is work involving a...
+ESTIMATED TOKENS SENT: 57
+RESPONSE: {"ifc_type": ["Wall", "Door", "Window"], "occupancy": ["Assembly (A)", "Business (B)", "Residential (R)"], "design_phase": ["sd", "dd", "cd"], "code_category": "occupancy_classification", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T20:40:15.094261+00:00] Row Index: 9
+TITLE: Additions to Buildings of Groups R and I Occupancies
+BODY: The combined height and area of the existing building and the addition are not to exceed the height ...
+ESTIMATED TOKENS SENT: 90
+RESPONSE: {"ifc_type": ["Wall", "Slab", "Roof"], "occupancy": ["Residential (R)", "Institutional (I)"], "design_phase": ["sd", "dd", "cd"], "code_category": "building_height_area_limits", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T20:40:16.353999+00:00] Row Index: 10
+TITLE: Additions to Buildings of Groups Other Than R and I Occupancies
+BODY: In other than Group R and Group I occupancies, additions are to comply with Section 502.1.2.1 or Sec...
+ESTIMATED TOKENS SENT: 42
+RESPONSE: {"ifc_type": ["Wall", "Slab", "Roof"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Factory and Industrial (F)", "Mercantile (M)"], "design_phase": ["sd", "dd", "cd"], "code_category": "building_height_area_limits", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T20:40:18.426435+00:00] Row Index: 11
+TITLE: Exceeding Allowable Height or Area
+BODY: When the combined height or area of the existing building and the addition exceeds the height or are...
+ESTIMATED TOKENS SENT: 424
+RESPONSE: {"ifc_type": ["Wall", "Slab", "Roof"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Residential (R)", "Storage (S)"], "design_phase": ["sd", "dd", "cd"], "code_category": "building_height_area_limits", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T20:40:19.922855+00:00] Row Index: 12
+TITLE: Not Exceeding Allowable Height and Area
+BODY: When the combined height and area of the existing building and the addition does not exceed the heig...
+ESTIMATED TOKENS SENT: 300
+RESPONSE: {"ifc_type": ["Wall", "Slab", "BuildingElementProxy"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Factory and Industrial (F)", "Residential (R)"], "design_phase": ["sd", "dd", "cd"], "code_category": "fire_protection_alarm_systems", "primary_responsibility": "fire_protection_engineer"}
+--------------------
+[2026-01-14T20:40:21.615438+00:00] Row Index: 13
+TITLE: Disproportionate Earthquake Damage
+BODY: A building assigned to Seismic Design Category D, E or F that has sustained disproportionate earthqu...
+ESTIMATED TOKENS SENT: 52
+RESPONSE: {"ifc_type": ["Column", "Wall", "Beam", "Footing", "Slab"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Residential (R)", "Institutional (I)"], "design_phase": ["cd", "ca"], "code_category": "structural_design", "primary_responsibility": "structural_engineer"}
+--------------------
+[2026-01-14T20:40:23.223614+00:00] Row Index: 14
+TITLE: Flood Hazard Areas
+BODY: For buildings and structures in flood hazard areas established in Section 1612.3 of the Internationa...
+ESTIMATED TOKENS SENT: 161
+RESPONSE: {"ifc_type": ["Slab", "Wall", "Footing"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Residential (R)", "Storage (S)"], "design_phase": ["sd", "dd", "cd"], "code_category": "site_planning", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T20:40:24.822892+00:00] Row Index: 15
+TITLE: Existing Structural Elements Carrying Gravity Load
+BODY: Any existing gravity load-carrying structural element for which an addition and its related alterati...
+ESTIMATED TOKENS SENT: 237
+RESPONSE: {"ifc_type": ["Beam", "Column", "Slab", "Footing"], "occupancy": ["Residential (R)", "Assembly (A)", "Business (B)", "Educational (E)"], "design_phase": ["sd", "dd", "cd"], "code_category": "structural_design", "primary_responsibility": "structural_engineer"}
+--------------------
+[2026-01-14T20:40:26.325231+00:00] Row Index: 16
+TITLE: Existing Structural Elements Carrying Lateral Load
+BODY: Where the addition is structurally independent of the existing structure, existing lateral load-carr...
+ESTIMATED TOKENS SENT: 282
+RESPONSE: {"ifc_type": ["Beam", "Column", "Slab", "Wall", "Footing"], "occupancy": ["Residential (R)", "Business (B)", "Assembly (A)"], "design_phase": ["sd", "dd", "cd"], "code_category": "structural_design", "primary_responsibility": "structural_engineer"}
+--------------------
+[2026-01-14T20:40:27.693407+00:00] Row Index: 18
+TITLE: Storm Shelters for Additions to 911 Call Stations, Emergency Operation Centers, and Fire, Emergency Medical Service and Police Stations
+BODY: In areas where the wind speed for tornados is 250 MPH as determined by Figure 304.2(1) of ICC 500, s...
+ESTIMATED TOKENS SENT: 102
+RESPONSE: {"ifc_type": ["BuildingElementProxy", "Wall", "Door", "Slab"], "occupancy": ["Business (B)", "Institutional (I)"], "design_phase": ["sd", "dd", "cd"], "code_category": "special_construction", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T20:40:29.846997+00:00] Row Index: 19
+TITLE: Required Occupant Capacity
+BODY: The minimum required occupant capacity of storm shelters serving a 911 call station, emergency opera...
+ESTIMATED TOKENS SENT: 66
+RESPONSE: {"ifc_type": ["BuildingElementProxy", "Room", "Door", "Wall"], "occupancy": ["Business (B)", "Institutional (I)"], "design_phase": ["sd", "dd", "cd"], "code_category": "occupancy_classification", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T20:40:32.430705+00:00] Row Index: 36
+TITLE: Enhanced Classroom Acoustics
+BODY: In Group E occupancies, where the work area exceeds 50 percent of the building area, enhanced classr...
+ESTIMATED TOKENS SENT: 69
+RESPONSE: {"ifc_type": ["Wall", "Slab", "Ceiling", "Door"], "occupancy": ["Educational (E)"], "design_phase": ["sd", "dd", "cd"], "code_category": "interior_environment", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T20:40:34.055399+00:00] Row Index: 37
+TITLE: Locking Arrangements in Educational Occupancies
+BODY: In Group E occupancies, Group B educational occupancies and Group I-4 occupancies, egress doors with...
+ESTIMATED TOKENS SENT: 56
+RESPONSE: {"ifc_type": ["Door"], "occupancy": ["Educational (E)", "Business (B)", "Institutional (I)"], "design_phase": ["sd", "dd", "cd"], "code_category": "means_of_egress", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T20:40:35.724944+00:00] Row Index: 38
+TITLE: Two-Way Communications Systems
+BODY: Where the work area for alterations exceeds 50 percent of the building area and the building has ele...
+ESTIMATED TOKENS SENT: 50
+RESPONSE: {"ifc_type": ["Elevator", "Wall"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Institutional (I)", "Residential (R)"], "design_phase": ["sd", "dd", "cd"], "code_category": "accessibility", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T20:40:37.238287+00:00] Row Index: 39
+TITLE: Storm Shelters for Alterations to 911 Call Stations, Emergency Operation Centers, and Fire, Emergency Medical Service and Police Stations
+BODY: In areas where the wind speed for tornados is 250 MPH as determined by Figure 304.2(1) of ICC 500 an...
+ESTIMATED TOKENS SENT: 114
+RESPONSE: {"ifc_type": ["Wall", "Roof", "Slab"], "occupancy": ["Business (B)", "Institutional (I)"], "design_phase": ["sd", "dd", "cd"], "code_category": "special_construction", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T20:40:38.867232+00:00] Row Index: 52
+TITLE: Window Opening Control Devices on Replacement Windows
+BODY: In Group R-2 or R-3 buildings containing dwelling units, and one- and two-family dwellings and townh...
+ESTIMATED TOKENS SENT: 372
+RESPONSE: {"ifc_type": ["Window"], "occupancy": ["Residential (R)"], "design_phase": ["sd", "dd", "cd"], "code_category": "assemblies_envelope", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T20:40:39.873235+00:00] Row Index: 68
+TITLE: Storm Shelters for Change of Occupancy to 911 Call Stations, Emergency Operation Centers, and Fire, Emergency Medical Service and Police Stations
+BODY: In areas where the wind speed for tornados is 250 MPH as determined by Figure 304.2(1) of ICC 500, w...
+ESTIMATED TOKENS SENT: 137
+RESPONSE: {"ifc_type": ["BuildingElementProxy", "Wall", "Roof", "Door"], "occupancy": ["Business (B)", "Institutional (I)"], "design_phase": ["sd", "dd", "cd"], "code_category": "special_construction", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T20:40:41.258915+00:00] Row Index: 69
+TITLE: Required Occupant Capacity
+BODY: The minimum occupant capacity of required storm shelters is to be determined in compliance with Sect...
+ESTIMATED TOKENS SENT: 68
+RESPONSE: {"ifc_type": ["BuildingElementProxy", "Wall", "Door", "Slab"], "occupancy": ["Institutional (I)", "Business (B)", "Utility and Miscellaneous (U)"], "design_phase": ["sd", "dd", "cd"], "code_category": "occupancy_classification", "primary_responsibility": "architect"}
+--------------------
+
+==================================================
+SUMMARY STATISTICS
+Total Rows Processed by AI: 18
+Total Estimated Tokens Sent: 2679
+==================================================
+
+CSV Saved Successfully at 2026-01-14T20:40:45.229545+00:00
