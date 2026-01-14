@@ -1,0 +1,84 @@
+Log started: 2026-01-14T15:42:35.512098+00:00
+Source: download/arkansas/irc-2021/chapter-5-floors.csv
+--------------------------------------------------
+
+[2026-01-14T15:42:35.516914+00:00] Row Index: 10
+TITLE: Structural Glued Laminated Timbers
+BODY: Glued laminated timbers shall be manufactured and identified as required in ANSI A190.1, ANSI 117 an...
+ESTIMATED TOKENS SENT: 28
+RESPONSE: {"ifc_type": ["Beam", "Column", "Member"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Residential (R)", "Mercantile (M)"], "design_phase": ["sd", "dd", "cd"], "code_category": "structural_design", "primary_responsibility": "structural_engineer"}
+--------------------
+[2026-01-14T15:42:37.430612+00:00] Row Index: 34
+TITLE: Design
+BODY: Wood trusses shall be designed in accordance with approved engineering practice. The design and manu...
+ESTIMATED TOKENS SENT: 76
+RESPONSE: {"ifc_type": ["Beam", "Member"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Residential (R)", "Mercantile (M)"], "design_phase": ["sd", "dd", "cd"], "code_category": "structural_design", "primary_responsibility": "structural_engineer"}
+--------------------
+[2026-01-14T15:42:39.253937+00:00] Row Index: 35
+TITLE: Bracing
+BODY: Trusses shall be braced to prevent rotation and provide lateral stability in accordance with the req...
+ESTIMATED TOKENS SENT: 96
+RESPONSE: {"ifc_type": ["Beam", "Member", "BuildingElementProxy"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Factory and Industrial (F)", "Residential (R)"], "design_phase": ["sd", "dd", "cd"], "code_category": "structural_design", "primary_responsibility": "structural_engineer"}
+--------------------
+[2026-01-14T15:42:42.048914+00:00] Row Index: 36
+TITLE: Alterations to Trusses
+BODY: Truss members and components shall not be cut, notched, spliced or otherwise altered in any way with...
+ESTIMATED TOKENS SENT: 76
+RESPONSE: {"ifc_type": ["Beam", "Member", "BuildingElementProxy"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Factory and Industrial (F)", "Residential (R)"], "design_phase": ["dd", "cd"], "code_category": "structural_design", "primary_responsibility": "structural_engineer"}
+--------------------
+[2026-01-14T15:42:43.999536+00:00] Row Index: 37
+TITLE: Truss Design Drawings
+BODY: Truss design drawings, prepared in compliance with Section R502.11.1, shall be submitted to the buil...
+ESTIMATED TOKENS SENT: 285
+RESPONSE: {"ifc_type": ["Beam", "Member"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Factory and Industrial (F)", "Residential (R)"], "design_phase": ["sd", "dd", "cd"], "code_category": "structural_design", "primary_responsibility": "structural_engineer"}
+--------------------
+[2026-01-14T15:42:45.899904+00:00] Row Index: 38
+TITLE: Draftstopping Required
+BODY: Draftstopping shall be provided in accordance with Section R302.12....
+ESTIMATED TOKENS SENT: 13
+RESPONSE: {"ifc_type": ["Wall", "Slab", "Covering"], "occupancy": ["Residential (R)"], "design_phase": ["sd", "dd", "cd"], "code_category": "fire_resistance_smoke_protection", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T15:42:47.464349+00:00] Row Index: 39
+TITLE: Fireblocking Required
+BODY: Fireblocking shall be provided in accordance with Section R302.11....
+ESTIMATED TOKENS SENT: 13
+RESPONSE: {"ifc_type": ["Wall", "Slab", "Floor", "Roof"], "occupancy": ["Residential (R)"], "design_phase": ["sd", "dd", "cd"], "code_category": "fire_resistance_smoke_protection", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T15:42:49.323212+00:00] Row Index: 87
+TITLE: Site Preparation
+BODY: The area within the foundation walls shall have all vegetation, top soil and foreign material remove...
+ESTIMATED TOKENS SENT: 22
+RESPONSE: {"ifc_type": ["Footing", "Slab", "EarthworksElement"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Factory and Industrial (F)", "Residential (R)"], "design_phase": ["sd", "dd", "cd"], "code_category": "site_planning", "primary_responsibility": "civil_engineer"}
+--------------------
+[2026-01-14T15:42:51.050217+00:00] Row Index: 88
+TITLE: Fill
+BODY: Fill material shall be free of vegetation and foreign material. The fill shall be compacted to ensur...
+ESTIMATED TOKENS SENT: 64
+RESPONSE: {"ifc_type": ["Slab", "EarthworksElement", "Footing"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Factory and Industrial (F)", "Residential (R)"], "design_phase": ["sd", "dd", "cd"], "code_category": "site_planning", "primary_responsibility": "civil_engineer"}
+--------------------
+[2026-01-14T15:42:54.242247+00:00] Row Index: 89
+TITLE: Base
+BODY: A 4-inch-thick (102 mm) base course consisting of clean graded sand, gravel, crushed stone, crushed ...
+ESTIMATED TOKENS SENT: 97
+RESPONSE: {"ifc_type": ["Slab"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Factory and Industrial (F)", "Residential (R)"], "design_phase": ["sd", "dd", "cd"], "code_category": "assemblies_envelope", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T15:42:55.882928+00:00] Row Index: 90
+TITLE: Vapor Retarder
+BODY: A minimum 10-mil (0.010 inch; 0.254 mm) vapor retarder conforming to ASTM E1745 Class A requirements...
+ESTIMATED TOKENS SENT: 150
+RESPONSE: {"ifc_type": ["Slab"], "occupancy": ["Business (B)", "Educational (E)", "Factory and Industrial (F)", "Institutional (I)", "Residential (R)"], "design_phase": ["sd", "dd", "cd"], "code_category": "assemblies_envelope", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T15:42:57.290549+00:00] Row Index: 91
+TITLE: Reinforcement Support
+BODY: Where provided in slabs-on-ground, reinforcement shall be supported to remain in place from the cent...
+ESTIMATED TOKENS SENT: 38
+RESPONSE: {"ifc_type": ["Slab"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Factory and Industrial (F)", "Residential (R)"], "design_phase": ["sd", "dd", "cd"], "code_category": "structural_design", "primary_responsibility": "structural_engineer"}
+--------------------
+
+==================================================
+SUMMARY STATISTICS
+Total Rows Processed by AI: 12
+Total Estimated Tokens Sent: 958
+==================================================
+
+CSV Saved Successfully at 2026-01-14T15:43:01.175666+00:00

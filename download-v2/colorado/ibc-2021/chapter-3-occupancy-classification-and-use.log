@@ -1,0 +1,18 @@
+Log started: 2026-01-14T15:43:01.560967+00:00
+Source: download/colorado/ibc-2021/chapter-3-occupancy-classification-and-use.csv
+--------------------------------------------------
+
+[2026-01-14T15:43:01.566228+00:00] Row Index: 38
+TITLE: Uses Other Than Group H
+BODY: An occupancy that stores, uses or handles hazardous materials as described in one or more of the fol...
+ESTIMATED TOKENS SENT: 546
+RESPONSE: {"ifc_type": ["BuildingElementProxy"], "occupancy": ["High Hazard (H)", "Business (B)", "Factory and Industrial (F)", "Mercantile (M)", "Storage (S)"], "design_phase": ["sd", "dd", "cd"], "code_category": "occupancy_classification", "primary_responsibility": "architect"}
+--------------------
+
+==================================================
+SUMMARY STATISTICS
+Total Rows Processed by AI: 1
+Total Estimated Tokens Sent: 546
+==================================================
+
+CSV Saved Successfully at 2026-01-14T15:43:03.732806+00:00

@@ -1,0 +1,222 @@
+Log started: 2026-01-14T15:39:21.455271+00:00
+Source: download/alabama/irc-2015/chapter-5-floors.csv
+--------------------------------------------------
+
+[2026-01-14T15:39:21.462040+00:00] Row Index: 10
+TITLE: Structural Glued Laminated Timbers
+BODY: Glued laminated timbers shall be manufactured and identified as required in ANSI/AITC A190.1 and AST...
+ESTIMATED TOKENS SENT: 25
+RESPONSE: {"ifc_type": ["Beam", "Column", "Member", "BuildingElementProxy"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Residential (R)", "Mercantile (M)"], "design_phase": ["sd", "dd", "cd"], "code_category": "construction_type_ratings", "primary_responsibility": "structural_engineer"}
+--------------------
+[2026-01-14T15:39:23.642642+00:00] Row Index: 34
+TITLE: Design
+BODY: Wood trusses shall be designed in accordance with approved engineering practice. The design and manu...
+ESTIMATED TOKENS SENT: 74
+RESPONSE: {"ifc_type": ["Beam", "Member", "BuildingElementProxy"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Residential (R)", "Storage (S)"], "design_phase": ["sd", "dd", "cd"], "code_category": "structural_design", "primary_responsibility": "structural_engineer"}
+--------------------
+[2026-01-14T15:39:26.065531+00:00] Row Index: 35
+TITLE: Bracing
+BODY: Trusses shall be braced to prevent rotation and provide lateral stability in accordance with the req...
+ESTIMATED TOKENS SENT: 96
+RESPONSE: {"ifc_type": ["Beam", "Member"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Factory and Industrial (F)", "Residential (R)"], "design_phase": ["sd", "dd", "cd"], "code_category": "structural_design", "primary_responsibility": "structural_engineer"}
+--------------------
+[2026-01-14T15:39:28.070950+00:00] Row Index: 36
+TITLE: Alterations to Trusses
+BODY: Truss members and components shall not be cut, notched, spliced or otherwise altered in any way with...
+ESTIMATED TOKENS SENT: 76
+RESPONSE: {"ifc_type": ["Beam", "Member"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Factory and Industrial (F)", "Residential (R)"], "design_phase": ["dd", "cd"], "code_category": "structural_design", "primary_responsibility": "structural_engineer"}
+--------------------
+[2026-01-14T15:39:30.233302+00:00] Row Index: 37
+TITLE: Truss Design Drawings
+BODY: Truss design drawings, prepared in compliance with Section R502.11.1, shall be submitted to the buil...
+ESTIMATED TOKENS SENT: 284
+RESPONSE: {"ifc_type": ["Beam", "Bearing", "BuildingElementProxy"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Factory and Industrial (F)", "Residential (R)"], "design_phase": ["cd", "ca"], "code_category": "structural_design", "primary_responsibility": "structural_engineer"}
+--------------------
+[2026-01-14T15:39:32.250711+00:00] Row Index: 38
+TITLE: Draftstopping Required
+BODY: Draftstopping shall be provided in accordance with Section R302.12....
+ESTIMATED TOKENS SENT: 13
+RESPONSE: {"ifc_type": ["Wall", "Slab", "Roof"], "occupancy": ["Residential (R)"], "design_phase": ["sd", "dd", "cd"], "code_category": "fire_resistance_smoke_protection", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T15:39:33.804005+00:00] Row Index: 39
+TITLE: Fireblocking Required
+BODY: Fireblocking shall be provided in accordance with Section R302.11....
+ESTIMATED TOKENS SENT: 13
+RESPONSE: {"ifc_type": ["Wall", "Slab", "Floor", "Beam"], "occupancy": ["Residential (R)", "Assembly (A)"], "design_phase": ["sd", "dd", "cd"], "code_category": "fire_resistance_smoke_protection", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T15:39:35.519465+00:00] Row Index: 71
+TITLE: Web Holes
+BODY: Web holes in floor joists shall comply with all of the following conditions: Holes shall conform to ...
+ESTIMATED TOKENS SENT: 206
+RESPONSE: {"ifc_type": ["Beam", "Slab"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Residential (R)"], "design_phase": ["sd", "dd", "cd"], "code_category": "structural_design", "primary_responsibility": "structural_engineer"}
+--------------------
+[2026-01-14T15:39:36.907992+00:00] Row Index: 72
+TITLE: Web Hole Reinforcing
+BODY: Reinforcement of web holes in floor joists not conforming to the requirements of Section R505.2.6.1 ...
+ESTIMATED TOKENS SENT: 204
+RESPONSE: {"ifc_type": ["Beam", "Slab"], "occupancy": ["Residential (R)", "Business (B)", "Assembly (A)", "Educational (E)", "Mercantile (M)"], "design_phase": ["sd", "dd", "cd"], "code_category": "structural_design", "primary_responsibility": "structural_engineer"}
+--------------------
+[2026-01-14T15:39:38.615476+00:00] Row Index: 73
+TITLE: Hole Patching
+BODY: Patching of web holes in floor joists not conforming to the requirements in Section R505.2.6.1 shall...
+ESTIMATED TOKENS SENT: 276
+RESPONSE: {"ifc_type": ["Beam", "Slab"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Residential (R)", "Mercantile (M)"], "design_phase": ["sd", "dd", "cd"], "code_category": "structural_design", "primary_responsibility": "structural_engineer"}
+--------------------
+[2026-01-14T15:39:40.691189+00:00] Row Index: 75
+TITLE: Floor to Foundation or Load-Bearing Wall Connections
+BODY: Cold-formed steel framed floors shall be anchored to foundations, wood sills or load-bearing walls i...
+ESTIMATED TOKENS SENT: 1042
+RESPONSE: {"ifc_type": ["Slab", "Bearing", "Footing", "Wall", "Member"], "occupancy": ["Residential (R)", "Business (B)", "Assembly (A)"], "design_phase": ["sd", "dd", "cd"], "code_category": "structural_design", "primary_responsibility": "structural_engineer"}
+--------------------
+[2026-01-14T15:39:42.644616+00:00] Row Index: 89
+TITLE: Site Preparation
+BODY: The area within the foundation walls shall have all vegetation, top soil and foreign material remove...
+ESTIMATED TOKENS SENT: 22
+RESPONSE: {"ifc_type": ["Footing", "Slab", "EarthworksElement"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Factory and Industrial (F)", "Residential (R)"], "design_phase": ["sd", "dd", "cd"], "code_category": "site_planning", "primary_responsibility": "civil_engineer"}
+--------------------
+[2026-01-14T15:39:44.511087+00:00] Row Index: 90
+TITLE: Fill
+BODY: Fill material shall be free of vegetation and foreign material. The fill shall be compacted to ensur...
+ESTIMATED TOKENS SENT: 64
+RESPONSE: {"ifc_type": ["EarthworksElement", "Slab", "Footing"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Factory and Industrial (F)", "Residential (R)"], "design_phase": ["sd", "dd", "cd"], "code_category": "site_planning", "primary_responsibility": "civil_engineer"}
+--------------------
+[2026-01-14T15:39:46.966055+00:00] Row Index: 91
+TITLE: Base
+BODY: A 4-inch-thick (102 mm) base course consisting of clean graded sand, gravel, crushed stone, crushed ...
+ESTIMATED TOKENS SENT: 98
+RESPONSE: {"ifc_type": ["Slab"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Factory and Industrial (F)", "Residential (R)"], "design_phase": ["sd", "dd", "cd"], "code_category": "assemblies_envelope", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T15:39:49.230889+00:00] Row Index: 92
+TITLE: Vapor Retarder
+BODY: A 6-mil (0.006 inch; 152 µm) polyethylene or approved vapor retarder with joints lapped not less tha...
+ESTIMATED TOKENS SENT: 141
+RESPONSE: {"ifc_type": ["Slab"], "occupancy": ["Business (B)", "Educational (E)", "Factory and Industrial (F)", "Residential (R)", "Assembly (A)"], "design_phase": ["sd", "dd", "cd"], "code_category": "assemblies_envelope", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T15:39:51.266482+00:00] Row Index: 93
+TITLE: Reinforcement Support
+BODY: Where provided in slabs-on-ground, reinforcement shall be supported to remain in place from the cent...
+ESTIMATED TOKENS SENT: 38
+RESPONSE: {"ifc_type": ["Slab"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Factory and Industrial (F)", "Residential (R)"], "design_phase": ["sd", "dd", "cd"], "code_category": "structural_design", "primary_responsibility": "structural_engineer"}
+--------------------
+[2026-01-14T15:39:53.280042+00:00] Row Index: 96
+TITLE: Deck Ledger Connection to Band Joist
+BODY: Deck ledger connections to band joists shall be in accordance with this section, Tables R507.2 and R...
+ESTIMATED TOKENS SENT: 358
+RESPONSE: {"ifc_type": ["Slab", "Wall", "Beam"], "occupancy": ["Residential (R)"], "design_phase": ["sd", "dd", "cd"], "code_category": "structural_design", "primary_responsibility": "structural_engineer"}
+--------------------
+[2026-01-14T15:39:55.070274+00:00] Row Index: 97
+TITLE: Ledger Details
+BODY: Deck ledgers installed in accordance with Section R507.2 shall be a minimum 2-inch by 8-inch (51 mm ...
+ESTIMATED TOKENS SENT: 289
+RESPONSE: {"ifc_type": ["Beam", "Wall", "BuildingElementProxy"], "occupancy": ["Residential (R)"], "design_phase": ["sd", "dd", "cd"], "code_category": "structural_design", "primary_responsibility": "structural_engineer"}
+--------------------
+[2026-01-14T15:39:56.562450+00:00] Row Index: 98
+TITLE: Band Joist Details
+BODY: Band joists attached by a ledger in accordance with Section R507.2 shall be a minimum 2-inch-nominal...
+ESTIMATED TOKENS SENT: 82
+RESPONSE: {"ifc_type": ["Beam", "Slab", "Wall"], "occupancy": ["Residential (R)"], "design_phase": ["sd", "dd", "cd"], "code_category": "structural_design", "primary_responsibility": "structural_engineer"}
+--------------------
+[2026-01-14T15:39:58.100065+00:00] Row Index: 99
+TITLE: Ledger to Band Joist Fastener Details
+BODY: Fasteners used in deck ledger connections in accordance with Table R507.2 shall be hot-dipped galvan...
+ESTIMATED TOKENS SENT: 90
+RESPONSE: {"ifc_type": ["Wall", "Slab", "Beam"], "occupancy": ["Residential (R)", "Assembly (A)"], "design_phase": ["sd", "dd", "cd"], "code_category": "structural_design", "primary_responsibility": "structural_engineer"}
+--------------------
+[2026-01-14T15:40:01.014802+00:00] Row Index: 100
+TITLE: Deck Lateral Load Connection
+BODY: The lateral load connection required by Section R507.1 shall be permitted to be in accordance with F...
+ESTIMATED TOKENS SENT: 160
+RESPONSE: {"ifc_type": ["Slab", "Beam", "Member"], "occupancy": ["Residential (R)", "Assembly (A)"], "design_phase": ["sd", "dd", "cd"], "code_category": "structural_design", "primary_responsibility": "structural_engineer"}
+--------------------
+[2026-01-14T15:40:03.878276+00:00] Row Index: 101
+TITLE: Plastic Composite Deck Boards, Stair Treads, Guards, or Handrails
+BODY: Plastic composite exterior deck boards, stair treads, guards and handrails shall comply with the req...
+ESTIMATED TOKENS SENT: 42
+RESPONSE: {"ifc_type": ["Slab", "Stair", "Railing"], "occupancy": ["Assembly (A)", "Residential (R)", "Business (B)"], "design_phase": ["sd", "dd", "cd"], "code_category": "finishes_materials", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T15:40:05.455016+00:00] Row Index: 102
+TITLE: Labeling
+BODY: Plastic composite deck boards and stair treads, or their packaging, shall bear a label that indicate...
+ESTIMATED TOKENS SENT: 88
+RESPONSE: {"ifc_type": ["Stair", "Slab", "Railing"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Mercantile (M)", "Residential (R)"], "design_phase": ["cd", "ca"], "code_category": "finishes_materials", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T15:40:07.324049+00:00] Row Index: 103
+TITLE: Flame Spread Index
+BODY: Plastic composite deck boards, stair treads, guards, and handrails shall exhibit a flame spread inde...
+ESTIMATED TOKENS SENT: 62
+RESPONSE: {"ifc_type": ["Slab", "Stair", "Railing"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Residential (R)", "Mercantile (M)"], "design_phase": ["sd", "dd", "cd"], "code_category": "finishes_materials", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T15:40:09.990069+00:00] Row Index: 104
+TITLE: Decay Resistance
+BODY: Plastic composite deck boards, stair treads, guards and handrails containing wood, cellulosic or oth...
+ESTIMATED TOKENS SENT: 34
+RESPONSE: {"ifc_type": ["Slab", "Stair", "Railing"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Residential (R)", "Mercantile (M)"], "design_phase": ["sd", "dd", "cd"], "code_category": "finishes_materials", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T15:40:12.482452+00:00] Row Index: 105
+TITLE: Termite Resistance
+BODY: Where required by Section 318, plastic composite deck boards, stair treads, guards and handrails con...
+ESTIMATED TOKENS SENT: 41
+RESPONSE: {"ifc_type": ["Slab", "Stair", "Railing", "Ramp"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Residential (R)", "Mercantile (M)"], "design_phase": ["sd", "dd", "cd"], "code_category": "finishes_materials", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T15:40:15.209905+00:00] Row Index: 106
+TITLE: Installation of Plastic Composites
+BODY: Plastic composite deck boards, stair treads, guards and handrails shall be installed in accordance w...
+ESTIMATED TOKENS SENT: 32
+RESPONSE: {"ifc_type": ["Slab", "StairFlight", "Railing"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Residential (R)", "Mercantile (M)"], "design_phase": ["sd", "dd", "cd"], "code_category": "finishes_materials", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T15:40:16.806488+00:00] Row Index: 107
+TITLE: Decking
+BODY: Maximum allowable spacing for joists supporting decking shall be in accordance with Table R507.4. Wo...
+ESTIMATED TOKENS SENT: 144
+RESPONSE: {"ifc_type": ["Slab", "Beam", "Member"], "occupancy": ["Residential (R)", "Assembly (A)", "Business (B)"], "design_phase": ["sd", "dd", "cd"], "code_category": "structural_design", "primary_responsibility": "structural_engineer"}
+--------------------
+[2026-01-14T15:40:18.193393+00:00] Row Index: 108
+TITLE: Deck Joists
+BODY: Maximum allowable spans for wood deck joists, as shown in Figure R507.5, shall be in accordance with...
+ESTIMATED TOKENS SENT: 396
+RESPONSE: {"ifc_type": ["Beam", "Slab"], "occupancy": ["Assembly (A)", "Business (B)", "Residential (R)", "Mercantile (M)", "Utility and Miscellaneous (U)"], "design_phase": ["sd", "dd", "cd"], "code_category": "structural_design", "primary_responsibility": "structural_engineer"}
+--------------------
+[2026-01-14T15:40:22.341707+00:00] Row Index: 109
+TITLE: Lateral Restraint at Supports
+BODY: Joist ends and bearing locations shall be provided with lateral restraint to prevent rotation. Where...
+ESTIMATED TOKENS SENT: 108
+RESPONSE: {"ifc_type": ["Beam", "Bearing", "Member", "Slab"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Factory and Industrial (F)", "Residential (R)"], "design_phase": ["sd", "dd", "cd"], "code_category": "structural_design", "primary_responsibility": "structural_engineer"}
+--------------------
+[2026-01-14T15:40:23.691871+00:00] Row Index: 110
+TITLE: Deck Beams
+BODY: Maximum allowable spans for wood deck beams, as shown in Figure R507.6, shall be in accordance with ...
+ESTIMATED TOKENS SENT: 621
+RESPONSE: {"ifc_type": ["Beam"], "occupancy": ["Residential (R)"], "design_phase": ["sd", "dd", "cd"], "code_category": "structural_design", "primary_responsibility": "structural_engineer"}
+--------------------
+[2026-01-14T15:40:25.115129+00:00] Row Index: 111
+TITLE: Deck Joist and Deck Beam Bearing
+BODY: The ends of each joist and beam shall have not less than 11/2 inches (38 mm) of bearing on wood or m...
+ESTIMATED TOKENS SENT: 105
+RESPONSE: {"ifc_type": ["Beam", "Bearing", "BuildingElementProxy"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Residential (R)", "Mercantile (M)"], "design_phase": ["sd", "dd", "cd"], "code_category": "structural_design", "primary_responsibility": "structural_engineer"}
+--------------------
+[2026-01-14T15:40:27.276221+00:00] Row Index: 112
+TITLE: Deck Post to Deck Beam
+BODY: Deck beams shall be attached to deck posts in accordance with Figure R507.7.1 or by other equivalent...
+ESTIMATED TOKENS SENT: 100
+RESPONSE: {"ifc_type": ["Beam", "Column", "Footing"], "occupancy": ["Residential (R)", "Assembly (A)"], "design_phase": ["sd", "dd", "cd"], "code_category": "structural_design", "primary_responsibility": "structural_engineer"}
+--------------------
+[2026-01-14T15:40:28.787264+00:00] Row Index: 113
+TITLE: Deck Posts
+BODY: For single-level wood-framed decks with beams sized in accordance with Table R507.6, deck post size ...
+ESTIMATED TOKENS SENT: 77
+RESPONSE: {"ifc_type": ["Column"], "occupancy": ["Residential (R)"], "design_phase": ["sd", "dd", "cd"], "code_category": "structural_design", "primary_responsibility": "structural_engineer"}
+--------------------
+[2026-01-14T15:40:29.897058+00:00] Row Index: 114
+TITLE: Deck Post to Deck Footing
+BODY: Posts shall bear on footings in accordance with Section R403 and Figure R507.8.1. Posts shall be res...
+ESTIMATED TOKENS SENT: 94
+RESPONSE: {"ifc_type": ["Column", "Footing", "Slab"], "occupancy": ["Assembly (A)", "Business (B)", "Residential (R)", "Utility and Miscellaneous (U)"], "design_phase": ["sd", "dd", "cd"], "code_category": "structural_design", "primary_responsibility": "structural_engineer"}
+--------------------
+
+==================================================
+SUMMARY STATISTICS
+Total Rows Processed by AI: 35
+Total Estimated Tokens Sent: 5595
+==================================================
+
+CSV Saved Successfully at 2026-01-14T15:40:31.914171+00:00

@@ -1,0 +1,150 @@
+Log started: 2026-01-14T15:40:35.017095+00:00
+Source: download/arkansas/ibc-2021/chapter-4-special-detailed-requirements-based-on-occupancy-and-use.csv
+--------------------------------------------------
+
+[2026-01-14T15:40:35.028492+00:00] Row Index: 63
+TITLE: Wall Assembly Materials—Soft Body Impact
+BODY: The panels making up the enclosures for interior exit stairways and elevator hoistway enclosures sha...
+ESTIMATED TOKENS SENT: 62
+RESPONSE: {"ifc_type": ["Wall", "BuildingElementProxy"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Institutional (I)", "Residential (R)"], "design_phase": ["sd", "dd", "cd"], "code_category": "finishes_materials", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T15:40:36.487101+00:00] Row Index: 64
+TITLE: Wall Assembly Materials—Hard Body Impact
+BODY: The panels making up the enclosures for interior exit stairways and elevator hoistway enclosures tha...
+ESTIMATED TOKENS SENT: 182
+RESPONSE: {"ifc_type": ["Wall", "Stair", "Elevator"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Institutional (I)", "Residential (R)"], "design_phase": ["sd", "dd", "cd"], "code_category": "finishes_materials", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T15:40:38.210559+00:00] Row Index: 65
+TITLE: Concrete and Masonry Walls
+BODY: Concrete or masonry walls shall be deemed to satisfy the requirements of Sections 403.2.2.1 and 403....
+ESTIMATED TOKENS SENT: 25
+RESPONSE: {"ifc_type": ["Wall"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Factory and Industrial (F)", "Residential (R)"], "design_phase": ["sd", "dd", "cd"], "code_category": "fire_resistance_smoke_protection", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T15:40:39.855148+00:00] Row Index: 66
+TITLE: Other Wall Assemblies
+BODY: Any other wall assembly that provides impact resistance equivalent to that required by Sections 403....
+ESTIMATED TOKENS SENT: 61
+RESPONSE: {"ifc_type": ["Wall"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Institutional (I)", "Residential (R)"], "design_phase": ["sd", "dd", "cd"], "code_category": "assemblies_envelope", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T15:40:41.358466+00:00] Row Index: 67
+TITLE: Sprayed Fire-Resistant Materials (SFRM)
+BODY: The bond strength of the SFRM installed throughout the building shall be in accordance with Table 40...
+ESTIMATED TOKENS SENT: 92
+RESPONSE: {"ifc_type": ["Beam", "Column", "Slab", "Wall"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Institutional (I)", "Residential (R)"], "design_phase": ["dd", "cd"], "code_category": "fire_resistance_smoke_protection", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T15:40:43.033718+00:00] Row Index: 70
+TITLE: Riser Location
+BODY: Sprinkler risers shall be placed in interior exit stairways and ramps that are remotely located in a...
+ESTIMATED TOKENS SENT: 28
+RESPONSE: {"ifc_type": ["Stair", "Ramp", "BuildingElementProxy"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Institutional (I)", "Residential (R)"], "design_phase": ["sd", "dd", "cd"], "code_category": "fire_protection_alarm_systems", "primary_responsibility": "fire_protection_engineer"}
+--------------------
+[2026-01-14T15:40:44.743742+00:00] Row Index: 131
+TITLE: Automatic Garage Door Openers and Vehicular Gates
+BODY: Automatic garage door openers shall be listed and labeled in accordance with UL 325. Where provided,...
+ESTIMATED TOKENS SENT: 40
+RESPONSE: {"ifc_type": ["Door", "BuildingElementProxy"], "occupancy": ["Residential (R)", "Business (B)", "Mercantile (M)", "Assembly (A)", "Storage (S)"], "design_phase": ["sd", "dd", "cd"], "code_category": "special_construction", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T15:40:46.840582+00:00] Row Index: 211
+TITLE: Doors Within Care Suites
+BODY: Doors in care suites serving habitable rooms shall be permitted to comply with one of the following:...
+ESTIMATED TOKENS SENT: 65
+RESPONSE: {"ifc_type": ["Door"], "occupancy": ["Institutional (I)"], "design_phase": ["sd", "dd", "cd"], "code_category": "means_of_egress", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T15:40:48.151927+00:00] Row Index: 212
+TITLE: Care Suites Containing Sleeping Room Areas
+BODY: Sleeping rooms shall be permitted to be grouped into care suites where one of the following criteria...
+ESTIMATED TOKENS SENT: 101
+RESPONSE: {"ifc_type": ["Wall", "Door", "Slab"], "occupancy": ["Institutional (I)"], "design_phase": ["sd", "dd", "cd"], "code_category": "fire_resistance_smoke_protection", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T15:40:49.728591+00:00] Row Index: 213
+TITLE: Area
+BODY: Care suites containing sleeping rooms shall be not greater than 7,500 square feet (696 m2) in area.E...
+ESTIMATED TOKENS SENT: 74
+RESPONSE: {"ifc_type": ["Wall", "Door", "Slab"], "occupancy": ["Institutional (I)"], "design_phase": ["sd", "dd", "cd"], "code_category": "building_height_area_limits", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T15:40:51.607284+00:00] Row Index: 214
+TITLE: Exit Access
+BODY: Any sleeping room, or any care suite that contains sleeping rooms, of more than 1,000 square feet (9...
+ESTIMATED TOKENS SENT: 52
+RESPONSE: {"ifc_type": ["Door", "Wall"], "occupancy": ["Institutional (I)", "Residential (R)"], "design_phase": ["sd", "dd", "cd"], "code_category": "means_of_egress", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T15:40:52.827245+00:00] Row Index: 215
+TITLE: Care Suites Not Containing Sleeping Rooms
+BODY: Areas not containing sleeping rooms, but only treatment areas and the associated rooms, spaces or ci...
+ESTIMATED TOKENS SENT: 56
+RESPONSE: {"ifc_type": ["Wall", "Door", "Slab", "Covering"], "occupancy": ["Institutional (I)"], "design_phase": ["sd", "dd", "cd"], "code_category": "occupancy_classification", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T15:40:55.139942+00:00] Row Index: 302
+TITLE: Standpipes
+BODY: Standpipe systems shall be provided in accordance with Section 905....
+ESTIMATED TOKENS SENT: 13
+RESPONSE: {"ifc_type": ["BuildingElementProxy", "Wall", "Stair", "Slab"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Factory and Industrial (F)", "Residential (R)"], "design_phase": ["dd", "cd"], "code_category": "fire_protection_alarm_systems", "primary_responsibility": "fire_protection_engineer"}
+--------------------
+[2026-01-14T15:40:58.437838+00:00] Row Index: 306
+TITLE: Automatic Smoke Detection
+BODY: Buildings containing special amusement areas shall be equipped with an automatic smoke detection sys...
+ESTIMATED TOKENS SENT: 28
+RESPONSE: {"ifc_type": ["BuildingElementProxy"], "occupancy": ["Assembly (A)"], "design_phase": ["sd", "dd", "cd"], "code_category": "fire_protection_alarm_systems", "primary_responsibility": "fire_protection_engineer"}
+--------------------
+[2026-01-14T15:40:59.882169+00:00] Row Index: 307
+TITLE: Emergency Voice/Alarm Communications System
+BODY: An emergency voice/alarm communications system shall be provided in accordance with Section 907.2.12...
+ESTIMATED TOKENS SENT: 21
+RESPONSE: {"ifc_type": ["BuildingElementProxy"], "occupancy": ["Assembly (A)", "Institutional (I)", "Residential (R)", "Business (B)"], "design_phase": ["sd", "dd", "cd"], "code_category": "fire_protection_alarm_systems", "primary_responsibility": "fire_protection_engineer"}
+--------------------
+[2026-01-14T15:41:01.039894+00:00] Row Index: 308
+TITLE: Puzzle Room Exiting
+BODY: Puzzle room exiting shall comply with one of the following:Exiting in accordance with Chapter 10.An ...
+ESTIMATED TOKENS SENT: 66
+RESPONSE: {"ifc_type": ["Door", "Wall"], "occupancy": ["Assembly (A)"], "design_phase": ["sd", "dd", "cd"], "code_category": "means_of_egress", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T15:41:02.617053+00:00] Row Index: 309
+TITLE: Exit Marking
+BODY: Exit signs shall be installed at the required exit or exit access doorways serving special amusement...
+ESTIMATED TOKENS SENT: 174
+RESPONSE: {"ifc_type": ["Door", "Wall", "BuildingElementProxy"], "occupancy": ["Assembly (A)"], "design_phase": ["sd", "dd", "cd"], "code_category": "means_of_egress", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T15:41:03.919919+00:00] Row Index: 310
+TITLE: Photoluminescent Exit Signs
+BODY: Where photoluminescent exit signs are installed, activating light source and viewing distance shall ...
+ESTIMATED TOKENS SENT: 34
+RESPONSE: {"ifc_type": ["Wall", "Door"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Institutional (I)", "Residential (R)"], "design_phase": ["dd", "cd"], "code_category": "means_of_egress", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T15:41:05.839648+00:00] Row Index: 311
+TITLE: Interior Finish
+BODY: The interior finish in special amusement areas shall be Class A in accordance with Section 803.1....
+ESTIMATED TOKENS SENT: 22
+RESPONSE: {"ifc_type": ["Wall", "Slab", "Ceiling", "Covering"], "occupancy": ["Assembly (A)"], "design_phase": ["sd", "dd", "cd"], "code_category": "finishes_materials", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T15:41:07.712404+00:00] Row Index: 318
+TITLE: Sprayed Fire-Resistant Materials (SFRM)
+BODY: The bond strength of the SFRM installed in airport traffic control towers shall be in accordance wit...
+ESTIMATED TOKENS SENT: 58
+RESPONSE: {"ifc_type": ["Wall", "Beam", "Column", "Slab"], "occupancy": ["Business (B)"], "design_phase": ["dd", "cd"], "code_category": "fire_resistance_smoke_protection", "primary_responsibility": "fire_protection_engineer"}
+--------------------
+[2026-01-14T15:41:09.398723+00:00] Row Index: 450
+TITLE: Aggregate Quantities
+BODY: The aggregate quantities of hazardous materials stored and used in a single fabrication area shall n...
+ESTIMATED TOKENS SENT: 686
+RESPONSE: {"ifc_type": ["BuildingElementProxy"], "occupancy": ["High Hazard (H)"], "design_phase": ["sd", "dd", "cd"], "code_category": "hazardous_materials", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T15:41:14.771856+00:00] Row Index: 451
+TITLE: Hazardous Production Materials
+BODY: The maximum quantities of hazardous production materials (HPM) stored in a single fabrication area s...
+ESTIMATED TOKENS SENT: 44
+RESPONSE: {"ifc_type": ["BuildingElementProxy", "Wall", "Door"], "occupancy": ["Factory and Industrial (F)", "High Hazard (H)"], "design_phase": ["sd", "dd", "cd"], "code_category": "hazardous_materials", "primary_responsibility": "fire_protection_engineer"}
+--------------------
+[2026-01-14T15:41:19.605144+00:00] Row Index: 580
+TITLE: Required Occupant Capacity
+BODY: The required occupant capacity of the storm shelter shall include all of the buildings on the site a...
+ESTIMATED TOKENS SENT: 198
+RESPONSE: {"ifc_type": ["BuildingElementProxy"], "occupancy": ["Educational (E)"], "design_phase": ["sd", "dd", "cd"], "code_category": "occupancy_classification", "primary_responsibility": "architect"}
+--------------------
+
+==================================================
+SUMMARY STATISTICS
+Total Rows Processed by AI: 23
+Total Estimated Tokens Sent: 2182
+==================================================
+
+CSV Saved Successfully at 2026-01-14T15:41:20.975293+00:00

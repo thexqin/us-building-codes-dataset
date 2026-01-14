@@ -1,0 +1,24 @@
+Log started: 2026-01-14T15:43:48.695040+00:00
+Source: download/colorado/ibc-2021/chapter-5-general-building-heights-and-areas.csv
+--------------------------------------------------
+
+[2026-01-14T15:43:48.700188+00:00] Row Index: 10
+TITLE: Occupied Roofs
+BODY: A roof level or portion thereof shall be permitted to be used as an occupied roof provided the occup...
+ESTIMATED TOKENS SENT: 273
+RESPONSE: {"ifc_type": ["Roof", "Slab", "Stair", "Door"], "occupancy": ["Assembly (A)", "Business (B)", "Mercantile (M)", "Residential (R)"], "design_phase": ["sd", "dd", "cd"], "code_category": "building_height_area_limits", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T15:43:50.211978+00:00] Row Index: 11
+TITLE: Enclosures Over Occupied Roof Areas
+BODY: Elements or structures enclosing the occupied roof areas shall not extend more than 48 inches (1220 ...
+ESTIMATED TOKENS SENT: 62
+RESPONSE: {"ifc_type": ["Wall", "Roof", "BuildingElementProxy"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Mercantile (M)", "Residential (R)"], "design_phase": ["sd", "dd", "cd"], "code_category": "building_height_area_limits", "primary_responsibility": "architect"}
+--------------------
+
+==================================================
+SUMMARY STATISTICS
+Total Rows Processed by AI: 2
+Total Estimated Tokens Sent: 335
+==================================================
+
+CSV Saved Successfully at 2026-01-14T15:43:52.225718+00:00
