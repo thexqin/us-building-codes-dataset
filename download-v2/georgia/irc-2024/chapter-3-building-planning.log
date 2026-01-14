@@ -1,0 +1,54 @@
+Log started: 2026-01-14T19:37:40.579826+00:00
+Source: download/georgia/irc-2024/chapter-3-building-planning.csv
+--------------------------------------------------
+
+[2026-01-14T19:37:40.585105+00:00] Row Index: 185
+TITLE: Automatic Fire Sprinkler Systems (Optional)
+BODY: (Effective January 1, 2026; GAC 110-11-1-.25)...
+ESTIMATED TOKENS SENT: 13
+RESPONSE: {"ifc_type": ["Slab", "Wall", "Roof"], "occupancy": ["Assembly (A)", "Business (B)", "Residential (R)", "Institutional (I)"], "design_phase": ["sd", "dd", "cd"], "code_category": "fire_protection_alarm_systems", "primary_responsibility": "fire_protection_engineer"}
+--------------------
+[2026-01-14T19:37:41.992396+00:00] Row Index: 186
+TITLE: Automatic Fire Sprinkler Systems (Optional)
+BODY: Installation of an automatic residential fire sprinkler system shall be optional and not mandatory i...
+ESTIMATED TOKENS SENT: 41
+RESPONSE: {"ifc_type": ["BuildingElementProxy"], "occupancy": ["Residential (R)"], "design_phase": ["sd", "dd", "cd"], "code_category": "fire_protection_alarm_systems", "primary_responsibility": "fire_protection_engineer"}
+--------------------
+[2026-01-14T19:37:43.265456+00:00] Row Index: 187
+TITLE: Design and Installation
+BODY: When installed, automatic residential fire sprinkler systems for one- and two-family dwellings and t...
+ESTIMATED TOKENS SENT: 41
+RESPONSE: {"ifc_type": ["BuildingElementProxy"], "occupancy": ["Residential (R)"], "design_phase": ["sd", "dd", "cd"], "code_category": "fire_protection_alarm_systems", "primary_responsibility": "fire_protection_engineer"}
+--------------------
+[2026-01-14T19:37:44.811971+00:00] Row Index: 330
+TITLE: Guards and Window Fall Protection
+BODY: (Effective January 1, 2026; GAC 110-11-1-.25)...
+ESTIMATED TOKENS SENT: 13
+RESPONSE: {"ifc_type": ["Railing", "Window", "Wall"], "occupancy": ["Assembly (A)", "Educational (E)", "Institutional (I)", "Residential (R)"], "design_phase": ["sd", "dd", "cd"], "code_category": "means_of_egress", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T19:37:46.358204+00:00] Row Index: 345
+TITLE: Hoistway Opening Framing
+BODY: Limited-use/limited-application elevators or private residence elevators shall have hoistway landing...
+ESTIMATED TOKENS SENT: 106
+RESPONSE: {"ifc_type": ["Elevator", "Door"], "occupancy": ["Residential (R)", "Assembly (A)", "Business (B)", "Institutional (I)"], "design_phase": ["sd", "dd", "cd"], "code_category": "elevators_conveying_systems", "primary_responsibility": "elevator_consultant"}
+--------------------
+[2026-01-14T19:37:47.670571+00:00] Row Index: 395
+TITLE: Exterior Hose Bibs, Sill Cocks or Outside Hydrants
+BODY: One and two-family dwellings shall have not less than two exterior hose bibs, sill cocks or outside ...
+ESTIMATED TOKENS SENT: 56
+RESPONSE: {"ifc_type": ["PlumbingSystems"], "occupancy": ["Residential (R)"], "design_phase": ["sd", "dd", "cd"], "code_category": "plumbing_systems", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T19:37:49.130574+00:00] Row Index: 396
+TITLE: Construction Worker Toilet Facilities
+BODY: Toilet facilities shall be provided for construction workers and such facilities shall be maintained...
+ESTIMATED TOKENS SENT: 52
+RESPONSE: {"ifc_type": ["PlumbingSystems", "BuildingElementProxy"], "occupancy": ["Utility and Miscellaneous (U)"], "design_phase": ["cd", "ca"], "code_category": "plumbing_systems", "primary_responsibility": "architect"}
+--------------------
+
+==================================================
+SUMMARY STATISTICS
+Total Rows Processed by AI: 7
+Total Estimated Tokens Sent: 322
+==================================================
+
+CSV Saved Successfully at 2026-01-14T19:37:50.627446+00:00

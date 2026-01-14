@@ -1,0 +1,18 @@
+Log started: 2026-01-14T19:37:37.287452+00:00
+Source: download/georgia/ibc-2024/chapter-3-occupancy-classification-and-use.csv
+--------------------------------------------------
+
+[2026-01-14T19:37:37.293173+00:00] Row Index: 59
+TITLE: Assisted Living Communities
+BODY: Assisted living communities, licensed by the State, housing twenty-five persons or more person, meet...
+ESTIMATED TOKENS SENT: 66
+RESPONSE: {"ifc_type": ["BuildingElementProxy", "Door", "Stair", "Ramp", "Window"], "occupancy": ["Institutional (I)"], "design_phase": ["sd", "dd", "cd"], "code_category": "occupancy_classification", "primary_responsibility": "architect"}
+--------------------
+
+==================================================
+SUMMARY STATISTICS
+Total Rows Processed by AI: 1
+Total Estimated Tokens Sent: 66
+==================================================
+
+CSV Saved Successfully at 2026-01-14T19:37:40.531643+00:00
