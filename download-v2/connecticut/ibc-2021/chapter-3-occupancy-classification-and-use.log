@@ -1,0 +1,96 @@
+Log started: 2026-01-14T20:28:17.337711+00:00
+Source: download/connecticut/ibc-2021/chapter-3-occupancy-classification-and-use.csv
+--------------------------------------------------
+
+[2026-01-14T20:28:17.342192+00:00] Row Index: 0
+TITLE: Use and Occupancy Classification and Use
+BODY: User note:About this chapter: Chapter 3 provides the criteria by which buildings and structures are ...
+ESTIMATED TOKENS SENT: 77
+RESPONSE: {"ifc_type": ["BuildingElementProxy"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Factory and Industrial (F)", "Residential (R)"], "design_phase": ["concept", "sd", "dd"], "code_category": "occupancy_classification", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T20:28:18.730476+00:00] Row Index: 28
+TITLE: Five Six or Fewer Children
+BODY: A facility having six or fewer children receiving such day care shall be classified as part of the p...
+ESTIMATED TOKENS SENT: 32
+RESPONSE: {"ifc_type": ["BuildingElementProxy"], "occupancy": ["Residential (R)", "Institutional (I)"], "design_phase": ["concept", "sd", "dd", "cd"], "code_category": "occupancy_classification", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T20:28:20.521988+00:00] Row Index: 29
+TITLE: Five or Fewer Children in a Dwelling Unit Family Child Care Home
+BODY: A family child care home, as described in subsection (a)(3) of section 19a-77 of the Connecticut Gen...
+ESTIMATED TOKENS SENT: 76
+RESPONSE: {"ifc_type": ["Wall", "Door", "Window"], "occupancy": ["Residential (R)"], "design_phase": ["concept", "sd", "dd", "cd"], "code_category": "occupancy_classification", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T20:28:21.992087+00:00] Row Index: 38
+TITLE: Uses Other Than Group H
+BODY: An occupancy that stores, uses or handles hazardous materials as described in one or more of the fol...
+ESTIMATED TOKENS SENT: 546
+RESPONSE: {"ifc_type": ["BuildingElementProxy", "Wall", "Slab"], "occupancy": ["Business (B)", "Factory and Industrial (F)", "Mercantile (M)", "Residential (R)", "Storage (S)"], "design_phase": ["sd", "dd", "cd"], "code_category": "occupancy_classification", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T20:28:24.151429+00:00] Row Index: 44
+TITLE: Consumer Fireworks, Class 1.4G
+BODY: Sparklers and fountain display items permitted to be sold in Connecticut shall be exempt from the re...
+ESTIMATED TOKENS SENT: 108
+RESPONSE: {"ifc_type": ["BuildingElementProxy"], "occupancy": ["Mercantile (M)", "High Hazard (H)"], "design_phase": ["sd", "dd", "cd"], "code_category": "hazardous_materials", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T20:28:26.674143+00:00] Row Index: 45
+TITLE: Storage Rooms
+BODY: The provisions of NFPA 1124, 2006 edition, are amended for use in Connecticut as follows: (Amd) NFPA...
+ESTIMATED TOKENS SENT: 290
+RESPONSE: {"ifc_type": ["Wall", "Slab", "Door"], "occupancy": ["Mercantile (M)", "Storage (S)", "High Hazard (H)"], "design_phase": ["sd", "dd", "cd"], "code_category": "fire_resistance_smoke_protection", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T20:28:28.755084+00:00] Row Index: 54
+TITLE: Six Four to 16 Persons Receiving Custodial Care
+BODY: A facility housing not fewer than four and not more than 16 persons receiving custodial care shall b...
+ESTIMATED TOKENS SENT: 37
+RESPONSE: {"ifc_type": ["BuildingElementProxy"], "occupancy": ["Residential (R)"], "design_phase": ["sd", "dd", "cd"], "code_category": "occupancy_classification", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T20:28:29.910460+00:00] Row Index: 55
+TITLE: Five Three or Fewer Persons Receiving Custodial Care
+BODY: A facility with three or fewer persons receiving custodial care shall be classified as Group R-3 or ...
+ESTIMATED TOKENS SENT: 41
+RESPONSE: {"ifc_type": ["Wall", "Door", "Window"], "occupancy": ["Residential (R)", "Institutional (I)"], "design_phase": ["concept", "sd", "dd", "cd"], "code_category": "occupancy_classification", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T20:28:31.615308+00:00] Row Index: 60
+TITLE: Five Three or Fewer Persons Receiving Medical Care
+BODY: A facility with three or fewer persons receiving medical care shall be classified as Group R-3 or sh...
+ESTIMATED TOKENS SENT: 68
+RESPONSE: {"ifc_type": ["BuildingElementProxy", "Door", "Slab"], "occupancy": ["Residential (R)"], "design_phase": ["sd", "dd", "cd"], "code_category": "occupancy_classification", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T20:28:35.437027+00:00] Row Index: 61
+TITLE: Alternative Compliance for Small I-2 Homes
+BODY: See Section 407.14 for alternative compliance provisions for Group I-2 homes serving four to six per...
+ESTIMATED TOKENS SENT: 34
+RESPONSE: {"ifc_type": ["Wall", "Door", "Slab"], "occupancy": ["Institutional (I)"], "design_phase": ["sd", "dd", "cd"], "code_category": "occupancy_classification", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T20:28:37.127237+00:00] Row Index: 71
+TITLE: Five Six or Fewer Persons Receiving Care in Other Than a Dwelling Unit
+BODY: A facility having six or fewer persons receiving custodial care in other than a dwelling unit shall ...
+ESTIMATED TOKENS SENT: 49
+RESPONSE: {"ifc_type": ["BuildingElementProxy"], "occupancy": ["Institutional (I)"], "design_phase": ["concept", "sd", "dd", "cd"], "code_category": "occupancy_classification", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T20:28:38.770329+00:00] Row Index: 72
+TITLE: Five or Fewer Persons Receiving Care in a Dwelling Unit Family Child Care Home
+BODY: A family child care home, as described in section 19a-77 of the Connecticut General Statutes, that o...
+ESTIMATED TOKENS SENT: 74
+RESPONSE: {"ifc_type": ["Wall", "Door", "Window"], "occupancy": ["Residential (R)", "Institutional (I)"], "design_phase": ["concept", "sd", "dd", "cd"], "code_category": "occupancy_classification", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T20:28:40.693455+00:00] Row Index: 80
+TITLE: Group R-1 Bed and Breakfast Establishments
+BODY: A building that does not qualify as a one- or two-family dwelling unit in accordance with Section 10...
+ESTIMATED TOKENS SENT: 133
+RESPONSE: {"ifc_type": ["Wall", "Slab", "Door", "Window", "Roof"], "occupancy": ["Residential (R)"], "design_phase": ["sd", "dd", "cd"], "code_category": "occupancy_classification", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T20:28:42.216064+00:00] Row Index: 81
+TITLE: Kitchens in Group R-1 Bed and Breakfast Establishments
+BODY: Kitchens in Group R-1 bed and breakfast establishments shall be separated by 1/2-hour-rated fire sep...
+ESTIMATED TOKENS SENT: 120
+RESPONSE: {"ifc_type": ["Wall", "Slab", "Door"], "occupancy": ["Residential (R)"], "design_phase": ["sd", "dd", "cd"], "code_category": "fire_resistance_smoke_protection", "primary_responsibility": "architect"}
+--------------------
+
+==================================================
+SUMMARY STATISTICS
+Total Rows Processed by AI: 14
+Total Estimated Tokens Sent: 1685
+==================================================
+
+CSV Saved Successfully at 2026-01-14T20:28:44.418311+00:00

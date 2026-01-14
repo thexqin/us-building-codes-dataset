@@ -1,0 +1,48 @@
+Log started: 2026-01-14T20:28:03.669831+00:00
+Source: download/california/irc-2025/chapter-4-foundations.csv
+--------------------------------------------------
+
+[2026-01-14T20:28:03.672598+00:00] Row Index: 7
+TITLE: General and Where Required for Applications Listed in Section 1.8.2.1.1 Regulated by the Department of Housing and Community Development
+BODY: Foundations and soils investigations shall be conducted in conformance with Health and Safety Code S...
+ESTIMATED TOKENS SENT: 52
+RESPONSE: {"ifc_type": ["Footing", "DeepFoundation", "EarthworksElement"], "occupancy": ["Residential (R)"], "design_phase": ["sd", "dd", "cd"], "code_category": "structural_design", "primary_responsibility": "structural_engineer"}
+--------------------
+[2026-01-14T20:28:05.323739+00:00] Row Index: 8
+TITLE: Preliminary Soil Report
+BODY: Each city, county, or city and county shall enact an ordinance which requires a preliminary soil rep...
+ESTIMATED TOKENS SENT: 162
+RESPONSE: {"ifc_type": ["EarthworksElement", "Footing"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Factory and Industrial (F)", "Residential (R)"], "design_phase": ["concept", "sd"], "code_category": "site_planning", "primary_responsibility": "civil_engineer"}
+--------------------
+[2026-01-14T20:28:07.141637+00:00] Row Index: 9
+TITLE: Soil Investigation by Lot, Necessity, Preparation and Recommendations
+BODY: If the preliminary soil report indicates the presence of critically expansive soils or other soil pr...
+ESTIMATED TOKENS SENT: 110
+RESPONSE: {"ifc_type": ["Footing", "Slab", "DeepFoundation"], "occupancy": ["Residential (R)"], "design_phase": ["sd", "dd"], "code_category": "site_planning", "primary_responsibility": "civil_engineer"}
+--------------------
+[2026-01-14T20:28:08.288966+00:00] Row Index: 10
+TITLE: Approval, Building Permit Conditions, Appeal
+BODY: The building department of each city, county or city and county, or other enforcement agency charged...
+ESTIMATED TOKENS SENT: 120
+RESPONSE: {"ifc_type": ["Footing", "Slab", "Wall"], "occupancy": ["Residential (R)"], "design_phase": ["sd", "dd", "cd"], "code_category": "site_planning", "primary_responsibility": "civil_engineer"}
+--------------------
+[2026-01-14T20:28:09.672205+00:00] Row Index: 11
+TITLE: Liability
+BODY: A city, county, or city and county or other enforcement agency charged with the administration and e...
+ESTIMATED TOKENS SENT: 84
+RESPONSE: {"ifc_type": ["BuildingElementProxy"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Factory and Industrial (F)", "Residential (R)"], "design_phase": ["cd", "ca"], "code_category": "site_planning", "primary_responsibility": "owner"}
+--------------------
+[2026-01-14T20:28:11.123182+00:00] Row Index: 12
+TITLE: Alternate Procedures
+BODY: The governing body of any city, county, or city and county may enact an ordinance prescribing an alt...
+ESTIMATED TOKENS SENT: 49
+RESPONSE: {"ifc_type": ["Slab", "Footing", "Wall"], "occupancy": ["Residential (R)"], "design_phase": ["sd", "dd", "cd"], "code_category": "site_planning", "primary_responsibility": "architect"}
+--------------------
+
+==================================================
+SUMMARY STATISTICS
+Total Rows Processed by AI: 6
+Total Estimated Tokens Sent: 577
+==================================================
+
+CSV Saved Successfully at 2026-01-14T20:28:12.978166+00:00

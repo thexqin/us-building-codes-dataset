@@ -1,0 +1,60 @@
+Log started: 2026-01-14T20:27:32.484825+00:00
+Source: download/california/iebc-2025/chapter-5-prescriptive-compliance-method.csv
+--------------------------------------------------
+
+[2026-01-14T20:27:32.489706+00:00] Row Index: 4
+TITLE: Existing State-Owned Structures
+BODY: [BSC] The provisions of Sections 317 through 322 establish minimum standards for earthquake evaluati...
+ESTIMATED TOKENS SENT: 86
+RESPONSE: {"ifc_type": ["Wall", "Column", "Beam", "Slab"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Institutional (I)"], "design_phase": ["sd", "dd", "cd"], "code_category": "structural_design", "primary_responsibility": "structural_engineer"}
+--------------------
+[2026-01-14T20:27:34.119028+00:00] Row Index: 7
+TITLE: Existing Group R Occupancies
+BODY: [SFM] See the California Residential Code for existing Group R-3 occupancies or Chapter 11 of the Ca...
+ESTIMATED TOKENS SENT: 38
+RESPONSE: {"ifc_type": ["BuildingElementProxy"], "occupancy": ["Residential (R)"], "design_phase": ["sd", "dd", "cd"], "code_category": "occupancy_classification", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T20:27:35.216208+00:00] Row Index: 8
+TITLE: Carbon Monoxide Alarms
+BODY: [HCD 1, SFM] Pursuant to Health and Safety Code Section 17926, carbon monoxide detection shall be pr...
+ESTIMATED TOKENS SENT: 60
+RESPONSE: {"ifc_type": ["BuildingElementProxy"], "occupancy": ["Residential (R)"], "design_phase": ["sd", "dd", "cd"], "code_category": "fire_protection_alarm_systems", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T20:27:36.585644+00:00] Row Index: 9
+TITLE: Carbon Monoxide Detection in Alterations to an Existing Group E Building
+BODY: Where the alteration adds any of the conditions identified in the California Fire Code Sections 915....
+ESTIMATED TOKENS SENT: 138
+RESPONSE: {"ifc_type": ["BuildingElementProxy"], "occupancy": ["Educational (E)"], "design_phase": ["sd", "dd", "cd"], "code_category": "fire_protection_alarm_systems", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T20:27:37.930290+00:00] Row Index: 17
+TITLE: Smoke Barriers in Group R-2.1
+BODY: Where an addition to an existing Group R-2.1 building adds sleeping areas that result in more than 5...
+ESTIMATED TOKENS SENT: 125
+RESPONSE: {"ifc_type": ["Wall", "Door", "BuildingElementProxy"], "occupancy": ["Residential (R)"], "design_phase": ["sd", "dd", "cd"], "code_category": "fire_resistance_smoke_protection", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T20:27:39.583382+00:00] Row Index: 35
+TITLE: Group R-2.1 Occupancies
+BODY: Group R-2.1 occupancies that are being altered and where the work area is greater than 50 percent of...
+ESTIMATED TOKENS SENT: 49
+RESPONSE: {"ifc_type": ["Wall", "Slab", "Door"], "occupancy": ["Residential (R)"], "design_phase": ["sd", "dd", "cd"], "code_category": "occupancy_classification", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T20:27:40.902044+00:00] Row Index: 36
+TITLE: Smoke Barriers in Group R-2.1, Condition 2
+BODY: In Group R-2.1 occupancies where the work area is on a story used for sleeping rooms for more than 3...
+ESTIMATED TOKENS SENT: 70
+RESPONSE: {"ifc_type": ["Wall"], "occupancy": ["Residential (R)"], "design_phase": ["sd", "dd", "cd"], "code_category": "fire_resistance_smoke_protection", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T20:27:42.631189+00:00] Row Index: 60
+TITLE: Change in Function
+BODY: [OSHPD 1R, 2, 4 and 5] A change in function shall require compliance with all the functional require...
+ESTIMATED TOKENS SENT: 128
+RESPONSE: {"ifc_type": ["Wall", "Door", "Slab", "Window", "BuildingElementProxy"], "occupancy": ["Institutional (I)", "Residential (R)", "Business (B)"], "design_phase": ["sd", "dd", "cd"], "code_category": "occupancy_classification", "primary_responsibility": "architect"}
+--------------------
+
+==================================================
+SUMMARY STATISTICS
+Total Rows Processed by AI: 8
+Total Estimated Tokens Sent: 694
+==================================================
+
+CSV Saved Successfully at 2026-01-14T20:27:44.713908+00:00

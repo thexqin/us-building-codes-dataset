@@ -1,0 +1,30 @@
+Log started: 2026-01-14T20:23:42.381312+00:00
+Source: download/alaska/ibc-2021/chapter-5-general-building-heights-and-areas.csv
+--------------------------------------------------
+
+[2026-01-14T20:23:42.384602+00:00] Row Index: 3
+TITLE: Location on Property
+BODY: Buildings must adjoin or have access to a permanent public way or yard on not less than one side. Re...
+ESTIMATED TOKENS SENT: 40
+RESPONSE: {"ifc_type": ["Wall", "Door", "Slab", "Footing"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Factory and Industrial (F)", "Residential (R)"], "design_phase": ["concept", "sd", "dd", "cd"], "code_category": "site_planning", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T20:23:43.851822+00:00] Row Index: 11
+TITLE: Occupied Roofs
+BODY: A roof level or portion thereof shall be permitted to be used as an occupied roof provided the occup...
+ESTIMATED TOKENS SENT: 273
+RESPONSE: {"ifc_type": ["Roof", "Slab", "Stair", "Railing", "Door"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Residential (R)", "Mercantile (M)"], "design_phase": ["sd", "dd", "cd"], "code_category": "building_height_area_limits", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T20:23:47.605173+00:00] Row Index: 12
+TITLE: Enclosures Over Occupied Roof Areas
+BODY: Elements or structures enclosing the occupied roof areas shall not extend more than 48 inches (1220 ...
+ESTIMATED TOKENS SENT: 62
+RESPONSE: {"ifc_type": ["Wall", "Roof", "BuildingElementProxy"], "occupancy": ["Assembly (A)", "Business (B)", "Residential (R)"], "design_phase": ["sd", "dd", "cd"], "code_category": "building_height_area_limits", "primary_responsibility": "architect"}
+--------------------
+
+==================================================
+SUMMARY STATISTICS
+Total Rows Processed by AI: 3
+Total Estimated Tokens Sent: 375
+==================================================
+
+CSV Saved Successfully at 2026-01-14T20:23:49.574703+00:00

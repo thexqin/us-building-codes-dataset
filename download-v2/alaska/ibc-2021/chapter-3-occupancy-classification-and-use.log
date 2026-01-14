@@ -1,0 +1,30 @@
+Log started: 2026-01-14T20:22:46.942689+00:00
+Source: download/alaska/ibc-2021/chapter-3-occupancy-classification-and-use.csv
+--------------------------------------------------
+
+[2026-01-14T20:22:46.955906+00:00] Row Index: 30
+TITLE: Family Child Care Homes
+BODY: Family child care homes occupied as their primary residence (Group R-3) operating between the hours ...
+ESTIMATED TOKENS SENT: 173
+RESPONSE: {"ifc_type": ["Door", "Window", "Stair", "Wall", "Slab"], "occupancy": ["Residential (R)"], "design_phase": ["sd", "dd", "cd"], "code_category": "means_of_egress", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T20:22:49.556137+00:00] Row Index: 32
+TITLE: Combination Shops
+BODY: Shop classrooms that combine wood working with any other fabrication using flame or causing spark sh...
+ESTIMATED TOKENS SENT: 46
+RESPONSE: {"ifc_type": ["Wall", "Door", "Slab"], "occupancy": ["Educational (E)", "Factory and Industrial (F)"], "design_phase": ["sd", "dd", "cd"], "code_category": "occupancy_classification", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T20:22:51.070684+00:00] Row Index: 40
+TITLE: Uses Other Than Group H
+BODY: An occupancy that stores, uses or handles hazardous materials as described in one or more of the fol...
+ESTIMATED TOKENS SENT: 546
+RESPONSE: {"ifc_type": ["BuildingElementProxy"], "occupancy": ["Business (B)", "Factory and Industrial (F)", "Mercantile (M)", "Residential (R)", "Storage (S)"], "design_phase": ["sd", "dd", "cd"], "code_category": "occupancy_classification", "primary_responsibility": "architect"}
+--------------------
+
+==================================================
+SUMMARY STATISTICS
+Total Rows Processed by AI: 3
+Total Estimated Tokens Sent: 765
+==================================================
+
+CSV Saved Successfully at 2026-01-14T20:22:54.013521+00:00

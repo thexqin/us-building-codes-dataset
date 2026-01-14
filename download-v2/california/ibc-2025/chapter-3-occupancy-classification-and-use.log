@@ -1,0 +1,114 @@
+Log started: 2026-01-14T20:26:16.639448+00:00
+Source: download/california/ibc-2025/chapter-3-occupancy-classification-and-use.csv
+--------------------------------------------------
+
+[2026-01-14T20:26:16.642772+00:00] Row Index: 5
+TITLE: Pharmacies; Veterinary Facilities; Barbering, Cosmetology or Electrolysis Establishments; And Acupuncture Offices
+BODY: See Chapter 12....
+ESTIMATED TOKENS SENT: 17
+RESPONSE: {"ifc_type": ["Wall", "Door", "Slab"], "occupancy": ["Business (B)", "Mercantile (M)"], "design_phase": ["sd", "dd", "cd"], "code_category": "occupancy_classification", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T20:26:18.529103+00:00] Row Index: 19
+TITLE: Fixed Guideway Transit Systems
+BODY: [SFM] Fixed guideway transit system buildings shall conform to the requirements of this code for the...
+ESTIMATED TOKENS SENT: 41
+RESPONSE: {"ifc_type": ["BuildingElementProxy", "Wall", "Slab", "Door"], "occupancy": ["Assembly (A)", "Business (B)"], "design_phase": ["sd", "dd", "cd"], "code_category": "occupancy_classification", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T20:26:20.980540+00:00] Row Index: 20
+TITLE: Subterranean Spaces for Winery Facilities in Natural or Manmade Caves
+BODY: [SFM] For fire and life safety requirements, see Section 446....
+ESTIMATED TOKENS SENT: 25
+RESPONSE: {"ifc_type": ["Wall", "Roof", "Slab", "BuildingElementProxy"], "occupancy": ["Factory and Industrial (F)", "Storage (S)"], "design_phase": ["sd", "dd", "cd"], "code_category": "fire_resistance_smoke_protection", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T20:26:22.382473+00:00] Row Index: 28
+TITLE: Group E, Child-Care Facilities
+BODY: This group includes buildings and structures or portions thereof occupied by more than six children ...
+ESTIMATED TOKENS SENT: 132
+RESPONSE: {"ifc_type": ["Wall", "Door", "Window"], "occupancy": ["Educational (E)", "Institutional (I)", "Residential (R)"], "design_phase": ["concept", "sd", "dd", "cd"], "code_category": "occupancy_classification", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T20:26:23.584826+00:00] Row Index: 53
+TITLE: Five or Fewer Persons Receiving Medical Care
+BODY: A facility with five or fewer persons receiving medical care shall be classified as Group R-3.1 or s...
+ESTIMATED TOKENS SENT: 70
+RESPONSE: {"ifc_type": ["Wall", "Door", "Slab"], "occupancy": ["Residential (R)", "Institutional (I)"], "design_phase": ["sd", "dd", "cd"], "code_category": "occupancy_classification", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T20:26:25.139882+00:00] Row Index: 60
+TITLE: Condition 6
+BODY: This occupancy condition shall include buildings containing only one temporary holding facility with...
+ESTIMATED TOKENS SENT: 97
+RESPONSE: {"ifc_type": ["Wall", "Door"], "occupancy": ["Business (B)", "Institutional (I)"], "design_phase": ["sd", "dd", "cd"], "code_category": "occupancy_classification", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T20:26:26.957161+00:00] Row Index: 61
+TITLE: Condition 7
+BODY: This occupancy condition shall include buildings containing only one temporary holding facility with...
+ESTIMATED TOKENS SENT: 69
+RESPONSE: {"ifc_type": ["BuildingElementProxy", "Door", "Slab"], "occupancy": ["Business (B)", "Institutional (I)"], "design_phase": ["sd", "dd", "cd"], "code_category": "occupancy_classification", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T20:26:28.225116+00:00] Row Index: 62
+TITLE: Condition 8
+BODY: This occupancy condition shall include buildings containing not more than four secure interview room...
+ESTIMATED TOKENS SENT: 80
+RESPONSE: {"ifc_type": ["Wall", "Door"], "occupancy": ["Business (B)"], "design_phase": ["sd", "dd", "cd"], "code_category": "occupancy_classification", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T20:26:29.949282+00:00] Row Index: 63
+TITLE: Condition 9
+BODY: This occupancy condition shall include buildings where the use of the building is for correctional m...
+ESTIMATED TOKENS SENT: 30
+RESPONSE: {"ifc_type": ["Wall", "Door", "Slab"], "occupancy": ["Institutional (I)"], "design_phase": ["concept", "sd", "dd", "cd"], "code_category": "occupancy_classification", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T20:26:31.337415+00:00] Row Index: 66
+TITLE: Special Provisions
+BODY: See Section 452.1.4 of the California Building Code for child care locations above or below the firs...
+ESTIMATED TOKENS SENT: 25
+RESPONSE: {"ifc_type": ["Stair", "Ramp", "Door", "Wall"], "occupancy": ["Educational (E)", "Institutional (I)"], "design_phase": ["sd", "dd", "cd"], "code_category": "special_construction", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T20:26:33.149372+00:00] Row Index: 69
+TITLE: Six or Fewer Persons Receiving Care in a Dwelling Unit
+BODY: A facility such as the above within a dwelling unit and having six or fewer persons receiving custod...
+ESTIMATED TOKENS SENT: 80
+RESPONSE: {"ifc_type": ["BuildingElementProxy", "Door", "Window"], "occupancy": ["Residential (R)", "Institutional (I)"], "design_phase": ["sd", "dd", "cd"], "code_category": "occupancy_classification", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T20:26:34.640148+00:00] Row Index: 78
+TITLE: Residential Group R-2.1
+BODY: Residential Group R-2.1 occupancies shall include buildings, structures or parts thereof housing cli...
+ESTIMATED TOKENS SENT: 169
+RESPONSE: {"ifc_type": ["BuildingElementProxy", "Wall", "Door", "Window"], "occupancy": ["Residential (R)", "Institutional (I)"], "design_phase": ["concept", "sd", "dd", "cd"], "code_category": "occupancy_classification", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T20:26:36.108738+00:00] Row Index: 79
+TITLE: Residential Group R-2.2 (CDCR Only)
+BODY: Residential occupancies operated by CDCR in a community located facility that provides housing and c...
+ESTIMATED TOKENS SENT: 42
+RESPONSE: {"ifc_type": ["Wall", "Door", "Window"], "occupancy": ["Residential (R)"], "design_phase": ["sd", "dd", "cd"], "code_category": "occupancy_classification", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T20:26:37.418764+00:00] Row Index: 81
+TITLE: Residential Group R-3.1
+BODY: This occupancy group may include facilities licensed by a governmental agency for a residentially ba...
+ESTIMATED TOKENS SENT: 396
+RESPONSE: {"ifc_type": ["Wall", "Door", "Window"], "occupancy": ["Residential (R)"], "design_phase": ["concept", "sd", "dd", "cd"], "code_category": "occupancy_classification", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T20:26:38.758375+00:00] Row Index: 84
+TITLE: Large Family Day-Care Homes
+BODY: See Section 455....
+ESTIMATED TOKENS SENT: 8
+RESPONSE: {"ifc_type": ["Wall", "Door", "Window"], "occupancy": ["Residential (R)", "Institutional (I)"], "design_phase": ["sd", "dd", "cd"], "code_category": "occupancy_classification", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T20:26:39.941957+00:00] Row Index: 100
+TITLE: Group L Laboratories
+BODY: [SFM] Group L occupancy includes the use of a building or structure, or a portion thereof, containin...
+ESTIMATED TOKENS SENT: 38
+RESPONSE: {"ifc_type": ["BuildingElementProxy"], "occupancy": ["High Hazard (H)"], "design_phase": ["concept", "sd", "dd", "cd"], "code_category": "occupancy_classification", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T20:26:41.160989+00:00] Row Index: 102
+TITLE: Organized Camps Group C
+BODY: [SFM] An organized camp is a site with programs and facilities established for the primary purpose o...
+ESTIMATED TOKENS SENT: 61
+RESPONSE: {"ifc_type": ["BuildingElementProxy", "Slab", "Wall"], "occupancy": ["Residential (R)", "Assembly (A)", "Institutional (I)"], "design_phase": ["concept", "sd", "dd"], "code_category": "occupancy_classification", "primary_responsibility": "architect"}
+--------------------
+
+==================================================
+SUMMARY STATISTICS
+Total Rows Processed by AI: 17
+Total Estimated Tokens Sent: 1380
+==================================================
+
+CSV Saved Successfully at 2026-01-14T20:26:42.699650+00:00

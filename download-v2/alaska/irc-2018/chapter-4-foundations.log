@@ -1,0 +1,24 @@
+Log started: 2026-01-14T20:25:41.983839+00:00
+Source: download/alaska/irc-2018/chapter-4-foundations.csv
+--------------------------------------------------
+
+[2026-01-14T20:25:41.992382+00:00] Row Index: 21
+TITLE: Footing and Stem Wall Reinforcing in Seismic Design Categories D0, D1, and D2
+BODY: Concrete footings located in Seismic Design Categories D0, D1 and D2, as established in Table R301.2...
+ESTIMATED TOKENS SENT: 176
+RESPONSE: {"ifc_type": ["Footing", "Wall"], "occupancy": ["Residential (R)", "Business (B)", "Assembly (A)", "Educational (E)", "Institutional (I)"], "design_phase": ["sd", "dd", "cd"], "code_category": "structural_design", "primary_responsibility": "structural_engineer"}
+--------------------
+[2026-01-14T20:25:44.468713+00:00] Row Index: 132
+TITLE: Ventilation
+BODY: The under-floor space between the bottom of the floor joists and the earth under any building (excep...
+ESTIMATED TOKENS SENT: 169
+RESPONSE: {"ifc_type": ["Slab", "Wall"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Residential (R)", "Storage (S)"], "design_phase": ["sd", "dd", "cd"], "code_category": "interior_environment", "primary_responsibility": "architect"}
+--------------------
+
+==================================================
+SUMMARY STATISTICS
+Total Rows Processed by AI: 2
+Total Estimated Tokens Sent: 345
+==================================================
+
+CSV Saved Successfully at 2026-01-14T20:25:46.009153+00:00

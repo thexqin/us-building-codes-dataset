@@ -1,0 +1,54 @@
+Log started: 2026-01-14T20:24:51.234542+00:00
+Source: download/alaska/iebc-2021/chapter-4-repairs.csv
+--------------------------------------------------
+
+[2026-01-14T20:24:51.238656+00:00] Row Index: 3
+TITLE: Bleachers, Grandstands and Folding and Telescopic Seating
+BODY: Repairs to existing bleachers, grandstands and folding and telescopic seating shall comply with ICC ...
+ESTIMATED TOKENS SENT: 28
+RESPONSE: {"ifc_type": ["Stair", "BuildingElementProxy"], "occupancy": ["Assembly (A)"], "design_phase": ["sd", "dd", "cd"], "code_category": "special_construction", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T20:24:53.358817+00:00] Row Index: 27
+TITLE: Material
+BODY: Existing electrical wiring and equipment undergoing repair shall be allowed to be repaired or replac...
+ESTIMATED TOKENS SENT: 24
+RESPONSE: {"ifc_type": ["BuildingElementProxy"], "occupancy": ["Business (B)", "Assembly (A)", "Residential (R)"], "design_phase": ["cd", "ca"], "code_category": "electrical_systems", "primary_responsibility": "electrical_engineer"}
+--------------------
+[2026-01-14T20:24:55.021892+00:00] Row Index: 28
+TITLE: Receptacles
+BODY: Replacement of electrical receptacles shall comply with the applicable requirements of Section 406.4...
+ESTIMATED TOKENS SENT: 37
+RESPONSE: {"ifc_type": ["BuildingElementProxy"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Factory and Industrial (F)", "Residential (R)"], "design_phase": ["cd", "ca"], "code_category": "electrical_systems", "primary_responsibility": "electrical_engineer"}
+--------------------
+[2026-01-14T20:24:57.306280+00:00] Row Index: 29
+TITLE: Plug Fuses
+BODY: Plug fuses of the Edison-base type shall be used for replacements only where there is no evidence of...
+ESTIMATED TOKENS SENT: 58
+RESPONSE: {"ifc_type": ["BuildingElementProxy"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Factory and Industrial (F)", "Residential (R)"], "design_phase": ["cd", "ca"], "code_category": "electrical_systems", "primary_responsibility": "electrical_engineer"}
+--------------------
+[2026-01-14T20:24:58.710019+00:00] Row Index: 30
+TITLE: Nongrounding-Type Receptacles
+BODY: For replacement of nongrounding-type receptacles with grounding-type receptacles and for branch circ...
+ESTIMATED TOKENS SENT: 104
+RESPONSE: {"ifc_type": ["BuildingElementProxy"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Factory and Industrial (F)", "Residential (R)"], "design_phase": ["cd", "ca"], "code_category": "electrical_systems", "primary_responsibility": "electrical_engineer"}
+--------------------
+[2026-01-14T20:24:59.982298+00:00] Row Index: 31
+TITLE: Health Care Facilities
+BODY: Portions of electrical systems being repaired in Group I-2, ambulatory care facilities and outpatien...
+ESTIMATED TOKENS SENT: 33
+RESPONSE: {"ifc_type": ["BuildingElementProxy"], "occupancy": ["Institutional (I)"], "design_phase": ["dd", "cd", "ca"], "code_category": "electrical_systems", "primary_responsibility": "electrical_engineer"}
+--------------------
+[2026-01-14T20:25:01.577406+00:00] Row Index: 32
+TITLE: Grounding of Appliances
+BODY: Frames of electric ranges, wall-mounted ovens, counter-mounted cooking units, clothes dryers and out...
+ESTIMATED TOKENS SENT: 80
+RESPONSE: {"ifc_type": ["BuildingElementProxy"], "occupancy": ["Residential (R)", "Business (B)", "Assembly (A)", "Institutional (I)"], "design_phase": ["cd", "ca"], "code_category": "electrical_systems", "primary_responsibility": "electrical_engineer"}
+--------------------
+
+==================================================
+SUMMARY STATISTICS
+Total Rows Processed by AI: 7
+Total Estimated Tokens Sent: 364
+==================================================
+
+CSV Saved Successfully at 2026-01-14T20:25:04.442659+00:00

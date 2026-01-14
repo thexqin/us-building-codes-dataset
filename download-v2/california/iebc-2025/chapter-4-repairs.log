@@ -1,0 +1,36 @@
+Log started: 2026-01-14T20:27:25.438505+00:00
+Source: download/california/iebc-2025/chapter-4-repairs.csv
+--------------------------------------------------
+
+[2026-01-14T20:27:25.442810+00:00] Row Index: 4
+TITLE: Scope
+BODY: [BSC] For state-owned buildings, including those owned by the University of California and the Calif...
+ESTIMATED TOKENS SENT: 50
+RESPONSE: {"ifc_type": ["BuildingElementProxy"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Institutional (I)", "Residential (R)"], "design_phase": ["sd", "dd", "cd"], "code_category": "occupancy_classification", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T20:27:27.018016+00:00] Row Index: 9
+TITLE: Existing Materials
+BODY: [HCD] Existing materials shall comply with Section 302.3....
+ESTIMATED TOKENS SENT: 12
+RESPONSE: {"ifc_type": ["Wall", "Slab", "Roof"], "occupancy": ["Assembly (A)", "Business (B)", "Residential (R)"], "design_phase": ["sd", "dd", "cd"], "code_category": "assemblies_envelope", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T20:27:28.540214+00:00] Row Index: 10
+TITLE: New and Replacement Materials
+BODY: [HCD &amp; HCD 2] New and replacement materials used for repairs shall comply with Section 302.4....
+ESTIMATED TOKENS SENT: 25
+RESPONSE: {"ifc_type": ["Wall", "Slab", "Roof", "Door", "Window"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Factory and Industrial (F)", "Residential (R)"], "design_phase": ["cd", "ca"], "code_category": "finishes_materials", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T20:27:31.015123+00:00] Row Index: 30
+TITLE: Electrical
+BODY: [OSHPD 1R, 2, 4 &amp; 5] Not adopted by OSHPD. Existing electrical wiring and equipment undergoing r...
+ESTIMATED TOKENS SENT: 40
+RESPONSE: {"ifc_type": ["BuildingElementProxy"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Factory and Industrial (F)", "Institutional (I)"], "design_phase": ["cd", "ca"], "code_category": "electrical_systems", "primary_responsibility": "electrical_engineer"}
+--------------------
+
+==================================================
+SUMMARY STATISTICS
+Total Rows Processed by AI: 4
+Total Estimated Tokens Sent: 127
+==================================================
+
+CSV Saved Successfully at 2026-01-14T20:27:32.477762+00:00

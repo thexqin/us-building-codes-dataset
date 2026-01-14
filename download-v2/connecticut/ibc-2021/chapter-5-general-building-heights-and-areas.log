@@ -1,0 +1,30 @@
+Log started: 2026-01-14T20:30:27.181345+00:00
+Source: download/connecticut/ibc-2021/chapter-5-general-building-heights-and-areas.csv
+--------------------------------------------------
+
+[2026-01-14T20:30:27.188649+00:00] Row Index: 10
+TITLE: Occupied Roofs
+BODY: A roof level or portion thereof shall be permitted to be used as an occupied roof provided the occup...
+ESTIMATED TOKENS SENT: 273
+RESPONSE: {"ifc_type": ["Roof", "Slab", "Stair", "Ramp", "Door"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Mercantile (M)", "Residential (R)"], "design_phase": ["sd", "dd", "cd"], "code_category": "building_height_area_limits", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T20:30:28.985707+00:00] Row Index: 11
+TITLE: Enclosures Over Occupied Roof Areas
+BODY: Elements or structures enclosing the occupied roof areas shall not extend more than 48 inches (1220 ...
+ESTIMATED TOKENS SENT: 62
+RESPONSE: {"ifc_type": ["Wall", "Roof", "BuildingElementProxy"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Residential (R)"], "design_phase": ["sd", "dd", "cd"], "code_category": "building_height_area_limits", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T20:30:30.577208+00:00] Row Index: 19
+TITLE: Group R-1 Bed and Breakfast Establishments
+BODY: The height limitation for existing unsprinklered buildings of Type VB construction undergoing a chan...
+ESTIMATED TOKENS SENT: 113
+RESPONSE: {"ifc_type": ["Slab", "Plate", "Wall", "Column"], "occupancy": ["Residential (R)"], "design_phase": ["sd", "dd", "cd"], "code_category": "building_height_area_limits", "primary_responsibility": "architect"}
+--------------------
+
+==================================================
+SUMMARY STATISTICS
+Total Rows Processed by AI: 3
+Total Estimated Tokens Sent: 448
+==================================================
+
+CSV Saved Successfully at 2026-01-14T20:30:31.952590+00:00
