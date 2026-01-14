@@ -1,0 +1,78 @@
+Log started: 2026-01-14T16:02:43.004133+00:00
+Source: download/florida/ibc-2023/chapter-5-general-building-heights-and-areas.csv
+--------------------------------------------------
+
+[2026-01-14T16:02:43.009937+00:00] Row Index: 3
+TITLE: Address Identification
+BODY: New and existing buildings shall be provided with approved address identification. The address ident...
+ESTIMATED TOKENS SENT: 186
+RESPONSE: {"ifc_type": ["BuildingElementProxy"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Factory and Industrial (F)", "Residential (R)"], "design_phase": ["sd", "dd", "cd"], "code_category": "site_planning", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T16:02:44.330766+00:00] Row Index: 5
+TITLE: Definitions
+BODY: The following terms are defined in Chapter 2:AREA, BUILDING.BASEMENT.EQUIPMENT PLATFORM.GRADE PLANE....
+ESTIMATED TOKENS SENT: 16
+RESPONSE: {"ifc_type": ["Slab", "BuildingElementProxy"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Factory and Industrial (F)", "Residential (R)"], "design_phase": ["concept", "sd", "dd", "cd"], "code_category": "occupancy_classification", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T16:02:45.921484+00:00] Row Index: 11
+TITLE: Occupied Roofs
+BODY: A roof level or portion thereof shall be permitted to be used as an occupied roof provided the occup...
+ESTIMATED TOKENS SENT: 281
+RESPONSE: {"ifc_type": ["Roof", "Slab", "Covering"], "occupancy": ["Assembly (A)", "Business (B)", "Mercantile (M)", "Residential (R)"], "design_phase": ["sd", "dd", "cd"], "code_category": "building_height_area_limits", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T16:02:47.618872+00:00] Row Index: 35
+TITLE: Single-Occupancy, One-Story Buildings
+BODY: The allowable area of a single-occupancy building with no more than one story above grade plane shal...
+ESTIMATED TOKENS SENT: 120
+RESPONSE: {"ifc_type": ["Wall", "Slab", "Roof"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Factory and Industrial (F)", "High Hazard (H)"], "design_phase": ["concept", "sd", "dd"], "code_category": "building_height_area_limits", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T16:02:49.010971+00:00] Row Index: 36
+TITLE: Mixed-Occupancy, One-Story Buildings
+BODY: The allowable area of a mixed-occupancy building with no more than one story above grade plane shall...
+ESTIMATED TOKENS SENT: 50
+RESPONSE: {"ifc_type": ["Wall", "Slab", "Roof"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Mercantile (M)", "Residential (R)"], "design_phase": ["sd", "dd", "cd"], "code_category": "building_height_area_limits", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T16:02:51.458184+00:00] Row Index: 38
+TITLE: Single-Occupancy, Multistory Buildings
+BODY: The allowable area of a single-occupancy building with more than one story above grade plane shall b...
+ESTIMATED TOKENS SENT: 205
+RESPONSE: {"ifc_type": ["Wall", "Slab", "Column", "Stair", "Roof"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Residential (R)", "Mercantile (M)"], "design_phase": ["sd", "dd", "cd"], "code_category": "building_height_area_limits", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T16:02:54.535610+00:00] Row Index: 39
+TITLE: Mixed-Occupancy, Multistory Buildings
+BODY: Each story of a mixed-occupancy building with more than one story above grade plane shall individual...
+ESTIMATED TOKENS SENT: 292
+RESPONSE: {"ifc_type": ["Wall", "Slab", "Column"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Mercantile (M)", "Residential (R)"], "design_phase": ["sd", "dd", "cd"], "code_category": "building_height_area_limits", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T16:02:59.392456+00:00] Row Index: 40
+TITLE: Group H-2 or H-3 Mixed Occupancies
+BODY: For a building containing Group H-2 or H-3 occupancies, the allowable area shall be determined in ac...
+ESTIMATED TOKENS SENT: 60
+RESPONSE: {"ifc_type": ["Wall", "Slab", "Door"], "occupancy": ["High Hazard (H)"], "design_phase": ["sd", "dd", "cd"], "code_category": "building_height_area_limits", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T16:03:00.861315+00:00] Row Index: 80
+TITLE: Allowable Building Area and Height
+BODY: The allowable building area and height of the building or portion thereof shall be based on the most...
+ESTIMATED TOKENS SENT: 57
+RESPONSE: {"ifc_type": ["Wall", "Slab", "Roof"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Residential (R)", "Mercantile (M)"], "design_phase": ["concept", "sd", "dd", "cd"], "code_category": "building_height_area_limits", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T16:03:02.857348+00:00] Row Index: 85
+TITLE: Allowable Height
+BODY: Each separated occupancy shall comply with the building height limitations based on the type of cons...
+ESTIMATED TOKENS SENT: 56
+RESPONSE: {"ifc_type": ["Wall", "Column", "Slab"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Factory and Industrial (F)", "Residential (R)"], "design_phase": ["sd", "dd", "cd"], "code_category": "building_height_area_limits", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T16:03:05.234551+00:00] Row Index: 100
+TITLE: Incidental Uses
+BODY: TABLE 509.1INCIDENTAL USES ROOM OR AREA SEPARATION AND/OR PROTECTION Furnace room where any piece of...
+ESTIMATED TOKENS SENT: 540
+RESPONSE: {"ifc_type": ["Wall", "Door", "Slab", "BuildingElementProxy"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Institutional (I)", "Residential (R)"], "design_phase": ["sd", "dd", "cd"], "code_category": "fire_resistance_smoke_protection", "primary_responsibility": "architect"}
+--------------------
+
+==================================================
+SUMMARY STATISTICS
+Total Rows Processed by AI: 11
+Total Estimated Tokens Sent: 1863
+==================================================
+
+CSV Saved Successfully at 2026-01-14T16:03:08.418871+00:00

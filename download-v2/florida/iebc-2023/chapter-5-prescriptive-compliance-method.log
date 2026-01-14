@@ -1,0 +1,348 @@
+Log started: 2026-01-14T16:07:33.049871+00:00
+Source: download/florida/iebc-2023/chapter-5-prescriptive-compliance-method.csv
+--------------------------------------------------
+
+[2026-01-14T16:07:33.054952+00:00] Row Index: 5
+TITLE: New and Replacement Materials
+BODY: Except as otherwise required or permitted by this code, materials permitted by the applicable code f...
+ESTIMATED TOKENS SENT: 88
+RESPONSE: {"ifc_type": ["Wall", "Slab", "Roof", "Door", "Window"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Residential (R)", "Mercantile (M)"], "design_phase": ["sd", "dd", "cd"], "code_category": "finishes_materials", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T16:07:34.856754+00:00] Row Index: 6
+TITLE: Dangerous Conditions
+BODY: The building official shall have the authority to require the elimination of conditions deemed dange...
+ESTIMATED TOKENS SENT: 21
+RESPONSE: {"ifc_type": ["Wall", "Slab", "Roof", "Door"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Residential (R)", "Mercantile (M)"], "design_phase": ["cd", "ca"], "code_category": "fire_protection_alarm_systems", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T16:07:36.977094+00:00] Row Index: 11
+TITLE: Design Live Load
+BODY: Where the addition does not result in increased design live load, existing gravity load-carrying str...
+ESTIMATED TOKENS SENT: 133
+RESPONSE: {"ifc_type": ["Beam", "Column", "Slab"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Residential (R)", "Mercantile (M)"], "design_phase": ["sd", "dd", "cd"], "code_category": "structural_design", "primary_responsibility": "structural_engineer"}
+--------------------
+[2026-01-14T16:07:38.980702+00:00] Row Index: 13
+TITLE: Smoke Alarms in Existing Portions of a Building
+BODY: Where an addition is made to a building or structure of a Group R or I-1 occupancy, the existing bui...
+ESTIMATED TOKENS SENT: 54
+RESPONSE: {"ifc_type": ["BuildingElementProxy"], "occupancy": ["Residential (R)", "Institutional (I)"], "design_phase": ["sd", "dd", "cd"], "code_category": "fire_protection_alarm_systems", "primary_responsibility": "fire_protection_engineer"}
+--------------------
+[2026-01-14T16:07:41.908203+00:00] Row Index: 14
+TITLE: Carbon Monoxide Protection
+BODY: An addition to an existing building shall be equipped with carbon monoxide alarms in accordance with...
+ESTIMATED TOKENS SENT: 56
+RESPONSE: {"ifc_type": ["BuildingElementProxy"], "occupancy": ["Residential (R)", "Assembly (A)", "Business (B)", "Educational (E)", "Institutional (I)"], "design_phase": ["sd", "dd", "cd"], "code_category": "fire_protection_alarm_systems", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T16:07:43.681588+00:00] Row Index: 15
+TITLE: Enhanced Classroom Acoustics
+BODY: In Group E occupancies, enhanced classroom acoustics shall be provided in all classrooms in the addi...
+ESTIMATED TOKENS SENT: 58
+RESPONSE: {"ifc_type": ["Wall", "Slab", "Door", "Window"], "occupancy": ["Educational (E)"], "design_phase": ["sd", "dd", "cd"], "code_category": "interior_environment", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T16:07:45.776057+00:00] Row Index: 20
+TITLE: Design Live Load
+BODY: Where the alteration does not result in increased design live load, existing gravity load-carrying s...
+ESTIMATED TOKENS SENT: 133
+RESPONSE: {"ifc_type": ["Slab", "Beam", "Column", "Footing"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Factory and Industrial (F)", "Residential (R)"], "design_phase": ["sd", "dd", "cd"], "code_category": "structural_design", "primary_responsibility": "structural_engineer"}
+--------------------
+[2026-01-14T16:07:48.309860+00:00] Row Index: 22
+TITLE: Bracing for Unreinforced Masonry Parapets Upon Reroofing
+BODY: Reserved....
+ESTIMATED TOKENS SENT: 9
+RESPONSE: {"ifc_type": ["Wall", "Roof"], "occupancy": ["Business (B)", "Educational (E)", "Factory and Industrial (F)", "Residential (R)", "Assembly (A)"], "design_phase": ["sd", "dd", "cd"], "code_category": "structural_design", "primary_responsibility": "structural_engineer"}
+--------------------
+[2026-01-14T16:07:50.454477+00:00] Row Index: 23
+TITLE: Wall Anchorage for Unreinforced Masonry Walls in Major Alterations
+BODY: Reserved....
+ESTIMATED TOKENS SENT: 12
+RESPONSE: {"ifc_type": ["Wall", "Bearing"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Residential (R)", "Institutional (I)"], "design_phase": ["sd", "dd", "cd"], "code_category": "structural_design", "primary_responsibility": "structural_engineer"}
+--------------------
+[2026-01-14T16:07:52.899334+00:00] Row Index: 24
+TITLE: Bracing for Unreinforced Masonry Parapets in Major Alterations
+BODY: Reserved....
+ESTIMATED TOKENS SENT: 10
+RESPONSE: {"ifc_type": ["Wall", "BuildingElementProxy", "Roof"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Residential (R)", "Mercantile (M)"], "design_phase": ["sd", "dd", "cd"], "code_category": "structural_design", "primary_responsibility": "structural_engineer"}
+--------------------
+[2026-01-14T16:07:54.565978+00:00] Row Index: 25
+TITLE: Roof Diaphragms Resisting Wind Loads in High-Wind Regions
+BODY: Where the structural roof deck is removed from more than 30 percent of the structural diaphragm of a...
+ESTIMATED TOKENS SENT: 220
+RESPONSE: {"ifc_type": ["Roof", "Slab", "Beam", "Column"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Residential (R)", "Mercantile (M)"], "design_phase": ["sd", "dd", "cd"], "code_category": "structural_design", "primary_responsibility": "structural_engineer"}
+--------------------
+[2026-01-14T16:07:56.999247+00:00] Row Index: 26
+TITLE: Voluntary Lateral Force-Resisting System Alterations
+BODY: Structural alterations that are intended exclusively to improve the lateral force-resisting system a...
+ESTIMATED TOKENS SENT: 140
+RESPONSE: {"ifc_type": ["Beam", "Column", "Slab", "Wall", "Footing"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Residential (R)", "Storage (S)"], "design_phase": ["sd", "dd", "cd"], "code_category": "structural_design", "primary_responsibility": "structural_engineer"}
+--------------------
+[2026-01-14T16:07:58.551285+00:00] Row Index: 27
+TITLE: Substantial Structural Alteration
+BODY: Where the work area exceeds 50 percent of the building area and work involves a substantial structur...
+ESTIMATED TOKENS SENT: 134
+RESPONSE: {"ifc_type": ["Wall", "Column", "Beam", "Slab", "BuildingElementProxy"], "occupancy": ["Residential (R)", "Business (B)", "Assembly (A)", "Institutional (I)", "Mercantile (M)"], "design_phase": ["sd", "dd", "cd"], "code_category": "structural_design", "primary_responsibility": "structural_engineer"}
+--------------------
+[2026-01-14T16:08:02.762385+00:00] Row Index: 28
+TITLE: Smoke Alarms
+BODY: Individual sleeping units and individual dwelling units in Group R and I-1 occupancies shall be prov...
+ESTIMATED TOKENS SENT: 37
+RESPONSE: {"ifc_type": ["BuildingElementProxy", "Door", "Wall"], "occupancy": ["Residential (R)", "Institutional (I)"], "design_phase": ["sd", "dd", "cd"], "code_category": "fire_protection_alarm_systems", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T16:08:04.160320+00:00] Row Index: 29
+TITLE: Smoke Compartments
+BODY: In Group I-2 occupancies where the alteration is on a story used for sleeping rooms for more than 30...
+ESTIMATED TOKENS SENT: 70
+RESPONSE: {"ifc_type": ["Wall", "BuildingElementProxy"], "occupancy": ["Institutional (I)"], "design_phase": ["sd", "dd", "cd"], "code_category": "fire_resistance_smoke_protection", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T16:08:05.564865+00:00] Row Index: 30
+TITLE: Refuge Areas
+BODY: Where alterations affect the configuration of an area utilized as a refuge area, the capacity of the...
+ESTIMATED TOKENS SENT: 126
+RESPONSE: {"ifc_type": ["Wall", "Door", "Slab"], "occupancy": ["Institutional (I)", "Business (B)"], "design_phase": ["sd", "dd", "cd"], "code_category": "means_of_egress", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T16:08:07.371633+00:00] Row Index: 31
+TITLE: Smoke Alarms in One-Family and Two-Family Dwellings and Townhomes
+BODY: One-family and two-family dwellings and townhomes undergoing a repair, or a Level 1 alteration as de...
+ESTIMATED TOKENS SENT: 224
+RESPONSE: {"ifc_type": ["BuildingElementProxy"], "occupancy": ["Residential (R)"], "design_phase": ["cd", "ca"], "code_category": "fire_protection_alarm_systems", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T16:08:09.079419+00:00] Row Index: 32
+TITLE: Enhanced Classroom Acoustics
+BODY: In Group E occupancies, where the work area exceeds 50 percent of the building area, enhanced classr...
+ESTIMATED TOKENS SENT: 69
+RESPONSE: {"ifc_type": ["Wall", "Slab", "Ceiling", "Door", "Window"], "occupancy": ["Educational (E)"], "design_phase": ["sd", "dd", "cd"], "code_category": "interior_environment", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T16:08:10.349824+00:00] Row Index: 33
+TITLE: Locking Arrangements in Educational Occupancies
+BODY: In Group E occupancies, Group B educational occupancies and Group I-4 occupancies, egress doors with...
+ESTIMATED TOKENS SENT: 53
+RESPONSE: {"ifc_type": ["Door"], "occupancy": ["Educational (E)", "Business (B)", "Institutional (I)"], "design_phase": ["sd", "dd", "cd"], "code_category": "means_of_egress", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T16:08:11.718204+00:00] Row Index: 34
+TITLE: Two-Way Communications Systems
+BODY: Where the work area for alterations exceeds 50 percent of the building area and the building has ele...
+ESTIMATED TOKENS SENT: 48
+RESPONSE: {"ifc_type": ["Elevator", "Door"], "occupancy": ["Business (B)", "Educational (E)", "Institutional (I)", "Residential (R)"], "design_phase": ["sd", "dd", "cd"], "code_category": "accessibility", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T16:08:13.483839+00:00] Row Index: 46
+TITLE: Replacement Glass
+BODY: The installation or replacement of glass shall be as required for new installations....
+ESTIMATED TOKENS SENT: 18
+RESPONSE: {"ifc_type": ["Window", "Door", "CurtainWall", "ShadingDevice"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Mercantile (M)", "Residential (R)"], "design_phase": ["dd", "cd", "ca"], "code_category": "finishes_materials", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T16:08:15.263421+00:00] Row Index: 51
+TITLE: Conformance
+BODY: No change shall be made in the use or occupancy of any building unless such building is made to comp...
+ESTIMATED TOKENS SENT: 265
+RESPONSE: {"ifc_type": ["BuildingElementProxy"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Factory and Industrial (F)", "High Hazard (H)"], "design_phase": ["sd", "dd", "cd"], "code_category": "occupancy_classification", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T16:08:16.982017+00:00] Row Index: 56
+TITLE: Enhanced Classroom Acoustics
+BODY: In Group E occupancies, where the work area exceeds 50 percent of the building area, enhanced classr...
+ESTIMATED TOKENS SENT: 69
+RESPONSE: {"ifc_type": ["Wall", "Slab", "Ceiling", "Door"], "occupancy": ["Educational (E)"], "design_phase": ["sd", "dd", "cd"], "code_category": "interior_environment", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T16:08:21.371460+00:00] Row Index: 57
+TITLE: Historic Buildings
+BODY: See Chapter 12...
+ESTIMATED TOKENS SENT: 5
+RESPONSE: {"ifc_type": ["Wall", "Roof", "Covering"], "occupancy": ["Assembly (A)", "Business (B)", "Residential (R)"], "design_phase": ["sd", "dd", "cd"], "code_category": "special_construction", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T16:08:24.344575+00:00] Row Index: 59
+TITLE: Conformance
+BODY: See Chapter 13....
+ESTIMATED TOKENS SENT: 4
+RESPONSE: {"ifc_type": ["BuildingElementProxy"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Factory and Industrial (F)", "Residential (R)"], "design_phase": ["cd", "ca"], "code_category": "occupancy_classification", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T16:08:27.206217+00:00] Row Index: 61
+TITLE: Scope
+BODY: See the provisions of the Florida Building Code, Accessibility....
+ESTIMATED TOKENS SENT: 12
+RESPONSE: {"ifc_type": ["Door", "Ramp", "Stair", "Window", "Slab"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Factory and Industrial (F)", "Residential (R)"], "design_phase": ["sd", "dd", "cd"], "code_category": "accessibility", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T16:08:30.062464+00:00] Row Index: 62
+TITLE: Maintenance of Facilities
+BODY: Reserved....
+ESTIMATED TOKENS SENT: 4
+RESPONSE: {"ifc_type": ["BuildingElementProxy"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Factory and Industrial (F)", "Residential (R)"], "design_phase": ["ca"], "code_category": "interior_environment", "primary_responsibility": "owner"}
+--------------------
+[2026-01-14T16:08:32.187462+00:00] Row Index: 63
+TITLE: Extent of Application
+BODY: Reserved....
+ESTIMATED TOKENS SENT: 4
+RESPONSE: {"ifc_type": ["BuildingElementProxy"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Factory and Industrial (F)", "High Hazard (H)"], "design_phase": ["concept", "sd", "dd", "cd"], "code_category": "occupancy_classification", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T16:08:34.494567+00:00] Row Index: 64
+TITLE: Change of Occupancy
+BODY: Reserved....
+ESTIMATED TOKENS SENT: 4
+RESPONSE: {"ifc_type": ["BuildingElementProxy"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Factory and Industrial (F)", "Residential (R)"], "design_phase": ["sd", "dd", "cd"], "code_category": "occupancy_classification", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T16:08:36.567556+00:00] Row Index: 65
+TITLE: Partial Change in Occupancy
+BODY: Reserved....
+ESTIMATED TOKENS SENT: 5
+RESPONSE: {"ifc_type": ["Wall", "Door", "Slab"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Mercantile (M)", "Residential (R)"], "design_phase": ["sd", "dd", "cd"], "code_category": "occupancy_classification", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T16:08:38.017150+00:00] Row Index: 66
+TITLE: Complete Change of Occupancy
+BODY: Reserved....
+ESTIMATED TOKENS SENT: 5
+RESPONSE: {"ifc_type": ["BuildingElementProxy"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Factory and Industrial (F)", "High Hazard (H)"], "design_phase": ["sd", "dd", "cd"], "code_category": "occupancy_classification", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T16:08:40.137928+00:00] Row Index: 67
+TITLE: Additions
+BODY: Reserved....
+ESTIMATED TOKENS SENT: 1
+RESPONSE: {"ifc_type": ["Wall", "Slab"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Factory and Industrial (F)", "Residential (R)"], "design_phase": ["sd", "dd", "cd"], "code_category": "site_planning", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T16:08:42.017686+00:00] Row Index: 68
+TITLE: Alterations
+BODY: Reserved....
+ESTIMATED TOKENS SENT: 1
+RESPONSE: {"ifc_type": ["BuildingElementProxy"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Factory and Industrial (F)", "High Hazard (H)"], "design_phase": ["sd", "dd", "cd"], "code_category": "special_construction", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T16:08:43.805099+00:00] Row Index: 69
+TITLE: Alterations Affecting an Area Containing a Primary Function
+BODY: Reserved....
+ESTIMATED TOKENS SENT: 10
+RESPONSE: {"ifc_type": ["BuildingElementProxy"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Mercantile (M)", "Residential (R)"], "design_phase": ["sd", "dd", "cd"], "code_category": "accessibility", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T16:08:45.722889+00:00] Row Index: 70
+TITLE: Scoping for Alterations
+BODY: Reserved....
+ESTIMATED TOKENS SENT: 4
+RESPONSE: {"ifc_type": ["Wall", "Door", "Window"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Residential (R)", "Mercantile (M)"], "design_phase": ["sd", "dd", "cd"], "code_category": "accessibility", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T16:08:48.609227+00:00] Row Index: 71
+TITLE: Entrances
+BODY: Reserved....
+ESTIMATED TOKENS SENT: 1
+RESPONSE: {"ifc_type": ["Door"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Mercantile (M)", "Residential (R)"], "design_phase": ["sd", "dd", "cd"], "code_category": "accessibility", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T16:08:49.843069+00:00] Row Index: 72
+TITLE: Elevators
+BODY: Reserved....
+ESTIMATED TOKENS SENT: 1
+RESPONSE: {"ifc_type": ["Elevator"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Institutional (I)", "Residential (R)"], "design_phase": ["sd", "dd", "cd"], "code_category": "elevators_conveying_systems", "primary_responsibility": "elevator_consultant"}
+--------------------
+[2026-01-14T16:08:51.262687+00:00] Row Index: 73
+TITLE: Platform Lifts
+BODY: Reserved....
+ESTIMATED TOKENS SENT: 2
+RESPONSE: {"ifc_type": ["Elevator"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Institutional (I)", "Residential (R)"], "design_phase": ["sd", "dd", "cd"], "code_category": "accessibility", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T16:08:52.862983+00:00] Row Index: 74
+TITLE: Stairways and Escalators in Existing Buildings
+BODY: Reserved....
+ESTIMATED TOKENS SENT: 8
+RESPONSE: {"ifc_type": ["Stair", "StairFlight", "Ramp", "RampFlight", "Elevator"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Institutional (I)", "Residential (R)"], "design_phase": ["sd", "dd", "cd"], "code_category": "means_of_egress", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T16:08:56.592335+00:00] Row Index: 75
+TITLE: Ramps
+BODY: Reserved.Table 509.8.5 Ramps. Reserved....
+ESTIMATED TOKENS SENT: 5
+RESPONSE: {"ifc_type": ["Ramp", "RampFlight"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Residential (R)", "Institutional (I)"], "design_phase": ["sd", "dd", "cd"], "code_category": "means_of_egress", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T16:08:58.211543+00:00] Row Index: 76
+TITLE: Accessible Dwelling or Sleeping Units
+BODY: Reserved....
+ESTIMATED TOKENS SENT: 6
+RESPONSE: {"ifc_type": ["Door", "Ramp", "Stair", "Slab", "Window"], "occupancy": ["Residential (R)", "Institutional (I)"], "design_phase": ["sd", "dd", "cd"], "code_category": "accessibility", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T16:09:00.294267+00:00] Row Index: 77
+TITLE: Type A Dwelling or Sleeping Units
+BODY: Reserved....
+ESTIMATED TOKENS SENT: 8
+RESPONSE: {"ifc_type": ["Door", "Window", "Wall", "Slab"], "occupancy": ["Residential (R)", "Institutional (I)"], "design_phase": ["sd", "dd", "cd"], "code_category": "accessibility", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T16:09:02.105433+00:00] Row Index: 78
+TITLE: Type B Dwelling or Sleeping Units
+BODY: Reserved....
+ESTIMATED TOKENS SENT: 8
+RESPONSE: {"ifc_type": ["Door", "Window", "Slab"], "occupancy": ["Residential (R)", "Institutional (I)"], "design_phase": ["sd", "dd", "cd"], "code_category": "accessibility", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T16:09:04.237868+00:00] Row Index: 79
+TITLE: Jury Boxes and Witness Stands
+BODY: Reserved....
+ESTIMATED TOKENS SENT: 6
+RESPONSE: {"ifc_type": ["Wall", "Slab", "Stair", "Railing", "Ramp"], "occupancy": ["Assembly (A)"], "design_phase": ["sd", "dd", "cd"], "code_category": "accessibility", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T16:09:05.706889+00:00] Row Index: 80
+TITLE: Toilet Rooms
+BODY: Reserved....
+ESTIMATED TOKENS SENT: 2
+RESPONSE: {"ifc_type": ["Slab", "Wall", "Door"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Factory and Industrial (F)", "Residential (R)"], "design_phase": ["sd", "dd", "cd"], "code_category": "plumbing_systems", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T16:09:07.439453+00:00] Row Index: 81
+TITLE: Dressing, Fitting and Locker Rooms
+BODY: Reserved....
+ESTIMATED TOKENS SENT: 6
+RESPONSE: {"ifc_type": ["Wall", "Door", "Slab", "Covering"], "occupancy": ["Assembly (A)", "Educational (E)", "Institutional (I)", "Mercantile (M)", "Residential (R)"], "design_phase": ["sd", "dd", "cd"], "code_category": "interior_environment", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T16:09:09.286046+00:00] Row Index: 82
+TITLE: Fuel Dispensers
+BODY: Reserved....
+ESTIMATED TOKENS SENT: 2
+RESPONSE: {"ifc_type": ["BuildingElementProxy"], "occupancy": ["Utility and Miscellaneous (U)"], "design_phase": ["sd", "dd", "cd"], "code_category": "hazardous_materials", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T16:09:10.740390+00:00] Row Index: 83
+TITLE: Thresholds
+BODY: Reserved....
+ESTIMATED TOKENS SENT: 1
+RESPONSE: {"ifc_type": ["Door", "Slab"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Residential (R)"], "design_phase": ["sd", "dd", "cd"], "code_category": "accessibility", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T16:09:12.506650+00:00] Row Index: 84
+TITLE: Amusement Rides
+BODY: Reserved....
+ESTIMATED TOKENS SENT: 2
+RESPONSE: {"ifc_type": ["BuildingElementProxy"], "occupancy": ["Assembly (A)"], "design_phase": ["sd", "dd", "cd"], "code_category": "special_construction", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T16:09:16.992685+00:00] Row Index: 85
+TITLE: Historic Buildings
+BODY: Reserved....
+ESTIMATED TOKENS SENT: 2
+RESPONSE: {"ifc_type": ["BuildingElementProxy"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Mercantile (M)", "Residential (R)"], "design_phase": ["sd", "dd", "cd"], "code_category": "special_construction", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T16:09:18.434763+00:00] Row Index: 86
+TITLE: Site Arrival Points
+BODY: Reserved....
+ESTIMATED TOKENS SENT: 4
+RESPONSE: {"ifc_type": ["BuildingElementProxy", "Slab", "Ramp", "Stair", "Door"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Residential (R)", "Mercantile (M)"], "design_phase": ["concept", "sd", "dd", "cd"], "code_category": "site_planning", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T16:09:20.219421+00:00] Row Index: 87
+TITLE: Multilevel Buildings and Facilities
+BODY: Reserved....
+ESTIMATED TOKENS SENT: 5
+RESPONSE: {"ifc_type": ["Stair", "Ramp", "Elevator", "RampFlight", "Door"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Mercantile (M)", "Residential (R)"], "design_phase": ["sd", "dd", "cd"], "code_category": "accessibility", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T16:09:22.268726+00:00] Row Index: 88
+TITLE: Entrances
+BODY: Reserved....
+ESTIMATED TOKENS SENT: 1
+RESPONSE: {"ifc_type": ["Door"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Mercantile (M)", "Residential (R)"], "design_phase": ["sd", "dd", "cd"], "code_category": "accessibility", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T16:09:24.130079+00:00] Row Index: 89
+TITLE: Toilet and Bathing Facilities
+BODY: Reserved....
+ESTIMATED TOKENS SENT: 5
+RESPONSE: {"ifc_type": ["Covering", "Slab", "Wall", "Door", "Window"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Institutional (I)", "Residential (R)"], "design_phase": ["sd", "dd", "cd"], "code_category": "plumbing_systems", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T16:09:26.037384+00:00] Row Index: 91
+TITLE: General
+BODY: The provisions of Section 706, Existing Roofing of this code, shall govern requirements of all reroo...
+ESTIMATED TOKENS SENT: 28
+RESPONSE: {"ifc_type": ["Roof"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Residential (R)", "Mercantile (M)"], "design_phase": ["sd", "dd", "cd"], "code_category": "assemblies_envelope", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T16:09:27.734045+00:00] Row Index: 92
+TITLE: Energy Conservation
+BODY: See the Florida Building Code, Energy Conservation....
+ESTIMATED TOKENS SENT: 10
+RESPONSE: {"ifc_type": ["Wall", "Roof", "Slab", "Window", "Door"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Factory and Industrial (F)", "Residential (R)"], "design_phase": ["sd", "dd", "cd"], "code_category": "assemblies_envelope", "primary_responsibility": "architect"}
+--------------------
+
+==================================================
+SUMMARY STATISTICS
+Total Rows Processed by AI: 56
+Total Estimated Tokens Sent: 2219
+==================================================
+
+CSV Saved Successfully at 2026-01-14T16:09:29.870616+00:00
