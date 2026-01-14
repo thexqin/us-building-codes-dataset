@@ -1,0 +1,30 @@
+Log started: 2026-01-14T15:56:32.225978+00:00
+Source: download/district-of-columbia/irc-2015/chapter-4-foundations.csv
+--------------------------------------------------
+
+[2026-01-14T15:56:32.231626+00:00] Row Index: 21
+TITLE: Footing and Stem Wall Reinforcing in Seismic Design Categories D0, D1, and D2
+BODY: Concrete footings located in Seismic Design Categories D0, D1 and D2, as established in Table R301.2...
+ESTIMATED TOKENS SENT: 176
+RESPONSE: {"ifc_type": ["Footing", "Wall"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Residential (R)", "Institutional (I)"], "design_phase": ["sd", "dd", "cd"], "code_category": "structural_design", "primary_responsibility": "structural_engineer"}
+--------------------
+[2026-01-14T15:56:33.885663+00:00] Row Index: 61
+TITLE: Concrete Cross-Section
+BODY: Concrete walls constructed in accordance with this code shall comply with the shapes and minimum con...
+ESTIMATED TOKENS SENT: 65
+RESPONSE: {"ifc_type": ["Wall"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Factory and Industrial (F)", "Residential (R)"], "design_phase": ["sd", "dd", "cd"], "code_category": "structural_design", "primary_responsibility": "structural_engineer"}
+--------------------
+[2026-01-14T15:56:37.085292+00:00] Row Index: 132
+TITLE: Ventilation
+BODY: The under-floor space between the bottom of the floor joists and the earth under any building (excep...
+ESTIMATED TOKENS SENT: 169
+RESPONSE: {"ifc_type": ["Slab", "Wall", "Footing"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Residential (R)", "Storage (S)"], "design_phase": ["sd", "dd", "cd"], "code_category": "interior_environment", "primary_responsibility": "architect"}
+--------------------
+
+==================================================
+SUMMARY STATISTICS
+Total Rows Processed by AI: 3
+Total Estimated Tokens Sent: 410
+==================================================
+
+CSV Saved Successfully at 2026-01-14T15:56:38.533146+00:00
