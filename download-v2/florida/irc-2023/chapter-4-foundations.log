@@ -1,0 +1,36 @@
+Log started: 2026-01-14T19:33:50.842213+00:00
+Source: download/florida/irc-2023/chapter-4-foundations.csv
+--------------------------------------------------
+
+[2026-01-14T19:33:50.847231+00:00] Row Index: 20
+TITLE: Resistance to Uplift
+BODY: Uplift resistance of common foundations are given in Table R403.1.2. Uplift resistance of these foun...
+ESTIMATED TOKENS SENT: 313
+RESPONSE: {"ifc_type": ["Footing", "Slab", "Wall"], "occupancy": ["Residential (R)", "Business (B)", "Assembly (A)"], "design_phase": ["sd", "dd", "cd"], "code_category": "structural_design", "primary_responsibility": "structural_engineer"}
+--------------------
+[2026-01-14T19:33:53.829857+00:00] Row Index: 21
+TITLE: R403.1.3
+BODY: Reserved....
+ESTIMATED TOKENS SENT: 1
+RESPONSE: {"ifc_type": ["Footing"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Factory and Industrial (F)", "High Hazard (H)"], "design_phase": ["sd", "dd", "cd"], "code_category": "structural_design", "primary_responsibility": "structural_engineer"}
+--------------------
+[2026-01-14T19:33:55.634259+00:00] Row Index: 50
+TITLE: Concrete Cross-Section
+BODY: Concrete walls constructed in accordance with this code shall comply with the shapes and minimum con...
+ESTIMATED TOKENS SENT: 65
+RESPONSE: {"ifc_type": ["Wall"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Factory and Industrial (F)", "Residential (R)"], "design_phase": ["sd", "dd", "cd"], "code_category": "structural_design", "primary_responsibility": "structural_engineer"}
+--------------------
+[2026-01-14T19:33:57.111920+00:00] Row Index: 72
+TITLE: Seismic Design Category D0, D1 or D2
+BODY: Reserved....
+ESTIMATED TOKENS SENT: 9
+RESPONSE: {"ifc_type": ["Wall", "Column", "Beam", "Slab", "Footing"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Residential (R)", "Institutional (I)"], "design_phase": ["sd", "dd", "cd"], "code_category": "structural_design", "primary_responsibility": "structural_engineer"}
+--------------------
+
+==================================================
+SUMMARY STATISTICS
+Total Rows Processed by AI: 4
+Total Estimated Tokens Sent: 388
+==================================================
+
+CSV Saved Successfully at 2026-01-14T19:34:00.798574+00:00
