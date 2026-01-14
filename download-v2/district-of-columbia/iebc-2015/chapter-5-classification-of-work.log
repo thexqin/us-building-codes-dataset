@@ -1,0 +1,132 @@
+Log started: 2026-01-14T15:55:13.152169+00:00
+Source: download/district-of-columbia/iebc-2015/chapter-5-classification-of-work.csv
+--------------------------------------------------
+
+[2026-01-14T15:55:13.157996+00:00] Row Index: 2
+TITLE: Scope
+BODY: The provisions of this chapter shall be used in conjunction with Chapters 6 through 13 and shall app...
+ESTIMATED TOKENS SENT: 73
+RESPONSE: {"ifc_type": ["Wall", "Slab", "Roof"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Residential (R)", "Mercantile (M)"], "design_phase": ["sd", "dd", "cd"], "code_category": "occupancy_classification", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T15:55:15.156469+00:00] Row Index: 3
+TITLE: Compliance With Other Alternatives
+BODY: Alterations, repairs, additions and changes of occupancy to existing structures shall comply with th...
+ESTIMATED TOKENS SENT: 44
+RESPONSE: {"ifc_type": ["Wall", "Slab", "Roof"], "occupancy": ["Assembly (A)", "Business (B)", "Residential (R)"], "design_phase": ["sd", "dd", "cd"], "code_category": "occupancy_classification", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T15:55:17.748180+00:00] Row Index: 4
+TITLE: Work Area
+BODY: The work area, as defined in Chapter 2, shall be identified on the construction documents....
+ESTIMATED TOKENS SENT: 21
+RESPONSE: {"ifc_type": ["BuildingElementProxy"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Factory and Industrial (F)", "Residential (R)"], "design_phase": ["sd", "dd", "cd"], "code_category": "occupancy_classification", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T15:55:19.918123+00:00] Row Index: 6
+TITLE: Scope
+BODY: Repairs, as defined in Chapter 2, include the patching or restoration or replacement of damaged mate...
+ESTIMATED TOKENS SENT: 53
+RESPONSE: {"ifc_type": ["Wall", "Roof", "Slab", "Door", "Window"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Residential (R)", "Mercantile (M)"], "design_phase": ["sd", "dd", "cd"], "code_category": "assemblies_envelope", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T15:55:22.155080+00:00] Row Index: 7
+TITLE: Application
+BODY: Repairs shall comply with the provisions of Chapter 6....
+ESTIMATED TOKENS SENT: 12
+RESPONSE: {"ifc_type": ["Wall", "Slab", "Roof"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Residential (R)", "Mercantile (M)"], "design_phase": ["dd", "cd", "ca"], "code_category": "special_construction", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T15:55:23.726573+00:00] Row Index: 8
+TITLE: Related Work
+BODY: Work on nondamaged components that is necessary for the required repair of damaged components shall ...
+ESTIMATED TOKENS SENT: 50
+RESPONSE: {"ifc_type": ["Wall", "Slab", "Roof"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Residential (R)", "Mercantile (M)"], "design_phase": ["sd", "dd", "cd"], "code_category": "special_construction", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T15:55:25.928344+00:00] Row Index: 10
+TITLE: Scope
+BODY: Level 1 alterations include the removal and replacement or the covering of existing materials, eleme...
+ESTIMATED TOKENS SENT: 40
+RESPONSE: {"ifc_type": ["Wall", "Slab", "Roof", "Door", "Window"], "occupancy": ["Assembly (A)", "Business (B)", "Residential (R)", "Mercantile (M)", "Educational (E)"], "design_phase": ["sd", "dd", "cd"], "code_category": "finishes_materials", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T15:55:27.653576+00:00] Row Index: 11
+TITLE: Application
+BODY: Level 1 alterations shall comply with the provisions of Chapter 7....
+ESTIMATED TOKENS SENT: 14
+RESPONSE: {"ifc_type": ["Wall", "Door", "Window"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Factory and Industrial (F)", "Residential (R)"], "design_phase": ["sd", "dd", "cd"], "code_category": "special_construction", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T15:55:29.328423+00:00] Row Index: 13
+TITLE: Scope
+BODY: Level 2 alterations include the reconfiguration of space, the addition or elimination of any door or...
+ESTIMATED TOKENS SENT: 41
+RESPONSE: {"ifc_type": ["Wall", "Door", "Window", "Slab", "BuildingElementProxy"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Factory and Industrial (F)", "Residential (R)"], "design_phase": ["sd", "dd", "cd"], "code_category": "special_construction", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T15:55:31.787449+00:00] Row Index: 14
+TITLE: Application
+BODY: Level 2 alterations shall comply with the provisions of Chapter 7 for Level 1 alterations as well as...
+ESTIMATED TOKENS SENT: 30
+RESPONSE: {"ifc_type": ["Wall", "Door", "Slab"], "occupancy": ["Assembly (A)", "Business (B)", "Residential (R)"], "design_phase": ["sd", "dd", "cd"], "code_category": "special_construction", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T15:55:34.359500+00:00] Row Index: 16
+TITLE: Scope
+BODY: Level 3 alterations apply where the work area exceeds 50 percent of the building area....
+ESTIMATED TOKENS SENT: 20
+RESPONSE: {"ifc_type": ["Wall", "Slab", "Roof", "Door", "Window"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Factory and Industrial (F)", "High Hazard (H)"], "design_phase": ["sd", "dd", "cd"], "code_category": "occupancy_classification", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T15:55:36.114476+00:00] Row Index: 17
+TITLE: Application
+BODY: Level 3 alterations shall comply with the provisions of Chapters 7 and 8 for Level 1 and 2 alteratio...
+ESTIMATED TOKENS SENT: 37
+RESPONSE: {"ifc_type": ["Wall", "Door", "Slab"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)"], "design_phase": ["sd", "dd", "cd"], "code_category": "special_construction", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T15:55:37.825049+00:00] Row Index: 19
+TITLE: Scope
+BODY: Change of occupancy provisions apply where the activity is classified as a change of occupancy as de...
+ESTIMATED TOKENS SENT: 26
+RESPONSE: {"ifc_type": ["BuildingElementProxy"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Factory and Industrial (F)", "High Hazard (H)"], "design_phase": ["sd", "dd", "cd"], "code_category": "occupancy_classification", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T15:55:39.362551+00:00] Row Index: 20
+TITLE: Application
+BODY: Changes of occupancy shall comply with the provisions of Chapter 10....
+ESTIMATED TOKENS SENT: 14
+RESPONSE: {"ifc_type": ["BuildingElementProxy"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Factory and Industrial (F)", "Residential (R)"], "design_phase": ["sd", "dd", "cd"], "code_category": "occupancy_classification", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T15:55:41.535282+00:00] Row Index: 22
+TITLE: Scope
+BODY: Provisions for additions shall apply where work is classified as an addition as defined in Chapter 2...
+ESTIMATED TOKENS SENT: 22
+RESPONSE: {"ifc_type": ["BuildingElementProxy"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Factory and Industrial (F)", "Residential (R)"], "design_phase": ["sd", "dd", "cd"], "code_category": "occupancy_classification", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T15:55:43.008288+00:00] Row Index: 23
+TITLE: Application
+BODY: Additions to existing buildings shall comply with the provisions of Chapter 11....
+ESTIMATED TOKENS SENT: 16
+RESPONSE: {"ifc_type": ["Wall", "Door", "Window", "Slab"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Residential (R)", "Mercantile (M)"], "design_phase": ["sd", "dd", "cd"], "code_category": "accessibility", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T15:55:44.762925+00:00] Row Index: 25
+TITLE: Scope
+BODY: Historic building provisions shall apply to buildings classified as historic as defined in Chapter 2...
+ESTIMATED TOKENS SENT: 20
+RESPONSE: {"ifc_type": ["BuildingElementProxy"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Factory and Industrial (F)", "Residential (R)"], "design_phase": ["sd", "dd", "cd"], "code_category": "occupancy_classification", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T15:55:47.920675+00:00] Row Index: 26
+TITLE: Application
+BODY: Except as specifically provided for in Chapter 12, historic buildings shall comply with applicable p...
+ESTIMATED TOKENS SENT: 33
+RESPONSE: {"ifc_type": ["Wall", "Roof", "Door", "Window", "Slab"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Residential (R)", "Mercantile (M)"], "design_phase": ["sd", "dd", "cd"], "code_category": "occupancy_classification", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T15:55:49.505714+00:00] Row Index: 28
+TITLE: Scope
+BODY: Relocated building provisions shall apply to relocated or moved buildings....
+ESTIMATED TOKENS SENT: 13
+RESPONSE: {"ifc_type": ["BuildingElementProxy"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Factory and Industrial (F)", "High Hazard (H)"], "design_phase": ["sd", "dd", "cd"], "code_category": "special_construction", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T15:55:50.801621+00:00] Row Index: 29
+TITLE: Application
+BODY: Relocated buildings shall comply with the provisions of Chapter 13....
+ESTIMATED TOKENS SENT: 13
+RESPONSE: {"ifc_type": ["BuildingElementProxy"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Factory and Industrial (F)", "Residential (R)"], "design_phase": ["sd", "dd", "cd"], "code_category": "special_construction", "primary_responsibility": "architect"}
+--------------------
+
+==================================================
+SUMMARY STATISTICS
+Total Rows Processed by AI: 20
+Total Estimated Tokens Sent: 592
+==================================================
+
+CSV Saved Successfully at 2026-01-14T15:55:53.122985+00:00
