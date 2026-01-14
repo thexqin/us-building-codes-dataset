@@ -1,0 +1,36 @@
+Log started: 2026-01-14T14:43:46.620760+00:00
+Source: download/alabama/iebc-2021/chapter-2-definitions.csv
+--------------------------------------------------
+
+[2026-01-14T14:43:46.623756+00:00] Row Index: 7
+TITLE: Addition
+BODY: An extension or increase in floor area, number of stories, or height of a building or structure....
+ESTIMATED TOKENS SENT: 22
+RESPONSE: {"ifc_type": ["Wall", "Slab", "Column", "Roof"], "occupancy": ["Assembly (A)", "Business (B)", "Residential (R)", "Educational (E)", "Mercantile (M)"], "design_phase": ["sd", "dd", "cd"], "code_category": "building_height_area_limits", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T14:43:48.228118+00:00] Row Index: 10
+TITLE: Building
+BODY: Any structure utilized or intended for supporting or sheltering any occupancy....
+ESTIMATED TOKENS SENT: 14
+RESPONSE: {"ifc_type": ["Wall", "Slab", "Roof", "Column", "Beam"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Residential (R)", "Mercantile (M)"], "design_phase": ["concept", "sd", "dd", "cd"], "code_category": "occupancy_classification", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T14:43:50.925258+00:00] Row Index: 29
+TITLE: Rehabilitation
+BODY: Any work, as described by the categories of work defined herein, undertaken in an existing building....
+ESTIMATED TOKENS SENT: 21
+RESPONSE: {"ifc_type": ["Wall", "Slab", "Roof", "Door", "Window"], "occupancy": ["Assembly (A)", "Business (B)", "Residential (R)"], "design_phase": ["sd", "dd", "cd"], "code_category": "special_construction", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T14:43:52.867833+00:00] Row Index: 38
+TITLE: Seismic Forces
+BODY: The loads, forces and requirements prescribed herein, related to the response of the building to ear...
+ESTIMATED TOKENS SENT: 60
+RESPONSE: {"ifc_type": ["Column", "Beam", "Slab", "Footing", "Wall"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Residential (R)", "Institutional (I)"], "design_phase": ["sd", "dd", "cd"], "code_category": "structural_design", "primary_responsibility": "structural_engineer"}
+--------------------
+
+==================================================
+SUMMARY STATISTICS
+Total Rows Processed by AI: 4
+Total Estimated Tokens Sent: 117
+==================================================
+
+CSV Saved Successfully at 2026-01-14T14:43:54.619650+00:00

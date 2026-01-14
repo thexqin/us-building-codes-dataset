@@ -1,0 +1,926 @@
+Log started: 2026-01-14T14:46:05.525480+00:00
+Source: download/alabama/irc-2015/chapter-2-definitions.csv
+--------------------------------------------------
+
+[2026-01-14T14:46:05.529932+00:00] Row Index: 7
+TITLE: Accessible
+BODY: Signifies access that requires the removal of an access panel or similar removable obstruction....
+ESTIMATED TOKENS SENT: 18
+RESPONSE: {"ifc_type": ["Covering", "BuildingElementProxy"], "occupancy": ["Business (B)", "Residential (R)", "Institutional (I)"], "design_phase": ["sd", "dd", "cd"], "code_category": "accessibility", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T14:46:07.180531+00:00] Row Index: 8
+TITLE: Accessible, Readily
+BODY: Signifies access without the necessity for removing a panel or similar obstruction....
+ESTIMATED TOKENS SENT: 17
+RESPONSE: {"ifc_type": ["Door", "Wall", "Covering"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Residential (R)", "Institutional (I)"], "design_phase": ["sd", "dd", "cd"], "code_category": "accessibility", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T14:46:08.859616+00:00] Row Index: 9
+TITLE: Accessory Structure
+BODY: A structure that is accessory to and incidental to that of the dwelling(s) and that is located on th...
+ESTIMATED TOKENS SENT: 29
+RESPONSE: {"ifc_type": ["BuildingElementProxy", "Roof", "Wall", "Door", "Window"], "occupancy": ["Residential (R)", "Utility and Miscellaneous (U)"], "design_phase": ["concept", "sd", "dd", "cd"], "code_category": "site_planning", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T14:46:10.958342+00:00] Row Index: 10
+TITLE: Addition
+BODY: An extension or increase in floor area or height of a building or structure....
+ESTIMATED TOKENS SENT: 18
+RESPONSE: {"ifc_type": ["Wall", "Slab", "Column", "Roof", "BuildingElementProxy"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Residential (R)", "Mercantile (M)"], "design_phase": ["concept", "sd", "dd", "cd"], "code_category": "building_height_area_limits", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T14:46:12.984341+00:00] Row Index: 11
+TITLE: Adhered Stone or Masonry Veneer
+BODY: Stone or masonry veneer secured and supported through the adhesion of an approved bonding material a...
+ESTIMATED TOKENS SENT: 32
+RESPONSE: {"ifc_type": ["Wall", "Covering", "Slab"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Residential (R)", "Mercantile (M)"], "design_phase": ["sd", "dd", "cd"], "code_category": "finishes_materials", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T14:46:14.640335+00:00] Row Index: 12
+TITLE: Air Admittance Valve
+BODY: A one-way valve designed to allow air into the plumbing drainage system where a negative pressure de...
+ESTIMATED TOKENS SENT: 61
+RESPONSE: {"ifc_type": ["PlumbingSystem"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Factory and Industrial (F)", "Residential (R)"], "design_phase": ["sd", "dd", "cd"], "code_category": "plumbing_systems", "primary_responsibility": "mechanical_engineer"}
+--------------------
+[2026-01-14T14:46:16.262051+00:00] Row Index: 13
+TITLE: Air Barrier
+BODY: See Section N1101.6 for definition applicable in Chapter 11....
+ESTIMATED TOKENS SENT: 13
+RESPONSE: {"ifc_type": ["Wall", "Roof", "Slab", "Door", "Window"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Residential (R)", "Mercantile (M)"], "design_phase": ["sd", "dd", "cd"], "code_category": "assemblies_envelope", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T14:46:18.475698+00:00] Row Index: 14
+TITLE: Air Break (Drainage System)
+BODY: An arrangement where a discharge pipe from a fixture, appliance or device drains indirectly into a r...
+ESTIMATED TOKENS SENT: 42
+RESPONSE: {"ifc_type": ["PlumbingSystems", "Slab"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Factory and Industrial (F)", "Residential (R)"], "design_phase": ["sd", "dd", "cd"], "code_category": "plumbing_systems", "primary_responsibility": "mechanical_engineer"}
+--------------------
+[2026-01-14T14:46:20.622340+00:00] Row Index: 15
+TITLE: Air Circulation, Forced
+BODY: A means of providing space conditioning utilizing movement of air through ducts or plenums by mechan...
+ESTIMATED TOKENS SENT: 25
+RESPONSE: {"ifc_type": ["BuildingElementProxy"], "occupancy": ["Business (B)", "Educational (E)", "Institutional (I)", "Residential (R)", "Assembly (A)"], "design_phase": ["sd", "dd", "cd"], "code_category": "mechanical_systems", "primary_responsibility": "mechanical_engineer"}
+--------------------
+[2026-01-14T14:46:22.195744+00:00] Row Index: 16
+TITLE: Air-Conditioning System
+BODY: A system that consists of heat exchangers, blowers, filters, supply, exhaust and return-air systems,...
+ESTIMATED TOKENS SENT: 32
+RESPONSE: {"ifc_type": ["BuildingElementProxy"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Mercantile (M)", "Residential (R)"], "design_phase": ["sd", "dd", "cd"], "code_category": "mechanical_systems", "primary_responsibility": "mechanical_engineer"}
+--------------------
+[2026-01-14T14:46:23.975927+00:00] Row Index: 17
+TITLE: Air Gap, Drainage System
+BODY: The unobstructed vertical distance through free atmosphere between the outlet of a waste pipe and th...
+ESTIMATED TOKENS SENT: 41
+RESPONSE: {"ifc_type": ["PlumbingSystem", "Slab"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Residential (R)", "Mercantile (M)"], "design_phase": ["sd", "dd", "cd"], "code_category": "plumbing_systems", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T14:46:25.889986+00:00] Row Index: 18
+TITLE: Air Gap, Water-Distribution System
+BODY: The unobstructed vertical distance through free atmosphere between the lowest opening from a water s...
+ESTIMATED TOKENS SENT: 36
+RESPONSE: {"ifc_type": ["PlumbingSystems", "BuildingElementProxy"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Factory and Industrial (F)", "Residential (R)"], "design_phase": ["dd", "cd"], "code_category": "plumbing_systems", "primary_responsibility": "mechanical_engineer"}
+--------------------
+[2026-01-14T14:46:28.064594+00:00] Row Index: 19
+TITLE: Air-Impermeable Insulation
+BODY: An insulation having an air permanence equal to or less than 0.02 L/s-m2 at 75 Pa pressure different...
+ESTIMATED TOKENS SENT: 37
+RESPONSE: {"ifc_type": ["Slab", "Wall", "Roof", "BuildingElementProxy"], "occupancy": ["Assembly (A)", "Business (B)", "Residential (R)"], "design_phase": ["sd", "dd", "cd"], "code_category": "assemblies_envelope", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T14:46:30.516838+00:00] Row Index: 20
+TITLE: Alteration
+BODY: Any construction, retrofit or renovation to an existing structure other than repair or addition that...
+ESTIMATED TOKENS SENT: 68
+RESPONSE: {"ifc_type": ["BuildingElementProxy", "Wall", "Slab", "Door", "Window"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Factory and Industrial (F)", "Residential (R)"], "design_phase": ["sd", "dd", "cd"], "code_category": "special_construction", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T14:46:32.736486+00:00] Row Index: 21
+TITLE: Alternating Tread Device
+BODY: A device that has a series of steps between 50 and 70 degrees (0.87 and 1.22 rad) from horizontal, u...
+ESTIMATED TOKENS SENT: 65
+RESPONSE: {"ifc_type": ["Stair", "Railing"], "occupancy": ["Business (B)", "Factory and Industrial (F)", "Utility and Miscellaneous (U)"], "design_phase": ["sd", "dd", "cd"], "code_category": "means_of_egress", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T14:46:35.185102+00:00] Row Index: 22
+TITLE: Anchored Stone or Masonry Veneer
+BODY: Stone or masonry veneer secured with approved mechanical fasteners to an approved backing....
+ESTIMATED TOKENS SENT: 22
+RESPONSE: {"ifc_type": ["Wall", "Covering"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Factory and Industrial (F)", "Residential (R)"], "design_phase": ["sd", "dd", "cd"], "code_category": "assemblies_envelope", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T14:46:37.436563+00:00] Row Index: 23
+TITLE: Anchors
+BODY: See "Supports."...
+ESTIMATED TOKENS SENT: 2
+RESPONSE: {"ifc_type": ["Member", "Wall", "Column"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Factory and Industrial (F)", "Residential (R)"], "design_phase": ["sd", "dd", "cd"], "code_category": "structural_design", "primary_responsibility": "structural_engineer"}
+--------------------
+[2026-01-14T14:46:39.063317+00:00] Row Index: 24
+TITLE: Antisiphon
+BODY: A term applied to valves or mechanical devices that eliminate siphonage....
+ESTIMATED TOKENS SENT: 14
+RESPONSE: {"ifc_type": ["PlumbingSystems"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Residential (R)", "Mercantile (M)"], "design_phase": ["dd", "cd"], "code_category": "plumbing_systems", "primary_responsibility": "mechanical_engineer"}
+--------------------
+[2026-01-14T14:46:42.413728+00:00] Row Index: 25
+TITLE: Appliance
+BODY: A device or apparatus that is manufactured and designed to utilize energy and for which this code pr...
+ESTIMATED TOKENS SENT: 26
+RESPONSE: {"ifc_type": ["BuildingElementProxy"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Factory and Industrial (F)", "Residential (R)"], "design_phase": ["sd", "dd", "cd"], "code_category": "mechanical_systems", "primary_responsibility": "mechanical_engineer"}
+--------------------
+[2026-01-14T14:46:43.930039+00:00] Row Index: 26
+TITLE: Approved
+BODY: Acceptable to the building official....
+ESTIMATED TOKENS SENT: 6
+RESPONSE: {"ifc_type": ["BuildingElementProxy"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Factory and Industrial (F)", "Residential (R)"], "design_phase": ["cd", "ca"], "code_category": "special_construction", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T14:46:45.411044+00:00] Row Index: 27
+TITLE: Approved Agency
+BODY: An established and recognized agency that is regularly engaged in conducting tests or furnishing ins...
+ESTIMATED TOKENS SENT: 36
+RESPONSE: {"ifc_type": ["BuildingElementProxy"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Factory and Industrial (F)", "Residential (R)"], "design_phase": ["cd", "ca"], "code_category": "special_construction", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T14:46:47.090197+00:00] Row Index: 28
+TITLE: Aspect Ratio
+BODY: The ratio of longest to shortest perpendicular dimensions, or for wall sections, the ratio of height...
+ESTIMATED TOKENS SENT: 25
+RESPONSE: {"ifc_type": ["Wall", "Slab", "Roof"], "occupancy": ["Assembly (A)", "Business (B)", "Residential (R)"], "design_phase": ["sd", "dd", "cd"], "code_category": "structural_design", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T14:46:48.754989+00:00] Row Index: 29
+TITLE: Attic
+BODY: The unfinished space between the ceiling assembly and the roof assembly....
+ESTIMATED TOKENS SENT: 14
+RESPONSE: {"ifc_type": ["Roof", "Slab", "Covering"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Residential (R)", "Storage (S)"], "design_phase": ["sd", "dd", "cd"], "code_category": "assemblies_envelope", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T14:46:50.253997+00:00] Row Index: 30
+TITLE: Attic, Habitable
+BODY: A finished or unfinished area, not considered a story, complying with all of the following requireme...
+ESTIMATED TOKENS SENT: 93
+RESPONSE: {"ifc_type": ["Roof", "Slab", "Wall"], "occupancy": ["Residential (R)"], "design_phase": ["sd", "dd", "cd"], "code_category": "assemblies_envelope", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T14:46:51.422144+00:00] Row Index: 31
+TITLE: Backflow, Drainage
+BODY: A reversal of flow in the drainage system....
+ESTIMATED TOKENS SENT: 12
+RESPONSE: {"ifc_type": ["PlumbingSystems"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Residential (R)", "Mercantile (M)"], "design_phase": ["sd", "dd", "cd"], "code_category": "plumbing_systems", "primary_responsibility": "mechanical_engineer"}
+--------------------
+[2026-01-14T14:46:53.132771+00:00] Row Index: 32
+TITLE: Backflow Preventer
+BODY: A backflow prevention assembly, a backflow prevention device or other means or method to prevent bac...
+ESTIMATED TOKENS SENT: 29
+RESPONSE: {"ifc_type": ["PlumbingSystems"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Residential (R)", "Institutional (I)"], "design_phase": ["sd", "dd", "cd"], "code_category": "plumbing_systems", "primary_responsibility": "mechanical_engineer"}
+--------------------
+[2026-01-14T14:46:55.106947+00:00] Row Index: 33
+TITLE: Backflow Preventer, Reduced-Pressure-Zone Type
+BODY: A backflow-prevention device consisting of two independently acting check valves, internally force l...
+ESTIMATED TOKENS SENT: 92
+RESPONSE: {"ifc_type": ["BuildingElementProxy"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Factory and Industrial (F)", "Residential (R)"], "design_phase": ["dd", "cd"], "code_category": "plumbing_systems", "primary_responsibility": "mechanical_engineer"}
+--------------------
+[2026-01-14T14:46:56.582954+00:00] Row Index: 34
+TITLE: Backflow, Water Distribution
+BODY: The flow of water or other liquids into the potable water-supply piping from any sources other than ...
+ESTIMATED TOKENS SENT: 37
+RESPONSE: {"ifc_type": ["PlumbingSystems"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Residential (R)", "Institutional (I)"], "design_phase": ["sd", "dd", "cd"], "code_category": "plumbing_systems", "primary_responsibility": "mechanical_engineer"}
+--------------------
+[2026-01-14T14:46:58.716084+00:00] Row Index: 35
+TITLE: Backpressure
+BODY: Pressure created by any means in the water distribution system that by being in excess of the pressu...
+ESTIMATED TOKENS SENT: 37
+RESPONSE: {"ifc_type": ["PlumbingSystems"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Factory and Industrial (F)", "Residential (R)"], "design_phase": ["sd", "dd", "cd"], "code_category": "plumbing_systems", "primary_responsibility": "mechanical_engineer"}
+--------------------
+[2026-01-14T14:47:00.243699+00:00] Row Index: 36
+TITLE: Backpressure, Low Head
+BODY: A pressure less than or equal to 4.33 psi (29.88 kPa) or the pressure exerted by a 10-foot (3048 mm)...
+ESTIMATED TOKENS SENT: 33
+RESPONSE: {"ifc_type": ["PlumbingSystems"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Residential (R)", "Mercantile (M)"], "design_phase": ["sd", "dd", "cd"], "code_category": "plumbing_systems", "primary_responsibility": "mechanical_engineer"}
+--------------------
+[2026-01-14T14:47:01.705706+00:00] Row Index: 37
+TITLE: Backsiphonage
+BODY: The flowing back of used or contaminated water from piping into a potable water-supply pipe due to a...
+ESTIMATED TOKENS SENT: 30
+RESPONSE: {"ifc_type": ["PlumbingSystems"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Institutional (I)", "Residential (R)"], "design_phase": ["sd", "dd", "cd"], "code_category": "plumbing_systems", "primary_responsibility": "mechanical_engineer"}
+--------------------
+[2026-01-14T14:47:04.149015+00:00] Row Index: 38
+TITLE: Backwater Valve
+BODY: A device installed in a drain or pipe to prevent backflow of sewage....
+ESTIMATED TOKENS SENT: 18
+RESPONSE: {"ifc_type": ["Slab", "BuildingElementProxy"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Factory and Industrial (F)", "Residential (R)"], "design_phase": ["sd", "dd", "cd"], "code_category": "plumbing_systems", "primary_responsibility": "mechanical_engineer"}
+--------------------
+[2026-01-14T14:47:05.772482+00:00] Row Index: 39
+TITLE: Basement
+BODY: A story that is not a story above grade plane. (see "Story above grade plane")....
+ESTIMATED TOKENS SENT: 20
+RESPONSE: {"ifc_type": ["Wall", "Slab", "Footing", "Window"], "occupancy": ["Assembly (A)", "Business (B)", "Residential (R)"], "design_phase": ["concept", "sd", "dd", "cd"], "code_category": "building_height_area_limits", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T14:47:07.863567+00:00] Row Index: 40
+TITLE: Basement Wall
+BODY: The opaque portion of a wall that encloses one side of a basement and has an average below grade wal...
+ESTIMATED TOKENS SENT: 52
+RESPONSE: {"ifc_type": ["Wall", "Slab"], "occupancy": ["Residential (R)", "Business (B)", "Assembly (A)", "Storage (S)"], "design_phase": ["sd", "dd", "cd"], "code_category": "assemblies_envelope", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T14:47:09.616972+00:00] Row Index: 41
+TITLE: Basic Wind Speed
+BODY: Three-second gust speed at 33 feet (10 058 mm) above the ground in Exposure C (see Section R301.2.1)...
+ESTIMATED TOKENS SENT: 33
+RESPONSE: {"ifc_type": ["Wall", "Roof", "Slab", "Column", "Beam"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Residential (R)", "Mercantile (M)"], "design_phase": ["sd", "dd", "cd"], "code_category": "structural_design", "primary_responsibility": "structural_engineer"}
+--------------------
+[2026-01-14T14:47:11.157238+00:00] Row Index: 42
+TITLE: Bathroom Group
+BODY: A group of fixtures, including or excluding a bidet, consisting of a water closet, lavatory, and bat...
+ESTIMATED TOKENS SENT: 40
+RESPONSE: {"ifc_type": ["Slab", "Wall", "Door"], "occupancy": ["Residential (R)", "Assembly (A)", "Institutional (I)", "Business (B)", "Mercantile (M)"], "design_phase": ["sd", "dd", "cd"], "code_category": "plumbing_systems", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T14:47:13.053144+00:00] Row Index: 43
+TITLE: Bend
+BODY: A drainage fitting, designed to provide a change in direction of a drain pipe of less than the angle...
+ESTIMATED TOKENS SENT: 48
+RESPONSE: {"ifc_type": ["BuildingElementProxy"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Factory and Industrial (F)", "Residential (R)"], "design_phase": ["sd", "dd", "cd"], "code_category": "plumbing_systems", "primary_responsibility": "mechanical_engineer"}
+--------------------
+[2026-01-14T14:47:14.583971+00:00] Row Index: 44
+TITLE: Boiler
+BODY: A self-contained appliance from which hot water is circulated for heating purposes and then returned...
+ESTIMATED TOKENS SENT: 58
+RESPONSE: {"ifc_type": ["BuildingElementProxy"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Factory and Industrial (F)", "Institutional (I)"], "design_phase": ["sd", "dd", "cd"], "code_category": "mechanical_systems", "primary_responsibility": "mechanical_engineer"}
+--------------------
+[2026-01-14T14:47:16.399508+00:00] Row Index: 45
+TITLE: Bond Beam
+BODY: A horizontal grouted element within masonry in which reinforcement is embedded....
+ESTIMATED TOKENS SENT: 16
+RESPONSE: {"ifc_type": ["Wall", "Beam"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Residential (R)", "Storage (S)"], "design_phase": ["sd", "dd", "cd"], "code_category": "structural_design", "primary_responsibility": "structural_engineer"}
+--------------------
+[2026-01-14T14:47:17.942111+00:00] Row Index: 46
+TITLE: Braced Wall Line
+BODY: A straight line through the building plan that represents the location of the lateral resistance pro...
+ESTIMATED TOKENS SENT: 29
+RESPONSE: {"ifc_type": ["Wall", "Beam", "Column"], "occupancy": ["Residential (R)", "Assembly (A)", "Business (B)", "Educational (E)", "Institutional (I)"], "design_phase": ["sd", "dd", "cd"], "code_category": "structural_design", "primary_responsibility": "structural_engineer"}
+--------------------
+[2026-01-14T14:47:19.752500+00:00] Row Index: 47
+TITLE: Braced Wall Line, Continuously Sheathed
+BODY: A braced wall line with structural sheathing applied to all sheathable surfaces including the areas ...
+ESTIMATED TOKENS SENT: 30
+RESPONSE: {"ifc_type": ["Wall", "Slab"], "occupancy": ["Residential (R)", "Business (B)", "Educational (E)", "Assembly (A)"], "design_phase": ["sd", "dd", "cd"], "code_category": "structural_design", "primary_responsibility": "structural_engineer"}
+--------------------
+[2026-01-14T14:47:21.931179+00:00] Row Index: 48
+TITLE: Braced Wall Panel
+BODY: A full-height section of wall constructed to resist in-plane shear loads through interaction of fram...
+ESTIMATED TOKENS SENT: 69
+RESPONSE: {"ifc_type": ["Wall"], "occupancy": ["Residential (R)", "Business (B)"], "design_phase": ["sd", "dd", "cd"], "code_category": "structural_design", "primary_responsibility": "structural_engineer"}
+--------------------
+[2026-01-14T14:47:23.538303+00:00] Row Index: 49
+TITLE: Branch
+BODY: Any part of the piping system other than a riser, main or stack....
+ESTIMATED TOKENS SENT: 17
+RESPONSE: {"ifc_type": ["BuildingElementProxy"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Factory and Industrial (F)", "Residential (R)"], "design_phase": ["sd", "dd", "cd"], "code_category": "plumbing_systems", "primary_responsibility": "mechanical_engineer"}
+--------------------
+[2026-01-14T14:47:28.548104+00:00] Row Index: 50
+TITLE: Branch, Fixture
+BODY: See "Fixture branch, drainage."...
+ESTIMATED TOKENS SENT: 6
+RESPONSE: {"ifc_type": ["PlumbingSystems"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Factory and Industrial (F)", "Residential (R)"], "design_phase": ["sd", "dd", "cd"], "code_category": "plumbing_systems", "primary_responsibility": "mechanical_engineer"}
+--------------------
+[2026-01-14T14:47:30.033693+00:00] Row Index: 51
+TITLE: Branch, Horizontal
+BODY: See "Horizontal branch, drainage."...
+ESTIMATED TOKENS SENT: 6
+RESPONSE: {"ifc_type": ["PlumbingSystems"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Residential (R)", "Mercantile (M)"], "design_phase": ["dd", "cd"], "code_category": "plumbing_systems", "primary_responsibility": "mechanical_engineer"}
+--------------------
+[2026-01-14T14:47:31.750660+00:00] Row Index: 52
+TITLE: Branch Interval
+BODY: A vertical measurement of distance, 8 feet (2438 mm) or more in developed length, between the connec...
+ESTIMATED TOKENS SENT: 49
+RESPONSE: {"ifc_type": ["PipeSegment", "BuildingElementProxy"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Residential (R)", "Mercantile (M)"], "design_phase": ["sd", "dd", "cd"], "code_category": "plumbing_systems", "primary_responsibility": "mechanical_engineer"}
+--------------------
+[2026-01-14T14:47:33.104510+00:00] Row Index: 53
+TITLE: Branch, Main
+BODY: A water-distribution pipe that extends horizontally off a main or riser to convey water to branches ...
+ESTIMATED TOKENS SENT: 26
+RESPONSE: {"ifc_type": ["PlumbingElement"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Residential (R)", "Mercantile (M)"], "design_phase": ["sd", "dd", "cd"], "code_category": "plumbing_systems", "primary_responsibility": "mechanical_engineer"}
+--------------------
+[2026-01-14T14:47:35.485623+00:00] Row Index: 54
+TITLE: Branch, Vent
+BODY: A vent connecting two or more individual vents with a vent stack or stack vent....
+ESTIMATED TOKENS SENT: 21
+RESPONSE: {"ifc_type": ["BuildingElementProxy"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Factory and Industrial (F)", "Residential (R)"], "design_phase": ["sd", "dd", "cd"], "code_category": "plumbing_systems", "primary_responsibility": "mechanical_engineer"}
+--------------------
+[2026-01-14T14:47:36.933053+00:00] Row Index: 55
+TITLE: BTU/h
+BODY: The listed maximum capacity of an appliance, absorption unit or burner expressed in British thermal ...
+ESTIMATED TOKENS SENT: 25
+RESPONSE: {"ifc_type": ["BuildingElementProxy"], "occupancy": ["Business (B)", "Educational (E)", "Factory and Industrial (F)", "Mercantile (M)", "Residential (R)"], "design_phase": ["sd", "dd", "cd"], "code_category": "mechanical_systems", "primary_responsibility": "mechanical_engineer"}
+--------------------
+[2026-01-14T14:47:38.357163+00:00] Row Index: 56
+TITLE: Building
+BODY: Building shall mean any one- and two-family dwelling or portion thereof, including townhouses, that ...
+ESTIMATED TOKENS SENT: 57
+RESPONSE: {"ifc_type": ["Wall", "Slab", "Roof"], "occupancy": ["Residential (R)"], "design_phase": ["concept", "sd", "dd", "cd"], "code_category": "occupancy_classification", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T14:47:40.769399+00:00] Row Index: 57
+TITLE: Building Drain
+BODY: The lowest piping that collects the discharge from all other drainage piping inside the house and ex...
+ESTIMATED TOKENS SENT: 52
+RESPONSE: {"ifc_type": ["PlumbingSystems", "Slab"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Factory and Industrial (F)", "High Hazard (H)"], "design_phase": ["sd", "dd", "cd"], "code_category": "plumbing_systems", "primary_responsibility": "civil_engineer"}
+--------------------
+[2026-01-14T14:47:42.978338+00:00] Row Index: 58
+TITLE: Building, Existing
+BODY: Existing building is a building erected prior to the adoption of this code, or one for which a legal...
+ESTIMATED TOKENS SENT: 33
+RESPONSE: {"ifc_type": ["BuildingElementProxy"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Factory and Industrial (F)", "Residential (R)"], "design_phase": ["concept", "sd", "dd", "cd"], "code_category": "occupancy_classification", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T14:47:48.020288+00:00] Row Index: 59
+TITLE: Building-Integrated Photovoltaic Product
+BODY: A building product that incorporates photovoltaic modules and functions as a component of the buildi...
+ESTIMATED TOKENS SENT: 24
+RESPONSE: {"ifc_type": ["Roof", "Slab", "CurtainWall", "Wall", "ShadingDevice"], "occupancy": ["Business (B)", "Educational (E)", "Assembly (A)", "Residential (R)", "Mercantile (M)"], "design_phase": ["sd", "dd", "cd"], "code_category": "assemblies_envelope", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T14:47:50.651474+00:00] Row Index: 60
+TITLE: Building Line
+BODY: The line established by law, beyond which a building shall not extend, except as specifically provid...
+ESTIMATED TOKENS SENT: 25
+RESPONSE: {"ifc_type": ["Wall", "BuildingElementProxy", "Slab", "Roof", "Door"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Factory and Industrial (F)", "Residential (R)"], "design_phase": ["concept", "sd", "dd", "cd"], "code_category": "site_planning", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T14:47:52.246622+00:00] Row Index: 61
+TITLE: Building Official
+BODY: The officer or other designated authority charged with the administration and enforcement of this co...
+ESTIMATED TOKENS SENT: 21
+RESPONSE: {"ifc_type": ["BuildingElementProxy"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Factory and Industrial (F)", "Residential (R)"], "design_phase": ["cd", "ca"], "code_category": "occupancy_classification", "primary_responsibility": "owner"}
+--------------------
+[2026-01-14T14:47:53.788858+00:00] Row Index: 62
+TITLE: Building Sewer
+BODY: That part of the drainage system that extends from the end of the building drain and conveys its dis...
+ESTIMATED TOKENS SENT: 45
+RESPONSE: {"ifc_type": ["BuildingElementProxy"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Factory and Industrial (F)", "Residential (R)"], "design_phase": ["sd", "dd", "cd"], "code_category": "plumbing_systems", "primary_responsibility": "civil_engineer"}
+--------------------
+[2026-01-14T14:47:56.944479+00:00] Row Index: 63
+TITLE: Building Thermal Envelope
+BODY: The basement walls, exterior walls, floor, roof and any other building element that enclose conditio...
+ESTIMATED TOKENS SENT: 24
+RESPONSE: {"ifc_type": ["Wall", "Slab", "Roof", "Window", "Door"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Mercantile (M)", "Residential (R)"], "design_phase": ["sd", "dd", "cd"], "code_category": "assemblies_envelope", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T14:48:00.310914+00:00] Row Index: 64
+TITLE: Built-Up Roof Covering
+BODY: Two or more layers of felt cemented together and surfaced with a cap sheet, mineral aggregate, smoot...
+ESTIMATED TOKENS SENT: 32
+RESPONSE: {"ifc_type": ["Roof", "Covering"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Residential (R)", "Mercantile (M)"], "design_phase": ["sd", "dd", "cd"], "code_category": "finishes_materials", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T14:48:01.928435+00:00] Row Index: 65
+TITLE: Cap Plate
+BODY: The top plate of the double top plates used in structural insulated panel (SIP) construction. The ca...
+ESTIMATED TOKENS SENT: 50
+RESPONSE: {"ifc_type": ["Plate", "Wall"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Residential (R)", "Mercantile (M)"], "design_phase": ["sd", "dd", "cd"], "code_category": "structural_design", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T14:48:04.519051+00:00] Row Index: 66
+TITLE: Ceiling Height
+BODY: The clear vertical distance from the finished floor to the finished ceiling....
+ESTIMATED TOKENS SENT: 17
+RESPONSE: {"ifc_type": ["Slab", "Covering", "Plate"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Residential (R)", "Institutional (I)"], "design_phase": ["sd", "dd", "cd"], "code_category": "interior_environment", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T14:48:06.911142+00:00] Row Index: 67
+TITLE: Cement Plaster
+BODY: A mixture of portland or blended cement, portland cement or blended cement and hydrated lime, masonr...
+ESTIMATED TOKENS SENT: 42
+RESPONSE: {"ifc_type": ["Wall", "Slab", "Covering"], "occupancy": ["Assembly (A)", "Business (B)", "Residential (R)", "Educational (E)", "Institutional (I)"], "design_phase": ["sd", "dd", "cd"], "code_category": "finishes_materials", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T14:48:08.770789+00:00] Row Index: 68
+TITLE: Chimney
+BODY: A primary vertical structure containing one or more flues, for the purpose of carrying gaseous produ...
+ESTIMATED TOKENS SENT: 37
+RESPONSE: {"ifc_type": ["Chimney"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Residential (R)", "Mercantile (M)"], "design_phase": ["sd", "dd", "cd"], "code_category": "special_construction", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T14:48:10.056379+00:00] Row Index: 69
+TITLE: Chimney Connector
+BODY: A pipe that connects a fuel-burning appliance to a chimney....
+ESTIMATED TOKENS SENT: 14
+RESPONSE: {"ifc_type": ["Chimney", "BuildingElementProxy"], "occupancy": ["Residential (R)", "Business (B)", "Assembly (A)", "Institutional (I)", "Utility and Miscellaneous (U)"], "design_phase": ["sd", "dd", "cd"], "code_category": "mechanical_systems", "primary_responsibility": "mechanical_engineer"}
+--------------------
+[2026-01-14T14:48:12.294733+00:00] Row Index: 70
+TITLE: Residential-Type Appliance
+BODY: An approved chimney for removing the products of combustion from fuel-burning, residential-type appl...
+ESTIMATED TOKENS SENT: 85
+RESPONSE: {"ifc_type": ["Chimney", "Wall"], "occupancy": ["Residential (R)"], "design_phase": ["sd", "dd", "cd"], "code_category": "mechanical_systems", "primary_responsibility": "mechanical_engineer"}
+--------------------
+[2026-01-14T14:48:13.948545+00:00] Row Index: 71
+TITLE: Circuit Vent
+BODY: A vent that connects to a horizontal drainage branch and vents two traps to not more than eight trap...
+ESTIMATED TOKENS SENT: 36
+RESPONSE: {"ifc_type": ["PlumbingSystem"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Factory and Industrial (F)", "Residential (R)"], "design_phase": ["sd", "dd", "cd"], "code_category": "plumbing_systems", "primary_responsibility": "mechanical_engineer"}
+--------------------
+[2026-01-14T14:48:16.542328+00:00] Row Index: 72
+TITLE: Circulating Hot Water System
+BODY: A specifically designed water distribution system where one or more pumps are operated in the servic...
+ESTIMATED TOKENS SENT: 50
+RESPONSE: {"ifc_type": ["PlumbingSystems", "Pipe", "BuildingElementProxy"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Residential (R)", "Institutional (I)"], "design_phase": ["sd", "dd", "cd"], "code_category": "plumbing_systems", "primary_responsibility": "mechanical_engineer"}
+--------------------
+[2026-01-14T14:48:19.593737+00:00] Row Index: 73
+TITLE: Cladding
+BODY: The exterior materials that cover the surface of the building envelope that is directly loaded by th...
+ESTIMATED TOKENS SENT: 24
+RESPONSE: {"ifc_type": ["Covering", "ShadingDevice", "CurtainWall", "Slab"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Residential (R)", "Mercantile (M)"], "design_phase": ["sd", "dd", "cd"], "code_category": "assemblies_envelope", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T14:48:21.671475+00:00] Row Index: 74
+TITLE: Cleanout
+BODY: An accessible opening in the drainage system used for the removal of possible obstruction....
+ESTIMATED TOKENS SENT: 18
+RESPONSE: {"ifc_type": ["BuildingElementProxy"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Factory and Industrial (F)", "Residential (R)"], "design_phase": ["sd", "dd", "cd"], "code_category": "plumbing_systems", "primary_responsibility": "mechanical_engineer"}
+--------------------
+[2026-01-14T14:48:23.349670+00:00] Row Index: 75
+TITLE: Climate Zone
+BODY: A geographical region based on climatic criteria as specified in this code....
+ESTIMATED TOKENS SENT: 17
+RESPONSE: {"ifc_type": ["Wall", "Roof", "Slab"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Residential (R)"], "design_phase": ["concept", "sd", "dd"], "code_category": "interior_environment", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T14:48:25.123267+00:00] Row Index: 76
+TITLE: Closet
+BODY: A small room or chamber used for storage....
+ESTIMATED TOKENS SENT: 10
+RESPONSE: {"ifc_type": ["Wall", "Door", "Slab"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Residential (R)", "Mercantile (M)"], "design_phase": ["sd", "dd", "cd"], "code_category": "interior_environment", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T14:48:27.263045+00:00] Row Index: 77
+TITLE: Collection Pipe
+BODY: Unpressurized pipe used within the collection system that drains on-site nonpotable water or rainwat...
+ESTIMATED TOKENS SENT: 28
+RESPONSE: {"ifc_type": ["PlumbingElement"], "occupancy": ["Business (B)", "Assembly (A)", "Residential (R)", "Educational (E)", "Mercantile (M)"], "design_phase": ["sd", "dd", "cd"], "code_category": "plumbing_systems", "primary_responsibility": "mechanical_engineer"}
+--------------------
+[2026-01-14T14:48:28.724217+00:00] Row Index: 78
+TITLE: Combination Waste and Vent System
+BODY: A specially designed system of waste piping embodying the horizontal wet venting of one or more sink...
+ESTIMATED TOKENS SENT: 65
+RESPONSE: {"ifc_type": ["PlumbingSystem"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Mercantile (M)", "Residential (R)"], "design_phase": ["sd", "dd", "cd"], "code_category": "plumbing_systems", "primary_responsibility": "mechanical_engineer"}
+--------------------
+[2026-01-14T14:48:30.360339+00:00] Row Index: 79
+TITLE: Combustible Material
+BODY: Any material not defined as noncombustible....
+ESTIMATED TOKENS SENT: 9
+RESPONSE: {"ifc_type": ["Wall", "Slab", "Roof", "Column", "Covering"], "occupancy": ["Assembly (A)", "Business (B)", "Residential (R)", "Institutional (I)", "Mercantile (M)"], "design_phase": ["sd", "dd", "cd"], "code_category": "finishes_materials", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T14:48:31.843340+00:00] Row Index: 80
+TITLE: Combustion Air
+BODY: The air provided to fuel-burning equipment including air for fuel combustion, draft hood dilution an...
+ESTIMATED TOKENS SENT: 28
+RESPONSE: {"ifc_type": ["BuildingElementProxy"], "occupancy": ["Business (B)", "Educational (E)", "Residential (R)", "Assembly (A)", "Institutional (I)"], "design_phase": ["sd", "dd", "cd"], "code_category": "mechanical_systems", "primary_responsibility": "mechanical_engineer"}
+--------------------
+[2026-01-14T14:48:34.356310+00:00] Row Index: 81
+TITLE: Commercial, Building
+BODY: See Section N1101.6....
+ESTIMATED TOKENS SENT: 5
+RESPONSE: {"ifc_type": ["Wall", "Roof", "Slab"], "occupancy": ["Business (B)", "Mercantile (M)"], "design_phase": ["sd", "dd", "cd"], "code_category": "assemblies_envelope", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T14:48:36.564061+00:00] Row Index: 82
+TITLE: Common Vent
+BODY: A single pipe venting two trap arms within the same branch interval, either back-to-back or one abov...
+ESTIMATED TOKENS SENT: 26
+RESPONSE: {"ifc_type": ["BuildingElementProxy"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Factory and Industrial (F)", "Residential (R)"], "design_phase": ["sd", "dd", "cd"], "code_category": "plumbing_systems", "primary_responsibility": "mechanical_engineer"}
+--------------------
+[2026-01-14T14:48:38.130759+00:00] Row Index: 83
+TITLE: Condensate
+BODY: The liquid that separates from a gas due to a reduction in temperature; for example, water that cond...
+ESTIMATED TOKENS SENT: 48
+RESPONSE: {"ifc_type": ["BuildingElementProxy"], "occupancy": ["Business (B)", "Residential (R)", "Educational (E)", "Institutional (I)", "Assembly (A)"], "design_phase": ["sd", "dd", "cd"], "code_category": "mechanical_systems", "primary_responsibility": "mechanical_engineer"}
+--------------------
+[2026-01-14T14:48:39.657418+00:00] Row Index: 84
+TITLE: Condensing Appliance
+BODY: An appliance that condenses water generated by the burning of fuels....
+ESTIMATED TOKENS SENT: 16
+RESPONSE: {"ifc_type": ["BuildingElementProxy"], "occupancy": ["Business (B)", "Educational (E)", "Residential (R)", "Assembly (A)"], "design_phase": ["sd", "dd", "cd"], "code_category": "mechanical_systems", "primary_responsibility": "mechanical_engineer"}
+--------------------
+[2026-01-14T14:48:41.952829+00:00] Row Index: 85
+TITLE: Conditioned Air
+BODY: Air treated to control its temperature, relative humidity or quality....
+ESTIMATED TOKENS SENT: 14
+RESPONSE: {"ifc_type": ["BuildingElementProxy"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Institutional (I)", "Residential (R)"], "design_phase": ["sd", "dd", "cd"], "code_category": "mechanical_systems", "primary_responsibility": "mechanical_engineer"}
+--------------------
+[2026-01-14T14:48:43.442467+00:00] Row Index: 86
+TITLE: Conditioned Area
+BODY: That area within a building provided with heating or cooling systems or appliances capable of mainta...
+ESTIMATED TOKENS SENT: 64
+RESPONSE: {"ifc_type": ["Wall", "Slab", "Roof", "Window", "Door"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Residential (R)"], "design_phase": ["sd", "dd", "cd"], "code_category": "interior_environment", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T14:48:45.029999+00:00] Row Index: 87
+TITLE: Conditioned Floor Area
+BODY: The horizontal projection of the floors associated with the conditioned space....
+ESTIMATED TOKENS SENT: 17
+RESPONSE: {"ifc_type": ["Slab", "Roof"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Residential (R)", "Mercantile (M)"], "design_phase": ["sd", "dd", "cd"], "code_category": "interior_environment", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T14:48:46.485631+00:00] Row Index: 88
+TITLE: Conditioned Space
+BODY: An area, room or space that is enclosed within the building thermal envelope and that is directly he...
+ESTIMATED TOKENS SENT: 92
+RESPONSE: {"ifc_type": ["Wall", "Slab", "Roof", "Door", "Window"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Residential (R)", "Mercantile (M)"], "design_phase": ["sd", "dd", "cd"], "code_category": "interior_environment", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T14:48:50.752872+00:00] Row Index: 89
+TITLE: Construction Documents
+BODY: Written, graphic and pictorial documents prepared or assembled for describing the design, location a...
+ESTIMATED TOKENS SENT: 50
+RESPONSE: {"ifc_type": ["BuildingElementProxy"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Factory and Industrial (F)", "Residential (R)"], "design_phase": ["sd", "dd", "cd"], "code_category": "site_planning", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T14:48:52.566247+00:00] Row Index: 90
+TITLE: Contamination
+BODY: A high hazard or health hazard impairment of the quality of the potable water that creates an actual...
+ESTIMATED TOKENS SENT: 49
+RESPONSE: {"ifc_type": ["PlumbingSystems", "BuildingElementProxy"], "occupancy": ["High Hazard (H)", "Institutional (I)", "Business (B)"], "design_phase": ["sd", "dd", "cd"], "code_category": "plumbing_systems", "primary_responsibility": "mechanical_engineer"}
+--------------------
+[2026-01-14T14:48:54.355972+00:00] Row Index: 91
+TITLE: Continuous Insulation (CI)
+BODY: Insulating material that is continuous across all structural members without thermal bridges other t...
+ESTIMATED TOKENS SENT: 52
+RESPONSE: {"ifc_type": ["Wall", "Slab", "Roof", "Covering"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Residential (R)", "Mercantile (M)"], "design_phase": ["sd", "dd", "cd"], "code_category": "assemblies_envelope", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T14:48:55.941566+00:00] Row Index: 92
+TITLE: Continuous Waste
+BODY: A drain from two or more similar adjacent fixtures connected to a single trap....
+ESTIMATED TOKENS SENT: 20
+RESPONSE: {"ifc_type": ["PlumbingSystem"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Residential (R)", "Institutional (I)"], "design_phase": ["dd", "cd"], "code_category": "plumbing_systems", "primary_responsibility": "mechanical_engineer"}
+--------------------
+[2026-01-14T14:48:59.139207+00:00] Row Index: 93
+TITLE: Control, Limit
+BODY: An automatic control responsive to changes in liquid flow or level, pressure, or temperature for lim...
+ESTIMATED TOKENS SENT: 29
+RESPONSE: {"ifc_type": ["MechanicalSystem"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Institutional (I)", "Residential (R)"], "design_phase": ["dd", "cd"], "code_category": "mechanical_systems", "primary_responsibility": "mechanical_engineer"}
+--------------------
+[2026-01-14T14:49:00.851382+00:00] Row Index: 94
+TITLE: Control, Primary Safety
+BODY: A safety control responsive directly to flame properties that senses the presence or absence of flam...
+ESTIMATED TOKENS SENT: 45
+RESPONSE: {"ifc_type": ["BuildingElementProxy"], "occupancy": ["Business (B)", "Educational (E)", "Residential (R)", "Assembly (A)"], "design_phase": ["dd", "cd"], "code_category": "mechanical_systems", "primary_responsibility": "mechanical_engineer"}
+--------------------
+[2026-01-14T14:49:02.804407+00:00] Row Index: 95
+TITLE: Convector
+BODY: A system-incorporating heating element in an enclosure in which air enters an opening below the heat...
+ESTIMATED TOKENS SENT: 41
+RESPONSE: {"ifc_type": ["BuildingElementProxy"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Institutional (I)", "Residential (R)"], "design_phase": ["sd", "dd", "cd"], "code_category": "mechanical_systems", "primary_responsibility": "mechanical_engineer"}
+--------------------
+[2026-01-14T14:49:04.700253+00:00] Row Index: 96
+TITLE: Core
+BODY: The lightweight middle section of a structural insulated panel, composed of foam plastic insulation ...
+ESTIMATED TOKENS SENT: 30
+RESPONSE: {"ifc_type": ["Wall", "Roof", "Slab"], "occupancy": ["Assembly (A)", "Business (B)", "Residential (R)"], "design_phase": ["sd", "dd", "cd"], "code_category": "assemblies_envelope", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T14:49:06.368659+00:00] Row Index: 97
+TITLE: Corrosion Resistance
+BODY: The ability of a material to withstand deterioration of its surface or its properties where exposed ...
+ESTIMATED TOKENS SENT: 26
+RESPONSE: {"ifc_type": ["Wall", "Roof", "Slab", "Column", "Beam"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Residential (R)", "Institutional (I)"], "design_phase": ["sd", "dd", "cd"], "code_category": "finishes_materials", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T14:49:08.038069+00:00] Row Index: 98
+TITLE: Court
+BODY: A space, open and unobstructed to the sky, located at or above grade level on a lot and bounded on t...
+ESTIMATED TOKENS SENT: 38
+RESPONSE: {"ifc_type": ["Wall", "Slab", "BuildingElementProxy"], "occupancy": ["Assembly (A)", "Business (B)", "Residential (R)"], "design_phase": ["concept", "sd", "dd"], "code_category": "site_planning", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T14:49:10.645503+00:00] Row Index: 99
+TITLE: Cripple Wall
+BODY: A framed wall extending from the top of the foundation to the underside of the floor framing of the ...
+ESTIMATED TOKENS SENT: 33
+RESPONSE: {"ifc_type": ["Wall"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Residential (R)", "Storage (S)"], "design_phase": ["sd", "dd", "cd"], "code_category": "structural_design", "primary_responsibility": "structural_engineer"}
+--------------------
+[2026-01-14T14:49:12.394004+00:00] Row Index: 100
+TITLE: Cross Connection
+BODY: Any connection between two otherwise separate piping systems that allows a flow from one system to t...
+ESTIMATED TOKENS SENT: 25
+RESPONSE: {"ifc_type": ["PlumbingSystems"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Factory and Industrial (F)", "Residential (R)"], "design_phase": ["sd", "dd", "cd"], "code_category": "plumbing_systems", "primary_responsibility": "mechanical_engineer"}
+--------------------
+[2026-01-14T14:49:14.511578+00:00] Row Index: 101
+TITLE: Cross-Laminated Timber
+BODY: A prefabricated engineered wood product consisting of not less than three layers of solid-sawn lumbe...
+ESTIMATED TOKENS SENT: 49
+RESPONSE: {"ifc_type": ["Slab", "Wall", "Roof", "Beam", "Column"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Residential (R)", "Institutional (I)"], "design_phase": ["sd", "dd", "cd"], "code_category": "construction_type_ratings", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T14:49:16.191172+00:00] Row Index: 102
+TITLE: Curtain Wall
+BODY: See Section N1101.6 for definition applicable in Chapter 11....
+ESTIMATED TOKENS SENT: 13
+RESPONSE: {"ifc_type": ["CurtainWall"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Mercantile (M)", "Residential (R)"], "design_phase": ["sd", "dd", "cd"], "code_category": "assemblies_envelope", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T14:49:18.046977+00:00] Row Index: 103
+TITLE: Dalle Glass
+BODY: A decorative composite glazing material made of individual pieces of glass that are embedded in a ca...
+ESTIMATED TOKENS SENT: 30
+RESPONSE: {"ifc_type": ["Wall", "Window", "BuildingElementProxy"], "occupancy": ["Assembly (A)", "Business (B)", "Mercantile (M)", "Residential (R)"], "design_phase": ["sd", "dd", "cd"], "code_category": "finishes_materials", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T14:49:19.777675+00:00] Row Index: 104
+TITLE: Damper, Volume
+BODY: A device that will restrict, retard or direct the flow of air in any duct, or the products of combus...
+ESTIMATED TOKENS SENT: 38
+RESPONSE: {"ifc_type": ["BuildingElementProxy", "Chimney"], "occupancy": ["Business (B)", "Residential (R)", "Institutional (I)", "Assembly (A)", "Educational (E)"], "design_phase": ["sd", "dd", "cd"], "code_category": "mechanical_systems", "primary_responsibility": "mechanical_engineer"}
+--------------------
+[2026-01-14T14:49:22.692696+00:00] Row Index: 105
+TITLE: Dead Loads
+BODY: The weight of the materials of construction incorporated into the building, including but not limite...
+ESTIMATED TOKENS SENT: 50
+RESPONSE: {"ifc_type": ["Wall", "Slab", "Roof", "Stair", "Column"], "occupancy": ["Assembly (A)", "Business (B)", "Residential (R)", "Educational (E)", "Mercantile (M)"], "design_phase": ["sd", "dd", "cd"], "code_category": "structural_design", "primary_responsibility": "structural_engineer"}
+--------------------
+[2026-01-14T14:49:24.148635+00:00] Row Index: 106
+TITLE: Decorative Glass
+BODY: A carved, leaded or Dalle glass or glazing material with a purpose that is decorative or artistic, n...
+ESTIMATED TOKENS SENT: 72
+RESPONSE: {"ifc_type": ["Window", "Door", "Wall", "BuildingElementProxy"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Mercantile (M)", "Residential (R)"], "design_phase": ["sd", "dd", "cd"], "code_category": "finishes_materials", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T14:49:25.763387+00:00] Row Index: 107
+TITLE: Demand Recirculation Water System
+BODY: See Section N1101.6 for definition applicable in Chapter 11....
+ESTIMATED TOKENS SENT: 16
+RESPONSE: {"ifc_type": ["PlumbingSystems"], "occupancy": ["Residential (R)", "Assembly (A)", "Mercantile (M)", "Business (B)"], "design_phase": ["sd", "dd", "cd"], "code_category": "plumbing_systems", "primary_responsibility": "mechanical_engineer"}
+--------------------
+[2026-01-14T14:49:27.751850+00:00] Row Index: 108
+TITLE: Design Professional
+BODY: See "Registered design professional."...
+ESTIMATED TOKENS SENT: 6
+RESPONSE: {"ifc_type": ["BuildingElementProxy"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Factory and Industrial (F)", "Residential (R)"], "design_phase": ["sd", "dd", "cd"], "code_category": "occupancy_classification", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T14:49:29.372149+00:00] Row Index: 109
+TITLE: Developed Length
+BODY: The length of a pipeline measured along the center line of the pipe and fittings....
+ESTIMATED TOKENS SENT: 21
+RESPONSE: {"ifc_type": ["Pipe"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Residential (R)", "Mercantile (M)"], "design_phase": ["sd", "dd", "cd"], "code_category": "plumbing_systems", "primary_responsibility": "mechanical_engineer"}
+--------------------
+[2026-01-14T14:49:30.854612+00:00] Row Index: 110
+TITLE: Diameter
+BODY: Unless specifically stated, the term "diameter" is the nominal diameter as designated by the approve...
+ESTIMATED TOKENS SENT: 22
+RESPONSE: {"ifc_type": ["Pipe", "Beam", "Column"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Factory and Industrial (F)", "Residential (R)"], "design_phase": ["cd"], "code_category": "construction_type_ratings", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T14:49:32.278000+00:00] Row Index: 111
+TITLE: Diaphragm
+BODY: A horizontal or nearly horizontal system acting to transmit lateral forces to the vertical resisting...
+ESTIMATED TOKENS SENT: 36
+RESPONSE: {"ifc_type": ["Slab", "Roof", "Plate", "Beam"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Factory and Industrial (F)", "Residential (R)"], "design_phase": ["sd", "dd", "cd"], "code_category": "structural_design", "primary_responsibility": "structural_engineer"}
+--------------------
+[2026-01-14T14:49:34.769071+00:00] Row Index: 112
+TITLE: Dilution Air
+BODY: Air that enters a draft hood or draft regulator and mixes with flue gases....
+ESTIMATED TOKENS SENT: 20
+RESPONSE: {"ifc_type": ["BuildingElementProxy"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Residential (R)", "Mercantile (M)"], "design_phase": ["sd", "dd", "cd"], "code_category": "mechanical_systems", "primary_responsibility": "mechanical_engineer"}
+--------------------
+[2026-01-14T14:49:36.830246+00:00] Row Index: 113
+TITLE: Direct System
+BODY: A solar thermal system in which the gas or liquid in the solar collector loop is not separated from ...
+ESTIMATED TOKENS SENT: 29
+RESPONSE: {"ifc_type": ["BuildingElementProxy", "Roof"], "occupancy": ["Business (B)", "Educational (E)", "Residential (R)"], "design_phase": ["sd", "dd", "cd"], "code_category": "mechanical_systems", "primary_responsibility": "mechanical_engineer"}
+--------------------
+[2026-01-14T14:49:39.564707+00:00] Row Index: 114
+TITLE: Direct-Vent Appliance
+BODY: A fuel-burning appliance with a sealed combustion system that draws all air for combustion from the ...
+ESTIMATED TOKENS SENT: 37
+RESPONSE: {"ifc_type": ["BuildingElementProxy"], "occupancy": ["Residential (R)", "Business (B)", "Assembly (A)", "Mercantile (M)", "Institutional (I)"], "design_phase": ["sd", "dd", "cd"], "code_category": "mechanical_systems", "primary_responsibility": "mechanical_engineer"}
+--------------------
+[2026-01-14T14:49:41.163692+00:00] Row Index: 115
+TITLE: Draft
+BODY: The pressure difference existing between the appliance or any component part and the atmosphere, tha...
+ESTIMATED TOKENS SENT: 46
+RESPONSE: {"ifc_type": ["BuildingElementProxy"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Factory and Industrial (F)", "Residential (R)"], "design_phase": ["sd", "dd", "cd"], "code_category": "mechanical_systems", "primary_responsibility": "mechanical_engineer"}
+--------------------
+[2026-01-14T14:49:42.607384+00:00] Row Index: 116
+TITLE: Induced Draft
+BODY: The pressure difference created by the action of a fan, blower or ejector, that is located between t...
+ESTIMATED TOKENS SENT: 34
+RESPONSE: {"ifc_type": ["Chimney", "Wall"], "occupancy": ["Business (B)", "Factory and Industrial (F)", "Mercantile (M)", "Residential (R)"], "design_phase": ["sd", "dd", "cd"], "code_category": "mechanical_systems", "primary_responsibility": "mechanical_engineer"}
+--------------------
+[2026-01-14T14:49:44.336024+00:00] Row Index: 117
+TITLE: Natural Draft
+BODY: The pressure difference created by a vent or chimney because of its height, and the temperature diff...
+ESTIMATED TOKENS SENT: 33
+RESPONSE: {"ifc_type": ["Chimney", "Roof"], "occupancy": ["Assembly (A)", "Business (B)", "Residential (R)", "Factory and Industrial (F)", "Institutional (I)"], "design_phase": ["sd", "dd", "cd"], "code_category": "mechanical_systems", "primary_responsibility": "mechanical_engineer"}
+--------------------
+[2026-01-14T14:49:46.219045+00:00] Row Index: 118
+TITLE: Draft Hood
+BODY: A device built into an appliance, or a part of the vent connector from an appliance, that is designe...
+ESTIMATED TOKENS SENT: 96
+RESPONSE: {"ifc_type": ["Chimney", "BuildingElementProxy"], "occupancy": ["Assembly (A)", "Business (B)", "Residential (R)", "Institutional (I)"], "design_phase": ["sd", "dd", "cd"], "code_category": "mechanical_systems", "primary_responsibility": "mechanical_engineer"}
+--------------------
+[2026-01-14T14:49:47.768300+00:00] Row Index: 119
+TITLE: Draft Regulator
+BODY: A device that functions to maintain a desired draft in the appliance by automatically reducing the d...
+ESTIMATED TOKENS SENT: 29
+RESPONSE: {"ifc_type": ["MechanicalSystem"], "occupancy": ["Business (B)", "Residential (R)", "Assembly (A)", "Institutional (I)", "Educational (E)"], "design_phase": ["sd", "dd", "cd"], "code_category": "mechanical_systems", "primary_responsibility": "mechanical_engineer"}
+--------------------
+[2026-01-14T14:49:49.410312+00:00] Row Index: 120
+TITLE: Draft Stop
+BODY: A material, device or construction installed to restrict the movement of air within open spaces of c...
+ESTIMATED TOKENS SENT: 42
+RESPONSE: {"ifc_type": ["Slab", "Roof", "Wall", "Covering"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Residential (R)"], "design_phase": ["sd", "dd", "cd"], "code_category": "fire_resistance_smoke_protection", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T14:49:51.059191+00:00] Row Index: 121
+TITLE: Drain
+BODY: Any pipe that carries soil and water-borne wastes in a building drainage system....
+ESTIMATED TOKENS SENT: 17
+RESPONSE: {"ifc_type": ["PlumbingSystems", "BuildingElementProxy"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Residential (R)", "Institutional (I)"], "design_phase": ["sd", "dd", "cd"], "code_category": "plumbing_systems", "primary_responsibility": "mechanical_engineer"}
+--------------------
+[2026-01-14T14:49:52.628261+00:00] Row Index: 122
+TITLE: Drain-Back System
+BODY: A solar thermal system in which the fluid in the solar collector loop is drained from the collector ...
+ESTIMATED TOKENS SENT: 34
+RESPONSE: {"ifc_type": ["BuildingElementProxy"], "occupancy": ["Business (B)", "Educational (E)", "Factory and Industrial (F)", "Mercantile (M)", "Residential (R)"], "design_phase": ["sd", "dd", "cd"], "code_category": "mechanical_systems", "primary_responsibility": "mechanical_engineer"}
+--------------------
+[2026-01-14T14:49:54.537572+00:00] Row Index: 123
+TITLE: Drainage Fitting
+BODY: A pipe fitting designed to provide connections in the drainage system that have provisions for estab...
+ESTIMATED TOKENS SENT: 61
+RESPONSE: {"ifc_type": ["PipeSegment", "BuildingElementProxy"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Residential (R)", "Mercantile (M)"], "design_phase": ["sd", "dd", "cd"], "code_category": "plumbing_systems", "primary_responsibility": "mechanical_engineer"}
+--------------------
+[2026-01-14T14:49:56.048797+00:00] Row Index: 124
+TITLE: Duct System
+BODY: A continuous passageway for the transmission of air that, in addition to ducts, includes duct fittin...
+ESTIMATED TOKENS SENT: 45
+RESPONSE: {"ifc_type": ["BuildingElementProxy"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Factory and Industrial (F)", "Residential (R)"], "design_phase": ["sd", "dd", "cd"], "code_category": "mechanical_systems", "primary_responsibility": "mechanical_engineer"}
+--------------------
+[2026-01-14T14:49:57.436781+00:00] Row Index: 125
+TITLE: Dwelling
+BODY: Any building that contains one or two dwelling units used, intended, or designed to be built, used, ...
+ESTIMATED TOKENS SENT: 44
+RESPONSE: {"ifc_type": ["Wall", "Slab", "Door", "Window", "Roof"], "occupancy": ["Residential (R)"], "design_phase": ["concept", "sd", "dd", "cd"], "code_category": "occupancy_classification", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T14:49:58.894919+00:00] Row Index: 126
+TITLE: Dwelling Unit
+BODY: A single unit providing complete independent living facilities for one or more persons, including pe...
+ESTIMATED TOKENS SENT: 32
+RESPONSE: {"ifc_type": ["Wall", "Door", "Slab", "Window", "Covering"], "occupancy": ["Residential (R)"], "design_phase": ["concept", "sd", "dd", "cd"], "code_category": "occupancy_classification", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T14:50:00.593640+00:00] Row Index: 127
+TITLE: DWV
+BODY: Abbreviated term for drain, waste and vent piping as used in common plumbing practice....
+ESTIMATED TOKENS SENT: 18
+RESPONSE: {"ifc_type": ["BuildingElementProxy"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Factory and Industrial (F)", "Residential (R)"], "design_phase": ["sd", "dd", "cd"], "code_category": "plumbing_systems", "primary_responsibility": "mechanical_engineer"}
+--------------------
+[2026-01-14T14:50:02.245362+00:00] Row Index: 128
+TITLE: Effective Opening
+BODY: The minimum cross-sectional area at the point of water-supply discharge, measured or expressed in te...
+ESTIMATED TOKENS SENT: 57
+RESPONSE: {"ifc_type": ["PlumbingSystems"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Factory and Industrial (F)", "Residential (R)"], "design_phase": ["dd", "cd"], "code_category": "plumbing_systems", "primary_responsibility": "mechanical_engineer"}
+--------------------
+[2026-01-14T14:50:04.141841+00:00] Row Index: 129
+TITLE: Elbow
+BODY: A pressure pipe fitting designed to provide an exact change in direction of a pipe run. An elbow pro...
+ESTIMATED TOKENS SENT: 40
+RESPONSE: {"ifc_type": ["BuildingElementProxy"], "occupancy": ["Business (B)", "Residential (R)", "Institutional (I)", "Factory and Industrial (F)", "Assembly (A)"], "design_phase": ["sd", "dd", "cd"], "code_category": "plumbing_systems", "primary_responsibility": "mechanical_engineer"}
+--------------------
+[2026-01-14T14:50:05.874791+00:00] Row Index: 130
+TITLE: Emergency Escape and Rescue Opening
+BODY: An operable exterior window, door or similar device that provides for a means of escape and access f...
+ESTIMATED TOKENS SENT: 38
+RESPONSE: {"ifc_type": ["Window", "Door", "Wall"], "occupancy": ["Residential (R)", "Institutional (I)", "Educational (E)"], "design_phase": ["sd", "dd", "cd"], "code_category": "means_of_egress", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T14:50:08.306942+00:00] Row Index: 131
+TITLE: Engineered Wood Rim Board
+BODY: A full-depth structural composite lumber, wood structural panel, structural glued laminated timber o...
+ESTIMATED TOKENS SENT: 70
+RESPONSE: {"ifc_type": ["Beam", "Slab", "BuildingElementProxy"], "occupancy": ["Assembly (A)", "Business (B)", "Residential (R)", "Educational (E)", "Factory and Industrial (F)"], "design_phase": ["sd", "dd", "cd"], "code_category": "structural_design", "primary_responsibility": "structural_engineer"}
+--------------------
+[2026-01-14T14:50:10.915982+00:00] Row Index: 132
+TITLE: Equipment
+BODY: Piping, ducts, vents, control devices and other components of systems other than appliances that are...
+ESTIMATED TOKENS SENT: 52
+RESPONSE: {"ifc_type": ["BuildingElementProxy", "Covering", "Plate"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Factory and Industrial (F)", "Residential (R)"], "design_phase": ["sd", "dd", "cd"], "code_category": "mechanical_systems", "primary_responsibility": "mechanical_engineer"}
+--------------------
+[2026-01-14T14:50:12.696950+00:00] Row Index: 133
+TITLE: Equivalent Length
+BODY: For determining friction losses in a piping system, the effect of a particular fitting equal to the ...
+ESTIMATED TOKENS SENT: 40
+RESPONSE: {"ifc_type": ["PlumbingSystem"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Factory and Industrial (F)", "Residential (R)"], "design_phase": ["sd", "dd", "cd"], "code_category": "plumbing_systems", "primary_responsibility": "mechanical_engineer"}
+--------------------
+[2026-01-14T14:50:14.274477+00:00] Row Index: 134
+TITLE: ERI Reference Design
+BODY: A version of the rated design that meets the minimum requirements of the 2006 International Energy C...
+ESTIMATED TOKENS SENT: 26
+RESPONSE: {"ifc_type": ["Wall", "Slab", "Roof", "Window", "Door"], "occupancy": ["Residential (R)", "Commercial (B)"], "design_phase": ["sd", "dd", "cd"], "code_category": "assemblies_envelope", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T14:50:15.642061+00:00] Row Index: 135
+TITLE: Escarpment
+BODY: With respect to topographic wind effects, a cliff or steep slope generally separating two levels or ...
+ESTIMATED TOKENS SENT: 25
+RESPONSE: {"ifc_type": ["EarthworksElement", "BuildingElementProxy"], "occupancy": ["Assembly (A)", "Business (B)", "Residential (R)", "Educational (E)", "Institutional (I)"], "design_phase": ["concept", "sd", "dd"], "code_category": "site_planning", "primary_responsibility": "civil_engineer"}
+--------------------
+[2026-01-14T14:50:19.408404+00:00] Row Index: 136
+TITLE: Essentially Nontoxic Transfer Fluids
+BODY: Fluids having a Gosselin rating of 1, including propylene glycol; mineral oil; polydimethy oil oxane...
+ESTIMATED TOKENS SENT: 41
+RESPONSE: {"ifc_type": ["BuildingElementProxy"], "occupancy": ["Business (B)", "Educational (E)", "Institutional (I)", "Residential (R)", "Assembly (A)"], "design_phase": ["dd", "cd"], "code_category": "plumbing_systems", "primary_responsibility": "mechanical_engineer"}
+--------------------
+[2026-01-14T14:50:20.719622+00:00] Row Index: 137
+TITLE: Essentially Toxic Transfer Fluids
+BODY: Soil, water or gray water and fluids having a Gosselin rating of 2 or more including ethylene glycol...
+ESTIMATED TOKENS SENT: 36
+RESPONSE: {"ifc_type": ["PipeSegment", "MechanicalFastener"], "occupancy": ["Business (B)", "Factory and Industrial (F)", "High Hazard (H)"], "design_phase": ["sd", "dd", "cd"], "code_category": "hazardous_materials", "primary_responsibility": "mechanical_engineer"}
+--------------------
+[2026-01-14T14:50:21.981936+00:00] Row Index: 138
+TITLE: Evaporative Cooler
+BODY: A device used for reducing air temperature by the process of evaporating water into an airstream....
+ESTIMATED TOKENS SENT: 22
+RESPONSE: {"ifc_type": ["BuildingElementProxy"], "occupancy": ["Business (B)", "Educational (E)", "Residential (R)", "Assembly (A)", "Institutional (I)"], "design_phase": ["sd", "dd", "cd"], "code_category": "mechanical_systems", "primary_responsibility": "mechanical_engineer"}
+--------------------
+[2026-01-14T14:50:23.805301+00:00] Row Index: 139
+TITLE: Excess Air
+BODY: Air that passes through the combustion chamber and the appliance flue in excess of what is theoretic...
+ESTIMATED TOKENS SENT: 29
+RESPONSE: {"ifc_type": ["BuildingElementProxy"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Factory and Industrial (F)", "Residential (R)"], "design_phase": ["sd", "dd", "cd"], "code_category": "mechanical_systems", "primary_responsibility": "mechanical_engineer"}
+--------------------
+[2026-01-14T14:50:25.565113+00:00] Row Index: 140
+TITLE: Exhaust Hood, Full Opening
+BODY: An exhaust hood with an opening not less than the diameter of the connecting vent....
+ESTIMATED TOKENS SENT: 24
+RESPONSE: {"ifc_type": ["BuildingElementProxy"], "occupancy": ["Business (B)", "Educational (E)", "Factory and Industrial (F)", "Mercantile (M)", "Residential (R)"], "design_phase": ["sd", "dd", "cd"], "code_category": "mechanical_systems", "primary_responsibility": "mechanical_engineer"}
+--------------------
+[2026-01-14T14:50:27.138285+00:00] Row Index: 141
+TITLE: Existing Installations
+BODY: Any plumbing system regulated by this code that was legally installed prior to the effective date of...
+ESTIMATED TOKENS SENT: 40
+RESPONSE: {"ifc_type": ["PlumbingSystem"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Residential (R)", "Mercantile (M)"], "design_phase": ["cd", "ca"], "code_category": "plumbing_systems", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T14:50:28.475818+00:00] Row Index: 142
+TITLE: Exterior Insulation and Finish Systems (EIFS)
+BODY: EIFS are nonstructural, nonload-bearing exterior wall cladding systems that consist of an insulation...
+ESTIMATED TOKENS SENT: 53
+RESPONSE: {"ifc_type": ["Wall", "Covering"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Residential (R)", "Mercantile (M)"], "design_phase": ["sd", "dd", "cd"], "code_category": "finishes_materials", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T14:50:30.330118+00:00] Row Index: 143
+TITLE: Exterior Insulation and Finish Systems (EIFS) With Drainage
+BODY: An EIFS that incorporates a means of drainage applied over a water-resistive barrier....
+ESTIMATED TOKENS SENT: 26
+RESPONSE: {"ifc_type": ["Covering", "Wall"], "occupancy": ["Business (B)", "Residential (R)", "Educational (E)", "Mercantile (M)", "Assembly (A)"], "design_phase": ["sd", "dd", "cd"], "code_category": "assemblies_envelope", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T14:50:32.634607+00:00] Row Index: 144
+TITLE: Exterior Wall
+BODY: An above-grade wall that defines the exterior boundaries of a building. Includes between-floor spand...
+ESTIMATED TOKENS SENT: 80
+RESPONSE: {"ifc_type": ["Wall", "Slab", "Roof"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Residential (R)", "Mercantile (M)"], "design_phase": ["sd", "dd", "cd"], "code_category": "assemblies_envelope", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T14:50:36.131140+00:00] Row Index: 145
+TITLE: Exterior Wall Covering
+BODY: A material or assembly of materials applied on the exterior side of exterior walls for the purpose o...
+ESTIMATED TOKENS SENT: 66
+RESPONSE: {"ifc_type": ["Covering", "Wall", "BuildingElementProxy"], "occupancy": ["Assembly (A)", "Business (B)", "Residential (R)", "Educational (E)", "Mercantile (M)"], "design_phase": ["sd", "dd", "cd"], "code_category": "assemblies_envelope", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T14:50:40.142928+00:00] Row Index: 146
+TITLE: Facing
+BODY: The wood structural panel facings that form the two outmost rigid layers of the structural insulated...
+ESTIMATED TOKENS SENT: 22
+RESPONSE: {"ifc_type": ["Wall", "Roof", "Slab"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Residential (R)", "Mercantile (M)"], "design_phase": ["sd", "dd", "cd"], "code_category": "assemblies_envelope", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T14:50:41.869663+00:00] Row Index: 147
+TITLE: Factory-Built Chimney
+BODY: A listed and labeled chimney composed of factory-made components assembled in the field in accordanc...
+ESTIMATED TOKENS SENT: 34
+RESPONSE: {"ifc_type": ["Chimney"], "occupancy": ["Factory and Industrial (F)", "Residential (R)", "Business (B)", "Assembly (A)", "Institutional (I)"], "design_phase": ["sd", "dd", "cd"], "code_category": "special_construction", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T14:50:43.571690+00:00] Row Index: 148
+TITLE: Factory-Made Air Duct
+BODY: A listed and labeled duct manufactured in a factory and assembled in the field in accordance with th...
+ESTIMATED TOKENS SENT: 36
+RESPONSE: {"ifc_type": ["BuildingElementProxy"], "occupancy": ["Factory and Industrial (F)", "Business (B)", "Assembly (A)", "Residential (R)", "Institutional (I)"], "design_phase": ["dd", "cd"], "code_category": "mechanical_systems", "primary_responsibility": "mechanical_engineer"}
+--------------------
+[2026-01-14T14:50:45.142634+00:00] Row Index: 149
+TITLE: Fenestration
+BODY: Skylights, roof windows, vertical windows (whether fixed or moveable); opaque doors; glazed doors; g...
+ESTIMATED TOKENS SENT: 38
+RESPONSE: {"ifc_type": ["Window", "Roof", "Door", "Slab"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Residential (R)", "Mercantile (M)"], "design_phase": ["sd", "dd", "cd"], "code_category": "assemblies_envelope", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T14:50:47.468597+00:00] Row Index: 150
+TITLE: Fiber-Cement (Backerboard, Siding, Soffit, Trim and Underlayment) Products
+BODY: Manufactured thin section composites of hydraulic cementitious matrices and discrete nonasbestos fib...
+ESTIMATED TOKENS SENT: 25
+RESPONSE: {"ifc_type": ["Wall", "Roof", "Slab", "Covering", "BuildingElementProxy"], "occupancy": ["Assembly (A)", "Business (B)", "Residential (R)"], "design_phase": ["sd", "dd", "cd"], "code_category": "finishes_materials", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T14:50:49.492712+00:00] Row Index: 151
+TITLE: Fireblocking
+BODY: Building materials or materials approved for use as fireblocking, installed to resist the free passa...
+ESTIMATED TOKENS SENT: 34
+RESPONSE: {"ifc_type": ["Wall", "Slab", "Roof", "CurtainWall", "Covering"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Factory and Industrial (F)", "Residential (R)"], "design_phase": ["sd", "dd", "cd"], "code_category": "fire_resistance_smoke_protection", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T14:50:51.199560+00:00] Row Index: 152
+TITLE: Fireplace
+BODY: An assembly consisting of a hearth and fire chamber of noncombustible material and provided with a c...
+ESTIMATED TOKENS SENT: 29
+RESPONSE: {"ifc_type": ["Chimney", "Covering", "BuildingElementProxy"], "occupancy": ["Assembly (A)", "Business (B)", "Residential (R)"], "design_phase": ["sd", "dd", "cd"], "code_category": "special_construction", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T14:50:53.134887+00:00] Row Index: 153
+TITLE: Factory-Built Fireplace
+BODY: A listed and labeled fireplace and chimney system composed of factory-made components, and assembled...
+ESTIMATED TOKENS SENT: 38
+RESPONSE: {"ifc_type": ["Chimney", "BuildingElementProxy"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Factory and Industrial (F)", "Residential (R)"], "design_phase": ["sd", "dd", "cd"], "code_category": "special_construction", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T14:50:55.641733+00:00] Row Index: 154
+TITLE: Masonry Fireplace
+BODY: A field-constructed fireplace composed of solid masonry units, bricks, stones or concrete....
+ESTIMATED TOKENS SENT: 17
+RESPONSE: {"ifc_type": ["Chimney"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Mercantile (M)", "Residential (R)"], "design_phase": ["sd", "dd", "cd"], "code_category": "special_construction", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T14:50:58.643723+00:00] Row Index: 155
+TITLE: Fireplace Stove
+BODY: A free-standing, chimney-connected solid-fuel-burning heater designed to be operated with the fire c...
+ESTIMATED TOKENS SENT: 29
+RESPONSE: {"ifc_type": ["Chimney", "BuildingElementProxy"], "occupancy": ["Residential (R)", "Assembly (A)", "Business (B)"], "design_phase": ["sd", "dd", "cd"], "code_category": "mechanical_systems", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T14:51:00.030515+00:00] Row Index: 156
+TITLE: Fireplace Throat
+BODY: The opening between the top of the firebox and the smoke chamber....
+ESTIMATED TOKENS SENT: 17
+RESPONSE: {"ifc_type": ["Chimney"], "occupancy": ["Residential (R)", "Assembly (A)", "Business (B)"], "design_phase": ["sd", "dd", "cd"], "code_category": "special_construction", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T14:51:01.616939+00:00] Row Index: 157
+TITLE: Fire-Retardant-Treated Wood
+BODY: Pressure-treated lumber and plywood that exhibit reduced surface burning characteristics and resist ...
+ESTIMATED TOKENS SENT: 21
+RESPONSE: {"ifc_type": ["Wall", "Roof", "Slab", "Covering"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Residential (R)"], "design_phase": ["sd", "dd", "cd"], "code_category": "fire_resistance_smoke_protection", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T14:51:04.957596+00:00] Row Index: 158
+TITLE: Other Means During Manufacture
+BODY: A process where the wood raw material is treated with a fire-retardant formulation while undergoing ...
+ESTIMATED TOKENS SENT: 30
+RESPONSE: {"ifc_type": ["Wall", "Roof", "Slab", "Beam", "Column"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Residential (R)", "Institutional (I)"], "design_phase": ["sd", "dd", "cd"], "code_category": "finishes_materials", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T14:51:06.799407+00:00] Row Index: 159
+TITLE: Pressure Process
+BODY: A process for treating wood using an initial vacuum followed by the introduction of pressure above a...
+ESTIMATED TOKENS SENT: 24
+RESPONSE: {"ifc_type": ["Wall", "Beam", "Column", "Slab"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Residential (R)", "Institutional (I)"], "design_phase": ["sd", "dd", "cd"], "code_category": "finishes_materials", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T14:51:10.051397+00:00] Row Index: 160
+TITLE: Fire Separation Distance
+BODY: The distance measured from the building face to one of the following: To the closest interior lot li...
+ESTIMATED TOKENS SENT: 74
