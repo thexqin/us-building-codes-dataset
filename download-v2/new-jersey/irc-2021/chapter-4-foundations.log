@@ -1,0 +1,120 @@
+Log started: 2026-01-14T19:47:57.555755+00:00
+Source: download/new-jersey/irc-2021/chapter-4-foundations.csv
+--------------------------------------------------
+
+[2026-01-14T19:47:57.563313+00:00] Row Index: 113
+TITLE: General
+BODY: Walls or portions thereof that retain earth and enclose interior spaces and floors below grade shall...
+ESTIMATED TOKENS SENT: 492
+RESPONSE: {"ifc_type": ["Wall", "Slab", "Footing"], "occupancy": ["Residential (R)", "Institutional (I)"], "design_phase": ["sd", "dd", "cd"], "code_category": "assemblies_envelope", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T19:48:00.367538+00:00] Row Index: 114
+TITLE: Story Above Grade Plane
+BODY: Where a basement is considered a story above grade plane and the finished ground level adjacent to t...
+ESTIMATED TOKENS SENT: 125
+RESPONSE: {"ifc_type": ["Wall", "Slab", "Footing"], "occupancy": ["Residential (R)"], "design_phase": ["sd", "dd", "cd"], "code_category": "assemblies_envelope", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T19:48:02.935669+00:00] Row Index: 115
+TITLE: Under-Floor Space
+BODY: The finished ground level of an under-floor space such as a crawl space shall not be located below t...
+ESTIMATED TOKENS SENT: 133
+RESPONSE: {"ifc_type": ["Footing", "Slab", "Wall"], "occupancy": ["Residential (R)"], "design_phase": ["sd", "dd", "cd"], "code_category": "site_planning", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T19:48:04.260789+00:00] Row Index: 116
+TITLE: Flood Hazard Areas
+BODY: For buildings and structures in flood hazard areas as established in Section R322, the finished grou...
+ESTIMATED TOKENS SENT: 73
+RESPONSE: {"ifc_type": ["Slab", "Wall", "BuildingElementProxy"], "occupancy": ["Residential (R)", "Business (B)", "Assembly (A)", "Mercantile (M)", "Institutional (I)"], "design_phase": ["sd", "dd", "cd"], "code_category": "site_planning", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T19:48:07.049276+00:00] Row Index: 117
+TITLE: Ground-Water Control
+BODY: Where the groundwater table is lowered and maintained at an elevation not less than 6 inches (152 mm...
+ESTIMATED TOKENS SENT: 132
+RESPONSE: {"ifc_type": ["Slab", "Wall", "Footing", "EarthworksElement"], "occupancy": ["Residential (R)", "Business (B)", "Assembly (A)"], "design_phase": ["sd", "dd", "cd"], "code_category": "site_planning", "primary_responsibility": "civil_engineer"}
+--------------------
+[2026-01-14T19:48:09.290389+00:00] Row Index: 118
+TITLE: Dampproofing
+BODY: Where hydrostatic pressure will not occur, floors and walls for other than wood foundation systems s...
+ESTIMATED TOKENS SENT: 45
+RESPONSE: {"ifc_type": ["Wall", "Slab", "Footing"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Factory and Industrial (F)", "Residential (R)"], "design_phase": ["sd", "dd", "cd"], "code_category": "assemblies_envelope", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T19:48:12.646233+00:00] Row Index: 119
+TITLE: Floors
+BODY: Dampproofing materials for floors shall be installed between the floor and the base course required ...
+ESTIMATED TOKENS SENT: 146
+RESPONSE: {"ifc_type": ["Slab", "Covering"], "occupancy": ["Residential (R)", "Assembly (A)", "Business (B)"], "design_phase": ["sd", "dd", "cd"], "code_category": "assemblies_envelope", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T19:48:14.497595+00:00] Row Index: 120
+TITLE: Walls
+BODY: Dampproofing materials for walls shall be installed on the exterior surface of the wall, and shall e...
+ESTIMATED TOKENS SENT: 96
+RESPONSE: {"ifc_type": ["Wall", "Footing"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Factory and Industrial (F)", "High Hazard (H)"], "design_phase": ["sd", "dd", "cd"], "code_category": "assemblies_envelope", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T19:48:16.316011+00:00] Row Index: 121
+TITLE: Surface Preparation of Walls
+BODY: Prior to application of dampproofing materials on concrete walls, holes and recesses resulting from ...
+ESTIMATED TOKENS SENT: 117
+RESPONSE: {"ifc_type": ["Wall", "Footing"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Residential (R)", "Institutional (I)"], "design_phase": ["cd", "ca"], "code_category": "finishes_materials", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T19:48:18.318114+00:00] Row Index: 122
+TITLE: Waterproofing
+BODY: Where the ground-water investigation indicates that a hydrostatic pressure condition exists, and the...
+ESTIMATED TOKENS SENT: 49
+RESPONSE: {"ifc_type": ["Wall", "Slab"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Factory and Industrial (F)", "Residential (R)"], "design_phase": ["sd", "dd", "cd"], "code_category": "assemblies_envelope", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T19:48:19.906708+00:00] Row Index: 123
+TITLE: Floors
+BODY: Floors required to be waterproofed shall be of concrete and designed and constructed to withstand th...
+ESTIMATED TOKENS SENT: 120
+RESPONSE: {"ifc_type": ["Slab"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Residential (R)", "Institutional (I)"], "design_phase": ["sd", "dd", "cd"], "code_category": "assemblies_envelope", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T19:48:21.792791+00:00] Row Index: 124
+TITLE: Walls
+BODY: Walls required to be waterproofed shall be of concrete or masonry and shall be designed and construc...
+ESTIMATED TOKENS SENT: 172
+RESPONSE: {"ifc_type": ["Wall"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Residential (R)", "Institutional (I)"], "design_phase": ["sd", "dd", "cd"], "code_category": "assemblies_envelope", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T19:48:23.428229+00:00] Row Index: 125
+TITLE: Surface Preparation of Walls
+BODY: Prior to the application of waterproofing materials on concrete or masonry walls, the walls shall be...
+ESTIMATED TOKENS SENT: 33
+RESPONSE: {"ifc_type": ["Wall"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Residential (R)", "Institutional (I)"], "design_phase": ["sd", "dd", "cd"], "code_category": "finishes_materials", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T19:48:25.453606+00:00] Row Index: 126
+TITLE: Joints and Penetrations
+BODY: Joints in walls and floors, joints between the wall and floor, and penetrations of the wall and floo...
+ESTIMATED TOKENS SENT: 38
+RESPONSE: {"ifc_type": ["Wall", "Slab", "Floor", "BuildingElementProxy"], "occupancy": ["Assembly (A)", "Business (B)", "Residential (R)", "Educational (E)", "Institutional (I)"], "design_phase": ["dd", "cd"], "code_category": "assemblies_envelope", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T19:48:27.071798+00:00] Row Index: 127
+TITLE: Subsoil Drainage System
+BODY: Where a hydrostatic pressure condition does not exist, dampproofing shall be provided and a base sha...
+ESTIMATED TOKENS SENT: 69
+RESPONSE: {"ifc_type": ["Slab", "Footing", "EarthworksElement"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Factory and Industrial (F)", "Residential (R)"], "design_phase": ["sd", "dd", "cd"], "code_category": "site_planning", "primary_responsibility": "civil_engineer"}
+--------------------
+[2026-01-14T19:48:29.113794+00:00] Row Index: 128
+TITLE: Floor Base Course
+BODY: Floors of basements, except as provided for in Section R406.1.1, shall be placed over a floor base c...
+ESTIMATED TOKENS SENT: 97
+RESPONSE: {"ifc_type": ["Slab", "Course"], "occupancy": ["Residential (R)"], "design_phase": ["sd", "dd", "cd"], "code_category": "assemblies_envelope", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T19:48:30.939684+00:00] Row Index: 129
+TITLE: Foundation Drain
+BODY: A drain shall be placed around the perimeter of a foundation that consists of gravel or crushed ston...
+ESTIMATED TOKENS SENT: 257
+RESPONSE: {"ifc_type": ["Footing", "Slab", "BuildingElementProxy"], "occupancy": ["Residential (R)", "Business (B)", "Assembly (A)"], "design_phase": ["sd", "dd", "cd"], "code_category": "site_planning", "primary_responsibility": "civil_engineer"}
+--------------------
+[2026-01-14T19:48:32.820123+00:00] Row Index: 130
+TITLE: Drainage Discharge
+BODY: The floor base and foundation perimeter drain shall discharge by gravity or mechanical means into an...
+ESTIMATED TOKENS SENT: 64
+RESPONSE: {"ifc_type": ["Slab", "Footing", "EarthworksElement"], "occupancy": ["Residential (R)", "Business (B)", "Assembly (A)", "Educational (E)", "Institutional (I)"], "design_phase": ["sd", "dd", "cd"], "code_category": "plumbing_systems", "primary_responsibility": "civil_engineer"}
+--------------------
+
+==================================================
+SUMMARY STATISTICS
+Total Rows Processed by AI: 18
+Total Estimated Tokens Sent: 2258
+==================================================
+
+CSV Saved Successfully at 2026-01-14T19:48:34.854207+00:00

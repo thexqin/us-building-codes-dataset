@@ -1,0 +1,72 @@
+Log started: 2026-01-14T19:49:02.586520+00:00
+Source: download/new-york/ibc-2024/chapter-4-special-detailed-requirements-based-on-occupancy-and-use.csv
+--------------------------------------------------
+
+[2026-01-14T19:49:02.591590+00:00] Row Index: 140
+TITLE: Disconnecting Means
+BODY: Electric vehicle charging equipment shall be equipped with disconnecting means in accordance with Se...
+ESTIMATED TOKENS SENT: 32
+RESPONSE: {"ifc_type": ["BuildingElementProxy"], "occupancy": ["Assembly (A)", "Business (B)", "Mercantile (M)", "Residential (R)", "Storage (S)"], "design_phase": ["dd", "cd"], "code_category": "electrical_systems", "primary_responsibility": "electrical_engineer"}
+--------------------
+[2026-01-14T19:49:04.968782+00:00] Row Index: 192
+TITLE: Parking Garage Condition Assessments
+BODY: It shall be the responsibility of the owner or operator of each parking garage, as defined in Append...
+ESTIMATED TOKENS SENT: 56
+RESPONSE: {"ifc_type": ["Slab", "Column", "Beam", "Wall"], "occupancy": ["Utility and Miscellaneous (U)"], "design_phase": ["ca"], "code_category": "site_planning", "primary_responsibility": "owner"}
+--------------------
+[2026-01-14T19:49:07.334004+00:00] Row Index: 193
+TITLE: Initial Condition Assessment
+BODY: Following construction and prior to a certificate of occupancy or certificate of compliance being is...
+ESTIMATED TOKENS SENT: 57
+RESPONSE: {"ifc_type": ["Slab", "Wall", "Column"], "occupancy": ["Utility and Miscellaneous (U)"], "design_phase": ["cd", "ca"], "code_category": "site_planning", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T19:49:09.019177+00:00] Row Index: 194
+TITLE: Periodic and Additional Condition Assessments
+BODY: Following the initial condition assessment of a parking garage, periodic and additional condition as...
+ESTIMATED TOKENS SENT: 46
+RESPONSE: {"ifc_type": ["Slab", "Column", "Beam", "Wall", "Ramp"], "occupancy": ["Storage (S)"], "design_phase": ["cd", "ca"], "code_category": "site_planning", "primary_responsibility": "civil_engineer"}
+--------------------
+[2026-01-14T19:49:10.391576+00:00] Row Index: 630
+TITLE: General
+BODY: Health care facilities located in special flood hazard areas shall comply with the provisions of thi...
+ESTIMATED TOKENS SENT: 32
+RESPONSE: {"ifc_type": ["BuildingElementProxy", "Slab", "Wall"], "occupancy": ["Institutional (I)"], "design_phase": ["sd", "dd", "cd"], "code_category": "site_planning", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T19:49:12.334122+00:00] Row Index: 631
+TITLE: Temporary External Electrical Power Supply Sources, Boilers and Chillers
+BODY: Connections for temporary external generators, boilers and chillers shall be provided in: Group I-1,...
+ESTIMATED TOKENS SENT: 61
+RESPONSE: {"ifc_type": ["BuildingElementProxy", "MechanicalSystem"], "occupancy": ["Institutional (I)", "Residential (R)"], "design_phase": ["sd", "dd", "cd"], "code_category": "electrical_systems", "primary_responsibility": "electrical_engineer"}
+--------------------
+[2026-01-14T19:49:13.964234+00:00] Row Index: 632
+TITLE: Group I-1, I-2 and R-4, Condition 2 Occupancies
+BODY: An occupancy that is classified as Group I-1, I-2 or R-4, Condition 2 occupancy shall comply with th...
+ESTIMATED TOKENS SENT: 360
+RESPONSE: {"ifc_type": ["BuildingElementProxy", "ElectricalSystem", "Door", "Elevator"], "occupancy": ["Institutional (I)", "Residential (R)"], "design_phase": ["sd", "dd", "cd"], "code_category": "electrical_systems", "primary_responsibility": "electrical_engineer"}
+--------------------
+[2026-01-14T19:49:15.878644+00:00] Row Index: 633
+TITLE: Hospitals
+BODY: An occupancy that is a hospital shall comply shall comply with the following: Connections for tempor...
+ESTIMATED TOKENS SENT: 556
+RESPONSE: {"ifc_type": ["BuildingElementProxy"], "occupancy": ["Institutional (I)"], "design_phase": ["sd", "dd", "cd"], "code_category": "electrical_systems", "primary_responsibility": "electrical_engineer"}
+--------------------
+[2026-01-14T19:49:17.378138+00:00] Row Index: 634
+TITLE: Nursing Homes
+BODY: An occupancy that is a nursing home shall comply with the following: Connections for temporary exter...
+ESTIMATED TOKENS SENT: 290
+RESPONSE: {"ifc_type": ["BuildingElementProxy"], "occupancy": ["Institutional (I)"], "design_phase": ["sd", "dd", "cd"], "code_category": "electrical_systems", "primary_responsibility": "electrical_engineer"}
+--------------------
+[2026-01-14T19:49:18.912146+00:00] Row Index: 636
+TITLE: Live Fire Training Buildings
+BODY: Live fire training buildings and any appurtenances connected or attached to such buildings or struct...
+ESTIMATED TOKENS SENT: 50
+RESPONSE: {"ifc_type": ["Wall", "Roof", "Door", "Slab", "BuildingElementProxy"], "occupancy": ["Assembly (A)", "Educational (E)"], "design_phase": ["sd", "dd", "cd"], "code_category": "special_construction", "primary_responsibility": "architect"}
+--------------------
+
+==================================================
+SUMMARY STATISTICS
+Total Rows Processed by AI: 10
+Total Estimated Tokens Sent: 1540
+==================================================
+
+CSV Saved Successfully at 2026-01-14T19:49:20.822241+00:00

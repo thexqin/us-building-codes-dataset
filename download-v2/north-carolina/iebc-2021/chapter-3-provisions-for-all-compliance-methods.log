@@ -1,0 +1,306 @@
+Log started: 2026-01-14T19:53:44.754864+00:00
+Source: download/north-carolina/iebc-2021/chapter-3-provisions-for-all-compliance-methods.csv
+--------------------------------------------------
+
+[2026-01-14T19:53:44.757754+00:00] Row Index: 3
+TITLE: Bleachers, Grandstands and Folding and Telescopic Seating
+BODY: Existing bleachers, grandstands and folding and telescopic seating shall comply with ICC 300....
+ESTIMATED TOKENS SENT: 25
+RESPONSE: {"ifc_type": ["BuildingElementProxy", "Stair", "Railing"], "occupancy": ["Assembly (A)"], "design_phase": ["sd", "dd", "cd"], "code_category": "special_construction", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T19:53:46.112295+00:00] Row Index: 19
+TITLE: Storm Shelters
+BODY: This section applies to the construction of storm shelters constructed as rooms or spaces within exi...
+ESTIMATED TOKENS SENT: 85
+RESPONSE: {"ifc_type": ["Wall", "Slab", "Roof", "Door", "Window"], "occupancy": ["Assembly (A)", "Educational (E)", "Institutional (I)", "Residential (R)"], "design_phase": ["sd", "dd", "cd"], "code_category": "special_construction", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T19:53:47.694586+00:00] Row Index: 27
+TITLE: Design
+BODY: Buildings and facilities shall be designed and constructed to be accessible in accordance with this ...
+ESTIMATED TOKENS SENT: 37
+RESPONSE: {"ifc_type": ["Door", "Ramp", "Stair", "Slab", "Elevator"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Factory and Industrial (F)", "Residential (R)"], "design_phase": ["sd", "dd", "cd"], "code_category": "accessibility", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T19:53:49.903498+00:00] Row Index: 28
+TITLE: Maintenance and Repair
+BODY: A facility that is constructed or altered to be accessible shall be maintained accessible during occ...
+ESTIMATED TOKENS SENT: 84
+RESPONSE: {"ifc_type": ["Door", "Ramp", "Stair", "RampFlight", "Slab"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Institutional (I)", "Residential (R)"], "design_phase": ["cd", "ca"], "code_category": "accessibility", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T19:53:52.087779+00:00] Row Index: 29
+TITLE: Prohibited Reduction in Accessibility
+BODY: An alteration that decreases or has the effect of decreasing accessibility of a building, facility o...
+ESTIMATED TOKENS SENT: 70
+RESPONSE: {"ifc_type": ["Door", "Ramp", "Stair", "Slab", "Window"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Factory and Industrial (F)", "Residential (R)"], "design_phase": ["sd", "dd", "cd"], "code_category": "accessibility", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T19:53:53.674433+00:00] Row Index: 30
+TITLE: Fuel Dispensers
+BODY: Operable parts of replacement fuel dispensers shall be permitted to be 54 inches (1370 mm) maximum m...
+ESTIMATED TOKENS SENT: 44
+RESPONSE: {"ifc_type": ["BuildingElementProxy", "Pavement", "Kerb"], "occupancy": ["Mercantile (M)", "Utility and Miscellaneous (U)"], "design_phase": ["sd", "dd", "cd"], "code_category": "accessibility", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T19:53:55.352441+00:00] Row Index: 41
+TITLE: Ramps
+BODY: Where steeper slopes than allowed by Section 1012.2 of the International Building Code are necessita...
+ESTIMATED TOKENS SENT: 89
+RESPONSE: {"ifc_type": ["Ramp"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Institutional (I)", "Residential (R)"], "design_phase": ["sd", "dd", "cd"], "code_category": "accessibility", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T19:53:56.928841+00:00] Row Index: 43
+TITLE: Platform Lifts
+BODY: Platform (wheelchair) lifts installed in accordance with ASME A18.1 shall be permitted as a componen...
+ESTIMATED TOKENS SENT: 26
+RESPONSE: {"ifc_type": ["Ramp", "Elevator"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Institutional (I)", "Mercantile (M)"], "design_phase": ["sd", "dd", "cd"], "code_category": "accessibility", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T19:53:58.203936+00:00] Row Index: 44
+TITLE: Inclined Stairway Chairlifts
+BODY: Inclined stairway chairlifts that do not reduce the required means of egress and installed in accord...
+ESTIMATED TOKENS SENT: 113
+RESPONSE: {"ifc_type": ["Stair", "StairFlight", "Railing"], "occupancy": ["Assembly (A)", "Business (B)"], "design_phase": ["sd", "dd", "cd"], "code_category": "accessibility", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T19:53:59.881061+00:00] Row Index: 45
+TITLE: Stairways and Escalators in Existing Buildings
+BODY: Where an escalator or stairway is added where none existed previously and major structural modificat...
+ESTIMATED TOKENS SENT: 61
+RESPONSE: {"ifc_type": ["Stair", "Ramp", "Elevator"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Residential (R)", "Mercantile (M)"], "design_phase": ["sd", "dd", "cd"], "code_category": "accessibility", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T19:54:01.330430+00:00] Row Index: 46
+TITLE: Determination of Number of Units
+BODY: Where Chapter 11 of the International Building Code requires Accessible, Type A or Type B units and ...
+ESTIMATED TOKENS SENT: 65
+RESPONSE: {"ifc_type": ["BuildingElementProxy", "Door", "Slab"], "occupancy": ["Residential (R)", "Institutional (I)", "Assembly (A)"], "design_phase": ["sd", "dd", "cd"], "code_category": "accessibility", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T19:54:02.784184+00:00] Row Index: 47
+TITLE: Accessible Dwelling or Sleeping Units
+BODY: Where Group I-1, I-2, I-3, R-1, R-2 or R-4 dwelling or sleeping units are being altered or added, th...
+ESTIMATED TOKENS SENT: 61
+RESPONSE: {"ifc_type": ["Door", "Window", "Slab", "Wall", "Ramp"], "occupancy": ["Institutional (I)", "Residential (R)"], "design_phase": ["sd", "dd", "cd"], "code_category": "accessibility", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T19:54:05.351546+00:00] Row Index: 48
+TITLE: Type A Dwelling or Sleeping Units
+BODY: Where more than 20 Group R-2 dwelling or sleeping units are being altered or added, the requirements...
+ESTIMATED TOKENS SENT: 61
+RESPONSE: {"ifc_type": ["BuildingElementProxy", "Door", "Slab", "Wall", "Window"], "occupancy": ["Residential (R)"], "design_phase": ["sd", "dd", "cd"], "code_category": "accessibility", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T19:54:08.416740+00:00] Row Index: 49
+TITLE: Type B Dwelling or Sleeping Units
+BODY: Where four or more Group I-1, I-2, R-1, R-2, R-3 or R-4 dwelling or sleeping units are being added, ...
+ESTIMATED TOKENS SENT: 140
+RESPONSE: {"ifc_type": ["Door", "Window", "Slab", "Wall"], "occupancy": ["Institutional (I)", "Residential (R)"], "design_phase": ["sd", "dd", "cd"], "code_category": "accessibility", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T19:54:09.710619+00:00] Row Index: 50
+TITLE: Toilet Rooms
+BODY: Where it is technically infeasible to alter existing toilet rooms to be accessible, one accessible s...
+ESTIMATED TOKENS SENT: 137
+RESPONSE: {"ifc_type": ["Door", "Wall", "Slab"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Institutional (I)", "Mercantile (M)"], "design_phase": ["sd", "dd", "cd"], "code_category": "accessibility", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T19:54:12.071512+00:00] Row Index: 51
+TITLE: Bathing Rooms
+BODY: Where it is technically infeasible to alter existing bathing rooms to be accessible, one accessible ...
+ESTIMATED TOKENS SENT: 138
+RESPONSE: {"ifc_type": ["Wall", "Door", "Slab", "BuildingElementProxy"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Institutional (I)", "Residential (R)"], "design_phase": ["sd", "dd", "cd"], "code_category": "accessibility", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T19:54:14.909697+00:00] Row Index: 52
+TITLE: Additional Toilet and Bathing Facilities
+BODY: In assembly and mercantile occupancies, where additional toilet fixtures are added, not fewer than o...
+ESTIMATED TOKENS SENT: 93
+RESPONSE: {"ifc_type": ["Door", "Slab", "Wall"], "occupancy": ["Assembly (A)", "Mercantile (M)"], "design_phase": ["sd", "dd", "cd"], "code_category": "accessibility", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T19:54:16.271942+00:00] Row Index: 53
+TITLE: Dressing, Fitting and Locker Rooms
+BODY: Where it is technically infeasible to provide accessible dressing, fitting or locker rooms at the sa...
+ESTIMATED TOKENS SENT: 80
+RESPONSE: {"ifc_type": ["Wall", "Door", "Slab", "Covering"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Institutional (I)", "Residential (R)"], "design_phase": ["sd", "dd", "cd"], "code_category": "accessibility", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T19:54:18.020457+00:00] Row Index: 54
+TITLE: Amusement Rides
+BODY: Where the structural or operational characteristics of an amusement ride are altered to the extent t...
+ESTIMATED TOKENS SENT: 66
+RESPONSE: {"ifc_type": ["BuildingElementProxy", "StructuralElement", "SpecialConstruction"], "occupancy": ["Assembly (A)"], "design_phase": ["sd", "dd", "cd"], "code_category": "special_construction", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T19:54:19.737696+00:00] Row Index: 55
+TITLE: Historic Structures
+BODY: Where compliance with the requirements for accessible routes, entrances or toilet rooms would threat...
+ESTIMATED TOKENS SENT: 116
+RESPONSE: {"ifc_type": ["Door", "Ramp", "Stair", "Toilet", "RampFlight"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Institutional (I)", "Residential (R)"], "design_phase": ["sd", "dd", "cd"], "code_category": "accessibility", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T19:54:21.581307+00:00] Row Index: 56
+TITLE: Site Arrival Points
+BODY: Not fewer than one exterior accessible route, including curb ramps from a site arrival point to an a...
+ESTIMATED TOKENS SENT: 49
+RESPONSE: {"ifc_type": ["Kerb", "Ramp", "Pavement", "Door"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Factory and Industrial (F)", "Residential (R)"], "design_phase": ["sd", "dd", "cd"], "code_category": "accessibility", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T19:54:23.265390+00:00] Row Index: 57
+TITLE: Multiple-Level Buildings and Facilities
+BODY: An accessible route from an accessible entrance to public spaces on the level of the accessible entr...
+ESTIMATED TOKENS SENT: 30
+RESPONSE: {"ifc_type": ["Door", "Ramp", "Stair", "Slab"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Institutional (I)", "Residential (R)"], "design_phase": ["sd", "dd", "cd"], "code_category": "accessibility", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T19:54:24.862208+00:00] Row Index: 58
+TITLE: Entrances
+BODY: Where an entrance cannot be made accessible in accordance with Section 306.7.5, an accessible entran...
+ESTIMATED TOKENS SENT: 81
+RESPONSE: {"ifc_type": ["Door", "Wall", "BuildingElementProxy"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Factory and Industrial (F)", "Residential (R)"], "design_phase": ["sd", "dd", "cd"], "code_category": "accessibility", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T19:54:26.688776+00:00] Row Index: 59
+TITLE: Toilet Facilities
+BODY: Where toilet rooms are provided, not fewer than one accessible single-user toilet room or one access...
+ESTIMATED TOKENS SENT: 45
+RESPONSE: {"ifc_type": ["Door", "Slab", "Wall"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Mercantile (M)", "Residential (R)"], "design_phase": ["sd", "dd", "cd"], "code_category": "accessibility", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T19:54:28.352591+00:00] Row Index: 60
+TITLE: Bathing Facilities
+BODY: Where bathing rooms are provided, not fewer than one accessible single-user bathing room or one acce...
+ESTIMATED TOKENS SENT: 45
+RESPONSE: {"ifc_type": ["Door", "Wall", "Slab"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Institutional (I)", "Residential (R)"], "design_phase": ["sd", "dd", "cd"], "code_category": "accessibility", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T19:54:30.099135+00:00] Row Index: 61
+TITLE: Type A Units
+BODY: The alteration to Type A individually owned dwelling units within a Group R-2 occupancy shall be per...
+ESTIMATED TOKENS SENT: 38
+RESPONSE: {"ifc_type": ["Door", "Slab", "Wall", "Window"], "occupancy": ["Residential (R)"], "design_phase": ["sd", "dd", "cd"], "code_category": "accessibility", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T19:54:32.038796+00:00] Row Index: 62
+TITLE: Type B Units
+BODY: Type B dwelling or sleeping units required by Section 1108 of the International Building Code are no...
+ESTIMATED TOKENS SENT: 34
+RESPONSE: {"ifc_type": ["Door", "Ramp", "RampFlight", "Stair", "Window"], "occupancy": ["Residential (R)", "Institutional (I)"], "design_phase": ["sd", "dd", "cd"], "code_category": "accessibility", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T19:54:34.371455+00:00] Row Index: 63
+TITLE: Thresholds
+BODY: The maximum height of thresholds at doorways shall be 3/4 inch (19.1 mm). Such thresholds shall have...
+ESTIMATED TOKENS SENT: 29
+RESPONSE: {"ifc_type": ["Door", "Slab"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Mercantile (M)", "Residential (R)"], "design_phase": ["sd", "dd", "cd"], "code_category": "accessibility", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T19:54:38.698152+00:00] Row Index: 65
+TITLE: Fire Alarm and Detection
+BODY: Fire alarms and detection systems shall be installed in accordance with Sections 307.2 and 307.3....
+ESTIMATED TOKENS SENT: 24
+RESPONSE: {"ifc_type": ["BuildingElementProxy"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Institutional (I)", "Residential (R)"], "design_phase": ["sd", "dd", "cd"], "code_category": "fire_protection_alarm_systems", "primary_responsibility": "fire_protection_engineer"}
+--------------------
+[2026-01-14T19:54:40.681043+00:00] Row Index: 66
+TITLE: Fire Alarms
+BODY: Work areas that do not have an existing fire alarm system are not required to install a fire alarm s...
+ESTIMATED TOKENS SENT: 104
+RESPONSE: {"ifc_type": ["FireProtection", "BuildingElementProxy", "Wall"], "occupancy": ["Residential (R)", "Business (B)", "Assembly (A)"], "design_phase": ["sd", "dd", "cd"], "code_category": "fire_protection_alarm_systems", "primary_responsibility": "fire_protection_engineer"}
+--------------------
+[2026-01-14T19:54:42.110355+00:00] Row Index: 67
+TITLE: Smoke Alarms
+BODY: Individual sleeping units and individual dwelling units in any work area in Group R and I-1 occupanc...
+ESTIMATED TOKENS SENT: 93
+RESPONSE: {"ifc_type": ["BuildingElementProxy"], "occupancy": ["Residential (R)", "Institutional (I)"], "design_phase": ["sd", "dd", "cd"], "code_category": "fire_protection_alarm_systems", "primary_responsibility": "fire_protection_engineer"}
+--------------------
+[2026-01-14T19:54:43.237833+00:00] Row Index: 68
+TITLE: Smoke Detection Group R Mixed Use
+BODY: Any nonresidential occupancy work area located directly below Group R shall be provided with single-...
+ESTIMATED TOKENS SENT: 124
+RESPONSE: {"ifc_type": ["Wall", "Door"], "occupancy": ["Residential (R)", "Business (B)", "Mercantile (M)"], "design_phase": ["sd", "dd", "cd"], "code_category": "fire_protection_alarm_systems", "primary_responsibility": "fire_protection_engineer"}
+--------------------
+[2026-01-14T19:54:45.232310+00:00] Row Index: 69
+TITLE: Smoke Alarms in One- And Two-Family Dwellings and Townhouses
+BODY: Detached one- and two-family dwellings and townhouses shall be provided with smoke alarms installed ...
+ESTIMATED TOKENS SENT: 44
+RESPONSE: {"ifc_type": ["BuildingElementProxy", "Covering", "Wall"], "occupancy": ["Residential (R)"], "design_phase": ["sd", "dd", "cd"], "code_category": "fire_protection_alarm_systems", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T19:54:48.088646+00:00] Row Index: 71
+TITLE: Carbon Monoxide Detection Alarms
+BODY: Individual sleeping units and individual dwelling units in Group R and I occupancies and classrooms ...
+ESTIMATED TOKENS SENT: 89
+RESPONSE: {"ifc_type": ["BuildingElementProxy"], "occupancy": ["Residential (R)", "Institutional (I)", "Educational (E)", "Assembly (A)"], "design_phase": ["sd", "dd", "cd"], "code_category": "fire_protection_alarm_systems", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T19:54:49.484246+00:00] Row Index: 72
+TITLE: Carbon Monoxide Alarms in One- And Two-Family Dwellings and Townhouses
+BODY: Detached one- and two-family dwellings and townhouses shall be provided with carbon monoxide alarms ...
+ESTIMATED TOKENS SENT: 46
+RESPONSE: {"ifc_type": ["BuildingElementProxy"], "occupancy": ["Residential (R)"], "design_phase": ["sd", "dd", "cd"], "code_category": "fire_protection_alarm_systems", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T19:54:53.055375+00:00] Row Index: 77
+TITLE: General
+BODY: The provisions of Appendix D of the International Building Code and N.C.G.S. 160D-1128 shall apply t...
+ESTIMATED TOKENS SENT: 26
+RESPONSE: {"ifc_type": ["BuildingElementProxy"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Factory and Industrial (F)", "Residential (R)"], "design_phase": ["concept", "sd", "dd", "cd"], "code_category": "site_planning", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T19:54:54.753485+00:00] Row Index: 79
+TITLE: General
+BODY: Existing A-2 and A-3 occupancies shall be permitted to provide facilities for temporary overflow eme...
+ESTIMATED TOKENS SENT: 50
+RESPONSE: {"ifc_type": ["BuildingElementProxy", "Wall", "Door"], "occupancy": ["Assembly (A)"], "design_phase": ["sd", "dd", "cd"], "code_category": "occupancy_classification", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T19:54:56.236606+00:00] Row Index: 80
+TITLE: Occupant Load and Age
+BODY: The total number of homeless occupants is limited to 20 individuals who are ambulatory. The homeless...
+ESTIMATED TOKENS SENT: 148
+RESPONSE: {"ifc_type": ["Wall", "Door", "Window"], "occupancy": ["Institutional (I)", "Residential (R)"], "design_phase": ["sd", "dd", "cd"], "code_category": "occupancy_classification", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T19:54:57.477697+00:00] Row Index: 81
+TITLE: Construction Type
+BODY: The building must be of Type I, II, or III construction....
+ESTIMATED TOKENS SENT: 16
+RESPONSE: {"ifc_type": ["Wall", "Slab", "Column", "Beam", "Roof"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Residential (R)", "Mercantile (M)"], "design_phase": ["sd", "dd", "cd"], "code_category": "construction_type_ratings", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T19:54:59.702761+00:00] Row Index: 82
+TITLE: Staff
+BODY: The temporary overflow emergency shelter must be staffed by a minimum of two individuals of 21 years...
+ESTIMATED TOKENS SENT: 78
+RESPONSE: {"ifc_type": ["BuildingElementProxy"], "occupancy": ["Institutional (I)"], "design_phase": ["sd", "dd", "cd"], "code_category": "fire_protection_alarm_systems", "primary_responsibility": "fire_protection_engineer"}
+--------------------
+[2026-01-14T19:55:01.063412+00:00] Row Index: 83
+TITLE: Fire Alarm and Detection Systems
+BODY: Functioning smoke detection and a local fire alarm system in accordance with Section 907.2.8 of the ...
+ESTIMATED TOKENS SENT: 90
+RESPONSE: {"ifc_type": ["Wall", "Door", "Stair", "BuildingElementProxy"], "occupancy": ["Institutional (I)", "Residential (R)"], "design_phase": ["dd", "cd", "ca"], "code_category": "fire_protection_alarm_systems", "primary_responsibility": "fire_protection_engineer"}
+--------------------
+[2026-01-14T19:55:03.891253+00:00] Row Index: 84
+TITLE: Means of Egress
+BODY: There shall be a minimum of two separate code compliant means of egress serving the temporary overfl...
+ESTIMATED TOKENS SENT: 69
+RESPONSE: {"ifc_type": ["Door", "Stair", "Ramp", "Wall"], "occupancy": ["Institutional (I)"], "design_phase": ["sd", "dd", "cd"], "code_category": "means_of_egress", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T19:55:05.596519+00:00] Row Index: 85
+TITLE: Illumination
+BODY: The temporary overflow emergency shelter sleeping room and exit access corridors and stairs shall ha...
+ESTIMATED TOKENS SENT: 40
+RESPONSE: {"ifc_type": ["Slab", "Stair", "Wall", "Door"], "occupancy": ["Residential (R)", "Institutional (I)"], "design_phase": ["sd", "dd", "cd"], "code_category": "fire_protection_alarm_systems", "primary_responsibility": "electrical_engineer"}
+--------------------
+[2026-01-14T19:55:07.517654+00:00] Row Index: 86
+TITLE: Automatic Sprinkler System
+BODY: No fire protection sprinkler system is required by Section 903.2.8, Exception 2 of the North Carolin...
+ESTIMATED TOKENS SENT: 26
+RESPONSE: {"ifc_type": ["BuildingElementProxy"], "occupancy": ["Residential (R)"], "design_phase": ["sd", "dd", "cd"], "code_category": "fire_protection_alarm_systems", "primary_responsibility": "fire_protection_engineer"}
+--------------------
+[2026-01-14T19:55:08.681834+00:00] Row Index: 87
+TITLE: Ventilation and Temperature Control
+BODY: Heating, cooling, and ventilation must be provided by equipment installed and approved for such use....
+ESTIMATED TOKENS SENT: 33
+RESPONSE: {"ifc_type": ["BuildingElementProxy"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Factory and Industrial (F)", "Residential (R)"], "design_phase": ["sd", "dd", "cd"], "code_category": "mechanical_systems", "primary_responsibility": "mechanical_engineer"}
+--------------------
+[2026-01-14T19:55:10.405449+00:00] Row Index: 88
+TITLE: Fire Extinguishers
+BODY: There must be an adequate number of fire extinguishers to serve the temporary overflow emergency she...
+ESTIMATED TOKENS SENT: 61
+RESPONSE: {"ifc_type": ["BuildingElementProxy"], "occupancy": ["Institutional (I)"], "design_phase": ["sd", "dd", "cd"], "code_category": "fire_protection_alarm_systems", "primary_responsibility": "fire_protection_engineer"}
+--------------------
+[2026-01-14T19:55:11.992545+00:00] Row Index: 89
+TITLE: Occupant Restrictions
+BODY: No smoking is permitted in the temporary overflow emergency shelter....
+ESTIMATED TOKENS SENT: 14
+RESPONSE: {"ifc_type": ["BuildingElementProxy"], "occupancy": ["Institutional (I)"], "design_phase": ["sd", "dd", "cd"], "code_category": "interior_environment", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T19:55:13.364525+00:00] Row Index: 90
+TITLE: Permits
+BODY: Temporary overflow emergency shelters must be approved by the local code official for occupancy by i...
+ESTIMATED TOKENS SENT: 88
+RESPONSE: {"ifc_type": ["BuildingElementProxy"], "occupancy": ["Institutional (I)", "Assembly (A)"], "design_phase": ["concept", "sd", "dd", "cd"], "code_category": "occupancy_classification", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T19:55:14.563594+00:00] Row Index: 91
+TITLE: Accessibility
+BODY: For temporary overflow emergency shelters, compliance with Chapter 11 and Section 1007 of the North ...
+ESTIMATED TOKENS SENT: 48
+RESPONSE: {"ifc_type": ["BuildingElementProxy"], "occupancy": ["Residential (R)", "Institutional (I)"], "design_phase": ["sd", "dd", "cd"], "code_category": "accessibility", "primary_responsibility": "architect"}
+--------------------
+
+==================================================
+SUMMARY STATISTICS
+Total Rows Processed by AI: 49
+Total Estimated Tokens Sent: 3253
+==================================================
+
+CSV Saved Successfully at 2026-01-14T19:55:15.939843+00:00

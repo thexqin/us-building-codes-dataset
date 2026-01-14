@@ -1,0 +1,24 @@
+Log started: 2026-01-14T19:46:56.577486+00:00
+Source: download/new-jersey/ibc-2021/chapter-5-general-building-heights-and-areas.csv
+--------------------------------------------------
+
+[2026-01-14T19:46:56.583536+00:00] Row Index: 9
+TITLE: Occupied Roofs
+BODY: A roof level or portion thereof shall be permitted to be used as an occupied roof provided the occup...
+ESTIMATED TOKENS SENT: 273
+RESPONSE: {"ifc_type": ["Roof", "Slab", "Stair", "Door", "Railing"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Residential (R)"], "design_phase": ["sd", "dd", "cd"], "code_category": "building_height_area_limits", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T19:47:02.042563+00:00] Row Index: 10
+TITLE: Enclosures Over Occupied Roof Areas
+BODY: Elements or structures enclosing the occupied roof areas shall not extend more than 48 inches (1220 ...
+ESTIMATED TOKENS SENT: 62
+RESPONSE: {"ifc_type": ["Wall", "Roof", "BuildingElementProxy"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Residential (R)"], "design_phase": ["sd", "dd", "cd"], "code_category": "building_height_area_limits", "primary_responsibility": "architect"}
+--------------------
+
+==================================================
+SUMMARY STATISTICS
+Total Rows Processed by AI: 2
+Total Estimated Tokens Sent: 335
+==================================================
+
+CSV Saved Successfully at 2026-01-14T19:47:03.648678+00:00

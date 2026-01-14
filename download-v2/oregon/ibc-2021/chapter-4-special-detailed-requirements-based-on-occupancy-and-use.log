@@ -1,0 +1,86 @@
+Log started: 2026-01-14T19:55:31.682143+00:00
+Source: download/oregon/ibc-2021/chapter-4-special-detailed-requirements-based-on-occupancy-and-use.csv
+--------------------------------------------------
+
+[2026-01-14T19:55:31.688835+00:00] Row Index: 63
+TITLE: Wall Assembly Materials—Soft Body Impact
+BODY: The panels making up the enclosures for interior exit stairways and elevator hoistway enclosures sha...
+ESTIMATED TOKENS SENT: 62
+RESPONSE: {"ifc_type": ["Wall"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Institutional (I)", "Residential (R)"], "design_phase": ["dd", "cd"], "code_category": "finishes_materials", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T19:55:35.210241+00:00] Row Index: 64
+TITLE: Wall Assembly Materials—Hard Body Impact
+BODY: The panels making up the enclosures for interior exit stairways and elevator hoistway enclosures tha...
+ESTIMATED TOKENS SENT: 182
+RESPONSE: {"ifc_type": ["Wall", "Stair", "Elevator"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Institutional (I)", "Residential (R)"], "design_phase": ["sd", "dd", "cd"], "code_category": "finishes_materials", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T19:55:36.704292+00:00] Row Index: 65
+TITLE: Concrete and Masonry Walls
+BODY: Concrete or masonry walls shall be deemed to satisfy the requirements of Sections 403.2.2.1 and 403....
+ESTIMATED TOKENS SENT: 25
+RESPONSE: {"ifc_type": ["Wall"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Residential (R)", "Institutional (I)"], "design_phase": ["sd", "dd", "cd"], "code_category": "fire_resistance_smoke_protection", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T19:55:38.079360+00:00] Row Index: 66
+TITLE: Other Wall Assemblies
+BODY: Any other wall assembly that provides impact resistance equivalent to that required by Sections 403....
+ESTIMATED TOKENS SENT: 61
+RESPONSE: {"ifc_type": ["Wall", "BuildingElementProxy"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Institutional (I)", "Residential (R)"], "design_phase": ["sd", "dd", "cd"], "code_category": "assemblies_envelope", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T19:55:40.699054+00:00] Row Index: 67
+TITLE: Sprayed Fire-Resistant Materials (SFRM)
+BODY: The bond strength of the SFRM installed throughout the building shall be in accordance with Table 40...
+ESTIMATED TOKENS SENT: 92
+RESPONSE: {"ifc_type": ["Wall", "Beam", "Column", "Slab", "Roof"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Residential (R)", "Institutional (I)"], "design_phase": ["dd", "cd", "ca"], "code_category": "fire_resistance_smoke_protection", "primary_responsibility": "fire_protection_engineer"}
+--------------------
+[2026-01-14T19:55:42.078316+00:00] Row Index: 70
+TITLE: Riser Location
+BODY: Sprinkler risers shall be placed in interior exit stairways and ramps that are remotely located in a...
+ESTIMATED TOKENS SENT: 28
+RESPONSE: {"ifc_type": ["Stair", "Ramp", "Slab"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Institutional (I)", "Residential (R)"], "design_phase": ["sd", "dd", "cd"], "code_category": "fire_protection_alarm_systems", "primary_responsibility": "fire_protection_engineer"}
+--------------------
+[2026-01-14T19:55:43.375083+00:00] Row Index: 131
+TITLE: Automatic Garage Door Openers and Vehicular Gates
+BODY: Automatic garage door openers shall be listed and labeled in accordance with UL 325. Where provided,...
+ESTIMATED TOKENS SENT: 40
+RESPONSE: {"ifc_type": ["Door", "BuildingElementProxy"], "occupancy": ["Residential (R)", "Business (B)", "Utility and Miscellaneous (U)"], "design_phase": ["sd", "dd", "cd"], "code_category": "special_construction", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T19:55:45.600723+00:00] Row Index: 180
+TITLE: Indoor Motor Fuel-Dispensing Facilities
+BODY: Motor fuel-dispensing facilities located inside buildings shall comply with this code and NFPA 30A....
+ESTIMATED TOKENS SENT: 22
+RESPONSE: {"ifc_type": ["BuildingElementProxy", "Wall", "Door", "Slab"], "occupancy": ["Mercantile (M)", "Utility and Miscellaneous (U)", "High Hazard (H)"], "design_phase": ["sd", "dd", "cd"], "code_category": "hazardous_materials", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T19:55:47.224755+00:00] Row Index: 181
+TITLE: Protection of Floor Openings in Indoor Motor Fuel-Dispensing Facilities
+BODY: Where motor fuel-dispensing facilities are located inside buildings and the dispensers are located a...
+ESTIMATED TOKENS SENT: 57
+RESPONSE: {"ifc_type": ["Slab", "Floor", "Covering"], "occupancy": ["Factory and Industrial (F)", "Storage (S)"], "design_phase": ["sd", "dd", "cd"], "code_category": "hazardous_materials", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T19:55:48.833811+00:00] Row Index: 182
+TITLE: Vehicle Fueling Pad
+BODY: The vehicle shall be fueled on noncoated concrete or other approved paving material having a resista...
+ESTIMATED TOKENS SENT: 41
+RESPONSE: {"ifc_type": ["Slab", "Pavement"], "occupancy": ["Factory and Industrial (F)", "Utility and Miscellaneous (U)"], "design_phase": ["sd", "dd", "cd"], "code_category": "hazardous_materials", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T19:55:51.334431+00:00] Row Index: 185
+TITLE: Above-Ground Tanks Located Inside Buildings
+BODY: Above-ground tanks for the storage of Class I, II and IIIA liquid fuels are allowed to be located in...
+ESTIMATED TOKENS SENT: 86
+RESPONSE: {"ifc_type": ["Wall", "Slab", "BuildingElementProxy"], "occupancy": ["Factory and Industrial (F)", "Storage (S)", "Utility and Miscellaneous (U)"], "design_phase": ["sd", "dd", "cd"], "code_category": "hazardous_materials", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T19:55:53.444058+00:00] Row Index: 186
+TITLE: Special Enclosures
+BODY: Where installation of tanks underground is impractical, or because of property or building limitatio...
+ESTIMATED TOKENS SENT: 262
+RESPONSE: {"ifc_type": ["Slab", "Wall", "BuildingElementProxy"], "occupancy": ["Factory and Industrial (F)", "Storage (S)"], "design_phase": ["sd", "dd", "cd"], "code_category": "hazardous_materials", "primary_responsibility": "fire_protection_engineer"}
+--------------------
+[2026-01-14T19:55:55.110287+00:00] Row Index: 187
+TITLE: Physical Protection
+BODY: Guard posts complying with Section 912.4.4 or other approved means shall be provided to protect abov...
+ESTIMATED TOKENS SENT: 50
+RESPONSE: {"ifc_type": ["BuildingElementProxy", "Wall", "Column"], "occupancy": ["Factory and Industrial (F)", "High Hazard (H)", "Storage (S)", "Utility and Miscellaneous (U)"], "design_phase": ["sd", "dd", "cd"], "code_category": "hazardous_materials", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T19:55:56.998519+00:00] Row Index: 188
+TITLE: Secondary Containment
+BODY: Above-ground tanks shall be provided with drainage control or diking in accordance with this chapter...
+ESTIMATED TOKENS SENT: 72

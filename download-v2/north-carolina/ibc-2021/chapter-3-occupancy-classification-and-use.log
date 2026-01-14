@@ -1,0 +1,54 @@
+Log started: 2026-01-14T19:51:41.713858+00:00
+Source: download/north-carolina/ibc-2021/chapter-3-occupancy-classification-and-use.csv
+--------------------------------------------------
+
+[2026-01-14T19:51:41.719669+00:00] Row Index: 26
+TITLE: Cooperative Innovative High School Programs
+BODY: Educational occupancies for high school students participating in Cooperative Innovative High School...
+ESTIMATED TOKENS SENT: 41
+RESPONSE: {"ifc_type": ["BuildingElementProxy"], "occupancy": ["Business (B)", "Educational (E)"], "design_phase": ["concept", "sd", "dd", "cd"], "code_category": "occupancy_classification", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T19:51:43.919342+00:00] Row Index: 27
+TITLE: Drop-in/Short-Term Child Care
+BODY: Drop-in/short-term childcare facility as defined in North Carolina G.S. 110-86(2)(d) &amp; (d1) shal...
+ESTIMATED TOKENS SENT: 26
+RESPONSE: {"ifc_type": ["BuildingElementProxy", "Door", "Window", "Wall"], "occupancy": ["Educational (E)"], "design_phase": ["sd", "dd", "cd"], "code_category": "occupancy_classification", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T19:51:45.819097+00:00] Row Index: 37
+TITLE: Processing and Extraction Facilities
+BODY: Processing and extraction facilities shall comply with Chapter 39 of the International Fire Code....
+ESTIMATED TOKENS SENT: 22
+RESPONSE: {"ifc_type": ["BuildingElementProxy", "Wall", "Door"], "occupancy": ["Factory and Industrial (F)", "High Hazard (H)"], "design_phase": ["sd", "dd", "cd"], "code_category": "hazardous_materials", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T19:51:47.231632+00:00] Row Index: 41
+TITLE: Uses Other Than Group H
+BODY: An occupancy that stores, uses or handles hazardous materials as described in one or more of the fol...
+ESTIMATED TOKENS SENT: 570
+RESPONSE: {"ifc_type": ["BuildingElementProxy", "Wall", "Slab"], "occupancy": ["Business (B)", "Factory and Industrial (F)", "Mercantile (M)", "Residential (R)", "Storage (S)"], "design_phase": ["sd", "dd", "cd"], "code_category": "occupancy_classification", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T19:51:50.597636+00:00] Row Index: 73
+TITLE: Drop-in/Short-Term Child Care
+BODY: Drop-in/short-term child care facility as defined in North Carolina G.S. 110-86(2)(d) &amp; (d1) sha...
+ESTIMATED TOKENS SENT: 28
+RESPONSE: {"ifc_type": ["BuildingElementProxy"], "occupancy": ["Educational (E)"], "design_phase": ["concept", "sd", "dd", "cd"], "code_category": "occupancy_classification", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T19:51:51.980276+00:00] Row Index: 84
+TITLE: Lodging Houses / Bed and Breakfast.
+BODY: Owner-occupied lodging houses with eight or fewer guest rooms shall be permitted to be constructed i...
+ESTIMATED TOKENS SENT: 36
+RESPONSE: {"ifc_type": ["Wall", "Slab", "Roof", "Door", "Window"], "occupancy": ["Residential (R)"], "design_phase": ["concept", "sd", "dd", "cd"], "code_category": "occupancy_classification", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T19:51:53.688049+00:00] Row Index: 92
+TITLE: High-Piled Storage
+BODY: High-piled combustible storage or rack storage shall be in accordance with Section 413 and with Chap...
+ESTIMATED TOKENS SENT: 30
+RESPONSE: {"ifc_type": ["BuildingElementProxy", "Slab", "Wall"], "occupancy": ["Storage (S)"], "design_phase": ["sd", "dd", "cd"], "code_category": "hazardous_materials", "primary_responsibility": "fire_protection_engineer"}
+--------------------
+
+==================================================
+SUMMARY STATISTICS
+Total Rows Processed by AI: 7
+Total Estimated Tokens Sent: 753
+==================================================
+
+CSV Saved Successfully at 2026-01-14T19:51:56.385430+00:00

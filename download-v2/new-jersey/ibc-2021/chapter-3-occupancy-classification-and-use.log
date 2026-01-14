@@ -1,0 +1,24 @@
+Log started: 2026-01-14T19:45:45.796015+00:00
+Source: download/new-jersey/ibc-2021/chapter-3-occupancy-classification-and-use.csv
+--------------------------------------------------
+
+[2026-01-14T19:45:45.800500+00:00] Row Index: 38
+TITLE: Uses Other Than Group H
+BODY: An occupancy that stores, uses or handles hazardous materials as described in one or more of the fol...
+ESTIMATED TOKENS SENT: 546
+RESPONSE: {"ifc_type": ["BuildingElementProxy", "Wall", "Slab", "Roof"], "occupancy": ["Business (B)", "Factory and Industrial (F)", "Mercantile (M)", "Residential (R)", "Storage (S)"], "design_phase": ["sd", "dd", "cd"], "code_category": "occupancy_classification", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T19:45:50.055711+00:00] Row Index: 81
+TITLE: Residential Group R-5
+BODY: Residential Group R-5 occupancies shall include all detached one- and two-family dwellings not more ...
+ESTIMATED TOKENS SENT: 202
+RESPONSE: {"ifc_type": ["Wall", "Door", "Slab"], "occupancy": ["Residential (R)"], "design_phase": ["concept", "sd", "dd", "cd"], "code_category": "occupancy_classification", "primary_responsibility": "architect"}
+--------------------
+
+==================================================
+SUMMARY STATISTICS
+Total Rows Processed by AI: 2
+Total Estimated Tokens Sent: 748
+==================================================
+
+CSV Saved Successfully at 2026-01-14T19:45:52.606961+00:00

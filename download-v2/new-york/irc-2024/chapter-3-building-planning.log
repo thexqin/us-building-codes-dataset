@@ -1,0 +1,366 @@
+Log started: 2026-01-14T19:49:37.553105+00:00
+Source: download/new-york/irc-2024/chapter-3-building-planning.csv
+--------------------------------------------------
+
+[2026-01-14T19:49:37.560127+00:00] Row Index: 60
+TITLE: Opening Protectives
+BODY: Openings in horizontal and vertical assemblies required by Section R302.3 shall have fire-protection...
+ESTIMATED TOKENS SENT: 112
+RESPONSE: {"ifc_type": ["Door", "Wall", "Slab"], "occupancy": ["Residential (R)"], "design_phase": ["sd", "dd", "cd"], "code_category": "fire_resistance_smoke_protection", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T19:49:38.766952+00:00] Row Index: 155
+TITLE: Application of the Required Flood Elevation
+BODY: The required flood elevation determined in accordance with Sections R306.1.4 and R306.1.4.1 shall be...
+ESTIMATED TOKENS SENT: 48
+RESPONSE: {"ifc_type": ["Slab", "Wall", "Footing", "BuildingElementProxy"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Residential (R)", "Storage (S)"], "design_phase": ["sd", "dd", "cd"], "code_category": "site_planning", "primary_responsibility": "civil_engineer"}
+--------------------
+[2026-01-14T19:49:41.387599+00:00] Row Index: 158
+TITLE: Establishing the Design Required Flood Elevation
+BODY: At a minimum, the required flood elevation shall be the higher of the following: The base flood elev...
+ESTIMATED TOKENS SENT: 134
+RESPONSE: {"ifc_type": ["Slab", "Footing", "Wall"], "occupancy": ["Assembly (A)", "Business (B)", "Residential (R)", "Institutional (I)", "Mercantile (M)"], "design_phase": ["sd", "dd", "cd"], "code_category": "site_planning", "primary_responsibility": "civil_engineer"}
+--------------------
+[2026-01-14T19:49:43.499010+00:00] Row Index: 167
+TITLE: Flood Hazard Areas (Including A Zones, B Zones and Shaded X Zones)
+BODY: Areas that have been determined to be prone to flooding and that are not subject to high-velocity wa...
+ESTIMATED TOKENS SENT: 144
+RESPONSE: {"ifc_type": ["Slab", "Wall", "Footing", "BuildingElementProxy"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Residential (R)", "Mercantile (M)"], "design_phase": ["sd", "dd", "cd"], "code_category": "site_planning", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T19:49:45.186928+00:00] Row Index: 173
+TITLE: Coastal High-Hazard Areas (Including V Zones, and Coastal A Zones, B Zones, and Shaded X Zones Adjacent to a Coastal a or V Zone, Where Designated and Areas Wholly or Partially Designated by FEMA as Coastal Special Flood Hazard Areas)
+BODY: Areas that have been determined to be subject to wave heights in excess of 3 feet (914 mm) or subjec...
+ESTIMATED TOKENS SENT: 178
+RESPONSE: {"ifc_type": ["Slab", "Wall", "Footing", "Roof", "Column"], "occupancy": ["Residential (R)", "Assembly (A)", "Business (B)", "Mercantile (M)"], "design_phase": ["sd", "dd", "cd"], "code_category": "site_planning", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T19:49:46.848020+00:00] Row Index: 203
+TITLE: Attached Garages
+BODY: Heat detection rated for the ambient outdoor temperatures shall be installed in new garages that are...
+ESTIMATED TOKENS SENT: 106
+RESPONSE: {"ifc_type": ["BuildingElementProxy", "Door", "Slab"], "occupancy": ["Residential (R)"], "design_phase": ["sd", "dd", "cd"], "code_category": "fire_protection_alarm_systems", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T19:49:49.933237+00:00] Row Index: 207
+TITLE: Heat Detection Interconnection
+BODY: Heat detection shall be connected to an alarm or smoke alarm that is installed in the dwelling unit....
+ESTIMATED TOKENS SENT: 60
+RESPONSE: {"ifc_type": ["BuildingElementProxy"], "occupancy": ["Residential (R)"], "design_phase": ["sd", "dd", "cd"], "code_category": "fire_protection_alarm_systems", "primary_responsibility": "fire_protection_engineer"}
+--------------------
+[2026-01-14T19:49:51.425959+00:00] Row Index: 215
+TITLE: Portable Smoke Alarms in Lodging Houses
+BODY: In addition to, but not in limitation of, any other requirement of this code, portable smoke alarms ...
+ESTIMATED TOKENS SENT: 128
+RESPONSE: {"ifc_type": ["BuildingElementProxy"], "occupancy": ["Residential (R)"], "design_phase": ["sd", "dd", "cd"], "code_category": "fire_protection_alarm_systems", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T19:49:52.540329+00:00] Row Index: 216
+TITLE: Signage
+BODY: Where visible alarms are provided, proprietors shall post conspicuously at the main desk or other si...
+ESTIMATED TOKENS SENT: 76
+RESPONSE: {"ifc_type": ["Covering", "BuildingElementProxy"], "occupancy": ["Residential (R)", "Assembly (A)", "Institutional (I)"], "design_phase": ["sd", "dd", "cd"], "code_category": "accessibility", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T19:49:53.925853+00:00] Row Index: 259
+TITLE: Disconnecting Means
+BODY: Electric vehicle charging equipment shall be equipped with disconnecting means in accordance with Se...
+ESTIMATED TOKENS SENT: 32
+RESPONSE: {"ifc_type": ["BuildingElementProxy"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Factory and Industrial (F)", "Residential (R)"], "design_phase": ["dd", "cd"], "code_category": "electrical_systems", "primary_responsibility": "electrical_engineer"}
+--------------------
+[2026-01-14T19:49:55.700862+00:00] Row Index: 264
+TITLE: Lodging House Evacuation Notice
+BODY: In addition to, but not in limitation of, any other requirement of this code, a fire-safety notice s...
+ESTIMATED TOKENS SENT: 122
+RESPONSE: {"ifc_type": ["Door"], "occupancy": ["Residential (R)"], "design_phase": ["cd", "ca"], "code_category": "fire_protection_alarm_systems", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T19:49:57.060920+00:00] Row Index: 402
+TITLE: Compliance With Other Sections
+BODY: Swimming pools, spas and hot tubs shall comply with this section and other applicable sections of th...
+ESTIMATED TOKENS SENT: 100
+RESPONSE: {"ifc_type": ["BuildingElementProxy", "Slab"], "occupancy": ["Assembly (A)", "Residential (R)", "Institutional (I)"], "design_phase": ["sd", "dd", "cd"], "code_category": "special_construction", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T19:49:59.396750+00:00] Row Index: 403
+TITLE: Definitions
+BODY: For the purpose of these requirements, the terms used shall be defined as follows and as set forth i...
+ESTIMATED TOKENS SENT: 28
+RESPONSE: {"ifc_type": ["BuildingElementProxy"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Factory and Industrial (F)", "High Hazard (H)"], "design_phase": ["concept", "sd", "dd", "cd", "ca"], "code_category": "occupancy_classification", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T19:50:01.007662+00:00] Row Index: 404
+TITLE: Barrier, Permanent
+BODY: A fence, the walls of a permanent structure, any other structure or combination thereof which comple...
+ESTIMATED TOKENS SENT: 38
+RESPONSE: {"ifc_type": ["Wall", "Railing", "BuildingElementProxy"], "occupancy": ["Assembly (A)", "Residential (R)", "Institutional (I)"], "design_phase": ["sd", "dd", "cd"], "code_category": "site_planning", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T19:50:02.629655+00:00] Row Index: 405
+TITLE: Barrier, Temporary
+BODY: An approved temporary fence, permanent fence, the walls of a permanent structure, any other structur...
+ESTIMATED TOKENS SENT: 62
+RESPONSE: {"ifc_type": ["Wall", "Railing", "BuildingElementProxy"], "occupancy": ["Assembly (A)", "Residential (R)", "Institutional (I)"], "design_phase": ["sd", "dd", "cd"], "code_category": "site_planning", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T19:50:04.791662+00:00] Row Index: 406
+TITLE: Hot Tub
+BODY: See "Spa."...
+ESTIMATED TOKENS SENT: 4
+RESPONSE: {"ifc_type": ["BuildingElementProxy", "Slab", "Covering"], "occupancy": ["Assembly (A)", "Residential (R)"], "design_phase": ["sd", "dd", "cd"], "code_category": "special_construction", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T19:50:06.761422+00:00] Row Index: 407
+TITLE: Residential
+BODY: That which is situated on the premises of dwellings regulated under this code, and also detached dwe...
+ESTIMATED TOKENS SENT: 40
+RESPONSE: {"ifc_type": ["BuildingElementProxy", "Wall", "Roof", "Slab"], "occupancy": ["Residential (R)"], "design_phase": ["concept", "sd", "dd", "cd"], "code_category": "occupancy_classification", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T19:50:08.233194+00:00] Row Index: 408
+TITLE: Spa
+BODY: A portable or nonportable structure intended for recreational or therapeutic bathing, in which all c...
+ESTIMATED TOKENS SENT: 52
+RESPONSE: {"ifc_type": ["BuildingElementProxy", "Slab"], "occupancy": ["Assembly (A)", "Residential (R)"], "design_phase": ["sd", "dd", "cd"], "code_category": "special_construction", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T19:50:09.669666+00:00] Row Index: 409
+TITLE: Substantial Damage
+BODY: For the purpose of determining compliance with the pool alarm provisions of this section, damage of ...
+ESTIMATED TOKENS SENT: 72
+RESPONSE: {"ifc_type": ["BuildingElementProxy"], "occupancy": ["Assembly (A)", "Residential (R)", "Institutional (I)"], "design_phase": ["sd", "dd", "cd"], "code_category": "special_construction", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T19:50:11.968605+00:00] Row Index: 410
+TITLE: Substantial Modification
+BODY: For the purpose of determining compliance with the pool alarm provisions of this section, any repair...
+ESTIMATED TOKENS SENT: 93
+RESPONSE: {"ifc_type": ["BuildingElementProxy"], "occupancy": ["Assembly (A)", "Residential (R)"], "design_phase": ["sd", "dd", "cd"], "code_category": "special_construction", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T19:50:13.510516+00:00] Row Index: 411
+TITLE: Suction Fittings
+BODY: All components, including the sump and/or body cover/grate and hardware....
+ESTIMATED TOKENS SENT: 14
+RESPONSE: {"ifc_type": ["Covering", "PlumbingSystem", "BuildingElementProxy"], "occupancy": ["Assembly (A)", "Residential (R)", "Institutional (I)"], "design_phase": ["sd", "dd", "cd"], "code_category": "plumbing_systems", "primary_responsibility": "mechanical_engineer"}
+--------------------
+[2026-01-14T19:50:15.196872+00:00] Row Index: 412
+TITLE: Suction Outlet
+BODY: A submerged fitting, fitting assembly, cover/grate and related components that provide localized low...
+ESTIMATED TOKENS SENT: 50
+RESPONSE: {"ifc_type": ["Covering", "Slab"], "occupancy": ["Assembly (A)", "Residential (R)"], "design_phase": ["sd", "dd", "cd"], "code_category": "plumbing_systems", "primary_responsibility": "mechanical_engineer"}
+--------------------
+[2026-01-14T19:50:16.539715+00:00] Row Index: 413
+TITLE: Swimming Pool
+BODY: Any structure, basin, chamber or tank which is intended for swimming, diving, recreational bathing o...
+ESTIMATED TOKENS SENT: 73
+RESPONSE: {"ifc_type": ["Slab", "BuildingElementProxy"], "occupancy": ["Assembly (A)", "Residential (R)", "Institutional (I)"], "design_phase": ["sd", "dd", "cd"], "code_category": "special_construction", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T19:50:18.384113+00:00] Row Index: 414
+TITLE: Swimming Pool, Indoor
+BODY: A swimming pool which is totally contained within a structure and surrounded on all four sides by th...
+ESTIMATED TOKENS SENT: 33
+RESPONSE: {"ifc_type": ["Wall", "Slab", "Roof"], "occupancy": ["Assembly (A)", "Recreational (R)"], "design_phase": ["sd", "dd", "cd"], "code_category": "site_planning", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T19:50:19.894923+00:00] Row Index: 415
+TITLE: Swimming Pool, Outdoor
+BODY: Any swimming pool which is not an indoor pool....
+ESTIMATED TOKENS SENT: 14
+RESPONSE: {"ifc_type": ["BuildingElementProxy", "Slab", "Pavement"], "occupancy": ["Assembly (A)", "Residential (R)", "Institutional (I)"], "design_phase": ["sd", "dd", "cd"], "code_category": "site_planning", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T19:50:21.734623+00:00] Row Index: 416
+TITLE: Compliance With Other Standards
+BODY: Swimming pools, hot tubs, and spas shall comply with other standards as specified in Sections R328.3...
+ESTIMATED TOKENS SENT: 28
+RESPONSE: {"ifc_type": ["BuildingElementProxy", "Slab", "Covering"], "occupancy": ["Assembly (A)", "Residential (R)", "Institutional (I)"], "design_phase": ["sd", "dd", "cd"], "code_category": "special_construction", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T19:50:23.452840+00:00] Row Index: 417
+TITLE: In-Ground Pools
+BODY: In-ground swimming pools shall be designed and constructed in conformance with ANSI/APSP/ICC 5....
+ESTIMATED TOKENS SENT: 18
+RESPONSE: {"ifc_type": ["BuildingElementProxy", "Slab"], "occupancy": ["Assembly (A)", "Residential (R)", "Institutional (I)"], "design_phase": ["sd", "dd", "cd"], "code_category": "special_construction", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T19:50:25.068505+00:00] Row Index: 418
+TITLE: Above-Ground and On-Ground Pools
+BODY: Above-ground and on-ground swimming pools shall be designed and constructed in conformance with ANSI...
+ESTIMATED TOKENS SENT: 24
+RESPONSE: {"ifc_type": ["BuildingElementProxy", "Slab", "Covering"], "occupancy": ["Assembly (A)", "Residential (R)", "Utility and Miscellaneous (U)"], "design_phase": ["sd", "dd", "cd"], "code_category": "special_construction", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T19:50:28.240318+00:00] Row Index: 419
+TITLE: Permanently Installed Spas and Hot Tubs
+BODY: Permanently installed spas and hot tubs shall be designed and constructed in conformance with ANSI/A...
+ESTIMATED TOKENS SENT: 28
+RESPONSE: {"ifc_type": ["BuildingElementProxy", "Slab", "Covering"], "occupancy": ["Assembly (A)", "Residential (R)", "Institutional (I)", "Business (B)"], "design_phase": ["sd", "dd", "cd"], "code_category": "special_construction", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T19:50:30.194900+00:00] Row Index: 420
+TITLE: Portable Spas and Hot Tubs
+BODY: Portable spas and hot tubs shall be designed and constructed in conformance with ANSI/APSP/ICC 6....
+ESTIMATED TOKENS SENT: 25
+RESPONSE: {"ifc_type": ["BuildingElementProxy", "Slab"], "occupancy": ["Residential (R)", "Assembly (A)", "Institutional (I)", "Utility and Miscellaneous (U)"], "design_phase": ["sd", "dd", "cd"], "code_category": "special_construction", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T19:50:33.358692+00:00] Row Index: 421
+TITLE: Barriers, Application
+BODY: The provisions of this section shall control the design of barriers for swimming pools, spas and hot...
+ESTIMATED TOKENS SENT: 92
+RESPONSE: {"ifc_type": ["Wall", "Railing", "BuildingElementProxy"], "occupancy": ["Assembly (A)", "Residential (R)"], "design_phase": ["sd", "dd", "cd"], "code_category": "special_construction", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T19:50:37.445091+00:00] Row Index: 422
+TITLE: Temporary Barriers
+BODY: An outdoor swimming pool shall be surrounded by a temporary barrier during installation or construct...
+ESTIMATED TOKENS SENT: 162
+RESPONSE: {"ifc_type": ["Covering", "ShadingDevice", "BuildingElementProxy"], "occupancy": ["Residential (R)", "Assembly (A)"], "design_phase": ["sd", "dd", "cd"], "code_category": "site_planning", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T19:50:39.325483+00:00] Row Index: 423
+TITLE: Height
+BODY: The top of the temporary barrier shall be at least 48 inches (1219 mm) above grade measured on the s...
+ESTIMATED TOKENS SENT: 40
+RESPONSE: {"ifc_type": ["Railing", "Wall"], "occupancy": ["Assembly (A)", "Residential (R)"], "design_phase": ["sd", "dd", "cd"], "code_category": "site_planning", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T19:50:40.505603+00:00] Row Index: 424
+TITLE: Replacement by a Permanent Barrier
+BODY: A temporary barrier shall be replaced by a complying permanent barrier within either of the followin...
+ESTIMATED TOKENS SENT: 77
+RESPONSE: {"ifc_type": ["Railing", "Wall"], "occupancy": ["Assembly (A)", "Residential (R)", "Institutional (I)"], "design_phase": ["cd", "ca"], "code_category": "site_planning", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T19:50:41.962768+00:00] Row Index: 425
+TITLE: Replacement Extension
+BODY: Subject to the approval of the building official, the time period for completion of the permanent ba...
+ESTIMATED TOKENS SENT: 45
+RESPONSE: {"ifc_type": ["Wall", "Barrier", "BuildingElementProxy"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Institutional (I)", "Residential (R)"], "design_phase": ["cd", "ca"], "code_category": "site_planning", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T19:50:43.772301+00:00] Row Index: 426
+TITLE: Permanent Barriers
+BODY: Swimming pools, spas, and hot tubs shall be completely enclosed by a permanent barrier complying wit...
+ESTIMATED TOKENS SENT: 60
+RESPONSE: {"ifc_type": ["Railing", "Wall", "BuildingElementProxy"], "occupancy": ["Residential (R)", "Assembly (A)"], "design_phase": ["sd", "dd", "cd"], "code_category": "special_construction", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T19:50:47.032406+00:00] Row Index: 427
+TITLE: Barrier Height and Clearances
+BODY: The top of the barrier shall be no less than 48 inches (1219 mm) above grade measured on the side of...
+ESTIMATED TOKENS SENT: 149
+RESPONSE: {"ifc_type": ["Railing", "Wall"], "occupancy": ["Assembly (A)", "Residential (R)"], "design_phase": ["sd", "dd", "cd"], "code_category": "site_planning", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T19:50:49.657914+00:00] Row Index: 428
+TITLE: Solid Barrier Surfaces
+BODY: Solid barriers which do not have openings shall not contain indentations or protrusions except for n...
+ESTIMATED TOKENS SENT: 32
+RESPONSE: {"ifc_type": ["Wall", "Railing", "Slab"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Residential (R)", "Institutional (I)"], "design_phase": ["sd", "dd", "cd"], "code_category": "means_of_egress", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T19:50:51.551748+00:00] Row Index: 429
+TITLE: Closely Spaced Horizontal Members
+BODY: Where the barrier is composed of horizontal and vertical members and the distance between the tops o...
+ESTIMATED TOKENS SENT: 105
+RESPONSE: {"ifc_type": ["Railing"], "occupancy": ["Assembly (A)", "Residential (R)", "Institutional (I)", "Utility and Miscellaneous (U)"], "design_phase": ["sd", "dd", "cd"], "code_category": "site_planning", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T19:50:52.970904+00:00] Row Index: 430
+TITLE: Widely Spaced Horizontal Members
+BODY: Where the barrier is composed of horizontal and vertical members and the distance between the tops o...
+ESTIMATED TOKENS SENT: 88
+RESPONSE: {"ifc_type": ["Railing"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Residential (R)", "Institutional (I)"], "design_phase": ["sd", "dd", "cd"], "code_category": "means_of_egress", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T19:50:55.032245+00:00] Row Index: 431
+TITLE: Chain Link Dimensions
+BODY: Maximum mesh size for chain link fences shall be a 13/4 inch (57 mm) square, unless the fence has ve...
+ESTIMATED TOKENS SENT: 56
+RESPONSE: {"ifc_type": ["Railing", "BuildingElementProxy"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Institutional (I)", "Residential (R)"], "design_phase": ["sd", "dd", "cd"], "code_category": "site_planning", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T19:50:56.965147+00:00] Row Index: 432
+TITLE: Diagonal Members
+BODY: Where the barrier is composed of diagonal members, the maximum opening formed by the diagonal member...
+ESTIMATED TOKENS SENT: 34
+RESPONSE: {"ifc_type": ["Railing"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Residential (R)", "Institutional (I)"], "design_phase": ["sd", "dd", "cd"], "code_category": "means_of_egress", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T19:50:58.495365+00:00] Row Index: 433
+TITLE: Gates
+BODY: Gates shall comply with the requirements of Sections R328.4.2.1 through R328.4.2.6 and Sections R328...
+ESTIMATED TOKENS SENT: 21
+RESPONSE: {"ifc_type": ["Door", "Railing"], "occupancy": ["Residential (R)"], "design_phase": ["sd", "dd", "cd"], "code_category": "means_of_egress", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T19:51:00.043396+00:00] Row Index: 434
+TITLE: Self-Closing and Opening Configuration
+BODY: All gates shall be self-closing. In addition, if the gate is a pedestrian access gate, the gate shal...
+ESTIMATED TOKENS SENT: 37
+RESPONSE: {"ifc_type": ["Door", "Gate"], "occupancy": ["Assembly (A)", "Educational (E)", "Residential (R)", "Institutional (I)"], "design_phase": ["sd", "dd", "cd"], "code_category": "means_of_egress", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T19:51:01.613185+00:00] Row Index: 435
+TITLE: Latching
+BODY: All gates shall be self-latching. For doors and gates in barriers, the door and gate latch release m...
+ESTIMATED TOKENS SENT: 240
+RESPONSE: {"ifc_type": ["Door", "BuildingElementProxy"], "occupancy": ["Assembly (A)", "Educational (E)", "Residential (R)", "Institutional (I)", "Utility and Miscellaneous (U)"], "design_phase": ["sd", "dd", "cd"], "code_category": "accessibility", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T19:51:03.305770+00:00] Row Index: 436
+TITLE: Locking
+BODY: All gates shall be securely locked with a key, combination or other child-proof lock sufficient to p...
+ESTIMATED TOKENS SENT: 46
+RESPONSE: {"ifc_type": ["Door", "BuildingElementProxy"], "occupancy": ["Assembly (A)", "Residential (R)"], "design_phase": ["sd", "dd", "cd"], "code_category": "special_construction", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T19:51:04.592851+00:00] Row Index: 437
+TITLE: Dwelling Wall as Barrier
+BODY: A wall or walls of a dwelling and its accessory structures may serve as part of the barrier, provide...
+ESTIMATED TOKENS SENT: 448
+RESPONSE: {"ifc_type": ["Wall", "Door", "Window"], "occupancy": ["Residential (R)"], "design_phase": ["sd", "dd", "cd"], "code_category": "fire_protection_alarm_systems", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T19:51:07.331908+00:00] Row Index: 438
+TITLE: Alarm Deactivation Switch Location
+BODY: Where an alarm is provided, the deactivation switch shall be located 54 inches (1372 mm) or more abo...
+ESTIMATED TOKENS SENT: 74
+RESPONSE: {"ifc_type": ["Door", "BuildingElementProxy"], "occupancy": ["Residential (R)", "Institutional (I)", "Assembly (A)"], "design_phase": ["sd", "dd", "cd"], "code_category": "accessibility", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T19:51:09.074080+00:00] Row Index: 439
+TITLE: Multiple Dwelling Wall as a Barrier
+BODY: A wall or walls of a multiple dwelling may serve as part of the barrier, provided there is no direct...
+ESTIMATED TOKENS SENT: 42
+RESPONSE: {"ifc_type": ["Wall", "Door"], "occupancy": ["Residential (R)"], "design_phase": ["sd", "dd", "cd"], "code_category": "assemblies_envelope", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T19:51:10.976413+00:00] Row Index: 440
+TITLE: Pool Structure as Barrier
+BODY: Where an above-ground swimming pool structure is used as a barrier, or where the barrier is mounted ...
+ESTIMATED TOKENS SENT: 168
+RESPONSE: {"ifc_type": ["BuildingElementProxy", "Stair", "Railing"], "occupancy": ["Residential (R)"], "design_phase": ["sd", "dd", "cd"], "code_category": "special_construction", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T19:51:12.347666+00:00] Row Index: 441
+TITLE: Indoor Swimming Pool
+BODY: Walls surrounding an indoor swimming pool shall comply with Section R328.4.2.8....
+ESTIMATED TOKENS SENT: 17
+RESPONSE: {"ifc_type": ["Wall", "Slab"], "occupancy": ["Assembly (A)", "Residential (R)"], "design_phase": ["sd", "dd", "cd"], "code_category": "assemblies_envelope", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T19:51:14.829153+00:00] Row Index: 442
+TITLE: Prohibited Locations
+BODY: Barriers shall be located so as to prohibit permanent structures, equipment or similar objects from ...
+ESTIMATED TOKENS SENT: 29
+RESPONSE: {"ifc_type": ["Railing", "Wall", "Door"], "occupancy": ["Assembly (A)", "Educational (E)", "Residential (R)"], "design_phase": ["sd", "dd", "cd"], "code_category": "means_of_egress", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T19:51:16.324138+00:00] Row Index: 443
+TITLE: Suction Entrapment Avoidance
+BODY: Suction outlets shall be designed and installed in accordance with the requirements of CPSC 15 USC 8...
+ESTIMATED TOKENS SENT: 32
+RESPONSE: {"ifc_type": ["PlumbingSystems", "BuildingElementProxy"], "occupancy": ["Assembly (A)", "Educational (E)", "Institutional (I)", "Residential (R)"], "design_phase": ["sd", "dd", "cd"], "code_category": "plumbing_systems", "primary_responsibility": "mechanical_engineer"}
+--------------------
+[2026-01-14T19:51:19.711220+00:00] Row Index: 444
+TITLE: Suction Fittings
+BODY: Swimming pool and spa suction outlets shall have a cover that conforms to ANSI/APSP/ICC 16. Exceptio...
+ESTIMATED TOKENS SENT: 25
+RESPONSE: {"ifc_type": ["BuildingElementProxy"], "occupancy": ["Assembly (A)", "Residential (R)", "Institutional (I)"], "design_phase": ["sd", "dd", "cd"], "code_category": "plumbing_systems", "primary_responsibility": "mechanical_engineer"}
+--------------------
+[2026-01-14T19:51:21.266935+00:00] Row Index: 445
+TITLE: Swimming Pool and Spa Alarms, Applicability
+BODY: A swimming pool or spa installed, constructed or substantially modified after December 14, 2006, sha...
+ESTIMATED TOKENS SENT: 117
+RESPONSE: {"ifc_type": ["BuildingElementProxy"], "occupancy": ["Assembly (A)", "Residential (R)", "Institutional (I)", "Business (B)"], "design_phase": ["sd", "dd", "cd"], "code_category": "special_construction", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T19:51:22.511335+00:00] Row Index: 446
+TITLE: Multiple Alarms
+BODY: A pool alarm must be capable of detecting entry into the water at any point on the surface of the sw...
+ESTIMATED TOKENS SENT: 62
+RESPONSE: {"ifc_type": ["BuildingElementProxy"], "occupancy": ["Assembly (A)", "Residential (R)"], "design_phase": ["sd", "dd", "cd"], "code_category": "fire_protection_alarm_systems", "primary_responsibility": "fire_protection_engineer"}
+--------------------
+[2026-01-14T19:51:23.952987+00:00] Row Index: 447
+TITLE: Alarm Activation
+BODY: Pool alarms shall activate upon detecting entry into the water and shall sound poolside and inside t...
+ESTIMATED TOKENS SENT: 30
+RESPONSE: {"ifc_type": ["BuildingElementProxy", "Covering"], "occupancy": ["Residential (R)", "Assembly (A)"], "design_phase": ["sd", "dd", "cd"], "code_category": "fire_protection_alarm_systems", "primary_responsibility": "fire_protection_engineer"}
+--------------------
+[2026-01-14T19:51:25.204910+00:00] Row Index: 448
+TITLE: Prohibited Alarms
+BODY: The use of personal immersion alarms shall not be construed as compliance with this section....
+ESTIMATED TOKENS SENT: 21
+RESPONSE: {"ifc_type": ["BuildingElementProxy"], "occupancy": ["Assembly (A)", "Residential (R)", "Institutional (I)"], "design_phase": ["sd", "dd", "cd"], "code_category": "fire_protection_alarm_systems", "primary_responsibility": "fire_protection_engineer"}
+--------------------
+[2026-01-14T19:51:28.211136+00:00] Row Index: 490
+TITLE: Toxic and Highly Toxic Gas
+BODY: ESS that have the potential to release toxic or highly toxic gas during charging, discharging and no...
+ESTIMATED TOKENS SENT: 45
+RESPONSE: {"ifc_type": ["BuildingElementProxy"], "occupancy": ["Residential (R)"], "design_phase": ["sd", "dd", "cd"], "code_category": "hazardous_materials", "primary_responsibility": "architect"}
+--------------------
+
+==================================================
+SUMMARY STATISTICS
+Total Rows Processed by AI: 59
+Total Estimated Tokens Sent: 4330
+==================================================
+
+CSV Saved Successfully at 2026-01-14T19:51:29.978560+00:00

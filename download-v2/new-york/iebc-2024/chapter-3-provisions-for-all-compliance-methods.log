@@ -1,0 +1,54 @@
+Log started: 2026-01-14T19:49:25.731848+00:00
+Source: download/new-york/iebc-2024/chapter-3-provisions-for-all-compliance-methods.csv
+--------------------------------------------------
+
+[2026-01-14T19:49:25.736481+00:00] Row Index: 71
+TITLE: Off-Street Parking Lots
+BODY: Accessible parking complying with Sections 1102.1 and 1106 of the Building Code of New York State sh...
+ESTIMATED TOKENS SENT: 133
+RESPONSE: {"ifc_type": ["Slab", "Pavement", "Kerb"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Mercantile (M)", "Residential (R)"], "design_phase": ["sd", "dd", "cd"], "code_category": "accessibility", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T19:49:27.507311+00:00] Row Index: 72
+TITLE: Signage
+BODY: Accessible parking spaces shall be provided with signage displaying the International Symbol of Acce...
+ESTIMATED TOKENS SENT: 81
+RESPONSE: {"ifc_type": ["BuildingElementProxy"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Factory and Industrial (F)", "Residential (R)"], "design_phase": ["sd", "dd", "cd"], "code_category": "accessibility", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T19:49:29.260805+00:00] Row Index: 75
+TITLE: Common Spaces
+BODY: In Groups R-2, R-3, R-4, and I-1, and in dwellings regulated by the Residential Code of New York Sta...
+ESTIMATED TOKENS SENT: 101
+RESPONSE: {"ifc_type": ["Stair", "StairFlight", "Slab", "Wall", "BuildingElementProxy"], "occupancy": ["Residential (R)", "Institutional (I)"], "design_phase": ["sd", "dd", "cd"], "code_category": "fire_protection_alarm_systems", "primary_responsibility": "fire_protection_engineer"}
+--------------------
+[2026-01-14T19:49:31.340209+00:00] Row Index: 78
+TITLE: New or Relocated Fuel-Burning Appliance
+BODY: When a new fuel-burning appliance is installed or located in an addition; when a new fuel-burning ap...
+ESTIMATED TOKENS SENT: 268
+RESPONSE: {"ifc_type": ["BuildingElementProxy"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Institutional (I)", "Residential (R)"], "design_phase": ["sd", "dd", "cd"], "code_category": "fire_protection_alarm_systems", "primary_responsibility": "fire_protection_engineer"}
+--------------------
+[2026-01-14T19:49:33.070045+00:00] Row Index: 79
+TITLE: Motor Vehicle Related Occupancy
+BODY: When a new motor vehicle related occupancy is added to an existing building, the existing portion of...
+ESTIMATED TOKENS SENT: 226
+RESPONSE: {"ifc_type": ["BuildingElementProxy"], "occupancy": ["Assembly (A)", "Business (B)", "Mercantile (M)", "Storage (S)", "Utility and Miscellaneous (U)"], "design_phase": ["sd", "dd", "cd"], "code_category": "fire_protection_alarm_systems", "primary_responsibility": "fire_protection_engineer"}
+--------------------
+[2026-01-14T19:49:34.560915+00:00] Row Index: 85
+TITLE: Energy Storage Systems
+BODY: The installation, operation, maintenance, repair, and retrofitting of energy storage systems shall b...
+ESTIMATED TOKENS SENT: 37
+RESPONSE: {"ifc_type": ["BuildingElementProxy"], "occupancy": ["Assembly (A)", "Business (B)", "Factory and Industrial (F)", "Mercantile (M)", "Storage (S)"], "design_phase": ["sd", "dd", "cd"], "code_category": "hazardous_materials", "primary_responsibility": "fire_protection_engineer"}
+--------------------
+[2026-01-14T19:49:35.873424+00:00] Row Index: 87
+TITLE: Grease Interceptors
+BODY: In addition to the requirements of this code, new and existing grease interceptors shall comply with...
+ESTIMATED TOKENS SENT: 174
+RESPONSE: {"ifc_type": ["PlumbingElement", "BuildingElementProxy"], "occupancy": ["Residential (R)", "Business (B)", "Mercantile (M)", "Assembly (A)"], "design_phase": ["sd", "dd", "cd"], "code_category": "plumbing_systems", "primary_responsibility": "mechanical_engineer"}
+--------------------
+
+==================================================
+SUMMARY STATISTICS
+Total Rows Processed by AI: 7
+Total Estimated Tokens Sent: 1020
+==================================================
+
+CSV Saved Successfully at 2026-01-14T19:49:37.328978+00:00

@@ -1,0 +1,60 @@
+Log started: 2026-01-14T19:55:16.228115+00:00
+Source: download/oregon/ibc-2021/chapter-3-occupancy-classification-and-use.csv
+--------------------------------------------------
+
+[2026-01-14T19:55:16.235379+00:00] Row Index: 23
+TITLE: Lockup Facilities
+BODY: Buildings containing lockup facilities, as defined in ORS 169.005(5), shall comply with the followin...
+ESTIMATED TOKENS SENT: 137
+RESPONSE: {"ifc_type": ["Wall", "Door", "Slab"], "occupancy": ["Institutional (I)"], "design_phase": ["sd", "dd", "cd"], "code_category": "fire_resistance_smoke_protection", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T19:55:18.929069+00:00] Row Index: 38
+TITLE: Uses Other Than Group H
+BODY: An occupancy that stores, uses or handles hazardous materials as described in one or more of the fol...
+ESTIMATED TOKENS SENT: 542
+RESPONSE: {"ifc_type": ["Wall", "Slab", "Door"], "occupancy": ["Business (B)", "Factory and Industrial (F)", "Mercantile (M)", "Storage (S)", "Residential (R)"], "design_phase": ["sd", "dd", "cd"], "code_category": "occupancy_classification", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T19:55:22.741941+00:00] Row Index: 40
+TITLE: Storage of Class 1.4G (Class C, Common) Fireworks
+BODY: A permanent building used for the temporary storage of 1.4G (Class C) fireworks, as authorized by a ...
+ESTIMATED TOKENS SENT: 120
+RESPONSE: {"ifc_type": ["Wall", "Door", "Roof"], "occupancy": ["Mercantile (M)", "Storage (S)", "Utility and Miscellaneous (U)"], "design_phase": ["sd", "dd", "cd"], "code_category": "hazardous_materials", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T19:55:24.348466+00:00] Row Index: 70
+TITLE: Five or Fewer Persons Receiving Adult Day Care in a Dwelling Unit
+BODY: A facility such as the above within a dwelling and having five or fewer persons receiving custodial ...
+ESTIMATED TOKENS SENT: 106
+RESPONSE: {"ifc_type": ["Wall", "Door", "Slab"], "occupancy": ["Residential (R)"], "design_phase": ["sd", "dd", "cd"], "code_category": "occupancy_classification", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T19:55:25.580590+00:00] Row Index: 71
+TITLE: Child Day Care in a Dwelling Unit
+BODY: A registered or certified family child care facility, as defined in ORS 329A, located within a dwell...
+ESTIMATED TOKENS SENT: 108
+RESPONSE: {"ifc_type": ["Wall", "Door", "Window", "Slab"], "occupancy": ["Residential (R)"], "design_phase": ["sd", "dd", "cd"], "code_category": "occupancy_classification", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T19:55:27.114114+00:00] Row Index: 82
+TITLE: Licensed Child Care Within a Dwelling
+BODY: A registered or certified family child care facility, as defined in ORS 329A, located within a dwell...
+ESTIMATED TOKENS SENT: 106
+RESPONSE: {"ifc_type": ["Wall", "Door", "Window"], "occupancy": ["Residential (R)"], "design_phase": ["sd", "dd", "cd"], "code_category": "occupancy_classification", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T19:55:28.729195+00:00] Row Index: 83
+TITLE: Licensed Adult Foster Care Within a Dwelling
+BODY: Adult foster homes, as defined in ORS 443.705, located within a dwelling shall be classified as Grou...
+ESTIMATED TOKENS SENT: 180
+RESPONSE: {"ifc_type": ["Wall", "Door", "Slab"], "occupancy": ["Residential (R)", "Institutional (I)"], "design_phase": ["sd", "dd", "cd"], "code_category": "occupancy_classification", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T19:55:30.127783+00:00] Row Index: 97
+TITLE: Mausoleums and Columbariums, Group S-3
+BODY: Storage Group S-3 occupancies include, among others, mausoleums and columbariums. Except where speci...
+ESTIMATED TOKENS SENT: 40
+RESPONSE: {"ifc_type": ["BuildingElementProxy", "Wall", "Slab"], "occupancy": ["Storage (S)"], "design_phase": ["sd", "dd", "cd"], "code_category": "occupancy_classification", "primary_responsibility": "architect"}
+--------------------
+
+==================================================
+SUMMARY STATISTICS
+Total Rows Processed by AI: 8
+Total Estimated Tokens Sent: 1339
+==================================================
+
+CSV Saved Successfully at 2026-01-14T19:55:31.640915+00:00
