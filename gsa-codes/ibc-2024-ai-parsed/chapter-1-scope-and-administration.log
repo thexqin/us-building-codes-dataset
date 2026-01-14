@@ -1,0 +1,1026 @@
+Log started: 2026-01-14T03:45:09.493107+00:00
+Source: gsa-codes/ibc-2024-parsed/chapter-1-scope-and-administration.csv
+--------------------------------------------------
+
+[2026-01-14T03:45:09.546328+00:00] Row Index: 0
+TITLE: Scope and Administration
+BODY: User notes:About this chapter: Chapter 1 establishes the limits of applicability of the code and des...
+ESTIMATED TOKENS SENT: 348
+RESPONSE: {"ifc_type": ["BuildingElementProxy"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Factory and Industrial (F)", "High Hazard (H)"], "design_phase": ["concept", "sd", "dd", "cd"], "code_category": "occupancy_classification", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T03:45:14.681966+00:00] Row Index: 1
+TITLE: Scope and Application
+BODY: nan...
+ESTIMATED TOKENS SENT: 4
+RESPONSE: {"ifc_type": ["BuildingElementProxy"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Factory and Industrial (F)", "Residential (R)"], "design_phase": ["concept", "sd"], "code_category": "occupancy_classification", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T03:45:16.445157+00:00] Row Index: 2
+TITLE: Scope and General Requirements
+BODY: nan...
+ESTIMATED TOKENS SENT: 5
+RESPONSE: {"ifc_type": ["BuildingElementProxy"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Factory and Industrial (F)", "High Hazard (H)"], "design_phase": ["concept", "sd", "dd", "cd"], "code_category": "occupancy_classification", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T03:45:18.576896+00:00] Row Index: 3
+TITLE: Title
+BODY: These regulations shall be known as the Building Code of [name of jurisdiction], hereinafter referre...
+ESTIMATED TOKENS SENT: 25
+RESPONSE: {"ifc_type": ["BuildingElementProxy"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Factory and Industrial (F)", "High Hazard (H)"], "design_phase": ["concept", "sd", "dd", "cd"], "code_category": "occupancy_classification", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T03:45:21.800497+00:00] Row Index: 4
+TITLE: Scope
+BODY: The provisions of this code shall apply to the construction, alteration, relocation, enlargement, re...
+ESTIMATED TOKENS SENT: 116
+RESPONSE: {"ifc_type": ["Wall", "Roof", "Slab", "Door", "Window"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Factory and Industrial (F)", "Residential (R)"], "design_phase": ["concept", "sd", "dd", "cd"], "code_category": "occupancy_classification", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T03:45:25.334418+00:00] Row Index: 5
+TITLE: Appendices
+BODY: Provisions in the appendices shall not apply unless specifically adopted....
+ESTIMATED TOKENS SENT: 13
+RESPONSE: {"ifc_type": ["BuildingElementProxy"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Factory and Industrial (F)", "High Hazard (H)"], "design_phase": ["cd"], "code_category": "occupancy_classification", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T03:45:28.095285+00:00] Row Index: 6
+TITLE: Purpose
+BODY: The purpose of this code is to establish the minimum requirements to provide a reasonable level of s...
+ESTIMATED TOKENS SENT: 97
+RESPONSE: {"ifc_type": ["Wall", "Door", "Slab", "Window", "Roof"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Residential (R)", "Storage (S)"], "design_phase": ["concept", "sd", "dd", "cd"], "code_category": "occupancy_classification", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T03:45:30.893837+00:00] Row Index: 7
+TITLE: Referenced Codes
+BODY: The other codes specified in Sections 101.4.1 through 101.4.7 and referenced elsewhere in this code ...
+ESTIMATED TOKENS SENT: 48
+RESPONSE: {"ifc_type": ["BuildingElementProxy"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Factory and Industrial (F)", "Residential (R)"], "design_phase": ["concept", "sd", "dd", "cd"], "code_category": "occupancy_classification", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T03:45:32.800472+00:00] Row Index: 8
+TITLE: Gas
+BODY: The provisions of the International Fuel Gas Code shall apply to the installation of gas piping from...
+ESTIMATED TOKENS SENT: 85
+RESPONSE: {"ifc_type": ["BuildingElementProxy"], "occupancy": ["Residential (R)", "Business (B)", "Mercantile (M)"], "design_phase": ["sd", "dd", "cd"], "code_category": "mechanical_systems", "primary_responsibility": "mechanical_engineer"}
+--------------------
+[2026-01-14T03:45:34.118961+00:00] Row Index: 9
+TITLE: Mechanical
+BODY: The provisions of the International Mechanical Code shall apply to the installation, alterations, re...
+ESTIMATED TOKENS SENT: 52
+RESPONSE: {"ifc_type": ["BuildingElementProxy", "Covering", "Slab", "Roof"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Factory and Industrial (F)", "Residential (R)"], "design_phase": ["sd", "dd", "cd"], "code_category": "mechanical_systems", "primary_responsibility": "mechanical_engineer"}
+--------------------
+[2026-01-14T03:45:35.971213+00:00] Row Index: 10
+TITLE: Plumbing
+BODY: The provisions of the International Plumbing Code shall apply to the installation, alteration, repai...
+ESTIMATED TOKENS SENT: 78
+RESPONSE: {"ifc_type": ["BuildingElementProxy"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Institutional (I)", "Residential (R)"], "design_phase": ["sd", "dd", "cd"], "code_category": "plumbing_systems", "primary_responsibility": "mechanical_engineer"}
+--------------------
+[2026-01-14T03:45:37.293661+00:00] Row Index: 11
+TITLE: Property Maintenance
+BODY: The provisions of the International Property Maintenance Code shall apply to existing structures and...
+ESTIMATED TOKENS SENT: 56
+RESPONSE: {"ifc_type": ["Wall", "Roof", "Door", "Window", "Slab"], "occupancy": ["Assembly (A)", "Business (B)", "Residential (R)", "Mercantile (M)", "Storage (S)"], "design_phase": ["ca"], "code_category": "interior_environment", "primary_responsibility": "owner"}
+--------------------
+[2026-01-14T03:45:38.657558+00:00] Row Index: 12
+TITLE: Fire Prevention
+BODY: The provisions of the International Fire Code shall apply to matters affecting or relating to struct...
+ESTIMATED TOKENS SENT: 116
+RESPONSE: {"ifc_type": ["Wall", "Slab", "Roof", "Door", "BuildingElementProxy"], "occupancy": ["Assembly (A)", "Business (B)", "Residential (R)", "Institutional (I)", "Storage (S)"], "design_phase": ["sd", "dd", "cd"], "code_category": "fire_protection_alarm_systems", "primary_responsibility": "fire_protection_engineer"}
+--------------------
+[2026-01-14T03:45:40.049886+00:00] Row Index: 13
+TITLE: Energy
+BODY: The provisions of the International Energy Conservation Code shall apply to all matters governing th...
+ESTIMATED TOKENS SENT: 30
+RESPONSE: {"ifc_type": ["Wall", "Roof", "Slab", "Window", "Door"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Residential (R)", "Mercantile (M)"], "design_phase": ["sd", "dd", "cd"], "code_category": "assemblies_envelope", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T03:45:41.761539+00:00] Row Index: 14
+TITLE: Existing Buildings
+BODY: The provisions of the International Existing Building Code shall apply to matters governing the repa...
+ESTIMATED TOKENS SENT: 36
+RESPONSE: {"ifc_type": ["Wall", "Slab", "Roof"], "occupancy": ["Assembly (A)", "Business (B)", "Residential (R)"], "design_phase": ["sd", "dd", "cd"], "code_category": "occupancy_classification", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T03:45:43.270114+00:00] Row Index: 15
+TITLE: Applicability
+BODY: nan...
+ESTIMATED TOKENS SENT: 1
+RESPONSE: {"ifc_type": ["BuildingElementProxy"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Factory and Industrial (F)", "High Hazard (H)"], "design_phase": ["concept", "sd", "dd"], "code_category": "occupancy_classification", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T03:45:44.931259+00:00] Row Index: 16
+TITLE: General
+BODY: Where there is a conflict between a general requirement and a specific requirement, the specific req...
+ESTIMATED TOKENS SENT: 57
+RESPONSE: {"ifc_type": ["BuildingElementProxy"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Factory and Industrial (F)", "High Hazard (H)"], "design_phase": ["cd"], "code_category": "occupancy_classification", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T03:45:46.458716+00:00] Row Index: 17
+TITLE: Other Laws
+BODY: The provisions of this code shall not be deemed to nullify any provisions of local, state or federal...
+ESTIMATED TOKENS SENT: 26
+RESPONSE: {"ifc_type": ["BuildingElementProxy"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Factory and Industrial (F)", "Residential (R)"], "design_phase": ["cd"], "code_category": "occupancy_classification", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T03:45:48.141979+00:00] Row Index: 18
+TITLE: Application of References
+BODY: References to chapter or section numbers, or to provisions not specifically identified by number, sh...
+ESTIMATED TOKENS SENT: 40
+RESPONSE: {"ifc_type": ["BuildingElementProxy"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Factory and Industrial (F)", "Residential (R)"], "design_phase": ["cd"], "code_category": "occupancy_classification", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T03:45:49.613825+00:00] Row Index: 19
+TITLE: Referenced Codes and Standards
+BODY: The codes and standards referenced in this code shall be considered to be part of the requirements o...
+ESTIMATED TOKENS SENT: 53
+RESPONSE: {"ifc_type": ["BuildingElementProxy"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Factory and Industrial (F)", "High Hazard (H)"], "design_phase": ["concept", "sd", "dd", "cd"], "code_category": "occupancy_classification", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T03:45:51.764055+00:00] Row Index: 20
+TITLE: Conflicts
+BODY: Where conflicts occur between provisions of this code and referenced codes and standards, the provis...
+ESTIMATED TOKENS SENT: 26
+RESPONSE: {"ifc_type": ["BuildingElementProxy"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Factory and Industrial (F)", "Residential (R)"], "design_phase": ["cd"], "code_category": "occupancy_classification", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T03:45:53.423875+00:00] Row Index: 21
+TITLE: Provisions in Referenced Codes and Standards
+BODY: Where the extent of the reference to a referenced code or standard includes subject matter that is w...
+ESTIMATED TOKENS SENT: 84
+RESPONSE: {"ifc_type": ["BuildingElementProxy"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Factory and Industrial (F)", "High Hazard (H)"], "design_phase": ["cd"], "code_category": "occupancy_classification", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T03:45:54.656171+00:00] Row Index: 22
+TITLE: Partial Invalidity
+BODY: In the event that any part or provision of this code is held to be illegal or void, this shall not h...
+ESTIMATED TOKENS SENT: 49
+RESPONSE: {"ifc_type": ["BuildingElementProxy"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Factory and Industrial (F)", "Residential (R)"], "design_phase": ["concept", "sd", "dd", "cd", "ca"], "code_category": "occupancy_classification", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T03:45:56.343892+00:00] Row Index: 23
+TITLE: Existing Structures
+BODY: The legal occupancy of any structure existing on the date of adoption of this code shall be permitte...
+ESTIMATED TOKENS SENT: 61
+RESPONSE: {"ifc_type": ["BuildingElementProxy"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Factory and Industrial (F)", "Residential (R)"], "design_phase": ["sd", "dd", "cd"], "code_category": "occupancy_classification", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T03:45:57.914167+00:00] Row Index: 24
+TITLE: Buildings Not Previously Occupied
+BODY: A building or portion of a building that has not been previously occupied or used for its intended p...
+ESTIMATED TOKENS SENT: 81
+RESPONSE: {"ifc_type": ["Wall", "Slab", "Door"], "occupancy": ["Assembly (A)", "Business (B)", "Residential (R)"], "design_phase": ["sd", "dd", "cd"], "code_category": "occupancy_classification", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T03:45:59.153408+00:00] Row Index: 25
+TITLE: Buildings Previously Occupied
+BODY: The legal occupancy of any building existing on the date of adoption of this code shall be permitted...
+ESTIMATED TOKENS SENT: 82
+RESPONSE: {"ifc_type": ["BuildingElementProxy"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Factory and Industrial (F)", "High Hazard (H)"], "design_phase": ["concept", "sd", "dd"], "code_category": "occupancy_classification", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T03:46:00.846365+00:00] Row Index: 26
+TITLE: Administration and Enforcement
+BODY: nan...
+ESTIMATED TOKENS SENT: 4
+RESPONSE: {"ifc_type": ["BuildingElementProxy"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Factory and Industrial (F)", "Residential (R)"], "design_phase": ["concept", "sd", "dd", "cd", "ca"], "code_category": "site_planning", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T03:46:02.702400+00:00] Row Index: 27
+TITLE: Code Compliance Agency
+BODY: nan...
+ESTIMATED TOKENS SENT: 4
+RESPONSE: {"ifc_type": ["BuildingElementProxy"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Factory and Industrial (F)", "Residential (R)"], "design_phase": ["cd", "ca"], "code_category": "occupancy_classification", "primary_responsibility": "owner"}
+--------------------
+[2026-01-14T03:46:05.040864+00:00] Row Index: 28
+TITLE: Creation of Enforcement Agency
+BODY: The [insert name of department] is hereby created and the official in charge thereof shall be known ...
+ESTIMATED TOKENS SENT: 56
+RESPONSE: {"ifc_type": ["BuildingElementProxy"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Factory and Industrial (F)", "Residential (R)"], "design_phase": ["concept", "sd", "dd", "cd", "ca"], "code_category": "occupancy_classification", "primary_responsibility": "owner"}
+--------------------
+[2026-01-14T03:46:06.569931+00:00] Row Index: 29
+TITLE: Appointment
+BODY: The building official shall be appointed by the chief appointing authority of the jurisdiction....
+ESTIMATED TOKENS SENT: 18
+RESPONSE: {"ifc_type": ["BuildingElementProxy"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Factory and Industrial (F)", "High Hazard (H)"], "design_phase": ["concept"], "code_category": "site_planning", "primary_responsibility": "owner"}
+--------------------
+[2026-01-14T03:46:07.815590+00:00] Row Index: 30
+TITLE: Deputies
+BODY: In accordance with the prescribed procedures of this jurisdiction and with the concurrence of the ap...
+ESTIMATED TOKENS SENT: 65
+RESPONSE: {"ifc_type": ["BuildingElementProxy"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Factory and Industrial (F)", "Residential (R)"], "design_phase": ["cd"], "code_category": "occupancy_classification", "primary_responsibility": "owner"}
+--------------------
+[2026-01-14T03:46:09.645695+00:00] Row Index: 31
+TITLE: Duties and Powers of Building Official
+BODY: nan...
+ESTIMATED TOKENS SENT: 8
+RESPONSE: {"ifc_type": ["BuildingElementProxy"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Factory and Industrial (F)", "Residential (R)"], "design_phase": ["cd", "ca"], "code_category": "site_planning", "primary_responsibility": "owner"}
+--------------------
+[2026-01-14T03:46:11.491179+00:00] Row Index: 32
+TITLE: General
+BODY: The building official is hereby authorized and directed to enforce the provisions of this code....
+ESTIMATED TOKENS SENT: 20
+RESPONSE: {"ifc_type": ["BuildingElementProxy"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Factory and Industrial (F)", "Residential (R)"], "design_phase": ["cd", "ca"], "code_category": "occupancy_classification", "primary_responsibility": "owner"}
+--------------------
+[2026-01-14T03:46:12.983714+00:00] Row Index: 33
+TITLE: Determination of Compliance
+BODY: The building official shall have the authority to determine compliance with this code, to render int...
+ESTIMATED TOKENS SENT: 88
+RESPONSE: {"ifc_type": ["BuildingElementProxy"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Factory and Industrial (F)", "Residential (R)"], "design_phase": ["cd"], "code_category": "occupancy_classification", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T03:46:14.376467+00:00] Row Index: 34
+TITLE: Listed Compliance
+BODY: Where this code or a referenced standard requires equipment, materials, products or services to be l...
+ESTIMATED TOKENS SENT: 121
+RESPONSE: {"ifc_type": ["BuildingElementProxy"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Factory and Industrial (F)", "Residential (R)"], "design_phase": ["cd", "ca"], "code_category": "finishes_materials", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T03:46:16.320050+00:00] Row Index: 35
+TITLE: Technical Assistance
+BODY: To determine compliance with this code, the building official is authorized to require the owner or ...
+ESTIMATED TOKENS SENT: 36
+RESPONSE: {"ifc_type": ["BuildingElementProxy"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Factory and Industrial (F)", "Residential (R)"], "design_phase": ["cd", "ca"], "code_category": "special_construction", "primary_responsibility": "owner"}
+--------------------
+[2026-01-14T03:46:17.490851+00:00] Row Index: 36
+TITLE: Cost
+BODY: A technical opinion and report shall be provided without charge to the jurisdiction....
+ESTIMATED TOKENS SENT: 17
+RESPONSE: {"ifc_type": ["BuildingElementProxy"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Factory and Industrial (F)", "High Hazard (H)"], "design_phase": ["cd"], "code_category": "special_construction", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T03:46:19.349472+00:00] Row Index: 37
+TITLE: Preparer Qualifications
+BODY: The technical opinion and report shall be prepared by a qualified engineer, specialist, laboratory o...
+ESTIMATED TOKENS SENT: 60
+RESPONSE: {"ifc_type": ["BuildingElementProxy"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Factory and Industrial (F)", "Residential (R)"], "design_phase": ["cd"], "code_category": "special_construction", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T03:46:20.948852+00:00] Row Index: 38
+TITLE: Content
+BODY: The technical opinion and report shall analyze the properties of the design, operation or use of the...
+ESTIMATED TOKENS SENT: 44
+RESPONSE: {"ifc_type": ["BuildingElementProxy"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Residential (R)", "Mercantile (M)"], "design_phase": ["sd", "dd", "cd"], "code_category": "site_planning", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T03:46:22.715594+00:00] Row Index: 39
+TITLE: Tests
+BODY: Where there is insufficient evidence of compliance with the provisions of this code, the building of...
+ESTIMATED TOKENS SENT: 93
+RESPONSE: {"ifc_type": ["BuildingElementProxy"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Factory and Industrial (F)", "Residential (R)"], "design_phase": ["cd", "ca"], "code_category": "special_construction", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T03:46:24.127665+00:00] Row Index: 40
+TITLE: Alternative Materials, Design and Methods of Construction and Equipment
+BODY: The provisions of this code are not intended to prevent the installation of any material or to prohi...
+ESTIMATED TOKENS SENT: 116
+RESPONSE: {"ifc_type": ["BuildingElementProxy"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Factory and Industrial (F)", "Residential (R)"], "design_phase": ["sd", "dd", "cd"], "code_category": "special_construction", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T03:46:25.439487+00:00] Row Index: 41
+TITLE: Approval Authority
+BODY: An alternative material, design or method of construction shall be approved where the building offic...
+ESTIMATED TOKENS SENT: 42
+RESPONSE: {"ifc_type": ["BuildingElementProxy"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Factory and Industrial (F)", "Residential (R)"], "design_phase": ["sd", "dd", "cd"], "code_category": "special_construction", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T03:46:27.216499+00:00] Row Index: 42
+TITLE: Application and Disposition
+BODY: Where required, a request to use an alternative material, design or method of construction shall be ...
+ESTIMATED TOKENS SENT: 72
+RESPONSE: {"ifc_type": ["BuildingElementProxy"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Factory and Industrial (F)", "Residential (R)"], "design_phase": ["sd", "dd", "cd"], "code_category": "special_construction", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T03:46:28.340789+00:00] Row Index: 43
+TITLE: Compliance With Code Intent
+BODY: An alternative material, design or method of construction shall comply with the intent of the provis...
+ESTIMATED TOKENS SENT: 29
+RESPONSE: {"ifc_type": ["BuildingElementProxy"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Factory and Industrial (F)", "Residential (R)"], "design_phase": ["sd", "dd", "cd"], "code_category": "special_construction", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T03:46:29.923088+00:00] Row Index: 44
+TITLE: Equivalency Criteria
+BODY: An alternative material, design or method of construction shall, for the purpose intended, be not le...
+ESTIMATED TOKENS SENT: 54
+RESPONSE: {"ifc_type": ["Wall", "Slab", "Roof"], "occupancy": ["Assembly (A)", "Business (B)", "Residential (R)"], "design_phase": ["sd", "dd", "cd"], "code_category": "special_construction", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T03:46:31.247463+00:00] Row Index: 45
+TITLE: Tests
+BODY: Tests conducted to demonstrate equivalency in support of an alternative material, design or method o...
+ESTIMATED TOKENS SENT: 60
+RESPONSE: {"ifc_type": ["BuildingElementProxy"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Factory and Industrial (F)", "Residential (R)"], "design_phase": ["sd", "dd", "cd"], "code_category": "special_construction", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T03:46:32.738498+00:00] Row Index: 46
+TITLE: Fire Tests
+BODY: Tests conducted to demonstrate equivalent fire safety in support of an alternative material, design ...
+ESTIMATED TOKENS SENT: 66
+RESPONSE: {"ifc_type": ["Wall", "Slab", "Roof"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Residential (R)", "Institutional (I)"], "design_phase": ["dd", "cd"], "code_category": "fire_resistance_smoke_protection", "primary_responsibility": "fire_protection_engineer"}
+--------------------
+[2026-01-14T03:46:34.067326+00:00] Row Index: 47
+TITLE: Reports
+BODY: Supporting data, where necessary to assist in the approval of materials or assemblies not specifical...
+ESTIMATED TOKENS SENT: 36
+RESPONSE: {"ifc_type": ["BuildingElementProxy"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Factory and Industrial (F)", "Residential (R)"], "design_phase": ["cd"], "code_category": "special_construction", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T03:46:35.286102+00:00] Row Index: 48
+TITLE: Evaluation Reports
+BODY: Evaluation reports shall be issued by an approved agency and use of the evaluation report shall requ...
+ESTIMATED TOKENS SENT: 93
+RESPONSE: {"ifc_type": ["BuildingElementProxy"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Factory and Industrial (F)", "Residential (R)"], "design_phase": ["cd", "ca"], "code_category": "special_construction", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T03:46:36.560576+00:00] Row Index: 49
+TITLE: Other Reports
+BODY: Reports not complying with Section 104.2.3.6.1 shall describe criteria, including but not limited to...
+ESTIMATED TOKENS SENT: 96
+RESPONSE: {"ifc_type": ["BuildingElementProxy"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Factory and Industrial (F)", "Residential (R)"], "design_phase": ["cd"], "code_category": "special_construction", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T03:46:37.765958+00:00] Row Index: 50
+TITLE: Peer Review
+BODY: The building official is authorized to require submittal of a peer review report in conjunction with...
+ESTIMATED TOKENS SENT: 54
+RESPONSE: {"ifc_type": ["BuildingElementProxy"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Factory and Industrial (F)", "Residential (R)"], "design_phase": ["sd", "dd", "cd"], "code_category": "special_construction", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T03:46:46.750471+00:00] Row Index: 51
+TITLE: Modifications
+BODY: Where there are practical difficulties involved in carrying out the provisions of this code, the bui...
+ESTIMATED TOKENS SENT: 141
+RESPONSE: {"ifc_type": ["BuildingElementProxy"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Factory and Industrial (F)", "Residential (R)"], "design_phase": ["cd", "ca"], "code_category": "occupancy_classification", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T03:46:48.123766+00:00] Row Index: 52
+TITLE: Flood Hazard Areas
+BODY: The building official shall not grant modifications to any provision required in flood hazard areas ...
+ESTIMATED TOKENS SENT: 248
+RESPONSE: {"ifc_type": ["Slab", "Wall", "Footing"], "occupancy": ["Residential (R)", "Business (B)", "Assembly (A)"], "design_phase": ["sd", "dd", "cd"], "code_category": "site_planning", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T03:46:50.989219+00:00] Row Index: 53
+TITLE: Applications and Permits
+BODY: The building official shall receive applications, review construction documents, issue permits, insp...
+ESTIMATED TOKENS SENT: 42
+RESPONSE: {"ifc_type": ["BuildingElementProxy"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Factory and Industrial (F)", "Residential (R)"], "design_phase": ["sd", "dd", "cd"], "code_category": "occupancy_classification", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T03:46:52.631561+00:00] Row Index: 54
+TITLE: Determination of Substantially Improved or Substantially Damaged Existing Buildings and Structures in Flood Hazard Areas
+BODY: For applications for reconstruction, rehabilitation, repair, alteration, addition or other improveme...
+ESTIMATED TOKENS SENT: 132
+RESPONSE: {"ifc_type": ["BuildingElementProxy"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Factory and Industrial (F)", "Residential (R)"], "design_phase": ["sd", "dd", "cd"], "code_category": "site_planning", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T03:46:56.446484+00:00] Row Index: 55
+TITLE: Right of Entry
+BODY: Where it is necessary to make an inspection to enforce the provisions of this code, or where the bui...
+ESTIMATED TOKENS SENT: 216
+RESPONSE: {"ifc_type": ["BuildingElementProxy"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Factory and Industrial (F)", "Residential (R)"], "design_phase": ["cd"], "code_category": "site_planning", "primary_responsibility": "owner"}
+--------------------
+[2026-01-14T03:46:58.365119+00:00] Row Index: 56
+TITLE: Warrant
+BODY: Where the building official has first obtained a proper inspection warrant or other remedy provided ...
+ESTIMATED TOKENS SENT: 96
+RESPONSE: {"ifc_type": ["BuildingElementProxy"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Factory and Industrial (F)", "Residential (R)"], "design_phase": ["ca"], "code_category": "site_planning", "primary_responsibility": "owner"}
+--------------------
+[2026-01-14T03:46:59.748233+00:00] Row Index: 57
+TITLE: Identification
+BODY: The building official shall carry proper identification when inspecting structures or premises in th...
+ESTIMATED TOKENS SENT: 26
+RESPONSE: {"ifc_type": ["BuildingElementProxy"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Factory and Industrial (F)", "Residential (R)"], "design_phase": ["ca"], "code_category": "site_planning", "primary_responsibility": "owner"}
+--------------------
+[2026-01-14T03:47:01.160384+00:00] Row Index: 58
+TITLE: Notices and Orders
+BODY: The building official shall issue necessary notices or orders to ensure compliance with this code. N...
+ESTIMATED TOKENS SENT: 36
+RESPONSE: {"ifc_type": ["BuildingElementProxy"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Factory and Industrial (F)", "Residential (R)"], "design_phase": ["cd", "ca"], "code_category": "occupancy_classification", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T03:47:02.714331+00:00] Row Index: 59
+TITLE: Official Records
+BODY: The building official shall keep official records as required by Sections 104.7.1 through 104.7.5. S...
+ESTIMATED TOKENS SENT: 66
+RESPONSE: {"ifc_type": ["BuildingElementProxy"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Factory and Industrial (F)", "High Hazard (H)"], "design_phase": ["cd", "ca"], "code_category": "site_planning", "primary_responsibility": "owner"}
+--------------------
+[2026-01-14T03:47:04.104983+00:00] Row Index: 60
+TITLE: Approvals
+BODY: A record of approvals shall be maintained by the building official and shall be available for public...
+ESTIMATED TOKENS SENT: 34
+RESPONSE: {"ifc_type": ["BuildingElementProxy"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Factory and Industrial (F)", "Residential (R)"], "design_phase": ["cd", "ca"], "code_category": "site_planning", "primary_responsibility": "owner"}
+--------------------
+[2026-01-14T03:47:05.945094+00:00] Row Index: 61
+TITLE: Inspections
+BODY: The building official shall keep a record of each inspection made, including notices and orders issu...
+ESTIMATED TOKENS SENT: 30
+RESPONSE: {"ifc_type": ["BuildingElementProxy"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Factory and Industrial (F)", "Residential (R)"], "design_phase": ["ca"], "code_category": "special_construction", "primary_responsibility": "owner"}
+--------------------
+[2026-01-14T03:47:07.385864+00:00] Row Index: 62
+TITLE: Code Alternatives and Modifications
+BODY: Application for alternative materials, design and methods of construction and equipment in accordanc...
+ESTIMATED TOKENS SENT: 65
+RESPONSE: {"ifc_type": ["BuildingElementProxy"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Factory and Industrial (F)", "Residential (R)"], "design_phase": ["cd"], "code_category": "special_construction", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T03:47:09.804152+00:00] Row Index: 63
+TITLE: Tests
+BODY: The building official shall keep a record of tests conducted to comply with Sections 104.2.2.4 and 1...
+ESTIMATED TOKENS SENT: 22
+RESPONSE: {"ifc_type": ["BuildingElementProxy"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Residential (R)", "Mercantile (M)"], "design_phase": ["cd", "ca"], "code_category": "special_construction", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T03:47:11.105614+00:00] Row Index: 64
+TITLE: Fees
+BODY: The building official shall keep a record of fees collected and refunded in accordance with Section ...
+ESTIMATED TOKENS SENT: 22
+RESPONSE: {"ifc_type": ["BuildingElementProxy"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Factory and Industrial (F)", "High Hazard (H)"], "design_phase": ["concept", "sd", "dd", "cd", "ca"], "code_category": "site_planning", "primary_responsibility": "owner"}
+--------------------
+[2026-01-14T03:47:12.638829+00:00] Row Index: 65
+TITLE: Liability
+BODY: The building official, member of the board of appeals or employee charged with the enforcement of th...
+ESTIMATED TOKENS SENT: 121
+RESPONSE: {"ifc_type": ["BuildingElementProxy"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Factory and Industrial (F)", "Residential (R)"], "design_phase": ["cd"], "code_category": "special_construction", "primary_responsibility": "owner"}
+--------------------
+[2026-01-14T03:47:14.256561+00:00] Row Index: 66
+TITLE: Legal Defense
+BODY: Any suit or criminal complaint instituted against any officer or employee because of an act performe...
+ESTIMATED TOKENS SENT: 121
+RESPONSE: {"ifc_type": ["BuildingElementProxy"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Factory and Industrial (F)", "Residential (R)"], "design_phase": ["cd", "ca"], "code_category": "special_construction", "primary_responsibility": "owner"}
+--------------------
+[2026-01-14T03:47:15.802400+00:00] Row Index: 67
+TITLE: Approved Materials and Equipment
+BODY: Materials, equipment and devices approved by the building official shall be constructed and installe...
+ESTIMATED TOKENS SENT: 29
+RESPONSE: {"ifc_type": ["BuildingElementProxy"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Factory and Industrial (F)", "Residential (R)"], "design_phase": ["sd", "dd", "cd"], "code_category": "finishes_materials", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T03:47:18.365805+00:00] Row Index: 68
+TITLE: Materials and Equipment Reuse
+BODY: Materials, equipment and devices shall not be reused unless such elements are in good working condit...
+ESTIMATED TOKENS SENT: 28
+RESPONSE: {"ifc_type": ["BuildingElementProxy", "Door", "Window", "Roof", "Slab"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Residential (R)", "Mercantile (M)"], "design_phase": ["sd", "dd", "cd"], "code_category": "finishes_materials", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T03:47:21.131966+00:00] Row Index: 69
+TITLE: Permits
+BODY: nan...
+ESTIMATED TOKENS SENT: 1
+RESPONSE: {"ifc_type": ["BuildingElementProxy"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Factory and Industrial (F)", "High Hazard (H)"], "design_phase": ["concept", "sd"], "code_category": "site_planning", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T03:47:22.387863+00:00] Row Index: 70
+TITLE: Required
+BODY: Any owner or owner's authorized agent who intends to construct, enlarge, alter, repair, move, demoli...
+ESTIMATED TOKENS SENT: 97
+RESPONSE: {"ifc_type": ["BuildingElementProxy"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Factory and Industrial (F)", "Residential (R)"], "design_phase": ["concept", "sd", "dd", "cd"], "code_category": "site_planning", "primary_responsibility": "owner"}
+--------------------
+[2026-01-14T03:47:23.633732+00:00] Row Index: 71
+TITLE: Annual Permit
+BODY: Instead of an individual permit for each alteration to an already approved electrical, gas, mechanic...
+ESTIMATED TOKENS SENT: 82
+RESPONSE: {"ifc_type": ["BuildingElementProxy"], "occupancy": ["Business (B)", "Factory and Industrial (F)", "High Hazard (H)", "Institutional (I)", "Mercantile (M)"], "design_phase": ["cd"], "code_category": "mechanical_systems", "primary_responsibility": "mechanical_engineer"}
+--------------------
+[2026-01-14T03:47:25.434050+00:00] Row Index: 72
+TITLE: Annual Permit Records
+BODY: The person to whom an annual permit is issued shall keep a detailed record of alterations made under...
+ESTIMATED TOKENS SENT: 62
+RESPONSE: {"ifc_type": ["BuildingElementProxy"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Factory and Industrial (F)", "Residential (R)"], "design_phase": ["ca"], "code_category": "special_construction", "primary_responsibility": "owner"}
+--------------------
+[2026-01-14T03:47:27.058871+00:00] Row Index: 73
+TITLE: Work Exempt From Permit
+BODY: Exemptions from permit requirements of this code shall not be deemed to grant authorization for any ...
+ESTIMATED TOKENS SENT: 810
+RESPONSE: {"ifc_type": ["BuildingElementProxy", "Wall", "Slab", "Window", "Covering"], "occupancy": ["Residential (R)", "Utility and Miscellaneous (U)"], "design_phase": ["sd", "dd"], "code_category": "site_planning", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T03:47:28.580058+00:00] Row Index: 74
+TITLE: Emergency Repairs
+BODY: Where equipment replacements and repairs must be performed in an emergency situation, the permit app...
+ESTIMATED TOKENS SENT: 38
+RESPONSE: {"ifc_type": ["BuildingElementProxy"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Factory and Industrial (F)", "Residential (R)"], "design_phase": ["ca"], "code_category": "special_construction", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T03:47:29.890673+00:00] Row Index: 75
+TITLE: Public Service Agencies
+BODY: A permit shall not be required for the installation, alteration or repair of generation, transmissio...
+ESTIMATED TOKENS SENT: 50
+RESPONSE: {"ifc_type": ["ElectricalSystem", "BuildingElementProxy"], "occupancy": ["Utility and Miscellaneous (U)"], "design_phase": ["cd", "ca"], "code_category": "electrical_systems", "primary_responsibility": "electrical_engineer"}
+--------------------
+[2026-01-14T03:47:32.521758+00:00] Row Index: 76
+TITLE: Application for Permit
+BODY: To obtain a permit, the applicant shall first file an application therefor in writing on a form furn...
+ESTIMATED TOKENS SENT: 169
+RESPONSE: {"ifc_type": ["BuildingElementProxy"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Factory and Industrial (F)", "High Hazard (H)"], "design_phase": ["concept", "sd"], "code_category": "site_planning", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T03:47:33.940224+00:00] Row Index: 77
+TITLE: Action on Application
+BODY: The building official shall examine or cause to be examined applications for permits and amendments ...
+ESTIMATED TOKENS SENT: 117
+RESPONSE: {"ifc_type": ["BuildingElementProxy"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Factory and Industrial (F)", "Residential (R)"], "design_phase": ["sd", "dd", "cd"], "code_category": "occupancy_classification", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T03:47:35.287446+00:00] Row Index: 78
+TITLE: Time Limitation of Application
+BODY: An application for a permit for any proposed work shall be deemed to have been abandoned 180 days af...
+ESTIMATED TOKENS SENT: 100
+RESPONSE: {"ifc_type": ["BuildingElementProxy"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Factory and Industrial (F)", "High Hazard (H)"], "design_phase": ["concept", "sd", "dd", "cd"], "code_category": "site_planning", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T03:47:36.822167+00:00] Row Index: 79
+TITLE: Validity of Permit
+BODY: The issuance or granting of a permit shall not be construed to be a permit for, or an approval of, a...
+ESTIMATED TOKENS SENT: 162
+RESPONSE: {"ifc_type": ["BuildingElementProxy"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Factory and Industrial (F)", "Residential (R)"], "design_phase": ["cd", "ca"], "code_category": "occupancy_classification", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T03:47:38.880851+00:00] Row Index: 80
+TITLE: Expiration
+BODY: Every permit issued shall become invalid unless the work on the site authorized by such permit is co...
+ESTIMATED TOKENS SENT: 114
+RESPONSE: {"ifc_type": ["BuildingElementProxy"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Factory and Industrial (F)", "Residential (R)"], "design_phase": ["sd", "dd", "cd"], "code_category": "site_planning", "primary_responsibility": "owner"}
+--------------------
+[2026-01-14T03:47:40.096519+00:00] Row Index: 81
+TITLE: Suspension or Revocation
+BODY: The building official is authorized to suspend or revoke a permit issued under the provisions of thi...
+ESTIMATED TOKENS SENT: 70
+RESPONSE: {"ifc_type": ["BuildingElementProxy"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Factory and Industrial (F)", "Residential (R)"], "design_phase": ["cd", "ca"], "code_category": "site_planning", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T03:47:41.481947+00:00] Row Index: 82
+TITLE: Placement of Permit
+BODY: The building permit or copy shall be kept on the site of the work until the completion of the projec...
+ESTIMATED TOKENS SENT: 29
+RESPONSE: {"ifc_type": ["BuildingElementProxy"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Factory and Industrial (F)", "High Hazard (H)"], "design_phase": ["cd", "ca"], "code_category": "site_planning", "primary_responsibility": "owner"}
+--------------------
+[2026-01-14T03:47:42.711342+00:00] Row Index: 83
+TITLE: Floor and Roof Design Loads
+BODY: nan...
+ESTIMATED TOKENS SENT: 6
+RESPONSE: {"ifc_type": ["Slab", "Roof"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Residential (R)", "Mercantile (M)"], "design_phase": ["sd", "dd", "cd"], "code_category": "structural_design", "primary_responsibility": "structural_engineer"}
+--------------------
+[2026-01-14T03:47:44.401811+00:00] Row Index: 84
+TITLE: Live Loads Posted
+BODY: In commercial or industrial buildings, for each floor or portion thereof designed for live loads exc...
+ESTIMATED TOKENS SENT: 81
+RESPONSE: {"ifc_type": ["Slab"], "occupancy": ["Business (B)", "Factory and Industrial (F)"], "design_phase": ["cd", "ca"], "code_category": "structural_design", "primary_responsibility": "owner"}
+--------------------
+[2026-01-14T03:47:47.123839+00:00] Row Index: 85
+TITLE: Issuance of Certificate of Occupancy
+BODY: A certificate of occupancy required by Section 111 shall not be issued until the floor load signs, r...
+ESTIMATED TOKENS SENT: 37
+RESPONSE: {"ifc_type": ["Slab", "Beam", "Column"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Factory and Industrial (F)", "Residential (R)"], "design_phase": ["cd", "ca"], "code_category": "means_of_egress", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T03:47:48.448170+00:00] Row Index: 86
+TITLE: Restrictions on Loading
+BODY: It shall be unlawful to place, or cause or permit to be placed, on any floor or roof of a building, ...
+ESTIMATED TOKENS SENT: 48
+RESPONSE: {"ifc_type": ["Slab", "Roof", "Beam", "Column"], "occupancy": ["Assembly (A)", "Business (B)", "Residential (R)", "Educational (E)", "Mercantile (M)"], "design_phase": ["sd", "dd", "cd"], "code_category": "structural_design", "primary_responsibility": "structural_engineer"}
+--------------------
+[2026-01-14T03:47:49.855730+00:00] Row Index: 87
+TITLE: Construction Documents
+BODY: nan...
+ESTIMATED TOKENS SENT: 2
+RESPONSE: {"ifc_type": ["BuildingElementProxy"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Factory and Industrial (F)", "Mercantile (M)"], "design_phase": ["cd"], "code_category": "site_planning", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T03:47:51.908904+00:00] Row Index: 88
+TITLE: General
+BODY: Submittal documents consisting of construction documents, statement of special inspections, geotechn...
+ESTIMATED TOKENS SENT: 186
+RESPONSE: {"ifc_type": ["BuildingElementProxy"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Factory and Industrial (F)", "Residential (R)"], "design_phase": ["sd", "dd", "cd"], "code_category": "special_construction", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T03:47:53.223234+00:00] Row Index: 89
+TITLE: Construction Documents
+BODY: Construction documents shall be in accordance with Sections 107.2.1 through 107.2.8....
+ESTIMATED TOKENS SENT: 16
+RESPONSE: {"ifc_type": ["BuildingElementProxy"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Factory and Industrial (F)", "High Hazard (H)"], "design_phase": ["cd"], "code_category": "special_construction", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T03:47:55.242054+00:00] Row Index: 90
+TITLE: Information on Construction Documents
+BODY: Construction documents shall be dimensioned and drawn on suitable material. Electronic media documen...
+ESTIMATED TOKENS SENT: 96
+RESPONSE: {"ifc_type": ["BuildingElementProxy"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Factory and Industrial (F)", "Residential (R)"], "design_phase": ["sd", "dd", "cd"], "code_category": "site_planning", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T03:47:57.299935+00:00] Row Index: 91
+TITLE: Fire Protection System Shop Drawings
+BODY: Shop drawings for the fire protection systems shall be submitted to indicate conformance to this cod...
+ESTIMATED TOKENS SENT: 68
+RESPONSE: {"ifc_type": ["BuildingElementProxy"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Factory and Industrial (F)", "Residential (R)"], "design_phase": ["cd", "ca"], "code_category": "fire_protection_alarm_systems", "primary_responsibility": "fire_protection_engineer"}
+--------------------
+[2026-01-14T03:47:58.863355+00:00] Row Index: 92
+TITLE: Means of Egress
+BODY: The construction documents shall show in sufficient detail the location, construction, size and char...
+ESTIMATED TOKENS SENT: 98
+RESPONSE: {"ifc_type": ["Door", "Stair", "Ramp", "Slab", "Wall"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Factory and Industrial (F)", "Mercantile (M)"], "design_phase": ["sd", "dd", "cd"], "code_category": "means_of_egress", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T03:48:00.656394+00:00] Row Index: 93
+TITLE: Exterior Wall Envelope
+BODY: Construction documents for all buildings shall describe the exterior wall assembly in sufficient det...
+ESTIMATED TOKENS SENT: 154
+RESPONSE: {"ifc_type": ["Wall", "Covering", "Slab", "Window", "Roof"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Factory and Industrial (F)", "Residential (R)"], "design_phase": ["dd", "cd"], "code_category": "assemblies_envelope", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T03:48:05.071664+00:00] Row Index: 94
+TITLE: Exterior Balconies and Elevated Walking Surfaces
+BODY: Where balconies or other elevated walking surfaces have weather-exposed surfaces, and the structural...
+ESTIMATED TOKENS SENT: 65
+RESPONSE: {"ifc_type": ["Slab", "Railing", "Covering"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Residential (R)"], "design_phase": ["sd", "dd", "cd"], "code_category": "assemblies_envelope", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T03:48:07.088046+00:00] Row Index: 95
+TITLE: Site Plan
+BODY: The construction documents submitted with the application for permit shall be accompanied by a site ...
+ESTIMATED TOKENS SENT: 176
+RESPONSE: {"ifc_type": ["BuildingElementProxy"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Factory and Industrial (F)", "Residential (R)"], "design_phase": ["sd", "dd", "cd"], "code_category": "site_planning", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T03:48:08.429458+00:00] Row Index: 96
+TITLE: Design Flood Elevations
+BODY: Where design flood elevations are not specified, they shall be established in accordance with Sectio...
+ESTIMATED TOKENS SENT: 24
+RESPONSE: {"ifc_type": ["Slab", "Wall", "Footing"], "occupancy": ["Assembly (A)", "Business (B)", "Residential (R)", "Mercantile (M)", "Storage (S)"], "design_phase": ["sd", "dd", "cd"], "code_category": "site_planning", "primary_responsibility": "civil_engineer"}
+--------------------
+[2026-01-14T03:48:09.775628+00:00] Row Index: 97
+TITLE: Structural Information
+BODY: The construction documents shall provide the information specified in Section 1603....
+ESTIMATED TOKENS SENT: 16
+RESPONSE: {"ifc_type": ["Wall", "Beam", "Column", "Slab", "Footing"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Factory and Industrial (F)", "Residential (R)"], "design_phase": ["cd"], "code_category": "structural_design", "primary_responsibility": "structural_engineer"}
+--------------------
+[2026-01-14T03:48:11.101099+00:00] Row Index: 98
+TITLE: Relocatable Buildings
+BODY: Construction documents for relocatable buildings shall comply with Section 3112....
+ESTIMATED TOKENS SENT: 14
+RESPONSE: {"ifc_type": ["BuildingElementProxy"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Residential (R)", "Mercantile (M)"], "design_phase": ["sd", "dd", "cd"], "code_category": "special_construction", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T03:48:12.281336+00:00] Row Index: 99
+TITLE: Examination of Documents
+BODY: The building official shall examine or cause to be examined the accompanying submittal documents and...
+ESTIMATED TOKENS SENT: 57
+RESPONSE: {"ifc_type": ["BuildingElementProxy"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Institutional (I)", "Residential (R)"], "design_phase": ["sd", "dd", "cd"], "code_category": "occupancy_classification", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T03:48:14.110899+00:00] Row Index: 100
+TITLE: Approval of Construction Documents
+BODY: When the building official issues a permit, the construction documents shall be approved, in writing...
+ESTIMATED TOKENS SENT: 96
+RESPONSE: {"ifc_type": ["BuildingElementProxy"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Factory and Industrial (F)", "High Hazard (H)"], "design_phase": ["cd", "ca"], "code_category": "site_planning", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T03:48:15.357639+00:00] Row Index: 101
+TITLE: Previous Approvals
+BODY: This code shall not require changes in the construction documents, construction or designated occupa...
+ESTIMATED TOKENS SENT: 76
+RESPONSE: {"ifc_type": ["BuildingElementProxy"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Factory and Industrial (F)", "High Hazard (H)"], "design_phase": ["cd"], "code_category": "occupancy_classification", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T03:48:16.704183+00:00] Row Index: 102
+TITLE: Phased Approval
+BODY: The building official is authorized to issue a permit for the construction of foundations or any oth...
+ESTIMATED TOKENS SENT: 125
+RESPONSE: {"ifc_type": ["Footing", "Slab", "Wall", "Column"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Factory and Industrial (F)", "Residential (R)"], "design_phase": ["cd", "ca"], "code_category": "site_planning", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T03:48:18.635372+00:00] Row Index: 103
+TITLE: Design Professional in Responsible Charge
+BODY: Where it is required that documents be prepared by a registered design professional, the building of...
+ESTIMATED TOKENS SENT: 212
+RESPONSE: {"ifc_type": ["BuildingElementProxy"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Factory and Industrial (F)", "Residential (R)"], "design_phase": ["sd", "dd", "cd"], "code_category": "occupancy_classification", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T03:48:20.064629+00:00] Row Index: 104
+TITLE: Deferred Submittals
+BODY: Deferral of any submittal items shall have the prior approval of the building official. The register...
+ESTIMATED TOKENS SENT: 144
+RESPONSE: {"ifc_type": ["BuildingElementProxy"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Factory and Industrial (F)", "Residential (R)"], "design_phase": ["cd", "ca"], "code_category": "special_construction", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T03:48:22.217660+00:00] Row Index: 105
+TITLE: Amended Construction Documents
+BODY: Work shall be installed in accordance with the approved construction documents, and any changes made...
+ESTIMATED TOKENS SENT: 54
+RESPONSE: {"ifc_type": ["BuildingElementProxy"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Factory and Industrial (F)", "Residential (R)"], "design_phase": ["cd", "ca"], "code_category": "special_construction", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T03:48:24.037318+00:00] Row Index: 106
+TITLE: Retention of Construction Documents
+BODY: One set of approved construction documents shall be retained by the building official for a period o...
+ESTIMATED TOKENS SENT: 54
+RESPONSE: {"ifc_type": ["BuildingElementProxy"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Factory and Industrial (F)", "High Hazard (H)"], "design_phase": ["cd", "ca"], "code_category": "special_construction", "primary_responsibility": "owner"}
+--------------------
+[2026-01-14T03:48:25.236674+00:00] Row Index: 107
+TITLE: Temporary Structures, Equipment and Systems
+BODY: nan...
+ESTIMATED TOKENS SENT: 6
+RESPONSE: {"ifc_type": ["BuildingElementProxy", "Wall", "Slab"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Factory and Industrial (F)", "Residential (R)"], "design_phase": ["sd", "dd", "cd"], "code_category": "special_construction", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T03:48:26.644138+00:00] Row Index: 108
+TITLE: General
+BODY: The building official is authorized to issue a permit for temporary structures, equipment or systems...
+ESTIMATED TOKENS SENT: 97
+RESPONSE: {"ifc_type": ["BuildingElementProxy"], "occupancy": ["Utility and Miscellaneous (U)"], "design_phase": ["sd", "dd", "cd"], "code_category": "special_construction", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T03:48:27.808902+00:00] Row Index: 109
+TITLE: Conformance
+BODY: Temporary structures shall comply with the requirements in Section 3103....
+ESTIMATED TOKENS SENT: 13
+RESPONSE: {"ifc_type": ["BuildingElementProxy", "Wall", "Roof"], "occupancy": ["Utility and Miscellaneous (U)"], "design_phase": ["sd", "dd", "cd"], "code_category": "special_construction", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T03:48:29.266616+00:00] Row Index: 110
+TITLE: Temporary Service Utilities
+BODY: The building official is authorized to give permission to temporarily supply service utilities in ac...
+ESTIMATED TOKENS SENT: 26
+RESPONSE: {"ifc_type": ["BuildingElementProxy"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Factory and Industrial (F)", "Mercantile (M)"], "design_phase": ["cd", "ca"], "code_category": "electrical_systems", "primary_responsibility": "electrical_engineer"}
+--------------------
+[2026-01-14T03:48:30.651530+00:00] Row Index: 111
+TITLE: Termination of Approval
+BODY: The building official is authorized to terminate such permit for a temporary structure, equipment or...
+ESTIMATED TOKENS SENT: 34
+RESPONSE: {"ifc_type": ["BuildingElementProxy"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Factory and Industrial (F)", "Mercantile (M)"], "design_phase": ["cd", "ca"], "code_category": "special_construction", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T03:48:32.519305+00:00] Row Index: 112
+TITLE: Fees
+BODY: nan...
+ESTIMATED TOKENS SENT: 1
+RESPONSE: {"ifc_type": ["BuildingElementProxy"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Factory and Industrial (F)", "High Hazard (H)"], "design_phase": ["concept", "sd"], "code_category": "site_planning", "primary_responsibility": "owner"}
+--------------------
+[2026-01-14T03:48:33.642192+00:00] Row Index: 113
+TITLE: Payment of Fees
+BODY: A permit shall not be valid until the fees prescribed by law have been paid, nor shall an amendment ...
+ESTIMATED TOKENS SENT: 46
+RESPONSE: {"ifc_type": ["BuildingElementProxy"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Factory and Industrial (F)", "High Hazard (H)"], "design_phase": ["sd", "dd", "cd"], "code_category": "site_planning", "primary_responsibility": "owner"}
+--------------------
+[2026-01-14T03:48:35.690321+00:00] Row Index: 114
+TITLE: Schedule of Permit Fees
+BODY: Where a permit is required, a fee for each permit shall be paid as required, in accordance with the ...
+ESTIMATED TOKENS SENT: 40
+RESPONSE: {"ifc_type": ["BuildingElementProxy"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Factory and Industrial (F)", "Residential (R)"], "design_phase": ["concept", "sd", "dd", "cd"], "code_category": "site_planning", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T03:48:36.839230+00:00] Row Index: 115
+TITLE: Permit Valuations
+BODY: The applicant for a permit shall provide an estimated value of the work for which the permit is bein...
+ESTIMATED TOKENS SENT: 133
+RESPONSE: {"ifc_type": ["BuildingElementProxy"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Factory and Industrial (F)", "High Hazard (H)"], "design_phase": ["cd"], "code_category": "site_planning", "primary_responsibility": "owner"}
+--------------------
+[2026-01-14T03:48:38.059766+00:00] Row Index: 116
+TITLE: Work Commencing Before Permit Issuance
+BODY: Any person who commences any work before obtaining the necessary permits shall be subject to a fee e...
+ESTIMATED TOKENS SENT: 48
+RESPONSE: {"ifc_type": ["BuildingElementProxy"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Factory and Industrial (F)", "High Hazard (H)"], "design_phase": ["concept", "sd"], "code_category": "site_planning", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T03:48:39.383901+00:00] Row Index: 117
+TITLE: Related Fees
+BODY: The payment of the fee for the construction, alteration, removal or demolition for work done in conn...
+ESTIMATED TOKENS SENT: 66
+RESPONSE: {"ifc_type": ["BuildingElementProxy"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Factory and Industrial (F)", "Residential (R)"], "design_phase": ["concept", "sd"], "code_category": "site_planning", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T03:48:40.989311+00:00] Row Index: 118
+TITLE: Refunds
+BODY: The building official is authorized to establish a refund policy....
+ESTIMATED TOKENS SENT: 13
+RESPONSE: {"ifc_type": ["BuildingElementProxy"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Factory and Industrial (F)", "High Hazard (H)"], "design_phase": ["cd"], "code_category": "site_planning", "primary_responsibility": "owner"}
+--------------------
+[2026-01-14T03:48:42.335235+00:00] Row Index: 119
+TITLE: Inspections
+BODY: nan...
+ESTIMATED TOKENS SENT: 1
+RESPONSE: {"ifc_type": ["BuildingElementProxy"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Factory and Industrial (F)", "Residential (R)"], "design_phase": ["cd", "ca"], "code_category": "special_construction", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T03:48:43.663320+00:00] Row Index: 120
+TITLE: General
+BODY: Construction or work for which a permit is required shall be subject to inspection by the building o...
+ESTIMATED TOKENS SENT: 193
+RESPONSE: {"ifc_type": ["Wall", "Slab", "Roof"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Residential (R)", "Mercantile (M)"], "design_phase": ["ca"], "code_category": "special_construction", "primary_responsibility": "owner"}
+--------------------
+[2026-01-14T03:48:45.085564+00:00] Row Index: 121
+TITLE: Preliminary Inspection
+BODY: Before issuing a permit, the building official is authorized to examine or cause to be examined buil...
+ESTIMATED TOKENS SENT: 37
+RESPONSE: {"ifc_type": ["BuildingElementProxy", "Site"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Factory and Industrial (F)", "Residential (R)"], "design_phase": ["concept", "sd"], "code_category": "site_planning", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T03:48:46.811483+00:00] Row Index: 122
+TITLE: Required Inspections
+BODY: The building official, upon notification, shall make the inspections set forth in Sections 110.3.1 t...
+ESTIMATED TOKENS SENT: 22
+RESPONSE: {"ifc_type": ["Wall", "Slab", "Roof"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Residential (R)", "Mercantile (M)"], "design_phase": ["cd", "ca"], "code_category": "special_construction", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T03:48:48.412907+00:00] Row Index: 123
+TITLE: Footing and Foundation Inspection
+BODY: Footing and foundation inspections shall be made after excavations for footings are complete and any...
+ESTIMATED TOKENS SENT: 86
+RESPONSE: {"ifc_type": ["Footing", "DeepFoundation"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Factory and Industrial (F)", "Residential (R)"], "design_phase": ["cd", "ca"], "code_category": "structural_design", "primary_responsibility": "structural_engineer"}
+--------------------
+[2026-01-14T03:48:50.382680+00:00] Row Index: 124
+TITLE: Concrete Slab and Under-Floor Inspection
+BODY: Concrete slab and under-floor inspections shall be made after in-slab or under-floor reinforcing ste...
+ESTIMATED TOKENS SENT: 61
+RESPONSE: {"ifc_type": ["Slab", "Footing"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Factory and Industrial (F)", "High Hazard (H)"], "design_phase": ["cd", "ca"], "code_category": "structural_design", "primary_responsibility": "structural_engineer"}
+--------------------
+[2026-01-14T03:48:52.011838+00:00] Row Index: 125
+TITLE: Lowest Floor Elevation
+BODY: In flood hazard areas, upon placement of the lowest floor, including the basement, and prior to furt...
+ESTIMATED TOKENS SENT: 56
+RESPONSE: {"ifc_type": ["Slab", "Footing"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Residential (R)", "Storage (S)"], "design_phase": ["sd", "dd", "cd"], "code_category": "site_planning", "primary_responsibility": "civil_engineer"}
+--------------------
+[2026-01-14T03:48:53.978021+00:00] Row Index: 126
+TITLE: Frame Inspection
+BODY: Framing inspections shall be made after the roof deck or sheathing, all framing, fire-blocking and b...
+ESTIMATED TOKENS SENT: 56
+RESPONSE: {"ifc_type": ["Wall", "Beam", "Column", "Roof", "Slab"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Residential (R)"], "design_phase": ["cd", "ca"], "code_category": "structural_design", "primary_responsibility": "structural_engineer"}
+--------------------
+[2026-01-14T03:48:55.648675+00:00] Row Index: 127
+TITLE: Types IV-A, IV-B and IV-C Connection Protection Inspection
+BODY: In buildings of Types IV-A, IV-B and IV-C construction, where connection fire-resistance ratings are...
+ESTIMATED TOKENS SENT: 73
+RESPONSE: {"ifc_type": ["Beam", "Column", "Covering"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Factory and Industrial (F)", "Residential (R)"], "design_phase": ["cd", "ca"], "code_category": "fire_resistance_smoke_protection", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T03:48:57.197303+00:00] Row Index: 128
+TITLE: Lath and Gypsum Panel Product Inspection
+BODY: Lath and gypsum panel product inspections shall be made after lathing and gypsum panel products, int...
+ESTIMATED TOKENS SENT: 77
+RESPONSE: {"ifc_type": ["Wall", "Covering", "Slab"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Residential (R)", "Institutional (I)"], "design_phase": ["cd", "ca"], "code_category": "finishes_materials", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T03:48:58.470892+00:00] Row Index: 129
+TITLE: Weather-Exposed Balcony and Walking Surface Waterproofing
+BODY: Where balconies or other elevated walking surfaces have weather-exposed surfaces, and the structural...
+ESTIMATED TOKENS SENT: 72
+RESPONSE: {"ifc_type": ["Slab", "Covering", "Railing"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Residential (R)", "Mercantile (M)"], "design_phase": ["cd", "ca"], "code_category": "assemblies_envelope", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T03:49:00.499638+00:00] Row Index: 130
+TITLE: Fire- And Smoke-Resistant Penetrations
+BODY: Protection of joints and penetrations in fire-resistance-rated assemblies, smoke barriers and smoke ...
+ESTIMATED TOKENS SENT: 34
+RESPONSE: {"ifc_type": ["Wall", "Slab", "Door"], "occupancy": ["Assembly (A)", "Business (B)", "Institutional (I)", "Residential (R)"], "design_phase": ["cd", "ca"], "code_category": "fire_resistance_smoke_protection", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T03:49:02.158858+00:00] Row Index: 131
+TITLE: Energy Efficiency Inspections
+BODY: Inspections shall be made to determine compliance with Chapter 13 and shall include, but not be limi...
+ESTIMATED TOKENS SENT: 53
+RESPONSE: {"ifc_type": ["Slab", "Wall", "Roof", "Window", "Covering"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Factory and Industrial (F)", "Residential (R)"], "design_phase": ["cd", "ca"], "code_category": "assemblies_envelope", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T03:49:04.297127+00:00] Row Index: 132
+TITLE: Other Inspections
+BODY: In addition to the inspections specified in Sections 110.3.1 through 110.3.9, the building official ...
+ESTIMATED TOKENS SENT: 64
+RESPONSE: {"ifc_type": ["BuildingElementProxy"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Factory and Industrial (F)", "Residential (R)"], "design_phase": ["ca"], "code_category": "special_construction", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T03:49:05.566855+00:00] Row Index: 133
+TITLE: Special Inspections
+BODY: For special inspections, see Chapter 17....
+ESTIMATED TOKENS SENT: 9
+RESPONSE: {"ifc_type": ["StructuralElement", "Slab", "Column", "Beam", "Footing"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Factory and Industrial (F)", "Residential (R)"], "design_phase": ["cd", "ca"], "code_category": "structural_design", "primary_responsibility": "structural_engineer"}
+--------------------
+[2026-01-14T03:49:07.173454+00:00] Row Index: 134
+TITLE: Final Inspection
+BODY: The final inspection shall be made after all work required by the building permit is completed....
+ESTIMATED TOKENS SENT: 22
+RESPONSE: {"ifc_type": ["BuildingElementProxy"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Factory and Industrial (F)", "Residential (R)"], "design_phase": ["ca"], "code_category": "special_construction", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T03:49:08.481648+00:00] Row Index: 135
+TITLE: Flood Hazard Documentation
+BODY: If located in a flood hazard area, documentation of the elevation of the lowest floor or the elevati...
+ESTIMATED TOKENS SENT: 56
+RESPONSE: {"ifc_type": ["Slab", "Footing", "Wall"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Residential (R)", "Storage (S)"], "design_phase": ["cd", "ca"], "code_category": "site_planning", "primary_responsibility": "civil_engineer"}
+--------------------
+[2026-01-14T03:49:09.914045+00:00] Row Index: 136
+TITLE: Inspection Agencies
+BODY: The building official is authorized to accept reports of approved inspection agencies, provided that...
+ESTIMATED TOKENS SENT: 33
+RESPONSE: {"ifc_type": ["BuildingElementProxy"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Factory and Industrial (F)", "Residential (R)"], "design_phase": ["cd", "ca"], "code_category": "special_construction", "primary_responsibility": "owner"}
+--------------------
+[2026-01-14T03:49:11.386753+00:00] Row Index: 137
+TITLE: Inspection Requests
+BODY: It shall be the duty of the holder of the building permit or their duly authorized agent to notify t...
+ESTIMATED TOKENS SENT: 73
+RESPONSE: {"ifc_type": ["BuildingElementProxy"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Factory and Industrial (F)", "Residential (R)"], "design_phase": ["ca"], "code_category": "site_planning", "primary_responsibility": "owner"}
+--------------------
+[2026-01-14T03:49:12.734876+00:00] Row Index: 138
+TITLE: Approval Required
+BODY: Work shall not be done beyond the point indicated in each successive inspection without first obtain...
+ESTIMATED TOKENS SENT: 120
+RESPONSE: {"ifc_type": ["BuildingElementProxy"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Factory and Industrial (F)", "Residential (R)"], "design_phase": ["ca"], "code_category": "special_construction", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T03:49:13.741227+00:00] Row Index: 139
+TITLE: Certificate of Occupancy
+BODY: nan...
+ESTIMATED TOKENS SENT: 4
+RESPONSE: {"ifc_type": ["BuildingElementProxy"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Factory and Industrial (F)", "Residential (R)"], "design_phase": ["cd", "ca"], "code_category": "occupancy_classification", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T03:49:16.201017+00:00] Row Index: 140
+TITLE: Change of Occupancy
+BODY: A building or structure shall not be used or occupied in whole or in part, and a change of occupancy...
+ESTIMATED TOKENS SENT: 156
+RESPONSE: {"ifc_type": ["BuildingElementProxy"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Factory and Industrial (F)", "Residential (R)"], "design_phase": ["sd", "dd", "cd"], "code_category": "occupancy_classification", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T03:49:18.210203+00:00] Row Index: 141
+TITLE: Certificate Issued
+BODY: After the building official inspects the building or structure and does not find violations of the p...
+ESTIMATED TOKENS SENT: 198
+RESPONSE: {"ifc_type": ["BuildingElementProxy"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Factory and Industrial (F)", "High Hazard (H)"], "design_phase": ["ca"], "code_category": "occupancy_classification", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T03:49:19.930188+00:00] Row Index: 142
+TITLE: Temporary Occupancy
+BODY: The building official is authorized to issue a temporary certificate of occupancy before the complet...
+ESTIMATED TOKENS SENT: 68
+RESPONSE: {"ifc_type": ["BuildingElementProxy"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Factory and Industrial (F)", "Residential (R)"], "design_phase": ["ca"], "code_category": "occupancy_classification", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T03:49:21.429319+00:00] Row Index: 143
+TITLE: Revocation
+BODY: The building official is authorized to suspend or revoke a certificate of occupancy or completion is...
+ESTIMATED TOKENS SENT: 89
+RESPONSE: {"ifc_type": ["BuildingElementProxy"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Factory and Industrial (F)", "Residential (R)"], "design_phase": ["cd", "ca"], "code_category": "occupancy_classification", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T03:49:22.768853+00:00] Row Index: 144
+TITLE: Service Utilities
+BODY: nan...
+ESTIMATED TOKENS SENT: 2
+RESPONSE: {"ifc_type": ["BuildingElementProxy"], "occupancy": ["Business (B)", "Residential (R)", "Assembly (A)"], "design_phase": ["sd", "dd", "cd"], "code_category": "plumbing_systems", "primary_responsibility": "mechanical_engineer"}
+--------------------
+[2026-01-14T03:49:24.096651+00:00] Row Index: 145
+TITLE: Connection of Service Utilities
+BODY: A person shall not make connections from a utility, a source of energy, fuel, or power, or a water s...
+ESTIMATED TOKENS SENT: 65
+RESPONSE: {"ifc_type": ["BuildingElementProxy"], "occupancy": ["Business (B)", "Residential (R)", "Mercantile (M)", "Institutional (I)", "Assembly (A)"], "design_phase": ["cd", "ca"], "code_category": "mechanical_systems", "primary_responsibility": "mechanical_engineer"}
+--------------------
+[2026-01-14T03:49:25.549614+00:00] Row Index: 146
+TITLE: Temporary Connection
+BODY: The building official shall have the authority to authorize the temporary connection of the building...
+ESTIMATED TOKENS SENT: 64
+RESPONSE: {"ifc_type": ["BuildingElementProxy"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Factory and Industrial (F)", "Residential (R)"], "design_phase": ["cd", "ca"], "code_category": "mechanical_systems", "primary_responsibility": "mechanical_engineer"}
+--------------------
+[2026-01-14T03:49:26.768516+00:00] Row Index: 147
+TITLE: Authority to Disconnect Service Utilities
+BODY: The building official shall have the authority to authorize disconnection of utility service to the ...
+ESTIMATED TOKENS SENT: 178
+RESPONSE: {"ifc_type": ["BuildingElementProxy"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Factory and Industrial (F)", "Residential (R)"], "design_phase": ["cd", "ca"], "code_category": "electrical_systems", "primary_responsibility": "electrical_engineer"}
+--------------------
+[2026-01-14T03:49:29.701133+00:00] Row Index: 148
+TITLE: Means of Appeals
+BODY: nan...
+ESTIMATED TOKENS SENT: 4
+RESPONSE: {"ifc_type": ["BuildingElementProxy"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Factory and Industrial (F)", "Residential (R)"], "design_phase": ["cd", "ca"], "code_category": "occupancy_classification", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T03:49:31.436087+00:00] Row Index: 149
+TITLE: General
+BODY: In order to hear and decide appeals of orders, decisions or determinations made by the building offi...
+ESTIMATED TOKENS SENT: 116
+RESPONSE: {"ifc_type": ["BuildingElementProxy"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Residential (R)", "Mercantile (M)"], "design_phase": ["cd"], "code_category": "occupancy_classification", "primary_responsibility": "owner"}
+--------------------
+[2026-01-14T03:49:34.125276+00:00] Row Index: 150
+TITLE: Limitations on Authority
+BODY: An application for appeal shall be based on a claim that the true intent of this code or the rules l...
+ESTIMATED TOKENS SENT: 80
+RESPONSE: {"ifc_type": ["BuildingElementProxy"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Factory and Industrial (F)", "Residential (R)"], "design_phase": ["cd"], "code_category": "special_construction", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T03:49:35.498369+00:00] Row Index: 151
+TITLE: Qualifications
+BODY: The board of appeals shall consist of members who are qualified by experience and training on matter...
+ESTIMATED TOKENS SENT: 42
+RESPONSE: {"ifc_type": ["BuildingElementProxy"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Factory and Industrial (F)", "Residential (R)"], "design_phase": ["cd"], "code_category": "occupancy_classification", "primary_responsibility": "owner"}
+--------------------
+[2026-01-14T03:49:37.391365+00:00] Row Index: 152
+TITLE: Administration
+BODY: The building official shall take action without delay in accordance with the decision of the board....
+ESTIMATED TOKENS SENT: 21
+RESPONSE: {"ifc_type": ["BuildingElementProxy"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Factory and Industrial (F)", "High Hazard (H)"], "design_phase": ["cd"], "code_category": "site_planning", "primary_responsibility": "owner"}
+--------------------
+[2026-01-14T03:49:38.923152+00:00] Row Index: 153
+TITLE: Violations
+BODY: nan...
+ESTIMATED TOKENS SENT: 1
+RESPONSE: {"ifc_type": ["BuildingElementProxy"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Factory and Industrial (F)", "Residential (R)"], "design_phase": ["cd", "ca"], "code_category": "occupancy_classification", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T03:49:40.059150+00:00] Row Index: 154
+TITLE: Unlawful Acts
+BODY: It shall be unlawful for any person, firm or corporation to erect, construct, alter, extend, repair,...
+ESTIMATED TOKENS SENT: 68
+RESPONSE: {"ifc_type": ["BuildingElementProxy"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Residential (R)", "Mercantile (M)"], "design_phase": ["sd", "dd", "cd", "ca"], "code_category": "occupancy_classification", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T03:49:41.669497+00:00] Row Index: 155
+TITLE: Notice of Violation
+BODY: The building official is authorized to serve a notice of violation or order on the person responsibl...
+ESTIMATED TOKENS SENT: 102
+RESPONSE: {"ifc_type": ["BuildingElementProxy"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Factory and Industrial (F)", "High Hazard (H)"], "design_phase": ["cd", "ca"], "code_category": "occupancy_classification", "primary_responsibility": "owner"}
+--------------------
+[2026-01-14T03:49:43.473113+00:00] Row Index: 156
+TITLE: Prosecution of Violation
+BODY: If the notice of violation is not complied with promptly, the building official is authorized to req...
+ESTIMATED TOKENS SENT: 100
+RESPONSE: {"ifc_type": ["BuildingElementProxy"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Factory and Industrial (F)", "Residential (R)"], "design_phase": ["cd", "ca"], "code_category": "occupancy_classification", "primary_responsibility": "owner"}
+--------------------
+[2026-01-14T03:49:44.786267+00:00] Row Index: 157
+TITLE: Violation Penalties
+BODY: Any person who violates a provision of this code or fails to comply with any of the requirements the...
+ESTIMATED TOKENS SENT: 88
+RESPONSE: {"ifc_type": ["BuildingElementProxy"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Factory and Industrial (F)", "Residential (R)"], "design_phase": ["cd", "ca"], "code_category": "special_construction", "primary_responsibility": "owner"}
+--------------------
+[2026-01-14T03:49:45.971018+00:00] Row Index: 158
+TITLE: Stop Work Order
+BODY: nan...
+ESTIMATED TOKENS SENT: 4
+RESPONSE: {"ifc_type": ["BuildingElementProxy"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Factory and Industrial (F)", "High Hazard (H)"], "design_phase": ["ca"], "code_category": "site_planning", "primary_responsibility": "owner"}
+--------------------
+[2026-01-14T03:49:47.131614+00:00] Row Index: 159
+TITLE: Authority
+BODY: Where the building official finds any work regulated by this code being performed in a manner contra...
+ESTIMATED TOKENS SENT: 54
+RESPONSE: {"ifc_type": ["BuildingElementProxy"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Factory and Industrial (F)", "Residential (R)"], "design_phase": ["cd", "ca"], "code_category": "special_construction", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T03:49:48.421010+00:00] Row Index: 160
+TITLE: Issuance
+BODY: The stop work order shall be in writing and shall be given to the owner of the property, the owner's...
+ESTIMATED TOKENS SENT: 85
+RESPONSE: {"ifc_type": ["BuildingElementProxy"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Factory and Industrial (F)", "Residential (R)"], "design_phase": ["ca"], "code_category": "site_planning", "primary_responsibility": "owner"}
+--------------------
+[2026-01-14T03:49:49.768409+00:00] Row Index: 161
+TITLE: Emergencies
+BODY: Where an emergency exists, the building official shall not be required to give a written notice prio...
+ESTIMATED TOKENS SENT: 28
+RESPONSE: {"ifc_type": ["BuildingElementProxy"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Factory and Industrial (F)", "Residential (R)"], "design_phase": ["cd", "ca"], "code_category": "special_construction", "primary_responsibility": "owner"}
+--------------------
+[2026-01-14T03:49:51.225952+00:00] Row Index: 162
+TITLE: Failure to Comply
+BODY: Any person who shall continue any work after having been served with a stop work order, except such ...
+ESTIMATED TOKENS SENT: 61
+RESPONSE: {"ifc_type": ["BuildingElementProxy"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Factory and Industrial (F)", "High Hazard (H)"], "design_phase": ["ca"], "code_category": "special_construction", "primary_responsibility": "owner"}
+--------------------
+[2026-01-14T03:49:52.773425+00:00] Row Index: 163
+TITLE: Unsafe Structures and Equipment
+BODY: nan...
+ESTIMATED TOKENS SENT: 5
+RESPONSE: {"ifc_type": ["Wall", "Slab", "Roof", "Column", "Beam"], "occupancy": ["Assembly (A)", "Business (B)", "Residential (R)"], "design_phase": ["cd", "ca"], "code_category": "fire_resistance_smoke_protection", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T03:49:54.433294+00:00] Row Index: 164
+TITLE: Unsafe Conditions
+BODY: Structures or existing equipment that are or hereafter become unsafe, insanitary or deficient becaus...
+ESTIMATED TOKENS SENT: 128
+RESPONSE: {"ifc_type": ["Wall", "Door", "Window", "Slab", "Roof"], "occupancy": ["Assembly (A)", "Business (B)", "Residential (R)", "Institutional (I)", "Mercantile (M)"], "design_phase": ["sd", "dd", "cd"], "code_category": "fire_resistance_smoke_protection", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T03:49:57.006898+00:00] Row Index: 165
+TITLE: Record
+BODY: The building official shall cause a report to be filed on an unsafe condition. The report shall stat...
+ESTIMATED TOKENS SENT: 40
+RESPONSE: {"ifc_type": ["BuildingElementProxy"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Factory and Industrial (F)", "Residential (R)"], "design_phase": ["ca"], "code_category": "occupancy_classification", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T03:49:58.336309+00:00] Row Index: 166
+TITLE: Notice
+BODY: If an unsafe condition is found, the building official shall serve on the owner of the structure, or...
+ESTIMATED TOKENS SENT: 110
+RESPONSE: {"ifc_type": ["BuildingElementProxy"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Factory and Industrial (F)", "High Hazard (H)"], "design_phase": ["ca"], "code_category": "special_construction", "primary_responsibility": "owner"}
+--------------------
+[2026-01-14T03:49:59.892332+00:00] Row Index: 167
+TITLE: Method of Service
+BODY: Such notice shall be deemed properly served where a copy thereof is served in accordance with one of...
+ESTIMATED TOKENS SENT: 157
+RESPONSE: {"ifc_type": ["BuildingElementProxy"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Factory and Industrial (F)", "High Hazard (H)"], "design_phase": ["cd"], "code_category": "site_planning", "primary_responsibility": "owner"}
+--------------------
+[2026-01-14T03:50:01.309508+00:00] Row Index: 168
+TITLE: Restoration or Abatement
+BODY: Where the structure or equipment determined to be unsafe by the building official is restored to a s...
+ESTIMATED TOKENS SENT: 140
+RESPONSE: {"ifc_type": ["Wall", "Roof", "Slab", "Door", "Window"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Residential (R)", "Mercantile (M)"], "design_phase": ["sd", "dd", "cd", "ca"], "code_category": "special_construction", "primary_responsibility": "architect"}
+--------------------
+
+==================================================
+SUMMARY STATISTICS
+Total Rows Processed by AI: 169
+Total Estimated Tokens Sent: 12281
+==================================================
+
+CSV Saved Successfully at 2026-01-14T03:50:03.134565+00:00
