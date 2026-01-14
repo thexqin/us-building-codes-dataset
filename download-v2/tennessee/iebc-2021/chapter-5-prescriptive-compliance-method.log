@@ -1,0 +1,60 @@
+Log started: 2026-01-14T20:05:10.904075+00:00
+Source: download/tennessee/iebc-2021/chapter-5-prescriptive-compliance-method.csv
+--------------------------------------------------
+
+[2026-01-14T20:05:10.908405+00:00] Row Index: 8
+TITLE: Disproportionate Earthquake Damage
+BODY: A building assigned to Seismic Design Category D, E or F that has sustained disproportionate earthqu...
+ESTIMATED TOKENS SENT: 52
+RESPONSE: {"ifc_type": ["Wall", "Column", "Beam", "BuildingElementProxy", "Slab"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Institutional (I)", "Residential (R)"], "design_phase": ["sd", "dd", "cd"], "code_category": "structural_design", "primary_responsibility": "structural_engineer"}
+--------------------
+[2026-01-14T20:05:14.854230+00:00] Row Index: 9
+TITLE: Flood Hazard Areas
+BODY: For buildings and structures in flood hazard areas established in Section 1612.3 of the Internationa...
+ESTIMATED TOKENS SENT: 161
+RESPONSE: {"ifc_type": ["Wall", "Slab", "Footing", "Column", "BuildingElementProxy"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Factory and Industrial (F)", "Residential (R)"], "design_phase": ["sd", "dd", "cd"], "code_category": "site_planning", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T20:05:16.705223+00:00] Row Index: 10
+TITLE: Existing Structural Elements Carrying Gravity Load
+BODY: Any existing gravity load-carrying structural element for which an addition and its related alterati...
+ESTIMATED TOKENS SENT: 237
+RESPONSE: {"ifc_type": ["Beam", "Column", "Footing", "Slab", "Wall"], "occupancy": ["Residential (R)", "Assembly (A)", "Business (B)"], "design_phase": ["sd", "dd", "cd"], "code_category": "structural_design", "primary_responsibility": "structural_engineer"}
+--------------------
+[2026-01-14T20:05:19.039318+00:00] Row Index: 11
+TITLE: Existing Structural Elements Carrying Lateral Load
+BODY: Where the addition is structurally independent of the existing structure, existing lateral load-carr...
+ESTIMATED TOKENS SENT: 282
+RESPONSE: {"ifc_type": ["Wall", "Beam", "Column", "Slab"], "occupancy": ["Residential (R)"], "design_phase": ["sd", "dd", "cd"], "code_category": "structural_design", "primary_responsibility": "structural_engineer"}
+--------------------
+[2026-01-14T20:05:20.952412+00:00] Row Index: 29
+TITLE: Enhanced Classroom Acoustics
+BODY: In Group E occupancies, where the work area exceeds 50 percent of the building area, enhanced classr...
+ESTIMATED TOKENS SENT: 69
+RESPONSE: {"ifc_type": ["Wall", "Slab", "Roof"], "occupancy": ["Educational (E)"], "design_phase": ["sd", "dd", "cd"], "code_category": "interior_environment", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T20:05:22.416351+00:00] Row Index: 30
+TITLE: Locking Arrangements in Educational Occupancies
+BODY: In Group E occupancies, Group B educational occupancies and Group I-4 occupancies, egress doors with...
+ESTIMATED TOKENS SENT: 52
+RESPONSE: {"ifc_type": ["Door"], "occupancy": ["Educational (E)", "Business (B)", "Institutional (I)"], "design_phase": ["sd", "dd", "cd"], "code_category": "means_of_egress", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T20:05:24.022185+00:00] Row Index: 31
+TITLE: Two-Way Communications Systems
+BODY: Where the work area for alterations exceeds 50 percent of the building area and the building has ele...
+ESTIMATED TOKENS SENT: 50
+RESPONSE: {"ifc_type": ["Elevator", "Door"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Institutional (I)", "Residential (R)"], "design_phase": ["sd", "dd", "cd"], "code_category": "accessibility", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T20:05:25.875428+00:00] Row Index: 44
+TITLE: Window Opening Control Devices on Replacement Windows
+BODY: In Group R-2 or R-3 buildings containing dwelling units, and one- and two-family dwellings and townh...
+ESTIMATED TOKENS SENT: 372
+RESPONSE: {"ifc_type": ["Window"], "occupancy": ["Residential (R)"], "design_phase": ["sd", "dd", "cd"], "code_category": "fire_resistance_smoke_protection", "primary_responsibility": "architect"}
+--------------------
+
+==================================================
+SUMMARY STATISTICS
+Total Rows Processed by AI: 8
+Total Estimated Tokens Sent: 1275
+==================================================
+
+CSV Saved Successfully at 2026-01-14T20:05:27.194828+00:00

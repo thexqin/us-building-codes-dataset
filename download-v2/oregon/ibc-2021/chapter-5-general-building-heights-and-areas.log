@@ -1,0 +1,30 @@
+Log started: 2026-01-14T19:56:31.151039+00:00
+Source: download/oregon/ibc-2021/chapter-5-general-building-heights-and-areas.csv
+--------------------------------------------------
+
+[2026-01-14T19:56:31.155532+00:00] Row Index: 10
+TITLE: Occupied Roofs
+BODY: A roof level or portion thereof shall be permitted to be used as an occupied roof provided the occup...
+ESTIMATED TOKENS SENT: 273
+RESPONSE: {"ifc_type": ["Roof", "Slab", "Stair", "Railing"], "occupancy": ["Assembly (A)", "Business (B)", "Residential (R)"], "design_phase": ["sd", "dd", "cd"], "code_category": "building_height_area_limits", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T19:56:32.791657+00:00] Row Index: 11
+TITLE: Enclosures Over Occupied Roof Areas
+BODY: Elements or structures enclosing the occupied roof areas shall not extend more than 48 inches (1220 ...
+ESTIMATED TOKENS SENT: 62
+RESPONSE: {"ifc_type": ["Roof", "Wall", "BuildingElementProxy"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Factory and Industrial (F)", "Residential (R)"], "design_phase": ["sd", "dd", "cd"], "code_category": "building_height_area_limits", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T19:56:34.918720+00:00] Row Index: 96
+TITLE: Detached Dwellings or Townhouses
+BODY: Live/work units located within detached one-family and two-family dwellings or townhouses regulated ...
+ESTIMATED TOKENS SENT: 41
+RESPONSE: {"ifc_type": ["BuildingElementProxy", "Wall", "Slab", "Door"], "occupancy": ["Residential (R)", "Business (B)"], "design_phase": ["sd", "dd", "cd"], "code_category": "fire_protection_alarm_systems", "primary_responsibility": "fire_protection_engineer"}
+--------------------
+
+==================================================
+SUMMARY STATISTICS
+Total Rows Processed by AI: 3
+Total Estimated Tokens Sent: 376
+==================================================
+
+CSV Saved Successfully at 2026-01-14T19:56:37.108123+00:00

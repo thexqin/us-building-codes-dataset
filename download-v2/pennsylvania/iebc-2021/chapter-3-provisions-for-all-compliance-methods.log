@@ -1,0 +1,36 @@
+Log started: 2026-01-14T19:59:04.250114+00:00
+Source: download/pennsylvania/iebc-2021/chapter-3-provisions-for-all-compliance-methods.csv
+--------------------------------------------------
+
+[2026-01-14T19:59:04.256154+00:00] Row Index: 3
+TITLE: Bleachers, Grandstands and Folding and Telescopic Seating
+BODY: Existing bleachers, grandstands and folding and telescopic seating shall comply with ICC 300....
+ESTIMATED TOKENS SENT: 25
+RESPONSE: {"ifc_type": ["BuildingElementProxy"], "occupancy": ["Assembly (A)"], "design_phase": ["sd", "dd", "cd"], "code_category": "special_construction", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T19:59:05.407795+00:00] Row Index: 18
+TITLE: Storm Shelters
+BODY: UpCodes note: 34 Pa. Admin. Code § 403.21(a)(10) deletes "Section 1106 Storm shelters", but they app...
+ESTIMATED TOKENS SENT: 36
+RESPONSE: {"ifc_type": ["BuildingElementProxy", "Wall", "Slab", "Door"], "occupancy": ["Educational (E)", "Assembly (A)", "Institutional (I)"], "design_phase": ["sd", "dd", "cd"], "code_category": "special_construction", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T19:59:07.103589+00:00] Row Index: 23
+TITLE: Compliance With Full Seismic Forces
+BODY: Where compliance requires the use of full seismic forces, the criteria shall be in accordance with o...
+ESTIMATED TOKENS SENT: 260
+RESPONSE: {"ifc_type": ["Wall", "Beam", "Column", "Slab", "Footing"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Institutional (I)", "Residential (R)"], "design_phase": ["sd", "dd", "cd"], "code_category": "structural_design", "primary_responsibility": "structural_engineer"}
+--------------------
+[2026-01-14T19:59:08.687063+00:00] Row Index: 24
+TITLE: Compliance With Reduced Seismic Forces
+BODY: Where seismic evaluation and design is permitted to use reduced seismic forces, the criteria used sh...
+ESTIMATED TOKENS SENT: 580
+RESPONSE: {"ifc_type": ["Wall", "Slab", "Column", "Footing", "Beam"], "occupancy": ["Assembly (A)", "Business (B)", "Institutional (I)", "Residential (R)", "Storage (S)"], "design_phase": ["sd", "dd", "cd"], "code_category": "structural_design", "primary_responsibility": "structural_engineer"}
+--------------------
+
+==================================================
+SUMMARY STATISTICS
+Total Rows Processed by AI: 4
+Total Estimated Tokens Sent: 901
+==================================================
+
+CSV Saved Successfully at 2026-01-14T19:59:11.328019+00:00

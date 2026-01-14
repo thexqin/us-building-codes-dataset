@@ -1,0 +1,18 @@
+Log started: 2026-01-14T19:57:05.749670+00:00
+Source: download/oregon/iebc-2024/chapter-4-repairs.csv
+--------------------------------------------------
+
+[2026-01-14T19:57:05.754742+00:00] Row Index: 10
+TITLE: Substantial Damage of Group R-2 Apartment Houses
+BODY: Fire protection shall be provided in Group R-2 apartment houses with substantial damage in accordanc...
+ESTIMATED TOKENS SENT: 32
+RESPONSE: {"ifc_type": ["Wall", "Door", "Slab"], "occupancy": ["Residential (R)"], "design_phase": ["sd", "dd", "cd"], "code_category": "fire_protection_alarm_systems", "primary_responsibility": "fire_protection_engineer"}
+--------------------
+
+==================================================
+SUMMARY STATISTICS
+Total Rows Processed by AI: 1
+Total Estimated Tokens Sent: 32
+==================================================
+
+CSV Saved Successfully at 2026-01-14T19:57:07.202986+00:00

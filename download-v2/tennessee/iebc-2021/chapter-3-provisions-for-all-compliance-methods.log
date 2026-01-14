@@ -1,0 +1,30 @@
+Log started: 2026-01-14T20:04:49.296387+00:00
+Source: download/tennessee/iebc-2021/chapter-3-provisions-for-all-compliance-methods.csv
+--------------------------------------------------
+
+[2026-01-14T20:04:49.301027+00:00] Row Index: 3
+TITLE: Bleachers, Grandstands and Folding and Telescopic Seating
+BODY: Existing bleachers, grandstands and folding and telescopic seating shall comply with ICC 300....
+ESTIMATED TOKENS SENT: 25
+RESPONSE: {"ifc_type": ["BuildingElementProxy", "Stair", "Railing"], "occupancy": ["Assembly (A)"], "design_phase": ["sd", "dd", "cd"], "code_category": "special_construction", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T20:04:50.577537+00:00] Row Index: 23
+TITLE: Compliance With Full Seismic Forces
+BODY: Where compliance requires the use of full seismic forces, the criteria shall be in accordance with o...
+ESTIMATED TOKENS SENT: 260
+RESPONSE: {"ifc_type": ["Wall", "Beam", "Column", "Slab", "Footing"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Institutional (I)", "Residential (R)"], "design_phase": ["sd", "dd", "cd"], "code_category": "structural_design", "primary_responsibility": "structural_engineer"}
+--------------------
+[2026-01-14T20:04:52.128421+00:00] Row Index: 24
+TITLE: Compliance With Reduced Seismic Forces
+BODY: Where seismic evaluation and design is permitted to use reduced seismic forces, the criteria used sh...
+ESTIMATED TOKENS SENT: 580
+RESPONSE: {"ifc_type": ["Wall", "Bearing", "Footing", "Slab", "Column"], "occupancy": ["Residential (R)", "Assembly (A)", "Business (B)", "Institutional (I)"], "design_phase": ["sd", "dd", "cd"], "code_category": "structural_design", "primary_responsibility": "structural_engineer"}
+--------------------
+
+==================================================
+SUMMARY STATISTICS
+Total Rows Processed by AI: 3
+Total Estimated Tokens Sent: 865
+==================================================
+
+CSV Saved Successfully at 2026-01-14T20:04:58.458405+00:00

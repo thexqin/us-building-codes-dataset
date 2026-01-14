@@ -1,0 +1,24 @@
+Log started: 2026-01-14T19:57:07.213878+00:00
+Source: download/oregon/iebc-2024/chapter-5-prescriptive-compliance-method.csv
+--------------------------------------------------
+
+[2026-01-14T19:57:07.218274+00:00] Row Index: 54
+TITLE: General
+BODY: Alterations and additions necessary for the preservation, restoration, rehabilitation or continued u...
+ESTIMATED TOKENS SENT: 177
+RESPONSE: {"ifc_type": ["Wall", "Roof", "Slab", "Door", "Window"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Residential (R)", "Mercantile (M)"], "design_phase": ["sd", "dd", "cd"], "code_category": "special_construction", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T19:57:08.911649+00:00] Row Index: 57
+TITLE: Substantial Structural Damage
+BODY: Repair of substantial structural damage is not required to comply with Sections 405.2.3 and 405.2.4....
+ESTIMATED TOKENS SENT: 37
+RESPONSE: {"ifc_type": ["Wall", "Beam", "Column", "Slab", "Footing"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Residential (R)", "Institutional (I)"], "design_phase": ["cd", "ca"], "code_category": "structural_design", "primary_responsibility": "structural_engineer"}
+--------------------
+
+==================================================
+SUMMARY STATISTICS
+Total Rows Processed by AI: 2
+Total Estimated Tokens Sent: 214
+==================================================
+
+CSV Saved Successfully at 2026-01-14T19:57:10.423528+00:00

@@ -1,0 +1,54 @@
+Log started: 2026-01-14T20:09:45.732992+00:00
+Source: download/washington/ibc-2021/chapter-3-occupancy-classification-and-use.csv
+--------------------------------------------------
+
+[2026-01-14T20:09:45.738822+00:00] Row Index: 30
+TITLE: Family Home Child Care
+BODY: Family home child care licensed by Washington state for the care of 16 or fewer children shall be cl...
+ESTIMATED TOKENS SENT: 44
+RESPONSE: {"ifc_type": ["Wall", "Door", "Window"], "occupancy": ["Residential (R)"], "design_phase": ["concept", "sd", "dd", "cd"], "code_category": "occupancy_classification", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T20:09:47.302742+00:00] Row Index: 39
+TITLE: Uses Other Than Group H
+BODY: An occupancy that stores, uses or handles hazardous materials as described in one or more of the fol...
+ESTIMATED TOKENS SENT: 546
+RESPONSE: {"ifc_type": ["BuildingElementProxy"], "occupancy": ["Business (B)", "Factory and Industrial (F)", "Mercantile (M)", "Residential (R)", "Storage (S)"], "design_phase": ["sd", "dd", "cd"], "code_category": "occupancy_classification", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T20:09:49.755137+00:00] Row Index: 55
+TITLE: Adult Family Homes
+BODY: Adult family homes licensed by Washington state shall be classified as Group R-3 or shall comply wit...
+ESTIMATED TOKENS SENT: 30
+RESPONSE: {"ifc_type": ["Wall", "Door", "Window"], "occupancy": ["Residential (R)"], "design_phase": ["concept", "sd", "dd", "cd"], "code_category": "occupancy_classification", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T20:09:51.276425+00:00] Row Index: 56
+TITLE: Assisted Living Facilities
+BODY: Assisted living facilities as licensed by Washington state under chapter 388-78A WAC shall be classi...
+ESTIMATED TOKENS SENT: 29
+RESPONSE: {"ifc_type": ["BuildingElementProxy"], "occupancy": ["Institutional (I)"], "design_phase": ["concept", "sd", "dd", "cd"], "code_category": "occupancy_classification", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T20:09:53.195965+00:00] Row Index: 73
+TITLE: Family Home Child Care
+BODY: Family home child care licensed by Washington state for the care of 16 or fewer children shall be cl...
+ESTIMATED TOKENS SENT: 44
+RESPONSE: {"ifc_type": ["Wall", "Door", "Window"], "occupancy": ["Residential (R)"], "design_phase": ["concept", "sd", "dd", "cd"], "code_category": "occupancy_classification", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T20:09:55.224726+00:00] Row Index: 85
+TITLE: Adult Family Homes, Family Home Child Care
+BODY: Adult family homes and family home child care facilities that are within a single-family home are pe...
+ESTIMATED TOKENS SENT: 40
+RESPONSE: {"ifc_type": ["Wall", "Door", "Window", "Slab"], "occupancy": ["Residential (R)", "Institutional (I)"], "design_phase": ["sd", "dd", "cd"], "code_category": "occupancy_classification", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T20:09:57.147799+00:00] Row Index: 86
+TITLE: Foster Family Care Homes
+BODY: Foster family care homes licensed by Washington state are permitted to comply with the International...
+ESTIMATED TOKENS SENT: 50
+RESPONSE: {"ifc_type": ["Wall", "Door", "Window", "Slab"], "occupancy": ["Residential (R)"], "design_phase": ["concept", "sd", "dd", "cd"], "code_category": "occupancy_classification", "primary_responsibility": "architect"}
+--------------------
+
+==================================================
+SUMMARY STATISTICS
+Total Rows Processed by AI: 7
+Total Estimated Tokens Sent: 783
+==================================================
+
+CSV Saved Successfully at 2026-01-14T20:09:59.907718+00:00

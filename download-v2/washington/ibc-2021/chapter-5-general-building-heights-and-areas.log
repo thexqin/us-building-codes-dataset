@@ -1,0 +1,36 @@
+Log started: 2026-01-14T20:11:26.349781+00:00
+Source: download/washington/ibc-2021/chapter-5-general-building-heights-and-areas.csv
+--------------------------------------------------
+
+[2026-01-14T20:11:26.355476+00:00] Row Index: 10
+TITLE: Enclosure of Occupied Roof Areas
+BODY: Elements or structures enclosing the occupied roof areas shall not extend more than 48 inches (1220 ...
+ESTIMATED TOKENS SENT: 68
+RESPONSE: {"ifc_type": ["Roof", "Wall", "BuildingElementProxy"], "occupancy": ["Assembly (A)", "Business (B)", "Residential (R)"], "design_phase": ["sd", "dd", "cd"], "code_category": "building_height_area_limits", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T20:11:28.197863+00:00] Row Index: 11
+TITLE: Guards
+BODY: Occupied roofs shall have guards in accordance with Section 1015.2....
+ESTIMATED TOKENS SENT: 13
+RESPONSE: {"ifc_type": ["Railing", "Roof"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Factory and Industrial (F)", "High Hazard (H)"], "design_phase": ["sd", "dd", "cd"], "code_category": "means_of_egress", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T20:11:30.053417+00:00] Row Index: 12
+TITLE: Occupied Roofs
+BODY: A roof level or portion thereof shall be permitted to be used as an occupied roof provided the occup...
+ESTIMATED TOKENS SENT: 273
+RESPONSE: {"ifc_type": ["Roof", "Slab", "Stair", "Railing", "Wall"], "occupancy": ["Assembly (A)", "Business (B)", "Residential (R)", "Mercantile (M)"], "design_phase": ["sd", "dd", "cd"], "code_category": "building_height_area_limits", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T20:11:32.587578+00:00] Row Index: 20
+TITLE: Stair Enclosure Pressurization Increase
+BODY: For Group R-1, R-2, and I-1 Condition 2 Assisted living facilities licensed under chapter 388-78A WA...
+ESTIMATED TOKENS SENT: 228
+RESPONSE: {"ifc_type": ["Stair", "Ramp", "Elevator", "Wall"], "occupancy": ["Residential (R)", "Institutional (I)"], "design_phase": ["sd", "dd", "cd"], "code_category": "building_height_area_limits", "primary_responsibility": "architect"}
+--------------------
+
+==================================================
+SUMMARY STATISTICS
+Total Rows Processed by AI: 4
+Total Estimated Tokens Sent: 582
+==================================================
+
+CSV Saved Successfully at 2026-01-14T20:11:34.860840+00:00

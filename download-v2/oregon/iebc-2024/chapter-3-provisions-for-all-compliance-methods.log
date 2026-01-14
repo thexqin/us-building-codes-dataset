@@ -1,0 +1,108 @@
+Log started: 2026-01-14T19:56:37.392342+00:00
+Source: download/oregon/iebc-2024/chapter-3-provisions-for-all-compliance-methods.csv
+--------------------------------------------------
+
+[2026-01-14T19:56:37.399095+00:00] Row Index: 65
+TITLE: Single- And Multiple-Station Smoke Alarms
+BODY: Where required by the selected compliance path, single- and multiple-station smoke alarms shall be i...
+ESTIMATED TOKENS SENT: 44
+RESPONSE: {"ifc_type": ["BuildingElementProxy"], "occupancy": ["Institutional (I)", "Residential (R)"], "design_phase": ["sd", "dd", "cd"], "code_category": "fire_protection_alarm_systems", "primary_responsibility": "fire_protection_engineer"}
+--------------------
+[2026-01-14T19:56:39.798738+00:00] Row Index: 66
+TITLE: Where Required
+BODY: Existing Group I-1 and R occupancies shall be provided with single-station smoke alarms in accordanc...
+ESTIMATED TOKENS SENT: 165
+RESPONSE: {"ifc_type": ["BuildingElementProxy"], "occupancy": ["Institutional (I)", "Residential (R)"], "design_phase": ["sd", "dd", "cd"], "code_category": "fire_protection_alarm_systems", "primary_responsibility": "fire_protection_engineer"}
+--------------------
+[2026-01-14T19:56:41.856544+00:00] Row Index: 67
+TITLE: Interconnection
+BODY: Where more than one smoke alarm is required to be installed within an individual dwelling unit or sl...
+ESTIMATED TOKENS SENT: 209
+RESPONSE: {"ifc_type": ["Wall", "Ceiling", "BuildingElementProxy"], "occupancy": ["Residential (R)", "Institutional (I)"], "design_phase": ["sd", "dd", "cd"], "code_category": "fire_protection_alarm_systems", "primary_responsibility": "fire_protection_engineer"}
+--------------------
+[2026-01-14T19:56:43.435250+00:00] Row Index: 68
+TITLE: Power Source
+BODY: Single-station smoke alarms shall receive their primary power from the building wiring, provided tha...
+ESTIMATED TOKENS SENT: 232
+RESPONSE: {"ifc_type": ["BuildingElementProxy"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Factory and Industrial (F)", "Residential (R)"], "design_phase": ["sd", "dd", "cd"], "code_category": "fire_protection_alarm_systems", "primary_responsibility": "electrical_engineer"}
+--------------------
+[2026-01-14T19:56:44.746366+00:00] Row Index: 69
+TITLE: Fire Alarm Systems
+BODY: Where required by the selected compliance path, an approved fire alarm system shall be installed in ...
+ESTIMATED TOKENS SENT: 78
+RESPONSE: {"ifc_type": ["BuildingElementProxy", "Door", "Stair", "Ramp", "Wall"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Institutional (I)", "Residential (R)"], "design_phase": ["sd", "dd", "cd"], "code_category": "fire_protection_alarm_systems", "primary_responsibility": "fire_protection_engineer"}
+--------------------
+[2026-01-14T19:56:47.052234+00:00] Row Index: 70
+TITLE: Group E
+BODY: A fire alarm system shall be installed in existing Group E occupancies in accordance with Section 90...
+ESTIMATED TOKENS SENT: 104
+RESPONSE: {"ifc_type": ["BuildingElementProxy"], "occupancy": ["Educational (E)"], "design_phase": ["sd", "dd", "cd"], "code_category": "fire_protection_alarm_systems", "primary_responsibility": "fire_protection_engineer"}
+--------------------
+[2026-01-14T19:56:48.598827+00:00] Row Index: 71
+TITLE: Group I-1
+BODY: An automatic fire alarm system shall be installed in existing Group I-1 facilities in accordance wit...
+ESTIMATED TOKENS SENT: 78
+RESPONSE: {"ifc_type": ["Door", "Slab", "Stair", "Wall"], "occupancy": ["Institutional (I)"], "design_phase": ["sd", "dd", "cd"], "code_category": "fire_protection_alarm_systems", "primary_responsibility": "fire_protection_engineer"}
+--------------------
+[2026-01-14T19:56:50.008939+00:00] Row Index: 72
+TITLE: Group I-2
+BODY: In existing Group I-2 occupancies, an automatic fire alarm system shall be installed in accordance w...
+ESTIMATED TOKENS SENT: 90
+RESPONSE: {"ifc_type": ["BuildingElementProxy", "Door"], "occupancy": ["Institutional (I)"], "design_phase": ["sd", "dd", "cd"], "code_category": "fire_protection_alarm_systems", "primary_responsibility": "fire_protection_engineer"}
+--------------------
+[2026-01-14T19:56:51.534933+00:00] Row Index: 73
+TITLE: Group I-3
+BODY: An automatic and manual fire alarm system shall be installed in existing Group I-3 occupancies in ac...
+ESTIMATED TOKENS SENT: 28
+RESPONSE: {"ifc_type": ["Wall", "BuildingElementProxy"], "occupancy": ["Institutional (I)"], "design_phase": ["sd", "dd", "cd"], "code_category": "fire_protection_alarm_systems", "primary_responsibility": "fire_protection_engineer"}
+--------------------
+[2026-01-14T19:56:53.160442+00:00] Row Index: 74
+TITLE: Group R-1
+BODY: A fire alarm system and smoke alarms shall be installed in existing Group R-1 occupancies in accorda...
+ESTIMATED TOKENS SENT: 30
+RESPONSE: {"ifc_type": ["Wall", "BuildingElementProxy", "Door"], "occupancy": ["Residential (R)"], "design_phase": ["sd", "dd", "cd"], "code_category": "fire_protection_alarm_systems", "primary_responsibility": "fire_protection_engineer"}
+--------------------
+[2026-01-14T19:56:54.834067+00:00] Row Index: 75
+TITLE: Group R-1 Hotel and Motel Manual Fire Alarm System
+BODY: A manual fire alarm system that activates the occupant notification system in accordance with Sectio...
+ESTIMATED TOKENS SENT: 269
+RESPONSE: {"ifc_type": ["Wall", "Door"], "occupancy": ["Residential (R)"], "design_phase": ["sd", "dd", "cd"], "code_category": "fire_protection_alarm_systems", "primary_responsibility": "fire_protection_engineer"}
+--------------------
+[2026-01-14T19:56:57.211051+00:00] Row Index: 76
+TITLE: Group R-1 Hotel and Motel Automatic Smoke Detection System
+BODY: An automatic smoke detection system that activates the occupant notification system in accordance wi...
+ESTIMATED TOKENS SENT: 146
+RESPONSE: {"ifc_type": ["Wall", "Door"], "occupancy": ["Residential (R)"], "design_phase": ["sd", "dd", "cd"], "code_category": "fire_protection_alarm_systems", "primary_responsibility": "fire_protection_engineer"}
+--------------------
+[2026-01-14T19:56:59.271229+00:00] Row Index: 77
+TITLE: Group R-1 Boarding and Rooming Houses Manual Fire Alarm System
+BODY: A manual fire alarm system that activates the occupant notification system in accordance with Sectio...
+ESTIMATED TOKENS SENT: 97
+RESPONSE: {"ifc_type": ["Wall", "Door"], "occupancy": ["Residential (R)"], "design_phase": ["sd", "dd", "cd"], "code_category": "fire_protection_alarm_systems", "primary_responsibility": "fire_protection_engineer"}
+--------------------
+[2026-01-14T19:57:00.511916+00:00] Row Index: 78
+TITLE: Group R-1 Boarding and Rooming Houses Automatic Smoke Detection System
+BODY: An automatic smoke detection system that activates the occupant notification system in accordance wi...
+ESTIMATED TOKENS SENT: 129
+RESPONSE: {"ifc_type": ["Wall", "Door"], "occupancy": ["Residential (R)"], "design_phase": ["sd", "dd", "cd"], "code_category": "fire_protection_alarm_systems", "primary_responsibility": "fire_protection_engineer"}
+--------------------
+[2026-01-14T19:57:01.996124+00:00] Row Index: 79
+TITLE: Group R-2
+BODY: A manual fire alarm system that activates the occupant notification system in accordance with Sectio...
+ESTIMATED TOKENS SENT: 360
+RESPONSE: {"ifc_type": ["Wall", "Door", "Stair", "Ramp"], "occupancy": ["Residential (R)"], "design_phase": ["sd", "dd", "cd"], "code_category": "fire_protection_alarm_systems", "primary_responsibility": "fire_protection_engineer"}
+--------------------
+[2026-01-14T19:57:04.409621+00:00] Row Index: 82
+TITLE: Group R-2 Apartment House Substantial Alteration or Damage
+BODY: Where substantial alterations are made or substantial damage occurs to an existing nonsprinklered Gr...
+ESTIMATED TOKENS SENT: 153
+RESPONSE: {"ifc_type": ["Wall", "Slab", "Door"], "occupancy": ["Residential (R)"], "design_phase": ["sd", "dd", "cd"], "code_category": "fire_protection_alarm_systems", "primary_responsibility": "fire_protection_engineer"}
+--------------------
+
+==================================================
+SUMMARY STATISTICS
+Total Rows Processed by AI: 16
+Total Estimated Tokens Sent: 2212
+==================================================
+
+CSV Saved Successfully at 2026-01-14T19:57:05.739954+00:00

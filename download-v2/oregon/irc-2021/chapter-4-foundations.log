@@ -1,0 +1,66 @@
+Log started: 2026-01-14T19:57:32.782463+00:00
+Source: download/oregon/irc-2021/chapter-4-foundations.csv
+--------------------------------------------------
+
+[2026-01-14T19:57:32.787122+00:00] Row Index: 37
+TITLE: Isolated Footings
+BODY: Plain isolated square or round footings shall be permitted subject to the limitations in Sections R4...
+ESTIMATED TOKENS SENT: 25
+RESPONSE: {"ifc_type": ["Footing"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Factory and Industrial (F)", "Residential (R)"], "design_phase": ["sd", "dd", "cd"], "code_category": "structural_design", "primary_responsibility": "structural_engineer"}
+--------------------
+[2026-01-14T19:57:34.406481+00:00] Row Index: 38
+TITLE: Isolated Footings in the Crawl Space
+BODY: Plain concrete isolated footings supporting a single floor system whose total loads do not exceed 50...
+ESTIMATED TOKENS SENT: 273
+RESPONSE: {"ifc_type": ["Footing", "Slab"], "occupancy": ["Residential (R)", "Assembly (A)", "Business (B)"], "design_phase": ["sd", "dd", "cd"], "code_category": "structural_design", "primary_responsibility": "structural_engineer"}
+--------------------
+[2026-01-14T19:57:36.866609+00:00] Row Index: 39
+TITLE: Outside Isolated Footings
+BODY: Plain concrete isolated footings located outside of an enclosed crawl space shall not exceed 6.25 fe...
+ESTIMATED TOKENS SENT: 101
+RESPONSE: {"ifc_type": ["Footing"], "occupancy": ["Residential (R)"], "design_phase": ["sd", "dd", "cd"], "code_category": "structural_design", "primary_responsibility": "structural_engineer"}
+--------------------
+[2026-01-14T19:57:38.147350+00:00] Row Index: 40
+TITLE: Grounding Electrodes
+BODY: Where concrete reinforcing bars are installed in concrete footings, the following requirements shall...
+ESTIMATED TOKENS SENT: 160
+RESPONSE: {"ifc_type": ["Footing", "ReinforcingBar"], "occupancy": ["Assembly (A)", "Business (B)", "Educational (E)", "Factory and Industrial (F)", "Residential (R)"], "design_phase": ["sd", "dd", "cd"], "code_category": "electrical_systems", "primary_responsibility": "electrical_engineer"}
+--------------------
+[2026-01-14T19:57:39.752757+00:00] Row Index: 136
+TITLE: Under-Floor Spaces With Ventilation Openings for Under-Floor Ventilation
+BODY: Ventilation openings through foundation or exterior walls surrounding the underfloor space shall be ...
+ESTIMATED TOKENS SENT: 37
+RESPONSE: {"ifc_type": ["Wall", "Slab", "Footing"], "occupancy": ["Residential (R)", "Assembly (A)", "Business (B)"], "design_phase": ["sd", "dd", "cd"], "code_category": "assemblies_envelope", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T19:57:42.291455+00:00] Row Index: 137
+TITLE: Under-Floor Vapor Retarder
+BODY: The ground surface of the underfloor space shall be covered by a Class I vapor retarder, or other ap...
+ESTIMATED TOKENS SENT: 61
+RESPONSE: {"ifc_type": ["Slab", "Footing", "Wall"], "occupancy": ["Residential (R)", "Business (B)", "Assembly (A)"], "design_phase": ["sd", "dd", "cd"], "code_category": "assemblies_envelope", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T19:57:45.024687+00:00] Row Index: 138
+TITLE: Minimum Net Area of Ventilation Openings
+BODY: For naturally ventilated underfloor spaces in new construction in Baker, Clackamas, Hood River, Mult...
+ESTIMATED TOKENS SENT: 129
+RESPONSE: {"ifc_type": ["Slab", "Wall", "BuildingElementProxy"], "occupancy": ["Residential (R)", "Assembly (A)", "Business (B)"], "design_phase": ["sd", "dd", "cd"], "code_category": "interior_environment", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T19:57:47.004634+00:00] Row Index: 139
+TITLE: Ventilation Opening Locations
+BODY: The required ventilation openings shall be placed to provide cross ventilation of the underfloor spa...
+ESTIMATED TOKENS SENT: 94
+RESPONSE: {"ifc_type": ["Slab", "Wall"], "occupancy": ["Residential (R)"], "design_phase": ["sd", "dd", "cd"], "code_category": "interior_environment", "primary_responsibility": "architect"}
+--------------------
+[2026-01-14T19:57:48.115373+00:00] Row Index: 140
+TITLE: Ventilation Opening Coverings
+BODY: Ventilation openings shall be covered for their height and width with any of the following materials...
+ESTIMATED TOKENS SENT: 177
+RESPONSE: {"ifc_type": ["Covering", "Slab"], "occupancy": ["Residential (R)", "Business (B)", "Assembly (A)"], "design_phase": ["sd", "dd", "cd"], "code_category": "interior_environment", "primary_responsibility": "architect"}
+--------------------
+
+==================================================
+SUMMARY STATISTICS
+Total Rows Processed by AI: 9
+Total Estimated Tokens Sent: 1057
+==================================================
+
+CSV Saved Successfully at 2026-01-14T19:57:49.652440+00:00
