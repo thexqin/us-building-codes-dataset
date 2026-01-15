@@ -1,0 +1,1844 @@
+{
+    "props": {
+        "pageProps": {
+            "missingRequiredLogin": false,
+            "title": "Chapter 2 Definitions: Oregon Existing Building Code 2024 | UpCodes",
+            "leanChapterViewerData": {
+                "basePubName": "International Existing Building Code 2024 (IEBC 2024)",
+                "codeGroupingYear": "2025",
+                "codeName": "Oregon Existing Building Code 2024",
+                "codeUuid": "b601c599-d134-4736-adcf-5b4d64c1ea21",
+                "codeVersions": [
+                    {
+                        "codeUuid": "b601c599-d134-4736-adcf-5b4d64c1ea21",
+                        "name": "Original Adoption",
+                        "effectiveStartDate": "2025-10-01",
+                        "shortformUrlName": "iebc-2024",
+                        "activeStatus": "active"
+                    }
+                ],
+                "ingesterAmendmentsEnabled": false,
+                "ingesterCodeUnitsEnabled": false,
+                "isAmendStylingEnabled": true,
+                "isCorrespondable": true,
+                "jurisKey": "oregon",
+                "jurisName": "Oregon",
+                "metaInfoUrl": "/viewer/oregon/iebc-2024",
+                "modelCodeUrl": null,
+                "placeholder": "Search Oregon Existing Building Code 2024",
+                "pubKey": "int_ebc_2024",
+                "pubPrefix": "int_ebc",
+                "shortformPubName": "iebc-2024",
+                "withAmendments": true,
+                "chapterRef": "2",
+                "publisher": "icc",
+                "hasLinkedResources": false,
+                "initialNonChapterTocLines": [
+                    {
+                        "amendType": "edit",
+                        "children": [
+                            {
+                                "amendType": "deletion",
+                                "children": [],
+                                "depth": 2,
+                                "displayTitle": "<span class=\"code_deletion\">201.1</span> <span class=\"code_deletion\">Scope</span>",
+                                "hasExpanderArrow": false,
+                                "href": "#201.1",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "reference": "201.1"
+                            },
+                            {
+                                "amendType": "deletion",
+                                "children": [],
+                                "depth": 2,
+                                "displayTitle": "<span class=\"code_deletion\">201.2</span> <span class=\"code_deletion\">Interchangeability</span>",
+                                "hasExpanderArrow": false,
+                                "href": "#201.2",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "reference": "201.2"
+                            },
+                            {
+                                "amendType": "deletion",
+                                "children": [],
+                                "depth": 2,
+                                "displayTitle": "<span class=\"code_deletion\">201.3</span> <span class=\"code_deletion\">Terms Defined in Other Codes</span>",
+                                "hasExpanderArrow": false,
+                                "href": "#201.3",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "reference": "201.3"
+                            },
+                            {
+                                "amendType": "deletion",
+                                "children": [],
+                                "depth": 2,
+                                "displayTitle": "<span class=\"code_deletion\">201.4</span> <span class=\"code_deletion\">Terms Not Defined</span>",
+                                "hasExpanderArrow": false,
+                                "href": "#201.4",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "reference": "201.4"
+                            }
+                        ],
+                        "depth": 1,
+                        "displayTitle": "201 General",
+                        "hasExpanderArrow": true,
+                        "href": "#201",
+                        "isCodeDivider": false,
+                        "isCodeDividerClickable": false,
+                        "reference": "201"
+                    },
+                    {
+                        "amendType": "deletion",
+                        "children": [
+                            {
+                                "amendType": "deletion",
+                                "children": [],
+                                "depth": 2,
+                                "displayTitle": "<span class=\"code_deletion\"></span> <span class=\"code_deletion\">Addition</span>",
+                                "hasExpanderArrow": false,
+                                "href": "#addition_",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "reference": "addition_"
+                            },
+                            {
+                                "amendType": "deletion",
+                                "children": [],
+                                "depth": 2,
+                                "displayTitle": "<span class=\"code_deletion\"></span> <span class=\"code_deletion\">Alteration</span>",
+                                "hasExpanderArrow": false,
+                                "href": "#alteration_",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "reference": "alteration_"
+                            },
+                            {
+                                "amendType": "deletion",
+                                "children": [],
+                                "depth": 2,
+                                "displayTitle": "<span class=\"code_deletion\"></span> <span class=\"code_deletion\">Ambulatory Care Facility</span>",
+                                "hasExpanderArrow": false,
+                                "href": "#ambulatory_care_facility_",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "reference": "ambulatory_care_facility_"
+                            },
+                            {
+                                "amendType": "deletion",
+                                "children": [],
+                                "depth": 2,
+                                "displayTitle": "<span class=\"code_deletion\"></span> <span class=\"code_deletion\">Approved</span>",
+                                "hasExpanderArrow": false,
+                                "href": "#approved_",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "reference": "approved_"
+                            },
+                            {
+                                "amendType": "deletion",
+                                "children": [],
+                                "depth": 2,
+                                "displayTitle": "<span class=\"code_deletion\"></span> <span class=\"code_deletion\">Approved Agency</span>",
+                                "hasExpanderArrow": false,
+                                "href": "#approved_agency_",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "reference": "approved_agency_"
+                            },
+                            {
+                                "amendType": "deletion",
+                                "children": [],
+                                "depth": 2,
+                                "displayTitle": "<span class=\"code_deletion\"></span> <span class=\"code_deletion\">Building</span>",
+                                "hasExpanderArrow": false,
+                                "href": "#BUILDING_",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "reference": "BUILDING_"
+                            },
+                            {
+                                "amendType": "deletion",
+                                "children": [],
+                                "depth": 2,
+                                "displayTitle": "<span class=\"code_deletion\"></span> <span class=\"code_deletion\">Change of Occupancy</span>",
+                                "hasExpanderArrow": false,
+                                "href": "#change_of_occupancy_",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "reference": "change_of_occupancy_"
+                            },
+                            {
+                                "amendType": "deletion",
+                                "children": [],
+                                "depth": 2,
+                                "displayTitle": "<span class=\"code_deletion\"></span> <span class=\"code_deletion\">Change of Use</span>",
+                                "hasExpanderArrow": false,
+                                "href": "#change_of_use_",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "reference": "change_of_use_"
+                            },
+                            {
+                                "amendType": "deletion",
+                                "children": [],
+                                "depth": 2,
+                                "displayTitle": "<span class=\"code_deletion\"></span> <span class=\"code_deletion\">Code Official</span>",
+                                "hasExpanderArrow": false,
+                                "href": "#code_official_",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "reference": "code_official_"
+                            },
+                            {
+                                "amendType": "deletion",
+                                "children": [],
+                                "depth": 2,
+                                "displayTitle": "<span class=\"code_deletion\"></span> <span class=\"code_deletion\">Dangerous</span>",
+                                "hasExpanderArrow": false,
+                                "href": "#dangerous_",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "reference": "dangerous_"
+                            },
+                            {
+                                "amendType": "deletion",
+                                "children": [],
+                                "depth": 2,
+                                "displayTitle": "<span class=\"code_deletion\"></span> <span class=\"code_deletion\">Deferred Submittal</span>",
+                                "hasExpanderArrow": false,
+                                "href": "#deferred_submittal_",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "reference": "deferred_submittal_"
+                            },
+                            {
+                                "amendType": "deletion",
+                                "children": [],
+                                "depth": 2,
+                                "displayTitle": "<span class=\"code_deletion\"></span> <span class=\"code_deletion\">Disproportionate Earthquake Damage</span>",
+                                "hasExpanderArrow": false,
+                                "href": "#disproportionate_earthquake_damage_",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "reference": "disproportionate_earthquake_damage_"
+                            },
+                            {
+                                "amendType": "deletion",
+                                "children": [],
+                                "depth": 2,
+                                "displayTitle": "<span class=\"code_deletion\"></span> <span class=\"code_deletion\">Emergency Escape and Rescue Opening</span>",
+                                "hasExpanderArrow": false,
+                                "href": "#emergency_escape_and_rescue_opening_",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "reference": "emergency_escape_and_rescue_opening_"
+                            },
+                            {
+                                "amendType": "deletion",
+                                "children": [],
+                                "depth": 2,
+                                "displayTitle": "<span class=\"code_deletion\"></span> <span class=\"code_deletion\">Equipment or Fixture</span>",
+                                "hasExpanderArrow": false,
+                                "href": "#equipment_or_fixture_",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "reference": "equipment_or_fixture_"
+                            },
+                            {
+                                "amendType": "deletion",
+                                "children": [],
+                                "depth": 2,
+                                "displayTitle": "<span class=\"code_deletion\"></span> <span class=\"code_deletion\">Existing Building</span>",
+                                "hasExpanderArrow": false,
+                                "href": "#existing_building_",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "reference": "existing_building_"
+                            },
+                            {
+                                "amendType": "deletion",
+                                "children": [],
+                                "depth": 2,
+                                "displayTitle": "<span class=\"code_deletion\"></span> <span class=\"code_deletion\">Existing Structure</span>",
+                                "hasExpanderArrow": false,
+                                "href": "#existing_structure_",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "reference": "existing_structure_"
+                            },
+                            {
+                                "amendType": "deletion",
+                                "children": [],
+                                "depth": 2,
+                                "displayTitle": "<span class=\"code_deletion\"></span> <span class=\"code_deletion\">Exterior Wall Covering</span>",
+                                "hasExpanderArrow": false,
+                                "href": "#exterior_wall_covering_",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "reference": "exterior_wall_covering_"
+                            },
+                            {
+                                "amendType": "deletion",
+                                "children": [],
+                                "depth": 2,
+                                "displayTitle": "<span class=\"code_deletion\"></span> <span class=\"code_deletion\">Exterior Wall Envelope</span>",
+                                "hasExpanderArrow": false,
+                                "href": "#exterior_wall_envelope_",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "reference": "exterior_wall_envelope_"
+                            },
+                            {
+                                "amendType": "deletion",
+                                "children": [],
+                                "depth": 2,
+                                "displayTitle": "<span class=\"code_deletion\"></span> <span class=\"code_deletion\">Facility</span>",
+                                "hasExpanderArrow": false,
+                                "href": "#facility_",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "reference": "facility_"
+                            },
+                            {
+                                "amendType": "deletion",
+                                "children": [],
+                                "depth": 2,
+                                "displayTitle": "<span class=\"code_deletion\"></span> <span class=\"code_deletion\">Flood Hazard Area</span>",
+                                "hasExpanderArrow": false,
+                                "href": "#flood_hazard_area_",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "reference": "flood_hazard_area_"
+                            },
+                            {
+                                "amendType": "deletion",
+                                "children": [],
+                                "depth": 2,
+                                "displayTitle": "<span class=\"code_deletion\"></span> <span class=\"code_deletion\">Historic Building</span>",
+                                "hasExpanderArrow": false,
+                                "href": "#historic_building_",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "reference": "historic_building_"
+                            },
+                            {
+                                "amendType": "deletion",
+                                "children": [],
+                                "depth": 2,
+                                "displayTitle": "<span class=\"code_deletion\"></span> <span class=\"code_deletion\">Listed</span>",
+                                "hasExpanderArrow": false,
+                                "href": "#listed_",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "reference": "listed_"
+                            },
+                            {
+                                "amendType": "deletion",
+                                "children": [],
+                                "depth": 2,
+                                "displayTitle": "<span class=\"code_deletion\"></span> <span class=\"code_deletion\">Lowest Floor</span>",
+                                "hasExpanderArrow": false,
+                                "href": "#lowest_floor_",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "reference": "lowest_floor_"
+                            },
+                            {
+                                "amendType": "deletion",
+                                "children": [],
+                                "depth": 2,
+                                "displayTitle": "<span class=\"code_deletion\"></span> <span class=\"code_deletion\">Noncombustible Material</span>",
+                                "hasExpanderArrow": false,
+                                "href": "#noncombustible_material_",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "reference": "noncombustible_material_"
+                            },
+                            {
+                                "amendType": "deletion",
+                                "children": [],
+                                "depth": 2,
+                                "displayTitle": "<span class=\"code_deletion\"></span> <span class=\"code_deletion\">Occupiable Roof</span>",
+                                "hasExpanderArrow": false,
+                                "href": "#occupiable_roof_",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "reference": "occupiable_roof_"
+                            },
+                            {
+                                "amendType": "deletion",
+                                "children": [],
+                                "depth": 2,
+                                "displayTitle": "<span class=\"code_deletion\"></span> <span class=\"code_deletion\">Peer Review</span>",
+                                "hasExpanderArrow": false,
+                                "href": "#peer_review_",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "reference": "peer_review_"
+                            },
+                            {
+                                "amendType": "deletion",
+                                "children": [],
+                                "depth": 2,
+                                "displayTitle": "<span class=\"code_deletion\"></span> <span class=\"code_deletion\">Photovoltaic Panel System</span>",
+                                "hasExpanderArrow": false,
+                                "href": "#photovoltaic_panel_system_",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "reference": "photovoltaic_panel_system_"
+                            },
+                            {
+                                "amendType": "deletion",
+                                "children": [],
+                                "depth": 2,
+                                "displayTitle": "<span class=\"code_deletion\"></span> <span class=\"code_deletion\">Primary Function</span>",
+                                "hasExpanderArrow": false,
+                                "href": "#primary_function_",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "reference": "primary_function_"
+                            },
+                            {
+                                "amendType": "deletion",
+                                "children": [],
+                                "depth": 2,
+                                "displayTitle": "<span class=\"code_deletion\"></span> <span class=\"code_deletion\">Registered Design Professional in Responsible Charge</span>",
+                                "hasExpanderArrow": false,
+                                "href": "#registered_design_professional_in_responsible_charge_",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "reference": "registered_design_professional_in_responsible_charge_"
+                            },
+                            {
+                                "amendType": "deletion",
+                                "children": [],
+                                "depth": 2,
+                                "displayTitle": "<span class=\"code_deletion\"></span> <span class=\"code_deletion\">Relocatable Building</span>",
+                                "hasExpanderArrow": false,
+                                "href": "#relocatable_building_",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "reference": "relocatable_building_"
+                            },
+                            {
+                                "amendType": "deletion",
+                                "children": [],
+                                "depth": 2,
+                                "displayTitle": "<span class=\"code_deletion\"></span> <span class=\"code_deletion\">Repair</span>",
+                                "hasExpanderArrow": false,
+                                "href": "#repair_",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "reference": "repair_"
+                            },
+                            {
+                                "amendType": "deletion",
+                                "children": [],
+                                "depth": 2,
+                                "displayTitle": "<span class=\"code_deletion\"></span> <span class=\"code_deletion\">Reroofing</span>",
+                                "hasExpanderArrow": false,
+                                "href": "#reroofing_",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "reference": "reroofing_"
+                            },
+                            {
+                                "amendType": "deletion",
+                                "children": [],
+                                "depth": 2,
+                                "displayTitle": "<span class=\"code_deletion\"></span> <span class=\"code_deletion\">Risk Category</span>",
+                                "hasExpanderArrow": false,
+                                "href": "#risk_category_",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "reference": "risk_category_"
+                            },
+                            {
+                                "amendType": "deletion",
+                                "children": [],
+                                "depth": 2,
+                                "displayTitle": "<span class=\"code_deletion\"></span> <span class=\"code_deletion\">Roof Coating</span>",
+                                "hasExpanderArrow": false,
+                                "href": "#roof_coating_",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "reference": "roof_coating_"
+                            },
+                            {
+                                "amendType": "deletion",
+                                "children": [],
+                                "depth": 2,
+                                "displayTitle": "<span class=\"code_deletion\"></span> <span class=\"code_deletion\">Roof Recover</span>",
+                                "hasExpanderArrow": false,
+                                "href": "#roof_recover_",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "reference": "roof_recover_"
+                            },
+                            {
+                                "amendType": "deletion",
+                                "children": [],
+                                "depth": 2,
+                                "displayTitle": "<span class=\"code_deletion\"></span> <span class=\"code_deletion\">Roof Repair</span>",
+                                "hasExpanderArrow": false,
+                                "href": "#roof_repair_",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "reference": "roof_repair_"
+                            },
+                            {
+                                "amendType": "deletion",
+                                "children": [],
+                                "depth": 2,
+                                "displayTitle": "<span class=\"code_deletion\"></span> <span class=\"code_deletion\">Roof Replacement</span>",
+                                "hasExpanderArrow": false,
+                                "href": "#roof_replacement_",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "reference": "roof_replacement_"
+                            },
+                            {
+                                "amendType": "deletion",
+                                "children": [],
+                                "depth": 2,
+                                "displayTitle": "<span class=\"code_deletion\"></span> <span class=\"code_deletion\">Storm Shelter</span>",
+                                "hasExpanderArrow": false,
+                                "href": "#storm_shelter_",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "reference": "storm_shelter_"
+                            },
+                            {
+                                "amendType": "deletion",
+                                "children": [],
+                                "depth": 2,
+                                "displayTitle": "<span class=\"code_deletion\"></span> <span class=\"code_deletion\">Substantial Damage</span>",
+                                "hasExpanderArrow": false,
+                                "href": "#substantial_damage_",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "reference": "substantial_damage_"
+                            },
+                            {
+                                "amendType": "deletion",
+                                "children": [],
+                                "depth": 2,
+                                "displayTitle": "<span class=\"code_deletion\"></span> <span class=\"code_deletion\">Substantial Improvement</span>",
+                                "hasExpanderArrow": false,
+                                "href": "#substantial_improvement_",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "reference": "substantial_improvement_"
+                            },
+                            {
+                                "amendType": "deletion",
+                                "children": [],
+                                "depth": 2,
+                                "displayTitle": "<span class=\"code_deletion\"></span> <span class=\"code_deletion\">Substantial Structural Alteration</span>",
+                                "hasExpanderArrow": false,
+                                "href": "#substantial_structural_alteration_",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "reference": "substantial_structural_alteration_"
+                            },
+                            {
+                                "amendType": "deletion",
+                                "children": [],
+                                "depth": 2,
+                                "displayTitle": "<span class=\"code_deletion\"></span> <span class=\"code_deletion\">Substantial Structural Damage</span>",
+                                "hasExpanderArrow": false,
+                                "href": "#substantial_structural_damage_",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "reference": "substantial_structural_damage_"
+                            },
+                            {
+                                "amendType": "deletion",
+                                "children": [],
+                                "depth": 2,
+                                "displayTitle": "<span class=\"code_deletion\"></span> <span class=\"code_deletion\">Technically Infeasible</span>",
+                                "hasExpanderArrow": false,
+                                "href": "#technically_infeasible_",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "reference": "technically_infeasible_"
+                            },
+                            {
+                                "amendType": "deletion",
+                                "children": [],
+                                "depth": 2,
+                                "displayTitle": "<span class=\"code_deletion\"></span> <span class=\"code_deletion\">Unsafe</span>",
+                                "hasExpanderArrow": false,
+                                "href": "#unsafe_",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "reference": "unsafe_"
+                            },
+                            {
+                                "amendType": "deletion",
+                                "children": [],
+                                "depth": 2,
+                                "displayTitle": "<span class=\"code_deletion\"></span> <span class=\"code_deletion\">Work Area</span>",
+                                "hasExpanderArrow": false,
+                                "href": "#work_area_",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "reference": "work_area_"
+                            }
+                        ],
+                        "depth": 1,
+                        "displayTitle": "<span class=\"code_deletion\">202</span> <span class=\"code_deletion\">General Definitions</span>",
+                        "hasExpanderArrow": true,
+                        "href": "#202",
+                        "isCodeDivider": false,
+                        "isCodeDividerClickable": false,
+                        "reference": "202"
+                    }
+                ],
+                "title": "Chapter 2 Definitions: Oregon Existing Building Code 2024 | UpCodes",
+                "leanChapterLines": [
+                    {
+                        "displayTitle": "Chapter 1 Scope and Administration",
+                        "isExpandable": true,
+                        "reference": "1",
+                        "slug": "scope-and-administration"
+                    },
+                    {
+                        "displayTitle": "Chapter 2 Definitions",
+                        "isExpandable": true,
+                        "reference": "2",
+                        "slug": "definitions"
+                    },
+                    {
+                        "displayTitle": "Chapter 3 Provisions for All Compliance Methods",
+                        "isExpandable": true,
+                        "reference": "3",
+                        "slug": "provisions-for-all-compliance-methods"
+                    },
+                    {
+                        "displayTitle": "Chapter 4 Repairs",
+                        "isExpandable": true,
+                        "reference": "4",
+                        "slug": "repairs"
+                    },
+                    {
+                        "displayTitle": "Chapter 5 Prescriptive Compliance Method",
+                        "isExpandable": true,
+                        "reference": "5",
+                        "slug": "prescriptive-compliance-method"
+                    },
+                    {
+                        "displayTitle": "Chapter 6 Classification of Work",
+                        "isExpandable": true,
+                        "reference": "6",
+                        "slug": "classification-of-work"
+                    },
+                    {
+                        "displayTitle": "Chapter 7 Alterations\u2014Level 1",
+                        "isExpandable": true,
+                        "reference": "7",
+                        "slug": "alterations-level-1"
+                    },
+                    {
+                        "displayTitle": "Chapter 8 Alterations\u2014Level 2",
+                        "isExpandable": true,
+                        "reference": "8",
+                        "slug": "alterations-level-2"
+                    },
+                    {
+                        "displayTitle": "Chapter 9 Alterations\u2014Level 3",
+                        "isExpandable": true,
+                        "reference": "9",
+                        "slug": "alterations-level-3"
+                    },
+                    {
+                        "displayTitle": "Chapter 10 Change of Occupancy",
+                        "isExpandable": true,
+                        "reference": "10",
+                        "slug": "change-of-occupancy"
+                    },
+                    {
+                        "displayTitle": "Chapter 11 Additions",
+                        "isExpandable": true,
+                        "reference": "11",
+                        "slug": "additions"
+                    },
+                    {
+                        "displayTitle": "Chapter 12 Historic Buildings",
+                        "isExpandable": true,
+                        "reference": "12",
+                        "slug": "historic-buildings"
+                    },
+                    {
+                        "displayTitle": "Chapter 13 Performance Compliance Methods",
+                        "isExpandable": true,
+                        "reference": "13",
+                        "slug": "performance-compliance-methods"
+                    },
+                    {
+                        "displayTitle": "Chapter 14 Relocated or Moved Buildings",
+                        "isExpandable": true,
+                        "reference": "14",
+                        "slug": "relocated-or-moved-buildings"
+                    },
+                    {
+                        "displayTitle": "Chapter 15 Construction Safeguards",
+                        "isExpandable": true,
+                        "reference": "15",
+                        "slug": "construction-safeguards"
+                    },
+                    {
+                        "displayTitle": "Chapter 16 Referenced Standards",
+                        "reference": "16",
+                        "slug": "referenced-standards"
+                    },
+                    {
+                        "disabled": true,
+                        "displayTitle": "Appendix A Guidelines for the Seismic Retrofit of Existing Buildings",
+                        "reference": "A",
+                        "slug": "guidelines-for-the-seismic-retrofit-of-existing-buildings"
+                    },
+                    {
+                        "disabled": true,
+                        "displayTitle": "Appendix B Supplementary Accessibility Requirements for Existing Buildings and Facilities",
+                        "reference": "B",
+                        "slug": "supplementary-accessibility-requirements-for-existing-buildings-and-facilities"
+                    },
+                    {
+                        "disabled": true,
+                        "displayTitle": "Appendix C Guidelines for the Wind Retrofit of Existing Buildings",
+                        "reference": "C",
+                        "slug": "guidelines-for-the-wind-retrofit-of-existing-buildings"
+                    },
+                    {
+                        "disabled": true,
+                        "displayTitle": "Appendix D Board of Appeals",
+                        "reference": "D",
+                        "slug": "board-of-appeals"
+                    },
+                    {
+                        "disabled": true,
+                        "displayTitle": "Appendix E Temporary Emergency Uses",
+                        "reference": "E",
+                        "slug": "temporary-emergency-uses"
+                    },
+                    {
+                        "disabled": true,
+                        "displayTitle": "Resource A Guidelines on Fire Ratings of Archaic Materials and Assemblies",
+                        "reference": "resource_A",
+                        "slug": "guidelines-on-fire-ratings-of-archaic-materials-and-assemblies"
+                    }
+                ],
+                "leanCodeSectionsTree": [
+                    {
+                        "ancestorRefs": [],
+                        "body": "<div class=\"u-mt-4\"><div class=\"u-mt-3 u-font-bold u-mb-3\">User notes:</div><div class=\"u-mt-3 u-mb-3\"><span class=\"u-italic\"><span class=\"u-font-bold\">About this chapter:</span> Codes,                                 by their very nature, are technical documents. Every word, term and                                 punctuation mark can add to or change the meaning of a technical                                 requirement. It is necessary to maintain a consensus on the specific                                 meaning of each term contained in the code. Chapter 2 performs this                                 function by stating clearly what specific terms mean for the purpose                                 of the code.</span></div></div>",
+                        "depth": 0,
+                        "diagrams": [],
+                        "displayRef": null,
+                        "displayTitle": "Chapter 2 Definitions",
+                        "divisionType": "Chapter",
+                        "hasAssemblies": false,
+                        "isContiguous": true,
+                        "numAssembliesOnRef": 0,
+                        "numBuildingProductsOnRef": 0,
+                        "numDiagramsOnRef": 0,
+                        "reference": "2",
+                        "slug": "definitions",
+                        "titleText": "Definitions",
+                        "children": [
+                            {
+                                "amendType": "edit",
+                                "ancestorRefs": [
+                                    "2"
+                                ],
+                                "body": "<span class=\"code_addition\">See <a data-backup_href=\"\" href=\"https://up.codes/viewer/oregon/ibc-2024/chapter/2/definitions#2\" target=\"_blank\"><a class=\"autolink\" href=\"#2\">Chapter 2</a></a> for defined terms.</span><div class=\"uc_meta_note\"><span class=\"u-font-bold\">UpCodes note:</span>\nThe <a data-backup_href=\"\" href=\"https://up.codes/viewer/oregon/ibc-2024/chapter/2/definitions#2\" target=\"_blank\"><a class=\"autolink\" href=\"#2\">Chapter 2</a></a> referred to here is from the Oregon Structural Specialty Code (<a class=\"autolink\" href=\"#ossc\">OSSC</a>). \n</div>",
+                                "depth": 1,
+                                "diagrams": [],
+                                "displayRef": null,
+                                "displayTitle": "Section 201 General",
+                                "divisionType": "Section",
+                                "hasAssemblies": false,
+                                "isContiguous": true,
+                                "numAssembliesOnRef": 0,
+                                "numBuildingProductsOnRef": 0,
+                                "numDiagramsOnRef": 0,
+                                "reference": "201",
+                                "slug": "definitions",
+                                "titleText": "General",
+                                "children": [
+                                    {
+                                        "amendType": "deletion",
+                                        "ancestorRefs": [
+                                            "2",
+                                            "201"
+                                        ],
+                                        "depth": 2,
+                                        "diagrams": [],
+                                        "displayRef": "<span class=\"code_deletion\">201.1</span>",
+                                        "displayTitle": "[NY]  <span class=\"code_deletion\">201.1</span> <span class=\"code_deletion\">Scope</span>",
+                                        "hasAssemblies": false,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 0,
+                                        "numDiagramsOnRef": 0,
+                                        "reference": "201.1",
+                                        "refPrefix": "[NY]",
+                                        "slug": "definitions",
+                                        "titleText": "<span class=\"code_deletion\">Scope</span>",
+                                        "children": []
+                                    },
+                                    {
+                                        "amendType": "deletion",
+                                        "ancestorRefs": [
+                                            "2",
+                                            "201"
+                                        ],
+                                        "depth": 2,
+                                        "diagrams": [],
+                                        "displayRef": "<span class=\"code_deletion\">201.2</span>",
+                                        "displayTitle": "[NY]  <span class=\"code_deletion\">201.2</span> <span class=\"code_deletion\">Interchangeability</span>",
+                                        "hasAssemblies": false,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 0,
+                                        "numDiagramsOnRef": 0,
+                                        "reference": "201.2",
+                                        "refPrefix": "[NY]",
+                                        "slug": "definitions",
+                                        "titleText": "<span class=\"code_deletion\">Interchangeability</span>",
+                                        "children": []
+                                    },
+                                    {
+                                        "amendType": "deletion",
+                                        "ancestorRefs": [
+                                            "2",
+                                            "201"
+                                        ],
+                                        "depth": 2,
+                                        "diagrams": [],
+                                        "displayRef": "<span class=\"code_deletion\">201.3</span>",
+                                        "displayTitle": "[NY]  <span class=\"code_deletion\">201.3</span> <span class=\"code_deletion\">Terms Defined in Other Codes</span>",
+                                        "hasAssemblies": false,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 0,
+                                        "numDiagramsOnRef": 0,
+                                        "reference": "201.3",
+                                        "refPrefix": "[NY]",
+                                        "slug": "definitions",
+                                        "titleText": "<span class=\"code_deletion\">Terms Defined in Other Codes</span>",
+                                        "children": []
+                                    },
+                                    {
+                                        "amendType": "deletion",
+                                        "ancestorRefs": [
+                                            "2",
+                                            "201"
+                                        ],
+                                        "depth": 2,
+                                        "diagrams": [],
+                                        "displayRef": "<span class=\"code_deletion\">201.4</span>",
+                                        "displayTitle": "[NY]  <span class=\"code_deletion\">201.4</span> <span class=\"code_deletion\">Terms Not Defined</span>",
+                                        "hasAssemblies": false,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 0,
+                                        "numDiagramsOnRef": 0,
+                                        "reference": "201.4",
+                                        "refPrefix": "[NY]",
+                                        "slug": "definitions",
+                                        "titleText": "<span class=\"code_deletion\">Terms Not Defined</span>",
+                                        "children": []
+                                    }
+                                ]
+                            },
+                            {
+                                "amendType": "deletion",
+                                "ancestorRefs": [
+                                    "2"
+                                ],
+                                "depth": 1,
+                                "diagrams": [],
+                                "displayRef": "<span class=\"code_deletion\">202</span>",
+                                "displayTitle": "Section <span class=\"code_deletion\">202</span> <span class=\"code_deletion\">General Definitions</span>",
+                                "divisionType": "Section",
+                                "hasAssemblies": false,
+                                "isContiguous": true,
+                                "numAssembliesOnRef": 0,
+                                "numBuildingProductsOnRef": 0,
+                                "numDiagramsOnRef": 0,
+                                "reference": "202",
+                                "slug": "definitions",
+                                "titleText": "<span class=\"code_deletion\">General Definitions</span>",
+                                "children": [
+                                    {
+                                        "amendType": "deletion",
+                                        "ancestorRefs": [
+                                            "2",
+                                            "202"
+                                        ],
+                                        "depth": 2,
+                                        "diagrams": [],
+                                        "displayRef": "<span class=\"code_deletion\"></span>",
+                                        "displayTitle": "[A]  <span class=\"code_deletion\"></span> <span class=\"code_deletion\">Addition</span>",
+                                        "hasAssemblies": false,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 0,
+                                        "numDiagramsOnRef": 0,
+                                        "reference": "addition_",
+                                        "refPrefix": "[A]",
+                                        "slug": "definitions",
+                                        "titleText": "<span class=\"code_deletion\">Addition</span>",
+                                        "children": []
+                                    },
+                                    {
+                                        "amendType": "deletion",
+                                        "ancestorRefs": [
+                                            "2",
+                                            "202"
+                                        ],
+                                        "depth": 2,
+                                        "diagrams": [],
+                                        "displayRef": "<span class=\"code_deletion\"></span>",
+                                        "displayTitle": "[A]  <span class=\"code_deletion\"></span> <span class=\"code_deletion\">Alteration</span>",
+                                        "hasAssemblies": false,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 0,
+                                        "numDiagramsOnRef": 0,
+                                        "reference": "alteration_",
+                                        "refPrefix": "[A]",
+                                        "slug": "definitions",
+                                        "titleText": "<span class=\"code_deletion\">Alteration</span>",
+                                        "children": []
+                                    },
+                                    {
+                                        "amendType": "deletion",
+                                        "ancestorRefs": [
+                                            "2",
+                                            "202"
+                                        ],
+                                        "depth": 2,
+                                        "diagrams": [],
+                                        "displayRef": "<span class=\"code_deletion\"></span>",
+                                        "displayTitle": "[BG]  <span class=\"code_deletion\"></span> <span class=\"code_deletion\">Ambulatory Care Facility</span>",
+                                        "hasAssemblies": false,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 0,
+                                        "numDiagramsOnRef": 0,
+                                        "reference": "ambulatory_care_facility_",
+                                        "refPrefix": "[BG]",
+                                        "slug": "definitions",
+                                        "titleText": "<span class=\"code_deletion\">Ambulatory Care Facility</span>",
+                                        "children": []
+                                    },
+                                    {
+                                        "amendType": "deletion",
+                                        "ancestorRefs": [
+                                            "2",
+                                            "202"
+                                        ],
+                                        "depth": 2,
+                                        "diagrams": [],
+                                        "displayRef": "<span class=\"code_deletion\"></span>",
+                                        "displayTitle": "[A]  <span class=\"code_deletion\"></span> <span class=\"code_deletion\">Approved</span>",
+                                        "hasAssemblies": false,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 0,
+                                        "numDiagramsOnRef": 0,
+                                        "reference": "approved_",
+                                        "refPrefix": "[A]",
+                                        "slug": "definitions",
+                                        "titleText": "<span class=\"code_deletion\">Approved</span>",
+                                        "children": []
+                                    },
+                                    {
+                                        "amendType": "deletion",
+                                        "ancestorRefs": [
+                                            "2",
+                                            "202"
+                                        ],
+                                        "depth": 2,
+                                        "diagrams": [],
+                                        "displayRef": "<span class=\"code_deletion\"></span>",
+                                        "displayTitle": "[A]  <span class=\"code_deletion\"></span> <span class=\"code_deletion\">Approved Agency</span>",
+                                        "hasAssemblies": false,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 0,
+                                        "numDiagramsOnRef": 0,
+                                        "reference": "approved_agency_",
+                                        "refPrefix": "[A]",
+                                        "slug": "definitions",
+                                        "titleText": "<span class=\"code_deletion\">Approved Agency</span>",
+                                        "children": []
+                                    },
+                                    {
+                                        "amendType": "deletion",
+                                        "ancestorRefs": [
+                                            "2",
+                                            "202"
+                                        ],
+                                        "depth": 2,
+                                        "diagrams": [],
+                                        "displayRef": "<span class=\"code_deletion\"></span>",
+                                        "displayTitle": "[A]  <span class=\"code_deletion\"></span> <span class=\"code_deletion\">Building</span>",
+                                        "hasAssemblies": false,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 0,
+                                        "numDiagramsOnRef": 0,
+                                        "reference": "BUILDING_",
+                                        "refPrefix": "[A]",
+                                        "slug": "definitions",
+                                        "titleText": "<span class=\"code_deletion\">Building</span>",
+                                        "children": []
+                                    },
+                                    {
+                                        "amendType": "deletion",
+                                        "ancestorRefs": [
+                                            "2",
+                                            "202"
+                                        ],
+                                        "depth": 2,
+                                        "diagrams": [],
+                                        "displayRef": "<span class=\"code_deletion\"></span>",
+                                        "displayTitle": "[A]  <span class=\"code_deletion\"></span> <span class=\"code_deletion\">Change of Occupancy</span>",
+                                        "hasAssemblies": false,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 0,
+                                        "numDiagramsOnRef": 0,
+                                        "reference": "change_of_occupancy_",
+                                        "refPrefix": "[A]",
+                                        "slug": "definitions",
+                                        "titleText": "<span class=\"code_deletion\">Change of Occupancy</span>",
+                                        "children": []
+                                    },
+                                    {
+                                        "amendType": "deletion",
+                                        "ancestorRefs": [
+                                            "2",
+                                            "202"
+                                        ],
+                                        "depth": 2,
+                                        "diagrams": [],
+                                        "displayRef": "<span class=\"code_deletion\"></span>",
+                                        "displayTitle": "[A]  <span class=\"code_deletion\"></span> <span class=\"code_deletion\">Change of Use</span>",
+                                        "hasAssemblies": false,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 0,
+                                        "numDiagramsOnRef": 0,
+                                        "reference": "change_of_use_",
+                                        "refPrefix": "[A]",
+                                        "slug": "definitions",
+                                        "titleText": "<span class=\"code_deletion\">Change of Use</span>",
+                                        "children": []
+                                    },
+                                    {
+                                        "amendType": "deletion",
+                                        "ancestorRefs": [
+                                            "2",
+                                            "202"
+                                        ],
+                                        "depth": 2,
+                                        "diagrams": [],
+                                        "displayRef": "<span class=\"code_deletion\"></span>",
+                                        "displayTitle": "[A]  <span class=\"code_deletion\"></span> <span class=\"code_deletion\">Code Official</span>",
+                                        "hasAssemblies": false,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 0,
+                                        "numDiagramsOnRef": 0,
+                                        "reference": "code_official_",
+                                        "refPrefix": "[A]",
+                                        "slug": "definitions",
+                                        "titleText": "<span class=\"code_deletion\">Code Official</span>",
+                                        "children": []
+                                    },
+                                    {
+                                        "amendType": "deletion",
+                                        "ancestorRefs": [
+                                            "2",
+                                            "202"
+                                        ],
+                                        "depth": 2,
+                                        "diagrams": [],
+                                        "displayRef": "<span class=\"code_deletion\"></span>",
+                                        "displayTitle": "[BS]  <span class=\"code_deletion\"></span> <span class=\"code_deletion\">Dangerous</span>",
+                                        "hasAssemblies": false,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 0,
+                                        "numDiagramsOnRef": 0,
+                                        "reference": "dangerous_",
+                                        "refPrefix": "[BS]",
+                                        "slug": "definitions",
+                                        "titleText": "<span class=\"code_deletion\">Dangerous</span>",
+                                        "children": []
+                                    },
+                                    {
+                                        "amendType": "deletion",
+                                        "ancestorRefs": [
+                                            "2",
+                                            "202"
+                                        ],
+                                        "depth": 2,
+                                        "diagrams": [],
+                                        "displayRef": "<span class=\"code_deletion\"></span>",
+                                        "displayTitle": "[A]  <span class=\"code_deletion\"></span> <span class=\"code_deletion\">Deferred Submittal</span>",
+                                        "hasAssemblies": false,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 0,
+                                        "numDiagramsOnRef": 0,
+                                        "reference": "deferred_submittal_",
+                                        "refPrefix": "[A]",
+                                        "slug": "definitions",
+                                        "titleText": "<span class=\"code_deletion\">Deferred Submittal</span>",
+                                        "children": []
+                                    },
+                                    {
+                                        "amendType": "deletion",
+                                        "ancestorRefs": [
+                                            "2",
+                                            "202"
+                                        ],
+                                        "depth": 2,
+                                        "diagrams": [],
+                                        "displayRef": "<span class=\"code_deletion\"></span>",
+                                        "displayTitle": "[BS]  <span class=\"code_deletion\"></span> <span class=\"code_deletion\">Disproportionate Earthquake Damage</span>",
+                                        "hasAssemblies": false,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 0,
+                                        "numDiagramsOnRef": 0,
+                                        "reference": "disproportionate_earthquake_damage_",
+                                        "refPrefix": "[BS]",
+                                        "slug": "definitions",
+                                        "titleText": "<span class=\"code_deletion\">Disproportionate Earthquake Damage</span>",
+                                        "children": []
+                                    },
+                                    {
+                                        "amendType": "deletion",
+                                        "ancestorRefs": [
+                                            "2",
+                                            "202"
+                                        ],
+                                        "depth": 2,
+                                        "diagrams": [],
+                                        "displayRef": "<span class=\"code_deletion\"></span>",
+                                        "displayTitle": "[BE]  <span class=\"code_deletion\"></span> <span class=\"code_deletion\">Emergency Escape and Rescue Opening</span>",
+                                        "hasAssemblies": false,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 0,
+                                        "numDiagramsOnRef": 0,
+                                        "reference": "emergency_escape_and_rescue_opening_",
+                                        "refPrefix": "[BE]",
+                                        "slug": "definitions",
+                                        "titleText": "<span class=\"code_deletion\">Emergency Escape and Rescue Opening</span>",
+                                        "children": []
+                                    },
+                                    {
+                                        "amendType": "deletion",
+                                        "ancestorRefs": [
+                                            "2",
+                                            "202"
+                                        ],
+                                        "depth": 2,
+                                        "diagrams": [],
+                                        "displayRef": "<span class=\"code_deletion\"></span>",
+                                        "displayTitle": "<span class=\"code_deletion\"></span> <span class=\"code_deletion\">Equipment or Fixture</span>",
+                                        "hasAssemblies": false,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 0,
+                                        "numDiagramsOnRef": 0,
+                                        "reference": "equipment_or_fixture_",
+                                        "slug": "definitions",
+                                        "titleText": "<span class=\"code_deletion\">Equipment or Fixture</span>",
+                                        "children": []
+                                    },
+                                    {
+                                        "amendType": "deletion",
+                                        "ancestorRefs": [
+                                            "2",
+                                            "202"
+                                        ],
+                                        "depth": 2,
+                                        "diagrams": [],
+                                        "displayRef": "<span class=\"code_deletion\"></span>",
+                                        "displayTitle": "[A]  <span class=\"code_deletion\"></span> <span class=\"code_deletion\">Existing Building</span>",
+                                        "hasAssemblies": false,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 0,
+                                        "numDiagramsOnRef": 0,
+                                        "reference": "existing_building_",
+                                        "refPrefix": "[A]",
+                                        "slug": "definitions",
+                                        "titleText": "<span class=\"code_deletion\">Existing Building</span>",
+                                        "children": []
+                                    },
+                                    {
+                                        "amendType": "deletion",
+                                        "ancestorRefs": [
+                                            "2",
+                                            "202"
+                                        ],
+                                        "depth": 2,
+                                        "diagrams": [],
+                                        "displayRef": "<span class=\"code_deletion\"></span>",
+                                        "displayTitle": "[A]  <span class=\"code_deletion\"></span> <span class=\"code_deletion\">Existing Structure</span>",
+                                        "hasAssemblies": false,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 0,
+                                        "numDiagramsOnRef": 0,
+                                        "reference": "existing_structure_",
+                                        "refPrefix": "[A]",
+                                        "slug": "definitions",
+                                        "titleText": "<span class=\"code_deletion\">Existing Structure</span>",
+                                        "children": []
+                                    },
+                                    {
+                                        "amendType": "deletion",
+                                        "ancestorRefs": [
+                                            "2",
+                                            "202"
+                                        ],
+                                        "depth": 2,
+                                        "diagrams": [],
+                                        "displayRef": "<span class=\"code_deletion\"></span>",
+                                        "displayTitle": "[BF]  <span class=\"code_deletion\"></span> <span class=\"code_deletion\">Exterior Wall Covering</span>",
+                                        "hasAssemblies": false,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 0,
+                                        "numDiagramsOnRef": 0,
+                                        "reference": "exterior_wall_covering_",
+                                        "refPrefix": "[BF]",
+                                        "slug": "definitions",
+                                        "titleText": "<span class=\"code_deletion\">Exterior Wall Covering</span>",
+                                        "children": []
+                                    },
+                                    {
+                                        "amendType": "deletion",
+                                        "ancestorRefs": [
+                                            "2",
+                                            "202"
+                                        ],
+                                        "depth": 2,
+                                        "diagrams": [],
+                                        "displayRef": "<span class=\"code_deletion\"></span>",
+                                        "displayTitle": "[BF]  <span class=\"code_deletion\"></span> <span class=\"code_deletion\">Exterior Wall Envelope</span>",
+                                        "hasAssemblies": false,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 0,
+                                        "numDiagramsOnRef": 0,
+                                        "reference": "exterior_wall_envelope_",
+                                        "refPrefix": "[BF]",
+                                        "slug": "definitions",
+                                        "titleText": "<span class=\"code_deletion\">Exterior Wall Envelope</span>",
+                                        "children": []
+                                    },
+                                    {
+                                        "amendType": "deletion",
+                                        "ancestorRefs": [
+                                            "2",
+                                            "202"
+                                        ],
+                                        "depth": 2,
+                                        "diagrams": [],
+                                        "displayRef": "<span class=\"code_deletion\"></span>",
+                                        "displayTitle": "[A]  <span class=\"code_deletion\"></span> <span class=\"code_deletion\">Facility</span>",
+                                        "hasAssemblies": false,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 0,
+                                        "numDiagramsOnRef": 0,
+                                        "reference": "facility_",
+                                        "refPrefix": "[A]",
+                                        "slug": "definitions",
+                                        "titleText": "<span class=\"code_deletion\">Facility</span>",
+                                        "children": []
+                                    },
+                                    {
+                                        "amendType": "deletion",
+                                        "ancestorRefs": [
+                                            "2",
+                                            "202"
+                                        ],
+                                        "depth": 2,
+                                        "diagrams": [],
+                                        "displayRef": "<span class=\"code_deletion\"></span>",
+                                        "displayTitle": "[BS]  <span class=\"code_deletion\"></span> <span class=\"code_deletion\">Flood Hazard Area</span>",
+                                        "hasAssemblies": false,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 0,
+                                        "numDiagramsOnRef": 0,
+                                        "reference": "flood_hazard_area_",
+                                        "refPrefix": "[BS]",
+                                        "slug": "definitions",
+                                        "titleText": "<span class=\"code_deletion\">Flood Hazard Area</span>",
+                                        "children": []
+                                    },
+                                    {
+                                        "amendType": "deletion",
+                                        "ancestorRefs": [
+                                            "2",
+                                            "202"
+                                        ],
+                                        "depth": 2,
+                                        "diagrams": [],
+                                        "displayRef": "<span class=\"code_deletion\"></span>",
+                                        "displayTitle": "[A]  <span class=\"code_deletion\"></span> <span class=\"code_deletion\">Historic Building</span>",
+                                        "hasAssemblies": false,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 0,
+                                        "numDiagramsOnRef": 0,
+                                        "reference": "historic_building_",
+                                        "refPrefix": "[A]",
+                                        "slug": "definitions",
+                                        "titleText": "<span class=\"code_deletion\">Historic Building</span>",
+                                        "children": []
+                                    },
+                                    {
+                                        "amendType": "deletion",
+                                        "ancestorRefs": [
+                                            "2",
+                                            "202"
+                                        ],
+                                        "depth": 2,
+                                        "diagrams": [],
+                                        "displayRef": "<span class=\"code_deletion\"></span>",
+                                        "displayTitle": "[A]  <span class=\"code_deletion\"></span> <span class=\"code_deletion\">Listed</span>",
+                                        "hasAssemblies": false,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 0,
+                                        "numDiagramsOnRef": 0,
+                                        "reference": "listed_",
+                                        "refPrefix": "[A]",
+                                        "slug": "definitions",
+                                        "titleText": "<span class=\"code_deletion\">Listed</span>",
+                                        "children": []
+                                    },
+                                    {
+                                        "amendType": "deletion",
+                                        "ancestorRefs": [
+                                            "2",
+                                            "202"
+                                        ],
+                                        "depth": 2,
+                                        "diagrams": [],
+                                        "displayRef": "<span class=\"code_deletion\"></span>",
+                                        "displayTitle": "[BS]  <span class=\"code_deletion\"></span> <span class=\"code_deletion\">Lowest Floor</span>",
+                                        "hasAssemblies": false,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 0,
+                                        "numDiagramsOnRef": 0,
+                                        "reference": "lowest_floor_",
+                                        "refPrefix": "[BS]",
+                                        "slug": "definitions",
+                                        "titleText": "<span class=\"code_deletion\">Lowest Floor</span>",
+                                        "children": []
+                                    },
+                                    {
+                                        "amendType": "deletion",
+                                        "ancestorRefs": [
+                                            "2",
+                                            "202"
+                                        ],
+                                        "depth": 2,
+                                        "diagrams": [],
+                                        "displayRef": "<span class=\"code_deletion\"></span>",
+                                        "displayTitle": "[BF]  <span class=\"code_deletion\"></span> <span class=\"code_deletion\">Noncombustible Material</span>",
+                                        "hasAssemblies": false,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 0,
+                                        "numDiagramsOnRef": 0,
+                                        "reference": "noncombustible_material_",
+                                        "refPrefix": "[BF]",
+                                        "slug": "definitions",
+                                        "titleText": "<span class=\"code_deletion\">Noncombustible Material</span>",
+                                        "children": []
+                                    },
+                                    {
+                                        "amendType": "deletion",
+                                        "ancestorRefs": [
+                                            "2",
+                                            "202"
+                                        ],
+                                        "depth": 2,
+                                        "diagrams": [],
+                                        "displayRef": "<span class=\"code_deletion\"></span>",
+                                        "displayTitle": "[BG]  <span class=\"code_deletion\"></span> <span class=\"code_deletion\">Occupiable Roof</span>",
+                                        "hasAssemblies": false,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 0,
+                                        "numDiagramsOnRef": 0,
+                                        "reference": "occupiable_roof_",
+                                        "refPrefix": "[BG]",
+                                        "slug": "definitions",
+                                        "titleText": "<span class=\"code_deletion\">Occupiable Roof</span>",
+                                        "children": []
+                                    },
+                                    {
+                                        "amendType": "deletion",
+                                        "ancestorRefs": [
+                                            "2",
+                                            "202"
+                                        ],
+                                        "depth": 2,
+                                        "diagrams": [],
+                                        "displayRef": "<span class=\"code_deletion\"></span>",
+                                        "displayTitle": "[A]  <span class=\"code_deletion\"></span> <span class=\"code_deletion\">Peer Review</span>",
+                                        "hasAssemblies": false,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 0,
+                                        "numDiagramsOnRef": 0,
+                                        "reference": "peer_review_",
+                                        "refPrefix": "[A]",
+                                        "slug": "definitions",
+                                        "titleText": "<span class=\"code_deletion\">Peer Review</span>",
+                                        "children": []
+                                    },
+                                    {
+                                        "amendType": "deletion",
+                                        "ancestorRefs": [
+                                            "2",
+                                            "202"
+                                        ],
+                                        "depth": 2,
+                                        "diagrams": [],
+                                        "displayRef": "<span class=\"code_deletion\"></span>",
+                                        "displayTitle": "[BS]  <span class=\"code_deletion\"></span> <span class=\"code_deletion\">Photovoltaic Panel System</span>",
+                                        "hasAssemblies": false,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 0,
+                                        "numDiagramsOnRef": 0,
+                                        "reference": "photovoltaic_panel_system_",
+                                        "refPrefix": "[BS]",
+                                        "slug": "definitions",
+                                        "titleText": "<span class=\"code_deletion\">Photovoltaic Panel System</span>",
+                                        "children": []
+                                    },
+                                    {
+                                        "amendType": "deletion",
+                                        "ancestorRefs": [
+                                            "2",
+                                            "202"
+                                        ],
+                                        "depth": 2,
+                                        "diagrams": [],
+                                        "displayRef": "<span class=\"code_deletion\"></span>",
+                                        "displayTitle": "<span class=\"code_deletion\"></span> <span class=\"code_deletion\">Primary Function</span>",
+                                        "hasAssemblies": false,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 0,
+                                        "numDiagramsOnRef": 0,
+                                        "reference": "primary_function_",
+                                        "slug": "definitions",
+                                        "titleText": "<span class=\"code_deletion\">Primary Function</span>",
+                                        "children": []
+                                    },
+                                    {
+                                        "amendType": "deletion",
+                                        "ancestorRefs": [
+                                            "2",
+                                            "202"
+                                        ],
+                                        "depth": 2,
+                                        "diagrams": [],
+                                        "displayRef": "<span class=\"code_deletion\"></span>",
+                                        "displayTitle": "[A]  <span class=\"code_deletion\"></span> <span class=\"code_deletion\">Registered Design Professional in Responsible Charge</span>",
+                                        "hasAssemblies": false,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 0,
+                                        "numDiagramsOnRef": 0,
+                                        "reference": "registered_design_professional_in_responsible_charge_",
+                                        "refPrefix": "[A]",
+                                        "slug": "definitions",
+                                        "titleText": "<span class=\"code_deletion\">Registered Design Professional in Responsible Charge</span>",
+                                        "children": []
+                                    },
+                                    {
+                                        "amendType": "deletion",
+                                        "ancestorRefs": [
+                                            "2",
+                                            "202"
+                                        ],
+                                        "depth": 2,
+                                        "diagrams": [],
+                                        "displayRef": "<span class=\"code_deletion\"></span>",
+                                        "displayTitle": "[A]  <span class=\"code_deletion\"></span> <span class=\"code_deletion\">Relocatable Building</span>",
+                                        "hasAssemblies": false,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 0,
+                                        "numDiagramsOnRef": 0,
+                                        "reference": "relocatable_building_",
+                                        "refPrefix": "[A]",
+                                        "slug": "definitions",
+                                        "titleText": "<span class=\"code_deletion\">Relocatable Building</span>",
+                                        "children": []
+                                    },
+                                    {
+                                        "amendType": "deletion",
+                                        "ancestorRefs": [
+                                            "2",
+                                            "202"
+                                        ],
+                                        "depth": 2,
+                                        "diagrams": [],
+                                        "displayRef": "<span class=\"code_deletion\"></span>",
+                                        "displayTitle": "[A]  <span class=\"code_deletion\"></span> <span class=\"code_deletion\">Repair</span>",
+                                        "hasAssemblies": false,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 0,
+                                        "numDiagramsOnRef": 0,
+                                        "reference": "repair_",
+                                        "refPrefix": "[A]",
+                                        "slug": "definitions",
+                                        "titleText": "<span class=\"code_deletion\">Repair</span>",
+                                        "children": []
+                                    },
+                                    {
+                                        "amendType": "deletion",
+                                        "ancestorRefs": [
+                                            "2",
+                                            "202"
+                                        ],
+                                        "depth": 2,
+                                        "diagrams": [],
+                                        "displayRef": "<span class=\"code_deletion\"></span>",
+                                        "displayTitle": "[BS]  <span class=\"code_deletion\"></span> <span class=\"code_deletion\">Reroofing</span>",
+                                        "hasAssemblies": false,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 0,
+                                        "numDiagramsOnRef": 0,
+                                        "reference": "reroofing_",
+                                        "refPrefix": "[BS]",
+                                        "slug": "definitions",
+                                        "titleText": "<span class=\"code_deletion\">Reroofing</span>",
+                                        "children": []
+                                    },
+                                    {
+                                        "amendType": "deletion",
+                                        "ancestorRefs": [
+                                            "2",
+                                            "202"
+                                        ],
+                                        "depth": 2,
+                                        "diagrams": [],
+                                        "displayRef": "<span class=\"code_deletion\"></span>",
+                                        "displayTitle": "[BS]  <span class=\"code_deletion\"></span> <span class=\"code_deletion\">Risk Category</span>",
+                                        "hasAssemblies": false,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 0,
+                                        "numDiagramsOnRef": 0,
+                                        "reference": "risk_category_",
+                                        "refPrefix": "[BS]",
+                                        "slug": "definitions",
+                                        "titleText": "<span class=\"code_deletion\">Risk Category</span>",
+                                        "children": []
+                                    },
+                                    {
+                                        "amendType": "deletion",
+                                        "ancestorRefs": [
+                                            "2",
+                                            "202"
+                                        ],
+                                        "depth": 2,
+                                        "diagrams": [],
+                                        "displayRef": "<span class=\"code_deletion\"></span>",
+                                        "displayTitle": "[BS]  <span class=\"code_deletion\"></span> <span class=\"code_deletion\">Roof Coating</span>",
+                                        "hasAssemblies": false,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 0,
+                                        "numDiagramsOnRef": 0,
+                                        "reference": "roof_coating_",
+                                        "refPrefix": "[BS]",
+                                        "slug": "definitions",
+                                        "titleText": "<span class=\"code_deletion\">Roof Coating</span>",
+                                        "children": []
+                                    },
+                                    {
+                                        "amendType": "deletion",
+                                        "ancestorRefs": [
+                                            "2",
+                                            "202"
+                                        ],
+                                        "depth": 2,
+                                        "diagrams": [],
+                                        "displayRef": "<span class=\"code_deletion\"></span>",
+                                        "displayTitle": "[BS]  <span class=\"code_deletion\"></span> <span class=\"code_deletion\">Roof Recover</span>",
+                                        "hasAssemblies": false,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 0,
+                                        "numDiagramsOnRef": 0,
+                                        "reference": "roof_recover_",
+                                        "refPrefix": "[BS]",
+                                        "slug": "definitions",
+                                        "titleText": "<span class=\"code_deletion\">Roof Recover</span>",
+                                        "children": []
+                                    },
+                                    {
+                                        "amendType": "deletion",
+                                        "ancestorRefs": [
+                                            "2",
+                                            "202"
+                                        ],
+                                        "depth": 2,
+                                        "diagrams": [],
+                                        "displayRef": "<span class=\"code_deletion\"></span>",
+                                        "displayTitle": "[BS]  <span class=\"code_deletion\"></span> <span class=\"code_deletion\">Roof Repair</span>",
+                                        "hasAssemblies": false,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 0,
+                                        "numDiagramsOnRef": 0,
+                                        "reference": "roof_repair_",
+                                        "refPrefix": "[BS]",
+                                        "slug": "definitions",
+                                        "titleText": "<span class=\"code_deletion\">Roof Repair</span>",
+                                        "children": []
+                                    },
+                                    {
+                                        "amendType": "deletion",
+                                        "ancestorRefs": [
+                                            "2",
+                                            "202"
+                                        ],
+                                        "depth": 2,
+                                        "diagrams": [],
+                                        "displayRef": "<span class=\"code_deletion\"></span>",
+                                        "displayTitle": "[BS]  <span class=\"code_deletion\"></span> <span class=\"code_deletion\">Roof Replacement</span>",
+                                        "hasAssemblies": false,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 0,
+                                        "numDiagramsOnRef": 0,
+                                        "reference": "roof_replacement_",
+                                        "refPrefix": "[BS]",
+                                        "slug": "definitions",
+                                        "titleText": "<span class=\"code_deletion\">Roof Replacement</span>",
+                                        "children": []
+                                    },
+                                    {
+                                        "amendType": "deletion",
+                                        "ancestorRefs": [
+                                            "2",
+                                            "202"
+                                        ],
+                                        "depth": 2,
+                                        "diagrams": [],
+                                        "displayRef": "<span class=\"code_deletion\"></span>",
+                                        "displayTitle": "[BG]  <span class=\"code_deletion\"></span> <span class=\"code_deletion\">Storm Shelter</span>",
+                                        "hasAssemblies": false,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 0,
+                                        "numDiagramsOnRef": 0,
+                                        "reference": "storm_shelter_",
+                                        "refPrefix": "[BG]",
+                                        "slug": "definitions",
+                                        "titleText": "<span class=\"code_deletion\">Storm Shelter</span>",
+                                        "children": []
+                                    },
+                                    {
+                                        "amendType": "deletion",
+                                        "ancestorRefs": [
+                                            "2",
+                                            "202"
+                                        ],
+                                        "depth": 2,
+                                        "diagrams": [],
+                                        "displayRef": "<span class=\"code_deletion\"></span>",
+                                        "displayTitle": "[BS]  <span class=\"code_deletion\"></span> <span class=\"code_deletion\">Substantial Damage</span>",
+                                        "hasAssemblies": false,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 0,
+                                        "numDiagramsOnRef": 0,
+                                        "reference": "substantial_damage_",
+                                        "refPrefix": "[BS]",
+                                        "slug": "definitions",
+                                        "titleText": "<span class=\"code_deletion\">Substantial Damage</span>",
+                                        "children": []
+                                    },
+                                    {
+                                        "amendType": "deletion",
+                                        "ancestorRefs": [
+                                            "2",
+                                            "202"
+                                        ],
+                                        "depth": 2,
+                                        "diagrams": [],
+                                        "displayRef": "<span class=\"code_deletion\"></span>",
+                                        "displayTitle": "[BS]  <span class=\"code_deletion\"></span> <span class=\"code_deletion\">Substantial Improvement</span>",
+                                        "hasAssemblies": false,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 0,
+                                        "numDiagramsOnRef": 0,
+                                        "reference": "substantial_improvement_",
+                                        "refPrefix": "[BS]",
+                                        "slug": "definitions",
+                                        "titleText": "<span class=\"code_deletion\">Substantial Improvement</span>",
+                                        "children": []
+                                    },
+                                    {
+                                        "amendType": "deletion",
+                                        "ancestorRefs": [
+                                            "2",
+                                            "202"
+                                        ],
+                                        "depth": 2,
+                                        "diagrams": [],
+                                        "displayRef": "<span class=\"code_deletion\"></span>",
+                                        "displayTitle": "[BS]  <span class=\"code_deletion\"></span> <span class=\"code_deletion\">Substantial Structural Alteration</span>",
+                                        "hasAssemblies": false,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 0,
+                                        "numDiagramsOnRef": 0,
+                                        "reference": "substantial_structural_alteration_",
+                                        "refPrefix": "[BS]",
+                                        "slug": "definitions",
+                                        "titleText": "<span class=\"code_deletion\">Substantial Structural Alteration</span>",
+                                        "children": []
+                                    },
+                                    {
+                                        "amendType": "deletion",
+                                        "ancestorRefs": [
+                                            "2",
+                                            "202"
+                                        ],
+                                        "depth": 2,
+                                        "diagrams": [],
+                                        "displayRef": "<span class=\"code_deletion\"></span>",
+                                        "displayTitle": "[BS]  <span class=\"code_deletion\"></span> <span class=\"code_deletion\">Substantial Structural Damage</span>",
+                                        "hasAssemblies": false,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 0,
+                                        "numDiagramsOnRef": 0,
+                                        "reference": "substantial_structural_damage_",
+                                        "refPrefix": "[BS]",
+                                        "slug": "definitions",
+                                        "titleText": "<span class=\"code_deletion\">Substantial Structural Damage</span>",
+                                        "children": []
+                                    },
+                                    {
+                                        "amendType": "deletion",
+                                        "ancestorRefs": [
+                                            "2",
+                                            "202"
+                                        ],
+                                        "depth": 2,
+                                        "diagrams": [],
+                                        "displayRef": "<span class=\"code_deletion\"></span>",
+                                        "displayTitle": "<span class=\"code_deletion\"></span> <span class=\"code_deletion\">Technically Infeasible</span>",
+                                        "hasAssemblies": false,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 0,
+                                        "numDiagramsOnRef": 0,
+                                        "reference": "technically_infeasible_",
+                                        "slug": "definitions",
+                                        "titleText": "<span class=\"code_deletion\">Technically Infeasible</span>",
+                                        "children": []
+                                    },
+                                    {
+                                        "amendType": "deletion",
+                                        "ancestorRefs": [
+                                            "2",
+                                            "202"
+                                        ],
+                                        "depth": 2,
+                                        "diagrams": [],
+                                        "displayRef": "<span class=\"code_deletion\"></span>",
+                                        "displayTitle": "<span class=\"code_deletion\"></span> <span class=\"code_deletion\">Unsafe</span>",
+                                        "hasAssemblies": false,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 0,
+                                        "numDiagramsOnRef": 0,
+                                        "reference": "unsafe_",
+                                        "slug": "definitions",
+                                        "titleText": "<span class=\"code_deletion\">Unsafe</span>",
+                                        "children": []
+                                    },
+                                    {
+                                        "amendType": "deletion",
+                                        "ancestorRefs": [
+                                            "2",
+                                            "202"
+                                        ],
+                                        "depth": 2,
+                                        "diagrams": [],
+                                        "displayRef": "<span class=\"code_deletion\"></span>",
+                                        "displayTitle": "<span class=\"code_deletion\"></span> <span class=\"code_deletion\">Work Area</span>",
+                                        "hasAssemblies": false,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 0,
+                                        "numDiagramsOnRef": 0,
+                                        "reference": "work_area_",
+                                        "slug": "definitions",
+                                        "titleText": "<span class=\"code_deletion\">Work Area</span>",
+                                        "children": []
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            "chapterReference": "2"
+        },
+        "__N_SSP": true
+    },
+    "page": "/viewer/[urlFormPubOrJurisKey]/[urlFormPub]/chapter/[chapterRef]/[chapterName]",
+    "query": {
+        "urlFormPubOrJurisKey": "oregon",
+        "urlFormPub": "iebc-2024",
+        "chapterRef": "2",
+        "chapterName": "definitions"
+    },
+    "buildId": "aNDb_KMgxj06vGZ7D_0_K",
+    "isFallback": false,
+    "isExperimentalCompile": false,
+    "dynamicIds": [
+        61621,
+        54065
+    ],
+    "gssp": true,
+    "scriptLoader": []
+}

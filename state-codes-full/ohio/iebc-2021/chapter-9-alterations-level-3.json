@@ -1,0 +1,1657 @@
+{
+    "props": {
+        "pageProps": {
+            "missingRequiredLogin": false,
+            "title": "Chapter 9 Alterations\u2014Level 3: Ohio Existing Building Code 2024 | UpCodes",
+            "leanChapterViewerData": {
+                "basePubName": "International Existing Building Code 2021 (IEBC 2021)",
+                "codeGroupingYear": "2024",
+                "codeName": "Ohio Existing Building Code 2024",
+                "codeUuid": "d6b7f328-7e0e-43b5-81b5-3931c36431ab",
+                "codeVersions": [
+                    {
+                        "codeUuid": "d6b7f328-7e0e-43b5-81b5-3931c36431ab",
+                        "name": "Original Adoption",
+                        "effectiveStartDate": "2024-03-01",
+                        "shortformUrlName": "iebc-2021",
+                        "activeStatus": "active"
+                    }
+                ],
+                "ingesterAmendmentsEnabled": false,
+                "ingesterCodeUnitsEnabled": false,
+                "isAmendStylingEnabled": true,
+                "isCorrespondable": true,
+                "jurisKey": "ohio",
+                "jurisName": "Ohio",
+                "metaInfoUrl": "/viewer/ohio/iebc-2021",
+                "modelCodeUrl": null,
+                "placeholder": "Search Ohio Existing Building Code 2024",
+                "pubKey": "int_ebc_2021",
+                "pubPrefix": "int_ebc",
+                "shortformPubName": "iebc-2021",
+                "withAmendments": true,
+                "chapterRef": "9",
+                "publisher": "icc",
+                "hasLinkedResources": false,
+                "initialNonChapterTocLines": [
+                    {
+                        "amendType": null,
+                        "children": [
+                            {
+                                "amendType": null,
+                                "children": [],
+                                "depth": 2,
+                                "displayTitle": "901.1 Scope",
+                                "hasExpanderArrow": false,
+                                "href": "#901.1",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "reference": "901.1"
+                            },
+                            {
+                                "amendType": null,
+                                "children": [],
+                                "depth": 2,
+                                "displayTitle": "901.2 Compliance",
+                                "hasExpanderArrow": false,
+                                "href": "#901.2",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "reference": "901.2"
+                            }
+                        ],
+                        "depth": 1,
+                        "displayTitle": "901 General",
+                        "hasExpanderArrow": true,
+                        "href": "#901",
+                        "isCodeDivider": false,
+                        "isCodeDividerClickable": false,
+                        "reference": "901"
+                    },
+                    {
+                        "amendType": null,
+                        "children": [
+                            {
+                                "amendType": null,
+                                "children": [
+                                    {
+                                        "amendType": null,
+                                        "children": [],
+                                        "depth": 3,
+                                        "displayTitle": "902.1.1 Recirculating Air or Exhaust Systems",
+                                        "hasExpanderArrow": false,
+                                        "href": "#902.1.1",
+                                        "isCodeDivider": false,
+                                        "isCodeDividerClickable": false,
+                                        "reference": "902.1.1"
+                                    },
+                                    {
+                                        "amendType": null,
+                                        "children": [],
+                                        "depth": 3,
+                                        "displayTitle": "902.1.2 Elevators",
+                                        "hasExpanderArrow": false,
+                                        "href": "#902.1.2",
+                                        "isCodeDivider": false,
+                                        "isCodeDividerClickable": false,
+                                        "reference": "902.1.2"
+                                    }
+                                ],
+                                "depth": 2,
+                                "displayTitle": "902.1 High-Rise Buildings",
+                                "hasExpanderArrow": true,
+                                "href": "#902.1",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "reference": "902.1"
+                            },
+                            {
+                                "amendType": null,
+                                "children": [],
+                                "depth": 2,
+                                "displayTitle": "902.2 Boiler and Furnace Equipment Rooms",
+                                "hasExpanderArrow": false,
+                                "href": "#902.2",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "reference": "902.2"
+                            }
+                        ],
+                        "depth": 1,
+                        "displayTitle": "902 Special Use and Occupancy",
+                        "hasExpanderArrow": true,
+                        "href": "#902",
+                        "isCodeDivider": false,
+                        "isCodeDividerClickable": false,
+                        "reference": "902"
+                    },
+                    {
+                        "amendType": null,
+                        "children": [
+                            {
+                                "amendType": null,
+                                "children": [],
+                                "depth": 2,
+                                "displayTitle": "903.1 Existing Shafts and Vertical Openings",
+                                "hasExpanderArrow": false,
+                                "href": "#903.1",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "reference": "903.1"
+                            },
+                            {
+                                "amendType": null,
+                                "children": [
+                                    {
+                                        "amendType": null,
+                                        "children": [],
+                                        "depth": 3,
+                                        "displayTitle": "903.2.1 Separation Required",
+                                        "hasExpanderArrow": false,
+                                        "href": "#903.2.1",
+                                        "isCodeDivider": false,
+                                        "isCodeDividerClickable": false,
+                                        "reference": "903.2.1"
+                                    }
+                                ],
+                                "depth": 2,
+                                "displayTitle": "903.2 Fire Partitions in Group R-3",
+                                "hasExpanderArrow": true,
+                                "href": "#903.2",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "reference": "903.2"
+                            },
+                            {
+                                "amendType": null,
+                                "children": [],
+                                "depth": 2,
+                                "displayTitle": "903.3 Interior Finish",
+                                "hasExpanderArrow": false,
+                                "href": "#903.3",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "reference": "903.3"
+                            },
+                            {
+                                "amendType": null,
+                                "children": [],
+                                "depth": 2,
+                                "displayTitle": "903.4 Enhanced Classroom Acoustics",
+                                "hasExpanderArrow": false,
+                                "href": "#903.4",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "reference": "903.4"
+                            }
+                        ],
+                        "depth": 1,
+                        "displayTitle": "903 Building Elements and Materials",
+                        "hasExpanderArrow": true,
+                        "href": "#903",
+                        "isCodeDivider": false,
+                        "isCodeDividerClickable": false,
+                        "reference": "903"
+                    },
+                    {
+                        "amendType": null,
+                        "children": [
+                            {
+                                "amendType": null,
+                                "children": [
+                                    {
+                                        "amendType": null,
+                                        "children": [],
+                                        "depth": 3,
+                                        "displayTitle": "904.1.1 High-Rise Buildings",
+                                        "hasExpanderArrow": false,
+                                        "href": "#904.1.1",
+                                        "isCodeDivider": false,
+                                        "isCodeDividerClickable": false,
+                                        "reference": "904.1.1"
+                                    },
+                                    {
+                                        "amendType": null,
+                                        "children": [],
+                                        "depth": 3,
+                                        "displayTitle": "904.1.2 Rubbish and Linen Chutes",
+                                        "hasExpanderArrow": false,
+                                        "href": "#904.1.2",
+                                        "isCodeDivider": false,
+                                        "isCodeDividerClickable": false,
+                                        "reference": "904.1.2"
+                                    },
+                                    {
+                                        "amendType": null,
+                                        "children": [],
+                                        "depth": 3,
+                                        "displayTitle": "904.1.3 Upholstered Furniture or Mattresses",
+                                        "hasExpanderArrow": false,
+                                        "href": "#904.1.3",
+                                        "isCodeDivider": false,
+                                        "isCodeDividerClickable": false,
+                                        "reference": "904.1.3"
+                                    },
+                                    {
+                                        "amendType": null,
+                                        "children": [],
+                                        "depth": 3,
+                                        "displayTitle": "904.1.4 Groups A, B, E, F-1, H, I-1, I-3, I-4, M, R-1, R-2, R-4, S-1 and S-2",
+                                        "hasExpanderArrow": false,
+                                        "href": "#904.1.4",
+                                        "isCodeDivider": false,
+                                        "isCodeDividerClickable": false,
+                                        "reference": "904.1.4"
+                                    },
+                                    {
+                                        "amendType": null,
+                                        "children": [],
+                                        "depth": 3,
+                                        "displayTitle": "904.1.5 Group I-2",
+                                        "hasExpanderArrow": false,
+                                        "href": "#904.1.5",
+                                        "isCodeDivider": false,
+                                        "isCodeDividerClickable": false,
+                                        "reference": "904.1.5"
+                                    },
+                                    {
+                                        "amendType": null,
+                                        "children": [],
+                                        "depth": 3,
+                                        "displayTitle": "904.1.6 Windowless Stories",
+                                        "hasExpanderArrow": false,
+                                        "href": "#904.1.6",
+                                        "isCodeDivider": false,
+                                        "isCodeDividerClickable": false,
+                                        "reference": "904.1.6"
+                                    },
+                                    {
+                                        "amendType": null,
+                                        "children": [],
+                                        "depth": 3,
+                                        "displayTitle": "904.1.7 Other Required Automatic Sprinkler Systems",
+                                        "hasExpanderArrow": false,
+                                        "href": "#904.1.7",
+                                        "isCodeDivider": false,
+                                        "isCodeDividerClickable": false,
+                                        "reference": "904.1.7"
+                                    }
+                                ],
+                                "depth": 2,
+                                "displayTitle": "904.1 Automatic Sprinkler Systems",
+                                "hasExpanderArrow": true,
+                                "href": "#904.1",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "reference": "904.1"
+                            },
+                            {
+                                "amendType": null,
+                                "children": [
+                                    {
+                                        "amendType": null,
+                                        "children": [],
+                                        "depth": 3,
+                                        "displayTitle": "904.2.1 Manual Fire Alarm Systems",
+                                        "hasExpanderArrow": false,
+                                        "href": "#904.2.1",
+                                        "isCodeDivider": false,
+                                        "isCodeDividerClickable": false,
+                                        "reference": "904.2.1"
+                                    },
+                                    {
+                                        "amendType": null,
+                                        "children": [],
+                                        "depth": 3,
+                                        "displayTitle": "904.2.2 Automatic Fire Detection",
+                                        "hasExpanderArrow": false,
+                                        "href": "#904.2.2",
+                                        "isCodeDivider": false,
+                                        "isCodeDividerClickable": false,
+                                        "reference": "904.2.2"
+                                    }
+                                ],
+                                "depth": 2,
+                                "displayTitle": "904.2 Fire Alarm and Detection Systems",
+                                "hasExpanderArrow": true,
+                                "href": "#904.2",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "reference": "904.2"
+                            }
+                        ],
+                        "depth": 1,
+                        "displayTitle": "904 Fire Protection",
+                        "hasExpanderArrow": true,
+                        "href": "#904",
+                        "isCodeDivider": false,
+                        "isCodeDividerClickable": false,
+                        "reference": "904"
+                    },
+                    {
+                        "amendType": null,
+                        "children": [
+                            {
+                                "amendType": null,
+                                "children": [],
+                                "depth": 2,
+                                "displayTitle": "905.1 General",
+                                "hasExpanderArrow": false,
+                                "href": "#905.1",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "reference": "905.1"
+                            },
+                            {
+                                "amendType": null,
+                                "children": [],
+                                "depth": 2,
+                                "displayTitle": "905.2 Means-of-Egress Lighting",
+                                "hasExpanderArrow": false,
+                                "href": "#905.2",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "reference": "905.2"
+                            },
+                            {
+                                "amendType": null,
+                                "children": [],
+                                "depth": 2,
+                                "displayTitle": "905.3 Exit Signs",
+                                "hasExpanderArrow": false,
+                                "href": "#905.3",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "reference": "905.3"
+                            },
+                            {
+                                "amendType": null,
+                                "children": [],
+                                "depth": 2,
+                                "displayTitle": "905.4 Two-Way Communications Systems",
+                                "hasExpanderArrow": false,
+                                "href": "#905.4",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "reference": "905.4"
+                            }
+                        ],
+                        "depth": 1,
+                        "displayTitle": "905 Means of Egress",
+                        "hasExpanderArrow": true,
+                        "href": "#905",
+                        "isCodeDivider": false,
+                        "isCodeDividerClickable": false,
+                        "reference": "905"
+                    },
+                    {
+                        "amendType": null,
+                        "children": [
+                            {
+                                "amendType": null,
+                                "children": [],
+                                "depth": 2,
+                                "displayTitle": "906.1 General",
+                                "hasExpanderArrow": false,
+                                "href": "#906.1",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "reference": "906.1"
+                            },
+                            {
+                                "amendType": null,
+                                "children": [],
+                                "depth": 2,
+                                "displayTitle": "906.2 Existing Structural Elements Resisting Lateral Loads",
+                                "hasExpanderArrow": false,
+                                "href": "#906.2",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "reference": "906.2"
+                            },
+                            {
+                                "amendType": null,
+                                "children": [],
+                                "depth": 2,
+                                "displayTitle": "906.3 Seismic Design Category F",
+                                "hasExpanderArrow": false,
+                                "href": "#906.3",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "reference": "906.3"
+                            },
+                            {
+                                "amendType": null,
+                                "children": [],
+                                "depth": 2,
+                                "displayTitle": "906.4 Anchorage for Concrete and Masonry Buildings",
+                                "hasExpanderArrow": false,
+                                "href": "#906.4",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "reference": "906.4"
+                            },
+                            {
+                                "amendType": null,
+                                "children": [],
+                                "depth": 2,
+                                "displayTitle": "906.5 Anchorage for Unreinforced Masonry Walls",
+                                "hasExpanderArrow": false,
+                                "href": "#906.5",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "reference": "906.5"
+                            },
+                            {
+                                "amendType": null,
+                                "children": [],
+                                "depth": 2,
+                                "displayTitle": "906.6 Bracing for Unreinforced Masonry Parapets",
+                                "hasExpanderArrow": false,
+                                "href": "#906.6",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "reference": "906.6"
+                            },
+                            {
+                                "amendType": null,
+                                "children": [],
+                                "depth": 2,
+                                "displayTitle": "906.7 Anchorage of Unreinforced Masonry Partitions",
+                                "hasExpanderArrow": false,
+                                "href": "#906.7",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "reference": "906.7"
+                            }
+                        ],
+                        "depth": 1,
+                        "displayTitle": "906 Structural",
+                        "hasExpanderArrow": true,
+                        "href": "#906",
+                        "isCodeDivider": false,
+                        "isCodeDividerClickable": false,
+                        "reference": "906"
+                    },
+                    {
+                        "amendType": null,
+                        "children": [
+                            {
+                                "amendType": null,
+                                "children": [],
+                                "depth": 2,
+                                "displayTitle": "907.1 Minimum Requirements",
+                                "hasExpanderArrow": false,
+                                "href": "#907.1",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "reference": "907.1"
+                            }
+                        ],
+                        "depth": 1,
+                        "displayTitle": "907 Energy Conservation",
+                        "hasExpanderArrow": true,
+                        "href": "#907",
+                        "isCodeDivider": false,
+                        "isCodeDividerClickable": false,
+                        "reference": "907"
+                    }
+                ],
+                "title": "Chapter 9 Alterations\u2014Level 3: Ohio Existing Building Code 2024 | UpCodes",
+                "leanChapterLines": [
+                    {
+                        "amendType": "deletion",
+                        "displayTitle": "Chapter <span class=\"code_deletion\">1</span> <span class=\"code_deletion\">Scope and Administration</span>",
+                        "reference": "1",
+                        "slug": "scope-and-administration"
+                    },
+                    {
+                        "amendType": "addition",
+                        "displayTitle": "Chapter 1",
+                        "isExpandable": true,
+                        "reference": "new_1",
+                        "slug": "_"
+                    },
+                    {
+                        "displayTitle": "Chapter 2 Definitions",
+                        "isExpandable": true,
+                        "reference": "2",
+                        "slug": "definitions"
+                    },
+                    {
+                        "displayTitle": "Chapter 3 Provisions for All Compliance Methods",
+                        "isExpandable": true,
+                        "reference": "3",
+                        "slug": "provisions-for-all-compliance-methods"
+                    },
+                    {
+                        "displayTitle": "Chapter 4 Repairs",
+                        "isExpandable": true,
+                        "reference": "4",
+                        "slug": "repairs"
+                    },
+                    {
+                        "displayTitle": "Chapter 5 Prescriptive Compliance Method",
+                        "isExpandable": true,
+                        "reference": "5",
+                        "slug": "prescriptive-compliance-method"
+                    },
+                    {
+                        "displayTitle": "Chapter 6 Classification of Work",
+                        "isExpandable": true,
+                        "reference": "6",
+                        "slug": "classification-of-work"
+                    },
+                    {
+                        "displayTitle": "Chapter 7 Alterations\u2014Level 1",
+                        "isExpandable": true,
+                        "reference": "7",
+                        "slug": "alterations-level-1"
+                    },
+                    {
+                        "displayTitle": "Chapter 8 Alterations\u2014Level 2",
+                        "isExpandable": true,
+                        "reference": "8",
+                        "slug": "alterations-level-2"
+                    },
+                    {
+                        "displayTitle": "Chapter 9 Alterations\u2014Level 3",
+                        "isExpandable": true,
+                        "reference": "9",
+                        "slug": "alterations-level-3"
+                    },
+                    {
+                        "displayTitle": "Chapter 10 Change of Occupancy",
+                        "isExpandable": true,
+                        "reference": "10",
+                        "slug": "change-of-occupancy"
+                    },
+                    {
+                        "displayTitle": "Chapter 11 Additions",
+                        "isExpandable": true,
+                        "reference": "11",
+                        "slug": "additions"
+                    },
+                    {
+                        "displayTitle": "Chapter 12 Historic Buildings",
+                        "isExpandable": true,
+                        "reference": "12",
+                        "slug": "historic-buildings"
+                    },
+                    {
+                        "displayTitle": "Chapter 13 Performance Compliance Methods",
+                        "isExpandable": true,
+                        "reference": "13",
+                        "slug": "performance-compliance-methods"
+                    },
+                    {
+                        "displayTitle": "Chapter 14 Relocated or Moved Buildings",
+                        "isExpandable": true,
+                        "reference": "14",
+                        "slug": "relocated-or-moved-buildings"
+                    },
+                    {
+                        "displayTitle": "Chapter 15 Construction Safeguards",
+                        "isExpandable": true,
+                        "reference": "15",
+                        "slug": "construction-safeguards"
+                    },
+                    {
+                        "amendType": "edit",
+                        "displayTitle": "Chapter 16 Referenced Standards",
+                        "reference": "16",
+                        "slug": "referenced-standards"
+                    },
+                    {
+                        "displayTitle": "Appendix A Guidelines for the Seismic Retrofit of Existing Buildings",
+                        "hasChapterAdoption": true,
+                        "isExpandable": true,
+                        "reference": "A",
+                        "slug": "guidelines-for-the-seismic-retrofit-of-existing-buildings"
+                    },
+                    {
+                        "disabled": true,
+                        "displayTitle": "Appendix B Supplementary Accessibility Requirements for Existing Buildings and Facilities",
+                        "reference": "B",
+                        "slug": "supplementary-accessibility-requirements-for-existing-buildings-and-facilities"
+                    },
+                    {
+                        "disabled": true,
+                        "displayTitle": "Appendix C Guidelines for the Wind Retrofit of Existing Buildings",
+                        "reference": "C",
+                        "slug": "guidelines-for-the-wind-retrofit-of-existing-buildings"
+                    },
+                    {
+                        "disabled": true,
+                        "displayTitle": "Appendix D Board of Appeals",
+                        "reference": "D",
+                        "slug": "board-of-appeals"
+                    }
+                ],
+                "leanCodeSectionsTree": [
+                    {
+                        "ancestorRefs": [],
+                        "body": "<div class=\"u-mt-4\"><div class=\"u-mt-3 u-mb-3 u-font-bold\">User note:</div><div class=\"u-mt-3 u-mb-3\"><span class=\"u-italic\"><span class=\"u-font-bold\">About this chapter</span>: Chapter 9 provides the technical requirements for those <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/ohio/iebc-2021/chapter/2/definitions#existing_building_\">existing buildings</a></span> that undergo Level 3 <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/ohio/iebc-2021/chapter/2/definitions#alteration_\">alterations</a></span>. The purpose of this chapter is to provide detailed requirements and provisions to identify the required improvements in the <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/ohio/iebc-2021/chapter/2/definitions#existing_building_\">existing building</a></span> elements, building spaces and building structural system. This chapter is distinguished from Chapters <a class=\"autolink\" href=\"/viewer/ohio/iebc-2021/chapter/7/alterations-level-1#7\">7</a> and <a class=\"autolink\" href=\"/viewer/ohio/iebc-2021/chapter/8/alterations-level-2#8\">8</a> by involving <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/ohio/iebc-2021/chapter/2/definitions#alteration_\">alterations</a></span> that cover 50 percent or more of the aggregate area of the building. In contrast, Level 1 <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/ohio/iebc-2021/chapter/2/definitions#alteration_\">alterations</a></span> do not involve space reconfiguration, and Level 2 <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/ohio/iebc-2021/chapter/2/definitions#alteration_\">alterations</a></span> involve extensive space reconfiguration that does not exceed 50 percent of the building area. Depending on the nature of <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/ohio/iebc-2021/chapter/2/definitions#alteration_\">alteration</a></span> work, its location within the building, and whether it encompasses one or more tenants, improvements and upgrades could be required for the open floor penetrations, sprinkler system or the installation of additional means of egress such as stairs or fire escapes. At times and under certain situations, this chapter also is intended to improve the safety of certain building features beyond the <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/ohio/iebc-2021/chapter/2/definitions#work_area_\">work area</a></span> and in other parts of the building where no <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/ohio/iebc-2021/chapter/2/definitions#alteration_\">alteration</a></span> work might be taking place.</span></div></div>",
+                        "depth": 0,
+                        "diagrams": [],
+                        "displayRef": null,
+                        "displayTitle": "Chapter 9 Alterations\u2014Level 3",
+                        "divisionType": "Chapter",
+                        "hasAssemblies": false,
+                        "isContiguous": true,
+                        "numAssembliesOnRef": 0,
+                        "numBuildingProductsOnRef": 0,
+                        "numDiagramsOnRef": 0,
+                        "reference": "9",
+                        "slug": "alterations-level-3",
+                        "titleText": "Alterations\u2014Level 3",
+                        "children": [
+                            {
+                                "ancestorRefs": [
+                                    "9"
+                                ],
+                                "depth": 1,
+                                "diagrams": [],
+                                "displayRef": null,
+                                "displayTitle": "Section 901 General",
+                                "divisionType": "Section",
+                                "hasAssemblies": false,
+                                "isContiguous": true,
+                                "numAssembliesOnRef": 0,
+                                "numBuildingProductsOnRef": 0,
+                                "numDiagramsOnRef": 0,
+                                "reference": "901",
+                                "slug": "alterations-level-3",
+                                "titleText": "General",
+                                "children": [
+                                    {
+                                        "ancestorRefs": [
+                                            "9",
+                                            "901"
+                                        ],
+                                        "body": "Level 3 <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/ohio/iebc-2021/chapter/2/definitions#alteration_\">alterations</a></span> as described in <a class=\"autolink\" href=\"/viewer/ohio/iebc-2021/chapter/6/classification-of-work#604\">Section 604</a> shall comply with the requirements of this chapter.",
+                                        "depth": 2,
+                                        "diagrams": [],
+                                        "displayRef": null,
+                                        "displayTitle": "901.1 Scope",
+                                        "hasAssemblies": false,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 0,
+                                        "numDiagramsOnRef": 0,
+                                        "reference": "901.1",
+                                        "slug": "alterations-level-3",
+                                        "titleText": "Scope",
+                                        "children": []
+                                    },
+                                    {
+                                        "ancestorRefs": [
+                                            "9",
+                                            "901"
+                                        ],
+                                        "body": "<div class=\"u-mt-3 u-mb-3\">In addition to the provisions of this chapter, work shall comply with all of the requirements of Chapters <a class=\"autolink\" href=\"/viewer/ohio/iebc-2021/chapter/7/alterations-level-1#7\">7</a> and <a class=\"autolink\" href=\"/viewer/ohio/iebc-2021/chapter/8/alterations-level-2#8\">8</a>. The requirements of Sections <a class=\"autolink\" href=\"/viewer/ohio/iebc-2021/chapter/8/alterations-level-2#802\">802</a>, <a class=\"autolink\" href=\"/viewer/ohio/iebc-2021/chapter/8/alterations-level-2#803\">803</a>, <a class=\"autolink\" href=\"/viewer/ohio/iebc-2021/chapter/8/alterations-level-2#804\">804</a> and <a class=\"autolink\" href=\"/viewer/ohio/iebc-2021/chapter/8/alterations-level-2#805\">805</a> shall apply within all <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/ohio/iebc-2021/chapter/2/definitions#work_area_\">work areas</a></span> whether or not they include exits and corridors shared by more than one tenant and regardless of the occupant load.</div><div class=\"u-mt-3 u-mb-3 u-ml-4\"><span class=\"u-font-bold\">Exception:  </span> Buildings in which the reconfiguration of space affecting exits or shared egress access is exclusively the result of compliance with the accessibility requirements of <a class=\"autolink\" href=\"/viewer/ohio/iebc-2021/chapter/3/provisions-for-all-compliance-methods#306.7.1\">Section 306.7.1</a>  shall not be required to comply with this chapter.</div>",
+                                        "depth": 2,
+                                        "diagrams": [],
+                                        "displayRef": null,
+                                        "displayTitle": "901.2 Compliance",
+                                        "hasAssemblies": false,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 0,
+                                        "numDiagramsOnRef": 0,
+                                        "reference": "901.2",
+                                        "slug": "alterations-level-3",
+                                        "titleText": "Compliance",
+                                        "children": []
+                                    }
+                                ]
+                            },
+                            {
+                                "ancestorRefs": [
+                                    "9"
+                                ],
+                                "depth": 1,
+                                "diagrams": [],
+                                "displayRef": null,
+                                "displayTitle": "Section 902 Special Use and Occupancy",
+                                "divisionType": "Section",
+                                "hasAssemblies": false,
+                                "isContiguous": true,
+                                "numAssembliesOnRef": 0,
+                                "numBuildingProductsOnRef": 0,
+                                "numDiagramsOnRef": 0,
+                                "reference": "902",
+                                "slug": "alterations-level-3",
+                                "titleText": "Special Use and Occupancy",
+                                "children": [
+                                    {
+                                        "ancestorRefs": [
+                                            "9",
+                                            "902"
+                                        ],
+                                        "body": "Any building having occupied floors more than 75 feet (22 860 mm) above the lowest level of fire department vehicle access shall comply with the requirements of Sections <a class=\"autolink\" href=\"#902.1.1\">902.1.1</a> and <a class=\"autolink\" href=\"#902.1.2\">902.1.2</a>.",
+                                        "depth": 2,
+                                        "diagrams": [],
+                                        "displayRef": null,
+                                        "displayTitle": "902.1 High-Rise Buildings",
+                                        "hasAssemblies": false,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 0,
+                                        "numDiagramsOnRef": 0,
+                                        "reference": "902.1",
+                                        "slug": "alterations-level-3",
+                                        "titleText": "High-Rise Buildings",
+                                        "children": [
+                                            {
+                                                "ancestorRefs": [
+                                                    "9",
+                                                    "902",
+                                                    "902.1"
+                                                ],
+                                                "body": "Where a floor is served by a recirculating air or exhaust system with a capacity greater than 15,000 cubic feet per minute (701 m<sup>3</sup>/s), that system shall be equipped with <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/ohio/iebc-2021/chapter/2/definitions#approved_\">approved</a></span> smoke and heat detection devices installed in accordance with the <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/ohio/imc-2021\">International Mechanical Code</a></span>.",
+                                                "depth": 3,
+                                                "diagrams": [],
+                                                "displayRef": null,
+                                                "displayTitle": "902.1.1 Recirculating Air or Exhaust Systems",
+                                                "hasAssemblies": false,
+                                                "isContiguous": true,
+                                                "numAssembliesOnRef": 0,
+                                                "numBuildingProductsOnRef": 0,
+                                                "numDiagramsOnRef": 0,
+                                                "reference": "902.1.1",
+                                                "slug": "alterations-level-3",
+                                                "titleText": "Recirculating Air or Exhaust Systems",
+                                                "children": []
+                                            },
+                                            {
+                                                "ancestorRefs": [
+                                                    "9",
+                                                    "902",
+                                                    "902.1"
+                                                ],
+                                                "body": "Where there is an elevator or elevators for public use, not fewer than one elevator serving the <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/ohio/iebc-2021/chapter/2/definitions#work_area_\">work area</a></span> shall comply with this section. Existing elevators with a travel distance of 25 feet (7620 mm) or more above or below the main floor or other level of a building and intended to serve the needs of emergency personnel for fire-fighting or rescue purposes shall be provided with emergency operation in accordance with ASME A17.3. New elevators shall be provided with Phase I emergency recall operation and Phase II emergency in-car operation in accordance with <a class=\"autolink\" href=\"/viewer/ohio/asme-a17.1-2019\">ASME A17.1/CSA B44</a>.1.",
+                                                "depth": 3,
+                                                "diagrams": [],
+                                                "displayRef": null,
+                                                "displayTitle": "902.1.2 Elevators",
+                                                "hasAssemblies": false,
+                                                "isContiguous": true,
+                                                "numAssembliesOnRef": 0,
+                                                "numBuildingProductsOnRef": 0,
+                                                "numDiagramsOnRef": 0,
+                                                "reference": "902.1.2",
+                                                "slug": "alterations-level-3",
+                                                "titleText": "Elevators",
+                                                "children": []
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "ancestorRefs": [
+                                            "9",
+                                            "902"
+                                        ],
+                                        "body": "<div class=\"u-mb-3 u-mt-3\">Boiler and furnace equipment rooms adjacent to or within Group I-1, I-2, I-4, R-1, R-2 and R-4 occupancies shall be enclosed by 1-hour fire-resistance-rated construction.</div><div class=\"u-ml-4\"><div class=\"u-mb-3\"><span class=\"u-font-bold\">Exceptions: </span></div><ol><li>Steam boiler equipment operating at pressures of 15 pounds per square inch gauge (psig) (103.4 kPa) or less is not required to be enclosed.</li><li>Hot water boilers operating at pressures of 170 psig (1171 kPa) or less are not required to be enclosed.</li><li>Furnace and boiler equipment with 400,000 British thermal units (Btu) (4.22 \u00d7 108 J) per hour input rating or less is not required to be enclosed.</li><li>Furnace rooms protected with an automatic sprinkler system are not required to be enclosed.</li></ol></div>",
+                                        "depth": 2,
+                                        "diagrams": [],
+                                        "displayRef": null,
+                                        "displayTitle": "902.2 Boiler and Furnace Equipment Rooms",
+                                        "hasAssemblies": true,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 1,
+                                        "numBuildingProductsOnRef": 0,
+                                        "numDiagramsOnRef": 0,
+                                        "reference": "902.2",
+                                        "slug": "alterations-level-3",
+                                        "titleText": "Boiler and Furnace Equipment Rooms",
+                                        "children": []
+                                    }
+                                ]
+                            },
+                            {
+                                "ancestorRefs": [
+                                    "9"
+                                ],
+                                "depth": 1,
+                                "diagrams": [],
+                                "displayRef": null,
+                                "displayTitle": "Section 903 Building Elements and Materials",
+                                "divisionType": "Section",
+                                "hasAssemblies": false,
+                                "isContiguous": true,
+                                "numAssembliesOnRef": 0,
+                                "numBuildingProductsOnRef": 0,
+                                "numDiagramsOnRef": 0,
+                                "reference": "903",
+                                "slug": "alterations-level-3",
+                                "titleText": "Building Elements and Materials",
+                                "children": [
+                                    {
+                                        "ancestorRefs": [
+                                            "9",
+                                            "903"
+                                        ],
+                                        "body": "Existing stairways that are part of the means of egress shall be enclosed in accordance with <a class=\"autolink\" href=\"/viewer/ohio/iebc-2021/chapter/8/alterations-level-2#802.2.1\">Section 802.2.1</a> from the highest <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/ohio/iebc-2021/chapter/2/definitions#work_area_\">work area</a></span> floor to, and including, the level of exit discharge and all floors below.",
+                                        "depth": 2,
+                                        "diagrams": [],
+                                        "displayRef": null,
+                                        "displayTitle": "903.1 Existing Shafts and Vertical Openings",
+                                        "hasAssemblies": false,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 0,
+                                        "numDiagramsOnRef": 0,
+                                        "reference": "903.1",
+                                        "slug": "alterations-level-3",
+                                        "titleText": "Existing Shafts and Vertical Openings",
+                                        "children": []
+                                    },
+                                    {
+                                        "ancestorRefs": [
+                                            "9",
+                                            "903"
+                                        ],
+                                        "body": "Fire separation in Group R-3 occupancies shall be in accordance with <a class=\"autolink\" href=\"#903.2.1\">Section 903.2.1</a>.",
+                                        "depth": 2,
+                                        "diagrams": [],
+                                        "displayRef": null,
+                                        "displayTitle": "903.2 Fire Partitions in Group R-3",
+                                        "hasAssemblies": false,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 0,
+                                        "numDiagramsOnRef": 0,
+                                        "reference": "903.2",
+                                        "slug": "alterations-level-3",
+                                        "titleText": "Fire Partitions in Group R-3",
+                                        "children": [
+                                            {
+                                                "ancestorRefs": [
+                                                    "9",
+                                                    "903",
+                                                    "903.2"
+                                                ],
+                                                "body": "<div class=\"u-mb-3 u-mt-3\">Where the <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/ohio/iebc-2021/chapter/2/definitions#work_area_\">work area</a></span> is in any attached dwelling unit in Group R-3 or any multiple single-family dwelling (townhouse), walls separating the dwelling units that are not continuous from the foundation to the underside of the roof sheathing shall be constructed to provide a continuous fire separation using construction materials consistent with the existing wall or complying with the requirements for new structures. Work shall be performed on the side of the dwelling unit wall that is part of the <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/ohio/iebc-2021/chapter/2/definitions#work_area_\">work area</a></span>.</div><div class=\"u-mb-3 u-ml-4 u-mt-3\"><span class=\"u-font-bold\">Exception: </span> Where <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/ohio/iebc-2021/chapter/2/definitions#alteration_\">alterations</a></span> or <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/ohio/iebc-2021/chapter/2/definitions#repair_\">repairs</a></span> do not result in the removal of wall or ceiling finishes exposing the structure, walls are not required to be continuous through concealed floor spaces.</div>",
+                                                "depth": 3,
+                                                "diagrams": [],
+                                                "displayRef": null,
+                                                "displayTitle": "903.2.1 Separation Required",
+                                                "hasAssemblies": false,
+                                                "isContiguous": true,
+                                                "numAssembliesOnRef": 0,
+                                                "numBuildingProductsOnRef": 0,
+                                                "numDiagramsOnRef": 0,
+                                                "reference": "903.2.1",
+                                                "slug": "alterations-level-3",
+                                                "titleText": "Separation Required",
+                                                "children": []
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "ancestorRefs": [
+                                            "9",
+                                            "903"
+                                        ],
+                                        "body": "Interior finish in exits serving the <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/ohio/iebc-2021/chapter/2/definitions#work_area_\">work area</a></span> shall comply with <a class=\"autolink\" href=\"/viewer/ohio/iebc-2021/chapter/8/alterations-level-2#802.4\">Section 802.4</a> between the highest floor on which there is a <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/ohio/iebc-2021/chapter/2/definitions#work_area_\">work area</a></span> to the floor of exit discharge.",
+                                        "depth": 2,
+                                        "diagrams": [],
+                                        "displayRef": null,
+                                        "displayTitle": "903.3 Interior Finish",
+                                        "hasAssemblies": false,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 0,
+                                        "numDiagramsOnRef": 0,
+                                        "reference": "903.3",
+                                        "slug": "alterations-level-3",
+                                        "titleText": "Interior Finish",
+                                        "children": []
+                                    },
+                                    {
+                                        "ancestorRefs": [
+                                            "9",
+                                            "903"
+                                        ],
+                                        "body": "In Group E occupancies, where the <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/ohio/iebc-2021/chapter/2/definitions#work_area_\">work area</a></span> is a Level 3 <a class=\"autolink\" href=\"/viewer/ohio/iebc-2021/chapter/2/definitions#alteration_\">alteration</a>, enhanced classroom acoustics shall be provided in all classrooms with a volume of 20,000 cubic feet (565 m<sup>3</sup>) or less. Enhanced classroom acoustics shall comply with the reverberation time in Section 808 of ICC A117.1.",
+                                        "depth": 2,
+                                        "diagrams": [],
+                                        "displayRef": null,
+                                        "displayTitle": "903.4 Enhanced Classroom Acoustics",
+                                        "hasAssemblies": false,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 0,
+                                        "numDiagramsOnRef": 0,
+                                        "reference": "903.4",
+                                        "slug": "alterations-level-3",
+                                        "titleText": "Enhanced Classroom Acoustics",
+                                        "children": []
+                                    }
+                                ]
+                            },
+                            {
+                                "ancestorRefs": [
+                                    "9"
+                                ],
+                                "depth": 1,
+                                "diagrams": [],
+                                "displayRef": null,
+                                "displayTitle": "Section 904 Fire Protection",
+                                "divisionType": "Section",
+                                "hasAssemblies": false,
+                                "isContiguous": true,
+                                "numAssembliesOnRef": 0,
+                                "numBuildingProductsOnRef": 0,
+                                "numDiagramsOnRef": 0,
+                                "reference": "904",
+                                "slug": "alterations-level-3",
+                                "titleText": "Fire Protection",
+                                "children": [
+                                    {
+                                        "ancestorRefs": [
+                                            "9",
+                                            "904"
+                                        ],
+                                        "body": "An automatic sprinkler system shall be provided in a <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/ohio/iebc-2021/chapter/2/definitions#work_area_\">work area</a></span> where required by <a class=\"autolink\" href=\"/viewer/ohio/iebc-2021/chapter/8/alterations-level-2#803.2\">Section 803.2</a> or this section.",
+                                        "depth": 2,
+                                        "diagrams": [],
+                                        "displayRef": null,
+                                        "displayTitle": "904.1 Automatic Sprinkler Systems",
+                                        "hasAssemblies": false,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 0,
+                                        "numDiagramsOnRef": 0,
+                                        "reference": "904.1",
+                                        "slug": "alterations-level-3",
+                                        "titleText": "Automatic Sprinkler Systems",
+                                        "children": [
+                                            {
+                                                "ancestorRefs": [
+                                                    "9",
+                                                    "904",
+                                                    "904.1"
+                                                ],
+                                                "body": "An automatic sprinkler system shall be provided in <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/ohio/iebc-2021/chapter/2/definitions#work_area_\">work areas</a></span> where the high-rise building has a sufficient municipal water supply for the design and installation of an automatic sprinkler system at the site.",
+                                                "depth": 3,
+                                                "diagrams": [],
+                                                "displayRef": null,
+                                                "displayTitle": "904.1.1 High-Rise Buildings",
+                                                "hasAssemblies": false,
+                                                "isContiguous": true,
+                                                "numAssembliesOnRef": 0,
+                                                "numBuildingProductsOnRef": 0,
+                                                "numDiagramsOnRef": 0,
+                                                "reference": "904.1.1",
+                                                "slug": "alterations-level-3",
+                                                "titleText": "High-Rise Buildings",
+                                                "children": []
+                                            },
+                                            {
+                                                "ancestorRefs": [
+                                                    "9",
+                                                    "904",
+                                                    "904.1"
+                                                ],
+                                                "body": "Rubbish and linen chutes located in the <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/ohio/iebc-2021/chapter/2/definitions#work_area_\">work area</a></span> shall be provided with automatic sprinkler system protection or an <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/ohio/iebc-2021/chapter/2/definitions#approved_\">approved</a></span> automatic fire-extinguishing system where protection of the rubbish and linen chute would be required under the provisions of the <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/ohio/ibc-2021\">International Building Code</a></span> for new construction.",
+                                                "depth": 3,
+                                                "diagrams": [
+                                                    {
+                                                        "key": "rubbish_laundry_chutes",
+                                                        "title": "Rubbish and Laundry Chutes",
+                                                        "descriptionHtml": "<div>Waste, or rubbish, and linen chutes are required by the building code to be constructed of 1-hour fire rated materials and have equally rated, self or automatic closing, openings. Items can be inserted into the chutes from corridors or chute intake rooms. Chute intake rooms must be 1-hour fire rated with a minimum of <sup>3</sup>/<sub>4</sub> hour rated openings. Chute discharge or termination points, where the chute inserted items end, must be enclosed within a 1-hour fire rated room. Chutes are required to have a sprinkler head installed in the top of the chute, at every other floor, at the lowest level intake point, and in the discharge, or termination, room.  For requirements for new construction, se building code (2018) Section 713.13.</div>",
+                                                        "topics": [
+                                                            "Sprinklers",
+                                                            "Fire"
+                                                        ],
+                                                        "phases": [
+                                                            "Design Development",
+                                                            "Construction Docs",
+                                                            "Construction Phase"
+                                                        ],
+                                                        "supressesChildrenAssociations": false,
+                                                        "blacklistJurisdictions": [],
+                                                        "whitelistJurisdictions": [],
+                                                        "imageType": "png"
+                                                    }
+                                                ],
+                                                "displayRef": null,
+                                                "displayTitle": "904.1.2 Rubbish and Linen Chutes",
+                                                "hasAssemblies": false,
+                                                "hasDiagrams": true,
+                                                "hasDiagramsOnRef": true,
+                                                "isContiguous": true,
+                                                "numAssembliesOnRef": 0,
+                                                "numBuildingProductsOnRef": 0,
+                                                "numDiagramsOnRef": 1,
+                                                "reference": "904.1.2",
+                                                "slug": "alterations-level-3",
+                                                "titleText": "Rubbish and Linen Chutes",
+                                                "children": []
+                                            },
+                                            {
+                                                "ancestorRefs": [
+                                                    "9",
+                                                    "904",
+                                                    "904.1"
+                                                ],
+                                                "body": "<div class=\"u-mt-3 u-mb-3\"><span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/ohio/iebc-2021/chapter/2/definitions#work_area_\">Work areas</a></span> shall be provided with an automatic sprinkler system in accordance with the <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/ohio/ibc-2021\">International Building Code</a></span> where any of the following conditions exist:</div><ol><li>A Group F-1 occupancy used for the manufacture of upholstered furniture or mattresses exceeds 2,500 square feet (232 m<sup>2</sup>).</li><li>A Group M occupancy used for the display and sale of upholstered furniture or mattresses exceeds 5,000 square feet (464 m<sup>2</sup>).</li><li>A Group S-1 occupancy used for the storage of upholstered furniture or mattresses exceeds 2,500 square feet (232 m<sup>2</sup>).</li></ol>",
+                                                "depth": 3,
+                                                "diagrams": [],
+                                                "displayRef": null,
+                                                "displayTitle": "904.1.3 Upholstered Furniture or Mattresses",
+                                                "hasAssemblies": false,
+                                                "isContiguous": true,
+                                                "numAssembliesOnRef": 0,
+                                                "numBuildingProductsOnRef": 0,
+                                                "numDiagramsOnRef": 0,
+                                                "reference": "904.1.3",
+                                                "slug": "alterations-level-3",
+                                                "titleText": "Upholstered Furniture or Mattresses",
+                                                "children": []
+                                            },
+                                            {
+                                                "ancestorRefs": [
+                                                    "9",
+                                                    "904",
+                                                    "904.1"
+                                                ],
+                                                "body": "<div>In buildings with occupancies in Groups A, B, E, F-1, H, I-1, I-3, I-4, M, R-1, R-2, R-4, S-1 and S-2 <a class=\"autolink\" href=\"/viewer/ohio/iebc-2021/chapter/2/definitions#work_area_\">work areas</a> shall be provided with automatic sprinkler protection where all of the following conditions occur:\n<ol>\n<li>The <span class=\"u-italic\"> <a class=\"autolink\" href=\"/viewer/ohio/iebc-2021/chapter/2/definitions#work_area_\">work area</a></span> is required to be provided with automatic sprinkler protection in accordance with the <a class=\"autolink\" href=\"/viewer/ohio/ibc-2021\">International Building Code</a> as applicable to new construction.</li>\n<li>The building site has sufficient municipal water supply for design and installation of an automatic sprinkler system.</li>\n</ol>\n</div>\n<div class=\"u-ml-4\"><span class=\"u-font-bold\">Exception: </span> If the building site does not have sufficient municipal water supply for design of an automatic sprinkler system, <a class=\"autolink\" href=\"/viewer/ohio/iebc-2021/chapter/2/definitions#work_area_\">work areas</a> shall be protected by an automatic smoke detection system throughout all occupiable spaces other than sleeping units or individual dwelling units that activates the occupant notification system in accordance with Sections <a class=\"autolink\" href=\"/viewer/ohio/ibc-2021/chapter/9/fire-protection-and-life-safety-systems#907.4\">907.4</a>, <a class=\"autolink\" href=\"/viewer/ohio/ibc-2021/chapter/9/fire-protection-and-life-safety-systems#907.5\">907.5</a> and <a class=\"autolink\" href=\"/viewer/ohio/ibc-2021/chapter/9/fire-protection-and-life-safety-systems#907.6\">907.6</a> of the <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/ohio/ibc-2021\">International Building Code</a></span>.</div>",
+                                                "depth": 3,
+                                                "diagrams": [],
+                                                "displayRef": null,
+                                                "displayTitle": "904.1.4 Groups A, B, E, F-1, H, I-1, I-3, I-4, M, R-1, R-2, R-4, S-1 and S-2",
+                                                "hasAssemblies": false,
+                                                "isContiguous": true,
+                                                "numAssembliesOnRef": 0,
+                                                "numBuildingProductsOnRef": 0,
+                                                "numDiagramsOnRef": 0,
+                                                "reference": "904.1.4",
+                                                "slug": "alterations-level-3",
+                                                "titleText": "Groups A, B, E, F-1, H, I-1, I-3, I-4, M, R-1, R-2, R-4, S-1 and S-2",
+                                                "children": []
+                                            },
+                                            {
+                                                "ancestorRefs": [
+                                                    "9",
+                                                    "904",
+                                                    "904.1"
+                                                ],
+                                                "body": "In Group I-2 occupancies, an automatic sprinkler system installed in accordance with Section 903.3.1.1 of the <span class=\"u-italic\">International Fire Code</span> shall be provided in the following:\n<ol>\n<li>In Group I-2, Condition 1, throughout the <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/ohio/iebc-2021/chapter/2/definitions#work_area_\">work area</a></span>.</li>\n<li>In Group I-2, Condition 2, throughout the <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/ohio/iebc-2021/chapter/2/definitions#work_area_\">work area</a></span> where the <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/ohio/iebc-2021/chapter/2/definitions#work_area_\">work area</a></span> is 50 percent or less of the smoke compartment.</li>\n<li>In Group I-2, Condition 2, throughout the smoke compartment in which the work occurs where the <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/ohio/iebc-2021/chapter/2/definitions#work_area_\">work area</a></span> exceeds 50 percent of the smoke compartment.</li>\n</ol>",
+                                                "depth": 3,
+                                                "diagrams": [
+                                                    {
+                                                        "key": "work_area_definition",
+                                                        "title": "Definition: Work Area",
+                                                        "descriptionHtml": "<div>According to the Existing Building Code, a <strong>work area</strong> is that portion or portions of a building consisting of all reconfigured spaces as indicated on the construction documents. Work area excludes other portions of the building where incidental work entailed by the intended work must be performed and portions of the building where work not initially intended by the owner is specifically required by this code. </div>",
+                                                        "topics": [
+                                                            "Definition"
+                                                        ],
+                                                        "phases": [
+                                                            "Schematic",
+                                                            "Design Development"
+                                                        ],
+                                                        "supressesChildrenAssociations": false,
+                                                        "blacklistJurisdictions": [],
+                                                        "whitelistJurisdictions": [],
+                                                        "imageType": "svg"
+                                                    }
+                                                ],
+                                                "displayRef": null,
+                                                "displayTitle": "904.1.5 Group I-2",
+                                                "hasAssemblies": false,
+                                                "hasDiagrams": true,
+                                                "hasDiagramsOnRef": true,
+                                                "isContiguous": true,
+                                                "numAssembliesOnRef": 0,
+                                                "numBuildingProductsOnRef": 0,
+                                                "numDiagramsOnRef": 1,
+                                                "reference": "904.1.5",
+                                                "slug": "alterations-level-3",
+                                                "titleText": "Group I-2",
+                                                "children": []
+                                            },
+                                            {
+                                                "ancestorRefs": [
+                                                    "9",
+                                                    "904",
+                                                    "904.1"
+                                                ],
+                                                "body": "Work located in a windowless story, as determined in accordance with the <a class=\"autolink\" href=\"/viewer/ohio/ibc-2021\">International Building Code</a>, shall be sprinklered where the <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/ohio/iebc-2021/chapter/2/definitions#work_area_\">work area</a></span> is required to be sprinklered under the provisions of the <a class=\"autolink\" href=\"/viewer/ohio/ibc-2021\">International Building Code</a> for newly constructed buildings and the building site has a sufficient municipal water supply for the design and installation of an automatic sprinkler system.",
+                                                "depth": 3,
+                                                "diagrams": [],
+                                                "displayRef": null,
+                                                "displayTitle": "904.1.6 Windowless Stories",
+                                                "hasAssemblies": false,
+                                                "isContiguous": true,
+                                                "numAssembliesOnRef": 0,
+                                                "numBuildingProductsOnRef": 0,
+                                                "numDiagramsOnRef": 0,
+                                                "reference": "904.1.6",
+                                                "slug": "alterations-level-3",
+                                                "titleText": "Windowless Stories",
+                                                "children": []
+                                            },
+                                            {
+                                                "ancestorRefs": [
+                                                    "9",
+                                                    "904",
+                                                    "904.1"
+                                                ],
+                                                "body": "<div class=\"u-mt-3 u-mb-3\">In buildings and areas listed in Table 903.2.11.6 of the <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/ohio/ibc-2021\">International Building Code</a></span>, <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/ohio/iebc-2021/chapter/2/definitions#work_area_\">work areas</a></span> shall be provided with an automatic sprinkler system under the following conditions:</div><ol><li>The <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/ohio/iebc-2021/chapter/2/definitions#work_area_\">work area</a></span> is required to be provided with an automatic sprinkler system in accordance with the <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/ohio/ibc-2021\">International Building Code</a></span> applicable to new construction.</li><li>The building site has sufficient municipal water supply for design and installation of an automatic sprinkler system.</li></ol>",
+                                                "depth": 3,
+                                                "diagrams": [],
+                                                "displayRef": null,
+                                                "displayTitle": "904.1.7 Other Required Automatic Sprinkler Systems",
+                                                "hasAssemblies": false,
+                                                "isContiguous": true,
+                                                "numAssembliesOnRef": 0,
+                                                "numBuildingProductsOnRef": 0,
+                                                "numDiagramsOnRef": 0,
+                                                "reference": "904.1.7",
+                                                "slug": "alterations-level-3",
+                                                "titleText": "Other Required Automatic Sprinkler Systems",
+                                                "children": []
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "ancestorRefs": [
+                                            "9",
+                                            "904"
+                                        ],
+                                        "body": "Fire alarm and detection shall be provided in accordance with <a class=\"autolink\" href=\"/viewer/ohio/ibc-2021/chapter/9/fire-protection-and-life-safety-systems#907\">Section 907</a> of the <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/ohio/ibc-2021\">International Building Code</a></span> as required for new construction.",
+                                        "depth": 2,
+                                        "diagrams": [],
+                                        "displayRef": null,
+                                        "displayTitle": "904.2 Fire Alarm and Detection Systems",
+                                        "hasAssemblies": false,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 0,
+                                        "numDiagramsOnRef": 0,
+                                        "reference": "904.2",
+                                        "slug": "alterations-level-3",
+                                        "titleText": "Fire Alarm and Detection Systems",
+                                        "children": [
+                                            {
+                                                "ancestorRefs": [
+                                                    "9",
+                                                    "904",
+                                                    "904.2"
+                                                ],
+                                                "body": "<div class=\"u-mt-3 u-mb-3\">Where required by the <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/ohio/ibc-2021\">International Building Code</a></span>, a manual fire alarm system shall be provided throughout the <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/ohio/iebc-2021/chapter/2/definitions#work_area_\">work area</a></span>. Alarm notification appliances shall be provided on such floors and shall be automatically activated as required by the <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/ohio/ibc-2021\">International Building Code</a></span>.</div><div class=\"u-ml-4\"><div class=\"u-mb-3\"><span class=\"u-font-bold\">Exceptions: </span></div><ol><li>Alarm-initiating and notification appliances shall not be required to be installed in tenant spaces outside of the <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/ohio/iebc-2021/chapter/2/definitions#work_area_\">work area</a></span>.</li><li>Visual alarm notification appliances are not required, except where an existing alarm system is upgraded or replaced or where a new fire alarm system is installed.</li></ol></div>",
+                                                "depth": 3,
+                                                "diagrams": [],
+                                                "displayRef": null,
+                                                "displayTitle": "904.2.1 Manual Fire Alarm Systems",
+                                                "hasAssemblies": false,
+                                                "isContiguous": true,
+                                                "numAssembliesOnRef": 0,
+                                                "numBuildingProductsOnRef": 0,
+                                                "numDiagramsOnRef": 0,
+                                                "reference": "904.2.1",
+                                                "slug": "alterations-level-3",
+                                                "titleText": "Manual Fire Alarm Systems",
+                                                "children": []
+                                            },
+                                            {
+                                                "ancestorRefs": [
+                                                    "9",
+                                                    "904",
+                                                    "904.2"
+                                                ],
+                                                "body": "Where required by the <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/ohio/ibc-2021\">International Building Code</a></span> for new buildings, automatic fire detection systems shall be provided throughout the <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/ohio/iebc-2021/chapter/2/definitions#work_area_\">work area</a></span>.",
+                                                "depth": 3,
+                                                "diagrams": [],
+                                                "displayRef": null,
+                                                "displayTitle": "904.2.2 Automatic Fire Detection",
+                                                "hasAssemblies": false,
+                                                "isContiguous": true,
+                                                "numAssembliesOnRef": 0,
+                                                "numBuildingProductsOnRef": 0,
+                                                "numDiagramsOnRef": 0,
+                                                "reference": "904.2.2",
+                                                "slug": "alterations-level-3",
+                                                "titleText": "Automatic Fire Detection",
+                                                "children": []
+                                            }
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "ancestorRefs": [
+                                    "9"
+                                ],
+                                "depth": 1,
+                                "diagrams": [],
+                                "displayRef": null,
+                                "displayTitle": "Section 905 Means of Egress",
+                                "divisionType": "Section",
+                                "hasAssemblies": false,
+                                "isContiguous": true,
+                                "numAssembliesOnRef": 0,
+                                "numBuildingProductsOnRef": 0,
+                                "numDiagramsOnRef": 0,
+                                "reference": "905",
+                                "slug": "alterations-level-3",
+                                "titleText": "Means of Egress",
+                                "children": [
+                                    {
+                                        "ancestorRefs": [
+                                            "9",
+                                            "905"
+                                        ],
+                                        "body": "The means of egress shall comply with the requirements of <a class=\"autolink\" href=\"/viewer/ohio/iebc-2021/chapter/8/alterations-level-2#804\">Section 804</a> except as specifically required in Sections <a class=\"autolink\" href=\"#905.2\">905.2</a> and <a class=\"autolink\" href=\"#905.3\">905.3</a>.",
+                                        "depth": 2,
+                                        "diagrams": [],
+                                        "displayRef": null,
+                                        "displayTitle": "905.1 General",
+                                        "hasAssemblies": false,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 0,
+                                        "numDiagramsOnRef": 0,
+                                        "reference": "905.1",
+                                        "slug": "alterations-level-3",
+                                        "titleText": "General",
+                                        "children": []
+                                    },
+                                    {
+                                        "ancestorRefs": [
+                                            "9",
+                                            "905"
+                                        ],
+                                        "body": "Means of egress from the highest <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/ohio/iebc-2021/chapter/2/definitions#work_area_\">work area</a></span> floor to the floor of exit discharge shall be provided with artificial lighting within the exit enclosure in accordance with the requirements of the <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/ohio/ibc-2021\">International Building Code</a></span>.",
+                                        "depth": 2,
+                                        "diagrams": [
+                                            {
+                                                "key": "artificial_light",
+                                                "title": "Artificial Light",
+                                                "descriptionHtml": "<div>Where natural lighting is not provided in spaces intended for human occupancy artificial lighting is required.  The artificial light is required to achieve an average illumination level of 10 footcandles on an imaginary plane 30\" above the entire floor of the space.</div>",
+                                                "topics": [
+                                                    "Electrical"
+                                                ],
+                                                "phases": [
+                                                    "Construction Docs"
+                                                ],
+                                                "supressesChildrenAssociations": false,
+                                                "blacklistJurisdictions": [],
+                                                "whitelistJurisdictions": [],
+                                                "imageType": "svg"
+                                            },
+                                            {
+                                                "key": "means_of_egress_illum",
+                                                "title": "Means of Egress Illumination",
+                                                "descriptionHtml": "<div>The means of egress, path of travel from inside of a structure through the exit to the public way, must be illuminated under normal power, whenever the building is occupied. Illumination must be a minimum of 1 foot candle at the floor. This applies to all occupancy types except for Group U, dwelling and sleeping units in R-1, R-2, R-3, and Group I occupancies. In performance venues, Group A, the minimum foot candle requirement can be reduced to 0.2 in aisles and self-luminous lighting is permitted to be used. In Group-I illumination must be maintained at 1 foot candle throughout the path of egress, through exterior landings and discharge, and into the public way. Upon loss of power, emergency egress illumination must meet 1008.3.</div>",
+                                                "topics": [
+                                                    "Egress",
+                                                    "Electrical"
+                                                ],
+                                                "phases": [
+                                                    "Construction Docs",
+                                                    "Construction Phase"
+                                                ],
+                                                "supressesChildrenAssociations": false,
+                                                "blacklistJurisdictions": [
+                                                    "california",
+                                                    "los_angeles",
+                                                    "san_francisco",
+                                                    "san-jose",
+                                                    "los-angeles-county",
+                                                    "san-diego",
+                                                    "washington",
+                                                    "seattle"
+                                                ],
+                                                "whitelistJurisdictions": [],
+                                                "imageType": "svg"
+                                            }
+                                        ],
+                                        "displayRef": null,
+                                        "displayTitle": "905.2 Means-of-Egress Lighting",
+                                        "hasAssemblies": false,
+                                        "hasDiagrams": true,
+                                        "hasDiagramsOnRef": true,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 0,
+                                        "numDiagramsOnRef": 2,
+                                        "reference": "905.2",
+                                        "slug": "alterations-level-3",
+                                        "titleText": "Means-of-Egress Lighting",
+                                        "children": []
+                                    },
+                                    {
+                                        "ancestorRefs": [
+                                            "9",
+                                            "905"
+                                        ],
+                                        "body": "Means of egress from the highest <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/ohio/iebc-2021/chapter/2/definitions#work_area_\">work area</a></span> floor to the floor of exit discharge shall be provided with exit signs in accordance with the requirements of the <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/ohio/ibc-2021\">International Building Code</a></span>.",
+                                        "depth": 2,
+                                        "diagrams": [
+                                            {
+                                                "key": "exit_signs_required_locations",
+                                                "title": "Exit Signs: Where Required",
+                                                "descriptionHtml": "<div>Exit signs are required to be posted at exit doors and in the direction of egress. These signs must be visible from any direction. These can be either internally, or externally, illuminated, and must be lighted and visible at all times. The \"EXIT\" lettering must be within the minimum dimensions of this code and is to be in a contrasting color from the background (typically this is red or green lettering on a white background).</div>",
+                                                "topics": [
+                                                    "Egress",
+                                                    "Fire"
+                                                ],
+                                                "phases": [
+                                                    "Construction Docs",
+                                                    "Construction Phase"
+                                                ],
+                                                "supressesChildrenAssociations": false,
+                                                "blacklistJurisdictions": [],
+                                                "whitelistJurisdictions": [],
+                                                "imageType": "svg"
+                                            },
+                                            {
+                                                "key": "exit_signs",
+                                                "title": "Exit Signs: Size Requirements",
+                                                "descriptionHtml": "<div>Exit signs are required to be posted at exit doors and in the direction of egress. These signs must be visible from any direction. These can be either internally, or externally, illuminated, and must be lighted and visible at all times. The \"EXIT\" lettering must be within the minimum dimensions of this code and is to be in a contrasting color from the background (typically this is red or green lettering on a white background). </div>",
+                                                "topics": [
+                                                    "Egress",
+                                                    "Fire"
+                                                ],
+                                                "phases": [
+                                                    "Construction Docs",
+                                                    "Construction Phase"
+                                                ],
+                                                "supressesChildrenAssociations": false,
+                                                "blacklistJurisdictions": [],
+                                                "whitelistJurisdictions": [],
+                                                "imageType": "svg"
+                                            }
+                                        ],
+                                        "displayRef": null,
+                                        "displayTitle": "905.3 Exit Signs",
+                                        "hasAssemblies": false,
+                                        "hasDiagrams": true,
+                                        "hasDiagramsOnRef": true,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 0,
+                                        "numDiagramsOnRef": 2,
+                                        "reference": "905.3",
+                                        "slug": "alterations-level-3",
+                                        "titleText": "Exit Signs",
+                                        "children": []
+                                    },
+                                    {
+                                        "ancestorRefs": [
+                                            "9",
+                                            "905"
+                                        ],
+                                        "body": "In buildings with elevator service, a two-way communication system shall be provided where required by <a class=\"autolink\" href=\"/viewer/ohio/ibc-2021/chapter/10/means-of-egress#1009.8\">Section 1009.8</a> of the <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/ohio/ibc-2021\">International Building Code</a></span>.",
+                                        "depth": 2,
+                                        "diagrams": [],
+                                        "displayRef": null,
+                                        "displayTitle": "905.4 Two-Way Communications Systems",
+                                        "hasAssemblies": false,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 0,
+                                        "numDiagramsOnRef": 0,
+                                        "reference": "905.4",
+                                        "slug": "alterations-level-3",
+                                        "titleText": "Two-Way Communications Systems",
+                                        "children": []
+                                    }
+                                ]
+                            },
+                            {
+                                "ancestorRefs": [
+                                    "9"
+                                ],
+                                "depth": 1,
+                                "diagrams": [],
+                                "displayRef": null,
+                                "displayTitle": "Section 906 Structural",
+                                "divisionType": "Section",
+                                "hasAssemblies": false,
+                                "isContiguous": true,
+                                "numAssembliesOnRef": 0,
+                                "numBuildingProductsOnRef": 0,
+                                "numDiagramsOnRef": 0,
+                                "reference": "906",
+                                "slug": "alterations-level-3",
+                                "titleText": "Structural",
+                                "children": [
+                                    {
+                                        "ancestorRefs": [
+                                            "9",
+                                            "906"
+                                        ],
+                                        "body": "Where buildings are undergoing Level 3 <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/ohio/iebc-2021/chapter/2/definitions#alteration_\">alterations</a></span>, the provisions of this section shall apply.",
+                                        "depth": 2,
+                                        "diagrams": [],
+                                        "displayRef": null,
+                                        "displayTitle": "[BS]  906.1 General",
+                                        "hasAssemblies": false,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 0,
+                                        "numDiagramsOnRef": 0,
+                                        "reference": "906.1",
+                                        "refPrefix": "[BS]",
+                                        "slug": "alterations-level-3",
+                                        "titleText": "General",
+                                        "children": []
+                                    },
+                                    {
+                                        "ancestorRefs": [
+                                            "9",
+                                            "906"
+                                        ],
+                                        "body": "<div class=\"u-mt-3 u-mb-3\">Where work involves a <span class=\"u-italic\">substantial structural <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/ohio/iebc-2021/chapter/2/definitions#alteration_\">alteration</a></span></span>, the lateral load-resisting system of the altered building shall be shown to satisfy the requirements of Sections <a class=\"autolink\" href=\"/viewer/ohio/ibc-2021/chapter/16/structural-design#1609\">1609</a> and <a class=\"autolink\" href=\"/viewer/ohio/ibc-2021/chapter/16/structural-design#1613\">1613</a> of the <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/ohio/ibc-2021\">International Building Code</a></span>. Reduced <a class=\"autolink\" href=\"/viewer/ohio/iebc-2021/chapter/2/definitions#seismic_forces_\">seismic forces</a> shall be permitted.</div><div class=\"u-ml-4\"><div class=\"u-mb-3\"><span class=\"u-font-bold\">Exceptions: </span></div><ol><li>Buildings of Group R occupancy with not more than five dwelling or sleeping units used solely for residential purposes that are altered based on the conventional light-frame construction methods of the <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/ohio/ibc-2021\">International Building Code</a></span> or in compliance with the provisions of the <span class=\"u-italic\">International Residential Code</span>.</li><li>Where the intended <a class=\"autolink\" href=\"/viewer/ohio/iebc-2021/chapter/2/definitions#alteration_\">alteration</a> involves only the lowest story of a building, only the lateral load resisting components in and below that story need comply with this section.</li></ol></div>",
+                                        "depth": 2,
+                                        "diagrams": [],
+                                        "displayRef": null,
+                                        "displayTitle": "[BS]  906.2 Existing Structural Elements Resisting Lateral Loads",
+                                        "hasAssemblies": false,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 0,
+                                        "numDiagramsOnRef": 0,
+                                        "reference": "906.2",
+                                        "refPrefix": "[BS]",
+                                        "slug": "alterations-level-3",
+                                        "titleText": "Existing Structural Elements Resisting Lateral Loads",
+                                        "children": []
+                                    },
+                                    {
+                                        "ancestorRefs": [
+                                            "9",
+                                            "906"
+                                        ],
+                                        "body": "Where the building is assigned to Seismic Design Category F, the structure of the altered building shall meet the requirements of Sections <a class=\"autolink\" href=\"/viewer/ohio/ibc-2021/chapter/16/structural-design#1609\">1609</a> and <a class=\"autolink\" href=\"/viewer/ohio/ibc-2021/chapter/16/structural-design#1613\">1613</a> of the <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/ohio/ibc-2021\">International Building Code</a></span>. Reduced <a class=\"autolink\" href=\"/viewer/ohio/iebc-2021/chapter/2/definitions#seismic_forces_\">seismic forces</a> shall be permitted.",
+                                        "depth": 2,
+                                        "diagrams": [],
+                                        "displayRef": null,
+                                        "displayTitle": "[BS]  906.3 Seismic Design Category F",
+                                        "hasAssemblies": false,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 0,
+                                        "numDiagramsOnRef": 0,
+                                        "reference": "906.3",
+                                        "refPrefix": "[BS]",
+                                        "slug": "alterations-level-3",
+                                        "titleText": "Seismic Design Category F",
+                                        "children": []
+                                    },
+                                    {
+                                        "ancestorRefs": [
+                                            "9",
+                                            "906"
+                                        ],
+                                        "body": "For any building assigned to Seismic Design Category D, E or F with a structural system that includes concrete or reinforced masonry walls with a flexible roof diaphragm, the <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/ohio/iebc-2021/chapter/2/definitions#alteration_\">alteration</a></span> work shall include installation of wall anchors at the roof line of all subject buildings and at the floor lines of unreinforced masonry buildings unless an evaluation demonstrates compliance of existing wall anchorage. Reduced <a class=\"autolink\" href=\"/viewer/ohio/iebc-2021/chapter/2/definitions#seismic_forces_\">seismic forces</a> shall be permitted.",
+                                        "depth": 2,
+                                        "diagrams": [],
+                                        "displayRef": null,
+                                        "displayTitle": "[BS]  906.4 Anchorage for Concrete and Masonry Buildings",
+                                        "hasAssemblies": false,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 0,
+                                        "numDiagramsOnRef": 0,
+                                        "reference": "906.4",
+                                        "refPrefix": "[BS]",
+                                        "slug": "alterations-level-3",
+                                        "titleText": "Anchorage for Concrete and Masonry Buildings",
+                                        "children": []
+                                    },
+                                    {
+                                        "ancestorRefs": [
+                                            "9",
+                                            "906"
+                                        ],
+                                        "body": "For any building assigned to Seismic Design Category C, D, E or F with a structural system that includes unreinforced masonry bearing walls, the <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/ohio/iebc-2021/chapter/2/definitions#alteration_\">alteration</a></span> work shall include installation of wall anchors at the roof line, unless an evaluation demonstrates compliance of existing wall anchorage. Reduced <a class=\"autolink\" href=\"/viewer/ohio/iebc-2021/chapter/2/definitions#seismic_forces_\">seismic forces</a> shall be permitted.",
+                                        "depth": 2,
+                                        "diagrams": [],
+                                        "displayRef": null,
+                                        "displayTitle": "[BS]  906.5 Anchorage for Unreinforced Masonry Walls",
+                                        "hasAssemblies": false,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 0,
+                                        "numDiagramsOnRef": 0,
+                                        "reference": "906.5",
+                                        "refPrefix": "[BS]",
+                                        "slug": "alterations-level-3",
+                                        "titleText": "Anchorage for Unreinforced Masonry Walls",
+                                        "children": []
+                                    },
+                                    {
+                                        "ancestorRefs": [
+                                            "9",
+                                            "906"
+                                        ],
+                                        "body": "Parapets constructed of unreinforced masonry in buildings assigned to Seismic Design Category C, D, E or F shall have bracing installed as needed to resist the reduced <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/ohio/ibc-2021\">International Building Code</a></span>-level <a class=\"autolink\" href=\"/viewer/ohio/iebc-2021/chapter/2/definitions#seismic_forces_\">seismic forces</a> in accordance with <a class=\"autolink\" href=\"/viewer/ohio/iebc-2021/chapter/3/provisions-for-all-compliance-methods#304.3\">Section 304.3</a>, unless an evaluation demonstrates compliance of such items. Use of reduced <a class=\"autolink\" href=\"/viewer/ohio/iebc-2021/chapter/2/definitions#seismic_forces_\">seismic forces</a> shall be permitted.",
+                                        "depth": 2,
+                                        "diagrams": [],
+                                        "displayRef": null,
+                                        "displayTitle": "[BS]  906.6 Bracing for Unreinforced Masonry Parapets",
+                                        "hasAssemblies": false,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 0,
+                                        "numDiagramsOnRef": 0,
+                                        "reference": "906.6",
+                                        "refPrefix": "[BS]",
+                                        "slug": "alterations-level-3",
+                                        "titleText": "Bracing for Unreinforced Masonry Parapets",
+                                        "children": []
+                                    },
+                                    {
+                                        "ancestorRefs": [
+                                            "9",
+                                            "906"
+                                        ],
+                                        "body": "Where the building is assigned to Seismic Design Category C, D, E or F, unreinforced masonry partitions and nonstructural walls within the <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/ohio/iebc-2021/chapter/2/definitions#work_area_\">work area</a></span> and adjacent to egress paths from the <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/ohio/iebc-2021/chapter/2/definitions#work_area_\">work area</a></span> shall be anchored, removed, or altered to resist out-of-plane <a class=\"autolink\" href=\"/viewer/ohio/iebc-2021/chapter/2/definitions#seismic_forces_\">seismic forces</a>, unless an evaluation demonstrates compliance of such items. Use of reduced <a class=\"autolink\" href=\"/viewer/ohio/iebc-2021/chapter/2/definitions#seismic_forces_\">seismic forces</a> shall be permitted.",
+                                        "depth": 2,
+                                        "diagrams": [],
+                                        "displayRef": null,
+                                        "displayTitle": "[BS]  906.7 Anchorage of Unreinforced Masonry Partitions",
+                                        "hasAssemblies": false,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 0,
+                                        "numDiagramsOnRef": 0,
+                                        "reference": "906.7",
+                                        "refPrefix": "[BS]",
+                                        "slug": "alterations-level-3",
+                                        "titleText": "Anchorage of Unreinforced Masonry Partitions",
+                                        "children": []
+                                    }
+                                ]
+                            },
+                            {
+                                "ancestorRefs": [
+                                    "9"
+                                ],
+                                "depth": 1,
+                                "diagrams": [
+                                    {
+                                        "key": "opaque_doors",
+                                        "title": "Opaque Doors (ASHRAE)",
+                                        "descriptionHtml": "<div>All opaque doors shall have a maximum U-factor as specified in Tables 5.5-0 through 5.5-8. Exceptions: non-swinging doors that are horizontally hinged sectional doors with a single row of fenestration whose area is at least 14% and no more than 25% of the total door area shall have an assembly U-factor less than or equal to 0.440 in Climate Zones 0 through 6 for conditioned spaces and in Climate Zones 3 through 6 for semi-heated spaces and less than or equal to 0.360 in Climate Zones 7 and 8, for both conditioned and semi-heated spaces.</div>",
+                                        "topics": [
+                                            "Energy",
+                                            "Envelope"
+                                        ],
+                                        "phases": [
+                                            "Construction Docs"
+                                        ],
+                                        "supressesChildrenAssociations": false,
+                                        "blacklistJurisdictions": [],
+                                        "whitelistJurisdictions": [],
+                                        "imageType": "svg"
+                                    }
+                                ],
+                                "displayRef": null,
+                                "displayTitle": "Section 907 Energy Conservation",
+                                "divisionType": "Section",
+                                "hasAssemblies": false,
+                                "hasDiagrams": true,
+                                "hasDiagramsOnRef": true,
+                                "isContiguous": true,
+                                "numAssembliesOnRef": 0,
+                                "numBuildingProductsOnRef": 1,
+                                "numDiagramsOnRef": 1,
+                                "reference": "907",
+                                "slug": "alterations-level-3",
+                                "titleText": "Energy Conservation",
+                                "children": [
+                                    {
+                                        "ancestorRefs": [
+                                            "9",
+                                            "907"
+                                        ],
+                                        "body": "Level 3 <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/ohio/iebc-2021/chapter/2/definitions#alteration_\">alterations</a></span> to <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/ohio/iebc-2021/chapter/2/definitions#existing_building_\">existing buildings</a></span> or structures are permitted without requiring the entire building or structure to comply with the energy requirements of the <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/ohio/iecc-2021\">International Energy Conservation Code</a></span> or <span class=\"u-italic\">International Residential Code</span>. The <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/ohio/iebc-2021/chapter/2/definitions#alteration_\">alterations</a></span> shall conform to the energy requirements of the <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/ohio/iecc-2021\">International Energy Conservation Code</a></span> or <span class=\"u-italic\">International Residential Code</span> as they relate to new construction only.",
+                                        "depth": 2,
+                                        "diagrams": [],
+                                        "displayRef": null,
+                                        "displayTitle": "907.1 Minimum Requirements",
+                                        "hasAssemblies": false,
+                                        "hasDiagrams": true,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 0,
+                                        "numDiagramsOnRef": 0,
+                                        "reference": "907.1",
+                                        "slug": "alterations-level-3",
+                                        "titleText": "Minimum Requirements",
+                                        "children": []
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            "chapterReference": "9"
+        },
+        "__N_SSP": true
+    },
+    "page": "/viewer/[urlFormPubOrJurisKey]/[urlFormPub]/chapter/[chapterRef]/[chapterName]",
+    "query": {
+        "urlFormPubOrJurisKey": "ohio",
+        "urlFormPub": "iebc-2021",
+        "chapterRef": "9",
+        "chapterName": "alterations-level-3"
+    },
+    "buildId": "aNDb_KMgxj06vGZ7D_0_K",
+    "isFallback": false,
+    "isExperimentalCompile": false,
+    "dynamicIds": [
+        61621,
+        54065
+    ],
+    "gssp": true,
+    "scriptLoader": []
+}

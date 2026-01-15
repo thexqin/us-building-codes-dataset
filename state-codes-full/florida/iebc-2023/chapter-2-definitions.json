@@ -1,0 +1,397 @@
+{
+    "props": {
+        "pageProps": {
+            "missingRequiredLogin": false,
+            "title": "Chapter 2 Definitions: 2023 FBC - Existing Building, 8<sup>th</sup> edition | UpCodes",
+            "leanChapterViewerData": {
+                "basePubName": "International Existing Building Code 2021 (IEBC 2021)",
+                "codeGroupingYear": "2023",
+                "codeName": "2023 FBC - Existing Building, 8<sup>th</sup> edition",
+                "codeUuid": "1e3c0ef0-fce3-4a1f-b3ee-6dc13d74cc1b",
+                "codeVersions": [
+                    {
+                        "codeUuid": "1e3c0ef0-fce3-4a1f-b3ee-6dc13d74cc1b",
+                        "name": "Original Adoption",
+                        "effectiveStartDate": "2023-12-31",
+                        "shortformUrlName": "fl-existing-building-code-2023",
+                        "activeStatus": "active"
+                    }
+                ],
+                "ingesterAmendmentsEnabled": false,
+                "ingesterCodeUnitsEnabled": false,
+                "isAmendStylingEnabled": false,
+                "isCorrespondable": true,
+                "jurisKey": "florida",
+                "jurisName": "Florida",
+                "metaInfoUrl": "/viewer/florida/fl-existing-building-code-2023",
+                "modelCodeUrl": null,
+                "placeholder": "Search 2023 FBC - Existing Building, 8th edition",
+                "pubKey": "florida_ebc_2023",
+                "pubPrefix": "int_ebc",
+                "shortformPubName": "fl-existing-building-code-2023",
+                "withAmendments": true,
+                "chapterRef": "2",
+                "publisher": "icc",
+                "hasLinkedResources": false,
+                "initialNonChapterTocLines": [
+                    {
+                        "amendType": null,
+                        "children": [
+                            {
+                                "amendType": null,
+                                "children": [],
+                                "depth": 2,
+                                "displayTitle": "201.1 Scope",
+                                "hasExpanderArrow": false,
+                                "href": "#201.1",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "reference": "201.1"
+                            },
+                            {
+                                "amendType": null,
+                                "children": [],
+                                "depth": 2,
+                                "displayTitle": "201.2 Interchangeability",
+                                "hasExpanderArrow": false,
+                                "href": "#201.2",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "reference": "201.2"
+                            },
+                            {
+                                "amendType": null,
+                                "children": [],
+                                "depth": 2,
+                                "displayTitle": "201.3 Terms Defined in Other Codes",
+                                "hasExpanderArrow": false,
+                                "href": "#201.3",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "reference": "201.3"
+                            },
+                            {
+                                "amendType": null,
+                                "children": [],
+                                "depth": 2,
+                                "displayTitle": "201.4 Terms Not Defined",
+                                "hasExpanderArrow": false,
+                                "href": "#201.4",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "reference": "201.4"
+                            }
+                        ],
+                        "depth": 1,
+                        "displayTitle": "201 General",
+                        "hasExpanderArrow": true,
+                        "href": "#201",
+                        "isCodeDivider": false,
+                        "isCodeDividerClickable": false,
+                        "reference": "201"
+                    },
+                    {
+                        "amendType": null,
+                        "children": [],
+                        "depth": 1,
+                        "displayTitle": "202 General Definitions",
+                        "hasExpanderArrow": false,
+                        "href": "#202",
+                        "isCodeDivider": false,
+                        "isCodeDividerClickable": false,
+                        "reference": "202"
+                    }
+                ],
+                "title": "Chapter 2 Definitions: 2023 FBC - Existing Building, 8<sup>th</sup> edition | UpCodes",
+                "leanChapterLines": [
+                    {
+                        "displayTitle": "Chapter 1 Scope and Administration",
+                        "isExpandable": true,
+                        "reference": "1",
+                        "slug": "scope-and-administration"
+                    },
+                    {
+                        "displayTitle": "Chapter 2 Definitions",
+                        "isExpandable": true,
+                        "reference": "2",
+                        "slug": "definitions"
+                    },
+                    {
+                        "displayTitle": "Chapter 3 Provisions for All Compliance Methods",
+                        "isExpandable": true,
+                        "reference": "3",
+                        "slug": "provisions-for-all-compliance-methods"
+                    },
+                    {
+                        "displayTitle": "Chapter 4 Repairs",
+                        "isExpandable": true,
+                        "reference": "4",
+                        "slug": "repairs"
+                    },
+                    {
+                        "displayTitle": "Chapter 5 Prescriptive Compliance Method",
+                        "isExpandable": true,
+                        "reference": "5",
+                        "slug": "prescriptive-compliance-method"
+                    },
+                    {
+                        "displayTitle": "Chapter 6 Classification of Work",
+                        "isExpandable": true,
+                        "reference": "6",
+                        "slug": "classification-of-work"
+                    },
+                    {
+                        "displayTitle": "Chapter 7 Alterations\u2014Level 1",
+                        "isExpandable": true,
+                        "reference": "7",
+                        "slug": "alterations-level-1"
+                    },
+                    {
+                        "displayTitle": "Chapter 8 Alterations\u2014Level 2",
+                        "isExpandable": true,
+                        "reference": "8",
+                        "slug": "alterations-level-2"
+                    },
+                    {
+                        "displayTitle": "Chapter 9 Alterations\u2014Level 3",
+                        "isExpandable": true,
+                        "reference": "9",
+                        "slug": "alterations-level-3"
+                    },
+                    {
+                        "displayTitle": "Chapter 10 Change of Occupancy",
+                        "isExpandable": true,
+                        "reference": "10",
+                        "slug": "change-of-occupancy"
+                    },
+                    {
+                        "displayTitle": "Chapter 11 Additions",
+                        "isExpandable": true,
+                        "reference": "11",
+                        "slug": "additions"
+                    },
+                    {
+                        "displayTitle": "Chapter 12 Historic Buildings",
+                        "isExpandable": true,
+                        "reference": "12",
+                        "slug": "historic-buildings"
+                    },
+                    {
+                        "displayTitle": "Chapter 13 Relocated or Moved Buildings",
+                        "isExpandable": true,
+                        "reference": "13",
+                        "slug": "relocated-or-moved-buildings"
+                    },
+                    {
+                        "displayTitle": "Chapter 14 Performance Compliance Methods",
+                        "isExpandable": true,
+                        "reference": "14",
+                        "slug": "performance-compliance-methods"
+                    },
+                    {
+                        "displayTitle": "Chapter 15 Construction Safeguards",
+                        "isExpandable": true,
+                        "reference": "15",
+                        "slug": "construction-safeguards"
+                    },
+                    {
+                        "displayTitle": "Chapter 16 Referenced Standards",
+                        "reference": "16",
+                        "slug": "referenced-standards"
+                    },
+                    {
+                        "displayTitle": "Chapter 17 Retrofitting",
+                        "isExpandable": true,
+                        "reference": "17",
+                        "slug": "retrofitting"
+                    },
+                    {
+                        "displayTitle": "Chapter 18 Minimum Requirements for the Mandatory Milestone Inspections",
+                        "isExpandable": true,
+                        "reference": "18",
+                        "slug": "minimum-requirements-for-the-mandatory-milestone-inspections"
+                    },
+                    {
+                        "displayTitle": "Appendix A Guidelines for the Seismic Retrofit of Existing Buildings",
+                        "reference": "A",
+                        "slug": "guidelines-for-the-seismic-retrofit-of-existing-buildings"
+                    },
+                    {
+                        "displayTitle": "Appendix B Standard for Rehabilitation",
+                        "reference": "B",
+                        "slug": "standard-for-rehabilitation"
+                    },
+                    {
+                        "displayTitle": "Appendix C Refer to NFPA 914 Code for Fire Protection of Historic Structures 2001 Edition",
+                        "isExpandable": true,
+                        "reference": "C",
+                        "slug": "refer-to-nfpa-914-code-for-fire-protection-of-historic-structures-2001-edition"
+                    },
+                    {
+                        "displayTitle": "Resource A Guidelines on Fire Rating of Archaic Materials and Assemblies",
+                        "reference": "resource_A",
+                        "slug": "guidelines-on-fire-rating-of-archaic-materials-and-assemblies"
+                    }
+                ],
+                "leanCodeSectionsTree": [
+                    {
+                        "ancestorRefs": [],
+                        "depth": 0,
+                        "diagrams": [],
+                        "displayRef": null,
+                        "displayTitle": "Chapter 2 Definitions",
+                        "divisionType": "Chapter",
+                        "hasAssemblies": false,
+                        "isContiguous": true,
+                        "numAssembliesOnRef": 0,
+                        "numBuildingProductsOnRef": 0,
+                        "numDiagramsOnRef": 0,
+                        "reference": "2",
+                        "slug": "definitions",
+                        "titleText": "Definitions",
+                        "children": [
+                            {
+                                "ancestorRefs": [
+                                    "2"
+                                ],
+                                "depth": 1,
+                                "diagrams": [],
+                                "displayRef": null,
+                                "displayTitle": "Section 201 General",
+                                "divisionType": "Section",
+                                "hasAssemblies": false,
+                                "isContiguous": true,
+                                "numAssembliesOnRef": 0,
+                                "numBuildingProductsOnRef": 0,
+                                "numDiagramsOnRef": 0,
+                                "reference": "201",
+                                "slug": "definitions",
+                                "titleText": "General",
+                                "children": [
+                                    {
+                                        "ancestorRefs": [
+                                            "2",
+                                            "201"
+                                        ],
+                                        "body": "Unless otherwise expressly stated, the following words and terms shall, for the <a class=\"autolink\" href=\"/viewer/florida/fl-existing-building-code-2023/chapter/17/retrofitting#1701.1\">purposes</a> of this code, have the meanings shown in this chapter.",
+                                        "depth": 2,
+                                        "diagrams": [],
+                                        "displayRef": null,
+                                        "displayTitle": "201.1 Scope",
+                                        "hasAssemblies": false,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 0,
+                                        "numDiagramsOnRef": 0,
+                                        "reference": "201.1",
+                                        "slug": "definitions",
+                                        "titleText": "Scope",
+                                        "children": []
+                                    },
+                                    {
+                                        "ancestorRefs": [
+                                            "2",
+                                            "201"
+                                        ],
+                                        "body": "Words used in the present tense include the future; words stated in the masculine gender include the feminine and neuter; the singular number includes the plural and the plural, the singular.",
+                                        "depth": 2,
+                                        "diagrams": [],
+                                        "displayRef": null,
+                                        "displayTitle": "201.2 Interchangeability",
+                                        "hasAssemblies": false,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 0,
+                                        "numDiagramsOnRef": 0,
+                                        "reference": "201.2",
+                                        "slug": "definitions",
+                                        "titleText": "Interchangeability",
+                                        "children": []
+                                    },
+                                    {
+                                        "ancestorRefs": [
+                                            "2",
+                                            "201"
+                                        ],
+                                        "body": "Where terms are not defined in this code and are defined in the other <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/florida/fl-building-code-2023\">Florida Building Code</a>s</span>, such terms shall have the meanings ascribed to them in those codes.",
+                                        "depth": 2,
+                                        "diagrams": [],
+                                        "displayRef": null,
+                                        "displayTitle": "201.3 Terms Defined in Other Codes",
+                                        "hasAssemblies": false,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 0,
+                                        "numDiagramsOnRef": 0,
+                                        "reference": "201.3",
+                                        "slug": "definitions",
+                                        "titleText": "Terms Defined in Other Codes",
+                                        "children": []
+                                    },
+                                    {
+                                        "ancestorRefs": [
+                                            "2",
+                                            "201"
+                                        ],
+                                        "body": "Where terms are not defined through the methods authorized by this chapter, such terms shall have ordinarily accepted meanings such as the context implies.",
+                                        "depth": 2,
+                                        "diagrams": [],
+                                        "displayRef": null,
+                                        "displayTitle": "201.4 Terms Not Defined",
+                                        "hasAssemblies": false,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 0,
+                                        "numDiagramsOnRef": 0,
+                                        "reference": "201.4",
+                                        "slug": "definitions",
+                                        "titleText": "Terms Not Defined",
+                                        "children": []
+                                    }
+                                ]
+                            },
+                            {
+                                "ancestorRefs": [
+                                    "2"
+                                ],
+                                "body": "<div class=\"u-mb-3 u-mt-3\"><strong><span class=\"u-font-bold\">[A] </span></strong><span class=\"u-font-bold\"><a id=\"addition\" href=\"#addition\" class=\"autolink_target\">ADDITION</a>. </span>An extension or increase in floor area, number of stories, or height of a building or structure.</div>\n<div class=\"u-mb-3 u-mt-3\"><strong><span class=\"u-font-bold\">[A] </span></strong><span class=\"u-font-bold\"><a id=\"alteration\" href=\"#alteration\" class=\"autolink_target\">ALTERATION</a>. </span>Any construction or renovation to an existing structure other than a <span class=\"u-italic\"><a class=\"autolink\" href=\"#repair\">repair</a></span> or <span class=\"u-italic\"><a class=\"autolink\" href=\"#addition\">addition</a></span>. <a class=\"autolink\" href=\"#alteration\">Alterations</a> are classified as Level 1, Level 2 and Level 3.</div>\n<div class=\"u-mb-3 u-mt-3\"><strong><span class=\"u-font-bold\">[A] </span></strong><span class=\"u-font-bold\"><a id=\"approved\" href=\"#approved\" class=\"autolink_target\">APPROVED</a>. </span>Acceptable to the <span class=\"u-italic\"><a class=\"autolink\" href=\"#code_official\">code official</a></span> or authority having jurisdiction.</div>\n<div>\n<div class=\"u-mb-3 u-mt-3\"><strong><span class=\"u-font-bold\">[A] </span></strong><span class=\"u-font-bold\"><a id=\"change_of_occupancy\" href=\"#change_of_occupancy\" class=\"autolink_target\">CHANGE OF OCCUPANCY</a>. </span>Any of the following shall be considered as a <a class=\"autolink\" href=\"#change_of_occupancy\">change of occupancy</a> where the current <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/florida/fl-building-code-2023\">Florida Building Code</a>, Building</span> requires a greater degree of <a class=\"autolink\" href=\"/viewer/florida/fl-existing-building-code-2023/chapter/10/change-of-occupancy#1012.1.4\">accessibility</a>, structural strength, fire protection, means of egress, safety, ventilation or sanitation than is existing in the current building or structure:</div>\n<div>\n<ol>\n<li>Any change in the occupancy classification of a building or structure.</li>\n<li>Any change in the <a class=\"autolink\" href=\"/viewer/florida/fl-existing-building-code-2023/chapter/17/retrofitting#1701.1\">purpose</a> of, or a change in the level of activity within, a building or structure.</li>\n<li>A <a class=\"autolink\" href=\"#change_of_use\">change of use</a>.</li>\n</ol>\n</div>\n</div>\n<div class=\"u-mb-3 u-mt-3\"><strong><span class=\"u-font-bold\">[A] </span></strong><span class=\"u-font-bold\"><a id=\"change_of_use\" href=\"#change_of_use\" class=\"autolink_target\">CHANGE OF USE</a>. </span>A change in the use of a building or a portion of a building, within the same group classification, for which there is a change in <a class=\"autolink\" href=\"/viewer/florida/fl-existing-building-code-2023/chapter/4/repairs#401.2\">application</a> of the code requirements.</div>\n<div class=\"u-mb-3 u-mt-3\"><strong><span class=\"u-font-bold\">[A] </span></strong><span class=\"u-font-bold\"><a id=\"code_official\" href=\"#code_official\" class=\"autolink_target\">CODE OFFICIAL</a>. </span>The officer or other designated authority charged with the administration and enforcement of this code.</div>\n<div>\n<div class=\"u-mb-3 u-mt-3\"><strong><span class=\"u-font-bold\">[BS] </span></strong><span class=\"u-font-bold\"><a id=\"dangerous\" href=\"#dangerous\" class=\"autolink_target\">DANGEROUS</a>. </span>Any building, structure or portion thereof that meets any of the conditions described below shall be deemed <a class=\"autolink\" href=\"#dangerous\">dangerous</a>:</div>\n<div>\n<ol>\n<li>The building or structure has collapsed, has partially collapsed, has moved off its foundation, or lacks the necessary support of the ground.</li>\n<li>There exists a significant risk of collapse, detachment or dislodgement of any portion, member, appurtenance or ornamentation of the building or structure under permanent, routine or frequent loads; under actual loads already in effect; or under wind, rain, flood or other environmental loads when such loads are imminent.</li>\n</ol>\n</div>\n</div>\n<div class=\"u-mb-3 u-mt-3\"><strong><span class=\"u-font-bold\">[A] </span></strong><span class=\"u-font-bold\"><a id=\"deferred_submittal\" href=\"#deferred_submittal\" class=\"autolink_target\">DEFERRED SUBMITTAL</a>. </span>Those portions of the design that are not submitted at the time of the <a class=\"autolink\" href=\"/viewer/florida/fl-existing-building-code-2023/chapter/4/repairs#401.2\">application</a> and that are to be submitted to the <span class=\"u-italic\"><a class=\"autolink\" href=\"#code_official\">code official</a></span> within a specified period.</div>\n<div class=\"u-mb-3 u-mt-3\"><span class=\"u-font-bold\"><a id=\"equipment_or_fixture\" href=\"#equipment_or_fixture\" class=\"autolink_target\">EQUIPMENT OR FIXTURE</a>. </span>Any plumbing, heating, electrical, ventilating, air conditioning, refrigerating, and fire protection equipment, and <a class=\"autolink\" href=\"/viewer/florida/fl-existing-building-code-2023/chapter/7/alterations-level-1#705.1.2\">elevators</a>, dumb waiters, escalators, boilers, pressure vessels and other mechanical <a class=\"autolink\" href=\"#facility\">facilities</a> or installations that are related to building services. <a class=\"autolink\" href=\"#equipment_or_fixture\">Equipment or fixture</a> shall not include manufacturing, production, or process equipment, but shall include connections from building service to process equipment.</div>\n<div class=\"u-mb-3 u-mt-3\"><strong><span class=\"u-font-bold\">[A] </span></strong><span class=\"u-font-bold\"><a id=\"existing_building\" href=\"#existing_building\" class=\"autolink_target\">EXISTING BUILDING</a>. </span>A building erected prior to the date of adoption of the appropriate code, or one for which a legal building permit has been issued.</div>\n<div class=\"u-mb-3 u-mt-3\"><span class=\"u-font-bold\"><a id=\"existing_structures\" href=\"#existing_structures\" class=\"autolink_target\">EXISTING STRUCTURES</a>. </span>A structure erected prior to the date of adoption of the appropriate code, or one for which a legal building permit has been issued.</div>\n<div class=\"u-mb-3 u-mt-3\"><strong><span class=\"u-font-bold\">[BF] </span></strong><span class=\"u-font-bold\"><a id=\"exterior_wall_covering\" href=\"#exterior_wall_covering\" class=\"autolink_target\">EXTERIOR WALL COVERING</a>. </span>A material or assembly of materials applied on the exterior side of exterior walls for the <a class=\"autolink\" href=\"/viewer/florida/fl-existing-building-code-2023/chapter/17/retrofitting#1701.1\">purpose</a> of providing a weather-resisting barrier, insulation or for aesthetics, including but not limited to, veneers, siding, exterior insulation and finish systems, architectural trim and embellishments such as cornices, soffits, facias, gutters and leaders.</div>\n<div class=\"u-mb-3 u-mt-3\"><strong><span class=\"u-font-bold\">[BF] </span></strong><span class=\"u-font-bold\"><a id=\"exterior_wall_envelope\" href=\"#exterior_wall_envelope\" class=\"autolink_target\">EXTERIOR WALL ENVELOPE</a>. </span>A system or assembly of exterior wall components, including exterior wall finish materials, that provides protection of the building structural members, including framing and sheathing materials, and conditioned interior space, from the detrimental effects of the exterior environment.</div>\n<div class=\"u-mb-3 u-mt-3\"><strong><span class=\"u-font-bold\">[A] </span></strong><span class=\"u-font-bold\"><a id=\"facility\" href=\"#facility\" class=\"autolink_target\">FACILITY</a>. </span>All or any portion of buildings, structures, site improvements, elements and pedestrian or vehicular routes located on a site.</div>\n<div>\n<div class=\"u-mb-3 u-mt-3\"><strong><span class=\"u-font-bold\">[BS] </span></strong><span class=\"u-font-bold\"><a id=\"flood_hazard_area\" href=\"#flood_hazard_area\" class=\"autolink_target\">FLOOD HAZARD AREA</a>. </span>The greater of the following two areas:</div>\n<div>\n<ol>\n<li>The area within a flood plain subject to a 1-percent or greater chance of flooding in any year.</li>\n<li>The area designated as a <span class=\"u-italic\"><a class=\"autolink\" href=\"#flood_hazard_area\">flood hazard area</a> </span>on a community's flood hazard map, or otherwise legally designated.</li>\n</ol>\n</div>\n</div>\n<div class=\"u-mb-3 u-mt-3\"><strong><span class=\"u-font-bold\">[A] </span></strong><span class=\"u-font-bold\"><a class=\"autolink\" href=\"/viewer/florida/fl-existing-building-code-2023/chapter/12/historic-buildings#historic_building\">HISTORIC BUILDING</a>. </span>See <a class=\"autolink\" href=\"/viewer/florida/fl-existing-building-code-2023/chapter/12/historic-buildings#1202\">Section 1202</a>.</div>\n<div class=\"u-mb-3 u-mt-3\"><span class=\"u-font-bold\"><a id=\"load-bearing_element\" href=\"#load-bearing_element\" class=\"autolink_target\">LOAD-BEARING ELEMENT</a>. </span>Any column, girder, beam, joist, truss, rafter, wall, floor or roof sheathing that supports any vertical load in addition to its own weight or any lateral load.</div>\n<div class=\"u-mb-3 u-mt-3\"><span class=\"u-font-bold\"><a id=\"lowest_floor\" href=\"#lowest_floor\" class=\"autolink_target\">LOWEST FLOOR</a>. </span>The <a class=\"autolink\" href=\"#lowest_floor\">lowest floor</a> of the lowest enclosed area, including basement, but excluding any unfinished or flood-resistant enclosure, usable solely for vehicle parking, building access or limited storage, provided that such enclosure is not built so as to render the structure in violation of <a class=\"autolink\" href=\"/viewer/florida/fl-building-code-2023/chapter/16/structural-design#1612\">Section 1612</a> of the <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/florida/fl-building-code-2023\">Florida Building Code</a>, Building</span> or Section R322 of the <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/florida/fl-building-code-2023\">Florida Building Code</a>, Residential</span>, as applicable.</div>\n<div class=\"u-mb-3 u-mt-3\"><span class=\"u-font-bold\"><a id=\"major_structural_component\" href=\"#major_structural_component\" class=\"autolink_target\">MAJOR STRUCTURAL COMPONENT</a>. </span>Means a building's <a class=\"autolink\" href=\"#load-bearing_element\">load-bearing elements</a>, <a class=\"autolink\" href=\"#primary_structural_member\">primary structural members</a>, and <a class=\"autolink\" href=\"#primary_structural_system\">primary structural systems</a>.</div>\n<div class=\"u-mb-3 u-mt-3\"><span class=\"u-font-bold\"><a id=\"milestone_inspection\" href=\"#milestone_inspection\" class=\"autolink_target\">MILESTONE INSPECTION</a>.</span> Means a structural inspection of a building, including an inspection of <a class=\"autolink\" href=\"#load-bearing_element\">load-bearing elements</a> and the <a class=\"autolink\" href=\"#primary_structural_member\">primary structural members</a> and <a class=\"autolink\" href=\"#primary_structural_system\">primary structural systems</a> as those terms are defined in <i>s. 627.706, Florida Statutes</i>, by an architect licensed under <i>Chapter 481, Florida Statutes</i> or engineer licensed under <i>Chapter 471, Florida Statutes</i>, authorized to practice in this state for the <a class=\"autolink\" href=\"/viewer/florida/fl-existing-building-code-2023/chapter/17/retrofitting#1701.1\">purposes</a> of attesting to the life safety and adequacy of the structural components of the building and, to the extent reasonably possible, determining the general structural condition of the building as it affects the safety of such building, including a determination of any necessary maintenance, <a class=\"autolink\" href=\"#repair\">repair</a>, or replacement of any structural component of the building. The <a class=\"autolink\" href=\"/viewer/florida/fl-existing-building-code-2023/chapter/17/retrofitting#1701.1\">purpose</a> of such inspection is not to determine if the condition of an <a class=\"autolink\" href=\"#existing_building\">existing building</a> is in <a class=\"autolink\" href=\"/viewer/florida/fl-existing-building-code-2023/chapter/9/alterations-level-3#901.2\">compliance</a> with the <a class=\"autolink\" href=\"/viewer/florida/fl-building-code-2023\">Florida Building Code</a> or the firesafety code. The <a class=\"autolink\" href=\"#milestone_inspection\">milestone inspection</a> services may be provided by a team of professionals with an architect or engineer acting as a <a class=\"autolink\" href=\"#registered_design_professional_in_responsible_charge\">registered design professional in responsible charge</a> with all work and reports signed and sealed by the appropriate qualified team member.</div>\n<div class=\"u-mb-3 u-mt-3\"><span class=\"u-font-bold\"><a id=\"noncombustible_material\" href=\"#noncombustible_material\" class=\"autolink_target\">NONCOMBUSTIBLE MATERIAL</a>. </span>A material that, under the conditions anticipated, will not ignite or burn when subjected to fire or heat. Materials that pass ASTM E136 are considered <a class=\"autolink\" href=\"#noncombustible_material\">noncombustible materials</a>.</div>\n<div class=\"u-mb-3 u-mt-3\"><span class=\"u-font-bold\"><a id=\"positive_roof_drainage\" href=\"#positive_roof_drainage\" class=\"autolink_target\">POSITIVE ROOF DRAINAGE</a>. </span>The drainage condition in which consideration has been made for all loading deflections of the roof deck, and sufficient slope has been provided to ensure drainage of the roof within 48 hours of precipitation.</div>\n<div class=\"u-mb-3 u-mt-3\"><span class=\"u-font-bold\"><a id=\"primary_function\" href=\"#primary_function\" class=\"autolink_target\">PRIMARY FUNCTION</a>. </span>A <span class=\"u-italic\"><a class=\"autolink\" href=\"#primary_function\">primary function</a></span> is a major activity for which the <a class=\"autolink\" href=\"#facility\">facility</a> is intended. Areas that contain a <span class=\"u-italic\"><a class=\"autolink\" href=\"#primary_function\">primary function</a></span> include, but are not limited to, the customer services lobby of a bank, the dining area of a cafeteria, the meeting rooms in a conference center, as well as offices and <a class=\"autolink\" href=\"/viewer/florida/fl-existing-building-code-2023/chapter/11/additions#1101.3\">other work</a> areas in which the activities of the public accommodation or other private entity using the <a class=\"autolink\" href=\"#facility\">facility</a> are carried out. Mechanical rooms, boiler rooms, supply storage rooms, employee lounges or locker rooms, janitorial closets, <a class=\"autolink\" href=\"/viewer/florida/fl-existing-building-code-2023/chapter/7/alterations-level-1#705.1.1\">entrances</a>, corridors and restrooms are not areas containing a <span class=\"u-italic\"><a class=\"autolink\" href=\"#primary_function\">primary function</a></span>.</div>\n<div class=\"u-mb-3 u-mt-3\"><span class=\"u-font-bold\"><a id=\"primary_structural_member\" href=\"#primary_structural_member\" class=\"autolink_target\">PRIMARY STRUCTURAL MEMBER</a>. </span>Means a structural element designed to provide support and stability for the vertical or lateral loads of the overall structure.</div>\n<div class=\"u-mb-3 u-mt-3\"><span class=\"u-font-bold\"><a id=\"primary_structural_system\" href=\"#primary_structural_system\" class=\"autolink_target\">PRIMARY STRUCTURAL SYSTEM</a>. </span>Means an assemblage of <a class=\"autolink\" href=\"#primary_structural_member\">primary structural members</a>.</div>\n<div class=\"u-mb-3 u-mt-3\"><strong><span class=\"u-font-bold\">[A] </span></strong><span class=\"u-font-bold\"><a id=\"registered_design_professional_in_responsible_charge\" href=\"#registered_design_professional_in_responsible_charge\" class=\"autolink_target\">REGISTERED DESIGN PROFESSIONAL IN RESPONSIBLE CHARGE</a>. </span>A registered design professional engaged by the owner to review and coordinate certain aspects of the project, as determined by the <span class=\"u-italic\"><a class=\"autolink\" href=\"#code_official\">code official</a></span>, for compatibility with the design of the building or structure, including submittal documents prepared by others, <a class=\"autolink\" href=\"#deferred_submittal\">deferred submittal</a> documents and phased submittal documents.</div>\n<div class=\"u-mb-3 u-mt-3\"><span class=\"u-font-bold\"><a id=\"rehabilitation\" href=\"#rehabilitation\" class=\"autolink_target\">REHABILITATION</a>. </span>Any work, as described by the categories of work defined herein, undertaken in an <span class=\"u-italic\"><a class=\"autolink\" href=\"#existing_building\">existing building</a>.</span></div>\n<div class=\"u-mb-3 u-mt-3\"><span class=\"u-font-bold\"><a id=\"relocatable_building\" href=\"#relocatable_building\" class=\"autolink_target\">RELOCATABLE BUILDING</a>. </span>A partially or completely assembled building constructed and designed to be reused multiple times and transported to different building sites.</div>\n<div class=\"u-mb-3 u-mt-3\"><strong><span class=\"u-font-bold\">[A] </span></strong><span class=\"u-font-bold\"><a id=\"repair\" href=\"#repair\" class=\"autolink_target\">REPAIR</a>. </span>The reconstruction or renewal of any part of an <span class=\"u-italic\"><a class=\"autolink\" href=\"#existing_building\">existing building</a></span> for the <a class=\"autolink\" href=\"/viewer/florida/fl-existing-building-code-2023/chapter/17/retrofitting#1701.1\">purpose</a> of its maintenance or to correct damage.</div>\n<div class=\"u-mb-3 u-mt-3\"><strong><span class=\"u-font-bold\">[BS] </span></strong><span class=\"u-font-bold\"><a id=\"reroofing\" href=\"#reroofing\" class=\"autolink_target\">REROOFING</a>. </span>The process of recovering or replacing an existing roof covering. See \"<a class=\"autolink\" href=\"#roof_recover\">Roof recover</a>\" and \"<a class=\"autolink\" href=\"#roof_replacement\">Roof replacement</a>.\"</div>\n<div class=\"u-mb-3 u-mt-3\"><span class=\"u-font-bold\"><a id=\"retrofit\" href=\"#retrofit\" class=\"autolink_target\">RETROFIT</a>. </span>The voluntary process of strengthening or improving buildings or structures, or individual components of buildings or structures, for the <a class=\"autolink\" href=\"/viewer/florida/fl-existing-building-code-2023/chapter/17/retrofitting#1701.1\">purpose</a> of making existing conditions better serve the <a class=\"autolink\" href=\"/viewer/florida/fl-existing-building-code-2023/chapter/17/retrofitting#1701.1\">purpose</a> for which they were originally intended or the <a class=\"autolink\" href=\"/viewer/florida/fl-existing-building-code-2023/chapter/17/retrofitting#1701.1\">purpose</a> that current <a class=\"autolink\" href=\"/viewer/florida/fl-building-code-2023\">building code</a>s intend.</div>\n<div class=\"u-mb-3 u-mt-3\"><strong><span class=\"u-font-bold\">[BS] </span></strong><span class=\"u-font-bold\"><a id=\"roof_recover\" href=\"#roof_recover\" class=\"autolink_target\">ROOF RECOVER</a>. </span>The process of installing an additional roof covering over a prepared existing roof covering without removing the existing roof covering.</div>\n<div class=\"u-mb-3 u-mt-3\"><strong><span class=\"u-font-bold\">[BS] </span></strong><span class=\"u-font-bold\"><a id=\"roof_repair\" href=\"#roof_repair\" class=\"autolink_target\">ROOF REPAIR</a>. </span>Reconstruction or renewal of any part of an existing roof for the <a class=\"autolink\" href=\"/viewer/florida/fl-existing-building-code-2023/chapter/17/retrofitting#1701.1\">purposes</a> of its maintenance.</div>\n<div class=\"u-mb-3 u-mt-3\"><strong><span class=\"u-font-bold\">[BS] </span></strong><span class=\"u-font-bold\"><a id=\"roof_replacement\" href=\"#roof_replacement\" class=\"autolink_target\">ROOF REPLACEMENT</a>. </span>The process of removing the existing roof covering, repairing any damaged substrate and installing a new roof covering.</div>\n<div class=\"u-mb-3 u-mt-3\"><span class=\"u-font-bold\"><a id=\"roof_section\" href=\"#roof_section\" class=\"autolink_target\">ROOF SECTION</a>. </span>A separating or division of a roof area by existing expansion joints, parapet walls, flashing (excluding valley), difference of elevation (excluding hips and ridges), roof type or legal description; not including the roof area required for a proper tie-off with an existing system.</div>\n<div class=\"u-mb-3 u-mt-3\"><span class=\"u-font-bold\"><a id=\"site-built_single-family_residential_structures\" href=\"#site-built_single-family_residential_structures\" class=\"autolink_target\">SITE-BUILT SINGLE-FAMILY RESIDENTIAL STRUCTURES</a>. </span>This term shall mean site-built single-family detached residential structures.</div>\n<div class=\"u-mb-3 u-mt-3\"><strong><span class=\"u-font-bold\">[BS] </span></strong><span class=\"u-font-bold\"><a id=\"substantial_damage\" href=\"#substantial_damage\" class=\"autolink_target\">SUBSTANTIAL DAMAGE</a>. </span>For the <a class=\"autolink\" href=\"/viewer/florida/fl-existing-building-code-2023/chapter/17/retrofitting#1701.1\">purpose</a> of determining <a class=\"autolink\" href=\"/viewer/florida/fl-existing-building-code-2023/chapter/9/alterations-level-3#901.2\">compliance</a> with the flood provisions of this code, damage of any origin sustained by a structure whereby the cost of restoring the structure to its before-damaged condition would equal or exceed 50 percent of the market value of the structure before the damage occurred.</div>\n<div>\n<div class=\"u-mb-3 u-mt-3\"><strong><span class=\"u-font-bold\">[BS] </span></strong><span class=\"u-font-bold\"><a id=\"substantial_improvement\" href=\"#substantial_improvement\" class=\"autolink_target\">SUBSTANTIAL IMPROVEMENT</a>. </span>For the <a class=\"autolink\" href=\"/viewer/florida/fl-existing-building-code-2023/chapter/17/retrofitting#1701.1\">purpose</a> of determining <a class=\"autolink\" href=\"/viewer/florida/fl-existing-building-code-2023/chapter/9/alterations-level-3#901.2\">compliance</a> with the flood provisions of this code, any <span class=\"u-italic\"><a class=\"autolink\" href=\"#repair\">repair</a></span>, <span class=\"u-italic\"><a class=\"autolink\" href=\"#alteration\">alteration</a></span>, <span class=\"u-italic\"><a class=\"autolink\" href=\"#addition\">addition</a></span>, or improvement of a building or structure, the cost of which equals or exceeds 50 percent of the market value of the structure, before the improvement or <span class=\"u-italic\"><a class=\"autolink\" href=\"#repair\">repair</a></span> is started. If the structure has sustained <span class=\"u-italic\"><a class=\"autolink\" href=\"#substantial_damage\">substantial damage</a></span>, any <a class=\"autolink\" href=\"#repair\">repairs</a> are considered <span class=\"u-italic\"><a class=\"autolink\" href=\"#substantial_improvement\">substantial improvement</a></span> regardless of the actual <span class=\"u-italic\"><a class=\"autolink\" href=\"#repair\">repair</a></span> work performed. The term does not, however, include either:</div>\n<div>\n<ol>\n<li>Any project for improvement of a building required to correct existing health, sanitary, or safety code violations identified by the <span class=\"u-italic\"><a class=\"autolink\" href=\"#code_official\">code official</a></span> and that is the minimum necessary to ensure safe living conditions; or</li>\n<li>Any <span class=\"u-italic\"><a class=\"autolink\" href=\"#alteration\">alteration</a></span> of a <a class=\"autolink\" href=\"/viewer/florida/fl-existing-building-code-2023/chapter/12/historic-buildings#historic_structure\">historic structure</a>, provided that the <span class=\"u-italic\"><a class=\"autolink\" href=\"#alteration\">alteration</a></span> will not preclude the structure's continued designation as a <a class=\"autolink\" href=\"/viewer/florida/fl-existing-building-code-2023/chapter/12/historic-buildings#historic_structure\">historic structure</a>.</li>\n</ol>\n</div>\n</div>\n<div class=\"u-mb-3 u-mt-3\"><span class=\"u-font-bold\"><a id=\"substantial_structural_alteration\" href=\"#substantial_structural_alteration\" class=\"autolink_target\">SUBSTANTIAL STRUCTURAL ALTERATION</a>. </span>An <a class=\"autolink\" href=\"#alteration\">alteration</a> in which the gravity load-carrying structural elements altered within a 5-year period support more than 30 percent of the total floor and roof area of the building or structure. The areas to be counted toward the 30 percent shall include mezzanines, penthouses and in-filled courts and shafts tributary to the altered structural elements.</div>\n<div>\n<div class=\"u-mb-3 u-mt-3\"><strong><span class=\"u-font-bold\">[BS] </span></strong><span class=\"u-font-bold\"><a id=\"substantial_structural_damage\" href=\"#substantial_structural_damage\" class=\"autolink_target\">SUBSTANTIAL STRUCTURAL DAMAGE</a>.</span> A condition where one or both of the following apply:</div>\n<div>\n<ol>\n<li>The vertical elements of the lateral force-resisting system have suffered damage such that the lateral load-carrying capacity of any story in any horizontal direction has been reduced by more than 33 percent from its predamage condition.</li>\n<li>The capacity of any vertical component carrying gravity load, or any group of such components, that supports more than 30 percent of the total area of the structure's floor(s) and roof(s) has been reduced more than 20 percent from its predamage condition and the remaining capacity of such affected elements, with respect to all dead and live loads, is less than 75 percent of that required by the <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/florida/fl-building-code-2023\">Florida Building Code</a>, Building</span> for new buildings of similar structure, <a class=\"autolink\" href=\"/viewer/florida/fl-existing-building-code-2023/chapter/17/retrofitting#1701.1\">purpose</a> and location.</li>\n</ol>\n</div>\n</div>\n<div class=\"u-mb-3 u-mt-3\"><span class=\"u-font-bold\"><a id=\"substantial_structural_deterioration\" href=\"#substantial_structural_deterioration\" class=\"autolink_target\">SUBSTANTIAL STRUCTURAL DETERIORATION</a>. </span>Means a condition that negatively affects a building's structural condition and integrity or a <a class=\"autolink\" href=\"#major_structural_component\">major structural component</a> whose condition meets the definition of <a class=\"autolink\" href=\"#dangerous\">Dangerous</a>. The term does not include surface imperfections such as cracks, distortion, sagging, deflections, misalignment, signs of leakage, or peeling of finishes unless the licensed engineer or architect performing the phase one or phase two inspection determines that such surface imperfections are a sign of <a class=\"autolink\" href=\"#substantial_structural_deterioration\">substantial structural deterioration</a>.</div>\n<div class=\"u-mb-3 u-mt-3\"><span class=\"u-font-bold\"><a id=\"technically_infeasible\" href=\"#technically_infeasible\" class=\"autolink_target\">TECHNICALLY INFEASIBLE</a>. </span>An <span class=\"u-italic\"><a class=\"autolink\" href=\"#alteration\">alteration</a></span> of a <a class=\"autolink\" href=\"#facility\">facility</a> that has little likelihood of being accomplished because the existing structural conditions require the removal or <span class=\"u-italic\"><a class=\"autolink\" href=\"#alteration\">alteration</a></span> of a load-bearing member that is an essential part of the structural frame, or because other existing physical or site constraints prohibit modification or <a class=\"autolink\" href=\"#addition\">addition</a> of elements, spaces or features which are in full and strict <a class=\"autolink\" href=\"/viewer/florida/fl-existing-building-code-2023/chapter/9/alterations-level-3#901.2\">compliance</a> with the minimum requirements for new construction and which are necessary to provide <a class=\"autolink\" href=\"/viewer/florida/fl-existing-building-code-2023/chapter/10/change-of-occupancy#1012.1.4\">accessibility</a>.</div>\n<div class=\"u-mb-3 u-mt-3\"><span class=\"u-font-bold\"><a id=\"unsafe\" href=\"#unsafe\" class=\"autolink_target\">UNSAFE</a>. </span>Buildings, structures or equipment that are unsanitary, or that are deficient due to inadequate means of egress <a class=\"autolink\" href=\"#facility\">facilities</a>, inadequate light and ventilation, or that constitute a fire hazard, or in which the structure or individual structural members meet the definition of \"<span class=\"u-italic\"><a class=\"autolink\" href=\"#dangerous\">Dangerous</a></span>,\" or that are otherwise <a class=\"autolink\" href=\"#dangerous\">dangerous</a> to human life or the public welfare, or that involve illegal or improper occupancy or inadequate maintenance shall be deemed <a class=\"autolink\" href=\"#unsafe\">unsafe</a>. A vacant structure that is not secured against entry shall be deemed <a class=\"autolink\" href=\"#unsafe\">unsafe</a>.</div>\n<div class=\"u-mb-3 u-mt-3\"><span class=\"u-font-bold\"><a id=\"work_area\" href=\"#work_area\" class=\"autolink_target\">WORK AREA</a>. </span>That portion or portions of a building consisting of all reconfigured spaces as indicated on the construction documents. <a class=\"autolink\" href=\"#work_area\">Work area</a> excludes other portions of the building where incidental work entailed by the intended work must be performed and portions of the building where work not initially intended by the owner is specifically required by this code.</div>",
+                                "depth": 1,
+                                "diagrams": [],
+                                "displayRef": null,
+                                "displayTitle": "Section 202 General Definitions",
+                                "divisionType": "Section",
+                                "hasAssemblies": false,
+                                "isContiguous": true,
+                                "numAssembliesOnRef": 0,
+                                "numBuildingProductsOnRef": 0,
+                                "numDiagramsOnRef": 0,
+                                "reference": "202",
+                                "slug": "definitions",
+                                "titleText": "General Definitions",
+                                "children": []
+                            }
+                        ]
+                    }
+                ]
+            },
+            "chapterReference": "2"
+        },
+        "__N_SSP": true
+    },
+    "page": "/viewer/[urlFormPubOrJurisKey]/[urlFormPub]/chapter/[chapterRef]/[chapterName]",
+    "query": {
+        "urlFormPubOrJurisKey": "florida",
+        "urlFormPub": "fl-existing-building-code-2023",
+        "chapterRef": "2",
+        "chapterName": "definitions"
+    },
+    "buildId": "aNDb_KMgxj06vGZ7D_0_K",
+    "isFallback": false,
+    "isExperimentalCompile": false,
+    "dynamicIds": [
+        61621,
+        54065
+    ],
+    "gssp": true,
+    "scriptLoader": []
+}

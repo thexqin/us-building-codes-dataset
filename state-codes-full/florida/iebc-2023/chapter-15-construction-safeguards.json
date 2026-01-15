@@ -1,0 +1,1492 @@
+{
+    "props": {
+        "pageProps": {
+            "missingRequiredLogin": false,
+            "title": "Chapter 15 Construction Safeguards: 2023 FBC - Existing Building, 8<sup>th</sup> edition | UpCodes",
+            "leanChapterViewerData": {
+                "basePubName": "International Existing Building Code 2021 (IEBC 2021)",
+                "codeGroupingYear": "2023",
+                "codeName": "2023 FBC - Existing Building, 8<sup>th</sup> edition",
+                "codeUuid": "1e3c0ef0-fce3-4a1f-b3ee-6dc13d74cc1b",
+                "codeVersions": [
+                    {
+                        "codeUuid": "1e3c0ef0-fce3-4a1f-b3ee-6dc13d74cc1b",
+                        "name": "Original Adoption",
+                        "effectiveStartDate": "2023-12-31",
+                        "shortformUrlName": "fl-existing-building-code-2023",
+                        "activeStatus": "active"
+                    }
+                ],
+                "ingesterAmendmentsEnabled": false,
+                "ingesterCodeUnitsEnabled": false,
+                "isAmendStylingEnabled": false,
+                "isCorrespondable": true,
+                "jurisKey": "florida",
+                "jurisName": "Florida",
+                "metaInfoUrl": "/viewer/florida/fl-existing-building-code-2023",
+                "modelCodeUrl": null,
+                "placeholder": "Search 2023 FBC - Existing Building, 8th edition",
+                "pubKey": "florida_ebc_2023",
+                "pubPrefix": "int_ebc",
+                "shortformPubName": "fl-existing-building-code-2023",
+                "withAmendments": true,
+                "chapterRef": "15",
+                "publisher": "icc",
+                "hasLinkedResources": false,
+                "initialNonChapterTocLines": [
+                    {
+                        "amendType": null,
+                        "children": [
+                            {
+                                "amendType": null,
+                                "children": [],
+                                "depth": 2,
+                                "displayTitle": "1501.1 Scope",
+                                "hasExpanderArrow": false,
+                                "href": "#1501.1",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "reference": "1501.1"
+                            },
+                            {
+                                "amendType": null,
+                                "children": [],
+                                "depth": 2,
+                                "displayTitle": "1501.2 Storage and Placement",
+                                "hasExpanderArrow": false,
+                                "href": "#1501.2",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "reference": "1501.2"
+                            },
+                            {
+                                "amendType": null,
+                                "children": [],
+                                "depth": 2,
+                                "displayTitle": "1501.3 Alterations, Repairs, and Additions",
+                                "hasExpanderArrow": false,
+                                "href": "#1501.3",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "reference": "1501.3"
+                            },
+                            {
+                                "amendType": null,
+                                "children": [],
+                                "depth": 2,
+                                "displayTitle": "1501.4 Manner of Removal",
+                                "hasExpanderArrow": false,
+                                "href": "#1501.4",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "reference": "1501.4"
+                            },
+                            {
+                                "amendType": null,
+                                "children": [],
+                                "depth": 2,
+                                "displayTitle": "1501.5 Fire Safety During Construction",
+                                "hasExpanderArrow": false,
+                                "href": "#1501.5",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "reference": "1501.5"
+                            },
+                            {
+                                "amendType": null,
+                                "children": [
+                                    {
+                                        "amendType": null,
+                                        "children": [],
+                                        "depth": 3,
+                                        "displayTitle": "1501.6.1 Walkways",
+                                        "hasExpanderArrow": false,
+                                        "href": "#1501.6.1",
+                                        "isCodeDivider": false,
+                                        "isCodeDividerClickable": false,
+                                        "reference": "1501.6.1"
+                                    },
+                                    {
+                                        "amendType": null,
+                                        "children": [],
+                                        "depth": 3,
+                                        "displayTitle": "1501.6.2 Directional Barricades",
+                                        "hasExpanderArrow": false,
+                                        "href": "#1501.6.2",
+                                        "isCodeDivider": false,
+                                        "isCodeDividerClickable": false,
+                                        "reference": "1501.6.2"
+                                    },
+                                    {
+                                        "amendType": null,
+                                        "children": [],
+                                        "depth": 3,
+                                        "displayTitle": "1501.6.3 Construction Railings",
+                                        "hasExpanderArrow": false,
+                                        "href": "#1501.6.3",
+                                        "isCodeDivider": false,
+                                        "isCodeDividerClickable": false,
+                                        "reference": "1501.6.3"
+                                    },
+                                    {
+                                        "amendType": null,
+                                        "children": [
+                                            {
+                                                "amendType": null,
+                                                "children": [],
+                                                "depth": 4,
+                                                "displayTitle": "1501.6.4.1 Barrier Design",
+                                                "hasExpanderArrow": false,
+                                                "href": "#1501.6.4.1",
+                                                "isCodeDivider": false,
+                                                "isCodeDividerClickable": false,
+                                                "reference": "1501.6.4.1"
+                                            }
+                                        ],
+                                        "depth": 3,
+                                        "displayTitle": "1501.6.4 Barriers",
+                                        "hasExpanderArrow": true,
+                                        "href": "#1501.6.4",
+                                        "isCodeDivider": false,
+                                        "isCodeDividerClickable": false,
+                                        "reference": "1501.6.4"
+                                    },
+                                    {
+                                        "amendType": null,
+                                        "children": [],
+                                        "depth": 3,
+                                        "displayTitle": "1501.6.5 Covered Walkways",
+                                        "hasExpanderArrow": false,
+                                        "href": "#1501.6.5",
+                                        "isCodeDivider": false,
+                                        "isCodeDividerClickable": false,
+                                        "reference": "1501.6.5"
+                                    },
+                                    {
+                                        "amendType": null,
+                                        "children": [],
+                                        "depth": 3,
+                                        "displayTitle": "1501.6.6 Repair, Maintenance and Removal",
+                                        "hasExpanderArrow": false,
+                                        "href": "#1501.6.6",
+                                        "isCodeDivider": false,
+                                        "isCodeDividerClickable": false,
+                                        "reference": "1501.6.6"
+                                    },
+                                    {
+                                        "amendType": null,
+                                        "children": [],
+                                        "depth": 3,
+                                        "displayTitle": "1501.6.7 Adjacent to Excavations",
+                                        "hasExpanderArrow": false,
+                                        "href": "#1501.6.7",
+                                        "isCodeDivider": false,
+                                        "isCodeDividerClickable": false,
+                                        "reference": "1501.6.7"
+                                    }
+                                ],
+                                "depth": 2,
+                                "displayTitle": "1501.6 Protection of Pedestrians",
+                                "hasExpanderArrow": true,
+                                "href": "#1501.6",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "reference": "1501.6"
+                            },
+                            {
+                                "amendType": null,
+                                "children": [],
+                                "depth": 2,
+                                "displayTitle": "1501.7 Facilities Required",
+                                "hasExpanderArrow": false,
+                                "href": "#1501.7",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "reference": "1501.7"
+                            }
+                        ],
+                        "depth": 1,
+                        "displayTitle": "1501 General",
+                        "hasExpanderArrow": true,
+                        "href": "#1501",
+                        "isCodeDivider": false,
+                        "isCodeDividerClickable": false,
+                        "reference": "1501"
+                    },
+                    {
+                        "amendType": null,
+                        "children": [
+                            {
+                                "amendType": null,
+                                "children": [],
+                                "depth": 2,
+                                "displayTitle": "1502.1 Protection Required",
+                                "hasExpanderArrow": false,
+                                "href": "#1502.1",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "reference": "1502.1"
+                            }
+                        ],
+                        "depth": 1,
+                        "displayTitle": "1502 Protection of Adjoining Property",
+                        "hasExpanderArrow": true,
+                        "href": "#1502",
+                        "isCodeDivider": false,
+                        "isCodeDividerClickable": false,
+                        "reference": "1502"
+                    },
+                    {
+                        "amendType": null,
+                        "children": [
+                            {
+                                "amendType": null,
+                                "children": [],
+                                "depth": 2,
+                                "displayTitle": "1503.1 Storage and Handling of Materials",
+                                "hasExpanderArrow": false,
+                                "href": "#1503.1",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "reference": "1503.1"
+                            },
+                            {
+                                "amendType": null,
+                                "children": [],
+                                "depth": 2,
+                                "displayTitle": "1503.2 Obstructions",
+                                "hasExpanderArrow": false,
+                                "href": "#1503.2",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "reference": "1503.2"
+                            },
+                            {
+                                "amendType": null,
+                                "children": [],
+                                "depth": 2,
+                                "displayTitle": "1503.3 Utility Fixtures",
+                                "hasExpanderArrow": false,
+                                "href": "#1503.3",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "reference": "1503.3"
+                            }
+                        ],
+                        "depth": 1,
+                        "displayTitle": "1503 Temporary Use of Streets, Alleys and Public Property",
+                        "hasExpanderArrow": true,
+                        "href": "#1503",
+                        "isCodeDivider": false,
+                        "isCodeDividerClickable": false,
+                        "reference": "1503"
+                    },
+                    {
+                        "amendType": null,
+                        "children": [
+                            {
+                                "amendType": null,
+                                "children": [],
+                                "depth": 2,
+                                "displayTitle": "1504.1 Where Required",
+                                "hasExpanderArrow": false,
+                                "href": "#1504.1",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "reference": "1504.1"
+                            },
+                            {
+                                "amendType": null,
+                                "children": [],
+                                "depth": 2,
+                                "displayTitle": "1504.2 Fire Hazards",
+                                "hasExpanderArrow": false,
+                                "href": "#1504.2",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "reference": "1504.2"
+                            }
+                        ],
+                        "depth": 1,
+                        "displayTitle": "1504 Fire Extinguishers",
+                        "hasExpanderArrow": true,
+                        "href": "#1504",
+                        "isCodeDivider": false,
+                        "isCodeDividerClickable": false,
+                        "reference": "1504"
+                    },
+                    {
+                        "amendType": null,
+                        "children": [
+                            {
+                                "amendType": null,
+                                "children": [],
+                                "depth": 2,
+                                "displayTitle": "1505.1 Stairways Required",
+                                "hasExpanderArrow": false,
+                                "href": "#1505.1",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "reference": "1505.1"
+                            },
+                            {
+                                "amendType": null,
+                                "children": [],
+                                "depth": 2,
+                                "displayTitle": "1505.2 Maintenance of Means of Egress",
+                                "hasExpanderArrow": false,
+                                "href": "#1505.2",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "reference": "1505.2"
+                            }
+                        ],
+                        "depth": 1,
+                        "displayTitle": "1505 Means of Egress",
+                        "hasExpanderArrow": true,
+                        "href": "#1505",
+                        "isCodeDivider": false,
+                        "isCodeDividerClickable": false,
+                        "reference": "1505"
+                    },
+                    {
+                        "amendType": null,
+                        "children": [
+                            {
+                                "amendType": null,
+                                "children": [],
+                                "depth": 2,
+                                "displayTitle": "1506.1 Where Required",
+                                "hasExpanderArrow": false,
+                                "href": "#1506.1",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "reference": "1506.1"
+                            },
+                            {
+                                "amendType": null,
+                                "children": [],
+                                "depth": 2,
+                                "displayTitle": "1506.2 Buildings Being Demolished",
+                                "hasExpanderArrow": false,
+                                "href": "#1506.2",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "reference": "1506.2"
+                            },
+                            {
+                                "amendType": null,
+                                "children": [],
+                                "depth": 2,
+                                "displayTitle": "1506.3 Detailed Requirements",
+                                "hasExpanderArrow": false,
+                                "href": "#1506.3",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "reference": "1506.3"
+                            }
+                        ],
+                        "depth": 1,
+                        "displayTitle": "1506 Standpipe Systems",
+                        "hasExpanderArrow": true,
+                        "href": "#1506",
+                        "isCodeDivider": false,
+                        "isCodeDividerClickable": false,
+                        "reference": "1506"
+                    },
+                    {
+                        "amendType": null,
+                        "children": [
+                            {
+                                "amendType": null,
+                                "children": [],
+                                "depth": 2,
+                                "displayTitle": "1507.1 Completion Before Occupancy",
+                                "hasExpanderArrow": false,
+                                "href": "#1507.1",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "reference": "1507.1"
+                            },
+                            {
+                                "amendType": null,
+                                "children": [],
+                                "depth": 2,
+                                "displayTitle": "1507.2 Operation of Valves",
+                                "hasExpanderArrow": false,
+                                "href": "#1507.2",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "reference": "1507.2"
+                            }
+                        ],
+                        "depth": 1,
+                        "displayTitle": "1507 Automatic Sprinkler System",
+                        "hasExpanderArrow": true,
+                        "href": "#1507",
+                        "isCodeDivider": false,
+                        "isCodeDividerClickable": false,
+                        "reference": "1507"
+                    },
+                    {
+                        "amendType": null,
+                        "children": [
+                            {
+                                "amendType": null,
+                                "children": [],
+                                "depth": 2,
+                                "displayTitle": "1508.1 Construction Sites",
+                                "hasExpanderArrow": false,
+                                "href": "#1508.1",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "reference": "1508.1"
+                            }
+                        ],
+                        "depth": 1,
+                        "displayTitle": "1508 Accessibility",
+                        "hasExpanderArrow": true,
+                        "href": "#1508",
+                        "isCodeDivider": false,
+                        "isCodeDividerClickable": false,
+                        "reference": "1508"
+                    },
+                    {
+                        "amendType": null,
+                        "children": [
+                            {
+                                "amendType": null,
+                                "children": [],
+                                "depth": 2,
+                                "displayTitle": "1509.1 When Required",
+                                "hasExpanderArrow": false,
+                                "href": "#1509.1",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "reference": "1509.1"
+                            }
+                        ],
+                        "depth": 1,
+                        "displayTitle": "1509 Water Supply for Fire Protection",
+                        "hasExpanderArrow": true,
+                        "href": "#1509",
+                        "isCodeDivider": false,
+                        "isCodeDividerClickable": false,
+                        "reference": "1509"
+                    }
+                ],
+                "title": "Chapter 15 Construction Safeguards: 2023 FBC - Existing Building, 8<sup>th</sup> edition | UpCodes",
+                "leanChapterLines": [
+                    {
+                        "displayTitle": "Chapter 1 Scope and Administration",
+                        "isExpandable": true,
+                        "reference": "1",
+                        "slug": "scope-and-administration"
+                    },
+                    {
+                        "displayTitle": "Chapter 2 Definitions",
+                        "isExpandable": true,
+                        "reference": "2",
+                        "slug": "definitions"
+                    },
+                    {
+                        "displayTitle": "Chapter 3 Provisions for All Compliance Methods",
+                        "isExpandable": true,
+                        "reference": "3",
+                        "slug": "provisions-for-all-compliance-methods"
+                    },
+                    {
+                        "displayTitle": "Chapter 4 Repairs",
+                        "isExpandable": true,
+                        "reference": "4",
+                        "slug": "repairs"
+                    },
+                    {
+                        "displayTitle": "Chapter 5 Prescriptive Compliance Method",
+                        "isExpandable": true,
+                        "reference": "5",
+                        "slug": "prescriptive-compliance-method"
+                    },
+                    {
+                        "displayTitle": "Chapter 6 Classification of Work",
+                        "isExpandable": true,
+                        "reference": "6",
+                        "slug": "classification-of-work"
+                    },
+                    {
+                        "displayTitle": "Chapter 7 Alterations\u2014Level 1",
+                        "isExpandable": true,
+                        "reference": "7",
+                        "slug": "alterations-level-1"
+                    },
+                    {
+                        "displayTitle": "Chapter 8 Alterations\u2014Level 2",
+                        "isExpandable": true,
+                        "reference": "8",
+                        "slug": "alterations-level-2"
+                    },
+                    {
+                        "displayTitle": "Chapter 9 Alterations\u2014Level 3",
+                        "isExpandable": true,
+                        "reference": "9",
+                        "slug": "alterations-level-3"
+                    },
+                    {
+                        "displayTitle": "Chapter 10 Change of Occupancy",
+                        "isExpandable": true,
+                        "reference": "10",
+                        "slug": "change-of-occupancy"
+                    },
+                    {
+                        "displayTitle": "Chapter 11 Additions",
+                        "isExpandable": true,
+                        "reference": "11",
+                        "slug": "additions"
+                    },
+                    {
+                        "displayTitle": "Chapter 12 Historic Buildings",
+                        "isExpandable": true,
+                        "reference": "12",
+                        "slug": "historic-buildings"
+                    },
+                    {
+                        "displayTitle": "Chapter 13 Relocated or Moved Buildings",
+                        "isExpandable": true,
+                        "reference": "13",
+                        "slug": "relocated-or-moved-buildings"
+                    },
+                    {
+                        "displayTitle": "Chapter 14 Performance Compliance Methods",
+                        "isExpandable": true,
+                        "reference": "14",
+                        "slug": "performance-compliance-methods"
+                    },
+                    {
+                        "displayTitle": "Chapter 15 Construction Safeguards",
+                        "isExpandable": true,
+                        "reference": "15",
+                        "slug": "construction-safeguards"
+                    },
+                    {
+                        "displayTitle": "Chapter 16 Referenced Standards",
+                        "reference": "16",
+                        "slug": "referenced-standards"
+                    },
+                    {
+                        "displayTitle": "Chapter 17 Retrofitting",
+                        "isExpandable": true,
+                        "reference": "17",
+                        "slug": "retrofitting"
+                    },
+                    {
+                        "displayTitle": "Chapter 18 Minimum Requirements for the Mandatory Milestone Inspections",
+                        "isExpandable": true,
+                        "reference": "18",
+                        "slug": "minimum-requirements-for-the-mandatory-milestone-inspections"
+                    },
+                    {
+                        "displayTitle": "Appendix A Guidelines for the Seismic Retrofit of Existing Buildings",
+                        "reference": "A",
+                        "slug": "guidelines-for-the-seismic-retrofit-of-existing-buildings"
+                    },
+                    {
+                        "displayTitle": "Appendix B Standard for Rehabilitation",
+                        "reference": "B",
+                        "slug": "standard-for-rehabilitation"
+                    },
+                    {
+                        "displayTitle": "Appendix C Refer to NFPA 914 Code for Fire Protection of Historic Structures 2001 Edition",
+                        "isExpandable": true,
+                        "reference": "C",
+                        "slug": "refer-to-nfpa-914-code-for-fire-protection-of-historic-structures-2001-edition"
+                    },
+                    {
+                        "displayTitle": "Resource A Guidelines on Fire Rating of Archaic Materials and Assemblies",
+                        "reference": "resource_A",
+                        "slug": "guidelines-on-fire-rating-of-archaic-materials-and-assemblies"
+                    }
+                ],
+                "leanCodeSectionsTree": [
+                    {
+                        "ancestorRefs": [],
+                        "depth": 0,
+                        "diagrams": [],
+                        "displayRef": null,
+                        "displayTitle": "Chapter 15 Construction Safeguards",
+                        "divisionType": "Chapter",
+                        "hasAssemblies": false,
+                        "isContiguous": true,
+                        "numAssembliesOnRef": 0,
+                        "numBuildingProductsOnRef": 0,
+                        "numDiagramsOnRef": 0,
+                        "reference": "15",
+                        "slug": "construction-safeguards",
+                        "titleText": "Construction Safeguards",
+                        "children": [
+                            {
+                                "ancestorRefs": [
+                                    "15"
+                                ],
+                                "depth": 1,
+                                "diagrams": [],
+                                "displayRef": null,
+                                "displayTitle": "Section 1501 General",
+                                "divisionType": "Section",
+                                "hasAssemblies": false,
+                                "isContiguous": true,
+                                "numAssembliesOnRef": 0,
+                                "numBuildingProductsOnRef": 0,
+                                "numDiagramsOnRef": 0,
+                                "reference": "1501",
+                                "slug": "construction-safeguards",
+                                "titleText": "General",
+                                "children": [
+                                    {
+                                        "ancestorRefs": [
+                                            "15",
+                                            "1501"
+                                        ],
+                                        "body": "The provisions of this chapter shall govern safety during construction that is under the jurisdiction of this code and the protection of adjacent public and private properties.",
+                                        "depth": 2,
+                                        "diagrams": [],
+                                        "displayRef": null,
+                                        "displayTitle": "[BG]  1501.1 Scope",
+                                        "hasAssemblies": false,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 0,
+                                        "numDiagramsOnRef": 0,
+                                        "reference": "1501.1",
+                                        "refPrefix": "[BG]",
+                                        "slug": "construction-safeguards",
+                                        "titleText": "Scope",
+                                        "children": []
+                                    },
+                                    {
+                                        "ancestorRefs": [
+                                            "15",
+                                            "1501"
+                                        ],
+                                        "body": "Construction equipment and materials shall be stored and placed so as not to endanger the public, the workers or adjoining property for the duration of the construction project.",
+                                        "depth": 2,
+                                        "diagrams": [],
+                                        "displayRef": null,
+                                        "displayTitle": "[BG]  1501.2 Storage and Placement",
+                                        "hasAssemblies": false,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 0,
+                                        "numDiagramsOnRef": 0,
+                                        "reference": "1501.2",
+                                        "refPrefix": "[BG]",
+                                        "slug": "construction-safeguards",
+                                        "titleText": "Storage and Placement",
+                                        "children": []
+                                    },
+                                    {
+                                        "ancestorRefs": [
+                                            "15",
+                                            "1501"
+                                        ],
+                                        "body": "<div class=\"u-mb-3\">Required exits, existing structural elements, fire protection devices, and sanitary safeguards shall be maintained at all times during <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/florida/fl-existing-building-code-2023/chapter/2/definitions#alteration\">alterations</a></span>, <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/florida/fl-existing-building-code-2023/chapter/2/definitions#repair\">repairs</a></span>, or <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/florida/fl-existing-building-code-2023/chapter/2/definitions#addition\">additions</a></span> to any building or structure.</div><div class=\"u-ml-4\"><div class=\"u-mb-3 u-mt-3\"><span class=\"u-font-bold\">Exceptions:</span></div><ol><li>When such required elements or devices are being altered or repaired, adequate substitute provisions shall be made.</li><li>When the <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/florida/fl-existing-building-code-2023/chapter/2/definitions#existing_building\">existing building</a></span> is not occupied.</li></ol></div>",
+                                        "depth": 2,
+                                        "diagrams": [],
+                                        "displayRef": null,
+                                        "displayTitle": "[BG]  1501.3 Alterations, Repairs, and Additions",
+                                        "hasAssemblies": false,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 0,
+                                        "numDiagramsOnRef": 0,
+                                        "reference": "1501.3",
+                                        "refPrefix": "[BG]",
+                                        "slug": "construction-safeguards",
+                                        "titleText": "Alterations, Repairs, and Additions",
+                                        "children": []
+                                    },
+                                    {
+                                        "ancestorRefs": [
+                                            "15",
+                                            "1501"
+                                        ],
+                                        "body": "Waste materials shall be removed in a manner which prevents injury or damage to persons, adjoining properties, and public rights-of-way.",
+                                        "depth": 2,
+                                        "diagrams": [],
+                                        "displayRef": null,
+                                        "displayTitle": "[BG]  1501.4 Manner of Removal",
+                                        "hasAssemblies": false,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 0,
+                                        "numDiagramsOnRef": 0,
+                                        "reference": "1501.4",
+                                        "refPrefix": "[BG]",
+                                        "slug": "construction-safeguards",
+                                        "titleText": "Manner of Removal",
+                                        "children": []
+                                    },
+                                    {
+                                        "ancestorRefs": [
+                                            "15",
+                                            "1501"
+                                        ],
+                                        "body": "Fire safety during construction shall comply with the applicable requirements of the <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/florida/fl-building-code-2023\">Florida Building Code</a>, Building</span> and the applicable provisions of the <span class=\"u-italic\">Florida Fire Prevention Code</span>.",
+                                        "depth": 2,
+                                        "diagrams": [],
+                                        "displayRef": null,
+                                        "displayTitle": "[BG]  1501.5 Fire Safety During Construction",
+                                        "hasAssemblies": false,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 0,
+                                        "numDiagramsOnRef": 0,
+                                        "reference": "1501.5",
+                                        "refPrefix": "[BG]",
+                                        "slug": "construction-safeguards",
+                                        "titleText": "Fire Safety During Construction",
+                                        "children": []
+                                    },
+                                    {
+                                        "ancestorRefs": [
+                                            "15",
+                                            "1501"
+                                        ],
+                                        "body": "<div class=\"u-mb-3\">Pedestrians shall be protected during construction and demolition activities as required by Sections <a class=\"autolink\" href=\"#1501.6.1\">1501.6.1</a> through <a class=\"autolink\" href=\"#1501.6.7\">1501.6.7</a> and Table 1501.6. Signs shall be provided to direct pedestrian traffic.</div><figure><figcaption><div class=\"u-mb-3 u-mt-3\">[BS] <a id=\"table_1501.6\" href=\"#table_1501.6\" class=\"autolink_target\">TABLE 1501.6</a></div><div class=\"u-mb-3 u-mt-3\">PROTECTION OF PEDESTRIANS</div></figcaption><table class=\"uc_all_borders\">             <tbody><tr>                                                                                                                     <td class=\"u-align-middle u-text-center uc_all_borders\" colspan=\"\" rowspan=\"\"><span class=\"u-font-bold\">HEIGHT OF </span><div><span class=\"u-font-bold\">CONSTRUCTION</span></div></td>                                                                                                        <td class=\"u-align-middle u-text-center uc_all_borders\" colspan=\"\" rowspan=\"\"><span class=\"u-font-bold\">DISTANCE OF CONSTRUCTION TO LOT LINE</span></td>                                                                                                        <td class=\"u-align-middle u-text-center uc_all_borders\" colspan=\"\" rowspan=\"\"><span class=\"u-font-bold\">TYPE OF PROTECTION REQUIRED</span></td>        </tr>             <tr>                                                                                                                     <td class=\"u-align-middle u-text-center uc_all_borders\" colspan=\"\" rowspan=\"2\">8 feet or less</td>                                                                                                        <td class=\"u-align-middle u-text-center uc_all_borders\" colspan=\"\" rowspan=\"\">Less than 5 feet</td>                                                                                                        <td class=\"u-align-middle u-text-center uc_all_borders\" colspan=\"\" rowspan=\"\">Construction railings</td>        </tr>             <tr>                                                                                                                     <td class=\"u-align-middle u-text-center uc_all_borders\" colspan=\"\" rowspan=\"\">5 feet or more</td>                                                                                                        <td class=\"u-align-middle u-text-center uc_all_borders\" colspan=\"\" rowspan=\"\">None</td>        </tr>             <tr>                                                                                                                     <td class=\"u-align-middle u-text-center uc_all_borders\" colspan=\"\" rowspan=\"4\">More than 8 feet</td>                                                                                                        <td class=\"u-align-middle u-text-center uc_all_borders\" colspan=\"\" rowspan=\"\">Less than 5 feet</td>                                                                                                        <td class=\"u-align-middle u-text-center uc_all_borders\" colspan=\"\" rowspan=\"\">Barrier and covered walkway</td>        </tr>             <tr>                                                                                                                     <td class=\"u-align-middle u-text-center uc_all_borders\" colspan=\"\" rowspan=\"\">5 feet or more, but not more than one-fourth <div>the height of construction</div></td>                                                                                                        <td class=\"u-align-middle u-text-center uc_all_borders\" colspan=\"\" rowspan=\"\">Barrier and covered walkway</td>        </tr>             <tr>                                                                                                                     <td class=\"u-align-middle u-text-center uc_all_borders\" colspan=\"\" rowspan=\"\">5 feet or more, but between one-fourth and <div>one-half the height of construction</div></td>                                                                                                        <td class=\"u-align-middle u-text-center uc_all_borders\" colspan=\"\" rowspan=\"\">Barrier</td>        </tr>             <tr>                                                                                                                     <td class=\"u-align-middle u-text-center uc_all_borders\" colspan=\"\" rowspan=\"\">5 feet or more, but exceeding one-half the <div>height of construction</div></td>                                                                                                        <td class=\"u-align-middle u-text-center uc_all_borders\" colspan=\"\" rowspan=\"\">None</td>        </tr>     </tbody></table>  <div class=\"u-mb-3 u-mt-3 u-text-12px\">For SI: 1 foot = 304.8 mm.</div></figure>",
+                                        "depth": 2,
+                                        "diagrams": [],
+                                        "displayRef": null,
+                                        "displayTitle": "[BS]  1501.6 Protection of Pedestrians",
+                                        "hasAssemblies": false,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 0,
+                                        "numDiagramsOnRef": 0,
+                                        "reference": "1501.6",
+                                        "refPrefix": "[BS]",
+                                        "slug": "construction-safeguards",
+                                        "titleText": "Protection of Pedestrians",
+                                        "children": [
+                                            {
+                                                "ancestorRefs": [
+                                                    "15",
+                                                    "1501",
+                                                    "1501.6"
+                                                ],
+                                                "body": "A walkway shall be provided for pedestrian travel in front of every construction and demolition site unless the applicable governing authority authorizes the sidewalk to be fenced or closed. Walkways shall be of sufficient width to accommodate the pedestrian traffic, but in no case shall they be less than 4 feet (1219 mm) in width. Walkways shall be provided with a durable walking surface. Walkways shall be accessible in accordance with <a class=\"autolink\" href=\"/viewer/florida/fl-building-code-2023/chapter/11/accessibility#11\">Chapter 11</a> of the <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/florida/fl-building-code-2023\">Florida Building Code</a>, Building</span> and shall be designed to support all imposed loads and in no case shall the design live load be less than 150 pounds per square foot (psf) (7.2 kN/m<sup>2</sup>).",
+                                                "depth": 3,
+                                                "diagrams": [],
+                                                "displayRef": null,
+                                                "displayTitle": "[BS]  1501.6.1 Walkways",
+                                                "hasAssemblies": false,
+                                                "isContiguous": true,
+                                                "numAssembliesOnRef": 0,
+                                                "numBuildingProductsOnRef": 0,
+                                                "numDiagramsOnRef": 0,
+                                                "reference": "1501.6.1",
+                                                "refPrefix": "[BS]",
+                                                "slug": "construction-safeguards",
+                                                "titleText": "Walkways",
+                                                "children": []
+                                            },
+                                            {
+                                                "ancestorRefs": [
+                                                    "15",
+                                                    "1501",
+                                                    "1501.6"
+                                                ],
+                                                "body": "Pedestrian traffic shall be protected by a directional barricade where the walkway extends into the street. The directional barricade shall be of sufficient size and construction to direct vehicular traffic away from the pedestrian path.",
+                                                "depth": 3,
+                                                "diagrams": [],
+                                                "displayRef": null,
+                                                "displayTitle": "[BS]  1501.6.2 Directional Barricades",
+                                                "hasAssemblies": false,
+                                                "isContiguous": true,
+                                                "numAssembliesOnRef": 0,
+                                                "numBuildingProductsOnRef": 0,
+                                                "numDiagramsOnRef": 0,
+                                                "reference": "1501.6.2",
+                                                "refPrefix": "[BS]",
+                                                "slug": "construction-safeguards",
+                                                "titleText": "Directional Barricades",
+                                                "children": []
+                                            },
+                                            {
+                                                "ancestorRefs": [
+                                                    "15",
+                                                    "1501",
+                                                    "1501.6"
+                                                ],
+                                                "body": "Construction railings shall be at least 42 inches (1067 mm) in height and shall be sufficient to direct pedestrians around construction areas.",
+                                                "depth": 3,
+                                                "diagrams": [],
+                                                "displayRef": null,
+                                                "displayTitle": "[BS]  1501.6.3 Construction Railings",
+                                                "hasAssemblies": false,
+                                                "isContiguous": true,
+                                                "numAssembliesOnRef": 0,
+                                                "numBuildingProductsOnRef": 0,
+                                                "numDiagramsOnRef": 0,
+                                                "reference": "1501.6.3",
+                                                "refPrefix": "[BS]",
+                                                "slug": "construction-safeguards",
+                                                "titleText": "Construction Railings",
+                                                "children": []
+                                            },
+                                            {
+                                                "ancestorRefs": [
+                                                    "15",
+                                                    "1501",
+                                                    "1501.6"
+                                                ],
+                                                "body": "Barriers shall be a minimum of 8 feet (2438 mm) in height and shall be placed on the side of the walkway nearest the construction. Barriers shall extend the entire length of the construction site. Openings in such barriers shall be protected by doors which are normally kept closed.",
+                                                "depth": 3,
+                                                "diagrams": [],
+                                                "displayRef": null,
+                                                "displayTitle": "[BS]  1501.6.4 Barriers",
+                                                "hasAssemblies": false,
+                                                "isContiguous": true,
+                                                "numAssembliesOnRef": 0,
+                                                "numBuildingProductsOnRef": 0,
+                                                "numDiagramsOnRef": 0,
+                                                "reference": "1501.6.4",
+                                                "refPrefix": "[BS]",
+                                                "slug": "construction-safeguards",
+                                                "titleText": "Barriers",
+                                                "children": [
+                                                    {
+                                                        "ancestorRefs": [
+                                                            "15",
+                                                            "1501",
+                                                            "1501.6",
+                                                            "1501.6.4"
+                                                        ],
+                                                        "body": "<div class=\"u-mb-3\">Barriers shall be designed to resist loads required in <a class=\"autolink\" href=\"/viewer/florida/fl-building-code-2023/chapter/16/structural-design#16\">Chapter 16</a> of the <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/florida/fl-building-code-2023\">Florida Building Code</a>, Building</span> unless constructed as follows:</div><ol><li>Barriers shall be provided with 2 \u00d7 4 top and bottom plates.</li><li>The barrier material shall be a minimum of <sup>3</sup>/<sub>4</sub> inch (19.1 mm) boards or <sup>1</sup>/<sub>4</sub> inch (6.4 mm) wood structural use panels.</li><li>Wood structural use panels shall be bonded with an adhesive identical to that for exterior wood structural use panels.</li><li>Wood structural use panels <sup>1</sup>/<sub>4</sub> inch (6.4 mm) or <sup>1</sup>/<sub>16</sub> inch (1.6 mm) in thickness shall have studs spaced not more than 2 feet (610 mm) on center.</li><li>Wood structural use panels <sup>3</sup>/<sub>8</sub> inch (9.5 mm) or <sup>1</sup>/<sub>2</sub> inch (12.7 mm) in thickness shall have studs spaced not more than 4 feet (1219 mm) on center, provided a 2-inch by 4-inch (51 mm by 102 mm) stiffener is placed horizontally at the mid-height where the stud spacing exceeds 2 feet (610 mm) on center.</li><li>Wood structural use panels <sup>5</sup>/<sub>8 </sub>inch (15.9 mm) or thicker shall not span over 8 feet (2438 mm).</li></ol>",
+                                                        "depth": 4,
+                                                        "diagrams": [],
+                                                        "displayRef": null,
+                                                        "displayTitle": "[BS]  1501.6.4.1 Barrier Design",
+                                                        "hasAssemblies": false,
+                                                        "isContiguous": true,
+                                                        "numAssembliesOnRef": 0,
+                                                        "numBuildingProductsOnRef": 0,
+                                                        "numDiagramsOnRef": 0,
+                                                        "reference": "1501.6.4.1",
+                                                        "refPrefix": "[BS]",
+                                                        "slug": "construction-safeguards",
+                                                        "titleText": "Barrier Design",
+                                                        "children": []
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "ancestorRefs": [
+                                                    "15",
+                                                    "1501",
+                                                    "1501.6"
+                                                ],
+                                                "body": "<div class=\"u-mb-3\">Covered walkways shall have a minimum clear height of 8 feet (2438 mm) as measured from the floor surface to the canopy overhead. Adequate lighting shall be provided at all times. Covered walkways shall be designed to support all imposed loads. In no case shall the design live load be less than 150 psf (7.2 kN/m<sup>2</sup>) for the entire structure.</div><div class=\"u-ml-4\"><div class=\"u-mb-3 u-mt-3\"><span class=\"u-font-bold\">Exception: </span>Roofs and supporting structures of covered walkways for new, light-frame construction not exceeding two stories above grade plane are permitted to be designed for a live load of 75 psf (3.6 kN/m<sup>2</sup>) or the loads imposed on them, whichever is greater. In lieu of such designs, the roof and supporting structure of a covered walkway are permitted to be constructed as follows:</div><ol><li>Footings shall be continuous 2 \u00d7 6 members.</li><li>Posts not less than 4 \u00d7 6 shall be provided on both sides of the roof and spaced not more than 12 feet (3658 mm) on center.</li><li>Stringers not less than 4 \u00d7 12 shall be placed on edge upon the posts.</li><li>Joists resting on the stringers shall be at least 2 \u00d7 8 and shall be spaced not more than 2 feet (610 mm) on center.</li><li>The deck shall be planks at least 2 inches (51 mm) thick or wood structural panels with an exterior exposure durability classification at least <sup>23</sup>/<sub>32</sub> inch (18.3 mm) thick nailed to the joists.</li><li>Each post shall be knee-braced to joists and stringers by 2 \u00d7 4 minimum members 4 feet (1219 mm) long.</li><li>A 2 \u00d7 4 minimum curb shall be set on edge along the outside edge of the deck.</li></ol></div>",
+                                                "depth": 3,
+                                                "diagrams": [],
+                                                "displayRef": null,
+                                                "displayTitle": "[BS]  1501.6.5 Covered Walkways",
+                                                "hasAssemblies": false,
+                                                "isContiguous": true,
+                                                "numAssembliesOnRef": 0,
+                                                "numBuildingProductsOnRef": 0,
+                                                "numDiagramsOnRef": 0,
+                                                "reference": "1501.6.5",
+                                                "refPrefix": "[BS]",
+                                                "slug": "construction-safeguards",
+                                                "titleText": "Covered Walkways",
+                                                "children": []
+                                            },
+                                            {
+                                                "ancestorRefs": [
+                                                    "15",
+                                                    "1501",
+                                                    "1501.6"
+                                                ],
+                                                "body": "Pedestrian protection required by <a class=\"autolink\" href=\"#1501.6\">Section 1501.6</a> shall be maintained in place and kept in good order for the entire length of time pedestrians may be endangered. The owner or the owner's agent, upon the completion of the construction activity, shall immediately remove walkways, debris and other obstructions and leave such public property in as good a condition as it was before such work was commenced.",
+                                                "depth": 3,
+                                                "diagrams": [],
+                                                "displayRef": null,
+                                                "displayTitle": "[BS]  1501.6.6 Repair, Maintenance and Removal",
+                                                "hasAssemblies": false,
+                                                "isContiguous": true,
+                                                "numAssembliesOnRef": 0,
+                                                "numBuildingProductsOnRef": 0,
+                                                "numDiagramsOnRef": 0,
+                                                "reference": "1501.6.6",
+                                                "refPrefix": "[BS]",
+                                                "slug": "construction-safeguards",
+                                                "titleText": "Repair, Maintenance and Removal",
+                                                "children": []
+                                            },
+                                            {
+                                                "ancestorRefs": [
+                                                    "15",
+                                                    "1501",
+                                                    "1501.6"
+                                                ],
+                                                "body": "Every excavation on a site located 5 feet (1524 mm) or less from the street lot line shall be enclosed with a barrier not less than 6 feet (1829 mm) high. Where located more than 5 feet (1524 mm) from the street lot line, a barrier shall be erected when required by the <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/florida/fl-existing-building-code-2023/chapter/2/definitions#code_official\">code official</a></span>. Barriers shall be of adequate strength to resist wind pressure as specified in <a class=\"autolink\" href=\"/viewer/florida/fl-building-code-2023/chapter/16/structural-design#16\">Chapter 16</a> of the <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/florida/fl-building-code-2023\">Florida Building Code</a>, Building</span>.",
+                                                "depth": 3,
+                                                "diagrams": [],
+                                                "displayRef": null,
+                                                "displayTitle": "[BS]  1501.6.7 Adjacent to Excavations",
+                                                "hasAssemblies": false,
+                                                "isContiguous": true,
+                                                "numAssembliesOnRef": 0,
+                                                "numBuildingProductsOnRef": 0,
+                                                "numDiagramsOnRef": 0,
+                                                "reference": "1501.6.7",
+                                                "refPrefix": "[BS]",
+                                                "slug": "construction-safeguards",
+                                                "titleText": "Adjacent to Excavations",
+                                                "children": []
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "ancestorRefs": [
+                                            "15",
+                                            "1501"
+                                        ],
+                                        "body": "Sanitary <a class=\"autolink\" href=\"/viewer/florida/fl-existing-building-code-2023/chapter/2/definitions#facility\">facilities</a> shall be provided during construction or demolition activities in accordance with the <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/florida/fl-plumbing-code-2023\">Florida Building Code</a>, Plumbing</span>.",
+                                        "depth": 2,
+                                        "diagrams": [],
+                                        "displayRef": null,
+                                        "displayTitle": "1501.7 Facilities Required",
+                                        "hasAssemblies": false,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 0,
+                                        "numDiagramsOnRef": 0,
+                                        "reference": "1501.7",
+                                        "slug": "construction-safeguards",
+                                        "titleText": "Facilities Required",
+                                        "children": []
+                                    }
+                                ]
+                            },
+                            {
+                                "ancestorRefs": [
+                                    "15"
+                                ],
+                                "depth": 1,
+                                "diagrams": [],
+                                "displayRef": null,
+                                "displayTitle": "Section 1502 Protection of Adjoining Property",
+                                "divisionType": "Section",
+                                "hasAssemblies": false,
+                                "isContiguous": true,
+                                "numAssembliesOnRef": 0,
+                                "numBuildingProductsOnRef": 0,
+                                "numDiagramsOnRef": 0,
+                                "reference": "1502",
+                                "slug": "construction-safeguards",
+                                "titleText": "Protection of Adjoining Property",
+                                "children": [
+                                    {
+                                        "ancestorRefs": [
+                                            "15",
+                                            "1502"
+                                        ],
+                                        "body": "Adjoining public and private property shall be protected from damage during construction and demolition work. Protection must be provided for footings, foundations, party walls, chimneys, skylights and roofs. Provisions shall be made to control water runoff and erosion during construction or demolition activities. The person making or causing an excavation to be made shall provide written notice to the owners of adjoining buildings advising them that the excavation is to be made and that the adjoining buildings should be protected. Said notification shall be delivered not less than 10 days prior to the scheduled starting date of the excavation.",
+                                        "depth": 2,
+                                        "diagrams": [
+                                            {
+                                                "key": "protection_footing_during_trenching",
+                                                "title": "Protection of Footings during Trenching",
+                                                "descriptionHtml": "<div>Protection of footings during trenching for underground piping is addressed in multiple sections of the code. Plumbing Code and the Residential Code both mention that trenching parallel to footings and walls should not extend into the bearing plane of a footing or wall. Additionally, the Existing Building Code requires adjoining public and private property to be protected from damage during construction and excavation activities. Another relevant section is 1301.11 of the Plumbing Code 2018, which establishes trenching requirements for nonpotable water piping, stating that nonpotable water collection and distribution piping should be separated from the building sewer and potable water piping underground by 5 feet of undisturbed or compacted earth. It is important to follow these guidelines while performing trenching for underground piping to ensure the protection of footings and other structures.</div>",
+                                                "topics": [
+                                                    "Plumbing",
+                                                    "Structural"
+                                                ],
+                                                "phases": [
+                                                    "Construction Docs",
+                                                    "Construction Phase"
+                                                ],
+                                                "supressesChildrenAssociations": false,
+                                                "blacklistJurisdictions": [
+                                                    "new_york_city"
+                                                ],
+                                                "whitelistJurisdictions": [],
+                                                "imageType": "png"
+                                            }
+                                        ],
+                                        "displayRef": null,
+                                        "displayTitle": "[BS]  1502.1 Protection Required",
+                                        "hasAssemblies": false,
+                                        "hasDiagrams": true,
+                                        "hasDiagramsOnRef": true,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 0,
+                                        "numDiagramsOnRef": 1,
+                                        "reference": "1502.1",
+                                        "refPrefix": "[BS]",
+                                        "slug": "construction-safeguards",
+                                        "titleText": "Protection Required",
+                                        "children": []
+                                    }
+                                ]
+                            },
+                            {
+                                "ancestorRefs": [
+                                    "15"
+                                ],
+                                "depth": 1,
+                                "diagrams": [],
+                                "displayRef": null,
+                                "displayTitle": "Section 1503 Temporary Use of Streets, Alleys and Public Property",
+                                "divisionType": "Section",
+                                "hasAssemblies": false,
+                                "isContiguous": true,
+                                "numAssembliesOnRef": 0,
+                                "numBuildingProductsOnRef": 0,
+                                "numDiagramsOnRef": 0,
+                                "reference": "1503",
+                                "slug": "construction-safeguards",
+                                "titleText": "Temporary Use of Streets, Alleys and Public Property",
+                                "children": [
+                                    {
+                                        "ancestorRefs": [
+                                            "15",
+                                            "1503"
+                                        ],
+                                        "body": "The temporary use of streets or public property for the storage or handling of materials or equipment required for construction or demolition, and the protection provided to the public shall comply with the provisions of the applicable governing authority and this chapter.",
+                                        "depth": 2,
+                                        "diagrams": [],
+                                        "displayRef": null,
+                                        "displayTitle": "[BG]  1503.1 Storage and Handling of Materials",
+                                        "hasAssemblies": false,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 0,
+                                        "numDiagramsOnRef": 0,
+                                        "reference": "1503.1",
+                                        "refPrefix": "[BG]",
+                                        "slug": "construction-safeguards",
+                                        "titleText": "Storage and Handling of Materials",
+                                        "children": []
+                                    },
+                                    {
+                                        "ancestorRefs": [
+                                            "15",
+                                            "1503"
+                                        ],
+                                        "body": "Construction materials and equipment shall not be placed or stored so as to obstruct access to fire hydrants, standpipes, fire or police alarm boxes, catch basins or manholes, nor shall such material or equipment be located within 20 feet (6.1 m) of a street intersection, or placed so as to obstruct normal observations of traffic signals or to hinder the use of public transit loading platforms.",
+                                        "depth": 2,
+                                        "diagrams": [],
+                                        "displayRef": null,
+                                        "displayTitle": "[BG]  1503.2 Obstructions",
+                                        "hasAssemblies": false,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 0,
+                                        "numDiagramsOnRef": 0,
+                                        "reference": "1503.2",
+                                        "refPrefix": "[BG]",
+                                        "slug": "construction-safeguards",
+                                        "titleText": "Obstructions",
+                                        "children": []
+                                    },
+                                    {
+                                        "ancestorRefs": [
+                                            "15",
+                                            "1503"
+                                        ],
+                                        "body": "Building materials, fences, sheds or any obstruction of any kind shall not be placed so as to obstruct free approach to any fire hydrant, fire department connection, utility pole, manhole, fire alarm box, or catch basin, or so as to interfere with the passage of water in the gutter. Protection against damage shall be provided to such utility fixtures during the progress of the work, but sight of them shall not be obstructed.",
+                                        "depth": 2,
+                                        "diagrams": [],
+                                        "displayRef": null,
+                                        "displayTitle": "[BG]  1503.3 Utility Fixtures",
+                                        "hasAssemblies": false,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 0,
+                                        "numDiagramsOnRef": 0,
+                                        "reference": "1503.3",
+                                        "refPrefix": "[BG]",
+                                        "slug": "construction-safeguards",
+                                        "titleText": "Utility Fixtures",
+                                        "children": []
+                                    }
+                                ]
+                            },
+                            {
+                                "ancestorRefs": [
+                                    "15"
+                                ],
+                                "depth": 1,
+                                "diagrams": [],
+                                "displayRef": null,
+                                "displayTitle": "Section 1504 Fire Extinguishers",
+                                "divisionType": "Section",
+                                "hasAssemblies": false,
+                                "isContiguous": true,
+                                "numAssembliesOnRef": 0,
+                                "numBuildingProductsOnRef": 0,
+                                "numDiagramsOnRef": 0,
+                                "reference": "1504",
+                                "slug": "construction-safeguards",
+                                "titleText": "Fire Extinguishers",
+                                "children": [
+                                    {
+                                        "ancestorRefs": [
+                                            "15",
+                                            "1504"
+                                        ],
+                                        "body": "<div class=\"u-mb-3\">All structures under construction, <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/florida/fl-existing-building-code-2023/chapter/2/definitions#alteration\">alteration</a></span>, or demolition shall be provided with not less than one <a class=\"autolink\" href=\"/viewer/florida/fl-existing-building-code-2023/chapter/2/definitions#approved\">approved</a> portable fire extinguisher in accordance with the <span class=\"u-italic\">Florida Fire Prevention Code</span> and sized for not less than ordinary hazard as follows:</div><ol><li>At each stairway on all floor levels where combustible materials have accumulated.</li><li>In every storage and construction shed.</li><li>Additional portable fire extinguishers shall be provided where special hazards exist including, but not limited to, the storage and use of flammable and combustible liquids.</li></ol>",
+                                        "depth": 2,
+                                        "diagrams": [],
+                                        "displayRef": null,
+                                        "displayTitle": "[F]  1504.1 Where Required",
+                                        "hasAssemblies": false,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 0,
+                                        "numDiagramsOnRef": 0,
+                                        "reference": "1504.1",
+                                        "refPrefix": "[F]",
+                                        "slug": "construction-safeguards",
+                                        "titleText": "Where Required",
+                                        "children": []
+                                    },
+                                    {
+                                        "ancestorRefs": [
+                                            "15",
+                                            "1504"
+                                        ],
+                                        "body": "The provisions of this code and of the <span class=\"u-italic\">Florida Fire Prevention Code</span> shall be strictly observed to safeguard against all fire hazards attendant upon construction operations.",
+                                        "depth": 2,
+                                        "diagrams": [],
+                                        "displayRef": null,
+                                        "displayTitle": "[F]  1504.2 Fire Hazards",
+                                        "hasAssemblies": false,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 0,
+                                        "numDiagramsOnRef": 0,
+                                        "reference": "1504.2",
+                                        "refPrefix": "[F]",
+                                        "slug": "construction-safeguards",
+                                        "titleText": "Fire Hazards",
+                                        "children": []
+                                    }
+                                ]
+                            },
+                            {
+                                "ancestorRefs": [
+                                    "15"
+                                ],
+                                "depth": 1,
+                                "diagrams": [],
+                                "displayRef": null,
+                                "displayTitle": "Section 1505 Means of Egress",
+                                "divisionType": "Section",
+                                "hasAssemblies": false,
+                                "isContiguous": true,
+                                "numAssembliesOnRef": 0,
+                                "numBuildingProductsOnRef": 0,
+                                "numDiagramsOnRef": 0,
+                                "reference": "1505",
+                                "slug": "construction-safeguards",
+                                "titleText": "Means of Egress",
+                                "children": [
+                                    {
+                                        "ancestorRefs": [
+                                            "15",
+                                            "1505"
+                                        ],
+                                        "body": "Where a building has been constructed to a building height of 50 feet (15 240 mm) or four stories, or where an <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/florida/fl-existing-building-code-2023/chapter/2/definitions#existing_building\">existing building</a></span> exceeding 50 feet (15 240 mm) in building height is altered, at least one temporary lighted stairway shall be provided unless one or more of the permanent stairways are erected as the construction progresses.",
+                                        "depth": 2,
+                                        "diagrams": [],
+                                        "displayRef": null,
+                                        "displayTitle": "[BE]  1505.1 Stairways Required",
+                                        "hasAssemblies": false,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 0,
+                                        "numDiagramsOnRef": 0,
+                                        "reference": "1505.1",
+                                        "refPrefix": "[BE]",
+                                        "slug": "construction-safeguards",
+                                        "titleText": "Stairways Required",
+                                        "children": []
+                                    },
+                                    {
+                                        "ancestorRefs": [
+                                            "15",
+                                            "1505"
+                                        ],
+                                        "body": "<div class=\"u-mb-3\">Required means of egress shall be maintained at all times during construction, demolition, remodeling or <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/florida/fl-existing-building-code-2023/chapter/2/definitions#alteration\">alterations</a></span> and <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/florida/fl-existing-building-code-2023/chapter/2/definitions#addition\">additions</a></span> to any building.</div><div class=\"u-ml-4 u-mt-3\"><span class=\"u-font-bold\">Exception: </span><a class=\"autolink\" href=\"/viewer/florida/fl-existing-building-code-2023/chapter/2/definitions#approved\">Approved</a> temporary means of egress systems and <a class=\"autolink\" href=\"/viewer/florida/fl-existing-building-code-2023/chapter/2/definitions#facility\">facilities</a>.</div>",
+                                        "depth": 2,
+                                        "diagrams": [],
+                                        "displayRef": null,
+                                        "displayTitle": "[F]  1505.2 Maintenance of Means of Egress",
+                                        "hasAssemblies": false,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 0,
+                                        "numDiagramsOnRef": 0,
+                                        "reference": "1505.2",
+                                        "refPrefix": "[F]",
+                                        "slug": "construction-safeguards",
+                                        "titleText": "Maintenance of Means of Egress",
+                                        "children": []
+                                    }
+                                ]
+                            },
+                            {
+                                "ancestorRefs": [
+                                    "15"
+                                ],
+                                "depth": 1,
+                                "diagrams": [],
+                                "displayRef": null,
+                                "displayTitle": "Section 1506 Standpipe Systems",
+                                "divisionType": "Section",
+                                "hasAssemblies": false,
+                                "isContiguous": true,
+                                "numAssembliesOnRef": 0,
+                                "numBuildingProductsOnRef": 0,
+                                "numDiagramsOnRef": 0,
+                                "reference": "1506",
+                                "slug": "construction-safeguards",
+                                "titleText": "Standpipe Systems",
+                                "children": [
+                                    {
+                                        "ancestorRefs": [
+                                            "15",
+                                            "1506"
+                                        ],
+                                        "body": "In buildings required to have standpipes by <a class=\"autolink\" href=\"/viewer/florida/fl-building-code-2023/chapter/9/fire-protection-systems#905.3.1\">Section 905.3.1</a> of the <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/florida/fl-building-code-2023\">Florida Building Code</a>, Building</span>, not less than one standpipe shall be provided for use during construction. Such standpipes shall be installed prior to construction exceeding 40 feet (12 192 mm) in height above the lowest level of fire department vehicle access. Such standpipe shall be provided with fire department hose connections at accessible locations adjacent to usable stairways. Such standpipes shall be extended as construction progresses to within one floor of the highest point of construction having secured decking or flooring.",
+                                        "depth": 2,
+                                        "diagrams": [],
+                                        "displayRef": null,
+                                        "displayTitle": "[F]  1506.1 Where Required",
+                                        "hasAssemblies": false,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 0,
+                                        "numDiagramsOnRef": 0,
+                                        "reference": "1506.1",
+                                        "refPrefix": "[F]",
+                                        "slug": "construction-safeguards",
+                                        "titleText": "Where Required",
+                                        "children": []
+                                    },
+                                    {
+                                        "ancestorRefs": [
+                                            "15",
+                                            "1506"
+                                        ],
+                                        "body": "Where a building or portion of a building is being demolished and a standpipe is existing within such a building, such standpipe shall be maintained in an operable condition so as to be available for use by the fire department. Such standpipe shall be demolished with the building but shall not be demolished more than one floor below the floor being demolished.",
+                                        "depth": 2,
+                                        "diagrams": [],
+                                        "displayRef": null,
+                                        "displayTitle": "[F]  1506.2 Buildings Being Demolished",
+                                        "hasAssemblies": false,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 0,
+                                        "numDiagramsOnRef": 0,
+                                        "reference": "1506.2",
+                                        "refPrefix": "[F]",
+                                        "slug": "construction-safeguards",
+                                        "titleText": "Buildings Being Demolished",
+                                        "children": []
+                                    },
+                                    {
+                                        "ancestorRefs": [
+                                            "15",
+                                            "1506"
+                                        ],
+                                        "body": "<div class=\"u-mb-3\">Standpipes shall be installed in accordance with the provisions of <a class=\"autolink\" href=\"/viewer/florida/fl-building-code-2023/chapter/9/fire-protection-systems#9\">Chapter 9</a> of the <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/florida/fl-building-code-2023\">Florida Building Code</a>, Building</span>.</div><div class=\"u-ml-4 u-mt-3\"><span class=\"u-font-bold\">Exception: </span>Standpipes shall be either temporary or permanent in nature, and with or without a water supply, provided that such standpipes conform to the requirements of <a class=\"autolink\" href=\"/viewer/florida/fl-building-code-2023/chapter/9/fire-protection-systems#905\">Section 905</a> of the <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/florida/fl-building-code-2023\">Florida Building Code</a>, Building</span> as to capacity, outlets and materials.</div>",
+                                        "depth": 2,
+                                        "diagrams": [],
+                                        "displayRef": null,
+                                        "displayTitle": "[F]  1506.3 Detailed Requirements",
+                                        "hasAssemblies": false,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 0,
+                                        "numDiagramsOnRef": 0,
+                                        "reference": "1506.3",
+                                        "refPrefix": "[F]",
+                                        "slug": "construction-safeguards",
+                                        "titleText": "Detailed Requirements",
+                                        "children": []
+                                    }
+                                ]
+                            },
+                            {
+                                "ancestorRefs": [
+                                    "15"
+                                ],
+                                "depth": 1,
+                                "diagrams": [],
+                                "displayRef": null,
+                                "displayTitle": "Section 1507 Automatic Sprinkler System",
+                                "divisionType": "Section",
+                                "hasAssemblies": false,
+                                "isContiguous": true,
+                                "numAssembliesOnRef": 0,
+                                "numBuildingProductsOnRef": 0,
+                                "numDiagramsOnRef": 0,
+                                "reference": "1507",
+                                "slug": "construction-safeguards",
+                                "titleText": "Automatic Sprinkler System",
+                                "children": [
+                                    {
+                                        "ancestorRefs": [
+                                            "15",
+                                            "1507"
+                                        ],
+                                        "body": "In portions of a building where an automatic sprinkler system is required by this code, it shall be unlawful to occupy those portions of the building until the automatic sprinkler system installation has been tested and <a class=\"autolink\" href=\"/viewer/florida/fl-existing-building-code-2023/chapter/2/definitions#approved\">approved</a>, except as provided in Section 110.3.",
+                                        "depth": 2,
+                                        "diagrams": [],
+                                        "displayRef": null,
+                                        "displayTitle": "[F]  1507.1 Completion Before Occupancy",
+                                        "hasAssemblies": false,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 0,
+                                        "numDiagramsOnRef": 0,
+                                        "reference": "1507.1",
+                                        "refPrefix": "[F]",
+                                        "slug": "construction-safeguards",
+                                        "titleText": "Completion Before Occupancy",
+                                        "children": []
+                                    },
+                                    {
+                                        "ancestorRefs": [
+                                            "15",
+                                            "1507"
+                                        ],
+                                        "body": "Operation of sprinkler control valves shall be permitted only by properly authorized personnel and shall be accompanied by notification of duly designated parties. When the sprinkler protection is being regularly turned off and on to facilitate connection of newly completed segments, the sprinkler control valves shall be checked at the end of each work period to ascertain that protection is in service.",
+                                        "depth": 2,
+                                        "diagrams": [],
+                                        "displayRef": null,
+                                        "displayTitle": "[F]  1507.2 Operation of Valves",
+                                        "hasAssemblies": false,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 0,
+                                        "numDiagramsOnRef": 0,
+                                        "reference": "1507.2",
+                                        "refPrefix": "[F]",
+                                        "slug": "construction-safeguards",
+                                        "titleText": "Operation of Valves",
+                                        "children": []
+                                    }
+                                ]
+                            },
+                            {
+                                "ancestorRefs": [
+                                    "15"
+                                ],
+                                "depth": 1,
+                                "diagrams": [],
+                                "displayRef": null,
+                                "displayTitle": "Section 1508 Accessibility",
+                                "divisionType": "Section",
+                                "hasAssemblies": false,
+                                "isContiguous": true,
+                                "numAssembliesOnRef": 0,
+                                "numBuildingProductsOnRef": 0,
+                                "numDiagramsOnRef": 0,
+                                "reference": "1508",
+                                "slug": "construction-safeguards",
+                                "titleText": "Accessibility",
+                                "children": [
+                                    {
+                                        "ancestorRefs": [
+                                            "15",
+                                            "1508"
+                                        ],
+                                        "body": "See the <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/ada\">Florida Building Code</a>, <a class=\"autolink\" href=\"/viewer/florida/fl-existing-building-code-2023/chapter/10/change-of-occupancy#1012.1.4\">Accessibility</a></span>.",
+                                        "depth": 2,
+                                        "diagrams": [],
+                                        "displayRef": null,
+                                        "displayTitle": "[BE]  1508.1 Construction Sites",
+                                        "hasAssemblies": false,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 0,
+                                        "numDiagramsOnRef": 0,
+                                        "reference": "1508.1",
+                                        "refPrefix": "[BE]",
+                                        "slug": "construction-safeguards",
+                                        "titleText": "Construction Sites",
+                                        "children": []
+                                    }
+                                ]
+                            },
+                            {
+                                "ancestorRefs": [
+                                    "15"
+                                ],
+                                "depth": 1,
+                                "diagrams": [],
+                                "displayRef": null,
+                                "displayTitle": "Section 1509 Water Supply for Fire Protection",
+                                "divisionType": "Section",
+                                "hasAssemblies": false,
+                                "isContiguous": true,
+                                "numAssembliesOnRef": 0,
+                                "numBuildingProductsOnRef": 0,
+                                "numDiagramsOnRef": 0,
+                                "reference": "1509",
+                                "slug": "construction-safeguards",
+                                "titleText": "Water Supply for Fire Protection",
+                                "children": [
+                                    {
+                                        "ancestorRefs": [
+                                            "15",
+                                            "1509"
+                                        ],
+                                        "body": "An <a class=\"autolink\" href=\"/viewer/florida/fl-existing-building-code-2023/chapter/2/definitions#approved\">approved</a> water supply for fire protection, either temporary or permanent, shall be made available as soon as combustible material arrives on the site.",
+                                        "depth": 2,
+                                        "diagrams": [],
+                                        "displayRef": null,
+                                        "displayTitle": "[F]  1509.1 When Required",
+                                        "hasAssemblies": false,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 0,
+                                        "numDiagramsOnRef": 0,
+                                        "reference": "1509.1",
+                                        "refPrefix": "[F]",
+                                        "slug": "construction-safeguards",
+                                        "titleText": "When Required",
+                                        "children": []
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            "chapterReference": "15"
+        },
+        "__N_SSP": true
+    },
+    "page": "/viewer/[urlFormPubOrJurisKey]/[urlFormPub]/chapter/[chapterRef]/[chapterName]",
+    "query": {
+        "urlFormPubOrJurisKey": "florida",
+        "urlFormPub": "fl-existing-building-code-2023",
+        "chapterRef": "15",
+        "chapterName": "construction-safeguards"
+    },
+    "buildId": "aNDb_KMgxj06vGZ7D_0_K",
+    "isFallback": false,
+    "isExperimentalCompile": false,
+    "dynamicIds": [
+        61621,
+        54065
+    ],
+    "gssp": true,
+    "scriptLoader": []
+}

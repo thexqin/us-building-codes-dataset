@@ -1,0 +1,1465 @@
+{
+    "props": {
+        "pageProps": {
+            "missingRequiredLogin": false,
+            "title": "Chapter 9 Alterations\u2014Level 3: California Existing Building Code 2025 | UpCodes",
+            "leanChapterViewerData": {
+                "basePubName": "International Existing Building Code 2024 (IEBC 2024)",
+                "codeGroupingYear": "2025",
+                "codeName": "California Existing Building Code 2025",
+                "codeUuid": "f9c6e25d-6ff2-4742-95f0-d003b39053bd",
+                "codeVersions": [
+                    {
+                        "codeUuid": "f9c6e25d-6ff2-4742-95f0-d003b39053bd",
+                        "name": "Original Adoption",
+                        "effectiveStartDate": "2026-01-01",
+                        "shortformUrlName": "ca-existing-building-code-2025",
+                        "activeStatus": "active"
+                    }
+                ],
+                "ingesterAmendmentsEnabled": false,
+                "ingesterCodeUnitsEnabled": false,
+                "isAmendStylingEnabled": false,
+                "isCorrespondable": true,
+                "jurisKey": "california",
+                "jurisName": "California",
+                "metaInfoUrl": "/viewer/california/ca-existing-building-code-2025",
+                "modelCodeUrl": null,
+                "placeholder": "Search California Existing Building Code 2025",
+                "pubKey": "california_ebc_2025",
+                "pubPrefix": "int_ebc",
+                "shortformPubName": "ca-existing-building-code-2025",
+                "withAmendments": true,
+                "chapterRef": "9",
+                "publisher": "icc",
+                "hasLinkedResources": false,
+                "initialNonChapterTocLines": [
+                    {
+                        "amendType": null,
+                        "children": [
+                            {
+                                "amendType": null,
+                                "children": [],
+                                "depth": 2,
+                                "displayTitle": "901.1 Scope",
+                                "hasExpanderArrow": false,
+                                "href": "#901.1",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "reference": "901.1"
+                            },
+                            {
+                                "amendType": null,
+                                "children": [],
+                                "depth": 2,
+                                "displayTitle": "901.2 Compliance",
+                                "hasExpanderArrow": false,
+                                "href": "#901.2",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "reference": "901.2"
+                            }
+                        ],
+                        "depth": 1,
+                        "displayTitle": "901 General",
+                        "hasExpanderArrow": true,
+                        "href": "#901",
+                        "isCodeDivider": false,
+                        "isCodeDividerClickable": false,
+                        "reference": "901"
+                    },
+                    {
+                        "amendType": null,
+                        "children": [
+                            {
+                                "amendType": null,
+                                "children": [],
+                                "depth": 2,
+                                "displayTitle": "902.1 <i>Reserved</i>",
+                                "hasExpanderArrow": false,
+                                "href": "#902.1",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "reference": "902.1"
+                            },
+                            {
+                                "amendType": null,
+                                "children": [
+                                    {
+                                        "amendType": null,
+                                        "children": [],
+                                        "depth": 3,
+                                        "displayTitle": "902.2.1 Smoke Barriers in Group R-2.1",
+                                        "hasExpanderArrow": false,
+                                        "href": "#902.2.1",
+                                        "isCodeDivider": false,
+                                        "isCodeDividerClickable": false,
+                                        "reference": "902.2.1"
+                                    }
+                                ],
+                                "depth": 2,
+                                "displayTitle": "902.2 Group R-2.1 Occupancies",
+                                "hasExpanderArrow": true,
+                                "href": "#902.2",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "reference": "902.2"
+                            },
+                            {
+                                "amendType": null,
+                                "children": [],
+                                "depth": 2,
+                                "displayTitle": "902.3 Ambulatory Care Facilities",
+                                "hasExpanderArrow": false,
+                                "href": "#902.3",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "reference": "902.3"
+                            }
+                        ],
+                        "depth": 1,
+                        "displayTitle": "902 Special Use and Occupancy",
+                        "hasExpanderArrow": true,
+                        "href": "#902",
+                        "isCodeDivider": false,
+                        "isCodeDividerClickable": false,
+                        "reference": "902"
+                    },
+                    {
+                        "amendType": null,
+                        "children": [
+                            {
+                                "amendType": null,
+                                "children": [],
+                                "depth": 2,
+                                "displayTitle": "903.1 Existing Shafts and Vertical Openings",
+                                "hasExpanderArrow": false,
+                                "href": "#903.1",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "reference": "903.1"
+                            },
+                            {
+                                "amendType": null,
+                                "children": [
+                                    {
+                                        "amendType": null,
+                                        "children": [],
+                                        "depth": 3,
+                                        "displayTitle": "903.2.1 Separation Required",
+                                        "hasExpanderArrow": false,
+                                        "href": "#903.2.1",
+                                        "isCodeDivider": false,
+                                        "isCodeDividerClickable": false,
+                                        "reference": "903.2.1"
+                                    }
+                                ],
+                                "depth": 2,
+                                "displayTitle": "903.2 Fire Partitions in Group R-3",
+                                "hasExpanderArrow": true,
+                                "href": "#903.2",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "reference": "903.2"
+                            },
+                            {
+                                "amendType": null,
+                                "children": [],
+                                "depth": 2,
+                                "displayTitle": "903.3 Interior Finish",
+                                "hasExpanderArrow": false,
+                                "href": "#903.3",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "reference": "903.3"
+                            },
+                            {
+                                "amendType": null,
+                                "children": [],
+                                "depth": 2,
+                                "displayTitle": "903.4 Enhanced Classroom Acoustics",
+                                "hasExpanderArrow": false,
+                                "href": "#903.4",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "reference": "903.4"
+                            }
+                        ],
+                        "depth": 1,
+                        "displayTitle": "903 Building Elements and Materials",
+                        "hasExpanderArrow": true,
+                        "href": "#903",
+                        "isCodeDivider": false,
+                        "isCodeDividerClickable": false,
+                        "reference": "903"
+                    },
+                    {
+                        "amendType": null,
+                        "children": [
+                            {
+                                "amendType": null,
+                                "children": [],
+                                "depth": 2,
+                                "displayTitle": "904.1 Automatic Sprinkler Systems",
+                                "hasExpanderArrow": false,
+                                "href": "#904.1",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "reference": "904.1"
+                            },
+                            {
+                                "amendType": null,
+                                "children": [
+                                    {
+                                        "amendType": null,
+                                        "children": [],
+                                        "depth": 3,
+                                        "displayTitle": "904.2.1 <i>Systems Out of Service</i>",
+                                        "hasExpanderArrow": false,
+                                        "href": "#904.2.1",
+                                        "isCodeDivider": false,
+                                        "isCodeDividerClickable": false,
+                                        "reference": "904.2.1"
+                                    }
+                                ],
+                                "depth": 2,
+                                "displayTitle": "904.2 Fire Alarm and Detection Systems",
+                                "hasExpanderArrow": true,
+                                "href": "#904.2",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "reference": "904.2"
+                            }
+                        ],
+                        "depth": 1,
+                        "displayTitle": "904 Fire Protection",
+                        "hasExpanderArrow": true,
+                        "href": "#904",
+                        "isCodeDivider": false,
+                        "isCodeDividerClickable": false,
+                        "reference": "904"
+                    },
+                    {
+                        "amendType": null,
+                        "children": [
+                            {
+                                "amendType": null,
+                                "children": [],
+                                "depth": 2,
+                                "displayTitle": "905.1 General",
+                                "hasExpanderArrow": false,
+                                "href": "#905.1",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "reference": "905.1"
+                            },
+                            {
+                                "amendType": null,
+                                "children": [],
+                                "depth": 2,
+                                "displayTitle": "905.2 Means-of-Egress Lighting",
+                                "hasExpanderArrow": false,
+                                "href": "#905.2",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "reference": "905.2"
+                            },
+                            {
+                                "amendType": null,
+                                "children": [],
+                                "depth": 2,
+                                "displayTitle": "905.3 Exit Signs",
+                                "hasExpanderArrow": false,
+                                "href": "#905.3",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "reference": "905.3"
+                            },
+                            {
+                                "amendType": null,
+                                "children": [],
+                                "depth": 2,
+                                "displayTitle": "905.4 Two-Way Communications Systems",
+                                "hasExpanderArrow": false,
+                                "href": "#905.4",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "reference": "905.4"
+                            }
+                        ],
+                        "depth": 1,
+                        "displayTitle": "905 Means of Egress",
+                        "hasExpanderArrow": true,
+                        "href": "#905",
+                        "isCodeDivider": false,
+                        "isCodeDividerClickable": false,
+                        "reference": "905"
+                    },
+                    {
+                        "amendType": null,
+                        "children": [
+                            {
+                                "amendType": null,
+                                "children": [],
+                                "depth": 2,
+                                "displayTitle": "906.1 General",
+                                "hasExpanderArrow": false,
+                                "href": "#906.1",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "reference": "906.1"
+                            },
+                            {
+                                "amendType": null,
+                                "children": [],
+                                "depth": 2,
+                                "displayTitle": "906.2 Existing Structural Elements Resisting Lateral Loads",
+                                "hasExpanderArrow": false,
+                                "href": "#906.2",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "reference": "906.2"
+                            },
+                            {
+                                "amendType": null,
+                                "children": [],
+                                "depth": 2,
+                                "displayTitle": "906.3 Seismic Design Category F",
+                                "hasExpanderArrow": false,
+                                "href": "#906.3",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "reference": "906.3"
+                            },
+                            {
+                                "amendType": null,
+                                "children": [],
+                                "depth": 2,
+                                "displayTitle": "906.4 Anchorage for Concrete and Masonry Buildings",
+                                "hasExpanderArrow": false,
+                                "href": "#906.4",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "reference": "906.4"
+                            },
+                            {
+                                "amendType": null,
+                                "children": [],
+                                "depth": 2,
+                                "displayTitle": "906.5 Anchorage for Unreinforced Masonry Walls",
+                                "hasExpanderArrow": false,
+                                "href": "#906.5",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "reference": "906.5"
+                            },
+                            {
+                                "amendType": null,
+                                "children": [],
+                                "depth": 2,
+                                "displayTitle": "906.6 Bracing for Unreinforced Masonry Parapets",
+                                "hasExpanderArrow": false,
+                                "href": "#906.6",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "reference": "906.6"
+                            },
+                            {
+                                "amendType": null,
+                                "children": [],
+                                "depth": 2,
+                                "displayTitle": "906.7 Anchorage of Unreinforced Masonry Partitions",
+                                "hasExpanderArrow": false,
+                                "href": "#906.7",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "reference": "906.7"
+                            }
+                        ],
+                        "depth": 1,
+                        "displayTitle": "906 Structural",
+                        "hasExpanderArrow": true,
+                        "href": "#906",
+                        "isCodeDivider": false,
+                        "isCodeDividerClickable": false,
+                        "reference": "906"
+                    },
+                    {
+                        "amendType": null,
+                        "children": [
+                            {
+                                "amendType": null,
+                                "children": [],
+                                "depth": 2,
+                                "displayTitle": "907.1 <i>Minimum Requirements</i>",
+                                "hasExpanderArrow": false,
+                                "href": "#907.1",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "reference": "907.1"
+                            }
+                        ],
+                        "depth": 1,
+                        "displayTitle": "907 Energy Conservation",
+                        "hasExpanderArrow": true,
+                        "href": "#907",
+                        "isCodeDivider": false,
+                        "isCodeDividerClickable": false,
+                        "reference": "907"
+                    },
+                    {
+                        "amendType": null,
+                        "children": [
+                            {
+                                "amendType": null,
+                                "children": [
+                                    {
+                                        "amendType": null,
+                                        "children": [],
+                                        "depth": 3,
+                                        "displayTitle": "908.1.1 Evaluation",
+                                        "hasExpanderArrow": false,
+                                        "href": "#908.1.1",
+                                        "isCodeDivider": false,
+                                        "isCodeDividerClickable": false,
+                                        "reference": "908.1.1"
+                                    },
+                                    {
+                                        "amendType": null,
+                                        "children": [],
+                                        "depth": 3,
+                                        "displayTitle": "908.1.2 Compliance",
+                                        "hasExpanderArrow": false,
+                                        "href": "#908.1.2",
+                                        "isCodeDivider": false,
+                                        "isCodeDividerClickable": false,
+                                        "reference": "908.1.2"
+                                    }
+                                ],
+                                "depth": 2,
+                                "displayTitle": "908.1 Emergency Responder Communication Enhancement System Coverage",
+                                "hasExpanderArrow": true,
+                                "href": "#908.1",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "reference": "908.1"
+                            }
+                        ],
+                        "depth": 1,
+                        "displayTitle": "908 Emergency Responder Communications Enhancement System Coverage",
+                        "hasExpanderArrow": true,
+                        "href": "#908",
+                        "isCodeDivider": false,
+                        "isCodeDividerClickable": false,
+                        "reference": "908"
+                    }
+                ],
+                "title": "Chapter 9 Alterations\u2014Level 3: California Existing Building Code 2025 | UpCodes",
+                "leanChapterLines": [
+                    {
+                        "displayTitle": "Chapter 1 <i>Administration</i>",
+                        "isExpandable": true,
+                        "reference": "1",
+                        "slug": "administration"
+                    },
+                    {
+                        "displayTitle": "Chapter 2 Definitions",
+                        "isExpandable": true,
+                        "reference": "2",
+                        "slug": "definitions"
+                    },
+                    {
+                        "displayTitle": "Chapter 3 Provisions for All Compliance Methods",
+                        "isExpandable": true,
+                        "reference": "3",
+                        "slug": "provisions-for-all-compliance-methods"
+                    },
+                    {
+                        "displayTitle": "Chapter 3A Provisions for All Compliance Methods",
+                        "isExpandable": true,
+                        "reference": "3A",
+                        "slug": "provisions-for-all-compliance-methods"
+                    },
+                    {
+                        "displayTitle": "Chapter 4 Repairs",
+                        "isExpandable": true,
+                        "reference": "4",
+                        "slug": "repairs"
+                    },
+                    {
+                        "displayTitle": "Chapter 4A Repairs",
+                        "isExpandable": true,
+                        "reference": "4A",
+                        "slug": "repairs"
+                    },
+                    {
+                        "displayTitle": "Chapter 5 Prescriptive Compliance Method",
+                        "isExpandable": true,
+                        "reference": "5",
+                        "slug": "prescriptive-compliance-method"
+                    },
+                    {
+                        "displayTitle": "Chapter 5A Prescriptive Compliance Method",
+                        "isExpandable": true,
+                        "reference": "5A",
+                        "slug": "prescriptive-compliance-method"
+                    },
+                    {
+                        "displayTitle": "Chapter 6 Classification of Work",
+                        "isExpandable": true,
+                        "reference": "6",
+                        "slug": "classification-of-work"
+                    },
+                    {
+                        "displayTitle": "Chapter 7 Alterations\u2014Level 1",
+                        "isExpandable": true,
+                        "reference": "7",
+                        "slug": "alterations-level-1"
+                    },
+                    {
+                        "displayTitle": "Chapter 8 Alterations\u2014Level 2",
+                        "isExpandable": true,
+                        "reference": "8",
+                        "slug": "alterations-level-2"
+                    },
+                    {
+                        "displayTitle": "Chapter 9 Alterations\u2014Level 3",
+                        "isExpandable": true,
+                        "reference": "9",
+                        "slug": "alterations-level-3"
+                    },
+                    {
+                        "displayTitle": "Chapter 10 Change of Occupancy",
+                        "isExpandable": true,
+                        "reference": "10",
+                        "slug": "change-of-occupancy"
+                    },
+                    {
+                        "displayTitle": "Chapter 11 Additions",
+                        "isExpandable": true,
+                        "reference": "11",
+                        "slug": "additions"
+                    },
+                    {
+                        "displayTitle": "Chapter 12 Historic Buildings",
+                        "reference": "12",
+                        "slug": "historic-buildings"
+                    },
+                    {
+                        "displayTitle": "Chapter 13 Performance Compliance Methods",
+                        "isExpandable": true,
+                        "reference": "13",
+                        "slug": "performance-compliance-methods"
+                    },
+                    {
+                        "displayTitle": "Chapter 14 Relocated or Moved Buildings",
+                        "isExpandable": true,
+                        "reference": "14",
+                        "slug": "relocated-or-moved-buildings"
+                    },
+                    {
+                        "displayTitle": "Chapter 15 Construction Safeguards",
+                        "isExpandable": true,
+                        "reference": "15",
+                        "slug": "construction-safeguards"
+                    },
+                    {
+                        "displayTitle": "Chapter 16 Referenced Standards",
+                        "reference": "16",
+                        "slug": "referenced-standards"
+                    },
+                    {
+                        "displayTitle": "Appendix A Guidelines for the Seismic Retrofit of Existing Buildings",
+                        "isExpandable": true,
+                        "reference": "A",
+                        "slug": "guidelines-for-the-seismic-retrofit-of-existing-buildings"
+                    },
+                    {
+                        "disabled": true,
+                        "displayTitle": "Appendix B Supplementary Accessibility Requirements for Existing Buildings and Facilities",
+                        "reference": "B",
+                        "slug": "supplementary-accessibility-requirements-for-existing-buildings-and-facilities"
+                    },
+                    {
+                        "disabled": true,
+                        "displayTitle": "Appendix C Guidelines for the Wind Retrofit of Existing Buildings",
+                        "reference": "C",
+                        "slug": "guidelines-for-the-wind-retrofit-of-existing-buildings"
+                    },
+                    {
+                        "disabled": true,
+                        "displayTitle": "Appendix D Board of Appeals",
+                        "reference": "D",
+                        "slug": "board-of-appeals"
+                    },
+                    {
+                        "disabled": true,
+                        "displayTitle": "Appendix E Temporary Emergency Uses",
+                        "reference": "E",
+                        "slug": "temporary-emergency-uses"
+                    },
+                    {
+                        "disabled": true,
+                        "displayTitle": "Resource A Guidelines on Fire Ratings of Archaic Materials and Assemblies",
+                        "reference": "resource_A",
+                        "slug": "guidelines-on-fire-ratings-of-archaic-materials-and-assemblies"
+                    },
+                    {
+                        "displayTitle": "History Note Appendix",
+                        "reference": "history_note_appendix_",
+                        "slug": "history-note-appendix"
+                    }
+                ],
+                "leanCodeSectionsTree": [
+                    {
+                        "ancestorRefs": [],
+                        "body": "<figure>\n<figcaption>\n<div class=\"u-mb-3 u-mt-3\"><span class=\"u-font-bold\">CALIFORNIA <a class=\"autolink\" href=\"/viewer/california/ca-existing-building-code-2025/chapter/2/definitions#existing_building_\">EXISTING BUILDING</a> CODE \u2014 MATRIX ADOPTION TABLE <br/>CHAPTER 9 \u2014 <a class=\"autolink\" href=\"/viewer/california/ca-existing-building-code-2025/chapter/2/definitions#alteration_\">ALTERATIONS</a>\u2014LEVEL <a class=\"autolink\" href=\"/viewer/california/ca-existing-building-code-2025/chapter/3/provisions-for-all-compliance-methods#3\">3</a></span></div>\n<div class=\"u-text-center u-mb-3 u-mt-3\">(Matrix Adoption Tables are nonregulatory, intended only as an aid to the code user. <br/>See <a class=\"autolink\" href=\"/viewer/california/ca-existing-building-code-2025/chapter/1/administration#1\">Chapter 1</a> for state agency authority and building applications.)</div>\n</figcaption>\n<table class=\"uc_all_borders\">\n<thead>\n<tr>\n<th class=\"u-align-middle u-text-left\" rowspan=\"2\">Adopting Agency</th>\n<th class=\"u-align-middle u-text-center\" rowspan=\"2\"><span class=\"u-font-bold\">BSC</span></th>\n<th class=\"u-align-middle u-text-center\" rowspan=\"2\"><span class=\"u-font-bold\">BSC-</span>\n<div><span class=\"u-font-bold\">CG</span></div>\n</th>\n<th class=\"u-align-middle u-text-center\" rowspan=\"2\"><span class=\"u-font-bold\">SFM</span></th>\n<th class=\"u-align-middle u-text-center\" colspan=\"3\"><span class=\"u-font-bold\">HCD</span></th>\n<th class=\"u-align-middle u-text-center\" colspan=\"3\"><span class=\"u-font-bold\">DSA</span></th>\n<th class=\"u-align-middle u-text-center\" colspan=\"6\"><span class=\"u-font-bold\">OSHPD</span></th>\n<th class=\"u-align-middle u-text-center\">&nbsp;</th>\n<th class=\"u-align-middle u-text-center\" rowspan=\"2\"><span class=\"u-font-bold\">BSCC</span></th>\n<th class=\"u-align-middle u-text-center\" rowspan=\"2\"><span class=\"u-font-bold\">DPH</span></th>\n<th class=\"u-align-middle u-text-center\" rowspan=\"2\"><span class=\"u-font-bold\">AGR</span></th>\n<th class=\"u-align-middle u-text-center\" rowspan=\"2\"><span class=\"u-font-bold\">DWR</span></th>\n<th class=\"u-align-middle u-text-center\" rowspan=\"2\"><span class=\"u-font-bold\">CEC</span></th>\n<th class=\"u-align-middle u-text-center\" rowspan=\"2\"><span class=\"u-font-bold\">CA</span></th>\n<th class=\"u-align-middle u-text-center\" rowspan=\"2\"><span class=\"u-font-bold\">SL</span></th>\n<th class=\"u-align-middle u-text-center\" rowspan=\"2\"><span class=\"u-font-bold\">SLC</span></th>\n</tr>\n<tr>\n<th class=\"u-align-middle u-text-center\"><span class=\"u-font-bold\">1</span></th>\n<th class=\"u-align-middle u-text-center\"><span class=\"u-font-bold\">2</span></th>\n<th class=\"u-align-middle u-text-center\"><span class=\"u-font-bold\">1/AC</span></th>\n<th class=\"u-align-middle u-text-center\"><span class=\"u-font-bold\">AC</span></th>\n<th class=\"u-align-middle u-text-center\"><span class=\"u-font-bold\">SS</span></th>\n<th class=\"u-align-middle u-text-center\"><span class=\"u-font-bold\">SS/CC</span></th>\n<th class=\"u-align-middle u-text-center\"><span class=\"u-font-bold\">1</span></th>\n<th class=\"u-align-middle u-text-center\"><span class=\"u-font-bold\">1R</span></th>\n<th class=\"u-align-middle u-text-center\"><span class=\"u-font-bold\">2</span></th>\n<th class=\"u-align-middle u-text-center\"><span class=\"u-font-bold\">3</span></th>\n<th class=\"u-align-middle u-text-center\"><span class=\"u-font-bold\">4</span></th>\n<th class=\"u-align-middle u-text-center\"><span class=\"u-font-bold\">5</span></th>\n<th class=\"u-align-middle u-text-center\"><span class=\"u-font-bold\">6</span></th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td class=\"u-align-middle u-text-left uc_all_borders\">Adopt Entire Chapter</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\"><span class=\"u-font-bold\">X</span></td>\n<td class=\"u-align-middle u-text-center uc_all_borders\"><span class=\"u-font-bold\">X</span></td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n</tr>\n<tr>\n<td class=\"u-align-middle u-text-left uc_all_borders\">Adopt Entire Chapter as amended (amended sections listed below)</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\"><span class=\"u-font-bold\">X</span></td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n</tr>\n<tr>\n<td class=\"u-align-middle u-text-left uc_all_borders\">Adopt only those sections that are listed below</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n</tr>\n<tr>\n<td class=\"u-align-middle u-text-left uc_all_borders\">Chapter / Section</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n</tr>\n<tr>\n<td class=\"u-align-middle u-text-left uc_all_borders\"><a class=\"autolink\" href=\"#901.2\">901.2</a> Exception</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">\u2020</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">\u2020</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n</tr>\n<tr>\n<td class=\"u-align-middle u-text-left uc_all_borders\"><a class=\"autolink\" href=\"#902.1\">902.1</a><span class=\"u-italic\"> Reserved</span></td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">X</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n</tr>\n<tr>\n<td class=\"u-align-middle u-text-left uc_all_borders\"><a class=\"autolink\" href=\"#902.2\">902.2</a> \u2014 <a class=\"autolink\" href=\"#902.2.1\">902.2.1</a></td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">X</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n</tr>\n<tr>\n<td class=\"u-align-middle u-text-left uc_all_borders\"><a class=\"autolink\" href=\"#902.2\">902.2</a> \u2014 <a class=\"autolink\" href=\"#902.3\">902.3</a></td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">\u2020</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">\u2020</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n</tr>\n<tr>\n<td class=\"u-align-middle u-text-left uc_all_borders\"><a class=\"autolink\" href=\"#903.4\">903.4</a></td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">\u2020</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">\u2020</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n</tr>\n<tr>\n<td class=\"u-align-middle u-text-left uc_all_borders\"><a class=\"autolink\" href=\"#904.1\">904.1</a></td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">X</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n</tr>\n<tr>\n<td class=\"u-align-middle u-text-left uc_all_borders\"><a class=\"autolink\" href=\"#904.2\">904.2</a></td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">X</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n</tr>\n<tr>\n<td class=\"u-align-middle u-text-left uc_all_borders\"><a class=\"autolink\" href=\"#904.2.1\">904.2.1</a></td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">X</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n</tr>\n<tr>\n<td class=\"u-align-middle u-text-left uc_all_borders\">908</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">\u2020</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">\u2020</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n<td class=\"u-align-middle u-text-center uc_all_borders\">&nbsp;</td>\n</tr>\n</tbody>\n</table>\n<div>\n<div class=\"u-text-12px u-mb-3 u-mt-3\">The state agency does not adopt sections identified with the following symbol: \u2020</div>\n<div class=\"u-text-12px u-mb-3 u-mt-3\">The Office of the State Fire Marshal's adoption of this chapter or individual sections is applicable to structures regulated by other state agencies pursuant to <a class=\"autolink\" href=\"/viewer/california/ca-existing-building-code-2025/chapter/1/administration#1.11\">Section 1.11</a>.</div>\n</div>\n</figure>\n<div class=\"u-mt-4\">\n<div class=\"u-font-bold u-mb-3 u-mt-3\"><i>User notes:</i></div>\n<div class=\"u-mb-3 u-mt-3\"><i><b>About this chapter:</b> Chapter 9 provides the technical requirements for those <a class=\"autolink\" href=\"/viewer/california/ca-existing-building-code-2025/chapter/2/definitions#existing_building_\">existing buildings</a> that undergo Level 3 <a class=\"autolink\" href=\"/viewer/california/ca-existing-building-code-2025/chapter/2/definitions#alteration_\">alterations</a>. The <a class=\"autolink\" href=\"/viewer/california/ca-existing-building-code-2025/chapter/A/guidelines-for-the-seismic-retrofit-of-existing-buildings#A401.1\">purpose</a> of this chapter is to provide detailed requirements and provisions to identify the required improvements in the <a class=\"autolink\" href=\"/viewer/california/ca-existing-building-code-2025/chapter/2/definitions#existing_building_\">existing building</a> elements, building spaces and building structural system. This chapter is distinguished from Chapters <a class=\"autolink\" href=\"/viewer/california/ca-existing-building-code-2025/chapter/7/alterations-level-1#7\">7</a> and <a class=\"autolink\" href=\"/viewer/california/ca-existing-building-code-2025/chapter/8/alterations-level-2#8\">8</a> by involving <a class=\"autolink\" href=\"/viewer/california/ca-existing-building-code-2025/chapter/2/definitions#alteration_\">alterations</a> that cover 50 percent or more of the aggregate area of the building. In contrast, Level 1 <a class=\"autolink\" href=\"/viewer/california/ca-existing-building-code-2025/chapter/2/definitions#alteration_\">alterations</a> do not involve space reconfiguration, and Level 2 <a class=\"autolink\" href=\"/viewer/california/ca-existing-building-code-2025/chapter/2/definitions#alteration_\">alterations</a> involve extensive space reconfiguration that does not exceed 50 percent of the building area. Depending on the nature of <a class=\"autolink\" href=\"/viewer/california/ca-existing-building-code-2025/chapter/2/definitions#alteration_\">alteration</a> work, its location within the building, and whether it encompasses one or more tenants, improvements and upgrades could be required for the open floor penetrations, sprinkler system or the installation of additional means of egress such as stairs or fire escapes. At times and under certain situations, this chapter also is intended to improve the safety of certain building features beyond the <a class=\"autolink\" href=\"/viewer/california/ca-existing-building-code-2025/chapter/2/definitions#work_area_\">work area</a> and in other parts of the building where no <a class=\"autolink\" href=\"/viewer/california/ca-existing-building-code-2025/chapter/2/definitions#alteration_\">alteration</a> work might be taking place.</i></div>\n</div>",
+                        "depth": 0,
+                        "diagrams": [],
+                        "displayRef": null,
+                        "displayTitle": "Chapter 9 Alterations\u2014Level 3",
+                        "divisionType": "Chapter",
+                        "hasAssemblies": false,
+                        "isContiguous": true,
+                        "numAssembliesOnRef": 0,
+                        "numBuildingProductsOnRef": 0,
+                        "numDiagramsOnRef": 0,
+                        "reference": "9",
+                        "slug": "alterations-level-3",
+                        "titleText": "Alterations\u2014Level 3",
+                        "children": [
+                            {
+                                "ancestorRefs": [
+                                    "9"
+                                ],
+                                "depth": 1,
+                                "diagrams": [],
+                                "displayRef": null,
+                                "displayTitle": "Section 901 General",
+                                "divisionType": "Section",
+                                "hasAssemblies": false,
+                                "isContiguous": true,
+                                "numAssembliesOnRef": 0,
+                                "numBuildingProductsOnRef": 0,
+                                "numDiagramsOnRef": 0,
+                                "reference": "901",
+                                "slug": "alterations-level-3",
+                                "titleText": "General",
+                                "children": [
+                                    {
+                                        "ancestorRefs": [
+                                            "9",
+                                            "901"
+                                        ],
+                                        "body": "Level 3 <a class=\"autolink\" href=\"/viewer/california/ca-existing-building-code-2025/chapter/13/performance-compliance-methods#1302.1.4\">alterations</a> as described in <a class=\"autolink\" href=\"/viewer/california/ca-existing-building-code-2025/chapter/6/classification-of-work#604\">Section 604</a> shall comply with the requirements of this chapter.",
+                                        "depth": 2,
+                                        "diagrams": [],
+                                        "displayRef": null,
+                                        "displayTitle": "901.1 Scope",
+                                        "hasAssemblies": false,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 0,
+                                        "numDiagramsOnRef": 0,
+                                        "reference": "901.1",
+                                        "slug": "alterations-level-3",
+                                        "titleText": "Scope",
+                                        "children": []
+                                    },
+                                    {
+                                        "ancestorRefs": [
+                                            "9",
+                                            "901"
+                                        ],
+                                        "body": "<div class=\"u-mb-3\">In addition to the provisions of this chapter, work shall comply with all of the requirements of Chapters <a class=\"autolink\" href=\"/viewer/california/ca-existing-building-code-2025/chapter/7/alterations-level-1#7\">7</a> and <a class=\"autolink\" href=\"/viewer/california/ca-existing-building-code-2025/chapter/8/alterations-level-2#8\">8</a>. The requirements of Sections <a class=\"autolink\" href=\"/viewer/california/ca-existing-building-code-2025/chapter/8/alterations-level-2#802\">802</a>, <a class=\"autolink\" href=\"/viewer/california/ca-existing-building-code-2025/chapter/8/alterations-level-2#803\">803</a>, <a class=\"autolink\" href=\"/viewer/california/ca-existing-building-code-2025/chapter/8/alterations-level-2#804\">804</a> and <a class=\"autolink\" href=\"/viewer/california/ca-existing-building-code-2025/chapter/8/alterations-level-2#805\">805</a> shall apply within all <a class=\"autolink\" href=\"/viewer/california/ca-existing-building-code-2025/chapter/2/definitions#work_area_\">work areas</a> whether or not they include exits and corridors shared by more than one tenant and regardless of the occupant load.</div>\n<div class=\"uc_exception\">\n    <span class=\"u-font-bold\">Exception: </span> Buildings in which the reconfiguration of space affecting exits or shared egress access is exclusively the result of compliance with the accessibility requirements of Section 306.7.1 shall not be required to comply with this chapter.</div>",
+                                        "depth": 2,
+                                        "diagrams": [],
+                                        "displayRef": null,
+                                        "displayTitle": "901.2 Compliance",
+                                        "hasAssemblies": false,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 0,
+                                        "numDiagramsOnRef": 0,
+                                        "reference": "901.2",
+                                        "slug": "alterations-level-3",
+                                        "titleText": "Compliance",
+                                        "children": []
+                                    }
+                                ]
+                            },
+                            {
+                                "ancestorRefs": [
+                                    "9"
+                                ],
+                                "depth": 1,
+                                "diagrams": [],
+                                "displayRef": null,
+                                "displayTitle": "Section 902 Special Use and Occupancy",
+                                "divisionType": "Section",
+                                "hasAssemblies": false,
+                                "isContiguous": true,
+                                "numAssembliesOnRef": 0,
+                                "numBuildingProductsOnRef": 0,
+                                "numDiagramsOnRef": 0,
+                                "reference": "902",
+                                "slug": "alterations-level-3",
+                                "titleText": "Special Use and Occupancy",
+                                "children": [
+                                    {
+                                        "ancestorRefs": [
+                                            "9",
+                                            "902"
+                                        ],
+                                        "depth": 2,
+                                        "diagrams": [],
+                                        "displayRef": null,
+                                        "displayTitle": "902.1 <i>Reserved</i>",
+                                        "hasAssemblies": false,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 0,
+                                        "numDiagramsOnRef": 0,
+                                        "reference": "902.1",
+                                        "slug": "alterations-level-3",
+                                        "titleText": "<i>Reserved</i>",
+                                        "children": []
+                                    },
+                                    {
+                                        "ancestorRefs": [
+                                            "9",
+                                            "902"
+                                        ],
+                                        "body": "<div>Group<span class=\"u-italic\"> <a class=\"autolink\" href=\"/viewer/california/ca-existing-building-code-2025/chapter/11/additions#1101.5\">R-2.1</a> </span> occupancies shall be classified in accordance with <a class=\"autolink\" href=\"/viewer/california/ca-building-code-2025/chapter/3/occupancy-classification-and-use#308.2\">Section 308.2</a> of the <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/california/ca-building-code-2025\">California Building Code</a></span>.</div>",
+                                        "depth": 2,
+                                        "diagrams": [],
+                                        "displayRef": null,
+                                        "displayTitle": "902.2 Group R-2.1 Occupancies",
+                                        "hasAssemblies": false,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 0,
+                                        "numDiagramsOnRef": 0,
+                                        "reference": "902.2",
+                                        "slug": "alterations-level-3",
+                                        "titleText": "Group R-2.1 Occupancies",
+                                        "children": [
+                                            {
+                                                "ancestorRefs": [
+                                                    "9",
+                                                    "902",
+                                                    "902.2"
+                                                ],
+                                                "body": "<div>In Group <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/california/ca-existing-building-code-2025/chapter/11/additions#1101.5\">R-2.1</a></span> occupancies where the <a class=\"autolink\" href=\"/viewer/california/ca-existing-building-code-2025/chapter/2/definitions#work_area_\">work area</a> is on a <a class=\"autolink\" href=\"/viewer/california/ca-existing-building-code-2025/chapter/A/guidelines-for-the-seismic-retrofit-of-existing-buildings#story_\">story</a> used for sleeping rooms for more than 30 care recipients, the <a class=\"autolink\" href=\"/viewer/california/ca-existing-building-code-2025/chapter/A/guidelines-for-the-seismic-retrofit-of-existing-buildings#story_\">story</a> shall be divided into not fewer than two compartments by smoke barrier walls in accordance with <a class=\"autolink\" href=\"/viewer/california/ca-building-code-2025/chapter/4/special-detailed-requirements-based-on-occupancy-and-use#420.6\">Section 420.6</a> of the <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/california/ca-building-code-2025\">California Building Code</a></span>.</div>",
+                                                "depth": 3,
+                                                "diagrams": [],
+                                                "displayRef": null,
+                                                "displayTitle": "902.2.1 Smoke Barriers in Group R-2.1",
+                                                "hasAssemblies": false,
+                                                "isContiguous": true,
+                                                "numAssembliesOnRef": 0,
+                                                "numBuildingProductsOnRef": 0,
+                                                "numDiagramsOnRef": 0,
+                                                "reference": "902.2.1",
+                                                "slug": "alterations-level-3",
+                                                "titleText": "Smoke Barriers in Group R-2.1",
+                                                "children": []
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "ancestorRefs": [
+                                            "9",
+                                            "902"
+                                        ],
+                                        "body": "<div class=\"u-mb-3\">Where a Level 3 <a class=\"autolink\" href=\"/viewer/california/ca-existing-building-code-2025/chapter/2/definitions#work_area_\">work area</a> includes an existing <a class=\"autolink\" href=\"/viewer/california/ca-existing-building-code-2025/chapter/2/definitions#ambulatory_care_facility_\">ambulatory care facility</a>, the following shall be provided:</div><ol><li>A smoke compartment in accordance with <a class=\"autolink\" href=\"/viewer/california/ca-building-code-2025/chapter/4/special-detailed-requirements-based-on-occupancy-and-use#422.3\">Section 422.3</a> of the <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/california/ca-building-code-2025\">California Building Code</a></span>, where the <a class=\"autolink\" href=\"/viewer/california/ca-existing-building-code-2025/chapter/2/definitions#alteration_\">alteration</a> results in an <a class=\"autolink\" href=\"/viewer/california/ca-existing-building-code-2025/chapter/2/definitions#ambulatory_care_facility_\">ambulatory care facility</a> greater than 10,000 square feet on one <a class=\"autolink\" href=\"/viewer/california/ca-existing-building-code-2025/chapter/A/guidelines-for-the-seismic-retrofit-of-existing-buildings#story_\">story</a>.</li><li>Separation from adjacent spaces in accordance with <a class=\"autolink\" href=\"/viewer/california/ca-building-code-2025/chapter/4/special-detailed-requirements-based-on-occupancy-and-use#422.2\">Section 422.2</a> of the <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/california/ca-building-code-2025\">California Building Code</a></span>, where any such <a class=\"autolink\" href=\"/viewer/california/ca-existing-building-code-2025/chapter/2/definitions#facility_\">facility</a> has the potential for four or more care recipients incapable of self-preservation at any time.</li></ol>",
+                                        "depth": 2,
+                                        "diagrams": [],
+                                        "displayRef": null,
+                                        "displayTitle": "902.3 Ambulatory Care Facilities",
+                                        "hasAssemblies": false,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 0,
+                                        "numDiagramsOnRef": 0,
+                                        "reference": "902.3",
+                                        "slug": "alterations-level-3",
+                                        "titleText": "Ambulatory Care Facilities",
+                                        "children": []
+                                    }
+                                ]
+                            },
+                            {
+                                "ancestorRefs": [
+                                    "9"
+                                ],
+                                "depth": 1,
+                                "diagrams": [],
+                                "displayRef": null,
+                                "displayTitle": "Section 903 Building Elements and Materials",
+                                "divisionType": "Section",
+                                "hasAssemblies": false,
+                                "isContiguous": true,
+                                "numAssembliesOnRef": 0,
+                                "numBuildingProductsOnRef": 0,
+                                "numDiagramsOnRef": 0,
+                                "reference": "903",
+                                "slug": "alterations-level-3",
+                                "titleText": "Building Elements and Materials",
+                                "children": [
+                                    {
+                                        "ancestorRefs": [
+                                            "9",
+                                            "903"
+                                        ],
+                                        "body": "<div>Existing stairways that are part of the means of egress shall be enclosed in accordance with  <a class=\"autolink\" href=\"/viewer/california/ca-existing-building-code-2025/chapter/8/alterations-level-2#802.2.1\">Section 802.2.1</a> from the highest <a class=\"autolink\" href=\"/viewer/california/ca-existing-building-code-2025/chapter/2/definitions#work_area_\">work area</a> floor to, and including, the level of exit discharge and all floors below.</div>",
+                                        "depth": 2,
+                                        "diagrams": [],
+                                        "displayRef": null,
+                                        "displayTitle": "903.1 Existing Shafts and Vertical Openings",
+                                        "hasAssemblies": false,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 0,
+                                        "numDiagramsOnRef": 0,
+                                        "reference": "903.1",
+                                        "slug": "alterations-level-3",
+                                        "titleText": "Existing Shafts and Vertical Openings",
+                                        "children": []
+                                    },
+                                    {
+                                        "ancestorRefs": [
+                                            "9",
+                                            "903"
+                                        ],
+                                        "body": "<div>Fire separation in <a class=\"autolink\" href=\"/viewer/california/ca-existing-building-code-2025/chapter/5/prescriptive-compliance-method#501.4\">Group R</a>-3 occupancies shall be in accordance with <a class=\"autolink\" href=\"#903.2.1\">Section 903.2.1</a>.</div>",
+                                        "depth": 2,
+                                        "diagrams": [],
+                                        "displayRef": null,
+                                        "displayTitle": "903.2 Fire Partitions in Group R-3",
+                                        "hasAssemblies": false,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 0,
+                                        "numDiagramsOnRef": 0,
+                                        "reference": "903.2",
+                                        "slug": "alterations-level-3",
+                                        "titleText": "Fire Partitions in Group R-3",
+                                        "children": [
+                                            {
+                                                "ancestorRefs": [
+                                                    "9",
+                                                    "903",
+                                                    "903.2"
+                                                ],
+                                                "body": "<div class=\"u-mb-3\">Where the <a class=\"autolink\" href=\"/viewer/california/ca-existing-building-code-2025/chapter/2/definitions#work_area_\">work area</a> is in any attached dwelling unit in <a class=\"autolink\" href=\"/viewer/california/ca-existing-building-code-2025/chapter/5/prescriptive-compliance-method#501.4\">Group R</a>-3 or any multiple single-family dwelling (townhouse), walls separating the dwelling units that are not continuous from the foundation to the underside of the roof sheathing shall be constructed to provide a continuous fire separation using <a class=\"autolink\" href=\"/viewer/california/ca-existing-building-code-2025/chapter/3/provisions-for-all-compliance-methods#303.1.1\">construction</a> materials consistent with the existing wall or complying with the requirements for new structures. Work shall be performed on the side of the dwelling unit wall that is part of the <a class=\"autolink\" href=\"/viewer/california/ca-existing-building-code-2025/chapter/2/definitions#work_area_\">work area</a>. </div>\n<div class=\"uc_exception\">\n    <span class=\"u-font-bold\">Exception:</span> Where <a class=\"autolink\" href=\"/viewer/california/ca-existing-building-code-2025/chapter/2/definitions#alteration_\">alterations</a> or <a class=\"autolink\" href=\"/viewer/california/ca-existing-building-code-2025/chapter/2/definitions#repair_oshpd_1_\">repairs</a> do not result in the removal of wall or ceiling finishes exposing the structure, walls are not required to be continuous through concealed floor spaces.</div>",
+                                                "depth": 3,
+                                                "diagrams": [],
+                                                "displayRef": null,
+                                                "displayTitle": "903.2.1 Separation Required",
+                                                "hasAssemblies": false,
+                                                "isContiguous": true,
+                                                "numAssembliesOnRef": 0,
+                                                "numBuildingProductsOnRef": 0,
+                                                "numDiagramsOnRef": 0,
+                                                "reference": "903.2.1",
+                                                "slug": "alterations-level-3",
+                                                "titleText": "Separation Required",
+                                                "children": []
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "ancestorRefs": [
+                                            "9",
+                                            "903"
+                                        ],
+                                        "body": "<div>Interior finish in exits serving the <a class=\"autolink\" href=\"/viewer/california/ca-existing-building-code-2025/chapter/2/definitions#work_area_\">work area</a> shall comply with <a class=\"autolink\" href=\"/viewer/california/ca-existing-building-code-2025/chapter/8/alterations-level-2#802.4\">Section 802.4</a> between the highest floor on which there is a <a class=\"autolink\" href=\"/viewer/california/ca-existing-building-code-2025/chapter/2/definitions#work_area_\">work area</a> to the floor of exit discharge.</div>",
+                                        "depth": 2,
+                                        "diagrams": [],
+                                        "displayRef": null,
+                                        "displayTitle": "903.3 Interior Finish",
+                                        "hasAssemblies": false,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 0,
+                                        "numDiagramsOnRef": 0,
+                                        "reference": "903.3",
+                                        "slug": "alterations-level-3",
+                                        "titleText": "Interior Finish",
+                                        "children": []
+                                    },
+                                    {
+                                        "ancestorRefs": [
+                                            "9",
+                                            "903"
+                                        ],
+                                        "body": "<div>In Group E occupancies, where the <a class=\"autolink\" href=\"/viewer/california/ca-existing-building-code-2025/chapter/2/definitions#work_area_\">work area</a> is a Level 3 <a class=\"autolink\" href=\"/viewer/california/ca-existing-building-code-2025/chapter/2/definitions#alteration_\">alteration</a>, <a class=\"autolink\" href=\"/viewer/california/ca-existing-building-code-2025/chapter/11/additions#1101.6\">enhanced classroom acoustics</a> shall be provided in all classrooms with a volume of 20,000 cubic feet (565 m<sup>3</sup>) or less. <a class=\"autolink\" href=\"/viewer/california/ca-existing-building-code-2025/chapter/11/additions#1101.6\">Enhanced classroom acoustics</a> shall comply with the reverberation time in Section 808 of ICC A117.1.</div>",
+                                        "depth": 2,
+                                        "diagrams": [],
+                                        "displayRef": null,
+                                        "displayTitle": "903.4 Enhanced Classroom Acoustics",
+                                        "hasAssemblies": false,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 0,
+                                        "numDiagramsOnRef": 0,
+                                        "reference": "903.4",
+                                        "slug": "alterations-level-3",
+                                        "titleText": "Enhanced Classroom Acoustics",
+                                        "children": []
+                                    }
+                                ]
+                            },
+                            {
+                                "ancestorRefs": [
+                                    "9"
+                                ],
+                                "depth": 1,
+                                "diagrams": [],
+                                "displayRef": null,
+                                "displayTitle": "Section 904 Fire Protection",
+                                "divisionType": "Section",
+                                "hasAssemblies": false,
+                                "isContiguous": true,
+                                "numAssembliesOnRef": 0,
+                                "numBuildingProductsOnRef": 0,
+                                "numDiagramsOnRef": 0,
+                                "reference": "904",
+                                "slug": "alterations-level-3",
+                                "titleText": "Fire Protection",
+                                "children": [
+                                    {
+                                        "ancestorRefs": [
+                                            "9",
+                                            "904"
+                                        ],
+                                        "body": "<div>An automatic sprinkler system shall be provided in <span class=\"u-italic\">accordance with <a class=\"autolink\" href=\"/viewer/california/ca-fire-code-2025/chapter/9/fire-protection-and-life-safety-systems#903\">Section 903</a> of the <span class=\"u-italic\">California Building</span> and <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/california/ca-fire-code-2025\">California Fire Code</a>s</span>.</span></div>",
+                                        "depth": 2,
+                                        "diagrams": [],
+                                        "displayRef": null,
+                                        "displayTitle": "904.1 Automatic Sprinkler Systems",
+                                        "hasAssemblies": false,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 0,
+                                        "numDiagramsOnRef": 0,
+                                        "reference": "904.1",
+                                        "slug": "alterations-level-3",
+                                        "titleText": "Automatic Sprinkler Systems",
+                                        "children": []
+                                    },
+                                    {
+                                        "ancestorRefs": [
+                                            "9",
+                                            "904"
+                                        ],
+                                        "body": "<div>Fire alarm and detection shall be provided in accordance with <a class=\"autolink\" href=\"/viewer/california/ca-building-code-2025/chapter/9/fire-protection-and-life-safety-systems#907\">Section 907</a> of the <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/california/ca-building-code-2025\">California Building Code</a></span> as required for new <a class=\"autolink\" href=\"/viewer/california/ca-existing-building-code-2025/chapter/3/provisions-for-all-compliance-methods#303.1.1\">construction</a> <span class=\"u-italic\">in accordance with <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/california/ca-fire-code-2025\">California Fire Code</a> </span> Sections <a class=\"autolink\" href=\"#907\">907</a> and 1103.7.</span></div>",
+                                        "depth": 2,
+                                        "diagrams": [],
+                                        "displayRef": null,
+                                        "displayTitle": "904.2 Fire Alarm and Detection Systems",
+                                        "hasAssemblies": false,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 0,
+                                        "numDiagramsOnRef": 0,
+                                        "reference": "904.2",
+                                        "slug": "alterations-level-3",
+                                        "titleText": "Fire Alarm and Detection Systems",
+                                        "children": [
+                                            {
+                                                "ancestorRefs": [
+                                                    "9",
+                                                    "904",
+                                                    "904.2"
+                                                ],
+                                                "body": "<div><span class=\"u-italic\">Existing fire alarm and detection systems shall be maintained in accordance with <a class=\"autolink\" href=\"/viewer/california/ca-fire-code-2025/chapter/9/fire-protection-and-life-safety-systems#901.7\">Section 901.7</a> of the <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/california/ca-fire-code-2025\">California Fire Code</a></span>. Site fire protection during <a class=\"autolink\" href=\"/viewer/california/ca-existing-building-code-2025/chapter/3/provisions-for-all-compliance-methods#303.1.1\">construction</a> shall be in accordance with <a class=\"autolink\" href=\"/viewer/california/ca-fire-code-2025/chapter/33/fire-safety-during-construction-and-demolition#33\">Chapter 33</a> of the California Building and <a class=\"autolink\" href=\"/viewer/california/ca-fire-code-2025\">California Fire Code</a>s.</span></div>",
+                                                "depth": 3,
+                                                "diagrams": [],
+                                                "displayRef": null,
+                                                "displayTitle": "904.2.1 <i>Systems Out of Service</i>",
+                                                "hasAssemblies": false,
+                                                "isContiguous": true,
+                                                "numAssembliesOnRef": 0,
+                                                "numBuildingProductsOnRef": 0,
+                                                "numDiagramsOnRef": 0,
+                                                "reference": "904.2.1",
+                                                "slug": "alterations-level-3",
+                                                "titleText": "<i>Systems Out of Service</i>",
+                                                "children": []
+                                            }
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "ancestorRefs": [
+                                    "9"
+                                ],
+                                "depth": 1,
+                                "diagrams": [],
+                                "displayRef": null,
+                                "displayTitle": "Section 905 Means of Egress",
+                                "divisionType": "Section",
+                                "hasAssemblies": false,
+                                "isContiguous": true,
+                                "numAssembliesOnRef": 0,
+                                "numBuildingProductsOnRef": 0,
+                                "numDiagramsOnRef": 0,
+                                "reference": "905",
+                                "slug": "alterations-level-3",
+                                "titleText": "Means of Egress",
+                                "children": [
+                                    {
+                                        "ancestorRefs": [
+                                            "9",
+                                            "905"
+                                        ],
+                                        "body": "The means of egress shall comply with the requirements of <a class=\"autolink\" href=\"/viewer/california/ca-existing-building-code-2025/chapter/8/alterations-level-2#804\">Section 804</a> except as specifically required in Sections <a class=\"autolink\" href=\"#905.2\">905.2</a> and <a class=\"autolink\" href=\"#905.3\">905.3</a>.",
+                                        "depth": 2,
+                                        "diagrams": [],
+                                        "displayRef": null,
+                                        "displayTitle": "905.1 General",
+                                        "hasAssemblies": false,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 0,
+                                        "numDiagramsOnRef": 0,
+                                        "reference": "905.1",
+                                        "slug": "alterations-level-3",
+                                        "titleText": "General",
+                                        "children": []
+                                    },
+                                    {
+                                        "ancestorRefs": [
+                                            "9",
+                                            "905"
+                                        ],
+                                        "body": "<div>Means of egress from the highest <a class=\"autolink\" href=\"/viewer/california/ca-existing-building-code-2025/chapter/2/definitions#work_area_\">work area</a> floor to the floor of exit discharge shall be provided with artificial lighting within the exit enclosure in accordance with the requirements of the <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/california/ca-building-code-2025\">California Building Code</a></span>.</div>",
+                                        "depth": 2,
+                                        "diagrams": [
+                                            {
+                                                "key": "artificial_light",
+                                                "title": "Artificial Light",
+                                                "descriptionHtml": "<div>Where natural lighting is not provided in spaces intended for human occupancy artificial lighting is required.  The artificial light is required to achieve an average illumination level of 10 footcandles on an imaginary plane 30\" above the entire floor of the space.</div>",
+                                                "topics": [
+                                                    "Electrical"
+                                                ],
+                                                "phases": [
+                                                    "Construction Docs"
+                                                ],
+                                                "supressesChildrenAssociations": false,
+                                                "blacklistJurisdictions": [],
+                                                "whitelistJurisdictions": [],
+                                                "imageType": "svg"
+                                            }
+                                        ],
+                                        "displayRef": null,
+                                        "displayTitle": "905.2 Means-of-Egress Lighting",
+                                        "hasAssemblies": false,
+                                        "hasDiagrams": true,
+                                        "hasDiagramsOnRef": true,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 0,
+                                        "numDiagramsOnRef": 1,
+                                        "reference": "905.2",
+                                        "slug": "alterations-level-3",
+                                        "titleText": "Means-of-Egress Lighting",
+                                        "children": []
+                                    },
+                                    {
+                                        "ancestorRefs": [
+                                            "9",
+                                            "905"
+                                        ],
+                                        "body": "<div>Means of egress from the highest <a class=\"autolink\" href=\"/viewer/california/ca-existing-building-code-2025/chapter/2/definitions#work_area_\">work area</a> floor to the floor of exit discharge shall be provided with exit signs in accordance with the requirements of the <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/california/ca-building-code-2025\">California Building Code</a></span>.</div>",
+                                        "depth": 2,
+                                        "diagrams": [
+                                            {
+                                                "key": "exit_signs_required_locations",
+                                                "title": "Exit Signs: Where Required",
+                                                "descriptionHtml": "<div>Exit signs are required to be posted at exit doors and in the direction of egress. These signs must be visible from any direction. These can be either internally, or externally, illuminated, and must be lighted and visible at all times. The \"EXIT\" lettering must be within the minimum dimensions of this code and is to be in a contrasting color from the background (typically this is red or green lettering on a white background).</div>",
+                                                "topics": [
+                                                    "Egress",
+                                                    "Fire"
+                                                ],
+                                                "phases": [
+                                                    "Construction Docs",
+                                                    "Construction Phase"
+                                                ],
+                                                "supressesChildrenAssociations": false,
+                                                "blacklistJurisdictions": [],
+                                                "whitelistJurisdictions": [],
+                                                "imageType": "svg"
+                                            },
+                                            {
+                                                "key": "exit_signs",
+                                                "title": "Exit Signs: Size Requirements",
+                                                "descriptionHtml": "<div>Exit signs are required to be posted at exit doors and in the direction of egress. These signs must be visible from any direction. These can be either internally, or externally, illuminated, and must be lighted and visible at all times. The \"EXIT\" lettering must be within the minimum dimensions of this code and is to be in a contrasting color from the background (typically this is red or green lettering on a white background). </div>",
+                                                "topics": [
+                                                    "Egress",
+                                                    "Fire"
+                                                ],
+                                                "phases": [
+                                                    "Construction Docs",
+                                                    "Construction Phase"
+                                                ],
+                                                "supressesChildrenAssociations": false,
+                                                "blacklistJurisdictions": [],
+                                                "whitelistJurisdictions": [],
+                                                "imageType": "svg"
+                                            }
+                                        ],
+                                        "displayRef": null,
+                                        "displayTitle": "905.3 Exit Signs",
+                                        "hasAssemblies": false,
+                                        "hasDiagrams": true,
+                                        "hasDiagramsOnRef": true,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 0,
+                                        "numDiagramsOnRef": 2,
+                                        "reference": "905.3",
+                                        "slug": "alterations-level-3",
+                                        "titleText": "Exit Signs",
+                                        "children": []
+                                    },
+                                    {
+                                        "ancestorRefs": [
+                                            "9",
+                                            "905"
+                                        ],
+                                        "body": "<div>In buildings with elevator service, a two-way communication system shall be provided where required by <a class=\"autolink\" href=\"/viewer/california/ca-building-code-2025/chapter/10/means-of-egress#1009.8\">Section 1009.8</a> of the <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/california/ca-building-code-2025\">California Building Code</a></span>.</div>",
+                                        "depth": 2,
+                                        "diagrams": [],
+                                        "displayRef": null,
+                                        "displayTitle": "905.4 Two-Way Communications Systems",
+                                        "hasAssemblies": false,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 0,
+                                        "numDiagramsOnRef": 0,
+                                        "reference": "905.4",
+                                        "slug": "alterations-level-3",
+                                        "titleText": "Two-Way Communications Systems",
+                                        "children": []
+                                    }
+                                ]
+                            },
+                            {
+                                "ancestorRefs": [
+                                    "9"
+                                ],
+                                "depth": 1,
+                                "diagrams": [],
+                                "displayRef": null,
+                                "displayTitle": "Section 906 Structural",
+                                "divisionType": "Section",
+                                "hasAssemblies": false,
+                                "isContiguous": true,
+                                "numAssembliesOnRef": 0,
+                                "numBuildingProductsOnRef": 0,
+                                "numDiagramsOnRef": 0,
+                                "reference": "906",
+                                "slug": "alterations-level-3",
+                                "titleText": "Structural",
+                                "children": [
+                                    {
+                                        "ancestorRefs": [
+                                            "9",
+                                            "906"
+                                        ],
+                                        "body": "Where buildings are undergoing Level 3 <a class=\"autolink\" href=\"/viewer/california/ca-existing-building-code-2025/chapter/13/performance-compliance-methods#1302.1.4\">alterations</a>, the provisions of this section shall apply.",
+                                        "depth": 2,
+                                        "diagrams": [],
+                                        "displayRef": null,
+                                        "displayTitle": "[BS]  906.1 General",
+                                        "hasAssemblies": false,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 0,
+                                        "numDiagramsOnRef": 0,
+                                        "reference": "906.1",
+                                        "refPrefix": "[BS]",
+                                        "slug": "alterations-level-3",
+                                        "titleText": "General",
+                                        "children": []
+                                    },
+                                    {
+                                        "ancestorRefs": [
+                                            "9",
+                                            "906"
+                                        ],
+                                        "body": "<div class=\"u-mb-3\">Where work involves a <a class=\"autolink\" href=\"/viewer/california/ca-existing-building-code-2025/chapter/2/definitions#substantial_structural_alteration_\">substantial structural alteration</a>, the lateral load-resisting system of the altered building shall be shown to satisfy the requirements of <a class=\"autolink\" href=\"/viewer/california/ca-building-code-2025/chapter/16/structural-design#1609\">Section 1609</a> of the <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/california/ca-building-code-2025\">California Building Code</a></span> and <a class=\"autolink\" href=\"/viewer/california/ca-existing-building-code-2025/chapter/3/provisions-for-all-compliance-methods#304.3.2\">Section 304.3.2</a> of this code. Where the building is assigned to Seismic Design Category D or F, supports and attachments for nonstructural components required to serve any portion of the building with a use included in <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/california/ca-existing-building-code-2025/chapter/2/definitions#risk_category_\">Risk Category</a></span> IV shall comply with <a class=\"autolink\" href=\"/viewer/california/ca-building-code-2025/chapter/16/structural-design#1613\">Section 1613</a> of the <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/california/ca-building-code-2025\">California Building Code</a></span> or shall comply with ASCE 41 using an objective of Position Retention nonstructural performance with the BSE-1E earthquake hazard level.</div>\n<div class=\"uc_exception\">\n<span class=\"u-font-bold\">Exceptions:</span>\n<ol>\n<li>Buildings of <a class=\"autolink\" href=\"/viewer/california/ca-existing-building-code-2025/chapter/5/prescriptive-compliance-method#501.4\">Group R</a> occupancy with not more than five dwelling or sleeping units used solely for residential <a class=\"autolink\" href=\"/viewer/california/ca-existing-building-code-2025/chapter/A/guidelines-for-the-seismic-retrofit-of-existing-buildings#A401.1\">purposes</a> that are altered based on the conventional light-frame <a class=\"autolink\" href=\"/viewer/california/ca-existing-building-code-2025/chapter/3/provisions-for-all-compliance-methods#303.1.1\">construction</a> methods of the <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/california/ca-building-code-2025\">California Building Code</a></span> or in <a class=\"autolink\" href=\"#901.2\">compliance</a> with the provisions of the <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/california/ca-residential-code-2025\">California Residential Code</a></span>.</li>\n<li>Where the intended <a class=\"autolink\" href=\"/viewer/california/ca-existing-building-code-2025/chapter/2/definitions#alteration_\">alteration</a> involves only the lowest <a class=\"autolink\" href=\"/viewer/california/ca-existing-building-code-2025/chapter/A/guidelines-for-the-seismic-retrofit-of-existing-buildings#story_\">story</a> of a building, structural components of the lateral load resisting system above that <a class=\"autolink\" href=\"/viewer/california/ca-existing-building-code-2025/chapter/A/guidelines-for-the-seismic-retrofit-of-existing-buildings#story_\">story</a> need not comply with this section.</li>\n</ol>\n</div>",
+                                        "depth": 2,
+                                        "diagrams": [],
+                                        "displayRef": null,
+                                        "displayTitle": "[BS]  906.2 Existing Structural Elements Resisting Lateral Loads",
+                                        "hasAssemblies": false,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 0,
+                                        "numDiagramsOnRef": 0,
+                                        "reference": "906.2",
+                                        "refPrefix": "[BS]",
+                                        "slug": "alterations-level-3",
+                                        "titleText": "Existing Structural Elements Resisting Lateral Loads",
+                                        "children": []
+                                    },
+                                    {
+                                        "ancestorRefs": [
+                                            "9",
+                                            "906"
+                                        ],
+                                        "body": "<div>Where the building is assigned to Seismic Design Category F, the lateral force-resisting system of the altered building shall meet the requirements of <a class=\"autolink\" href=\"/viewer/california/ca-building-code-2025/chapter/16/structural-design#1609\">Section 1609</a> of the <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/california/ca-building-code-2025\">California Building Code</a></span> and <a class=\"autolink\" href=\"/viewer/california/ca-existing-building-code-2025/chapter/3/provisions-for-all-compliance-methods#304.3.2\">Section 304.3.2</a> of this code. Supports and attachments for nonstructural components serving any portion of the building with a use included in <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/california/ca-existing-building-code-2025/chapter/2/definitions#risk_category_\">Risk Category</a></span> IV shall comply with <a class=\"autolink\" href=\"/viewer/california/ca-building-code-2025/chapter/16/structural-design#1613\">Section 1613</a> of the <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/california/ca-building-code-2025\">California Building Code</a></span> or shall comply with ASCE 41 using an objective of Position Retention nonstructural performance with the BSE-1E earthquake hazard level.</div>",
+                                        "depth": 2,
+                                        "diagrams": [],
+                                        "displayRef": null,
+                                        "displayTitle": "[BS]  906.3 Seismic Design Category F",
+                                        "hasAssemblies": false,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 0,
+                                        "numDiagramsOnRef": 0,
+                                        "reference": "906.3",
+                                        "refPrefix": "[BS]",
+                                        "slug": "alterations-level-3",
+                                        "titleText": "Seismic Design Category F",
+                                        "children": []
+                                    },
+                                    {
+                                        "ancestorRefs": [
+                                            "9",
+                                            "906"
+                                        ],
+                                        "body": "<div>For any building assigned to Seismic Design Category D, E or F with a structural system that includes concrete or reinforced masonry walls with a flexible roof diaphragm, the <a class=\"autolink\" href=\"/viewer/california/ca-existing-building-code-2025/chapter/2/definitions#alteration_\">alteration</a> shall comply with <a class=\"autolink\" href=\"/viewer/california/ca-existing-building-code-2025/chapter/3/provisions-for-all-compliance-methods#304.3.2\">Section 304.3.2</a> by evaluation of the existing condition or by installation of wall anchors at the roof line of all subject buildings and at the floor lines of <a class=\"autolink\" href=\"/viewer/california/ca-existing-building-code-2025/chapter/A/guidelines-for-the-seismic-retrofit-of-existing-buildings#unreinforced_masonry_%28urm%29_\">unreinforced masonry</a>.</div>",
+                                        "depth": 2,
+                                        "diagrams": [],
+                                        "displayRef": null,
+                                        "displayTitle": "[BS]  906.4 Anchorage for Concrete and Masonry Buildings",
+                                        "hasAssemblies": false,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 0,
+                                        "numDiagramsOnRef": 0,
+                                        "reference": "906.4",
+                                        "refPrefix": "[BS]",
+                                        "slug": "alterations-level-3",
+                                        "titleText": "Anchorage for Concrete and Masonry Buildings",
+                                        "children": []
+                                    },
+                                    {
+                                        "ancestorRefs": [
+                                            "9",
+                                            "906"
+                                        ],
+                                        "body": "<div>For any building assigned to Seismic Design Category C, D, E or F with a structural system that includes <a class=\"autolink\" href=\"/viewer/california/ca-existing-building-code-2025/chapter/A/guidelines-for-the-seismic-retrofit-of-existing-buildings#unreinforced_masonry_bearing_wall_\">unreinforced masonry bearing walls</a>, the <a class=\"autolink\" href=\"/viewer/california/ca-existing-building-code-2025/chapter/2/definitions#alteration_\">alteration</a> shall comply with <a class=\"autolink\" href=\"/viewer/california/ca-existing-building-code-2025/chapter/3/provisions-for-all-compliance-methods#304.3.2\">Section 304.3.2</a> by evaluation of the existing condition or by installation of wall anchors at the roof line.</div>",
+                                        "depth": 2,
+                                        "diagrams": [],
+                                        "displayRef": null,
+                                        "displayTitle": "[BS]  906.5 Anchorage for Unreinforced Masonry Walls",
+                                        "hasAssemblies": false,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 0,
+                                        "numDiagramsOnRef": 0,
+                                        "reference": "906.5",
+                                        "refPrefix": "[BS]",
+                                        "slug": "alterations-level-3",
+                                        "titleText": "Anchorage for Unreinforced Masonry Walls",
+                                        "children": []
+                                    },
+                                    {
+                                        "ancestorRefs": [
+                                            "9",
+                                            "906"
+                                        ],
+                                        "body": "<div>Parapets constructed of <a class=\"autolink\" href=\"/viewer/california/ca-existing-building-code-2025/chapter/A/guidelines-for-the-seismic-retrofit-of-existing-buildings#unreinforced_masonry_%28urm%29_\">unreinforced masonry</a> in buildings assigned to Seismic Design Category C, D, E or F shall comply with <a class=\"autolink\" href=\"/viewer/california/ca-existing-building-code-2025/chapter/3/provisions-for-all-compliance-methods#304.3.2\">Section 304.3.2</a> by evaluation of the existing condition or by installation of parapet bracing.</div>",
+                                        "depth": 2,
+                                        "diagrams": [],
+                                        "displayRef": null,
+                                        "displayTitle": "[BS]  906.6 Bracing for Unreinforced Masonry Parapets",
+                                        "hasAssemblies": false,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 0,
+                                        "numDiagramsOnRef": 0,
+                                        "reference": "906.6",
+                                        "refPrefix": "[BS]",
+                                        "slug": "alterations-level-3",
+                                        "titleText": "Bracing for Unreinforced Masonry Parapets",
+                                        "children": []
+                                    },
+                                    {
+                                        "ancestorRefs": [
+                                            "9",
+                                            "906"
+                                        ],
+                                        "body": "<div>Where the building is assigned to Seismic Design Category C, D, E or F, <a class=\"autolink\" href=\"/viewer/california/ca-existing-building-code-2025/chapter/A/guidelines-for-the-seismic-retrofit-of-existing-buildings#unreinforced_masonry_%28urm%29_\">unreinforced masonry</a> partitions and nonstructural walls within the <a class=\"autolink\" href=\"/viewer/california/ca-existing-building-code-2025/chapter/2/definitions#work_area_\">work area</a> and adjacent to egress paths from the <a class=\"autolink\" href=\"/viewer/california/ca-existing-building-code-2025/chapter/2/definitions#work_area_\">work area</a> shall have their existing conditions evaluated or shall be anchored, removed or altered to resist out-of-plane seismic forces to comply with <a class=\"autolink\" href=\"/viewer/california/ca-existing-building-code-2025/chapter/3/provisions-for-all-compliance-methods#304.3.2\">Section 304.3.2</a>.</div>",
+                                        "depth": 2,
+                                        "diagrams": [],
+                                        "displayRef": null,
+                                        "displayTitle": "[BS]  906.7 Anchorage of Unreinforced Masonry Partitions",
+                                        "hasAssemblies": false,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 0,
+                                        "numDiagramsOnRef": 0,
+                                        "reference": "906.7",
+                                        "refPrefix": "[BS]",
+                                        "slug": "alterations-level-3",
+                                        "titleText": "Anchorage of Unreinforced Masonry Partitions",
+                                        "children": []
+                                    }
+                                ]
+                            },
+                            {
+                                "ancestorRefs": [
+                                    "9"
+                                ],
+                                "depth": 1,
+                                "diagrams": [],
+                                "displayRef": null,
+                                "displayTitle": "Section 907 Energy Conservation",
+                                "divisionType": "Section",
+                                "hasAssemblies": false,
+                                "isContiguous": true,
+                                "numAssembliesOnRef": 0,
+                                "numBuildingProductsOnRef": 1,
+                                "numDiagramsOnRef": 0,
+                                "reference": "907",
+                                "slug": "alterations-level-3",
+                                "titleText": "Energy Conservation",
+                                "children": [
+                                    {
+                                        "ancestorRefs": [
+                                            "9",
+                                            "907"
+                                        ],
+                                        "body": "<div>Level 3 <a class=\"autolink\" href=\"/viewer/california/ca-existing-building-code-2025/chapter/2/definitions#alteration_\">alterations</a> to <a class=\"autolink\" href=\"/viewer/california/ca-existing-building-code-2025/chapter/2/definitions#existing_building_\">existing buildings</a> or structures <span class=\"u-italic\">shall comply with applicable provisions of the <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/california/ca-energy-code-2025\">California Energy Code</a></span> (Part 6, Title 24, C.C.R).</span></div>",
+                                        "depth": 2,
+                                        "diagrams": [],
+                                        "displayRef": null,
+                                        "displayTitle": "907.1 <i>Minimum Requirements</i>",
+                                        "hasAssemblies": false,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 0,
+                                        "numDiagramsOnRef": 0,
+                                        "reference": "907.1",
+                                        "slug": "alterations-level-3",
+                                        "titleText": "<i>Minimum Requirements</i>",
+                                        "children": []
+                                    }
+                                ]
+                            },
+                            {
+                                "ancestorRefs": [
+                                    "9"
+                                ],
+                                "depth": 1,
+                                "diagrams": [],
+                                "displayRef": null,
+                                "displayTitle": "Section 908 Emergency Responder Communications Enhancement System Coverage",
+                                "divisionType": "Section",
+                                "hasAssemblies": false,
+                                "isContiguous": true,
+                                "numAssembliesOnRef": 0,
+                                "numBuildingProductsOnRef": 0,
+                                "numDiagramsOnRef": 0,
+                                "reference": "908",
+                                "slug": "alterations-level-3",
+                                "titleText": "Emergency Responder Communications Enhancement System Coverage",
+                                "children": [
+                                    {
+                                        "ancestorRefs": [
+                                            "9",
+                                            "908"
+                                        ],
+                                        "body": "<div class=\"u-mb-3\" title=\"Technical code changes from previous edition of the I-Codes are shown in blue text\">The <a class=\"autolink\" href=\"/viewer/california/ca-existing-building-code-2025/chapter/2/definitions#existing_building_\">existing building</a> shall undergo an evaluation of the emergency responder communication signal strength and coverage area within the entire building in accordance with Sections <a class=\"autolink\" href=\"#908.1.1\">908.1.1</a> and <a class=\"autolink\" href=\"#908.1.2\">908.1.2</a>.</div>\n<div class=\"uc_exception\">\n    <span class=\"u-font-bold\">Exception: </span> Where it is determined by the fire <a class=\"autolink\" href=\"/viewer/california/ca-existing-building-code-2025/chapter/A/guidelines-for-the-seismic-retrofit-of-existing-buildings#code_official_1_\">code official</a> that the emergency responder communication enhancement system (ERCES) is not needed.</div>",
+                                        "depth": 2,
+                                        "diagrams": [],
+                                        "displayRef": null,
+                                        "displayTitle": "908.1 Emergency Responder Communication Enhancement System Coverage",
+                                        "hasAssemblies": false,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 0,
+                                        "numDiagramsOnRef": 0,
+                                        "reference": "908.1",
+                                        "slug": "alterations-level-3",
+                                        "titleText": "Emergency Responder Communication Enhancement System Coverage",
+                                        "children": [
+                                            {
+                                                "ancestorRefs": [
+                                                    "9",
+                                                    "908",
+                                                    "908.1"
+                                                ],
+                                                "body": "<div>The evaluation shall determine the current signal strength and coverage capabilities of the public safety communication systems utilized by the jurisdiction, measured at the exterior of the building.</div>",
+                                                "depth": 3,
+                                                "diagrams": [],
+                                                "displayRef": null,
+                                                "displayTitle": "908.1.1 Evaluation",
+                                                "hasAssemblies": false,
+                                                "isContiguous": true,
+                                                "numAssembliesOnRef": 0,
+                                                "numBuildingProductsOnRef": 0,
+                                                "numDiagramsOnRef": 0,
+                                                "reference": "908.1.1",
+                                                "slug": "alterations-level-3",
+                                                "titleText": "Evaluation",
+                                                "children": []
+                                            },
+                                            {
+                                                "ancestorRefs": [
+                                                    "9",
+                                                    "908",
+                                                    "908.1"
+                                                ],
+                                                "body": "<div>The evaluation report shall be submitted for approval by the fire <a class=\"autolink\" href=\"/viewer/california/ca-existing-building-code-2025/chapter/A/guidelines-for-the-seismic-retrofit-of-existing-buildings#code_official_1_\">code official</a> and the frequency license holder. Where the coverage area, signal strength or DAQ does not comply with <a class=\"autolink\" href=\"/viewer/california/ca-fire-code-2025/chapter/5/fire-service-features#510\">Section 510</a> of the <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/california/ca-fire-code-2025\">California Fire Code</a></span>, the <a class=\"autolink\" href=\"/viewer/california/ca-existing-building-code-2025/chapter/2/definitions#existing_building_\">existing building</a> shall be provided with ERCES coverage. The fire <a class=\"autolink\" href=\"/viewer/california/ca-existing-building-code-2025/chapter/A/guidelines-for-the-seismic-retrofit-of-existing-buildings#code_official_1_\">code official</a> is authorized to establish the timeframe for such installation or modification.</div>",
+                                                "depth": 3,
+                                                "diagrams": [],
+                                                "displayRef": null,
+                                                "displayTitle": "908.1.2 Compliance",
+                                                "hasAssemblies": false,
+                                                "isContiguous": true,
+                                                "numAssembliesOnRef": 0,
+                                                "numBuildingProductsOnRef": 0,
+                                                "numDiagramsOnRef": 0,
+                                                "reference": "908.1.2",
+                                                "slug": "alterations-level-3",
+                                                "titleText": "Compliance",
+                                                "children": []
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            "chapterReference": "9"
+        },
+        "__N_SSP": true
+    },
+    "page": "/viewer/[urlFormPubOrJurisKey]/[urlFormPub]/chapter/[chapterRef]/[chapterName]",
+    "query": {
+        "urlFormPubOrJurisKey": "california",
+        "urlFormPub": "ca-existing-building-code-2025",
+        "chapterRef": "9",
+        "chapterName": "alterations-level-3"
+    },
+    "buildId": "aNDb_KMgxj06vGZ7D_0_K",
+    "isFallback": false,
+    "isExperimentalCompile": false,
+    "dynamicIds": [
+        61621,
+        54065
+    ],
+    "gssp": true,
+    "scriptLoader": []
+}

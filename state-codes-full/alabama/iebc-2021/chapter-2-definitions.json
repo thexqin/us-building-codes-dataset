@@ -1,0 +1,1764 @@
+{
+    "props": {
+        "pageProps": {
+            "missingRequiredLogin": false,
+            "title": "Chapter 2 Definitions: Alabama Existing Building Code 2021 | UpCodes",
+            "leanChapterViewerData": {
+                "basePubName": "International Existing Building Code 2021 (IEBC 2021)",
+                "codeGroupingYear": "2022",
+                "codeName": "Alabama Existing Building Code 2021",
+                "codeUuid": "2d9ff0da-d987-4dba-817c-abe32adb5527",
+                "codeVersions": [
+                    {
+                        "codeUuid": "2d9ff0da-d987-4dba-817c-abe32adb5527",
+                        "name": "Original Adoption",
+                        "effectiveStartDate": "2022-07-01",
+                        "shortformUrlName": "iebc-2021",
+                        "activeStatus": "active"
+                    }
+                ],
+                "ingesterAmendmentsEnabled": false,
+                "ingesterCodeUnitsEnabled": false,
+                "isAmendStylingEnabled": true,
+                "isCorrespondable": true,
+                "jurisKey": "alabama",
+                "jurisName": "Alabama",
+                "metaInfoUrl": "/viewer/alabama/iebc-2021",
+                "modelCodeUrl": null,
+                "placeholder": "Search Alabama Existing Building Code 2021",
+                "pubKey": "int_ebc_2021",
+                "pubPrefix": "int_ebc",
+                "shortformPubName": "iebc-2021",
+                "withAmendments": false,
+                "chapterRef": "2",
+                "publisher": "icc",
+                "hasLinkedResources": false,
+                "initialNonChapterTocLines": [
+                    {
+                        "amendType": null,
+                        "children": [
+                            {
+                                "amendType": null,
+                                "children": [],
+                                "depth": 2,
+                                "displayTitle": "201.1 Scope",
+                                "hasExpanderArrow": false,
+                                "href": "#201.1",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "reference": "201.1"
+                            },
+                            {
+                                "amendType": null,
+                                "children": [],
+                                "depth": 2,
+                                "displayTitle": "201.2 Interchangeability",
+                                "hasExpanderArrow": false,
+                                "href": "#201.2",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "reference": "201.2"
+                            },
+                            {
+                                "amendType": null,
+                                "children": [],
+                                "depth": 2,
+                                "displayTitle": "201.3 Terms Defined in Other Codes",
+                                "hasExpanderArrow": false,
+                                "href": "#201.3",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "reference": "201.3"
+                            },
+                            {
+                                "amendType": null,
+                                "children": [],
+                                "depth": 2,
+                                "displayTitle": "201.4 Terms Not Defined",
+                                "hasExpanderArrow": false,
+                                "href": "#201.4",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "reference": "201.4"
+                            }
+                        ],
+                        "depth": 1,
+                        "displayTitle": "201 General",
+                        "hasExpanderArrow": true,
+                        "href": "#201",
+                        "isCodeDivider": false,
+                        "isCodeDividerClickable": false,
+                        "reference": "201"
+                    },
+                    {
+                        "amendType": null,
+                        "children": [
+                            {
+                                "amendType": null,
+                                "children": [],
+                                "depth": 2,
+                                "displayTitle": "Addition",
+                                "hasExpanderArrow": false,
+                                "href": "#ADDITION_",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "reference": "ADDITION_"
+                            },
+                            {
+                                "amendType": null,
+                                "children": [],
+                                "depth": 2,
+                                "displayTitle": "Alteration",
+                                "hasExpanderArrow": false,
+                                "href": "#alteration_",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "reference": "alteration_"
+                            },
+                            {
+                                "amendType": null,
+                                "children": [],
+                                "depth": 2,
+                                "displayTitle": "Approved",
+                                "hasExpanderArrow": false,
+                                "href": "#approved_",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "reference": "approved_"
+                            },
+                            {
+                                "amendType": null,
+                                "children": [],
+                                "depth": 2,
+                                "displayTitle": "Building",
+                                "hasExpanderArrow": false,
+                                "href": "#building_",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "reference": "building_"
+                            },
+                            {
+                                "amendType": null,
+                                "children": [],
+                                "depth": 2,
+                                "displayTitle": "Change of Occupancy",
+                                "hasExpanderArrow": false,
+                                "href": "#change_of_occupancy_",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "reference": "change_of_occupancy_"
+                            },
+                            {
+                                "amendType": null,
+                                "children": [],
+                                "depth": 2,
+                                "displayTitle": "Change of Use",
+                                "hasExpanderArrow": false,
+                                "href": "#change_of_use_",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "reference": "change_of_use_"
+                            },
+                            {
+                                "amendType": null,
+                                "children": [],
+                                "depth": 2,
+                                "displayTitle": "Code Official",
+                                "hasExpanderArrow": false,
+                                "href": "#code_official_",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "reference": "code_official_"
+                            },
+                            {
+                                "amendType": null,
+                                "children": [],
+                                "depth": 2,
+                                "displayTitle": "Dangerous",
+                                "hasExpanderArrow": false,
+                                "href": "#dangerous_",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "reference": "dangerous_"
+                            },
+                            {
+                                "amendType": null,
+                                "children": [],
+                                "depth": 2,
+                                "displayTitle": "Deferred Submittal",
+                                "hasExpanderArrow": false,
+                                "href": "#deferred_submittal_",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "reference": "deferred_submittal_"
+                            },
+                            {
+                                "amendType": null,
+                                "children": [],
+                                "depth": 2,
+                                "displayTitle": "Disproportionate Earthquake Damage",
+                                "hasExpanderArrow": false,
+                                "href": "#disproportionate_earthquake_damage_",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "reference": "disproportionate_earthquake_damage_"
+                            },
+                            {
+                                "amendType": null,
+                                "children": [],
+                                "depth": 2,
+                                "displayTitle": "Emergency Escape and Rescue Opening",
+                                "hasExpanderArrow": false,
+                                "href": "#emergency_escape_and_rescue_opening_",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "reference": "emergency_escape_and_rescue_opening_"
+                            },
+                            {
+                                "amendType": null,
+                                "children": [],
+                                "depth": 2,
+                                "displayTitle": "Equipment or Fixture",
+                                "hasExpanderArrow": false,
+                                "href": "#equipment_or_fixture_",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "reference": "equipment_or_fixture_"
+                            },
+                            {
+                                "amendType": null,
+                                "children": [],
+                                "depth": 2,
+                                "displayTitle": "Existing Building",
+                                "hasExpanderArrow": false,
+                                "href": "#existing_building_",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "reference": "existing_building_"
+                            },
+                            {
+                                "amendType": null,
+                                "children": [],
+                                "depth": 2,
+                                "displayTitle": "Existing Structure",
+                                "hasExpanderArrow": false,
+                                "href": "#existing_structure_",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "reference": "existing_structure_"
+                            },
+                            {
+                                "amendType": null,
+                                "children": [],
+                                "depth": 2,
+                                "displayTitle": "Exterior Wall Covering",
+                                "hasExpanderArrow": false,
+                                "href": "#exterior_wall_covering_",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "reference": "exterior_wall_covering_"
+                            },
+                            {
+                                "amendType": null,
+                                "children": [],
+                                "depth": 2,
+                                "displayTitle": "Exterior Wall Envelope",
+                                "hasExpanderArrow": false,
+                                "href": "#exterior_wall_envelope_",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "reference": "exterior_wall_envelope_"
+                            },
+                            {
+                                "amendType": null,
+                                "children": [],
+                                "depth": 2,
+                                "displayTitle": "Facility",
+                                "hasExpanderArrow": false,
+                                "href": "#facility_",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "reference": "facility_"
+                            },
+                            {
+                                "amendType": null,
+                                "children": [],
+                                "depth": 2,
+                                "displayTitle": "Flood Hazard Area",
+                                "hasExpanderArrow": false,
+                                "href": "#flood_hazard_area_",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "reference": "flood_hazard_area_"
+                            },
+                            {
+                                "amendType": null,
+                                "children": [],
+                                "depth": 2,
+                                "displayTitle": "Historic Building",
+                                "hasExpanderArrow": false,
+                                "href": "#historic_building_",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "reference": "historic_building_"
+                            },
+                            {
+                                "amendType": null,
+                                "children": [],
+                                "depth": 2,
+                                "displayTitle": "Noncombustible Material",
+                                "hasExpanderArrow": false,
+                                "href": "#noncombustible_material_",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "reference": "noncombustible_material_"
+                            },
+                            {
+                                "amendType": null,
+                                "children": [],
+                                "depth": 2,
+                                "displayTitle": "Primary Function",
+                                "hasExpanderArrow": false,
+                                "href": "#primary_function_",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "reference": "primary_function_"
+                            },
+                            {
+                                "amendType": null,
+                                "children": [],
+                                "depth": 2,
+                                "displayTitle": "Registered Design Professional in Responsible Charge",
+                                "hasExpanderArrow": false,
+                                "href": "#registered_design_professional_in_responsible_charge_",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "reference": "registered_design_professional_in_responsible_charge_"
+                            },
+                            {
+                                "amendType": null,
+                                "children": [],
+                                "depth": 2,
+                                "displayTitle": "Rehabilitation",
+                                "hasExpanderArrow": false,
+                                "href": "#rehabilitation_",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "reference": "rehabilitation_"
+                            },
+                            {
+                                "amendType": null,
+                                "children": [],
+                                "depth": 2,
+                                "displayTitle": "Relocatable Building",
+                                "hasExpanderArrow": false,
+                                "href": "#relocatable_building_",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "reference": "relocatable_building_"
+                            },
+                            {
+                                "amendType": null,
+                                "children": [],
+                                "depth": 2,
+                                "displayTitle": "Repair",
+                                "hasExpanderArrow": false,
+                                "href": "#repair_",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "reference": "repair_"
+                            },
+                            {
+                                "amendType": null,
+                                "children": [],
+                                "depth": 2,
+                                "displayTitle": "Reroofing",
+                                "hasExpanderArrow": false,
+                                "href": "#reroofing_",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "reference": "reroofing_"
+                            },
+                            {
+                                "amendType": null,
+                                "children": [],
+                                "depth": 2,
+                                "displayTitle": "Risk Category",
+                                "hasExpanderArrow": false,
+                                "href": "#risk_category_",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "reference": "risk_category_"
+                            },
+                            {
+                                "amendType": null,
+                                "children": [],
+                                "depth": 2,
+                                "displayTitle": "Roof Coating",
+                                "hasExpanderArrow": false,
+                                "href": "#roof_coating_",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "reference": "roof_coating_"
+                            },
+                            {
+                                "amendType": null,
+                                "children": [],
+                                "depth": 2,
+                                "displayTitle": "Roof Recover",
+                                "hasExpanderArrow": false,
+                                "href": "#roof_recover_",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "reference": "roof_recover_"
+                            },
+                            {
+                                "amendType": null,
+                                "children": [],
+                                "depth": 2,
+                                "displayTitle": "Roof Repair",
+                                "hasExpanderArrow": false,
+                                "href": "#roof_repair_",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "reference": "roof_repair_"
+                            },
+                            {
+                                "amendType": null,
+                                "children": [],
+                                "depth": 2,
+                                "displayTitle": "Roof Replacement",
+                                "hasExpanderArrow": false,
+                                "href": "#roof_replacement_",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "reference": "roof_replacement_"
+                            },
+                            {
+                                "amendType": null,
+                                "children": [],
+                                "depth": 2,
+                                "displayTitle": "Seismic Forces",
+                                "hasExpanderArrow": false,
+                                "href": "#seismic_forces_",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "reference": "seismic_forces_"
+                            },
+                            {
+                                "amendType": null,
+                                "children": [],
+                                "depth": 2,
+                                "displayTitle": "Substantial Damage",
+                                "hasExpanderArrow": false,
+                                "href": "#substantial_damage_",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "reference": "substantial_damage_"
+                            },
+                            {
+                                "amendType": null,
+                                "children": [],
+                                "depth": 2,
+                                "displayTitle": "Substantial Improvement",
+                                "hasExpanderArrow": false,
+                                "href": "#substantial_improvement_",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "reference": "substantial_improvement_"
+                            },
+                            {
+                                "amendType": null,
+                                "children": [],
+                                "depth": 2,
+                                "displayTitle": "Substantial Structural Alteration",
+                                "hasExpanderArrow": false,
+                                "href": "#substantial_structural_alteration_",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "reference": "substantial_structural_alteration_"
+                            },
+                            {
+                                "amendType": null,
+                                "children": [],
+                                "depth": 2,
+                                "displayTitle": "Substantial Structural Damage",
+                                "hasExpanderArrow": false,
+                                "href": "#substantial_structural_damage_",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "reference": "substantial_structural_damage_"
+                            },
+                            {
+                                "amendType": null,
+                                "children": [],
+                                "depth": 2,
+                                "displayTitle": "Technically Infeasible",
+                                "hasExpanderArrow": false,
+                                "href": "#technically_infeasible_",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "reference": "technically_infeasible_"
+                            },
+                            {
+                                "amendType": null,
+                                "children": [],
+                                "depth": 2,
+                                "displayTitle": "Unsafe",
+                                "hasExpanderArrow": false,
+                                "href": "#unsafe_",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "reference": "unsafe_"
+                            },
+                            {
+                                "amendType": null,
+                                "children": [],
+                                "depth": 2,
+                                "displayTitle": "Work Area",
+                                "hasExpanderArrow": false,
+                                "href": "#work_area_",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "reference": "work_area_"
+                            }
+                        ],
+                        "depth": 1,
+                        "displayTitle": "202 General Definitions",
+                        "hasExpanderArrow": true,
+                        "href": "#202",
+                        "isCodeDivider": false,
+                        "isCodeDividerClickable": false,
+                        "reference": "202"
+                    }
+                ],
+                "title": "Chapter 2 Definitions: Alabama Existing Building Code 2021 | UpCodes",
+                "leanChapterLines": [
+                    {
+                        "displayTitle": "Chapter 1 Scope and Administration",
+                        "isExpandable": true,
+                        "reference": "1",
+                        "slug": "scope-and-administration"
+                    },
+                    {
+                        "displayTitle": "Chapter 2 Definitions",
+                        "isExpandable": true,
+                        "reference": "2",
+                        "slug": "definitions"
+                    },
+                    {
+                        "displayTitle": "Chapter 3 Provisions for All Compliance Methods",
+                        "isExpandable": true,
+                        "reference": "3",
+                        "slug": "provisions-for-all-compliance-methods"
+                    },
+                    {
+                        "displayTitle": "Chapter 4 Repairs",
+                        "isExpandable": true,
+                        "reference": "4",
+                        "slug": "repairs"
+                    },
+                    {
+                        "displayTitle": "Chapter 5 Prescriptive Compliance Method",
+                        "isExpandable": true,
+                        "reference": "5",
+                        "slug": "prescriptive-compliance-method"
+                    },
+                    {
+                        "displayTitle": "Chapter 6 Classification of Work",
+                        "isExpandable": true,
+                        "reference": "6",
+                        "slug": "classification-of-work"
+                    },
+                    {
+                        "displayTitle": "Chapter 7 Alterations\u2014Level 1",
+                        "isExpandable": true,
+                        "reference": "7",
+                        "slug": "alterations-level-1"
+                    },
+                    {
+                        "displayTitle": "Chapter 8 Alterations\u2014Level 2",
+                        "isExpandable": true,
+                        "reference": "8",
+                        "slug": "alterations-level-2"
+                    },
+                    {
+                        "displayTitle": "Chapter 9 Alterations\u2014Level 3",
+                        "isExpandable": true,
+                        "reference": "9",
+                        "slug": "alterations-level-3"
+                    },
+                    {
+                        "displayTitle": "Chapter 10 Change of Occupancy",
+                        "isExpandable": true,
+                        "reference": "10",
+                        "slug": "change-of-occupancy"
+                    },
+                    {
+                        "displayTitle": "Chapter 11 Additions",
+                        "isExpandable": true,
+                        "reference": "11",
+                        "slug": "additions"
+                    },
+                    {
+                        "displayTitle": "Chapter 12 Historic Buildings",
+                        "isExpandable": true,
+                        "reference": "12",
+                        "slug": "historic-buildings"
+                    },
+                    {
+                        "displayTitle": "Chapter 13 Performance Compliance Methods",
+                        "isExpandable": true,
+                        "reference": "13",
+                        "slug": "performance-compliance-methods"
+                    },
+                    {
+                        "displayTitle": "Chapter 14 Relocated or Moved Buildings",
+                        "isExpandable": true,
+                        "reference": "14",
+                        "slug": "relocated-or-moved-buildings"
+                    },
+                    {
+                        "displayTitle": "Chapter 15 Construction Safeguards",
+                        "isExpandable": true,
+                        "reference": "15",
+                        "slug": "construction-safeguards"
+                    },
+                    {
+                        "displayTitle": "Chapter 16 Referenced Standards",
+                        "reference": "16",
+                        "slug": "referenced-standards"
+                    },
+                    {
+                        "disabled": true,
+                        "displayTitle": "Appendix A Guidelines for the Seismic Retrofit of Existing Buildings",
+                        "reference": "A",
+                        "slug": "guidelines-for-the-seismic-retrofit-of-existing-buildings"
+                    },
+                    {
+                        "disabled": true,
+                        "displayTitle": "Appendix B Supplementary Accessibility Requirements for Existing Buildings and Facilities",
+                        "reference": "B",
+                        "slug": "supplementary-accessibility-requirements-for-existing-buildings-and-facilities"
+                    },
+                    {
+                        "disabled": true,
+                        "displayTitle": "Appendix C Guidelines for the Wind Retrofit of Existing Buildings",
+                        "reference": "C",
+                        "slug": "guidelines-for-the-wind-retrofit-of-existing-buildings"
+                    },
+                    {
+                        "disabled": true,
+                        "displayTitle": "Appendix D Board of Appeals",
+                        "reference": "D",
+                        "slug": "board-of-appeals"
+                    }
+                ],
+                "leanCodeSectionsTree": [
+                    {
+                        "ancestorRefs": [],
+                        "body": "<div class=\"u-mt-4\"><div class=\"u-mt-3 u-mb-3 u-font-bold\">User note:</div><div class=\"u-mt-3 u-mb-3\"><span class=\"u-italic\"><span class=\"u-font-bold\">About this chapter:</span> Codes, by their very nature, are technical documents. Every word, term and punctuation mark can add to or change the meaning of a technical requirement. It is necessary to maintain a consensus on the specific meaning of each term contained in the code. Chapter 2 performs this function by stating clearly what specific terms mean for the purpose of the code.</span></div></div>",
+                        "depth": 0,
+                        "diagrams": [],
+                        "displayRef": null,
+                        "displayTitle": "Chapter 2 Definitions",
+                        "divisionType": "Chapter",
+                        "hasAssemblies": false,
+                        "isContiguous": true,
+                        "numAssembliesOnRef": 0,
+                        "numBuildingProductsOnRef": 0,
+                        "numDiagramsOnRef": 0,
+                        "reference": "2",
+                        "slug": "definitions",
+                        "titleText": "Definitions",
+                        "children": [
+                            {
+                                "ancestorRefs": [
+                                    "2"
+                                ],
+                                "depth": 1,
+                                "diagrams": [],
+                                "displayRef": null,
+                                "displayTitle": "Section 201 General",
+                                "divisionType": "Section",
+                                "hasAssemblies": false,
+                                "isContiguous": true,
+                                "numAssembliesOnRef": 0,
+                                "numBuildingProductsOnRef": 0,
+                                "numDiagramsOnRef": 0,
+                                "reference": "201",
+                                "slug": "definitions",
+                                "titleText": "General",
+                                "children": [
+                                    {
+                                        "ancestorRefs": [
+                                            "2",
+                                            "201"
+                                        ],
+                                        "body": "Unless otherwise expressly stated, the following words and terms shall, for the purposes of this code, have the meanings shown in this chapter.",
+                                        "depth": 2,
+                                        "diagrams": [],
+                                        "displayRef": null,
+                                        "displayTitle": "201.1 Scope",
+                                        "hasAssemblies": false,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 0,
+                                        "numDiagramsOnRef": 0,
+                                        "reference": "201.1",
+                                        "slug": "definitions",
+                                        "titleText": "Scope",
+                                        "children": []
+                                    },
+                                    {
+                                        "ancestorRefs": [
+                                            "2",
+                                            "201"
+                                        ],
+                                        "body": "Words used in the present tense include the future; words stated in the masculine gender include the feminine and neuter; the singular number includes the plural and the plural, the singular.",
+                                        "depth": 2,
+                                        "diagrams": [],
+                                        "displayRef": null,
+                                        "displayTitle": "201.2 Interchangeability",
+                                        "hasAssemblies": false,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 0,
+                                        "numDiagramsOnRef": 0,
+                                        "reference": "201.2",
+                                        "slug": "definitions",
+                                        "titleText": "Interchangeability",
+                                        "children": []
+                                    },
+                                    {
+                                        "ancestorRefs": [
+                                            "2",
+                                            "201"
+                                        ],
+                                        "body": "Where terms are not defined in this code and are defined in the other International Codes, such terms shall have the meanings ascribed to them in those codes.",
+                                        "depth": 2,
+                                        "diagrams": [],
+                                        "displayRef": null,
+                                        "displayTitle": "201.3 Terms Defined in Other Codes",
+                                        "hasAssemblies": false,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 0,
+                                        "numDiagramsOnRef": 0,
+                                        "reference": "201.3",
+                                        "slug": "definitions",
+                                        "titleText": "Terms Defined in Other Codes",
+                                        "children": []
+                                    },
+                                    {
+                                        "ancestorRefs": [
+                                            "2",
+                                            "201"
+                                        ],
+                                        "body": "Where terms are not defined through the methods authorized by this chapter, such terms shall have ordinarily accepted meanings such as the context implies.",
+                                        "depth": 2,
+                                        "diagrams": [],
+                                        "displayRef": null,
+                                        "displayTitle": "201.4 Terms Not Defined",
+                                        "hasAssemblies": false,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 0,
+                                        "numDiagramsOnRef": 0,
+                                        "reference": "201.4",
+                                        "slug": "definitions",
+                                        "titleText": "Terms Not Defined",
+                                        "children": []
+                                    }
+                                ]
+                            },
+                            {
+                                "ancestorRefs": [
+                                    "2"
+                                ],
+                                "depth": 1,
+                                "diagrams": [
+                                    {
+                                        "key": "change_occupancy_use",
+                                        "title": "Change of Occupancy / Change of Use: Definition",
+                                        "descriptionHtml": "<div>According to the Existing Building Code, a <strong>Change of Use</strong> is defined as a change in the use of a building or a portion of a building, within the same group classification, for which there is a change in application of the code requirements.</div>",
+                                        "topics": [
+                                            "Definition"
+                                        ],
+                                        "phases": [
+                                            "Construction Docs",
+                                            "Design Development"
+                                        ],
+                                        "supressesChildrenAssociations": false,
+                                        "blacklistJurisdictions": [],
+                                        "whitelistJurisdictions": [],
+                                        "imageType": "svg"
+                                    },
+                                    {
+                                        "key": "work_area_definition",
+                                        "title": "Definition: Work Area",
+                                        "descriptionHtml": "<div>According to the Existing Building Code, a <strong>work area</strong> is that portion or portions of a building consisting of all reconfigured spaces as indicated on the construction documents. Work area excludes other portions of the building where incidental work entailed by the intended work must be performed and portions of the building where work not initially intended by the owner is specifically required by this code. </div>",
+                                        "topics": [
+                                            "Definition"
+                                        ],
+                                        "phases": [
+                                            "Schematic",
+                                            "Design Development"
+                                        ],
+                                        "supressesChildrenAssociations": false,
+                                        "blacklistJurisdictions": [],
+                                        "whitelistJurisdictions": [],
+                                        "imageType": "svg"
+                                    }
+                                ],
+                                "displayRef": null,
+                                "displayTitle": "Section 202 General Definitions",
+                                "divisionType": "Section",
+                                "hasAssemblies": false,
+                                "hasDiagrams": true,
+                                "hasDiagramsOnRef": true,
+                                "isContiguous": true,
+                                "numAssembliesOnRef": 0,
+                                "numBuildingProductsOnRef": 0,
+                                "numDiagramsOnRef": 2,
+                                "reference": "202",
+                                "slug": "definitions",
+                                "titleText": "General Definitions",
+                                "children": [
+                                    {
+                                        "ancestorRefs": [
+                                            "2",
+                                            "202"
+                                        ],
+                                        "body": "An extension or increase in floor area, number of stories, or height of a building or structure.",
+                                        "depth": 2,
+                                        "diagrams": [],
+                                        "displayRef": null,
+                                        "displayTitle": "[A]   Addition",
+                                        "hasAssemblies": false,
+                                        "hasDiagrams": true,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 0,
+                                        "numDiagramsOnRef": 0,
+                                        "reference": "ADDITION_",
+                                        "refPrefix": "[A]",
+                                        "slug": "definitions",
+                                        "titleText": "Addition",
+                                        "children": []
+                                    },
+                                    {
+                                        "ancestorRefs": [
+                                            "2",
+                                            "202"
+                                        ],
+                                        "body": "Any construction or renovation to an <span class=\"u-italic\"><a class=\"autolink\" href=\"#existing_structure_\">existing structure</a></span> other than a <span class=\"u-italic\"><a class=\"autolink\" href=\"#repair_\">repair</a></span> or <span class=\"u-italic\"><a class=\"autolink\" href=\"#ADDITION_\">addition</a></span>.",
+                                        "depth": 2,
+                                        "diagrams": [],
+                                        "displayRef": null,
+                                        "displayTitle": "[A]   Alteration",
+                                        "hasAssemblies": false,
+                                        "hasDiagrams": true,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 0,
+                                        "numDiagramsOnRef": 0,
+                                        "reference": "alteration_",
+                                        "refPrefix": "[A]",
+                                        "slug": "definitions",
+                                        "titleText": "Alteration",
+                                        "children": []
+                                    },
+                                    {
+                                        "ancestorRefs": [
+                                            "2",
+                                            "202"
+                                        ],
+                                        "body": "Acceptable to the <span class=\"u-italic\"><a class=\"autolink\" href=\"#code_official_\">code official</a></span>.",
+                                        "depth": 2,
+                                        "diagrams": [],
+                                        "displayRef": null,
+                                        "displayTitle": "[A]   Approved",
+                                        "hasAssemblies": false,
+                                        "hasDiagrams": true,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 0,
+                                        "numDiagramsOnRef": 0,
+                                        "reference": "approved_",
+                                        "refPrefix": "[A]",
+                                        "slug": "definitions",
+                                        "titleText": "Approved",
+                                        "children": []
+                                    },
+                                    {
+                                        "ancestorRefs": [
+                                            "2",
+                                            "202"
+                                        ],
+                                        "body": "Any structure utilized or intended for supporting or sheltering any occupancy.",
+                                        "depth": 2,
+                                        "diagrams": [],
+                                        "displayRef": null,
+                                        "displayTitle": "[A]   Building",
+                                        "hasAssemblies": false,
+                                        "hasDiagrams": true,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 0,
+                                        "numDiagramsOnRef": 0,
+                                        "reference": "building_",
+                                        "refPrefix": "[A]",
+                                        "slug": "definitions",
+                                        "titleText": "Building",
+                                        "children": []
+                                    },
+                                    {
+                                        "ancestorRefs": [
+                                            "2",
+                                            "202"
+                                        ],
+                                        "body": "Any of the following shall be considered as a change of occupancy where the current <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/alabama/ibc-2021\">International Building Code</a></span> requires a greater degree of safety, accessibility, structural strength, fire protection, means of egress, ventilation or sanitation than is existing in the current building or structure:\n<div>\n<ol>\n<li>Any change in the occupancy classification of a building or structure.</li>\n<li>Any change in the purpose of, or a change in the level of activity within, a building or structure.</li>\n<li>A <a class=\"autolink\" href=\"#change_of_use_\">change of use</a>.</li>\n</ol>\n</div>",
+                                        "depth": 2,
+                                        "diagrams": [],
+                                        "displayRef": null,
+                                        "displayTitle": "[A]   Change of Occupancy",
+                                        "hasAssemblies": false,
+                                        "hasDiagrams": true,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 0,
+                                        "numDiagramsOnRef": 0,
+                                        "reference": "change_of_occupancy_",
+                                        "refPrefix": "[A]",
+                                        "slug": "definitions",
+                                        "titleText": "Change of Occupancy",
+                                        "children": []
+                                    },
+                                    {
+                                        "ancestorRefs": [
+                                            "2",
+                                            "202"
+                                        ],
+                                        "body": "A change in the use of a building or a portion of a building, within the same group classification, for which there is a change in application of the code requirements.",
+                                        "depth": 2,
+                                        "diagrams": [],
+                                        "displayRef": null,
+                                        "displayTitle": "[A]   Change of Use",
+                                        "hasAssemblies": false,
+                                        "hasDiagrams": true,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 0,
+                                        "numDiagramsOnRef": 0,
+                                        "reference": "change_of_use_",
+                                        "refPrefix": "[A]",
+                                        "slug": "definitions",
+                                        "titleText": "Change of Use",
+                                        "children": []
+                                    },
+                                    {
+                                        "ancestorRefs": [
+                                            "2",
+                                            "202"
+                                        ],
+                                        "body": "The officer or other designated authority charged with the administration and enforcement of this code.",
+                                        "depth": 2,
+                                        "diagrams": [],
+                                        "displayRef": null,
+                                        "displayTitle": "[A]   Code Official",
+                                        "hasAssemblies": false,
+                                        "hasDiagrams": true,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 0,
+                                        "numDiagramsOnRef": 0,
+                                        "reference": "code_official_",
+                                        "refPrefix": "[A]",
+                                        "slug": "definitions",
+                                        "titleText": "Code Official",
+                                        "children": []
+                                    },
+                                    {
+                                        "ancestorRefs": [
+                                            "2",
+                                            "202"
+                                        ],
+                                        "body": "Any building, structure or portion thereof that meets any of the conditions described below shall be deemed dangerous:\n<div>\n<ol>\n<li>The building or structure has collapsed, has partially collapsed, has moved off its foundation or lacks the necessary support of the ground.</li>\n<li>There exists a significant risk of collapse, detachment or dislodgement of any portion, member, appurtenance or ornamentation of the building or structure under permanent, routine or frequent loads; under actual loads already in effect; or under snow, wind, rain, flood, earthquake or other environmental loads when such loads are imminent.</li>\n</ol>\n</div>",
+                                        "depth": 2,
+                                        "diagrams": [],
+                                        "displayRef": null,
+                                        "displayTitle": "[BS]   Dangerous",
+                                        "hasAssemblies": false,
+                                        "hasDiagrams": true,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 0,
+                                        "numDiagramsOnRef": 0,
+                                        "reference": "dangerous_",
+                                        "refPrefix": "[BS]",
+                                        "slug": "definitions",
+                                        "titleText": "Dangerous",
+                                        "children": []
+                                    },
+                                    {
+                                        "ancestorRefs": [
+                                            "2",
+                                            "202"
+                                        ],
+                                        "body": "Those portions of the design that are not submitted at the time of the application and that are to be submitted to the <span class=\"u-italic\"><a class=\"autolink\" href=\"#code_official_\">code official</a></span> within a specified period.",
+                                        "depth": 2,
+                                        "diagrams": [],
+                                        "displayRef": null,
+                                        "displayTitle": "[A]   Deferred Submittal",
+                                        "hasAssemblies": false,
+                                        "hasDiagrams": true,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 0,
+                                        "numDiagramsOnRef": 0,
+                                        "reference": "deferred_submittal_",
+                                        "refPrefix": "[A]",
+                                        "slug": "definitions",
+                                        "titleText": "Deferred Submittal",
+                                        "children": []
+                                    },
+                                    {
+                                        "ancestorRefs": [
+                                            "2",
+                                            "202"
+                                        ],
+                                        "body": "A condition of earthquake-related damage where both of the following occur:\n<div>\n<ol>\n<li>The 0.3-second spectral acceleration at the building site as estimated by the United States Geological Survey for the earthquake in question is less than 40 percent of the mapped acceleration parameter <a id=\"ss\" href=\"#ss\" class=\"autolink_target\">SS</a>.</li>\n<li>The vertical elements of the lateral force-resisting system have suffered damage such that the lateral load-carrying capacity of any story in any horizontal direction has been reduced by more than 10 percent from its predamage condition.</li>\n</ol>\n</div>",
+                                        "depth": 2,
+                                        "diagrams": [],
+                                        "displayRef": null,
+                                        "displayTitle": "[BS]   Disproportionate Earthquake Damage",
+                                        "hasAssemblies": false,
+                                        "hasDiagrams": true,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 0,
+                                        "numDiagramsOnRef": 0,
+                                        "reference": "disproportionate_earthquake_damage_",
+                                        "refPrefix": "[BS]",
+                                        "slug": "definitions",
+                                        "titleText": "Disproportionate Earthquake Damage",
+                                        "children": []
+                                    },
+                                    {
+                                        "ancestorRefs": [
+                                            "2",
+                                            "202"
+                                        ],
+                                        "body": "An operable exterior window, door or other similar device that provides for a means of escape and access for rescue in the event of an emergency.",
+                                        "depth": 2,
+                                        "diagrams": [],
+                                        "displayRef": null,
+                                        "displayTitle": "[BE]   Emergency Escape and Rescue Opening",
+                                        "hasAssemblies": false,
+                                        "hasDiagrams": true,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 0,
+                                        "numDiagramsOnRef": 0,
+                                        "reference": "emergency_escape_and_rescue_opening_",
+                                        "refPrefix": "[BE]",
+                                        "slug": "definitions",
+                                        "titleText": "Emergency Escape and Rescue Opening",
+                                        "children": []
+                                    },
+                                    {
+                                        "ancestorRefs": [
+                                            "2",
+                                            "202"
+                                        ],
+                                        "body": "Any plumbing, heating, electrical, ventilating, air conditioning, refrigerating and fire protection equipment; and elevators, dumbwaiters, escalators, boilers, pressure vessels and other mechanical <a class=\"autolink\" href=\"#facility_\">facilities</a>; or installations that are related to building services. Equipment or fixture shall not include manufacturing, production or process equipment, but shall include connections from building service to process equipment.",
+                                        "depth": 2,
+                                        "diagrams": [],
+                                        "displayRef": null,
+                                        "displayTitle": "Equipment or Fixture",
+                                        "hasAssemblies": false,
+                                        "hasDiagrams": true,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 0,
+                                        "numDiagramsOnRef": 0,
+                                        "reference": "equipment_or_fixture_",
+                                        "slug": "definitions",
+                                        "titleText": "Equipment or Fixture",
+                                        "children": []
+                                    },
+                                    {
+                                        "ancestorRefs": [
+                                            "2",
+                                            "202"
+                                        ],
+                                        "body": "A building erected prior to the date of adoption of the appropriate code, or one for which a legal building permit has been issued.",
+                                        "depth": 2,
+                                        "diagrams": [],
+                                        "displayRef": null,
+                                        "displayTitle": "[A]   Existing Building",
+                                        "hasAssemblies": false,
+                                        "hasDiagrams": true,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 0,
+                                        "numDiagramsOnRef": 0,
+                                        "reference": "existing_building_",
+                                        "refPrefix": "[A]",
+                                        "slug": "definitions",
+                                        "titleText": "Existing Building",
+                                        "children": []
+                                    },
+                                    {
+                                        "ancestorRefs": [
+                                            "2",
+                                            "202"
+                                        ],
+                                        "body": "A structure erected prior to the date of adoption of the appropriate code, or one for which a legal building permit has been issued.",
+                                        "depth": 2,
+                                        "diagrams": [],
+                                        "displayRef": null,
+                                        "displayTitle": "[A]   Existing Structure",
+                                        "hasAssemblies": false,
+                                        "hasDiagrams": true,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 0,
+                                        "numDiagramsOnRef": 0,
+                                        "reference": "existing_structure_",
+                                        "refPrefix": "[A]",
+                                        "slug": "definitions",
+                                        "titleText": "Existing Structure",
+                                        "children": []
+                                    },
+                                    {
+                                        "ancestorRefs": [
+                                            "2",
+                                            "202"
+                                        ],
+                                        "body": "A material or assembly of materials applied on the exterior side of exterior walls for the purpose of providing a weather-resisting barrier, insulation or for aesthetics, including but not limited to, veneers, siding, exterior insulation and finish systems, architectural trim and embellishments, such as cornices, soffits, facias, gutters and leaders.",
+                                        "depth": 2,
+                                        "diagrams": [],
+                                        "displayRef": null,
+                                        "displayTitle": "[BF]   Exterior Wall Covering",
+                                        "hasAssemblies": false,
+                                        "hasDiagrams": true,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 0,
+                                        "numDiagramsOnRef": 0,
+                                        "reference": "exterior_wall_covering_",
+                                        "refPrefix": "[BF]",
+                                        "slug": "definitions",
+                                        "titleText": "Exterior Wall Covering",
+                                        "children": []
+                                    },
+                                    {
+                                        "ancestorRefs": [
+                                            "2",
+                                            "202"
+                                        ],
+                                        "body": "A system or assembly of exterior wall components, including exterior wall finish materials, that provides protection of the building structural members, including framing and sheathing materials, and conditioned interior space from the detrimental effects of the exterior environment.",
+                                        "depth": 2,
+                                        "diagrams": [],
+                                        "displayRef": null,
+                                        "displayTitle": "[BF]   Exterior Wall Envelope",
+                                        "hasAssemblies": false,
+                                        "hasDiagrams": true,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 0,
+                                        "numDiagramsOnRef": 0,
+                                        "reference": "exterior_wall_envelope_",
+                                        "refPrefix": "[BF]",
+                                        "slug": "definitions",
+                                        "titleText": "Exterior Wall Envelope",
+                                        "children": []
+                                    },
+                                    {
+                                        "ancestorRefs": [
+                                            "2",
+                                            "202"
+                                        ],
+                                        "body": "All or any portion of buildings, structures, site improvements, elements and pedestrian or vehicular routes located on a site.",
+                                        "depth": 2,
+                                        "diagrams": [],
+                                        "displayRef": null,
+                                        "displayTitle": "[A]   Facility",
+                                        "hasAssemblies": false,
+                                        "hasDiagrams": true,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 0,
+                                        "numDiagramsOnRef": 0,
+                                        "reference": "facility_",
+                                        "refPrefix": "[A]",
+                                        "slug": "definitions",
+                                        "titleText": "Facility",
+                                        "children": []
+                                    },
+                                    {
+                                        "ancestorRefs": [
+                                            "2",
+                                            "202"
+                                        ],
+                                        "body": "The greater of the following two areas:\n<div>\n<ol>\n<li>The area within a flood plain subject to a 1-percent or greater chance of flooding in any year.</li>\n<li>The area designated as a <span class=\"u-italic\">flood hazard area</span> on a community's flood hazard map, or otherwise legally designated.</li>\n</ol>\n</div>",
+                                        "depth": 2,
+                                        "diagrams": [],
+                                        "displayRef": null,
+                                        "displayTitle": "[BS]   Flood Hazard Area",
+                                        "hasAssemblies": false,
+                                        "hasDiagrams": true,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 0,
+                                        "numDiagramsOnRef": 0,
+                                        "reference": "flood_hazard_area_",
+                                        "refPrefix": "[BS]",
+                                        "slug": "definitions",
+                                        "titleText": "Flood Hazard Area",
+                                        "children": []
+                                    },
+                                    {
+                                        "ancestorRefs": [
+                                            "2",
+                                            "202"
+                                        ],
+                                        "body": "Any building or structure that is one or more of the following:\n<div>\n<ol>\n<li>Listed, or certified as eligible for listing, by the State Historic Preservation Officer or the Keeper of the National Register of Historic Places, in the National Register of Historic Places.</li>\n<li>Designated as historic under an applicable state or local law.</li>\n<li>Certified as a contributing resource within a National Register, state designated or locally designated historic district.</li>\n</ol>\n</div>",
+                                        "depth": 2,
+                                        "diagrams": [],
+                                        "displayRef": null,
+                                        "displayTitle": "[A]   Historic Building",
+                                        "hasAssemblies": false,
+                                        "hasDiagrams": true,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 0,
+                                        "numDiagramsOnRef": 0,
+                                        "reference": "historic_building_",
+                                        "refPrefix": "[A]",
+                                        "slug": "definitions",
+                                        "titleText": "Historic Building",
+                                        "children": []
+                                    },
+                                    {
+                                        "ancestorRefs": [
+                                            "2",
+                                            "202"
+                                        ],
+                                        "body": "A material that, under the conditions anticipated, will not ignite or burn when subjected to fire or heat. Materials that pass ASTM E136 are considered <span class=\"u-italic\">noncombustible materials</span>.",
+                                        "depth": 2,
+                                        "diagrams": [],
+                                        "displayRef": null,
+                                        "displayTitle": "[BF]   Noncombustible Material",
+                                        "hasAssemblies": false,
+                                        "hasDiagrams": true,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 0,
+                                        "numDiagramsOnRef": 0,
+                                        "reference": "noncombustible_material_",
+                                        "refPrefix": "[BF]",
+                                        "slug": "definitions",
+                                        "titleText": "Noncombustible Material",
+                                        "children": []
+                                    },
+                                    {
+                                        "ancestorRefs": [
+                                            "2",
+                                            "202"
+                                        ],
+                                        "body": "A <span class=\"u-italic\">primary function</span> is a major activity for which the <span class=\"u-italic\"><a class=\"autolink\" href=\"#facility_\">facility</a></span> is intended. Areas that contain a <span class=\"u-italic\">primary function</span> include, but are not limited to, the customer services lobby of a bank, the dining area of a cafeteria, the meeting rooms in a conference center, as well as offices and other <a class=\"autolink\" href=\"#work_area_\">work areas</a> in which the activities of the public accommodation or other private entity using the <span class=\"u-italic\"><a class=\"autolink\" href=\"#facility_\">facility</a></span> are carried out. Mechanical rooms, boiler rooms, supply storage rooms, employee lounges or locker rooms, janitorial closets, entrances, corridors and restrooms are not areas containing a <span class=\"u-italic\">primary function</span>.",
+                                        "depth": 2,
+                                        "diagrams": [],
+                                        "displayRef": null,
+                                        "displayTitle": "Primary Function",
+                                        "hasAssemblies": false,
+                                        "hasDiagrams": true,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 0,
+                                        "numDiagramsOnRef": 0,
+                                        "reference": "primary_function_",
+                                        "slug": "definitions",
+                                        "titleText": "Primary Function",
+                                        "children": []
+                                    },
+                                    {
+                                        "ancestorRefs": [
+                                            "2",
+                                            "202"
+                                        ],
+                                        "body": "A registered design professional engaged by the owner or the owner's authorized agent to review and coordinate certain aspects of the project, as determined by the <span class=\"u-italic\"><a class=\"autolink\" href=\"#code_official_\">code official</a></span>, for compatibility with the design of the building or structure, including submittal documents prepared by others, <span class=\"u-italic\"><a class=\"autolink\" href=\"#deferred_submittal_\">deferred submittal</a></span> documents and phased submittal documents.",
+                                        "depth": 2,
+                                        "diagrams": [],
+                                        "displayRef": null,
+                                        "displayTitle": "[A]   Registered Design Professional in Responsible Charge",
+                                        "hasAssemblies": false,
+                                        "hasDiagrams": true,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 0,
+                                        "numDiagramsOnRef": 0,
+                                        "reference": "registered_design_professional_in_responsible_charge_",
+                                        "refPrefix": "[A]",
+                                        "slug": "definitions",
+                                        "titleText": "Registered Design Professional in Responsible Charge",
+                                        "children": []
+                                    },
+                                    {
+                                        "ancestorRefs": [
+                                            "2",
+                                            "202"
+                                        ],
+                                        "body": "Any work, as described by the categories of work defined herein, undertaken in an <span class=\"u-italic\"><a class=\"autolink\" href=\"#existing_building_\">existing building</a>.</span>",
+                                        "depth": 2,
+                                        "diagrams": [],
+                                        "displayRef": null,
+                                        "displayTitle": "Rehabilitation",
+                                        "hasAssemblies": false,
+                                        "hasDiagrams": true,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 0,
+                                        "numDiagramsOnRef": 0,
+                                        "reference": "rehabilitation_",
+                                        "slug": "definitions",
+                                        "titleText": "Rehabilitation",
+                                        "children": []
+                                    },
+                                    {
+                                        "ancestorRefs": [
+                                            "2",
+                                            "202"
+                                        ],
+                                        "body": "A partially or completely assembled building constructed and designed to be reused multiple times and transported to different building sites.",
+                                        "depth": 2,
+                                        "diagrams": [],
+                                        "displayRef": null,
+                                        "displayTitle": "[A]   Relocatable Building",
+                                        "hasAssemblies": false,
+                                        "hasDiagrams": true,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 0,
+                                        "numDiagramsOnRef": 0,
+                                        "reference": "relocatable_building_",
+                                        "refPrefix": "[A]",
+                                        "slug": "definitions",
+                                        "titleText": "Relocatable Building",
+                                        "children": []
+                                    },
+                                    {
+                                        "ancestorRefs": [
+                                            "2",
+                                            "202"
+                                        ],
+                                        "body": "The reconstruction, replacement or renewal of any part of an <span class=\"u-italic\"><a class=\"autolink\" href=\"#existing_building_\">existing building</a></span> for the purpose of its maintenance or to correct damage.",
+                                        "depth": 2,
+                                        "diagrams": [],
+                                        "displayRef": null,
+                                        "displayTitle": "[A]   Repair",
+                                        "hasAssemblies": false,
+                                        "hasDiagrams": true,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 0,
+                                        "numDiagramsOnRef": 0,
+                                        "reference": "repair_",
+                                        "refPrefix": "[A]",
+                                        "slug": "definitions",
+                                        "titleText": "Repair",
+                                        "children": []
+                                    },
+                                    {
+                                        "ancestorRefs": [
+                                            "2",
+                                            "202"
+                                        ],
+                                        "body": "The process of recovering or replacing an existing roof covering. See \"<i><a class=\"autolink\" href=\"#roof_recover_\">Roof recover</a></i>\" and \"<i><a class=\"autolink\" href=\"#roof_replacement_\">Roof replacement</a></i>.\"",
+                                        "depth": 2,
+                                        "diagrams": [],
+                                        "displayRef": null,
+                                        "displayTitle": "[BS]   Reroofing",
+                                        "hasAssemblies": false,
+                                        "hasDiagrams": true,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 0,
+                                        "numDiagramsOnRef": 0,
+                                        "reference": "reroofing_",
+                                        "refPrefix": "[BS]",
+                                        "slug": "definitions",
+                                        "titleText": "Reroofing",
+                                        "children": []
+                                    },
+                                    {
+                                        "ancestorRefs": [
+                                            "2",
+                                            "202"
+                                        ],
+                                        "body": "A categorization of buildings and other structures for determination of flood, wind, snow, ice and earthquake loads based on the risk associated with unacceptable performance, as provided in <a class=\"autolink\" href=\"/viewer/alabama/ibc-2021/chapter/16/structural-design#1604.5\">Section 1604.5</a> of the <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/alabama/ibc-2021\">International Building Code</a></span>.",
+                                        "depth": 2,
+                                        "diagrams": [],
+                                        "displayRef": null,
+                                        "displayTitle": "[BS]   Risk Category",
+                                        "hasAssemblies": false,
+                                        "hasDiagrams": true,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 0,
+                                        "numDiagramsOnRef": 0,
+                                        "reference": "risk_category_",
+                                        "refPrefix": "[BS]",
+                                        "slug": "definitions",
+                                        "titleText": "Risk Category",
+                                        "children": []
+                                    },
+                                    {
+                                        "ancestorRefs": [
+                                            "2",
+                                            "202"
+                                        ],
+                                        "body": "A fluid-applied adhered coating used for roof maintenance, <span class=\"u-italic\"><a class=\"autolink\" href=\"#roof_repair_\">roof repair</a></span> or as a component of a roof covering system or roof assembly.",
+                                        "depth": 2,
+                                        "diagrams": [],
+                                        "displayRef": null,
+                                        "displayTitle": "[BS]   Roof Coating",
+                                        "hasAssemblies": false,
+                                        "hasDiagrams": true,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 0,
+                                        "numDiagramsOnRef": 0,
+                                        "reference": "roof_coating_",
+                                        "refPrefix": "[BS]",
+                                        "slug": "definitions",
+                                        "titleText": "Roof Coating",
+                                        "children": []
+                                    },
+                                    {
+                                        "ancestorRefs": [
+                                            "2",
+                                            "202"
+                                        ],
+                                        "body": "The process of installing an additional roof covering over a prepared existing roof covering without removing the existing roof covering.",
+                                        "depth": 2,
+                                        "diagrams": [],
+                                        "displayRef": null,
+                                        "displayTitle": "[BS]   Roof Recover",
+                                        "hasAssemblies": false,
+                                        "hasDiagrams": true,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 0,
+                                        "numDiagramsOnRef": 0,
+                                        "reference": "roof_recover_",
+                                        "refPrefix": "[BS]",
+                                        "slug": "definitions",
+                                        "titleText": "Roof Recover",
+                                        "children": []
+                                    },
+                                    {
+                                        "ancestorRefs": [
+                                            "2",
+                                            "202"
+                                        ],
+                                        "body": "Reconstruction or renewal of any part of an existing roof for the purpose of correcting damage or restoring the predamage condition.",
+                                        "depth": 2,
+                                        "diagrams": [],
+                                        "displayRef": null,
+                                        "displayTitle": "[BS]   Roof Repair",
+                                        "hasAssemblies": false,
+                                        "hasDiagrams": true,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 0,
+                                        "numDiagramsOnRef": 0,
+                                        "reference": "roof_repair_",
+                                        "refPrefix": "[BS]",
+                                        "slug": "definitions",
+                                        "titleText": "Roof Repair",
+                                        "children": []
+                                    },
+                                    {
+                                        "ancestorRefs": [
+                                            "2",
+                                            "202"
+                                        ],
+                                        "body": "The process of removing the existing roof covering, repairing any damaged substrate and installing a new roof covering.",
+                                        "depth": 2,
+                                        "diagrams": [],
+                                        "displayRef": null,
+                                        "displayTitle": "[BS]   Roof Replacement",
+                                        "hasAssemblies": false,
+                                        "hasDiagrams": true,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 0,
+                                        "numDiagramsOnRef": 0,
+                                        "reference": "roof_replacement_",
+                                        "refPrefix": "[BS]",
+                                        "slug": "definitions",
+                                        "titleText": "Roof Replacement",
+                                        "children": []
+                                    },
+                                    {
+                                        "ancestorRefs": [
+                                            "2",
+                                            "202"
+                                        ],
+                                        "body": "The loads, forces and requirements prescribed herein, related to the response of the building to earthquake motions, to be used in the analysis and design of the structure and its components. Seismic forces are considered either full or reduced, as provided in <a class=\"autolink\" href=\"/viewer/alabama/iebc-2021/chapter/3/provisions-for-all-compliance-methods#3\">Chapter 3</a>.",
+                                        "depth": 2,
+                                        "diagrams": [],
+                                        "displayRef": null,
+                                        "displayTitle": "[BS]   Seismic Forces",
+                                        "hasAssemblies": false,
+                                        "hasDiagrams": true,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 0,
+                                        "numDiagramsOnRef": 0,
+                                        "reference": "seismic_forces_",
+                                        "refPrefix": "[BS]",
+                                        "slug": "definitions",
+                                        "titleText": "Seismic Forces",
+                                        "children": []
+                                    },
+                                    {
+                                        "ancestorRefs": [
+                                            "2",
+                                            "202"
+                                        ],
+                                        "body": "For the purpose of determining compliance with the flood provisions of this code, damage of any origin sustained by a structure whereby the cost of restoring the structure to its before-damaged condition would equal or exceed 50 percent of the market value of the structure before the damage occurred.",
+                                        "depth": 2,
+                                        "diagrams": [],
+                                        "displayRef": null,
+                                        "displayTitle": "[BS]   Substantial Damage",
+                                        "hasAssemblies": false,
+                                        "hasDiagrams": true,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 0,
+                                        "numDiagramsOnRef": 0,
+                                        "reference": "substantial_damage_",
+                                        "refPrefix": "[BS]",
+                                        "slug": "definitions",
+                                        "titleText": "Substantial Damage",
+                                        "children": []
+                                    },
+                                    {
+                                        "ancestorRefs": [
+                                            "2",
+                                            "202"
+                                        ],
+                                        "body": "For the purpose of determining compliance with the flood provisions of this code, any <span class=\"u-italic\"><a class=\"autolink\" href=\"#repair_\">repair</a></span>, <span class=\"u-italic\"><a class=\"autolink\" href=\"#alteration_\">alteration</a></span>, <span class=\"u-italic\"><a class=\"autolink\" href=\"#ADDITION_\">addition</a></span> or improvement of a building or structure, the cost of which equals or exceeds 50 percent of the market value of the structure, before the improvement or <span class=\"u-italic\"><a class=\"autolink\" href=\"#repair_\">repair</a></span> is started. If the structure has sustained <span class=\"u-italic\"><a class=\"autolink\" href=\"#substantial_damage_\">substantial damage</a></span>, any <span class=\"u-italic\"><a class=\"autolink\" href=\"#repair_\">repairs</a></span> are considered <span class=\"u-italic\">substantial improvement</span> regardless of the actual <span class=\"u-italic\"><a class=\"autolink\" href=\"#repair_\">repair</a></span> work performed. The term does not, however, include either of the following:\n<div>\n<ol>\n<li>Any project for improvement of a building required to correct existing health, sanitary or safety code violations identified by the <span class=\"u-italic\"><a class=\"autolink\" href=\"#code_official_\">code official</a></span> and that is the minimum necessary to ensure safe living conditions.</li>\n<li>Any <span class=\"u-italic\"><a class=\"autolink\" href=\"#alteration_\">alteration</a></span> of a historic structure, provided that the <span class=\"u-italic\"><a class=\"autolink\" href=\"#alteration_\">alteration</a></span> will not preclude the structure's continued designation as a historic structure.</li>\n</ol>\n</div>",
+                                        "depth": 2,
+                                        "diagrams": [],
+                                        "displayRef": null,
+                                        "displayTitle": "[BS]   Substantial Improvement",
+                                        "hasAssemblies": false,
+                                        "hasDiagrams": true,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 0,
+                                        "numDiagramsOnRef": 0,
+                                        "reference": "substantial_improvement_",
+                                        "refPrefix": "[BS]",
+                                        "slug": "definitions",
+                                        "titleText": "Substantial Improvement",
+                                        "children": []
+                                    },
+                                    {
+                                        "ancestorRefs": [
+                                            "2",
+                                            "202"
+                                        ],
+                                        "body": "An <span class=\"u-italic\"><a class=\"autolink\" href=\"#alteration_\">alteration</a></span> in which the gravity load-carrying structural elements altered within a 5-year period support more than 30 percent of the total floor and roof area of the building or structure. The areas to be counted toward the 30 percent shall include mezzanines, penthouses, and in-filled courts and shafts tributary to the altered structural elements.",
+                                        "depth": 2,
+                                        "diagrams": [],
+                                        "displayRef": null,
+                                        "displayTitle": "[BS]   Substantial Structural Alteration",
+                                        "hasAssemblies": false,
+                                        "hasDiagrams": true,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 0,
+                                        "numDiagramsOnRef": 0,
+                                        "reference": "substantial_structural_alteration_",
+                                        "refPrefix": "[BS]",
+                                        "slug": "definitions",
+                                        "titleText": "Substantial Structural Alteration",
+                                        "children": []
+                                    },
+                                    {
+                                        "ancestorRefs": [
+                                            "2",
+                                            "202"
+                                        ],
+                                        "body": "A condition where any of the following apply:\n<div>\n<ol>\n<li>The vertical elements of the lateral force-resisting system have suffered damage such that the lateral load-carrying capacity of any story in any horizontal direction has been reduced by more than 33 percent from its predamage condition.</li>\n<li>The capacity of any vertical component carrying gravity load, or any group of such components, that has a tributary area more than 30 percent of the total area of the structure's floor(s) and roof(s) has been reduced more than 20 percent from its predamage condition, and the remaining capacity of such affected elements, with respect to all dead and live loads, is less than 75 percent of that required by the <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/alabama/ibc-2021\">International Building Code</a></span> for new buildings of similar structure, purpose and location.</li>\n<li>The capacity of any structural component carrying snow load, or any group of such components, that supports more than 30 percent of the roof area of similar construction has been reduced more than 20 percent from its predamage condition, and the remaining capacity with respect to dead, live and snow loads is less than 75 percent of that required by the <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/alabama/ibc-2021\">International Building Code</a></span> for new buildings of similar structure, purpose and location.</li>\n</ol>\n</div>",
+                                        "depth": 2,
+                                        "diagrams": [],
+                                        "displayRef": null,
+                                        "displayTitle": "[BS]   Substantial Structural Damage",
+                                        "hasAssemblies": false,
+                                        "hasDiagrams": true,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 0,
+                                        "numDiagramsOnRef": 0,
+                                        "reference": "substantial_structural_damage_",
+                                        "refPrefix": "[BS]",
+                                        "slug": "definitions",
+                                        "titleText": "Substantial Structural Damage",
+                                        "children": []
+                                    },
+                                    {
+                                        "ancestorRefs": [
+                                            "2",
+                                            "202"
+                                        ],
+                                        "body": "An <span class=\"u-italic\"><a class=\"autolink\" href=\"#alteration_\">alteration</a></span> of a <span class=\"u-italic\"><a class=\"autolink\" href=\"#facility_\">facility</a></span> that has little likelihood of being accomplished because the existing structural conditions require the removal or <span class=\"u-italic\"><a class=\"autolink\" href=\"#alteration_\">alteration</a></span> of a load-bearing member that is an essential part of the structural frame, or because other existing physical or site constraints prohibit modification or <a class=\"autolink\" href=\"#ADDITION_\">addition</a> of elements, spaces or features which are in full and strict compliance with the minimum requirements for new construction and which are necessary to provide accessibility.",
+                                        "depth": 2,
+                                        "diagrams": [
+                                            {
+                                                "key": "technical_infeasibility_1",
+                                                "title": "Technical Infeasibility: Dressing, Fitting and Locker  - Example 1",
+                                                "descriptionHtml": "<div>Where separate-sex facilities are provided, accessible facilities for each sex are required.  Where only unisex facilities are provided separate-sex facilities are not required.  Where it is deemed technically infeasible to provide accessible facilities in the same location as similar existing facilities an accessible room of the same type of facility shall be provide on the same level. </div><br/>\n<div>Example: Men's and women's dressing rooms are provided on the 3rd level but are not accessible, an accessible men's dressing room and an accessible women's dressing room are required to be added to the 3rd level.</div>",
+                                                "topics": [
+                                                    "Definition",
+                                                    "Example",
+                                                    "Access"
+                                                ],
+                                                "phases": [
+                                                    "Post-Construction",
+                                                    "Construction Docs",
+                                                    "Construction Phase"
+                                                ],
+                                                "supressesChildrenAssociations": false,
+                                                "blacklistJurisdictions": [],
+                                                "whitelistJurisdictions": [],
+                                                "imageType": "svg"
+                                            },
+                                            {
+                                                "key": "technical_infeasibility_2",
+                                                "title": "Technical Infeasibility: Dressing, Fitting and Locker Rooms - Example 2",
+                                                "descriptionHtml": "<div>Where separate-sex facilities are provided, accessible facilities for each sex are required.  Where only unisex facilities are provided separate-sex facilities are not required.  Where it is deemed technically infeasible to provide accessible facilities in the same location as similar existing facilities an accessible room of the same type of facility shall be provide on the same level. </div><br/>\n<div>In the illustrated example, an accessible fitting room is not able to be provided at the same location as the existing facilities due to structural walls and other existing conditions, such as plumbing facilities. Therefore an accessible fitting room must be provided on the same floor, but can be located in another area within the space.</div>",
+                                                "topics": [
+                                                    "Definition",
+                                                    "Example",
+                                                    "Access"
+                                                ],
+                                                "phases": [
+                                                    "Construction Docs",
+                                                    "Construction Phase",
+                                                    "Post-Construction"
+                                                ],
+                                                "supressesChildrenAssociations": false,
+                                                "blacklistJurisdictions": [],
+                                                "whitelistJurisdictions": [],
+                                                "imageType": "svg"
+                                            }
+                                        ],
+                                        "displayRef": null,
+                                        "displayTitle": "Technically Infeasible",
+                                        "hasAssemblies": false,
+                                        "hasDiagrams": true,
+                                        "hasDiagramsOnRef": true,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 0,
+                                        "numDiagramsOnRef": 2,
+                                        "reference": "technically_infeasible_",
+                                        "slug": "definitions",
+                                        "titleText": "Technically Infeasible",
+                                        "children": []
+                                    },
+                                    {
+                                        "ancestorRefs": [
+                                            "2",
+                                            "202"
+                                        ],
+                                        "body": "Buildings, structures or equipment that are unsanitary, or that are deficient due to inadequate means of egress <span class=\"u-italic\"><a class=\"autolink\" href=\"#facility_\">facilities</a></span>, inadequate light and ventilation, or that constitute a fire hazard, or in which the structure or individual structural members meet the definition of <span class=\"u-italic\">\"<a class=\"autolink\" href=\"#dangerous_\">Dangerous</a>,\"</span> or that are otherwise <a class=\"autolink\" href=\"#dangerous_\">dangerous</a> to human life or the public welfare, or that involve illegal or improper occupancy or inadequate maintenance shall be deemed <span class=\"u-italic\">unsafe</span>. A vacant structure that is not secured against entry shall be deemed <span class=\"u-italic\">unsafe</span>.",
+                                        "depth": 2,
+                                        "diagrams": [],
+                                        "displayRef": null,
+                                        "displayTitle": "Unsafe",
+                                        "hasAssemblies": false,
+                                        "hasDiagrams": true,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 0,
+                                        "numDiagramsOnRef": 0,
+                                        "reference": "unsafe_",
+                                        "slug": "definitions",
+                                        "titleText": "Unsafe",
+                                        "children": []
+                                    },
+                                    {
+                                        "ancestorRefs": [
+                                            "2",
+                                            "202"
+                                        ],
+                                        "body": "That portion or portions of a building consisting of all reconfigured spaces as indicated on the construction documents. Work area excludes other portions of the building where incidental work entailed by the intended work must be performed and portions of the building where work not initially intended by the owner is specifically required by this code.",
+                                        "depth": 2,
+                                        "diagrams": [
+                                            {
+                                                "key": "lv2_alt_supplemental_enclosures",
+                                                "title": "Stairways in Level 2 Alterations: Supplemental Enclosures",
+                                                "descriptionHtml": "<div>In level 2 Alterations, if the area of work on any floor exceeds 50% of the area of the floor upon which the work is to occur supplemental stairway enclosure requirements are required. The enclosure requirements only apply to stairways that are part of the means of egress that serve the area of work. The supplemental enclosure required at the stairways is required to be smoke tight construction. The supplemental enclosure is required on the floor level of the alterations and all floors below served by the stairway. A supplemental stairway enclosure is not required where the building code and fire code do not require the stairway to be enclosed.</div>",
+                                                "topics": [
+                                                    "Egress"
+                                                ],
+                                                "phases": [
+                                                    "Construction Docs",
+                                                    "Construction Phase"
+                                                ],
+                                                "supressesChildrenAssociations": false,
+                                                "blacklistJurisdictions": [],
+                                                "whitelistJurisdictions": [],
+                                                "imageType": "svg"
+                                            }
+                                        ],
+                                        "displayRef": null,
+                                        "displayTitle": "Work Area",
+                                        "hasAssemblies": false,
+                                        "hasDiagrams": true,
+                                        "hasDiagramsOnRef": true,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 0,
+                                        "numDiagramsOnRef": 1,
+                                        "reference": "work_area_",
+                                        "slug": "definitions",
+                                        "titleText": "Work Area",
+                                        "children": []
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            "chapterReference": "2"
+        },
+        "__N_SSP": true
+    },
+    "page": "/viewer/[urlFormPubOrJurisKey]/[urlFormPub]/chapter/[chapterRef]/[chapterName]",
+    "query": {
+        "urlFormPubOrJurisKey": "alabama",
+        "urlFormPub": "iebc-2021",
+        "chapterRef": "2",
+        "chapterName": "definitions"
+    },
+    "buildId": "aNDb_KMgxj06vGZ7D_0_K",
+    "isFallback": false,
+    "isExperimentalCompile": false,
+    "dynamicIds": [
+        61621,
+        54065
+    ],
+    "gssp": true,
+    "scriptLoader": []
+}

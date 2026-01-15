@@ -1,0 +1,1639 @@
+{
+    "props": {
+        "pageProps": {
+            "missingRequiredLogin": false,
+            "title": "Chapter 12 Historic Buildings: Pennsylvania Existing Building Code 2021 | UpCodes",
+            "leanChapterViewerData": {
+                "basePubName": "International Existing Building Code 2021 (IEBC 2021)",
+                "codeGroupingYear": "2025",
+                "codeName": "Pennsylvania Existing Building Code 2021",
+                "codeUuid": "714a8786-4869-443c-bccf-d6e972ca0d69",
+                "codeVersions": [
+                    {
+                        "codeUuid": "714a8786-4869-443c-bccf-d6e972ca0d69",
+                        "name": "Original Adoption",
+                        "effectiveStartDate": "2026-01-01",
+                        "shortformUrlName": "iebc-2021",
+                        "activeStatus": "active"
+                    }
+                ],
+                "ingesterAmendmentsEnabled": false,
+                "ingesterCodeUnitsEnabled": false,
+                "isAmendStylingEnabled": true,
+                "isCorrespondable": true,
+                "jurisKey": "pennsylvania",
+                "jurisName": "Pennsylvania",
+                "metaInfoUrl": "/viewer/pennsylvania/iebc-2021",
+                "modelCodeUrl": null,
+                "placeholder": "Search Pennsylvania Existing Building Code 2021",
+                "pubKey": "int_ebc_2021",
+                "pubPrefix": "int_ebc",
+                "shortformPubName": "iebc-2021",
+                "withAmendments": true,
+                "chapterRef": "12",
+                "publisher": "icc",
+                "hasLinkedResources": false,
+                "initialNonChapterTocLines": [
+                    {
+                        "amendType": null,
+                        "children": [
+                            {
+                                "amendType": null,
+                                "children": [],
+                                "depth": 2,
+                                "displayTitle": "1201.1 Scope",
+                                "hasExpanderArrow": false,
+                                "href": "#1201.1",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "reference": "1201.1"
+                            },
+                            {
+                                "amendType": null,
+                                "children": [],
+                                "depth": 2,
+                                "displayTitle": "1201.2 Report",
+                                "hasExpanderArrow": false,
+                                "href": "#1201.2",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "reference": "1201.2"
+                            },
+                            {
+                                "amendType": null,
+                                "children": [],
+                                "depth": 2,
+                                "displayTitle": "1201.3 Special Occupancy Exceptions\u2014Museums",
+                                "hasExpanderArrow": false,
+                                "href": "#1201.3",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "reference": "1201.3"
+                            },
+                            {
+                                "amendType": null,
+                                "children": [],
+                                "depth": 2,
+                                "displayTitle": "1201.4 Flood Hazard Areas",
+                                "hasExpanderArrow": false,
+                                "href": "#1201.4",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "reference": "1201.4"
+                            },
+                            {
+                                "amendType": null,
+                                "children": [],
+                                "depth": 2,
+                                "displayTitle": "1201.5 Unsafe Conditions",
+                                "hasExpanderArrow": false,
+                                "href": "#1201.5",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "reference": "1201.5"
+                            }
+                        ],
+                        "depth": 1,
+                        "displayTitle": "1201 General",
+                        "hasExpanderArrow": true,
+                        "href": "#1201",
+                        "isCodeDivider": false,
+                        "isCodeDividerClickable": false,
+                        "reference": "1201"
+                    },
+                    {
+                        "amendType": null,
+                        "children": [
+                            {
+                                "amendType": null,
+                                "children": [],
+                                "depth": 2,
+                                "displayTitle": "1202.1 General",
+                                "hasExpanderArrow": false,
+                                "href": "#1202.1",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "reference": "1202.1"
+                            },
+                            {
+                                "amendType": null,
+                                "children": [],
+                                "depth": 2,
+                                "displayTitle": "1202.2 Replacement",
+                                "hasExpanderArrow": false,
+                                "href": "#1202.2",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "reference": "1202.2"
+                            }
+                        ],
+                        "depth": 1,
+                        "displayTitle": "1202 Repairs",
+                        "hasExpanderArrow": true,
+                        "href": "#1202",
+                        "isCodeDivider": false,
+                        "isCodeDividerClickable": false,
+                        "reference": "1202"
+                    },
+                    {
+                        "amendType": null,
+                        "children": [
+                            {
+                                "amendType": null,
+                                "children": [],
+                                "depth": 2,
+                                "displayTitle": "1203.1 Scope",
+                                "hasExpanderArrow": false,
+                                "href": "#1203.1",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "reference": "1203.1"
+                            },
+                            {
+                                "amendType": null,
+                                "children": [],
+                                "depth": 2,
+                                "displayTitle": "1203.2 General",
+                                "hasExpanderArrow": false,
+                                "href": "#1203.2",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "reference": "1203.2"
+                            },
+                            {
+                                "amendType": null,
+                                "children": [],
+                                "depth": 2,
+                                "displayTitle": "1203.3 Means of Egress",
+                                "hasExpanderArrow": false,
+                                "href": "#1203.3",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "reference": "1203.3"
+                            },
+                            {
+                                "amendType": null,
+                                "children": [],
+                                "depth": 2,
+                                "displayTitle": "1203.4 Transoms",
+                                "hasExpanderArrow": false,
+                                "href": "#1203.4",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "reference": "1203.4"
+                            },
+                            {
+                                "amendType": null,
+                                "children": [],
+                                "depth": 2,
+                                "displayTitle": "1203.5 Interior Finishes",
+                                "hasExpanderArrow": false,
+                                "href": "#1203.5",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "reference": "1203.5"
+                            },
+                            {
+                                "amendType": null,
+                                "children": [],
+                                "depth": 2,
+                                "displayTitle": "1203.6 Stairway Enclosure",
+                                "hasExpanderArrow": false,
+                                "href": "#1203.6",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "reference": "1203.6"
+                            },
+                            {
+                                "amendType": null,
+                                "children": [],
+                                "depth": 2,
+                                "displayTitle": "1203.7 One-Hour Fire-Resistant Assemblies",
+                                "hasExpanderArrow": false,
+                                "href": "#1203.7",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "reference": "1203.7"
+                            },
+                            {
+                                "amendType": null,
+                                "children": [],
+                                "depth": 2,
+                                "displayTitle": "1203.8 Glazing in Fire-Resistance-Rated Systems",
+                                "hasExpanderArrow": false,
+                                "href": "#1203.8",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "reference": "1203.8"
+                            },
+                            {
+                                "amendType": null,
+                                "children": [],
+                                "depth": 2,
+                                "displayTitle": "1203.9 Stairway Railings",
+                                "hasExpanderArrow": false,
+                                "href": "#1203.9",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "reference": "1203.9"
+                            },
+                            {
+                                "amendType": null,
+                                "children": [
+                                    {
+                                        "amendType": null,
+                                        "children": [],
+                                        "depth": 3,
+                                        "displayTitle": "1203.10.1 Height",
+                                        "hasExpanderArrow": false,
+                                        "href": "#1203.10.1",
+                                        "isCodeDivider": false,
+                                        "isCodeDividerClickable": false,
+                                        "reference": "1203.10.1"
+                                    },
+                                    {
+                                        "amendType": null,
+                                        "children": [],
+                                        "depth": 3,
+                                        "displayTitle": "1203.10.2 Guard Openings",
+                                        "hasExpanderArrow": false,
+                                        "href": "#1203.10.2",
+                                        "isCodeDivider": false,
+                                        "isCodeDividerClickable": false,
+                                        "reference": "1203.10.2"
+                                    }
+                                ],
+                                "depth": 2,
+                                "displayTitle": "1203.10 Guards",
+                                "hasExpanderArrow": true,
+                                "href": "#1203.10",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "reference": "1203.10"
+                            },
+                            {
+                                "amendType": null,
+                                "children": [],
+                                "depth": 2,
+                                "displayTitle": "1203.11 Exit Signs",
+                                "hasExpanderArrow": false,
+                                "href": "#1203.11",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "reference": "1203.11"
+                            },
+                            {
+                                "amendType": null,
+                                "children": [],
+                                "depth": 2,
+                                "displayTitle": "1203.12 Automatic Fire-Extinguishing Systems",
+                                "hasExpanderArrow": false,
+                                "href": "#1203.12",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "reference": "1203.12"
+                            }
+                        ],
+                        "depth": 1,
+                        "displayTitle": "1203 Fire Safety",
+                        "hasExpanderArrow": true,
+                        "href": "#1203",
+                        "isCodeDivider": false,
+                        "isCodeDividerClickable": false,
+                        "reference": "1203"
+                    },
+                    {
+                        "amendType": null,
+                        "children": [
+                            {
+                                "amendType": null,
+                                "children": [],
+                                "depth": 2,
+                                "displayTitle": "1204.1 General",
+                                "hasExpanderArrow": false,
+                                "href": "#1204.1",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "reference": "1204.1"
+                            },
+                            {
+                                "amendType": null,
+                                "children": [],
+                                "depth": 2,
+                                "displayTitle": "1204.2 Building Area",
+                                "hasExpanderArrow": false,
+                                "href": "#1204.2",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "reference": "1204.2"
+                            },
+                            {
+                                "amendType": null,
+                                "children": [],
+                                "depth": 2,
+                                "displayTitle": "1204.3 Location on Property",
+                                "hasExpanderArrow": false,
+                                "href": "#1204.3",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "reference": "1204.3"
+                            },
+                            {
+                                "amendType": null,
+                                "children": [],
+                                "depth": 2,
+                                "displayTitle": "1204.4 Occupancy Separation",
+                                "hasExpanderArrow": false,
+                                "href": "#1204.4",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "reference": "1204.4"
+                            },
+                            {
+                                "amendType": null,
+                                "children": [],
+                                "depth": 2,
+                                "displayTitle": "1204.5 Roof Covering",
+                                "hasExpanderArrow": false,
+                                "href": "#1204.5",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "reference": "1204.5"
+                            },
+                            {
+                                "amendType": null,
+                                "children": [],
+                                "depth": 2,
+                                "displayTitle": "1204.6 Means of Egress",
+                                "hasExpanderArrow": false,
+                                "href": "#1204.6",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "reference": "1204.6"
+                            },
+                            {
+                                "amendType": null,
+                                "children": [],
+                                "depth": 2,
+                                "displayTitle": "1204.7 Door Swing",
+                                "hasExpanderArrow": false,
+                                "href": "#1204.7",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "reference": "1204.7"
+                            },
+                            {
+                                "amendType": null,
+                                "children": [],
+                                "depth": 2,
+                                "displayTitle": "1204.8 Transoms",
+                                "hasExpanderArrow": false,
+                                "href": "#1204.8",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "reference": "1204.8"
+                            },
+                            {
+                                "amendType": null,
+                                "children": [],
+                                "depth": 2,
+                                "displayTitle": "1204.9 Interior Finishes",
+                                "hasExpanderArrow": false,
+                                "href": "#1204.9",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "reference": "1204.9"
+                            },
+                            {
+                                "amendType": null,
+                                "children": [],
+                                "depth": 2,
+                                "displayTitle": "1204.10 One-Hour Fire-Resistant Assemblies",
+                                "hasExpanderArrow": false,
+                                "href": "#1204.10",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "reference": "1204.10"
+                            },
+                            {
+                                "amendType": null,
+                                "children": [],
+                                "depth": 2,
+                                "displayTitle": "1204.11 Stairways and Guards",
+                                "hasExpanderArrow": false,
+                                "href": "#1204.11",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "reference": "1204.11"
+                            },
+                            {
+                                "amendType": null,
+                                "children": [],
+                                "depth": 2,
+                                "displayTitle": "1204.12 Exit Signs",
+                                "hasExpanderArrow": false,
+                                "href": "#1204.12",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "reference": "1204.12"
+                            },
+                            {
+                                "amendType": null,
+                                "children": [],
+                                "depth": 2,
+                                "displayTitle": "1204.13 Exit Stair Live Load",
+                                "hasExpanderArrow": false,
+                                "href": "#1204.13",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "reference": "1204.13"
+                            },
+                            {
+                                "amendType": null,
+                                "children": [],
+                                "depth": 2,
+                                "displayTitle": "1204.14 Natural Light",
+                                "hasExpanderArrow": false,
+                                "href": "#1204.14",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "reference": "1204.14"
+                            }
+                        ],
+                        "depth": 1,
+                        "displayTitle": "1204 Change of Occupancy",
+                        "hasExpanderArrow": true,
+                        "href": "#1204",
+                        "isCodeDivider": false,
+                        "isCodeDividerClickable": false,
+                        "reference": "1204"
+                    },
+                    {
+                        "amendType": null,
+                        "children": [
+                            {
+                                "amendType": null,
+                                "children": [],
+                                "depth": 2,
+                                "displayTitle": "1205.1 General",
+                                "hasExpanderArrow": false,
+                                "href": "#1205.1",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "reference": "1205.1"
+                            },
+                            {
+                                "amendType": null,
+                                "children": [],
+                                "depth": 2,
+                                "displayTitle": "1205.2 Dangerous Conditions",
+                                "hasExpanderArrow": false,
+                                "href": "#1205.2",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "reference": "1205.2"
+                            }
+                        ],
+                        "depth": 1,
+                        "displayTitle": "1205 Structural",
+                        "hasExpanderArrow": true,
+                        "href": "#1205",
+                        "isCodeDivider": false,
+                        "isCodeDividerClickable": false,
+                        "reference": "1205"
+                    },
+                    {
+                        "amendType": null,
+                        "children": [
+                            {
+                                "amendType": null,
+                                "children": [],
+                                "depth": 2,
+                                "displayTitle": "1206.1 Relocated Buildings",
+                                "hasExpanderArrow": false,
+                                "href": "#1206.1",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "reference": "1206.1"
+                            }
+                        ],
+                        "depth": 1,
+                        "displayTitle": "1206 Relocated Buildings",
+                        "hasExpanderArrow": true,
+                        "href": "#1206",
+                        "isCodeDivider": false,
+                        "isCodeDividerClickable": false,
+                        "reference": "1206"
+                    }
+                ],
+                "title": "Chapter 12 Historic Buildings: Pennsylvania Existing Building Code 2021 | UpCodes",
+                "leanChapterLines": [
+                    {
+                        "displayTitle": "Chapter 1 Scope and Administration",
+                        "isExpandable": true,
+                        "reference": "1",
+                        "slug": "scope-and-administration"
+                    },
+                    {
+                        "displayTitle": "Chapter 2 Definitions",
+                        "isExpandable": true,
+                        "reference": "2",
+                        "slug": "definitions"
+                    },
+                    {
+                        "displayTitle": "Chapter 3 Provisions for All Compliance Methods",
+                        "isExpandable": true,
+                        "reference": "3",
+                        "slug": "provisions-for-all-compliance-methods"
+                    },
+                    {
+                        "displayTitle": "Chapter 4 Repairs",
+                        "isExpandable": true,
+                        "reference": "4",
+                        "slug": "repairs"
+                    },
+                    {
+                        "displayTitle": "Chapter 5 Prescriptive Compliance Method",
+                        "isExpandable": true,
+                        "reference": "5",
+                        "slug": "prescriptive-compliance-method"
+                    },
+                    {
+                        "displayTitle": "Chapter 6 Classification of Work",
+                        "isExpandable": true,
+                        "reference": "6",
+                        "slug": "classification-of-work"
+                    },
+                    {
+                        "displayTitle": "Chapter 7 Alterations\u2014Level 1",
+                        "isExpandable": true,
+                        "reference": "7",
+                        "slug": "alterations-level-1"
+                    },
+                    {
+                        "displayTitle": "Chapter 8 Alterations\u2014Level 2",
+                        "isExpandable": true,
+                        "reference": "8",
+                        "slug": "alterations-level-2"
+                    },
+                    {
+                        "displayTitle": "Chapter 9 Alterations\u2014Level 3",
+                        "isExpandable": true,
+                        "reference": "9",
+                        "slug": "alterations-level-3"
+                    },
+                    {
+                        "displayTitle": "Chapter 10 Change of Occupancy",
+                        "isExpandable": true,
+                        "reference": "10",
+                        "slug": "change-of-occupancy"
+                    },
+                    {
+                        "displayTitle": "Chapter 11 Additions",
+                        "isExpandable": true,
+                        "reference": "11",
+                        "slug": "additions"
+                    },
+                    {
+                        "displayTitle": "Chapter 12 Historic Buildings",
+                        "isExpandable": true,
+                        "reference": "12",
+                        "slug": "historic-buildings"
+                    },
+                    {
+                        "displayTitle": "Chapter 13 Performance Compliance Methods",
+                        "isExpandable": true,
+                        "reference": "13",
+                        "slug": "performance-compliance-methods"
+                    },
+                    {
+                        "displayTitle": "Chapter 14 Relocated or Moved Buildings",
+                        "isExpandable": true,
+                        "reference": "14",
+                        "slug": "relocated-or-moved-buildings"
+                    },
+                    {
+                        "displayTitle": "Chapter 15 Construction Safeguards",
+                        "isExpandable": true,
+                        "reference": "15",
+                        "slug": "construction-safeguards"
+                    },
+                    {
+                        "displayTitle": "Chapter 16 Referenced Standards",
+                        "reference": "16",
+                        "slug": "referenced-standards"
+                    },
+                    {
+                        "disabled": true,
+                        "displayTitle": "Appendix A Guidelines for the Seismic Retrofit of Existing Buildings",
+                        "reference": "A",
+                        "slug": "guidelines-for-the-seismic-retrofit-of-existing-buildings"
+                    },
+                    {
+                        "alwaysShowDeletionAmend": true,
+                        "amendType": "deletion",
+                        "disabled": true,
+                        "displayTitle": "Appendix <span class=\"code_deletion\">B</span> <span class=\"code_deletion\">Supplementary Accessibility Requirements for Existing Buildings and Facilities</span>",
+                        "reference": "B",
+                        "slug": "supplementary-accessibility-requirements-for-existing-buildings-and-facilities"
+                    },
+                    {
+                        "disabled": true,
+                        "displayTitle": "Appendix C Guidelines for the Wind Retrofit of Existing Buildings",
+                        "reference": "C",
+                        "slug": "guidelines-for-the-wind-retrofit-of-existing-buildings"
+                    },
+                    {
+                        "disabled": true,
+                        "displayTitle": "Appendix D Board of Appeals",
+                        "reference": "D",
+                        "slug": "board-of-appeals"
+                    }
+                ],
+                "leanCodeSectionsTree": [
+                    {
+                        "ancestorRefs": [],
+                        "body": "<div class=\"u-mt-4\"><div class=\"u-mt-3 u-mb-3 u-font-bold\">User note:</div><div class=\"u-mt-3 u-mb-3\"><span class=\"u-italic\"><span class=\"u-font-bold\">About this chapter</span>: Chapter 12 provides some exceptions from code requirements when the building in question has historic value. The most important criterion for application of this chapter is that the building must be essentially accredited as being of historic significance by a state or local authority after careful review of the historical value of the building. Most, if not all, states have such authorities, as do many local jurisdictions. The agencies with such authority can be located at the state or local government level or through the local chapter of the American Institute of Architects (AIA). Other considerations include the structural condition of the building (i.e., is the building structurally sound), its proposed use, its impact on life safety and how the intent of the code, if not the letter, will be achieved.</span></div></div>",
+                        "depth": 0,
+                        "diagrams": [],
+                        "displayRef": null,
+                        "displayTitle": "Chapter 12 Historic Buildings",
+                        "divisionType": "Chapter",
+                        "hasAssemblies": false,
+                        "isContiguous": true,
+                        "numAssembliesOnRef": 0,
+                        "numBuildingProductsOnRef": 0,
+                        "numDiagramsOnRef": 0,
+                        "reference": "12",
+                        "slug": "historic-buildings",
+                        "titleText": "Historic Buildings",
+                        "children": [
+                            {
+                                "ancestorRefs": [
+                                    "12"
+                                ],
+                                "depth": 1,
+                                "diagrams": [],
+                                "displayRef": null,
+                                "displayTitle": "Section 1201 General",
+                                "divisionType": "Section",
+                                "hasAssemblies": false,
+                                "isContiguous": true,
+                                "numAssembliesOnRef": 0,
+                                "numBuildingProductsOnRef": 0,
+                                "numDiagramsOnRef": 0,
+                                "reference": "1201",
+                                "slug": "historic-buildings",
+                                "titleText": "General",
+                                "children": [
+                                    {
+                                        "ancestorRefs": [
+                                            "12",
+                                            "1201"
+                                        ],
+                                        "body": "This chapter is intended to provide means for the preservation of <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/pennsylvania/iebc-2021/chapter/2/definitions#historic_building_\">historic buildings</a></span>. <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/pennsylvania/iebc-2021/chapter/2/definitions#historic_building_\">Historic buildings</a></span> shall comply with the provisions of this chapter relating to their <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/pennsylvania/iebc-2021/chapter/2/definitions#repair_\">repair</a></span>, <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/pennsylvania/iebc-2021/chapter/2/definitions#alteration_\">alteration</a></span>, relocation and <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/pennsylvania/iebc-2021/chapter/2/definitions#change_of_occupancy_\">change of occupancy</a></span>.",
+                                        "depth": 2,
+                                        "diagrams": [],
+                                        "displayRef": null,
+                                        "displayTitle": "1201.1 Scope",
+                                        "hasAssemblies": false,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 0,
+                                        "numDiagramsOnRef": 0,
+                                        "reference": "1201.1",
+                                        "slug": "historic-buildings",
+                                        "titleText": "Scope",
+                                        "children": []
+                                    },
+                                    {
+                                        "ancestorRefs": [
+                                            "12",
+                                            "1201"
+                                        ],
+                                        "body": "A <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/pennsylvania/iebc-2021/chapter/2/definitions#historic_building_\">historic building</a></span> undergoing <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/pennsylvania/iebc-2021/chapter/2/definitions#alteration_\">alteration</a></span> or <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/pennsylvania/iebc-2021/chapter/2/definitions#change_of_occupancy_\">change of occupancy</a></span> shall be investigated and evaluated. If it is intended that the building meet the requirements of this chapter, a written report shall be prepared and filed with the <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/pennsylvania/iebc-2021/chapter/2/definitions#code_official_\">code official</a></span> by a <span class=\"u-italic\">registered design professional</span> where such a report is necessary in the opinion of the <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/pennsylvania/iebc-2021/chapter/2/definitions#code_official_\">code official</a></span>. Such report shall be in accordance with <a class=\"autolink\" href=\"/viewer/pennsylvania/iebc-2021/chapter/1/scope-and-administration#1\">Chapter 1</a> and shall identify each required safety feature that is in compliance with this chapter and where compliance with other chapters of these provisions would be damaging to the contributing historic features. For buildings assigned to Seismic Design Category D, E or F, a structural evaluation describing, at a minimum, the vertical and horizontal elements of the lateral force-resisting system and any strengths or weaknesses therein shall be prepared. Additionally, the report shall describe each feature that is not in compliance with these provisions and shall demonstrate how the intent of these provisions is complied with in providing an equivalent level of safety.",
+                                        "depth": 2,
+                                        "diagrams": [],
+                                        "displayRef": null,
+                                        "displayTitle": "[BS]  1201.2 Report",
+                                        "hasAssemblies": false,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 0,
+                                        "numDiagramsOnRef": 0,
+                                        "reference": "1201.2",
+                                        "refPrefix": "[BS]",
+                                        "slug": "historic-buildings",
+                                        "titleText": "Report",
+                                        "children": []
+                                    },
+                                    {
+                                        "ancestorRefs": [
+                                            "12",
+                                            "1201"
+                                        ],
+                                        "body": "Where a building in Group R-3 is used for Group A, B or M purposes such as museum tours, exhibits and other public assembly activities, or for museums less than 3,000 square feet (279 m<sup>2</sup>), the <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/pennsylvania/iebc-2021/chapter/2/definitions#code_official_\">code official</a></span> is authorized to determine that the occupancy is Group B where life safety conditions can be demonstrated in accordance with <a class=\"autolink\" href=\"#1201.2\">Section 1201.2</a>. Adequate means of egress in such buildings, including, but not limited to, a means of maintaining doors in an open position to permit egress, a limit on building occupancy to an occupant load permitted by the means of egress capacity, a limit on occupancy of certain areas or floors, or supervision by a person knowledgeable in the emergency exiting procedures, shall be provided.",
+                                        "depth": 2,
+                                        "diagrams": [],
+                                        "displayRef": null,
+                                        "displayTitle": "1201.3 Special Occupancy Exceptions\u2014Museums",
+                                        "hasAssemblies": false,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 0,
+                                        "numDiagramsOnRef": 0,
+                                        "reference": "1201.3",
+                                        "slug": "historic-buildings",
+                                        "titleText": "Special Occupancy Exceptions\u2014Museums",
+                                        "children": []
+                                    },
+                                    {
+                                        "ancestorRefs": [
+                                            "12",
+                                            "1201"
+                                        ],
+                                        "body": "<div class=\"u-mt-3 u-mb-3\">In <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/pennsylvania/iebc-2021/chapter/2/definitions#flood_hazard_area_\">flood hazard areas</a></span>, if all proposed work, including <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/pennsylvania/iebc-2021/chapter/2/definitions#repair_\">repairs</a></span>, work required because of a <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/pennsylvania/iebc-2021/chapter/2/definitions#change_of_occupancy_\">change of occupancy</a></span>, and <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/pennsylvania/iebc-2021/chapter/2/definitions#alteration_\">alterations</a></span>, constitutes <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/pennsylvania/iebc-2021/chapter/2/definitions#substantial_improvement_\">substantial improvement</a></span>, then the <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/pennsylvania/iebc-2021/chapter/2/definitions#existing_building_\">existing building</a></span> shall comply with <a class=\"autolink\" href=\"/viewer/pennsylvania/ibc-2021/chapter/16/structural-design#1612\">Section 1612</a> of the <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/pennsylvania/ibc-2021\">International Building Code</a></span>, or <a class=\"autolink\" href=\"/viewer/pennsylvania/irc-2021/chapter/3/building-planning#R322\">Section R322</a> of the <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/pennsylvania/irc-2021\">International Residential Code</a></span>, as applicable.</div><div class=\"u-ml-4\"><div class=\"u-mb-3\"><span class=\"u-font-bold\">Exception:  </span> If a <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/pennsylvania/iebc-2021/chapter/2/definitions#historic_building_\">historic building</a></span> will continue to be a <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/pennsylvania/iebc-2021/chapter/2/definitions#historic_building_\">historic building</a></span> after the proposed work is completed, then the proposed work is not considered a <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/pennsylvania/iebc-2021/chapter/2/definitions#substantial_improvement_\">substantial improvement</a></span>. For the purposes of this exception, a <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/pennsylvania/iebc-2021/chapter/2/definitions#historic_building_\">historic building</a></span> is any of the following:</div><ol><li>Listed or preliminarily determined to be eligible for listing in the National Register of Historic Places.</li><li>Determined by the Secretary of the US Department of Interior to contribute to the historical significance of a registered historic district or a district preliminarily determined to qualify as a historic district.</li><li>Designated as historic under a state or local historic preservation program that is <a class=\"autolink\" href=\"/viewer/pennsylvania/iebc-2021/chapter/2/definitions#approved_\">approved</a> by the Department of Interior.</li></ol></div>",
+                                        "depth": 2,
+                                        "diagrams": [],
+                                        "displayRef": null,
+                                        "displayTitle": "[BS]  1201.4 Flood Hazard Areas",
+                                        "hasAssemblies": false,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 0,
+                                        "numDiagramsOnRef": 0,
+                                        "reference": "1201.4",
+                                        "refPrefix": "[BS]",
+                                        "slug": "historic-buildings",
+                                        "titleText": "Flood Hazard Areas",
+                                        "children": []
+                                    },
+                                    {
+                                        "ancestorRefs": [
+                                            "12",
+                                            "1201"
+                                        ],
+                                        "body": "Conditions determined by the <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/pennsylvania/iebc-2021/chapter/2/definitions#code_official_\">code official</a></span> to be <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/pennsylvania/iebc-2021/chapter/2/definitions#unsafe_\">unsafe</a></span> shall be remedied. Work shall not be required beyond what is required to remedy the <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/pennsylvania/iebc-2021/chapter/2/definitions#unsafe_\">unsafe</a></span> conditions.",
+                                        "depth": 2,
+                                        "diagrams": [],
+                                        "displayRef": null,
+                                        "displayTitle": "1201.5 Unsafe Conditions",
+                                        "hasAssemblies": false,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 0,
+                                        "numDiagramsOnRef": 0,
+                                        "reference": "1201.5",
+                                        "slug": "historic-buildings",
+                                        "titleText": "Unsafe Conditions",
+                                        "children": []
+                                    }
+                                ]
+                            },
+                            {
+                                "ancestorRefs": [
+                                    "12"
+                                ],
+                                "depth": 1,
+                                "diagrams": [],
+                                "displayRef": null,
+                                "displayTitle": "Section 1202 Repairs",
+                                "divisionType": "Section",
+                                "hasAssemblies": false,
+                                "isContiguous": true,
+                                "numAssembliesOnRef": 0,
+                                "numBuildingProductsOnRef": 0,
+                                "numDiagramsOnRef": 0,
+                                "reference": "1202",
+                                "slug": "historic-buildings",
+                                "titleText": "Repairs",
+                                "children": [
+                                    {
+                                        "ancestorRefs": [
+                                            "12",
+                                            "1202"
+                                        ],
+                                        "body": "<a class=\"autolink\" href=\"/viewer/pennsylvania/iebc-2021/chapter/2/definitions#repair_\">Repairs</a> to any portion of a <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/pennsylvania/iebc-2021/chapter/2/definitions#historic_building_\">historic building</a></span> or structure shall be permitted with original or like materials and original methods of construction, subject to the provisions of this chapter. Hazardous materials, such as asbestos and lead-based paint, shall not be used where the code for new construction would not permit their use in buildings of similar occupancy, purpose and location.",
+                                        "depth": 2,
+                                        "diagrams": [],
+                                        "displayRef": null,
+                                        "displayTitle": "1202.1 General",
+                                        "hasAssemblies": false,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 0,
+                                        "numDiagramsOnRef": 0,
+                                        "reference": "1202.1",
+                                        "slug": "historic-buildings",
+                                        "titleText": "General",
+                                        "children": []
+                                    },
+                                    {
+                                        "ancestorRefs": [
+                                            "12",
+                                            "1202"
+                                        ],
+                                        "body": "<div class=\"u-mt-3 u-mb-3\">Replacement of existing or missing features using original materials shall be permitted. Partial replacement for <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/pennsylvania/iebc-2021/chapter/2/definitions#repair_\">repairs</a></span> that match the original in configuration, height and size shall be permitted.</div><div class=\"u-mt-3 u-mb-3 u-indent-6\">Replacement glazing in hazardous locations shall comply with the safety glazing requirements of <a class=\"autolink\" href=\"/viewer/pennsylvania/ibc-2021/chapter/24/glass-and-glazing#24\">Chapter 24</a> of the <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/pennsylvania/ibc-2021\">International Building Code</a></span>.</div><div class=\"u-mt-3 u-mb-3 u-ml-4\"><span class=\"u-font-bold\">Exception:  </span> Glass block walls, louvered windows and jalousies repaired with like materials.</div>",
+                                        "depth": 2,
+                                        "diagrams": [
+                                            {
+                                                "key": "glazing_adj_stairs_ramps",
+                                                "title": "Glazing Next to Stairs, Ramps ",
+                                                "descriptionHtml": "<div>Glazing adjacent to stairs and ramps shall be considered to be in a hazardous location and required safety glazing materials. Safety glazing materials, including but not limited to tempered glass, laminated glass, wire glass or rigid plastic, are used in hazardous locations where the potential for human impact can lead to serious injuries.</div>",
+                                                "topics": [
+                                                    "Exterior",
+                                                    "Interior"
+                                                ],
+                                                "phases": [
+                                                    "Construction Docs",
+                                                    "Construction Phase"
+                                                ],
+                                                "supressesChildrenAssociations": false,
+                                                "blacklistJurisdictions": [
+                                                    "chicago"
+                                                ],
+                                                "whitelistJurisdictions": [],
+                                                "imageType": "svg"
+                                            },
+                                            {
+                                                "key": "glazing_wet_surfaces",
+                                                "title": "Glazing: Wet Surfaces",
+                                                "descriptionHtml": "<div><i>Glazing in walls, enclosures or fences containing or facing hot tubs, spas, whirlpools, saunas, steam rooms, bathtubs, showers and indoor or outdoor swimming pools where the bottom exposed edge of the glazing is less than 60 inches measured vertically above any standing or walking surface shall be considered to be a hazardous location. This shall apply to single glazing and all panes in multiple glazing.</i></div><br/>\n<div><i><strong>Exception:</strong> Glazing that is more than 60 inches (1524 mm), measured horizontally and in a straight line, from the water's edge of a bathtub, hot tub, spa, whirlpool or swimming pool.</i></div>",
+                                                "topics": [
+                                                    "Example"
+                                                ],
+                                                "phases": [
+                                                    "Design Development",
+                                                    "Construction Docs",
+                                                    "Construction Phase"
+                                                ],
+                                                "supressesChildrenAssociations": false,
+                                                "blacklistJurisdictions": [],
+                                                "whitelistJurisdictions": [],
+                                                "imageType": "svg"
+                                            },
+                                            {
+                                                "key": "glazing_haz_locations",
+                                                "title": "Glazing: Hazardous Locations",
+                                                "descriptionHtml": "<div>A set of conditions denote a hazardous location for glazing in either fixed or operable panels. These conditions specify that the exposed area of an individual pane must be greater than 9 square feet. The glazing panel is also expected to be positioned in a manner where the bottom edge is less than 18 inches above the floor and the top edge is greater than 36 inches above the floor. Another significant factor requires that one or more walking surfaces are placed within 36 inches, measured horizontally and in a straight line, of the plane of the glazing. The regulation identifies such scenarios as potentially hazardous due to the risk they might pose to the safety of inhabitants or users. </div><br/>\n<div>Safety glazing materials, including but not limited to tempered glass, laminated glass, wire glass or rigid plastic, are used in hazardous locations where the potential for human impact can lead to serious injuries.</div>",
+                                                "topics": [
+                                                    "Exterior",
+                                                    "Interior"
+                                                ],
+                                                "phases": [
+                                                    "Construction Docs",
+                                                    "Construction Phase"
+                                                ],
+                                                "supressesChildrenAssociations": false,
+                                                "blacklistJurisdictions": [],
+                                                "whitelistJurisdictions": [],
+                                                "imageType": "svg"
+                                            }
+                                        ],
+                                        "displayRef": null,
+                                        "displayTitle": "1202.2 Replacement",
+                                        "hasAssemblies": false,
+                                        "hasDiagrams": true,
+                                        "hasDiagramsOnRef": true,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 0,
+                                        "numDiagramsOnRef": 3,
+                                        "reference": "1202.2",
+                                        "slug": "historic-buildings",
+                                        "titleText": "Replacement",
+                                        "children": []
+                                    }
+                                ]
+                            },
+                            {
+                                "ancestorRefs": [
+                                    "12"
+                                ],
+                                "depth": 1,
+                                "diagrams": [],
+                                "displayRef": null,
+                                "displayTitle": "Section 1203 Fire Safety",
+                                "divisionType": "Section",
+                                "hasAssemblies": false,
+                                "isContiguous": true,
+                                "numAssembliesOnRef": 0,
+                                "numBuildingProductsOnRef": 0,
+                                "numDiagramsOnRef": 0,
+                                "reference": "1203",
+                                "slug": "historic-buildings",
+                                "titleText": "Fire Safety",
+                                "children": [
+                                    {
+                                        "ancestorRefs": [
+                                            "12",
+                                            "1203"
+                                        ],
+                                        "body": "<span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/pennsylvania/iebc-2021/chapter/2/definitions#historic_building_\">Historic buildings</a></span> undergoing <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/pennsylvania/iebc-2021/chapter/2/definitions#alteration_\">alterations</a></span>, <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/pennsylvania/iebc-2021/chapter/2/definitions#change_of_occupancy_\">changes of occupancy</a></span> or that are moved shall comply with <a class=\"autolink\" href=\"#1203\">Section 1203</a>.",
+                                        "depth": 2,
+                                        "diagrams": [],
+                                        "displayRef": null,
+                                        "displayTitle": "1203.1 Scope",
+                                        "hasAssemblies": false,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 0,
+                                        "numDiagramsOnRef": 0,
+                                        "reference": "1203.1",
+                                        "slug": "historic-buildings",
+                                        "titleText": "Scope",
+                                        "children": []
+                                    },
+                                    {
+                                        "ancestorRefs": [
+                                            "12",
+                                            "1203"
+                                        ],
+                                        "body": "Every <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/pennsylvania/iebc-2021/chapter/2/definitions#historic_building_\">historic building</a></span> that does not conform to the construction requirements specified in this code for the occupancy or use and that constitutes a distinct fire hazard as defined herein shall be provided with an <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/pennsylvania/iebc-2021/chapter/2/definitions#approved_\">approved</a></span> automatic fire-extinguishing system as determined appropriate by the <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/pennsylvania/iebc-2021/chapter/2/definitions#code_official_\">code official</a></span>. However, an automatic fire-extinguishing system shall not be used to substitute for, or act as an alternative to, the required number of exits from any <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/pennsylvania/iebc-2021/chapter/2/definitions#facility_\">facility</a></span>.",
+                                        "depth": 2,
+                                        "diagrams": [],
+                                        "displayRef": null,
+                                        "displayTitle": "1203.2 General",
+                                        "hasAssemblies": false,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 0,
+                                        "numDiagramsOnRef": 0,
+                                        "reference": "1203.2",
+                                        "slug": "historic-buildings",
+                                        "titleText": "General",
+                                        "children": []
+                                    },
+                                    {
+                                        "ancestorRefs": [
+                                            "12",
+                                            "1203"
+                                        ],
+                                        "body": "Existing door openings and corridor and stairway widths less than those specified elsewhere in this code may be <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/pennsylvania/iebc-2021/chapter/2/definitions#approved_\">approved</a></span>, provided that, in the opinion of the <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/pennsylvania/iebc-2021/chapter/2/definitions#code_official_\">code official</a></span>, there is sufficient width and height for a person to pass through the opening or traverse the means of egress. Where <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/pennsylvania/iebc-2021/chapter/2/definitions#approved_\">approved</a></span> by the <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/pennsylvania/iebc-2021/chapter/2/definitions#code_official_\">code official</a></span>, the front or main exit doors need not swing in the direction of the path of exit travel, provided that other <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/pennsylvania/iebc-2021/chapter/2/definitions#approved_\">approved</a></span> means of egress having sufficient capacity to serve the total occupant load are provided.",
+                                        "depth": 2,
+                                        "diagrams": [],
+                                        "displayRef": null,
+                                        "displayTitle": "1203.3 Means of Egress",
+                                        "hasAssemblies": false,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 0,
+                                        "numDiagramsOnRef": 0,
+                                        "reference": "1203.3",
+                                        "slug": "historic-buildings",
+                                        "titleText": "Means of Egress",
+                                        "children": []
+                                    },
+                                    {
+                                        "ancestorRefs": [
+                                            "12",
+                                            "1203"
+                                        ],
+                                        "body": "In buildings with automatic sprinkler systems of Group R-1, R-2 or R-3, existing transoms in corridors and other fire-resistance-rated walls may be maintained if fixed in the closed position. A sprinkler shall be installed on each side of the transom.",
+                                        "depth": 2,
+                                        "diagrams": [],
+                                        "displayRef": null,
+                                        "displayTitle": "1203.4 Transoms",
+                                        "hasAssemblies": false,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 0,
+                                        "numDiagramsOnRef": 0,
+                                        "reference": "1203.4",
+                                        "slug": "historic-buildings",
+                                        "titleText": "Transoms",
+                                        "children": []
+                                    },
+                                    {
+                                        "ancestorRefs": [
+                                            "12",
+                                            "1203"
+                                        ],
+                                        "body": "The existing interior finishes shall be accepted where it is demonstrated that they are the historic finishes.",
+                                        "depth": 2,
+                                        "diagrams": [],
+                                        "displayRef": null,
+                                        "displayTitle": "1203.5 Interior Finishes",
+                                        "hasAssemblies": false,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 0,
+                                        "numDiagramsOnRef": 0,
+                                        "reference": "1203.5",
+                                        "slug": "historic-buildings",
+                                        "titleText": "Interior Finishes",
+                                        "children": []
+                                    },
+                                    {
+                                        "ancestorRefs": [
+                                            "12",
+                                            "1203"
+                                        ],
+                                        "body": "In buildings of three stories or less, exit enclosure construction shall limit the spread of smoke by the use of tight-fitting doors and solid elements. Such elements are not required to have a fire-resistance rating.",
+                                        "depth": 2,
+                                        "diagrams": [],
+                                        "displayRef": null,
+                                        "displayTitle": "1203.6 Stairway Enclosure",
+                                        "hasAssemblies": false,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 0,
+                                        "numDiagramsOnRef": 0,
+                                        "reference": "1203.6",
+                                        "slug": "historic-buildings",
+                                        "titleText": "Stairway Enclosure",
+                                        "children": []
+                                    },
+                                    {
+                                        "ancestorRefs": [
+                                            "12",
+                                            "1203"
+                                        ],
+                                        "body": "Where 1-hour fire-resistance-rated construction is required by these provisions, it need not be provided, regardless of construction or occupancy, where the existing wall and ceiling finish is wood or metal lath and plaster.",
+                                        "depth": 2,
+                                        "diagrams": [],
+                                        "displayRef": null,
+                                        "displayTitle": "1203.7 One-Hour Fire-Resistant Assemblies",
+                                        "hasAssemblies": false,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 0,
+                                        "numDiagramsOnRef": 0,
+                                        "reference": "1203.7",
+                                        "slug": "historic-buildings",
+                                        "titleText": "One-Hour Fire-Resistant Assemblies",
+                                        "children": []
+                                    },
+                                    {
+                                        "ancestorRefs": [
+                                            "12",
+                                            "1203"
+                                        ],
+                                        "body": "Historic glazing materials are permitted in interior walls required to have a 1-hour fire-resistance rating where the opening is provided with <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/pennsylvania/iebc-2021/chapter/2/definitions#approved_\">approved</a></span> smoke seals and the area affected is provided with an automatic sprinkler system.",
+                                        "depth": 2,
+                                        "diagrams": [],
+                                        "displayRef": null,
+                                        "displayTitle": "1203.8 Glazing in Fire-Resistance-Rated Systems",
+                                        "hasAssemblies": false,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 0,
+                                        "numDiagramsOnRef": 0,
+                                        "reference": "1203.8",
+                                        "slug": "historic-buildings",
+                                        "titleText": "Glazing in Fire-Resistance-Rated Systems",
+                                        "children": []
+                                    },
+                                    {
+                                        "ancestorRefs": [
+                                            "12",
+                                            "1203"
+                                        ],
+                                        "body": "Grand stairways shall be accepted without complying with the handrail and guard requirements. Existing handrails and guards at all stairways shall be permitted to remain, provided they are not structurally <span class=\"u-italic\"> <a class=\"autolink\" href=\"/viewer/pennsylvania/iebc-2021/chapter/2/definitions#dangerous_\">dangerous</a></span>.",
+                                        "depth": 2,
+                                        "diagrams": [],
+                                        "displayRef": null,
+                                        "displayTitle": "1203.9 Stairway Railings",
+                                        "hasAssemblies": false,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 0,
+                                        "numDiagramsOnRef": 0,
+                                        "reference": "1203.9",
+                                        "slug": "historic-buildings",
+                                        "titleText": "Stairway Railings",
+                                        "children": []
+                                    },
+                                    {
+                                        "ancestorRefs": [
+                                            "12",
+                                            "1203"
+                                        ],
+                                        "body": "Guards shall comply with Sections <a class=\"autolink\" href=\"#1203.10.1\">1203.10.1</a> and <a class=\"autolink\" href=\"#1203.10.2\">1203.10.2</a>.",
+                                        "depth": 2,
+                                        "diagrams": [],
+                                        "displayRef": null,
+                                        "displayTitle": "1203.10 Guards",
+                                        "hasAssemblies": false,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 0,
+                                        "numDiagramsOnRef": 0,
+                                        "reference": "1203.10",
+                                        "slug": "historic-buildings",
+                                        "titleText": "Guards",
+                                        "children": [
+                                            {
+                                                "ancestorRefs": [
+                                                    "12",
+                                                    "1203",
+                                                    "1203.10"
+                                                ],
+                                                "body": "Existing guards shall comply with the requirements of <a class=\"autolink\" href=\"/viewer/pennsylvania/iebc-2021/chapter/4/repairs#404\">Section 404</a>.",
+                                                "depth": 3,
+                                                "diagrams": [],
+                                                "displayRef": null,
+                                                "displayTitle": "1203.10.1 Height",
+                                                "hasAssemblies": false,
+                                                "isContiguous": true,
+                                                "numAssembliesOnRef": 0,
+                                                "numBuildingProductsOnRef": 0,
+                                                "numDiagramsOnRef": 0,
+                                                "reference": "1203.10.1",
+                                                "slug": "historic-buildings",
+                                                "titleText": "Height",
+                                                "children": []
+                                            },
+                                            {
+                                                "ancestorRefs": [
+                                                    "12",
+                                                    "1203",
+                                                    "1203.10"
+                                                ],
+                                                "body": "The spacing between existing intermediate railings or openings in existing ornamental patterns shall be accepted. Missing elements or members of a guard may be replaced in a manner that will preserve the historic appearance of the building or structure.",
+                                                "depth": 3,
+                                                "diagrams": [],
+                                                "displayRef": null,
+                                                "displayTitle": "1203.10.2 Guard Openings",
+                                                "hasAssemblies": false,
+                                                "isContiguous": true,
+                                                "numAssembliesOnRef": 0,
+                                                "numBuildingProductsOnRef": 0,
+                                                "numDiagramsOnRef": 0,
+                                                "reference": "1203.10.2",
+                                                "slug": "historic-buildings",
+                                                "titleText": "Guard Openings",
+                                                "children": []
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "ancestorRefs": [
+                                            "12",
+                                            "1203"
+                                        ],
+                                        "body": "Where exit sign or egress path marking location would damage the historic character of the building, alternative exit signs are permitted with approval of the <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/pennsylvania/iebc-2021/chapter/2/definitions#code_official_\">code official</a></span>. Alternative signs shall identify the exits and egress path.",
+                                        "depth": 2,
+                                        "diagrams": [],
+                                        "displayRef": null,
+                                        "displayTitle": "1203.11 Exit Signs",
+                                        "hasAssemblies": false,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 0,
+                                        "numDiagramsOnRef": 0,
+                                        "reference": "1203.11",
+                                        "slug": "historic-buildings",
+                                        "titleText": "Exit Signs",
+                                        "children": []
+                                    },
+                                    {
+                                        "ancestorRefs": [
+                                            "12",
+                                            "1203"
+                                        ],
+                                        "body": "<div class=\"u-mb-3 u-mt-3\">Every <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/pennsylvania/iebc-2021/chapter/2/definitions#historic_building_\">historic building</a></span> that cannot be made to conform to the construction requirements specified in the <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/pennsylvania/ibc-2021\">International Building Code</a></span> for the occupancy or use and that constitutes a distinct fire hazard shall be deemed to be in compliance if provided with an <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/pennsylvania/iebc-2021/chapter/2/definitions#approved_\">approved</a></span> automatic fire-extinguishing system.</div><div class=\"u-mb-3 u-ml-4 u-mt-3\"><span class=\"u-font-bold\">Exception:  </span> Where the <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/pennsylvania/iebc-2021/chapter/2/definitions#code_official_\">code official</a></span> approves an alternative life-safety system.</div>",
+                                        "depth": 2,
+                                        "diagrams": [],
+                                        "displayRef": null,
+                                        "displayTitle": "1203.12 Automatic Fire-Extinguishing Systems",
+                                        "hasAssemblies": false,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 0,
+                                        "numDiagramsOnRef": 0,
+                                        "reference": "1203.12",
+                                        "slug": "historic-buildings",
+                                        "titleText": "Automatic Fire-Extinguishing Systems",
+                                        "children": []
+                                    }
+                                ]
+                            },
+                            {
+                                "ancestorRefs": [
+                                    "12"
+                                ],
+                                "depth": 1,
+                                "diagrams": [],
+                                "displayRef": null,
+                                "displayTitle": "Section 1204 Change of Occupancy",
+                                "divisionType": "Section",
+                                "hasAssemblies": false,
+                                "isContiguous": true,
+                                "numAssembliesOnRef": 0,
+                                "numBuildingProductsOnRef": 0,
+                                "numDiagramsOnRef": 0,
+                                "reference": "1204",
+                                "slug": "historic-buildings",
+                                "titleText": "Change of Occupancy",
+                                "children": [
+                                    {
+                                        "ancestorRefs": [
+                                            "12",
+                                            "1204"
+                                        ],
+                                        "body": "<span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/pennsylvania/iebc-2021/chapter/2/definitions#historic_building_\">Historic buildings</a></span> undergoing a <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/pennsylvania/iebc-2021/chapter/2/definitions#change_of_occupancy_\">change of occupancy</a></span> shall comply with the applicable provisions of <a class=\"autolink\" href=\"/viewer/pennsylvania/iebc-2021/chapter/10/change-of-occupancy#10\">Chapter 10</a>, except as specifically permitted in this chapter. Where <a class=\"autolink\" href=\"/viewer/pennsylvania/iebc-2021/chapter/10/change-of-occupancy#10\">Chapter 10</a> requires compliance with specific requirements of <a class=\"autolink\" href=\"/viewer/pennsylvania/iebc-2021/chapter/7/alterations-level-1#7\">Chapter 7</a>, <a class=\"autolink\" href=\"/viewer/pennsylvania/iebc-2021/chapter/8/alterations-level-2#8\">Chapter 8</a> or <a class=\"autolink\" href=\"/viewer/pennsylvania/iebc-2021/chapter/9/alterations-level-3#9\">Chapter 9</a> and where those requirements are subject to the exceptions in <a class=\"autolink\" href=\"#1202\">Section 1202</a>, the same exceptions shall apply to this section.",
+                                        "depth": 2,
+                                        "diagrams": [],
+                                        "displayRef": null,
+                                        "displayTitle": "1204.1 General",
+                                        "hasAssemblies": false,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 0,
+                                        "numDiagramsOnRef": 0,
+                                        "reference": "1204.1",
+                                        "slug": "historic-buildings",
+                                        "titleText": "General",
+                                        "children": []
+                                    },
+                                    {
+                                        "ancestorRefs": [
+                                            "12",
+                                            "1204"
+                                        ],
+                                        "body": "The allowable floor area for <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/pennsylvania/iebc-2021/chapter/2/definitions#historic_building_\">historic buildings</a></span> undergoing a <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/pennsylvania/iebc-2021/chapter/2/definitions#change_of_occupancy_\">change of occupancy</a></span> shall be permitted to exceed by 20 percent the allowable areas specified in <a class=\"autolink\" href=\"/viewer/pennsylvania/ibc-2021/chapter/5/general-building-heights-and-areas#5\">Chapter 5</a> of the <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/pennsylvania/ibc-2021\">International Building Code</a></span>.",
+                                        "depth": 2,
+                                        "diagrams": [],
+                                        "displayRef": null,
+                                        "displayTitle": "1204.2 Building Area",
+                                        "hasAssemblies": false,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 0,
+                                        "numDiagramsOnRef": 0,
+                                        "reference": "1204.2",
+                                        "slug": "historic-buildings",
+                                        "titleText": "Building Area",
+                                        "children": []
+                                    },
+                                    {
+                                        "ancestorRefs": [
+                                            "12",
+                                            "1204"
+                                        ],
+                                        "body": "Historic structures undergoing a <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/pennsylvania/iebc-2021/chapter/2/definitions#change_of_use_\">change of use</a></span> to a higher-hazard category in accordance with <a class=\"autolink\" href=\"/viewer/pennsylvania/iebc-2021/chapter/10/change-of-occupancy#1011.7\">Section 1011.7</a> may use alternative methods to comply with the fire-resistance and exterior opening protective requirements. Such alternatives shall comply with <a class=\"autolink\" href=\"#1201.2\">Section 1201.2</a>.",
+                                        "depth": 2,
+                                        "diagrams": [],
+                                        "displayRef": null,
+                                        "displayTitle": "1204.3 Location on Property",
+                                        "hasAssemblies": false,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 0,
+                                        "numDiagramsOnRef": 0,
+                                        "reference": "1204.3",
+                                        "slug": "historic-buildings",
+                                        "titleText": "Location on Property",
+                                        "children": []
+                                    },
+                                    {
+                                        "ancestorRefs": [
+                                            "12",
+                                            "1204"
+                                        ],
+                                        "body": "Required occupancy separations of 1 hour may be omitted where the building is provided with an <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/pennsylvania/iebc-2021/chapter/2/definitions#approved_\">approved</a></span> automatic sprinkler system throughout.",
+                                        "depth": 2,
+                                        "diagrams": [],
+                                        "displayRef": null,
+                                        "displayTitle": "1204.4 Occupancy Separation",
+                                        "hasAssemblies": false,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 0,
+                                        "numDiagramsOnRef": 0,
+                                        "reference": "1204.4",
+                                        "slug": "historic-buildings",
+                                        "titleText": "Occupancy Separation",
+                                        "children": []
+                                    },
+                                    {
+                                        "ancestorRefs": [
+                                            "12",
+                                            "1204"
+                                        ],
+                                        "body": "Regardless of occupancy or use group, roof-covering materials not less than Class C, where tested in accordance with ASTM E108 or UL 790, shall be permitted where a fire-retardant roof covering is required.",
+                                        "depth": 2,
+                                        "diagrams": [],
+                                        "displayRef": null,
+                                        "displayTitle": "1204.5 Roof Covering",
+                                        "hasAssemblies": false,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 0,
+                                        "numDiagramsOnRef": 0,
+                                        "reference": "1204.5",
+                                        "slug": "historic-buildings",
+                                        "titleText": "Roof Covering",
+                                        "children": []
+                                    },
+                                    {
+                                        "ancestorRefs": [
+                                            "12",
+                                            "1204"
+                                        ],
+                                        "body": "Existing door openings and corridor and stairway widths less than those that would be acceptable for nonhistoric buildings under these provisions shall be <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/pennsylvania/iebc-2021/chapter/2/definitions#approved_\">approved</a></span>, provided that, in the opinion of the <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/pennsylvania/iebc-2021/chapter/2/definitions#code_official_\">code official</a></span>, there is sufficient width and height for a person to pass through the opening or traverse the exit and that the capacity of the exit system is adequate for the occupant load, or where other operational controls to limit occupancy are <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/pennsylvania/iebc-2021/chapter/2/definitions#approved_\">approved</a></span> by the <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/pennsylvania/iebc-2021/chapter/2/definitions#code_official_\">code official</a></span>.",
+                                        "depth": 2,
+                                        "diagrams": [],
+                                        "displayRef": null,
+                                        "displayTitle": "1204.6 Means of Egress",
+                                        "hasAssemblies": false,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 0,
+                                        "numDiagramsOnRef": 0,
+                                        "reference": "1204.6",
+                                        "slug": "historic-buildings",
+                                        "titleText": "Means of Egress",
+                                        "children": []
+                                    },
+                                    {
+                                        "ancestorRefs": [
+                                            "12",
+                                            "1204"
+                                        ],
+                                        "body": "Where <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/pennsylvania/iebc-2021/chapter/2/definitions#approved_\">approved</a></span> by the <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/pennsylvania/iebc-2021/chapter/2/definitions#code_official_\">code official</a></span>, existing front doors need not swing in the direction of exit travel, provided that other <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/pennsylvania/iebc-2021/chapter/2/definitions#approved_\">approved</a></span> exits having sufficient capacity to serve the total occupant load are provided.",
+                                        "depth": 2,
+                                        "diagrams": [],
+                                        "displayRef": null,
+                                        "displayTitle": "1204.7 Door Swing",
+                                        "hasAssemblies": false,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 0,
+                                        "numDiagramsOnRef": 0,
+                                        "reference": "1204.7",
+                                        "slug": "historic-buildings",
+                                        "titleText": "Door Swing",
+                                        "children": []
+                                    },
+                                    {
+                                        "ancestorRefs": [
+                                            "12",
+                                            "1204"
+                                        ],
+                                        "body": "<div class=\"u-mb-3 u-mt-3\">In corridor walls required by these provisions to be fire-resistance rated, existing transoms may be maintained if fixed in the closed position, and fixed wired glass set in a steel frame or other <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/pennsylvania/iebc-2021/chapter/2/definitions#approved_\">approved</a></span> glazing shall be installed on one side of the transom.</div><div class=\"u-mb-3 u-ml-4 u-mt-3\"><span class=\"u-font-bold\">Exception:  </span> Transoms conforming to <a class=\"autolink\" href=\"#1203.4\">Section 1203.4</a> shall be accepted.</div>",
+                                        "depth": 2,
+                                        "diagrams": [],
+                                        "displayRef": null,
+                                        "displayTitle": "1204.8 Transoms",
+                                        "hasAssemblies": false,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 0,
+                                        "numDiagramsOnRef": 0,
+                                        "reference": "1204.8",
+                                        "slug": "historic-buildings",
+                                        "titleText": "Transoms",
+                                        "children": []
+                                    },
+                                    {
+                                        "ancestorRefs": [
+                                            "12",
+                                            "1204"
+                                        ],
+                                        "body": "<div class=\"u-mb-3 u-mt-3\">Where interior finish materials are required to comply with the fire test requirements of <a class=\"autolink\" href=\"/viewer/pennsylvania/ibc-2021/chapter/8/interior-finishes#803.1\">Section 803.1</a> of the <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/pennsylvania/ibc-2021\">International Building Code</a></span>, existing nonconforming materials shall be permitted to be surfaced with an <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/pennsylvania/iebc-2021/chapter/2/definitions#approved_\">approved</a></span> fire-retardant coating to achieve the required classification. Compliance with this section shall be demonstrated by testing the fire-retardant coating on the same material and achieving the required fire classification. Where the same material is not available, it shall be permitted to test on a similar material.</div>\n<div class=\"u-mb-3 u-ml-4 u-mt-3\"><span class=\"u-font-bold\">Exception: </span> Existing nonconforming materials need not be surfaced with an <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/pennsylvania/iebc-2021/chapter/2/definitions#approved_\">approved</a></span> fire-retardant coating where the building is equipped throughout with an automatic sprinkler system installed in accordance with the <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/pennsylvania/ibc-2021\">International Building Code</a></span> and the nonconforming materials can be substantiated as being historic in character.</div>",
+                                        "depth": 2,
+                                        "diagrams": [],
+                                        "displayRef": null,
+                                        "displayTitle": "1204.9 Interior Finishes",
+                                        "hasAssemblies": false,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 0,
+                                        "numDiagramsOnRef": 0,
+                                        "reference": "1204.9",
+                                        "slug": "historic-buildings",
+                                        "titleText": "Interior Finishes",
+                                        "children": []
+                                    },
+                                    {
+                                        "ancestorRefs": [
+                                            "12",
+                                            "1204"
+                                        ],
+                                        "body": "Where 1-hour fire-resistance-rated construction is required by these provisions, it need not be provided, regardless of construction or occupancy, where the existing wall and ceiling finish is wood lath and plaster.",
+                                        "depth": 2,
+                                        "diagrams": [],
+                                        "displayRef": null,
+                                        "displayTitle": "1204.10 One-Hour Fire-Resistant Assemblies",
+                                        "hasAssemblies": false,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 0,
+                                        "numDiagramsOnRef": 0,
+                                        "reference": "1204.10",
+                                        "slug": "historic-buildings",
+                                        "titleText": "One-Hour Fire-Resistant Assemblies",
+                                        "children": []
+                                    },
+                                    {
+                                        "ancestorRefs": [
+                                            "12",
+                                            "1204"
+                                        ],
+                                        "body": "<div class=\"u-mt-3 u-mb-3\">Existing stairways shall comply with the requirements of these provisions. The <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/pennsylvania/iebc-2021/chapter/2/definitions#code_official_\">code official</a></span> shall grant alternatives for stairways and guards if alternative stairways are found to be acceptable or are judged to meet the intent of these provisions. Existing stairways shall comply with <a class=\"autolink\" href=\"#1203\">Section 1203</a>.</div><div class=\"u-mt-3 u-mb-3 u-ml-4\"><span class=\"u-font-bold\">Exception: </span> For buildings less than 3,000 square feet (279 m<sup>2</sup>), existing conditions are permitted to remain at all stairways and guards.</div>",
+                                        "depth": 2,
+                                        "diagrams": [],
+                                        "displayRef": null,
+                                        "displayTitle": "1204.11 Stairways and Guards",
+                                        "hasAssemblies": false,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 0,
+                                        "numDiagramsOnRef": 0,
+                                        "reference": "1204.11",
+                                        "slug": "historic-buildings",
+                                        "titleText": "Stairways and Guards",
+                                        "children": []
+                                    },
+                                    {
+                                        "ancestorRefs": [
+                                            "12",
+                                            "1204"
+                                        ],
+                                        "body": "The <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/pennsylvania/iebc-2021/chapter/2/definitions#code_official_\">code official</a></span> may accept alternative exit sign locations where the location of such signs would damage the historic character of the building or structure. Such signs shall identify the exits and exit path.",
+                                        "depth": 2,
+                                        "diagrams": [],
+                                        "displayRef": null,
+                                        "displayTitle": "1204.12 Exit Signs",
+                                        "hasAssemblies": false,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 0,
+                                        "numDiagramsOnRef": 0,
+                                        "reference": "1204.12",
+                                        "slug": "historic-buildings",
+                                        "titleText": "Exit Signs",
+                                        "children": []
+                                    },
+                                    {
+                                        "ancestorRefs": [
+                                            "12",
+                                            "1204"
+                                        ],
+                                        "body": "Existing historic stairways in buildings changed to a Group R-1 or R-2 occupancy shall be accepted where it can be shown that the stairway can support a 75-pounds-per-square-foot (366 kg/m<sup>2</sup>) live load.",
+                                        "depth": 2,
+                                        "diagrams": [],
+                                        "displayRef": null,
+                                        "displayTitle": "[BS]  1204.13 Exit Stair Live Load",
+                                        "hasAssemblies": false,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 0,
+                                        "numDiagramsOnRef": 0,
+                                        "reference": "1204.13",
+                                        "refPrefix": "[BS]",
+                                        "slug": "historic-buildings",
+                                        "titleText": "Exit Stair Live Load",
+                                        "children": []
+                                    },
+                                    {
+                                        "ancestorRefs": [
+                                            "12",
+                                            "1204"
+                                        ],
+                                        "body": "Where it is determined by the <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/pennsylvania/iebc-2021/chapter/2/definitions#code_official_\">code official</a></span> that compliance with the natural light requirements of <a class=\"autolink\" href=\"/viewer/pennsylvania/iebc-2021/chapter/10/change-of-occupancy#1010.1\">Section 1010.1</a> will lead to loss of historic character or historic materials in the building, the existing level of natural lighting shall be considered to be acceptable.",
+                                        "depth": 2,
+                                        "diagrams": [],
+                                        "displayRef": null,
+                                        "displayTitle": "1204.14 Natural Light",
+                                        "hasAssemblies": false,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 0,
+                                        "numDiagramsOnRef": 0,
+                                        "reference": "1204.14",
+                                        "slug": "historic-buildings",
+                                        "titleText": "Natural Light",
+                                        "children": []
+                                    }
+                                ]
+                            },
+                            {
+                                "ancestorRefs": [
+                                    "12"
+                                ],
+                                "depth": 1,
+                                "diagrams": [],
+                                "displayRef": null,
+                                "displayTitle": "Section 1205 Structural",
+                                "divisionType": "Section",
+                                "hasAssemblies": false,
+                                "isContiguous": true,
+                                "numAssembliesOnRef": 0,
+                                "numBuildingProductsOnRef": 0,
+                                "numDiagramsOnRef": 0,
+                                "reference": "1205",
+                                "slug": "historic-buildings",
+                                "titleText": "Structural",
+                                "children": [
+                                    {
+                                        "ancestorRefs": [
+                                            "12",
+                                            "1205"
+                                        ],
+                                        "body": "<div class=\"u-mb-3 u-mt-3\"><span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/pennsylvania/iebc-2021/chapter/2/definitions#historic_building_\">Historic buildings</a></span> shall comply with the applicable structural provisions for the work as classified in <a class=\"autolink\" href=\"/viewer/pennsylvania/iebc-2021/chapter/6/classification-of-work#6\">Chapter 6</a>.</div>\n<div class=\"u-ml-4\">\n<div class=\"u-mb-3\"><span class=\"u-font-bold\">Exceptions: </span></div>\n<ol>\n<li>The <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/pennsylvania/iebc-2021/chapter/2/definitions#code_official_\">code official</a></span> shall be authorized to accept existing floors and existing live loads and to approve operational controls that limit the live load on any floor.</li>\n<li><span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/pennsylvania/iebc-2021/chapter/2/definitions#repair_\">Repair</a></span> of <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/pennsylvania/iebc-2021/chapter/2/definitions#substantial_structural_damage_\">substantial structural damage</a></span> is not required to comply with Sections <a class=\"autolink\" href=\"/viewer/pennsylvania/iebc-2021/chapter/4/repairs#405.2.3\">405.2.3</a> and <a class=\"autolink\" href=\"/viewer/pennsylvania/iebc-2021/chapter/4/repairs#405.2.4\">405.2.4</a>. <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/pennsylvania/iebc-2021/chapter/2/definitions#substantial_structural_damage_\">Substantial structural damage</a></span> shall be repaired in accordance with <a class=\"autolink\" href=\"/viewer/pennsylvania/iebc-2021/chapter/4/repairs#405.2.1\">Section 405.2.1</a>.</li>\n</ol>\n</div>",
+                                        "depth": 2,
+                                        "diagrams": [],
+                                        "displayRef": null,
+                                        "displayTitle": "[BS]  1205.1 General",
+                                        "hasAssemblies": false,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 0,
+                                        "numDiagramsOnRef": 0,
+                                        "reference": "1205.1",
+                                        "refPrefix": "[BS]",
+                                        "slug": "historic-buildings",
+                                        "titleText": "General",
+                                        "children": []
+                                    },
+                                    {
+                                        "ancestorRefs": [
+                                            "12",
+                                            "1205"
+                                        ],
+                                        "body": "Conditions determined by the <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/pennsylvania/iebc-2021/chapter/2/definitions#code_official_\">code official</a></span> to be <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/pennsylvania/iebc-2021/chapter/2/definitions#dangerous_\">dangerous</a></span> shall be remedied. Work shall not be required beyond what is required to remedy the <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/pennsylvania/iebc-2021/chapter/2/definitions#dangerous_\">dangerous</a></span> condition.",
+                                        "depth": 2,
+                                        "diagrams": [],
+                                        "displayRef": null,
+                                        "displayTitle": "[BS]  1205.2 Dangerous Conditions",
+                                        "hasAssemblies": false,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 0,
+                                        "numDiagramsOnRef": 0,
+                                        "reference": "1205.2",
+                                        "refPrefix": "[BS]",
+                                        "slug": "historic-buildings",
+                                        "titleText": "Dangerous Conditions",
+                                        "children": []
+                                    }
+                                ]
+                            },
+                            {
+                                "ancestorRefs": [
+                                    "12"
+                                ],
+                                "depth": 1,
+                                "diagrams": [],
+                                "displayRef": null,
+                                "displayTitle": "Section 1206 Relocated Buildings",
+                                "divisionType": "Section",
+                                "hasAssemblies": false,
+                                "isContiguous": true,
+                                "numAssembliesOnRef": 0,
+                                "numBuildingProductsOnRef": 0,
+                                "numDiagramsOnRef": 0,
+                                "reference": "1206",
+                                "slug": "historic-buildings",
+                                "titleText": "Relocated Buildings",
+                                "children": [
+                                    {
+                                        "ancestorRefs": [
+                                            "12",
+                                            "1206"
+                                        ],
+                                        "body": "Foundations of relocated <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/pennsylvania/iebc-2021/chapter/2/definitions#historic_building_\">historic buildings</a></span> and structures shall comply with the <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/pennsylvania/ibc-2021\">International Building Code</a></span>. Relocated <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/pennsylvania/iebc-2021/chapter/2/definitions#historic_building_\">historic buildings</a></span> shall otherwise be considered a <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/pennsylvania/iebc-2021/chapter/2/definitions#historic_building_\">historic building</a></span> for the purposes of this code. Relocated <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/pennsylvania/iebc-2021/chapter/2/definitions#historic_building_\">historic buildings</a></span> and structures shall be sited so that exterior wall and opening requirements comply with the <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/pennsylvania/ibc-2021\">International Building Code</a></span> or with the compliance alternatives of this code.",
+                                        "depth": 2,
+                                        "diagrams": [],
+                                        "displayRef": null,
+                                        "displayTitle": "1206.1 Relocated Buildings",
+                                        "hasAssemblies": false,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 0,
+                                        "numDiagramsOnRef": 0,
+                                        "reference": "1206.1",
+                                        "slug": "historic-buildings",
+                                        "titleText": "Relocated Buildings",
+                                        "children": []
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            "chapterReference": "12"
+        },
+        "__N_SSP": true
+    },
+    "page": "/viewer/[urlFormPubOrJurisKey]/[urlFormPub]/chapter/[chapterRef]/[chapterName]",
+    "query": {
+        "urlFormPubOrJurisKey": "pennsylvania",
+        "urlFormPub": "iebc-2021",
+        "chapterRef": "12",
+        "chapterName": "historic-buildings"
+    },
+    "buildId": "aNDb_KMgxj06vGZ7D_0_K",
+    "isFallback": false,
+    "isExperimentalCompile": false,
+    "dynamicIds": [
+        61621,
+        54065
+    ],
+    "gssp": true,
+    "scriptLoader": []
+}

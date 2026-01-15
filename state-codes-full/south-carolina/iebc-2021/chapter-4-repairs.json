@@ -1,0 +1,1575 @@
+{
+    "props": {
+        "pageProps": {
+            "missingRequiredLogin": false,
+            "title": "Chapter 4 Repairs: South Carolina Existing Building Code 2021 | UpCodes",
+            "leanChapterViewerData": {
+                "basePubName": "International Existing Building Code 2021 (IEBC 2021)",
+                "codeGroupingYear": "2023",
+                "codeName": "South Carolina Existing Building Code 2021",
+                "codeUuid": "bd5bba61-4a25-49fc-8ad6-24a987438917",
+                "codeVersions": [
+                    {
+                        "codeUuid": "bd5bba61-4a25-49fc-8ad6-24a987438917",
+                        "name": "Original Adoption",
+                        "effectiveStartDate": "2023-01-01",
+                        "shortformUrlName": "iebc-2021",
+                        "activeStatus": "active"
+                    }
+                ],
+                "ingesterAmendmentsEnabled": false,
+                "ingesterCodeUnitsEnabled": false,
+                "isAmendStylingEnabled": true,
+                "isCorrespondable": true,
+                "jurisKey": "south_carolina",
+                "jurisName": "South Carolina",
+                "metaInfoUrl": "/viewer/south_carolina/iebc-2021",
+                "modelCodeUrl": null,
+                "placeholder": "Search South Carolina Existing Building Code 2021",
+                "pubKey": "int_ebc_2021",
+                "pubPrefix": "int_ebc",
+                "shortformPubName": "iebc-2021",
+                "withAmendments": false,
+                "chapterRef": "4",
+                "publisher": "icc",
+                "hasLinkedResources": false,
+                "initialNonChapterTocLines": [
+                    {
+                        "amendType": null,
+                        "children": [
+                            {
+                                "amendType": null,
+                                "children": [
+                                    {
+                                        "amendType": null,
+                                        "children": [],
+                                        "depth": 3,
+                                        "displayTitle": "401.1.1 Bleachers, Grandstands and Folding and Telescopic Seating",
+                                        "hasExpanderArrow": false,
+                                        "href": "#401.1.1",
+                                        "isCodeDivider": false,
+                                        "isCodeDividerClickable": false,
+                                        "reference": "401.1.1"
+                                    }
+                                ],
+                                "depth": 2,
+                                "displayTitle": "401.1 Scope",
+                                "hasExpanderArrow": true,
+                                "href": "#401.1",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "reference": "401.1"
+                            },
+                            {
+                                "amendType": null,
+                                "children": [],
+                                "depth": 2,
+                                "displayTitle": "401.2 Compliance",
+                                "hasExpanderArrow": false,
+                                "href": "#401.2",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "reference": "401.2"
+                            },
+                            {
+                                "amendType": null,
+                                "children": [],
+                                "depth": 2,
+                                "displayTitle": "401.3 Flood Hazard Areas",
+                                "hasExpanderArrow": false,
+                                "href": "#401.3",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "reference": "401.3"
+                            }
+                        ],
+                        "depth": 1,
+                        "displayTitle": "401 General",
+                        "hasExpanderArrow": true,
+                        "href": "#401",
+                        "isCodeDivider": false,
+                        "isCodeDividerClickable": false,
+                        "reference": "401"
+                    },
+                    {
+                        "amendType": null,
+                        "children": [
+                            {
+                                "amendType": null,
+                                "children": [],
+                                "depth": 2,
+                                "displayTitle": "402.1 Glazing in Hazardous Locations",
+                                "hasExpanderArrow": false,
+                                "href": "#402.1",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "reference": "402.1"
+                            }
+                        ],
+                        "depth": 1,
+                        "displayTitle": "402 Building Elements and Materials",
+                        "hasExpanderArrow": true,
+                        "href": "#402",
+                        "isCodeDivider": false,
+                        "isCodeDividerClickable": false,
+                        "reference": "402"
+                    },
+                    {
+                        "amendType": null,
+                        "children": [
+                            {
+                                "amendType": null,
+                                "children": [],
+                                "depth": 2,
+                                "displayTitle": "403.1 General",
+                                "hasExpanderArrow": false,
+                                "href": "#403.1",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "reference": "403.1"
+                            }
+                        ],
+                        "depth": 1,
+                        "displayTitle": "403 Fire Protection",
+                        "hasExpanderArrow": true,
+                        "href": "#403",
+                        "isCodeDivider": false,
+                        "isCodeDividerClickable": false,
+                        "reference": "403"
+                    },
+                    {
+                        "amendType": null,
+                        "children": [
+                            {
+                                "amendType": null,
+                                "children": [],
+                                "depth": 2,
+                                "displayTitle": "404.1 General",
+                                "hasExpanderArrow": false,
+                                "href": "#404.1",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "reference": "404.1"
+                            }
+                        ],
+                        "depth": 1,
+                        "displayTitle": "404 Means of Egress",
+                        "hasExpanderArrow": true,
+                        "href": "#404",
+                        "isCodeDivider": false,
+                        "isCodeDividerClickable": false,
+                        "reference": "404"
+                    },
+                    {
+                        "amendType": null,
+                        "children": [
+                            {
+                                "amendType": null,
+                                "children": [],
+                                "depth": 2,
+                                "displayTitle": "405.1 General",
+                                "hasExpanderArrow": false,
+                                "href": "#405.1",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "reference": "405.1"
+                            },
+                            {
+                                "amendType": null,
+                                "children": [
+                                    {
+                                        "amendType": null,
+                                        "children": [
+                                            {
+                                                "amendType": null,
+                                                "children": [],
+                                                "depth": 4,
+                                                "displayTitle": "405.2.1.1 Snow Damage",
+                                                "hasExpanderArrow": false,
+                                                "href": "#405.2.1.1",
+                                                "isCodeDivider": false,
+                                                "isCodeDividerClickable": false,
+                                                "reference": "405.2.1.1"
+                                            }
+                                        ],
+                                        "depth": 3,
+                                        "displayTitle": "405.2.1 Repairs for Less Than Substantial Structural Damage",
+                                        "hasExpanderArrow": true,
+                                        "href": "#405.2.1",
+                                        "isCodeDivider": false,
+                                        "isCodeDividerClickable": false,
+                                        "reference": "405.2.1"
+                                    },
+                                    {
+                                        "amendType": null,
+                                        "children": [],
+                                        "depth": 3,
+                                        "displayTitle": "405.2.2 Disproportionate Earthquake Damage",
+                                        "hasExpanderArrow": false,
+                                        "href": "#405.2.2",
+                                        "isCodeDivider": false,
+                                        "isCodeDividerClickable": false,
+                                        "reference": "405.2.2"
+                                    },
+                                    {
+                                        "amendType": null,
+                                        "children": [
+                                            {
+                                                "amendType": null,
+                                                "children": [],
+                                                "depth": 4,
+                                                "displayTitle": "405.2.3.1 Evaluation",
+                                                "hasExpanderArrow": false,
+                                                "href": "#405.2.3.1",
+                                                "isCodeDivider": false,
+                                                "isCodeDividerClickable": false,
+                                                "reference": "405.2.3.1"
+                                            },
+                                            {
+                                                "amendType": null,
+                                                "children": [],
+                                                "depth": 4,
+                                                "displayTitle": "405.2.3.2 Extent of Repair for Compliant Buildings",
+                                                "hasExpanderArrow": false,
+                                                "href": "#405.2.3.2",
+                                                "isCodeDivider": false,
+                                                "isCodeDividerClickable": false,
+                                                "reference": "405.2.3.2"
+                                            },
+                                            {
+                                                "amendType": null,
+                                                "children": [],
+                                                "depth": 4,
+                                                "displayTitle": "405.2.3.3 Extent of Repair for Noncompliant Buildings",
+                                                "hasExpanderArrow": false,
+                                                "href": "#405.2.3.3",
+                                                "isCodeDivider": false,
+                                                "isCodeDividerClickable": false,
+                                                "reference": "405.2.3.3"
+                                            }
+                                        ],
+                                        "depth": 3,
+                                        "displayTitle": "405.2.3 Substantial Structural Damage to Vertical Elements of the Lateral Force-Resisting System",
+                                        "hasExpanderArrow": true,
+                                        "href": "#405.2.3",
+                                        "isCodeDivider": false,
+                                        "isCodeDividerClickable": false,
+                                        "reference": "405.2.3"
+                                    },
+                                    {
+                                        "amendType": null,
+                                        "children": [
+                                            {
+                                                "amendType": null,
+                                                "children": [],
+                                                "depth": 4,
+                                                "displayTitle": "405.2.4.1 Lateral Force-Resisting Elements",
+                                                "hasExpanderArrow": false,
+                                                "href": "#405.2.4.1",
+                                                "isCodeDivider": false,
+                                                "isCodeDividerClickable": false,
+                                                "reference": "405.2.4.1"
+                                            }
+                                        ],
+                                        "depth": 3,
+                                        "displayTitle": "405.2.4 Substantial Structural Damage to Gravity Load-Carrying Components",
+                                        "hasExpanderArrow": true,
+                                        "href": "#405.2.4",
+                                        "isCodeDivider": false,
+                                        "isCodeDividerClickable": false,
+                                        "reference": "405.2.4"
+                                    },
+                                    {
+                                        "amendType": null,
+                                        "children": [],
+                                        "depth": 3,
+                                        "displayTitle": "405.2.5 Substantial Structural Damage to Snow Load-Carrying Components",
+                                        "hasExpanderArrow": false,
+                                        "href": "#405.2.5",
+                                        "isCodeDivider": false,
+                                        "isCodeDividerClickable": false,
+                                        "reference": "405.2.5"
+                                    },
+                                    {
+                                        "amendType": null,
+                                        "children": [],
+                                        "depth": 3,
+                                        "displayTitle": "405.2.6 Flood Hazard Areas",
+                                        "hasExpanderArrow": false,
+                                        "href": "#405.2.6",
+                                        "isCodeDivider": false,
+                                        "isCodeDividerClickable": false,
+                                        "reference": "405.2.6"
+                                    }
+                                ],
+                                "depth": 2,
+                                "displayTitle": "405.2 Repairs to Damaged Buildings",
+                                "hasExpanderArrow": true,
+                                "href": "#405.2",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "reference": "405.2"
+                            }
+                        ],
+                        "depth": 1,
+                        "displayTitle": "405 Structural",
+                        "hasExpanderArrow": true,
+                        "href": "#405",
+                        "isCodeDivider": false,
+                        "isCodeDividerClickable": false,
+                        "reference": "405"
+                    },
+                    {
+                        "amendType": null,
+                        "children": [
+                            {
+                                "amendType": null,
+                                "children": [
+                                    {
+                                        "amendType": null,
+                                        "children": [],
+                                        "depth": 3,
+                                        "displayTitle": "406.1.1 Receptacles",
+                                        "hasExpanderArrow": false,
+                                        "href": "#406.1.1",
+                                        "isCodeDivider": false,
+                                        "isCodeDividerClickable": false,
+                                        "reference": "406.1.1"
+                                    },
+                                    {
+                                        "amendType": null,
+                                        "children": [],
+                                        "depth": 3,
+                                        "displayTitle": "406.1.2 Plug Fuses",
+                                        "hasExpanderArrow": false,
+                                        "href": "#406.1.2",
+                                        "isCodeDivider": false,
+                                        "isCodeDividerClickable": false,
+                                        "reference": "406.1.2"
+                                    },
+                                    {
+                                        "amendType": null,
+                                        "children": [],
+                                        "depth": 3,
+                                        "displayTitle": "406.1.3 Nongrounding-Type Receptacles",
+                                        "hasExpanderArrow": false,
+                                        "href": "#406.1.3",
+                                        "isCodeDivider": false,
+                                        "isCodeDividerClickable": false,
+                                        "reference": "406.1.3"
+                                    },
+                                    {
+                                        "amendType": null,
+                                        "children": [],
+                                        "depth": 3,
+                                        "displayTitle": "406.1.4 Health Care Facilities",
+                                        "hasExpanderArrow": false,
+                                        "href": "#406.1.4",
+                                        "isCodeDivider": false,
+                                        "isCodeDividerClickable": false,
+                                        "reference": "406.1.4"
+                                    },
+                                    {
+                                        "amendType": null,
+                                        "children": [],
+                                        "depth": 3,
+                                        "displayTitle": "406.1.5 Grounding of Appliances",
+                                        "hasExpanderArrow": false,
+                                        "href": "#406.1.5",
+                                        "isCodeDivider": false,
+                                        "isCodeDividerClickable": false,
+                                        "reference": "406.1.5"
+                                    }
+                                ],
+                                "depth": 2,
+                                "displayTitle": "406.1 Material",
+                                "hasExpanderArrow": true,
+                                "href": "#406.1",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "reference": "406.1"
+                            }
+                        ],
+                        "depth": 1,
+                        "displayTitle": "406 Electrical",
+                        "hasExpanderArrow": true,
+                        "href": "#406",
+                        "isCodeDivider": false,
+                        "isCodeDividerClickable": false,
+                        "reference": "406"
+                    },
+                    {
+                        "amendType": null,
+                        "children": [
+                            {
+                                "amendType": null,
+                                "children": [],
+                                "depth": 2,
+                                "displayTitle": "407.1 General",
+                                "hasExpanderArrow": false,
+                                "href": "#407.1",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "reference": "407.1"
+                            },
+                            {
+                                "amendType": null,
+                                "children": [],
+                                "depth": 2,
+                                "displayTitle": "407.2 Mechanical Draft Systems for Manually Fired Appliances and Fireplaces",
+                                "hasExpanderArrow": false,
+                                "href": "#407.2",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "reference": "407.2"
+                            }
+                        ],
+                        "depth": 1,
+                        "displayTitle": "407 Mechanical",
+                        "hasExpanderArrow": true,
+                        "href": "#407",
+                        "isCodeDivider": false,
+                        "isCodeDividerClickable": false,
+                        "reference": "407"
+                    },
+                    {
+                        "amendType": null,
+                        "children": [
+                            {
+                                "amendType": null,
+                                "children": [],
+                                "depth": 2,
+                                "displayTitle": "408.1 Materials",
+                                "hasExpanderArrow": false,
+                                "href": "#408.1",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "reference": "408.1"
+                            },
+                            {
+                                "amendType": null,
+                                "children": [],
+                                "depth": 2,
+                                "displayTitle": "408.2 Water Closet Replacement",
+                                "hasExpanderArrow": false,
+                                "href": "#408.2",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "reference": "408.2"
+                            },
+                            {
+                                "amendType": null,
+                                "children": [],
+                                "depth": 2,
+                                "displayTitle": "408.3 Health Care Facilities",
+                                "hasExpanderArrow": false,
+                                "href": "#408.3",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "reference": "408.3"
+                            }
+                        ],
+                        "depth": 1,
+                        "displayTitle": "408 Plumbing",
+                        "hasExpanderArrow": true,
+                        "href": "#408",
+                        "isCodeDivider": false,
+                        "isCodeDividerClickable": false,
+                        "reference": "408"
+                    }
+                ],
+                "title": "Chapter 4 Repairs: South Carolina Existing Building Code 2021 | UpCodes",
+                "leanChapterLines": [
+                    {
+                        "displayTitle": "Chapter 1 Scope and Administration",
+                        "isExpandable": true,
+                        "reference": "1",
+                        "slug": "scope-and-administration"
+                    },
+                    {
+                        "displayTitle": "Chapter 2 Definitions",
+                        "isExpandable": true,
+                        "reference": "2",
+                        "slug": "definitions"
+                    },
+                    {
+                        "displayTitle": "Chapter 3 Provisions for All Compliance Methods",
+                        "isExpandable": true,
+                        "reference": "3",
+                        "slug": "provisions-for-all-compliance-methods"
+                    },
+                    {
+                        "displayTitle": "Chapter 4 Repairs",
+                        "isExpandable": true,
+                        "reference": "4",
+                        "slug": "repairs"
+                    },
+                    {
+                        "displayTitle": "Chapter 5 Prescriptive Compliance Method",
+                        "isExpandable": true,
+                        "reference": "5",
+                        "slug": "prescriptive-compliance-method"
+                    },
+                    {
+                        "displayTitle": "Chapter 6 Classification of Work",
+                        "isExpandable": true,
+                        "reference": "6",
+                        "slug": "classification-of-work"
+                    },
+                    {
+                        "displayTitle": "Chapter 7 Alterations\u2014Level 1",
+                        "isExpandable": true,
+                        "reference": "7",
+                        "slug": "alterations-level-1"
+                    },
+                    {
+                        "displayTitle": "Chapter 8 Alterations\u2014Level 2",
+                        "isExpandable": true,
+                        "reference": "8",
+                        "slug": "alterations-level-2"
+                    },
+                    {
+                        "displayTitle": "Chapter 9 Alterations\u2014Level 3",
+                        "isExpandable": true,
+                        "reference": "9",
+                        "slug": "alterations-level-3"
+                    },
+                    {
+                        "displayTitle": "Chapter 10 Change of Occupancy",
+                        "isExpandable": true,
+                        "reference": "10",
+                        "slug": "change-of-occupancy"
+                    },
+                    {
+                        "displayTitle": "Chapter 11 Additions",
+                        "isExpandable": true,
+                        "reference": "11",
+                        "slug": "additions"
+                    },
+                    {
+                        "displayTitle": "Chapter 12 Historic Buildings",
+                        "isExpandable": true,
+                        "reference": "12",
+                        "slug": "historic-buildings"
+                    },
+                    {
+                        "displayTitle": "Chapter 13 Performance Compliance Methods",
+                        "isExpandable": true,
+                        "reference": "13",
+                        "slug": "performance-compliance-methods"
+                    },
+                    {
+                        "displayTitle": "Chapter 14 Relocated or Moved Buildings",
+                        "isExpandable": true,
+                        "reference": "14",
+                        "slug": "relocated-or-moved-buildings"
+                    },
+                    {
+                        "displayTitle": "Chapter 15 Construction Safeguards",
+                        "isExpandable": true,
+                        "reference": "15",
+                        "slug": "construction-safeguards"
+                    },
+                    {
+                        "displayTitle": "Chapter 16 Referenced Standards",
+                        "reference": "16",
+                        "slug": "referenced-standards"
+                    },
+                    {
+                        "disabled": true,
+                        "displayTitle": "Appendix A Guidelines for the Seismic Retrofit of Existing Buildings",
+                        "reference": "A",
+                        "slug": "guidelines-for-the-seismic-retrofit-of-existing-buildings"
+                    },
+                    {
+                        "disabled": true,
+                        "displayTitle": "Appendix B Supplementary Accessibility Requirements for Existing Buildings and Facilities",
+                        "reference": "B",
+                        "slug": "supplementary-accessibility-requirements-for-existing-buildings-and-facilities"
+                    },
+                    {
+                        "disabled": true,
+                        "displayTitle": "Appendix C Guidelines for the Wind Retrofit of Existing Buildings",
+                        "reference": "C",
+                        "slug": "guidelines-for-the-wind-retrofit-of-existing-buildings"
+                    },
+                    {
+                        "disabled": true,
+                        "displayTitle": "Appendix D Board of Appeals",
+                        "reference": "D",
+                        "slug": "board-of-appeals"
+                    }
+                ],
+                "leanCodeSectionsTree": [
+                    {
+                        "ancestorRefs": [],
+                        "body": "<div class=\"u-mt-4\"><div class=\"u-font-bold u-mb-3 u-mt-3\">User note:</div><div class=\"u-italic u-mb-3 u-mt-3\"><span class=\"u-font-bold\">About this chapter: </span>Chapter 4 provides requirements for <a class=\"autolink\" href=\"/viewer/south_carolina/iebc-2021/chapter/2/definitions#repair_\">repairs</a> of <a class=\"autolink\" href=\"/viewer/south_carolina/iebc-2021/chapter/2/definitions#existing_building_\">existing buildings</a>. The provisions define conditions under which <a class=\"autolink\" href=\"/viewer/south_carolina/iebc-2021/chapter/2/definitions#repair_\">repairs</a> may be made using materials and methods like those of the original construction or the extent to which <a class=\"autolink\" href=\"/viewer/south_carolina/iebc-2021/chapter/2/definitions#repair_\">repairs</a> must comply with requirements for new buildings.</div></div>",
+                        "depth": 0,
+                        "diagrams": [],
+                        "displayRef": null,
+                        "displayTitle": "Chapter 4 Repairs",
+                        "divisionType": "Chapter",
+                        "hasAssemblies": false,
+                        "isContiguous": true,
+                        "numAssembliesOnRef": 0,
+                        "numBuildingProductsOnRef": 0,
+                        "numDiagramsOnRef": 0,
+                        "reference": "4",
+                        "slug": "repairs",
+                        "titleText": "Repairs",
+                        "children": [
+                            {
+                                "ancestorRefs": [
+                                    "4"
+                                ],
+                                "depth": 1,
+                                "diagrams": [],
+                                "displayRef": null,
+                                "displayTitle": "Section 401 General",
+                                "divisionType": "Section",
+                                "hasAssemblies": false,
+                                "isContiguous": true,
+                                "numAssembliesOnRef": 0,
+                                "numBuildingProductsOnRef": 0,
+                                "numDiagramsOnRef": 0,
+                                "reference": "401",
+                                "slug": "repairs",
+                                "titleText": "General",
+                                "children": [
+                                    {
+                                        "ancestorRefs": [
+                                            "4",
+                                            "401"
+                                        ],
+                                        "body": "<span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/south_carolina/iebc-2021/chapter/2/definitions#repair_\">Repairs</a></span> shall comply with the requirements of this chapter. <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/south_carolina/iebc-2021/chapter/2/definitions#repair_\">Repairs</a></span> to <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/south_carolina/iebc-2021/chapter/2/definitions#historic_building_\">historic buildings</a></span> need only comply with <a class=\"autolink\" href=\"/viewer/south_carolina/iebc-2021/chapter/12/historic-buildings#12\">Chapter 12</a>.",
+                                        "depth": 2,
+                                        "diagrams": [],
+                                        "displayRef": null,
+                                        "displayTitle": "401.1 Scope",
+                                        "hasAssemblies": false,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 0,
+                                        "numDiagramsOnRef": 0,
+                                        "reference": "401.1",
+                                        "slug": "repairs",
+                                        "titleText": "Scope",
+                                        "children": [
+                                            {
+                                                "ancestorRefs": [
+                                                    "4",
+                                                    "401",
+                                                    "401.1"
+                                                ],
+                                                "body": "<span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/south_carolina/iebc-2021/chapter/2/definitions#repair_\">Repairs</a></span> to existing bleachers, grandstands and folding and telescopic seating shall comply with ICC 300.",
+                                                "depth": 3,
+                                                "diagrams": [],
+                                                "displayRef": null,
+                                                "displayTitle": "401.1.1 Bleachers, Grandstands and Folding and Telescopic Seating",
+                                                "hasAssemblies": false,
+                                                "isContiguous": true,
+                                                "numAssembliesOnRef": 0,
+                                                "numBuildingProductsOnRef": 0,
+                                                "numDiagramsOnRef": 0,
+                                                "reference": "401.1.1",
+                                                "slug": "repairs",
+                                                "titleText": "Bleachers, Grandstands and Folding and Telescopic Seating",
+                                                "children": []
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "ancestorRefs": [
+                                            "4",
+                                            "401"
+                                        ],
+                                        "body": "The work shall not make the building less complying than it was before the <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/south_carolina/iebc-2021/chapter/2/definitions#repair_\">repair</a> </span>was undertaken.",
+                                        "depth": 2,
+                                        "diagrams": [],
+                                        "displayRef": null,
+                                        "displayTitle": "401.2 Compliance",
+                                        "hasAssemblies": false,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 0,
+                                        "numDiagramsOnRef": 0,
+                                        "reference": "401.2",
+                                        "slug": "repairs",
+                                        "titleText": "Compliance",
+                                        "children": []
+                                    },
+                                    {
+                                        "ancestorRefs": [
+                                            "4",
+                                            "401"
+                                        ],
+                                        "body": "In <a class=\"autolink\" href=\"/viewer/south_carolina/iebc-2021/chapter/2/definitions#flood_hazard_area_\">flood hazard areas</a>, <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/south_carolina/iebc-2021/chapter/2/definitions#repair_\">repairs</a></span> that constitute <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/south_carolina/iebc-2021/chapter/2/definitions#substantial_improvement_\">substantial improvement</a></span> shall require that the building comply with <a class=\"autolink\" href=\"/viewer/south_carolina/ibc-2021/chapter/16/structural-design#1612\">Section 1612</a> of the <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/south_carolina/ibc-2021\">International Building Code</a></span>, or <a class=\"autolink\" href=\"/viewer/south_carolina/irc-2021/chapter/3/building-planning#R322\">Section R322</a> of the <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/south_carolina/irc-2021\">International Residential Code</a></span>, as applicable.",
+                                        "depth": 2,
+                                        "diagrams": [],
+                                        "displayRef": null,
+                                        "displayTitle": "[BS]  401.3 Flood Hazard Areas",
+                                        "hasAssemblies": false,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 0,
+                                        "numDiagramsOnRef": 0,
+                                        "reference": "401.3",
+                                        "refPrefix": "[BS]",
+                                        "slug": "repairs",
+                                        "titleText": "Flood Hazard Areas",
+                                        "children": []
+                                    }
+                                ]
+                            },
+                            {
+                                "ancestorRefs": [
+                                    "4"
+                                ],
+                                "depth": 1,
+                                "diagrams": [],
+                                "displayRef": null,
+                                "displayTitle": "Section 402 Building Elements and Materials",
+                                "divisionType": "Section",
+                                "hasAssemblies": false,
+                                "isContiguous": true,
+                                "numAssembliesOnRef": 0,
+                                "numBuildingProductsOnRef": 0,
+                                "numDiagramsOnRef": 0,
+                                "reference": "402",
+                                "slug": "repairs",
+                                "titleText": "Building Elements and Materials",
+                                "children": [
+                                    {
+                                        "ancestorRefs": [
+                                            "4",
+                                            "402"
+                                        ],
+                                        "body": "<div class=\"u-mt-3 u-mb-3\">Replacement glazing in hazardous locations shall comply with the safety glazing requirements of the <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/south_carolina/ibc-2021\">International Building Code</a></span> or <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/south_carolina/irc-2021\">International Residential Code</a></span> as applicable.</div><div class=\"u-ml-4 u-mt-3 u-mb-3\"><span class=\"u-font-bold\">Exception: </span>Glass block walls, louvered windows and jalousies repaired with like materials.</div>",
+                                        "depth": 2,
+                                        "diagrams": [
+                                            {
+                                                "key": "glazing_adjacent_to_doors",
+                                                "title": "Glazing Next to Doors (RC)",
+                                                "descriptionHtml": "<div>Glazing adjacent to doors can become subject to breakage and require safety glazing materials. The requirements shown here are only applicable to those subject to the Residential Code. Building Code Section 2406.4.2 has more stringent requirements for non-residential applications.</div>",
+                                                "topics": [
+                                                    "Interior",
+                                                    "Envelope",
+                                                    "Residential"
+                                                ],
+                                                "phases": [
+                                                    "Construction Docs",
+                                                    "Construction Phase"
+                                                ],
+                                                "supressesChildrenAssociations": false,
+                                                "blacklistJurisdictions": [],
+                                                "whitelistJurisdictions": [],
+                                                "imageType": "svg"
+                                            },
+                                            {
+                                                "key": "glazing_haz_locations",
+                                                "title": "Glazing: Hazardous Locations",
+                                                "descriptionHtml": "<div>A set of conditions denote a hazardous location for glazing in either fixed or operable panels. These conditions specify that the exposed area of an individual pane must be greater than 9 square feet. The glazing panel is also expected to be positioned in a manner where the bottom edge is less than 18 inches above the floor and the top edge is greater than 36 inches above the floor. Another significant factor requires that one or more walking surfaces are placed within 36 inches, measured horizontally and in a straight line, of the plane of the glazing. The regulation identifies such scenarios as potentially hazardous due to the risk they might pose to the safety of inhabitants or users. </div><br/>\n<div>Safety glazing materials, including but not limited to tempered glass, laminated glass, wire glass or rigid plastic, are used in hazardous locations where the potential for human impact can lead to serious injuries.</div>",
+                                                "topics": [
+                                                    "Exterior",
+                                                    "Interior"
+                                                ],
+                                                "phases": [
+                                                    "Construction Docs",
+                                                    "Construction Phase"
+                                                ],
+                                                "supressesChildrenAssociations": false,
+                                                "blacklistJurisdictions": [],
+                                                "whitelistJurisdictions": [],
+                                                "imageType": "svg"
+                                            },
+                                            {
+                                                "key": "glazing_adjacent_stairs_ramps_irc",
+                                                "title": "Glazing Next to Stairs and Ramps (IRC)",
+                                                "descriptionHtml": "<div>Glazing adjacent to stairs and ramps shall be considered to be in a hazardous location and required safety glazing materials. Safety glazing materials, including but not limited to tempered glass, laminated glass, wire glass or rigid plastic, are used in hazardous locations where the potential for human impact can lead to serious injuries.</div>",
+                                                "topics": [
+                                                    "Residential",
+                                                    "Egress"
+                                                ],
+                                                "phases": [
+                                                    "Construction Phase"
+                                                ],
+                                                "supressesChildrenAssociations": false,
+                                                "blacklistJurisdictions": [
+                                                    "oregon"
+                                                ],
+                                                "whitelistJurisdictions": [],
+                                                "imageType": "svg"
+                                            },
+                                            {
+                                                "key": "glazing_adj_stairs_ramps",
+                                                "title": "Glazing Next to Stairs, Ramps ",
+                                                "descriptionHtml": "<div>Glazing adjacent to stairs and ramps shall be considered to be in a hazardous location and required safety glazing materials. Safety glazing materials, including but not limited to tempered glass, laminated glass, wire glass or rigid plastic, are used in hazardous locations where the potential for human impact can lead to serious injuries.</div>",
+                                                "topics": [
+                                                    "Exterior",
+                                                    "Interior"
+                                                ],
+                                                "phases": [
+                                                    "Construction Docs",
+                                                    "Construction Phase"
+                                                ],
+                                                "supressesChildrenAssociations": false,
+                                                "blacklistJurisdictions": [
+                                                    "chicago"
+                                                ],
+                                                "whitelistJurisdictions": [],
+                                                "imageType": "svg"
+                                            },
+                                            {
+                                                "key": "glazing_wet_surfaces",
+                                                "title": "Glazing: Wet Surfaces",
+                                                "descriptionHtml": "<div><i>Glazing in walls, enclosures or fences containing or facing hot tubs, spas, whirlpools, saunas, steam rooms, bathtubs, showers and indoor or outdoor swimming pools where the bottom exposed edge of the glazing is less than 60 inches measured vertically above any standing or walking surface shall be considered to be a hazardous location. This shall apply to single glazing and all panes in multiple glazing.</i></div><br/>\n<div><i><strong>Exception:</strong> Glazing that is more than 60 inches (1524 mm), measured horizontally and in a straight line, from the water's edge of a bathtub, hot tub, spa, whirlpool or swimming pool.</i></div>",
+                                                "topics": [
+                                                    "Example"
+                                                ],
+                                                "phases": [
+                                                    "Design Development",
+                                                    "Construction Docs",
+                                                    "Construction Phase"
+                                                ],
+                                                "supressesChildrenAssociations": false,
+                                                "blacklistJurisdictions": [],
+                                                "whitelistJurisdictions": [],
+                                                "imageType": "svg"
+                                            },
+                                            {
+                                                "key": "fgi_glazing_reno_projects",
+                                                "title": "Glazing in Hospital Renovations (FGI)",
+                                                "descriptionHtml": "<div>Wire glass in itself is not considered safety glazing.  Beginning with the 2006 edition of building codes, traditional wired glass, which did not conform to safety glazing requirements, was no longer exempt from safety glazing standards when used in any hazardous location for all new construction.  If wire glass is used, be sure that it also meets the safety glazing requirements of Building Code Section 2406 as well. </div>",
+                                                "topics": [
+                                                    "Medical",
+                                                    "Glazing"
+                                                ],
+                                                "phases": [
+                                                    "Construction Docs"
+                                                ],
+                                                "supressesChildrenAssociations": false,
+                                                "blacklistJurisdictions": [],
+                                                "whitelistJurisdictions": [],
+                                                "imageType": "svg"
+                                            }
+                                        ],
+                                        "displayRef": null,
+                                        "displayTitle": "402.1 Glazing in Hazardous Locations",
+                                        "hasAssemblies": false,
+                                        "hasDiagrams": true,
+                                        "hasDiagramsOnRef": true,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 0,
+                                        "numDiagramsOnRef": 6,
+                                        "reference": "402.1",
+                                        "slug": "repairs",
+                                        "titleText": "Glazing in Hazardous Locations",
+                                        "children": []
+                                    }
+                                ]
+                            },
+                            {
+                                "ancestorRefs": [
+                                    "4"
+                                ],
+                                "depth": 1,
+                                "diagrams": [],
+                                "displayRef": null,
+                                "displayTitle": "Section 403 Fire Protection",
+                                "divisionType": "Section",
+                                "hasAssemblies": false,
+                                "isContiguous": true,
+                                "numAssembliesOnRef": 0,
+                                "numBuildingProductsOnRef": 0,
+                                "numDiagramsOnRef": 0,
+                                "reference": "403",
+                                "slug": "repairs",
+                                "titleText": "Fire Protection",
+                                "children": [
+                                    {
+                                        "ancestorRefs": [
+                                            "4",
+                                            "403"
+                                        ],
+                                        "body": "<span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/south_carolina/iebc-2021/chapter/2/definitions#repair_\">Repairs</a></span> shall be done in a manner that maintains the level of fire protection provided.",
+                                        "depth": 2,
+                                        "diagrams": [],
+                                        "displayRef": null,
+                                        "displayTitle": "403.1 General",
+                                        "hasAssemblies": true,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 1,
+                                        "numBuildingProductsOnRef": 0,
+                                        "numDiagramsOnRef": 0,
+                                        "reference": "403.1",
+                                        "slug": "repairs",
+                                        "titleText": "General",
+                                        "children": []
+                                    }
+                                ]
+                            },
+                            {
+                                "ancestorRefs": [
+                                    "4"
+                                ],
+                                "depth": 1,
+                                "diagrams": [],
+                                "displayRef": null,
+                                "displayTitle": "Section 404 Means of Egress",
+                                "divisionType": "Section",
+                                "hasAssemblies": false,
+                                "isContiguous": true,
+                                "numAssembliesOnRef": 0,
+                                "numBuildingProductsOnRef": 0,
+                                "numDiagramsOnRef": 0,
+                                "reference": "404",
+                                "slug": "repairs",
+                                "titleText": "Means of Egress",
+                                "children": [
+                                    {
+                                        "ancestorRefs": [
+                                            "4",
+                                            "404"
+                                        ],
+                                        "body": "<span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/south_carolina/iebc-2021/chapter/2/definitions#repair_\">Repairs</a></span> shall be done in a manner that maintains the level of protection provided for the means of egress.",
+                                        "depth": 2,
+                                        "diagrams": [],
+                                        "displayRef": null,
+                                        "displayTitle": "404.1 General",
+                                        "hasAssemblies": false,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 0,
+                                        "numDiagramsOnRef": 0,
+                                        "reference": "404.1",
+                                        "slug": "repairs",
+                                        "titleText": "General",
+                                        "children": []
+                                    }
+                                ]
+                            },
+                            {
+                                "ancestorRefs": [
+                                    "4"
+                                ],
+                                "depth": 1,
+                                "diagrams": [],
+                                "displayRef": null,
+                                "displayTitle": "Section 405 Structural",
+                                "divisionType": "Section",
+                                "hasAssemblies": false,
+                                "isContiguous": true,
+                                "numAssembliesOnRef": 0,
+                                "numBuildingProductsOnRef": 0,
+                                "numDiagramsOnRef": 0,
+                                "reference": "405",
+                                "slug": "repairs",
+                                "titleText": "Structural",
+                                "children": [
+                                    {
+                                        "ancestorRefs": [
+                                            "4",
+                                            "405"
+                                        ],
+                                        "body": "Structural <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/south_carolina/iebc-2021/chapter/2/definitions#repair_\">repairs</a></span> shall be in compliance with this section and <a class=\"autolink\" href=\"#401.2\">Section 401.2</a>.",
+                                        "depth": 2,
+                                        "diagrams": [],
+                                        "displayRef": null,
+                                        "displayTitle": "[BS]  405.1 General",
+                                        "hasAssemblies": false,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 0,
+                                        "numDiagramsOnRef": 0,
+                                        "reference": "405.1",
+                                        "refPrefix": "[BS]",
+                                        "slug": "repairs",
+                                        "titleText": "General",
+                                        "children": []
+                                    },
+                                    {
+                                        "ancestorRefs": [
+                                            "4",
+                                            "405"
+                                        ],
+                                        "body": "<span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/south_carolina/iebc-2021/chapter/2/definitions#repair_\">Repairs</a></span> to damaged buildings shall comply with this section.",
+                                        "depth": 2,
+                                        "diagrams": [],
+                                        "displayRef": null,
+                                        "displayTitle": "[BS]  405.2 Repairs to Damaged Buildings",
+                                        "hasAssemblies": false,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 0,
+                                        "numDiagramsOnRef": 0,
+                                        "reference": "405.2",
+                                        "refPrefix": "[BS]",
+                                        "slug": "repairs",
+                                        "titleText": "Repairs to Damaged Buildings",
+                                        "children": [
+                                            {
+                                                "ancestorRefs": [
+                                                    "4",
+                                                    "405",
+                                                    "405.2"
+                                                ],
+                                                "body": "Unless otherwise required by this section, for damage less than <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/south_carolina/iebc-2021/chapter/2/definitions#substantial_structural_damage_\">substantial structural damage</a></span>, the damaged elements shall be permitted to be restored to their predamage condition.",
+                                                "depth": 3,
+                                                "diagrams": [],
+                                                "displayRef": null,
+                                                "displayTitle": "[BS]  405.2.1 Repairs for Less Than Substantial Structural Damage",
+                                                "hasAssemblies": false,
+                                                "isContiguous": true,
+                                                "numAssembliesOnRef": 0,
+                                                "numBuildingProductsOnRef": 0,
+                                                "numDiagramsOnRef": 0,
+                                                "reference": "405.2.1",
+                                                "refPrefix": "[BS]",
+                                                "slug": "repairs",
+                                                "titleText": "Repairs for Less Than Substantial Structural Damage",
+                                                "children": [
+                                                    {
+                                                        "ancestorRefs": [
+                                                            "4",
+                                                            "405",
+                                                            "405.2",
+                                                            "405.2.1"
+                                                        ],
+                                                        "body": "Structural components whose damage was caused by or related to snow load effects shall be repaired, replaced or altered to satisfy the requirements of <a class=\"autolink\" href=\"/viewer/south_carolina/ibc-2021/chapter/16/structural-design#1608\">Section 1608</a> of the <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/south_carolina/ibc-2021\">International Building Code</a></span>.",
+                                                        "depth": 4,
+                                                        "diagrams": [],
+                                                        "displayRef": null,
+                                                        "displayTitle": "[BS]  405.2.1.1 Snow Damage",
+                                                        "hasAssemblies": false,
+                                                        "isContiguous": true,
+                                                        "numAssembliesOnRef": 0,
+                                                        "numBuildingProductsOnRef": 0,
+                                                        "numDiagramsOnRef": 0,
+                                                        "reference": "405.2.1.1",
+                                                        "refPrefix": "[BS]",
+                                                        "slug": "repairs",
+                                                        "titleText": "Snow Damage",
+                                                        "children": []
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "ancestorRefs": [
+                                                    "4",
+                                                    "405",
+                                                    "405.2"
+                                                ],
+                                                "body": "A building assigned to Seismic Design Category D, E or F that has sustained <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/south_carolina/iebc-2021/chapter/2/definitions#disproportionate_earthquake_damage_\">disproportionate earthquake damage</a> </span>shall be subject to the requirements for buildings with <a class=\"autolink\" href=\"/viewer/south_carolina/iebc-2021/chapter/2/definitions#substantial_structural_damage_\">substantial structural damage</a> to vertical elements of the lateral force-resisting system.",
+                                                "depth": 3,
+                                                "diagrams": [],
+                                                "displayRef": null,
+                                                "displayTitle": "[BS]  405.2.2 Disproportionate Earthquake Damage",
+                                                "hasAssemblies": false,
+                                                "isContiguous": true,
+                                                "numAssembliesOnRef": 0,
+                                                "numBuildingProductsOnRef": 0,
+                                                "numDiagramsOnRef": 0,
+                                                "reference": "405.2.2",
+                                                "refPrefix": "[BS]",
+                                                "slug": "repairs",
+                                                "titleText": "Disproportionate Earthquake Damage",
+                                                "children": []
+                                            },
+                                            {
+                                                "ancestorRefs": [
+                                                    "4",
+                                                    "405",
+                                                    "405.2"
+                                                ],
+                                                "body": "<div class=\"u-mt-3 u-mb-3\">A building that has sustained <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/south_carolina/iebc-2021/chapter/2/definitions#substantial_structural_damage_\">substantial structural damage</a></span> to the vertical elements of its lateral force-resisting system shall be evaluated in accordance with <a class=\"autolink\" href=\"#405.2.3.1\">Section 405.2.3.1</a>, and either repaired in accordance with <a class=\"autolink\" href=\"#405.2.3.2\">Section 405.2.3.2</a> or repaired and retrofitted in accordance with <a class=\"autolink\" href=\"#405.2.3.3\">Section 405.2.3.3</a>, depending on the results of the evaluation.</div><div class=\"u-ml-4\"><div class=\"u-mb-3\"><span class=\"u-font-bold\">Exceptions:</span></div><ol><li>Buildings assigned to Seismic Design Category A, B or C whose <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/south_carolina/iebc-2021/chapter/2/definitions#substantial_structural_damage_\">substantial structural damage</a> </span>was not caused by earthquake need not be evaluated or retrofitted for load combinations that include earthquake effects.</li><li>One- and two-family dwellings need not be evaluated or retrofitted for load combinations that include earthquake effects.</li></ol></div>",
+                                                "depth": 3,
+                                                "diagrams": [],
+                                                "displayRef": null,
+                                                "displayTitle": "[BS]  405.2.3 Substantial Structural Damage to Vertical Elements of the Lateral Force-Resisting System",
+                                                "hasAssemblies": false,
+                                                "isContiguous": true,
+                                                "numAssembliesOnRef": 0,
+                                                "numBuildingProductsOnRef": 0,
+                                                "numDiagramsOnRef": 0,
+                                                "reference": "405.2.3",
+                                                "refPrefix": "[BS]",
+                                                "slug": "repairs",
+                                                "titleText": "Substantial Structural Damage to Vertical Elements of the Lateral Force-Resisting System",
+                                                "children": [
+                                                    {
+                                                        "ancestorRefs": [
+                                                            "4",
+                                                            "405",
+                                                            "405.2",
+                                                            "405.2.3"
+                                                        ],
+                                                        "body": "The building shall be evaluated by a registered design professional, and the evaluation findings shall be submitted to the <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/south_carolina/iebc-2021/chapter/2/definitions#code_official_\">code official</a></span>. The evaluation shall establish whether the damaged building, if repaired to its predamage state, would comply with the provisions of the <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/south_carolina/ibc-2021\">International Building Code</a></span> for load combinations that include wind or earthquake effects, except that the <a class=\"autolink\" href=\"/viewer/south_carolina/iebc-2021/chapter/2/definitions#seismic_forces_\">seismic forces</a> shall be the reduced <a class=\"autolink\" href=\"/viewer/south_carolina/iebc-2021/chapter/2/definitions#seismic_forces_\">seismic forces</a>.",
+                                                        "depth": 4,
+                                                        "diagrams": [],
+                                                        "displayRef": null,
+                                                        "displayTitle": "[BS]  405.2.3.1 Evaluation",
+                                                        "hasAssemblies": false,
+                                                        "isContiguous": true,
+                                                        "numAssembliesOnRef": 0,
+                                                        "numBuildingProductsOnRef": 0,
+                                                        "numDiagramsOnRef": 0,
+                                                        "reference": "405.2.3.1",
+                                                        "refPrefix": "[BS]",
+                                                        "slug": "repairs",
+                                                        "titleText": "Evaluation",
+                                                        "children": []
+                                                    },
+                                                    {
+                                                        "ancestorRefs": [
+                                                            "4",
+                                                            "405",
+                                                            "405.2",
+                                                            "405.2.3"
+                                                        ],
+                                                        "body": "If the evaluation establishes that the building in its predamage condition complies with the provisions of <a class=\"autolink\" href=\"#405.2.3.1\">Section 405.2.3.1</a>, then the damaged elements shall be permitted to be restored to their predamage condition.",
+                                                        "depth": 4,
+                                                        "diagrams": [],
+                                                        "displayRef": null,
+                                                        "displayTitle": "[BS]  405.2.3.2 Extent of Repair for Compliant Buildings",
+                                                        "hasAssemblies": false,
+                                                        "isContiguous": true,
+                                                        "numAssembliesOnRef": 0,
+                                                        "numBuildingProductsOnRef": 0,
+                                                        "numDiagramsOnRef": 0,
+                                                        "reference": "405.2.3.2",
+                                                        "refPrefix": "[BS]",
+                                                        "slug": "repairs",
+                                                        "titleText": "Extent of Repair for Compliant Buildings",
+                                                        "children": []
+                                                    },
+                                                    {
+                                                        "ancestorRefs": [
+                                                            "4",
+                                                            "405",
+                                                            "405.2",
+                                                            "405.2.3"
+                                                        ],
+                                                        "body": "If the evaluation does not establish that the building in its predamage condition complies with the provisions of <a class=\"autolink\" href=\"#405.2.3.1\">Section 405.2.3.1</a>, then the building shall be retrofitted to comply with the provisions of this section. The wind loads for the <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/south_carolina/iebc-2021/chapter/2/definitions#repair_\">repair</a></span> and <span class=\"u-italic\">retrofit</span> shall be those required by the <a class=\"autolink\" href=\"/viewer/south_carolina/ibc-2021\">building code</a> in effect at the time of original construction, unless the damage was caused by wind, in which case the wind loads shall be in accordance with the <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/south_carolina/ibc-2021\">International Building Code</a></span>. The seismic loads for this <span class=\"u-italic\">retrofit</span> design shall be those required by the <a class=\"autolink\" href=\"/viewer/south_carolina/ibc-2021\">building code</a> in effect at the time of original construction, but not less than the reduced <a class=\"autolink\" href=\"/viewer/south_carolina/iebc-2021/chapter/2/definitions#seismic_forces_\">seismic forces</a>.",
+                                                        "depth": 4,
+                                                        "diagrams": [],
+                                                        "displayRef": null,
+                                                        "displayTitle": "[BS]  405.2.3.3 Extent of Repair for Noncompliant Buildings",
+                                                        "hasAssemblies": false,
+                                                        "isContiguous": true,
+                                                        "numAssembliesOnRef": 0,
+                                                        "numBuildingProductsOnRef": 0,
+                                                        "numDiagramsOnRef": 0,
+                                                        "reference": "405.2.3.3",
+                                                        "refPrefix": "[BS]",
+                                                        "slug": "repairs",
+                                                        "titleText": "Extent of Repair for Noncompliant Buildings",
+                                                        "children": []
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "ancestorRefs": [
+                                                    "4",
+                                                    "405",
+                                                    "405.2"
+                                                ],
+                                                "body": "Gravity load-carrying components that have sustained <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/south_carolina/iebc-2021/chapter/2/definitions#substantial_structural_damage_\">substantial structural damage</a></span> shall be rehabilitated to comply with the applicable provisions for dead, live and snow loads in the <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/south_carolina/ibc-2021\">International Building Code</a></span>.Undamaged gravity load-carrying components that receive dead, live or snow loads from rehabilitated components shall also be rehabilitated if required to comply with the design loads of the <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/south_carolina/iebc-2021/chapter/2/definitions#rehabilitation_\">rehabilitation</a></span> design.",
+                                                "depth": 3,
+                                                "diagrams": [],
+                                                "displayRef": null,
+                                                "displayTitle": "[BS]  405.2.4 Substantial Structural Damage to Gravity Load-Carrying Components",
+                                                "hasAssemblies": false,
+                                                "isContiguous": true,
+                                                "numAssembliesOnRef": 0,
+                                                "numBuildingProductsOnRef": 0,
+                                                "numDiagramsOnRef": 0,
+                                                "reference": "405.2.4",
+                                                "refPrefix": "[BS]",
+                                                "slug": "repairs",
+                                                "titleText": "Substantial Structural Damage to Gravity Load-Carrying Components",
+                                                "children": [
+                                                    {
+                                                        "ancestorRefs": [
+                                                            "4",
+                                                            "405",
+                                                            "405.2",
+                                                            "405.2.4"
+                                                        ],
+                                                        "body": "<div class=\"u-mt-3 u-mb-3\">Regardless of the level of damage to vertical elements of the lateral force-resisting system, if <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/south_carolina/iebc-2021/chapter/2/definitions#substantial_structural_damage_\">substantial structural damage</a></span> to gravity load-carrying components was caused primarily by wind or seismic effects, then the building shall be evaluated in accordance with <a class=\"autolink\" href=\"#405.2.3.1\">Section 405.2.3.1</a> and, if noncompliant, retrofitted in accordance with <a class=\"autolink\" href=\"#405.2.3.3\">Section 405.2.3.3</a>.</div><div class=\"u-ml-4\"><div class=\"u-mb-3\"><span class=\"u-font-bold\">Exceptions: </span></div><ol><li>Buildings assigned to Seismic Design Category A, B or C whose <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/south_carolina/iebc-2021/chapter/2/definitions#substantial_structural_damage_\">substantial structural damage</a></span> was not caused by earthquake need not be evaluated or retrofitted for load combinations that include earthquake effects.</li><li>One- and two-family dwellings need not be evaluated or retrofitted for load combinations that include earthquake effects.</li></ol></div>",
+                                                        "depth": 4,
+                                                        "diagrams": [],
+                                                        "displayRef": null,
+                                                        "displayTitle": "[BS]  405.2.4.1 Lateral Force-Resisting Elements",
+                                                        "hasAssemblies": false,
+                                                        "isContiguous": true,
+                                                        "numAssembliesOnRef": 0,
+                                                        "numBuildingProductsOnRef": 0,
+                                                        "numDiagramsOnRef": 0,
+                                                        "reference": "405.2.4.1",
+                                                        "refPrefix": "[BS]",
+                                                        "slug": "repairs",
+                                                        "titleText": "Lateral Force-Resisting Elements",
+                                                        "children": []
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "ancestorRefs": [
+                                                    "4",
+                                                    "405",
+                                                    "405.2"
+                                                ],
+                                                "body": "Where <a class=\"autolink\" href=\"/viewer/south_carolina/iebc-2021/chapter/2/definitions#substantial_structural_damage_\">substantial structural damage</a> to any snow load-carrying components is caused by or related to snow load effects, any components required to carry snow loads on roof framing of similar construction shall be repaired, replaced or retrofitted to satisfy the requirements of <a class=\"autolink\" href=\"/viewer/south_carolina/ibc-2021/chapter/16/structural-design#1608\">Section 1608</a> of the <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/south_carolina/ibc-2021\">International Building Code</a></span>.",
+                                                "depth": 3,
+                                                "diagrams": [],
+                                                "displayRef": null,
+                                                "displayTitle": "[BS]  405.2.5 Substantial Structural Damage to Snow Load-Carrying Components",
+                                                "hasAssemblies": false,
+                                                "isContiguous": true,
+                                                "numAssembliesOnRef": 0,
+                                                "numBuildingProductsOnRef": 0,
+                                                "numDiagramsOnRef": 0,
+                                                "reference": "405.2.5",
+                                                "refPrefix": "[BS]",
+                                                "slug": "repairs",
+                                                "titleText": "Substantial Structural Damage to Snow Load-Carrying Components",
+                                                "children": []
+                                            },
+                                            {
+                                                "ancestorRefs": [
+                                                    "4",
+                                                    "405",
+                                                    "405.2"
+                                                ],
+                                                "body": "In <a class=\"autolink\" href=\"/viewer/south_carolina/iebc-2021/chapter/2/definitions#flood_hazard_area_\"><span class=\"u-italic\">flood hazard</span> areas</a>, buildings that have sustained <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/south_carolina/iebc-2021/chapter/2/definitions#substantial_damage_\">substantial damage</a></span> shall be brought into compliance with <a class=\"autolink\" href=\"/viewer/south_carolina/ibc-2021/chapter/16/structural-design#1612\">Section 1612</a> of the <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/south_carolina/ibc-2021\">International Building Code</a></span>, or <a class=\"autolink\" href=\"/viewer/south_carolina/irc-2021/chapter/3/building-planning#R322\">Section R322</a> of the <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/south_carolina/irc-2021\">International Residential Code</a></span>, as applicable.",
+                                                "depth": 3,
+                                                "diagrams": [],
+                                                "displayRef": null,
+                                                "displayTitle": "[BS]  405.2.6 Flood Hazard Areas",
+                                                "hasAssemblies": false,
+                                                "isContiguous": true,
+                                                "numAssembliesOnRef": 0,
+                                                "numBuildingProductsOnRef": 0,
+                                                "numDiagramsOnRef": 0,
+                                                "reference": "405.2.6",
+                                                "refPrefix": "[BS]",
+                                                "slug": "repairs",
+                                                "titleText": "Flood Hazard Areas",
+                                                "children": []
+                                            }
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "ancestorRefs": [
+                                    "4"
+                                ],
+                                "depth": 1,
+                                "diagrams": [],
+                                "displayRef": null,
+                                "displayTitle": "Section 406 Electrical",
+                                "divisionType": "Section",
+                                "hasAssemblies": false,
+                                "isContiguous": true,
+                                "numAssembliesOnRef": 0,
+                                "numBuildingProductsOnRef": 0,
+                                "numDiagramsOnRef": 0,
+                                "reference": "406",
+                                "slug": "repairs",
+                                "titleText": "Electrical",
+                                "children": [
+                                    {
+                                        "ancestorRefs": [
+                                            "4",
+                                            "406"
+                                        ],
+                                        "body": "Existing electrical wiring and equipment undergoing <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/south_carolina/iebc-2021/chapter/2/definitions#repair_\">repair</a></span> shall be allowed to be repaired or replaced with like material.",
+                                        "depth": 2,
+                                        "diagrams": [],
+                                        "displayRef": null,
+                                        "displayTitle": "406.1 Material",
+                                        "hasAssemblies": false,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 0,
+                                        "numDiagramsOnRef": 0,
+                                        "reference": "406.1",
+                                        "slug": "repairs",
+                                        "titleText": "Material",
+                                        "children": [
+                                            {
+                                                "ancestorRefs": [
+                                                    "4",
+                                                    "406",
+                                                    "406.1"
+                                                ],
+                                                "body": "Replacement of electrical receptacles shall comply with the applicable requirements of Section 406.4(D) of NFPA 70.",
+                                                "depth": 3,
+                                                "diagrams": [],
+                                                "displayRef": null,
+                                                "displayTitle": "406.1.1 Receptacles",
+                                                "hasAssemblies": false,
+                                                "isContiguous": true,
+                                                "numAssembliesOnRef": 0,
+                                                "numBuildingProductsOnRef": 0,
+                                                "numDiagramsOnRef": 0,
+                                                "reference": "406.1.1",
+                                                "slug": "repairs",
+                                                "titleText": "Receptacles",
+                                                "children": []
+                                            },
+                                            {
+                                                "ancestorRefs": [
+                                                    "4",
+                                                    "406",
+                                                    "406.1"
+                                                ],
+                                                "body": "Plug fuses of the Edison-base type shall be used for replacements only where there is no evidence of over fusing or tampering per applicable requirements of Section 240.51(B) of NFPA 70.",
+                                                "depth": 3,
+                                                "diagrams": [],
+                                                "displayRef": null,
+                                                "displayTitle": "406.1.2 Plug Fuses",
+                                                "hasAssemblies": false,
+                                                "isContiguous": true,
+                                                "numAssembliesOnRef": 0,
+                                                "numBuildingProductsOnRef": 0,
+                                                "numDiagramsOnRef": 0,
+                                                "reference": "406.1.2",
+                                                "slug": "repairs",
+                                                "titleText": "Plug Fuses",
+                                                "children": []
+                                            },
+                                            {
+                                                "ancestorRefs": [
+                                                    "4",
+                                                    "406",
+                                                    "406.1"
+                                                ],
+                                                "body": "For replacement of nongrounding-type receptacles with grounding-type receptacles and for branch circuits that do not have an equipment grounding conductor in the branch circuitry, the grounding conductor of a grounding-type receptacle outlet shall be permitted to be grounded to any accessible point on the grounding electrode system or to any accessible point on the grounding electrode conductor in accordance with Section 250.130(C) of NFPA 70.",
+                                                "depth": 3,
+                                                "diagrams": [],
+                                                "displayRef": null,
+                                                "displayTitle": "406.1.3 Nongrounding-Type Receptacles",
+                                                "hasAssemblies": false,
+                                                "isContiguous": true,
+                                                "numAssembliesOnRef": 0,
+                                                "numBuildingProductsOnRef": 0,
+                                                "numDiagramsOnRef": 0,
+                                                "reference": "406.1.3",
+                                                "slug": "repairs",
+                                                "titleText": "Nongrounding-Type Receptacles",
+                                                "children": []
+                                            },
+                                            {
+                                                "ancestorRefs": [
+                                                    "4",
+                                                    "406",
+                                                    "406.1"
+                                                ],
+                                                "body": "Portions of electrical systems being repaired in Group I-2, ambulatory care <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/south_carolina/iebc-2021/chapter/2/definitions#facility_\">facilities</a></span> and outpatient clinics shall comply with NFPA 99 requirements for <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/south_carolina/iebc-2021/chapter/2/definitions#repair_\">repairs</a></span>.",
+                                                "depth": 3,
+                                                "diagrams": [],
+                                                "displayRef": null,
+                                                "displayTitle": "406.1.4 Health Care Facilities",
+                                                "hasAssemblies": false,
+                                                "isContiguous": true,
+                                                "numAssembliesOnRef": 0,
+                                                "numBuildingProductsOnRef": 0,
+                                                "numDiagramsOnRef": 0,
+                                                "reference": "406.1.4",
+                                                "slug": "repairs",
+                                                "titleText": "Health Care Facilities",
+                                                "children": []
+                                            },
+                                            {
+                                                "ancestorRefs": [
+                                                    "4",
+                                                    "406",
+                                                    "406.1"
+                                                ],
+                                                "body": "Frames of electric ranges, wall-mounted ovens, counter-mounted cooking units, clothes dryers and outlet or junction boxes that are part of the existing branch circuit for these appliances shall be permitted to be grounded to the grounded circuit conductor in accordance with Section 250.140 of NFPA 70.",
+                                                "depth": 3,
+                                                "diagrams": [],
+                                                "displayRef": null,
+                                                "displayTitle": "406.1.5 Grounding of Appliances",
+                                                "hasAssemblies": false,
+                                                "isContiguous": true,
+                                                "numAssembliesOnRef": 0,
+                                                "numBuildingProductsOnRef": 0,
+                                                "numDiagramsOnRef": 0,
+                                                "reference": "406.1.5",
+                                                "slug": "repairs",
+                                                "titleText": "Grounding of Appliances",
+                                                "children": []
+                                            }
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "ancestorRefs": [
+                                    "4"
+                                ],
+                                "depth": 1,
+                                "diagrams": [],
+                                "displayRef": null,
+                                "displayTitle": "Section 407 Mechanical",
+                                "divisionType": "Section",
+                                "hasAssemblies": false,
+                                "isContiguous": true,
+                                "numAssembliesOnRef": 0,
+                                "numBuildingProductsOnRef": 0,
+                                "numDiagramsOnRef": 0,
+                                "reference": "407",
+                                "slug": "repairs",
+                                "titleText": "Mechanical",
+                                "children": [
+                                    {
+                                        "ancestorRefs": [
+                                            "4",
+                                            "407"
+                                        ],
+                                        "body": "Existing mechanical systems undergoing <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/south_carolina/iebc-2021/chapter/2/definitions#repair_\">repair</a></span> shall not make the building less complying than it was before the damaged occurred.",
+                                        "depth": 2,
+                                        "diagrams": [],
+                                        "displayRef": null,
+                                        "displayTitle": "407.1 General",
+                                        "hasAssemblies": false,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 0,
+                                        "numDiagramsOnRef": 0,
+                                        "reference": "407.1",
+                                        "slug": "repairs",
+                                        "titleText": "General",
+                                        "children": []
+                                    },
+                                    {
+                                        "ancestorRefs": [
+                                            "4",
+                                            "407"
+                                        ],
+                                        "body": "<div class=\"u-mt-3 u-mb-3\">A mechanical draft system shall be permitted to be used with manually fired appliances and fireplaces where such a system complies with all of the following requirements:</div><ol><li>The mechanical draft device shall be listed and installed in accordance with the manufacturer's installation instructions.</li><li>A device shall be installed that produces visible and audible warning upon failure of the mechanical draft device or loss of electrical power at any time that the mechanical draft device is turned on. This device shall be equipped with a battery backup if it receives power from the building wiring.</li><li>A smoke detector shall be installed in the room with the appliance or fireplace. This device shall be equipped with a battery backup if it receives power from the building wiring.</li></ol>",
+                                        "depth": 2,
+                                        "diagrams": [],
+                                        "displayRef": null,
+                                        "displayTitle": "407.2 Mechanical Draft Systems for Manually Fired Appliances and Fireplaces",
+                                        "hasAssemblies": false,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 0,
+                                        "numDiagramsOnRef": 0,
+                                        "reference": "407.2",
+                                        "slug": "repairs",
+                                        "titleText": "Mechanical Draft Systems for Manually Fired Appliances and Fireplaces",
+                                        "children": []
+                                    }
+                                ]
+                            },
+                            {
+                                "ancestorRefs": [
+                                    "4"
+                                ],
+                                "depth": 1,
+                                "diagrams": [],
+                                "displayRef": null,
+                                "displayTitle": "Section 408 Plumbing",
+                                "divisionType": "Section",
+                                "hasAssemblies": false,
+                                "isContiguous": true,
+                                "numAssembliesOnRef": 0,
+                                "numBuildingProductsOnRef": 0,
+                                "numDiagramsOnRef": 0,
+                                "reference": "408",
+                                "slug": "repairs",
+                                "titleText": "Plumbing",
+                                "children": [
+                                    {
+                                        "ancestorRefs": [
+                                            "4",
+                                            "408"
+                                        ],
+                                        "body": "Plumbing materials and supplies shall not be used for <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/south_carolina/iebc-2021/chapter/2/definitions#repair_\">repairs</a></span> that are prohibited in the <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/south_carolina/ipc-2021\">International Plumbing Code</a></span>.",
+                                        "depth": 2,
+                                        "diagrams": [],
+                                        "displayRef": null,
+                                        "displayTitle": "408.1 Materials",
+                                        "hasAssemblies": false,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 0,
+                                        "numDiagramsOnRef": 0,
+                                        "reference": "408.1",
+                                        "slug": "repairs",
+                                        "titleText": "Materials",
+                                        "children": []
+                                    },
+                                    {
+                                        "ancestorRefs": [
+                                            "4",
+                                            "408"
+                                        ],
+                                        "body": "<div class=\"u-mt-3 u-mb-3\">The maximum water consumption flow rates and quantities for all replaced water closets shall be 1.6 gallons (6 L) per flushing cycle.</div><div class=\"u-mt-3 u-mb-3 u-ml-4\"><span class=\"u-font-bold\">Exception: </span>Blowout-design water closets [3.5 gallons (13 L) per flushing cycle].</div>",
+                                        "depth": 2,
+                                        "diagrams": [],
+                                        "displayRef": null,
+                                        "displayTitle": "408.2 Water Closet Replacement",
+                                        "hasAssemblies": false,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 1,
+                                        "numDiagramsOnRef": 0,
+                                        "reference": "408.2",
+                                        "slug": "repairs",
+                                        "titleText": "Water Closet Replacement",
+                                        "children": []
+                                    },
+                                    {
+                                        "ancestorRefs": [
+                                            "4",
+                                            "408"
+                                        ],
+                                        "body": "Portions of medical gas systems being repaired in Group I-2, ambulatory care <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/south_carolina/iebc-2021/chapter/2/definitions#facility_\">facilities</a></span> and outpatient clinics shall comply with NFPA 99 requirements for <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/south_carolina/iebc-2021/chapter/2/definitions#repair_\">repairs</a></span>.",
+                                        "depth": 2,
+                                        "diagrams": [],
+                                        "displayRef": null,
+                                        "displayTitle": "408.3 Health Care Facilities",
+                                        "hasAssemblies": false,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 0,
+                                        "numDiagramsOnRef": 0,
+                                        "reference": "408.3",
+                                        "slug": "repairs",
+                                        "titleText": "Health Care Facilities",
+                                        "children": []
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            "chapterReference": "4"
+        },
+        "__N_SSP": true
+    },
+    "page": "/viewer/[urlFormPubOrJurisKey]/[urlFormPub]/chapter/[chapterRef]/[chapterName]",
+    "query": {
+        "urlFormPubOrJurisKey": "south_carolina",
+        "urlFormPub": "iebc-2021",
+        "chapterRef": "4",
+        "chapterName": "repairs"
+    },
+    "buildId": "aNDb_KMgxj06vGZ7D_0_K",
+    "isFallback": false,
+    "isExperimentalCompile": false,
+    "dynamicIds": [
+        61621,
+        54065
+    ],
+    "gssp": true,
+    "scriptLoader": []
+}

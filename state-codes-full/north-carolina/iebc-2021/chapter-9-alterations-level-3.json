@@ -1,0 +1,1829 @@
+{
+    "props": {
+        "pageProps": {
+            "missingRequiredLogin": false,
+            "title": "Chapter 9 Alterations\u2014Level 3: North Carolina Existing Building Code 2024 | UpCodes",
+            "leanChapterViewerData": {
+                "basePubName": "International Existing Building Code 2021 (IEBC 2021)",
+                "codeGroupingYear": "2024",
+                "codeName": "North Carolina Existing Building Code 2024",
+                "codeUuid": "436e1f68-aa4c-48b4-b6c9-e61cf665feb0",
+                "codeVersions": [
+                    {
+                        "codeUuid": "436e1f68-aa4c-48b4-b6c9-e61cf665feb0",
+                        "name": "Original Adoption",
+                        "effectiveStartDate": null,
+                        "shortformUrlName": "iebc-2021",
+                        "activeStatus": "active"
+                    }
+                ],
+                "ingesterAmendmentsEnabled": false,
+                "ingesterCodeUnitsEnabled": false,
+                "isAmendStylingEnabled": true,
+                "isCorrespondable": true,
+                "jurisKey": "north_carolina",
+                "jurisName": "North Carolina",
+                "metaInfoUrl": "/viewer/north_carolina/iebc-2021",
+                "modelCodeUrl": null,
+                "placeholder": "Search North Carolina Existing Building Code 2024",
+                "pubKey": "int_ebc_2021",
+                "pubPrefix": "int_ebc",
+                "shortformPubName": "iebc-2021",
+                "withAmendments": true,
+                "chapterRef": "9",
+                "publisher": "icc",
+                "hasLinkedResources": false,
+                "initialNonChapterTocLines": [
+                    {
+                        "amendType": null,
+                        "children": [
+                            {
+                                "amendType": null,
+                                "children": [],
+                                "depth": 2,
+                                "displayTitle": "901.1 Scope",
+                                "hasExpanderArrow": false,
+                                "href": "#901.1",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "reference": "901.1"
+                            },
+                            {
+                                "amendType": "edit",
+                                "children": [],
+                                "depth": 2,
+                                "displayTitle": "901.2 Compliance",
+                                "hasExpanderArrow": false,
+                                "href": "#901.2",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "reference": "901.2"
+                            }
+                        ],
+                        "depth": 1,
+                        "displayTitle": "901 General",
+                        "hasExpanderArrow": true,
+                        "href": "#901",
+                        "isCodeDivider": false,
+                        "isCodeDividerClickable": false,
+                        "reference": "901"
+                    },
+                    {
+                        "amendType": null,
+                        "children": [
+                            {
+                                "amendType": "edit",
+                                "children": [
+                                    {
+                                        "amendType": "edit",
+                                        "children": [],
+                                        "depth": 3,
+                                        "displayTitle": "902.1.1 Recirculating Air or Exhaust Systems",
+                                        "hasExpanderArrow": false,
+                                        "href": "#902.1.1",
+                                        "isCodeDivider": false,
+                                        "isCodeDividerClickable": false,
+                                        "reference": "902.1.1"
+                                    },
+                                    {
+                                        "amendType": "edit",
+                                        "children": [],
+                                        "depth": 3,
+                                        "displayTitle": "902.1.2 Elevators",
+                                        "hasExpanderArrow": false,
+                                        "href": "#902.1.2",
+                                        "isCodeDivider": false,
+                                        "isCodeDividerClickable": false,
+                                        "reference": "902.1.2"
+                                    },
+                                    {
+                                        "amendType": "addition",
+                                        "children": [],
+                                        "depth": 3,
+                                        "displayTitle": "902.1.3 Luminous Egress Path Markings",
+                                        "hasExpanderArrow": false,
+                                        "href": "#new_902.1.3",
+                                        "isCodeDivider": false,
+                                        "isCodeDividerClickable": false,
+                                        "reference": "new_902.1.3"
+                                    }
+                                ],
+                                "depth": 2,
+                                "displayTitle": "902.1 High-Rise Buildings",
+                                "hasExpanderArrow": true,
+                                "href": "#902.1",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "reference": "902.1"
+                            },
+                            {
+                                "amendType": "edit",
+                                "children": [],
+                                "depth": 2,
+                                "displayTitle": "902.2 Boiler and Furnace Equipment Rooms",
+                                "hasExpanderArrow": false,
+                                "href": "#902.2",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "reference": "902.2"
+                            },
+                            {
+                                "amendType": "addition",
+                                "children": [],
+                                "depth": 2,
+                                "displayTitle": "902.3 Group H",
+                                "hasExpanderArrow": false,
+                                "href": "#new_902.3",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "reference": "new_902.3"
+                            }
+                        ],
+                        "depth": 1,
+                        "displayTitle": "902 Special Use and Occupancy",
+                        "hasExpanderArrow": true,
+                        "href": "#902",
+                        "isCodeDivider": false,
+                        "isCodeDividerClickable": false,
+                        "reference": "902"
+                    },
+                    {
+                        "amendType": null,
+                        "children": [
+                            {
+                                "amendType": "edit",
+                                "children": [],
+                                "depth": 2,
+                                "displayTitle": "903.1 Existing Shafts and Vertical Openings",
+                                "hasExpanderArrow": false,
+                                "href": "#903.1",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "reference": "903.1"
+                            },
+                            {
+                                "amendType": "edit",
+                                "children": [
+                                    {
+                                        "amendType": "edit",
+                                        "children": [],
+                                        "depth": 3,
+                                        "displayTitle": "903.2.1 Separation Required",
+                                        "hasExpanderArrow": false,
+                                        "href": "#903.2.1",
+                                        "isCodeDivider": false,
+                                        "isCodeDividerClickable": false,
+                                        "reference": "903.2.1"
+                                    }
+                                ],
+                                "depth": 2,
+                                "displayTitle": "903.2 Fire <span class=\"code_deletion\">Partitions</span> <span class=\"code_addition\">Separation</span> in Group R-3",
+                                "hasExpanderArrow": true,
+                                "href": "#903.2",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "reference": "903.2"
+                            },
+                            {
+                                "amendType": "edit",
+                                "children": [],
+                                "depth": 2,
+                                "displayTitle": "903.3 Interior Finish",
+                                "hasExpanderArrow": false,
+                                "href": "#903.3",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "reference": "903.3"
+                            },
+                            {
+                                "amendType": "edit",
+                                "children": [],
+                                "depth": 2,
+                                "displayTitle": "903.4 Enhanced Classroom Acoustics",
+                                "hasExpanderArrow": false,
+                                "href": "#903.4",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "reference": "903.4"
+                            }
+                        ],
+                        "depth": 1,
+                        "displayTitle": "903 Building Elements and Materials",
+                        "hasExpanderArrow": true,
+                        "href": "#903",
+                        "isCodeDivider": false,
+                        "isCodeDividerClickable": false,
+                        "reference": "903"
+                    },
+                    {
+                        "amendType": null,
+                        "children": [
+                            {
+                                "amendType": null,
+                                "children": [
+                                    {
+                                        "amendType": "edit",
+                                        "children": [],
+                                        "depth": 3,
+                                        "displayTitle": "904.1.1 High-Rise Buildings",
+                                        "hasExpanderArrow": false,
+                                        "href": "#904.1.1",
+                                        "isCodeDivider": false,
+                                        "isCodeDividerClickable": false,
+                                        "reference": "904.1.1"
+                                    },
+                                    {
+                                        "amendType": "deletion",
+                                        "children": [],
+                                        "depth": 3,
+                                        "displayTitle": "<span class=\"code_deletion\">904.1.2</span> <span class=\"code_deletion\">Rubbish and Linen Chutes</span>",
+                                        "hasExpanderArrow": false,
+                                        "href": "#904.1.2",
+                                        "isCodeDivider": false,
+                                        "isCodeDividerClickable": false,
+                                        "reference": "904.1.2"
+                                    },
+                                    {
+                                        "amendType": "deletion",
+                                        "children": [],
+                                        "depth": 3,
+                                        "displayTitle": "<span class=\"code_deletion\">904.1.3</span> <span class=\"code_deletion\">Upholstered Furniture or Mattresses</span>",
+                                        "hasExpanderArrow": false,
+                                        "href": "#904.1.3",
+                                        "isCodeDivider": false,
+                                        "isCodeDividerClickable": false,
+                                        "reference": "904.1.3"
+                                    },
+                                    {
+                                        "amendType": null,
+                                        "children": [],
+                                        "depth": 3,
+                                        "displayTitle": "904.1.4 Groups A, B, E, F-1, H, I-1, I-3, I-4, M, R-1, R-2, R-4, S-1 and S-2",
+                                        "hasExpanderArrow": false,
+                                        "href": "#904.1.4",
+                                        "isCodeDivider": false,
+                                        "isCodeDividerClickable": false,
+                                        "reference": "904.1.4"
+                                    },
+                                    {
+                                        "amendType": "edit",
+                                        "children": [],
+                                        "depth": 3,
+                                        "displayTitle": "904.1.5 Group I-2",
+                                        "hasExpanderArrow": false,
+                                        "href": "#904.1.5",
+                                        "isCodeDivider": false,
+                                        "isCodeDividerClickable": false,
+                                        "reference": "904.1.5"
+                                    },
+                                    {
+                                        "amendType": null,
+                                        "children": [],
+                                        "depth": 3,
+                                        "displayTitle": "904.1.6 Windowless Stories",
+                                        "hasExpanderArrow": false,
+                                        "href": "#904.1.6",
+                                        "isCodeDivider": false,
+                                        "isCodeDividerClickable": false,
+                                        "reference": "904.1.6"
+                                    },
+                                    {
+                                        "amendType": "edit",
+                                        "children": [],
+                                        "depth": 3,
+                                        "displayTitle": "904.1.7 Other Required Automatic Sprinkler Systems",
+                                        "hasExpanderArrow": false,
+                                        "href": "#904.1.7",
+                                        "isCodeDivider": false,
+                                        "isCodeDividerClickable": false,
+                                        "reference": "904.1.7"
+                                    }
+                                ],
+                                "depth": 2,
+                                "displayTitle": "904.1 Automatic Sprinkler Systems",
+                                "hasExpanderArrow": true,
+                                "href": "#904.1",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "reference": "904.1"
+                            },
+                            {
+                                "amendType": "edit",
+                                "children": [
+                                    {
+                                        "amendType": null,
+                                        "children": [],
+                                        "depth": 3,
+                                        "displayTitle": "904.2.1 Manual Fire Alarm Systems",
+                                        "hasExpanderArrow": false,
+                                        "href": "#904.2.1",
+                                        "isCodeDivider": false,
+                                        "isCodeDividerClickable": false,
+                                        "reference": "904.2.1"
+                                    },
+                                    {
+                                        "amendType": null,
+                                        "children": [],
+                                        "depth": 3,
+                                        "displayTitle": "904.2.2 Automatic Fire Detection",
+                                        "hasExpanderArrow": false,
+                                        "href": "#904.2.2",
+                                        "isCodeDivider": false,
+                                        "isCodeDividerClickable": false,
+                                        "reference": "904.2.2"
+                                    }
+                                ],
+                                "depth": 2,
+                                "displayTitle": "904.2 Fire Alarm and Detection Systems",
+                                "hasExpanderArrow": true,
+                                "href": "#904.2",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "reference": "904.2"
+                            },
+                            {
+                                "amendType": "addition",
+                                "children": [],
+                                "depth": 2,
+                                "displayTitle": "904.3 Standpipes",
+                                "hasExpanderArrow": false,
+                                "href": "#new_904.3",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "reference": "new_904.3"
+                            }
+                        ],
+                        "depth": 1,
+                        "displayTitle": "904 Fire Protection",
+                        "hasExpanderArrow": true,
+                        "href": "#904",
+                        "isCodeDivider": false,
+                        "isCodeDividerClickable": false,
+                        "reference": "904"
+                    },
+                    {
+                        "amendType": null,
+                        "children": [
+                            {
+                                "amendType": "edit",
+                                "children": [],
+                                "depth": 2,
+                                "displayTitle": "905.1 General",
+                                "hasExpanderArrow": false,
+                                "href": "#905.1",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "reference": "905.1"
+                            },
+                            {
+                                "amendType": null,
+                                "children": [],
+                                "depth": 2,
+                                "displayTitle": "905.2 Means-of-Egress Lighting",
+                                "hasExpanderArrow": false,
+                                "href": "#905.2",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "reference": "905.2"
+                            },
+                            {
+                                "amendType": null,
+                                "children": [],
+                                "depth": 2,
+                                "displayTitle": "905.3 Exit Signs",
+                                "hasExpanderArrow": false,
+                                "href": "#905.3",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "reference": "905.3"
+                            },
+                            {
+                                "amendType": null,
+                                "children": [],
+                                "depth": 2,
+                                "displayTitle": "905.4 Two-Way Communications Systems",
+                                "hasExpanderArrow": false,
+                                "href": "#905.4",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "reference": "905.4"
+                            }
+                        ],
+                        "depth": 1,
+                        "displayTitle": "905 Means of Egress",
+                        "hasExpanderArrow": true,
+                        "href": "#905",
+                        "isCodeDivider": false,
+                        "isCodeDividerClickable": false,
+                        "reference": "905"
+                    },
+                    {
+                        "amendType": null,
+                        "children": [
+                            {
+                                "amendType": "edit",
+                                "children": [],
+                                "depth": 2,
+                                "displayTitle": "906.1 General",
+                                "hasExpanderArrow": false,
+                                "href": "#906.1",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "reference": "906.1"
+                            },
+                            {
+                                "amendType": "edit",
+                                "children": [],
+                                "depth": 2,
+                                "displayTitle": "906.2 Existing Structural Elements Resisting Lateral Loads",
+                                "hasExpanderArrow": false,
+                                "href": "#906.2",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "reference": "906.2"
+                            },
+                            {
+                                "amendType": "deletion",
+                                "children": [],
+                                "depth": 2,
+                                "displayTitle": "<span class=\"code_deletion\">906.3</span> <span class=\"code_deletion\">Seismic Design Category F</span>",
+                                "hasExpanderArrow": false,
+                                "href": "#906.3",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "reference": "906.3"
+                            },
+                            {
+                                "amendType": "addition",
+                                "children": [
+                                    {
+                                        "amendType": "addition",
+                                        "children": [],
+                                        "depth": 3,
+                                        "displayTitle": "906.3.1 Compliance With Full Seismic Forces",
+                                        "hasExpanderArrow": false,
+                                        "href": "#new_906.3.1",
+                                        "isCodeDivider": false,
+                                        "isCodeDividerClickable": false,
+                                        "reference": "new_906.3.1"
+                                    },
+                                    {
+                                        "amendType": "addition",
+                                        "children": [],
+                                        "depth": 3,
+                                        "displayTitle": "906.3.2 Compliance With Reduced Seismic Forces",
+                                        "hasExpanderArrow": false,
+                                        "href": "#new_906.3.2",
+                                        "isCodeDivider": false,
+                                        "isCodeDividerClickable": false,
+                                        "reference": "new_906.3.2"
+                                    }
+                                ],
+                                "depth": 2,
+                                "displayTitle": "906.3 Seismic Evaluation and Design Procedures",
+                                "hasExpanderArrow": true,
+                                "href": "#new_906.3",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "reference": "new_906.3"
+                            },
+                            {
+                                "amendType": "deletion",
+                                "children": [],
+                                "depth": 2,
+                                "displayTitle": "<span class=\"code_deletion\">906.4</span> <span class=\"code_deletion\">Anchorage for Concrete and Masonry Buildings</span>",
+                                "hasExpanderArrow": false,
+                                "href": "#906.4",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "reference": "906.4"
+                            },
+                            {
+                                "amendType": "deletion",
+                                "children": [],
+                                "depth": 2,
+                                "displayTitle": "<span class=\"code_deletion\">906.5</span> <span class=\"code_deletion\">Anchorage for Unreinforced Masonry Walls</span>",
+                                "hasExpanderArrow": false,
+                                "href": "#906.5",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "reference": "906.5"
+                            },
+                            {
+                                "amendType": "deletion",
+                                "children": [],
+                                "depth": 2,
+                                "displayTitle": "<span class=\"code_deletion\">906.6</span> <span class=\"code_deletion\">Bracing for Unreinforced Masonry Parapets</span>",
+                                "hasExpanderArrow": false,
+                                "href": "#906.6",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "reference": "906.6"
+                            },
+                            {
+                                "amendType": "deletion",
+                                "children": [],
+                                "depth": 2,
+                                "displayTitle": "<span class=\"code_deletion\">906.7</span> <span class=\"code_deletion\">Anchorage of Unreinforced Masonry Partitions</span>",
+                                "hasExpanderArrow": false,
+                                "href": "#906.7",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "reference": "906.7"
+                            }
+                        ],
+                        "depth": 1,
+                        "displayTitle": "906 Structural",
+                        "hasExpanderArrow": true,
+                        "href": "#906",
+                        "isCodeDivider": false,
+                        "isCodeDividerClickable": false,
+                        "reference": "906"
+                    },
+                    {
+                        "amendType": null,
+                        "children": [
+                            {
+                                "amendType": "edit",
+                                "children": [],
+                                "depth": 2,
+                                "displayTitle": "907.1 Minimum Requirements",
+                                "hasExpanderArrow": false,
+                                "href": "#907.1",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "reference": "907.1"
+                            }
+                        ],
+                        "depth": 1,
+                        "displayTitle": "907 Energy Conservation",
+                        "hasExpanderArrow": true,
+                        "href": "#907",
+                        "isCodeDivider": false,
+                        "isCodeDividerClickable": false,
+                        "reference": "907"
+                    }
+                ],
+                "title": "Chapter 9 Alterations\u2014Level 3: North Carolina Existing Building Code 2024 | UpCodes",
+                "leanChapterLines": [
+                    {
+                        "displayTitle": "Chapter 1 Scope and Administration",
+                        "isExpandable": true,
+                        "reference": "1",
+                        "slug": "scope-and-administration"
+                    },
+                    {
+                        "displayTitle": "Chapter 2 Definitions",
+                        "isExpandable": true,
+                        "reference": "2",
+                        "slug": "definitions"
+                    },
+                    {
+                        "displayTitle": "Chapter 3 Provisions for All Compliance Methods",
+                        "isExpandable": true,
+                        "reference": "3",
+                        "slug": "provisions-for-all-compliance-methods"
+                    },
+                    {
+                        "displayTitle": "Chapter 4 Repairs",
+                        "isExpandable": true,
+                        "reference": "4",
+                        "slug": "repairs"
+                    },
+                    {
+                        "displayTitle": "Chapter 5 Prescriptive Compliance Method",
+                        "isExpandable": true,
+                        "reference": "5",
+                        "slug": "prescriptive-compliance-method"
+                    },
+                    {
+                        "displayTitle": "Chapter 6 Classification of Work",
+                        "isExpandable": true,
+                        "reference": "6",
+                        "slug": "classification-of-work"
+                    },
+                    {
+                        "displayTitle": "Chapter 7 Alterations\u2014Level 1",
+                        "isExpandable": true,
+                        "reference": "7",
+                        "slug": "alterations-level-1"
+                    },
+                    {
+                        "displayTitle": "Chapter 8 Alterations\u2014Level 2",
+                        "isExpandable": true,
+                        "reference": "8",
+                        "slug": "alterations-level-2"
+                    },
+                    {
+                        "displayTitle": "Chapter 9 Alterations\u2014Level 3",
+                        "isExpandable": true,
+                        "reference": "9",
+                        "slug": "alterations-level-3"
+                    },
+                    {
+                        "displayTitle": "Chapter 10 Change of Occupancy",
+                        "isExpandable": true,
+                        "reference": "10",
+                        "slug": "change-of-occupancy"
+                    },
+                    {
+                        "displayTitle": "Chapter 11 Additions",
+                        "isExpandable": true,
+                        "reference": "11",
+                        "slug": "additions"
+                    },
+                    {
+                        "displayTitle": "Chapter 12 Historic Buildings",
+                        "isExpandable": true,
+                        "reference": "12",
+                        "slug": "historic-buildings"
+                    },
+                    {
+                        "displayTitle": "Chapter 13 Performance Compliance Methods",
+                        "isExpandable": true,
+                        "reference": "13",
+                        "slug": "performance-compliance-methods"
+                    },
+                    {
+                        "displayTitle": "Chapter 14 Relocated or Moved Buildings",
+                        "isExpandable": true,
+                        "reference": "14",
+                        "slug": "relocated-or-moved-buildings"
+                    },
+                    {
+                        "displayTitle": "Chapter 15 Construction Safeguards",
+                        "isExpandable": true,
+                        "reference": "15",
+                        "slug": "construction-safeguards"
+                    },
+                    {
+                        "amendType": "edit",
+                        "displayTitle": "Chapter 16 Referenced Standards",
+                        "reference": "16",
+                        "slug": "referenced-standards"
+                    },
+                    {
+                        "disabled": true,
+                        "displayTitle": "Appendix A Guidelines for the Seismic Retrofit of Existing Buildings",
+                        "reference": "A",
+                        "slug": "guidelines-for-the-seismic-retrofit-of-existing-buildings"
+                    },
+                    {
+                        "amendType": "edit",
+                        "displayTitle": "Appendix B Supplementary Accessibility Requirements for Existing Buildings and Facilities",
+                        "hasChapterAdoption": true,
+                        "isExpandable": true,
+                        "reference": "B",
+                        "slug": "supplementary-accessibility-requirements-for-existing-buildings-and-facilities"
+                    },
+                    {
+                        "disabled": true,
+                        "displayTitle": "Appendix C Guidelines for the Wind Retrofit of Existing Buildings",
+                        "reference": "C",
+                        "slug": "guidelines-for-the-wind-retrofit-of-existing-buildings"
+                    },
+                    {
+                        "amendType": "deletion",
+                        "disabled": true,
+                        "displayTitle": "Appendix <span class=\"code_deletion\">D</span> <span class=\"code_deletion\">Board of Appeals</span>",
+                        "reference": "D",
+                        "slug": "board-of-appeals"
+                    }
+                ],
+                "leanCodeSectionsTree": [
+                    {
+                        "ancestorRefs": [],
+                        "body": "<div class=\"u-mt-4\"><div class=\"u-mt-3 u-mb-3 u-font-bold\">User note:</div><div class=\"u-mt-3 u-mb-3\"><span class=\"u-italic\"><span class=\"u-font-bold\">About this chapter</span>: Chapter 9 provides the technical requirements for those <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/north_carolina/iebc-2021/chapter/2/definitions#existing_building_\">existing buildings</a></span> that undergo Level 3 <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/north_carolina/iebc-2021/chapter/2/definitions#alteration_\">alterations</a></span>. The purpose of this chapter is to provide detailed requirements and provisions to identify the required improvements in the <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/north_carolina/iebc-2021/chapter/2/definitions#existing_building_\">existing building</a></span> elements, building spaces and building structural system. This chapter is distinguished from Chapters <a class=\"autolink\" href=\"/viewer/north_carolina/iebc-2021/chapter/7/alterations-level-1#7\">7</a> and <a class=\"autolink\" href=\"/viewer/north_carolina/iebc-2021/chapter/8/alterations-level-2#8\">8</a> by involving <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/north_carolina/iebc-2021/chapter/2/definitions#alteration_\">alterations</a></span> that cover 50 percent or more of the aggregate area of the building. In contrast, Level 1 <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/north_carolina/iebc-2021/chapter/2/definitions#alteration_\">alterations</a></span> do not involve space reconfiguration, and Level 2 <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/north_carolina/iebc-2021/chapter/2/definitions#alteration_\">alterations</a></span> involve extensive space reconfiguration that does not exceed 50 percent of the building area. Depending on the nature of <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/north_carolina/iebc-2021/chapter/2/definitions#alteration_\">alteration</a></span> work, its location within the building, and whether it encompasses one or more tenants, improvements and upgrades could be required for the open floor penetrations, sprinkler system or the installation of additional means of egress such as stairs or fire escapes. At times and under certain situations, this chapter also is intended to improve the safety of certain building features beyond the <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/north_carolina/iebc-2021/chapter/2/definitions#work_area_\">work area</a></span> and in other parts of the building where no <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/north_carolina/iebc-2021/chapter/2/definitions#alteration_\">alteration</a></span> work might be taking place.</span></div></div>",
+                        "depth": 0,
+                        "diagrams": [],
+                        "displayRef": null,
+                        "displayTitle": "Chapter 9 Alterations\u2014Level 3",
+                        "divisionType": "Chapter",
+                        "hasAssemblies": false,
+                        "isContiguous": true,
+                        "numAssembliesOnRef": 0,
+                        "numBuildingProductsOnRef": 0,
+                        "numDiagramsOnRef": 0,
+                        "reference": "9",
+                        "slug": "alterations-level-3",
+                        "titleText": "Alterations\u2014Level 3",
+                        "children": [
+                            {
+                                "ancestorRefs": [
+                                    "9"
+                                ],
+                                "depth": 1,
+                                "diagrams": [],
+                                "displayRef": null,
+                                "displayTitle": "Section 901 General",
+                                "divisionType": "Section",
+                                "hasAssemblies": false,
+                                "isContiguous": true,
+                                "numAssembliesOnRef": 0,
+                                "numBuildingProductsOnRef": 0,
+                                "numDiagramsOnRef": 0,
+                                "reference": "901",
+                                "slug": "alterations-level-3",
+                                "titleText": "General",
+                                "children": [
+                                    {
+                                        "ancestorRefs": [
+                                            "9",
+                                            "901"
+                                        ],
+                                        "body": "Level 3 <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/north_carolina/iebc-2021/chapter/2/definitions#alteration_\">alterations</a></span> as described in <a class=\"autolink\" href=\"/viewer/north_carolina/iebc-2021/chapter/6/classification-of-work#604\">Section 604</a> shall comply with the requirements of this chapter.",
+                                        "depth": 2,
+                                        "diagrams": [],
+                                        "displayRef": null,
+                                        "displayTitle": "901.1 Scope",
+                                        "hasAssemblies": false,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 0,
+                                        "numDiagramsOnRef": 0,
+                                        "reference": "901.1",
+                                        "slug": "alterations-level-3",
+                                        "titleText": "Scope",
+                                        "children": []
+                                    },
+                                    {
+                                        "amendType": "edit",
+                                        "ancestorRefs": [
+                                            "9",
+                                            "901"
+                                        ],
+                                        "body": "<div class=\"u-mt-3 u-mb-3\">In addition to the provisions of this chapter, work shall comply with all of the requirements of Chapters <a class=\"autolink\" href=\"/viewer/north_carolina/iebc-2021/chapter/7/alterations-level-1#7\">7</a> and <a class=\"autolink\" href=\"/viewer/north_carolina/iebc-2021/chapter/8/alterations-level-2#8\">8</a>. The requirements of Sections <a class=\"autolink\" href=\"/viewer/north_carolina/iebc-2021/chapter/8/alterations-level-2#803\">803</a>, <a class=\"autolink\" href=\"/viewer/north_carolina/iebc-2021/chapter/8/alterations-level-2#804\">804</a> and <a class=\"autolink\" href=\"/viewer/north_carolina/iebc-2021/chapter/8/alterations-level-2#805\">805</a> shall apply within all <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/north_carolina/iebc-2021/chapter/2/definitions#work_area_\">work areas</a></span> whether or not they include exits and corridors shared by more than one tenant and regardless of the occupant load.</div>\n<div class=\"u-mt-3 u-mb-3 u-ml-4\"><span class=\"u-font-bold\">Exception: </span> Buildings in which the reconfiguration of space affecting exits or shared egress access is exclusively the result of compliance with the accessibility requirements of <a class=\"autolink\" href=\"/viewer/north_carolina/iebc-2021/chapter/7/alterations-level-1#705.2\">Section <span class=\"code_addition\">705.2</span></a> shall not be required to comply with this chapter.</div>",
+                                        "depth": 2,
+                                        "diagrams": [],
+                                        "displayRef": null,
+                                        "displayTitle": "901.2 Compliance",
+                                        "hasAssemblies": false,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 0,
+                                        "numDiagramsOnRef": 0,
+                                        "reference": "901.2",
+                                        "slug": "alterations-level-3",
+                                        "titleText": "Compliance",
+                                        "children": []
+                                    }
+                                ]
+                            },
+                            {
+                                "ancestorRefs": [
+                                    "9"
+                                ],
+                                "depth": 1,
+                                "diagrams": [],
+                                "displayRef": null,
+                                "displayTitle": "Section 902 Special Use and Occupancy",
+                                "divisionType": "Section",
+                                "hasAssemblies": false,
+                                "isContiguous": true,
+                                "numAssembliesOnRef": 0,
+                                "numBuildingProductsOnRef": 0,
+                                "numDiagramsOnRef": 0,
+                                "reference": "902",
+                                "slug": "alterations-level-3",
+                                "titleText": "Special Use and Occupancy",
+                                "children": [
+                                    {
+                                        "amendType": "edit",
+                                        "ancestorRefs": [
+                                            "9",
+                                            "902"
+                                        ],
+                                        "body": "Any building having occupied floors more than 75 feet (22 860 mm) above the lowest level of fire department vehicle access shall comply with the requirements of Sections 902.1.1 <span class=\"code_addition\">through 902.1.3</span>.",
+                                        "depth": 2,
+                                        "diagrams": [],
+                                        "displayRef": null,
+                                        "displayTitle": "902.1 High-Rise Buildings",
+                                        "hasAssemblies": false,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 0,
+                                        "numDiagramsOnRef": 0,
+                                        "reference": "902.1",
+                                        "slug": "alterations-level-3",
+                                        "titleText": "High-Rise Buildings",
+                                        "children": [
+                                            {
+                                                "amendType": "edit",
+                                                "ancestorRefs": [
+                                                    "9",
+                                                    "902",
+                                                    "902.1"
+                                                ],
+                                                "body": "<span class=\"code_addition\">When</span> a floor is served by a recirculating air or exhaust system with a capacity greater than 15,000 cubic feet per minute (701 m<sup>3</sup>/s), that system shall be equipped with <span class=\"u-italic\">approved</span> smoke and heat detection devices installed in accordance with the <span class=\"u-italic\">International Mechanical Code</span>.",
+                                                "depth": 3,
+                                                "diagrams": [],
+                                                "displayRef": null,
+                                                "displayTitle": "902.1.1 Recirculating Air or Exhaust Systems",
+                                                "hasAssemblies": false,
+                                                "isContiguous": true,
+                                                "numAssembliesOnRef": 0,
+                                                "numBuildingProductsOnRef": 0,
+                                                "numDiagramsOnRef": 0,
+                                                "reference": "902.1.1",
+                                                "slug": "alterations-level-3",
+                                                "titleText": "Recirculating Air or Exhaust Systems",
+                                                "children": []
+                                            },
+                                            {
+                                                "amendType": "edit",
+                                                "ancestorRefs": [
+                                                    "9",
+                                                    "902",
+                                                    "902.1"
+                                                ],
+                                                "body": "Where there is an elevator or elevators for public use, <span class=\"code_addition\">at least</span> one elevator serving the <span class=\"u-italic\">work area</span> shall comply with this section. Existing elevators with a travel distance of 25 feet (7620 mm) or more above or below the main floor or other level of a building and intended to serve the needs of emergency personnel for fire-fighting or rescue purposes shall be provided with emergency operation in accordance with ASME A17.3. New elevators shall be provided with Phase I emergency recall operation and Phase II emergency in-car operation in accordance with ASME A17.1.",
+                                                "depth": 3,
+                                                "diagrams": [],
+                                                "displayRef": null,
+                                                "displayTitle": "902.1.2 Elevators",
+                                                "hasAssemblies": false,
+                                                "isContiguous": true,
+                                                "numAssembliesOnRef": 0,
+                                                "numBuildingProductsOnRef": 0,
+                                                "numDiagramsOnRef": 0,
+                                                "reference": "902.1.2",
+                                                "slug": "alterations-level-3",
+                                                "titleText": "Elevators",
+                                                "children": []
+                                            },
+                                            {
+                                                "amendType": "addition",
+                                                "ancestorRefs": [
+                                                    "9",
+                                                    "902",
+                                                    "902.1"
+                                                ],
+                                                "body": "Luminous egress markings shall be installed as required by Section 1025 of the <i>North Carolina Building Code</i>.",
+                                                "depth": 3,
+                                                "diagrams": [],
+                                                "displayRef": "902.1.3",
+                                                "displayTitle": "902.1.3 Luminous Egress Path Markings",
+                                                "hasAssemblies": false,
+                                                "isContiguous": true,
+                                                "numAssembliesOnRef": 0,
+                                                "numBuildingProductsOnRef": 0,
+                                                "numDiagramsOnRef": 0,
+                                                "reference": "new_902.1.3",
+                                                "slug": "alterations-level-3",
+                                                "titleText": "Luminous Egress Path Markings",
+                                                "children": []
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "amendType": "edit",
+                                        "ancestorRefs": [
+                                            "9",
+                                            "902"
+                                        ],
+                                        "body": "<div class=\"u-mb-3 u-mt-3\">Boiler and furnace equipment rooms adjacent to or within <span class=\"code_addition\">Groups</span> I-1, I-2, I-4, R-1, R-2 and R-4 occupancies shall be enclosed by 1-hour fire-resistance-rated construction.</div>\n<div class=\"u-ml-4\">\n<div class=\"u-mb-3\"><span class=\"u-font-bold\">Exceptions: </span></div>\n<ol>\n<li>Steam boiler equipment operating at pressures of 15 pounds per square inch gauge (psig) (103.4 <span class=\"code_addition\">KPa</span>) or less is not required to be enclosed.</li>\n<li>Hot water boilers operating at pressures of 170 psig (1171 <span class=\"code_addition\">KPa</span>) or less are not required to be enclosed.</li>\n<li>Furnace and boiler equipment with 400,000 British thermal units (Btu) (4.22 \u00d7 108 J) per hour input rating or less is not required to be enclosed.</li>\n<li>Furnace rooms protected with an automatic sprinkler system are not required to be enclosed.</li>\n</ol>\n</div>",
+                                        "depth": 2,
+                                        "diagrams": [],
+                                        "displayRef": null,
+                                        "displayTitle": "902.2 Boiler and Furnace Equipment Rooms",
+                                        "hasAssemblies": true,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 2,
+                                        "numBuildingProductsOnRef": 0,
+                                        "numDiagramsOnRef": 0,
+                                        "reference": "902.2",
+                                        "slug": "alterations-level-3",
+                                        "titleText": "Boiler and Furnace Equipment Rooms",
+                                        "children": []
+                                    },
+                                    {
+                                        "amendType": "addition",
+                                        "ancestorRefs": [
+                                            "9",
+                                            "902"
+                                        ],
+                                        "body": "Where the <a class=\"autolink\" href=\"/viewer/north_carolina/iebc-2021/chapter/2/definitions#work_area_\">work area</a> includes a Group H occupancy, the building shall comply with all the requirements of the <i>North Carolina Building Code</i> for the Group H occupancy.",
+                                        "depth": 2,
+                                        "diagrams": [],
+                                        "displayRef": "902.3",
+                                        "displayTitle": "902.3 Group H",
+                                        "hasAssemblies": false,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 0,
+                                        "numDiagramsOnRef": 0,
+                                        "reference": "new_902.3",
+                                        "slug": "alterations-level-3",
+                                        "titleText": "Group H",
+                                        "children": []
+                                    }
+                                ]
+                            },
+                            {
+                                "ancestorRefs": [
+                                    "9"
+                                ],
+                                "depth": 1,
+                                "diagrams": [],
+                                "displayRef": null,
+                                "displayTitle": "Section 903 Building Elements and Materials",
+                                "divisionType": "Section",
+                                "hasAssemblies": false,
+                                "isContiguous": true,
+                                "numAssembliesOnRef": 0,
+                                "numBuildingProductsOnRef": 0,
+                                "numDiagramsOnRef": 0,
+                                "reference": "903",
+                                "slug": "alterations-level-3",
+                                "titleText": "Building Elements and Materials",
+                                "children": [
+                                    {
+                                        "amendType": "edit",
+                                        "ancestorRefs": [
+                                            "9",
+                                            "903"
+                                        ],
+                                        "body": "Existing stairways that are part of the means of egress shall be enclosed in accordance with Section <span class=\"code_addition\">803.2.1</span> from the highest <span class=\"u-italic\">work area</span> floor to, and including, the level of exit discharge and all floors below.",
+                                        "depth": 2,
+                                        "diagrams": [],
+                                        "displayRef": null,
+                                        "displayTitle": "903.1 Existing Shafts and Vertical Openings",
+                                        "hasAssemblies": false,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 0,
+                                        "numDiagramsOnRef": 0,
+                                        "reference": "903.1",
+                                        "slug": "alterations-level-3",
+                                        "titleText": "Existing Shafts and Vertical Openings",
+                                        "children": []
+                                    },
+                                    {
+                                        "amendType": "edit",
+                                        "ancestorRefs": [
+                                            "9",
+                                            "903"
+                                        ],
+                                        "body": "Fire separation in Group R-3 occupancies shall be in accordance with Section 903.2.1.",
+                                        "depth": 2,
+                                        "diagrams": [],
+                                        "displayRef": null,
+                                        "displayTitle": "903.2 Fire <span class=\"code_deletion\">Partitions</span> <span class=\"code_addition\">Separation</span> in Group R-3",
+                                        "hasAssemblies": false,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 0,
+                                        "numDiagramsOnRef": 0,
+                                        "reference": "903.2",
+                                        "slug": "alterations-level-3",
+                                        "titleText": "Fire <span class=\"code_deletion\">Partitions</span> <span class=\"code_addition\">Separation</span> in Group R-3",
+                                        "children": [
+                                            {
+                                                "amendType": "edit",
+                                                "ancestorRefs": [
+                                                    "9",
+                                                    "903",
+                                                    "903.2"
+                                                ],
+                                                "body": "<div class=\"u-mb-3 u-mt-3\">Where the <span class=\"u-italic\">work area</span> is in any attached dwelling unit in Group R-3<span class=\"code_addition\">,</span> any multiple single-family dwelling (townhouse) <span class=\"code_addition\">or any two-family dwellings</span>, walls separating the dwelling units that are not continuous from the foundation to the underside of the roof sheathing shall be constructed to provide a continuous fire separation using construction materials consistent with the existing wall or complying with the requirements for new structures. <span class=\"code_addition\">All</span> work shall be performed on the side of the dwelling unit wall that is part of the <span class=\"u-italic\">work area</span>.</div>\n<div class=\"uc_exception\"><span class=\"u-font-bold\"><span class=\"code_addition\">Exceptions</span>:</span>\n<ol>\n<li>Where <i>alterations</i> or <i>repairs</i> do not result in the removal of wall or ceiling finishes exposing the structure, walls are not required to be continuous through concealed floor spaces.</li>\n<li class=\"code_addition\">If not currently existing, separation is not required in the crawl space of two-family dwellings.</li>\n</ol>\n</div>",
+                                                "depth": 3,
+                                                "diagrams": [],
+                                                "displayRef": null,
+                                                "displayTitle": "903.2.1 Separation Required",
+                                                "hasAssemblies": false,
+                                                "isContiguous": true,
+                                                "numAssembliesOnRef": 0,
+                                                "numBuildingProductsOnRef": 0,
+                                                "numDiagramsOnRef": 0,
+                                                "reference": "903.2.1",
+                                                "slug": "alterations-level-3",
+                                                "titleText": "Separation Required",
+                                                "children": []
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "amendType": "edit",
+                                        "ancestorRefs": [
+                                            "9",
+                                            "903"
+                                        ],
+                                        "body": "Interior finish in exits serving the <span class=\"u-italic\">work area</span> shall comply with Section <span class=\"code_addition\">803.4</span> between the highest floor on which there is a <span class=\"u-italic\">work area</span> to the floor of exit discharge.",
+                                        "depth": 2,
+                                        "diagrams": [],
+                                        "displayRef": null,
+                                        "displayTitle": "903.3 Interior Finish",
+                                        "hasAssemblies": false,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 0,
+                                        "numDiagramsOnRef": 0,
+                                        "reference": "903.3",
+                                        "slug": "alterations-level-3",
+                                        "titleText": "Interior Finish",
+                                        "children": []
+                                    },
+                                    {
+                                        "amendType": "edit",
+                                        "ancestorRefs": [
+                                            "9",
+                                            "903"
+                                        ],
+                                        "body": "In Group E occupancies, where the <span class=\"u-italic\">work area</span> is a Level 3 alteration, enhanced classroom acoustics shall comply with Section <span class=\"code_addition\">1207.5</span> of <span class=\"code_addition\">the <i>International Building Code</i> as required for new construction</span>.",
+                                        "depth": 2,
+                                        "diagrams": [],
+                                        "displayRef": null,
+                                        "displayTitle": "903.4 Enhanced Classroom Acoustics",
+                                        "hasAssemblies": false,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 0,
+                                        "numDiagramsOnRef": 0,
+                                        "reference": "903.4",
+                                        "slug": "alterations-level-3",
+                                        "titleText": "Enhanced Classroom Acoustics",
+                                        "children": []
+                                    }
+                                ]
+                            },
+                            {
+                                "ancestorRefs": [
+                                    "9"
+                                ],
+                                "depth": 1,
+                                "diagrams": [],
+                                "displayRef": null,
+                                "displayTitle": "Section 904 Fire Protection",
+                                "divisionType": "Section",
+                                "hasAssemblies": false,
+                                "isContiguous": true,
+                                "numAssembliesOnRef": 0,
+                                "numBuildingProductsOnRef": 0,
+                                "numDiagramsOnRef": 0,
+                                "reference": "904",
+                                "slug": "alterations-level-3",
+                                "titleText": "Fire Protection",
+                                "children": [
+                                    {
+                                        "ancestorRefs": [
+                                            "9",
+                                            "904"
+                                        ],
+                                        "body": "An automatic sprinkler system shall be provided in a <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/north_carolina/iebc-2021/chapter/2/definitions#work_area_\">work area</a></span> where required by <a class=\"autolink\" href=\"/viewer/north_carolina/iebc-2021/chapter/8/alterations-level-2#803.2\">Section 803.2</a> or this section.",
+                                        "depth": 2,
+                                        "diagrams": [],
+                                        "displayRef": null,
+                                        "displayTitle": "904.1 Automatic Sprinkler Systems",
+                                        "hasAssemblies": false,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 0,
+                                        "numDiagramsOnRef": 0,
+                                        "reference": "904.1",
+                                        "slug": "alterations-level-3",
+                                        "titleText": "Automatic Sprinkler Systems",
+                                        "children": [
+                                            {
+                                                "amendType": "edit",
+                                                "ancestorRefs": [
+                                                    "9",
+                                                    "904",
+                                                    "904.1"
+                                                ],
+                                                "body": "<span class=\"code_addition\">High-rise buildings constructed prior to 1978 shall at a minimum comply with North\nCarolina General Statute 143-138, Section (i). The statute may be viewed at the following web address:\n<a href=\"http://www.ncga.state.nc.us/EnactedLegislation/Statutes/HTML/BySection/Chapter_143/GS_143-138.html\" target=\"_blank\">http://www.ncga.state.nc.us/EnactedLegislation/Statutes/HTML/BySection/Chapter_143/GS_143-138.html.</a>\n</span>",
+                                                "depth": 3,
+                                                "diagrams": [],
+                                                "displayRef": null,
+                                                "displayTitle": "904.1.1 High-Rise Buildings",
+                                                "hasAssemblies": false,
+                                                "isContiguous": true,
+                                                "numAssembliesOnRef": 0,
+                                                "numBuildingProductsOnRef": 0,
+                                                "numDiagramsOnRef": 0,
+                                                "reference": "904.1.1",
+                                                "slug": "alterations-level-3",
+                                                "titleText": "High-Rise Buildings",
+                                                "children": []
+                                            },
+                                            {
+                                                "amendType": "deletion",
+                                                "ancestorRefs": [
+                                                    "9",
+                                                    "904",
+                                                    "904.1"
+                                                ],
+                                                "depth": 3,
+                                                "diagrams": [],
+                                                "displayRef": "<span class=\"code_deletion\">904.1.2</span>",
+                                                "displayTitle": "<span class=\"code_deletion\">904.1.2</span> <span class=\"code_deletion\">Rubbish and Linen Chutes</span>",
+                                                "hasAssemblies": false,
+                                                "isContiguous": true,
+                                                "numAssembliesOnRef": 0,
+                                                "numBuildingProductsOnRef": 0,
+                                                "numDiagramsOnRef": 0,
+                                                "reference": "904.1.2",
+                                                "slug": "alterations-level-3",
+                                                "titleText": "<span class=\"code_deletion\">Rubbish and Linen Chutes</span>",
+                                                "children": []
+                                            },
+                                            {
+                                                "amendType": "deletion",
+                                                "ancestorRefs": [
+                                                    "9",
+                                                    "904",
+                                                    "904.1"
+                                                ],
+                                                "depth": 3,
+                                                "diagrams": [],
+                                                "displayRef": "<span class=\"code_deletion\">904.1.3</span>",
+                                                "displayTitle": "<span class=\"code_deletion\">904.1.3</span> <span class=\"code_deletion\">Upholstered Furniture or Mattresses</span>",
+                                                "hasAssemblies": false,
+                                                "isContiguous": true,
+                                                "numAssembliesOnRef": 0,
+                                                "numBuildingProductsOnRef": 0,
+                                                "numDiagramsOnRef": 0,
+                                                "reference": "904.1.3",
+                                                "slug": "alterations-level-3",
+                                                "titleText": "<span class=\"code_deletion\">Upholstered Furniture or Mattresses</span>",
+                                                "children": []
+                                            },
+                                            {
+                                                "ancestorRefs": [
+                                                    "9",
+                                                    "904",
+                                                    "904.1"
+                                                ],
+                                                "body": "<div>In buildings with occupancies in Groups A, B, E, F-1, H, I-1, I-3, I-4, M, R-1, R-2, R-4, S-1 and S-2 <a class=\"autolink\" href=\"/viewer/north_carolina/iebc-2021/chapter/2/definitions#work_area_\">work areas</a> shall be provided with automatic sprinkler protection where all of the following conditions occur:\n<ol>\n<li>The <span class=\"u-italic\"> <a class=\"autolink\" href=\"/viewer/north_carolina/iebc-2021/chapter/2/definitions#work_area_\">work area</a></span> is required to be provided with automatic sprinkler protection in accordance with the <a class=\"autolink\" href=\"/viewer/north_carolina/ibc-2021\">International Building Code</a> as applicable to new construction.</li>\n<li>The building site has sufficient municipal water supply for design and installation of an automatic sprinkler system.</li>\n</ol>\n</div>\n<div class=\"u-ml-4\"><span class=\"u-font-bold\">Exception: </span> If the building site does not have sufficient municipal water supply for design of an automatic sprinkler system, <a class=\"autolink\" href=\"/viewer/north_carolina/iebc-2021/chapter/2/definitions#work_area_\">work areas</a> shall be protected by an automatic smoke detection system throughout all occupiable spaces other than sleeping units or individual dwelling units that activates the occupant notification system in accordance with Sections <a class=\"autolink\" href=\"/viewer/north_carolina/ibc-2021/chapter/9/fire-protection-and-life-safety-systems#907.4\">907.4</a>, <a class=\"autolink\" href=\"/viewer/north_carolina/ibc-2021/chapter/9/fire-protection-and-life-safety-systems#907.5\">907.5</a> and <a class=\"autolink\" href=\"/viewer/north_carolina/ibc-2021/chapter/9/fire-protection-and-life-safety-systems#907.6\">907.6</a> of the <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/north_carolina/ibc-2021\">International Building Code</a></span>.</div>",
+                                                "depth": 3,
+                                                "diagrams": [],
+                                                "displayRef": null,
+                                                "displayTitle": "904.1.4 Groups A, B, E, F-1, H, I-1, I-3, I-4, M, R-1, R-2, R-4, S-1 and S-2",
+                                                "hasAssemblies": false,
+                                                "isContiguous": true,
+                                                "numAssembliesOnRef": 0,
+                                                "numBuildingProductsOnRef": 0,
+                                                "numDiagramsOnRef": 0,
+                                                "reference": "904.1.4",
+                                                "slug": "alterations-level-3",
+                                                "titleText": "Groups A, B, E, F-1, H, I-1, I-3, I-4, M, R-1, R-2, R-4, S-1 and S-2",
+                                                "children": []
+                                            },
+                                            {
+                                                "amendType": "edit",
+                                                "ancestorRefs": [
+                                                    "9",
+                                                    "904",
+                                                    "904.1"
+                                                ],
+                                                "body": "In Group I-2 occupancies, an automatic sprinkler system installed in accordance with Section 903.3.1.1 of the <span class=\"u-italic\">International <span class=\"code_addition\">Building</span> Code</span> shall be provided in the following:\n<ol>\n<li>In Group I-2, Condition 1, throughout the <span class=\"u-italic\">work area</span>.</li>\n<li>In Group I-2, Condition 2, throughout the <span class=\"u-italic\">work area</span> where the <span class=\"u-italic\">work area</span> is 50 percent or less of the smoke compartment.</li>\n<li>In Group I-2, Condition 2, throughout the smoke compartment in which the work occurs where the <span class=\"u-italic\">work area</span> exceeds 50 percent of the smoke compartment.</li>\n</ol>",
+                                                "depth": 3,
+                                                "diagrams": [],
+                                                "displayRef": null,
+                                                "displayTitle": "904.1.5 Group I-2",
+                                                "hasAssemblies": false,
+                                                "isContiguous": true,
+                                                "numAssembliesOnRef": 0,
+                                                "numBuildingProductsOnRef": 0,
+                                                "numDiagramsOnRef": 0,
+                                                "reference": "904.1.5",
+                                                "slug": "alterations-level-3",
+                                                "titleText": "Group I-2",
+                                                "children": []
+                                            },
+                                            {
+                                                "ancestorRefs": [
+                                                    "9",
+                                                    "904",
+                                                    "904.1"
+                                                ],
+                                                "body": "Work located in a windowless story, as determined in accordance with the <a class=\"autolink\" href=\"/viewer/north_carolina/ibc-2021\">International Building Code</a>, shall be sprinklered where the <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/north_carolina/iebc-2021/chapter/2/definitions#work_area_\">work area</a></span> is required to be sprinklered under the provisions of the <a class=\"autolink\" href=\"/viewer/north_carolina/ibc-2021\">International Building Code</a> for newly constructed buildings and the building site has a sufficient municipal water supply for the design and installation of an automatic sprinkler system.",
+                                                "depth": 3,
+                                                "diagrams": [],
+                                                "displayRef": null,
+                                                "displayTitle": "904.1.6 Windowless Stories",
+                                                "hasAssemblies": false,
+                                                "isContiguous": true,
+                                                "numAssembliesOnRef": 0,
+                                                "numBuildingProductsOnRef": 0,
+                                                "numDiagramsOnRef": 0,
+                                                "reference": "904.1.6",
+                                                "slug": "alterations-level-3",
+                                                "titleText": "Windowless Stories",
+                                                "children": []
+                                            },
+                                            {
+                                                "amendType": "edit",
+                                                "ancestorRefs": [
+                                                    "9",
+                                                    "904",
+                                                    "904.1"
+                                                ],
+                                                "body": "<div class=\"u-mt-3 u-mb-3\">In buildings and areas listed in Table 903.2.11.6 of the <span class=\"u-italic\"><span class=\"code_addition\">North Carolina</span> Building Code</span>, <span class=\"u-italic\">work areas</span> <span class=\"code_addition\">that have exits or corridors shared by more than one tenant or that have exits or corridors serving an occupant load greater than 30</span> shall be provided with an automatic sprinkler system under the following conditions:</div>\n<ol>\n<li>The <span class=\"u-italic\">work area</span> is required to be provided with an automatic sprinkler system in accordance with the <span class=\"u-italic\"><span class=\"code_addition\">North Carolina</span> Building Code</span> applicable to new construction<span class=\"code_addition\">;</span></li>\n<li>The building has sufficient municipal water supply for design of an automatic sprinkler system <span class=\"code_addition\">available to the floor without installation of a new water storage tank; and</span></li>\n<li class=\"code_addition\">The work area is separated from the remainder of the building with fire barriers complying with the <i>North Carolina Building Code</i>.</li>\n</ol>",
+                                                "depth": 3,
+                                                "diagrams": [],
+                                                "displayRef": null,
+                                                "displayTitle": "904.1.7 Other Required Automatic Sprinkler Systems",
+                                                "hasAssemblies": false,
+                                                "isContiguous": true,
+                                                "numAssembliesOnRef": 0,
+                                                "numBuildingProductsOnRef": 0,
+                                                "numDiagramsOnRef": 0,
+                                                "reference": "904.1.7",
+                                                "slug": "alterations-level-3",
+                                                "titleText": "Other Required Automatic Sprinkler Systems",
+                                                "children": []
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "amendType": "edit",
+                                        "ancestorRefs": [
+                                            "9",
+                                            "904"
+                                        ],
+                                        "body": "Fire alarm and detection shall be provided in accordance with <span class=\"code_addition\">804.4</span>.",
+                                        "depth": 2,
+                                        "diagrams": [],
+                                        "displayRef": null,
+                                        "displayTitle": "904.2 Fire Alarm and Detection Systems",
+                                        "hasAssemblies": false,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 0,
+                                        "numDiagramsOnRef": 0,
+                                        "reference": "904.2",
+                                        "slug": "alterations-level-3",
+                                        "titleText": "Fire Alarm and Detection Systems",
+                                        "children": [
+                                            {
+                                                "ancestorRefs": [
+                                                    "9",
+                                                    "904",
+                                                    "904.2"
+                                                ],
+                                                "body": "<div class=\"u-mt-3 u-mb-3\">Where required by the <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/north_carolina/ibc-2021\">International Building Code</a></span>, a manual fire alarm system shall be provided throughout the <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/north_carolina/iebc-2021/chapter/2/definitions#work_area_\">work area</a></span>. Alarm notification appliances shall be provided on such floors and shall be automatically activated as required by the <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/north_carolina/ibc-2021\">International Building Code</a></span>.</div><div class=\"u-ml-4\"><div class=\"u-mb-3\"><span class=\"u-font-bold\">Exceptions: </span></div><ol><li>Alarm-initiating and notification appliances shall not be required to be installed in tenant spaces outside of the <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/north_carolina/iebc-2021/chapter/2/definitions#work_area_\">work area</a></span>.</li><li>Visual alarm notification appliances are not required, except where an existing alarm system is upgraded or replaced or where a new fire alarm system is installed.</li></ol></div>",
+                                                "depth": 3,
+                                                "diagrams": [],
+                                                "displayRef": null,
+                                                "displayTitle": "904.2.1 Manual Fire Alarm Systems",
+                                                "hasAssemblies": false,
+                                                "isContiguous": true,
+                                                "numAssembliesOnRef": 0,
+                                                "numBuildingProductsOnRef": 0,
+                                                "numDiagramsOnRef": 0,
+                                                "reference": "904.2.1",
+                                                "slug": "alterations-level-3",
+                                                "titleText": "Manual Fire Alarm Systems",
+                                                "children": []
+                                            },
+                                            {
+                                                "ancestorRefs": [
+                                                    "9",
+                                                    "904",
+                                                    "904.2"
+                                                ],
+                                                "body": "Where required by the <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/north_carolina/ibc-2021\">International Building Code</a></span> for new buildings, automatic fire detection systems shall be provided throughout the <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/north_carolina/iebc-2021/chapter/2/definitions#work_area_\">work area</a></span>.",
+                                                "depth": 3,
+                                                "diagrams": [],
+                                                "displayRef": null,
+                                                "displayTitle": "904.2.2 Automatic Fire Detection",
+                                                "hasAssemblies": false,
+                                                "isContiguous": true,
+                                                "numAssembliesOnRef": 0,
+                                                "numBuildingProductsOnRef": 0,
+                                                "numDiagramsOnRef": 0,
+                                                "reference": "904.2.2",
+                                                "slug": "alterations-level-3",
+                                                "titleText": "Automatic Fire Detection",
+                                                "children": []
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "amendType": "addition",
+                                        "ancestorRefs": [
+                                            "9",
+                                            "904"
+                                        ],
+                                        "body": "Where the <i><a class=\"autolink\" href=\"/viewer/north_carolina/iebc-2021/chapter/2/definitions#work_area_\">work area</a></i> includes exits or corridors shared by more than one tenant and is located more than 30 feet (15 240 mm) above or below the lowest level of fire department access, a standpipe system shall be provided. Standpipes shall have an <a class=\"autolink\" href=\"/viewer/north_carolina/iebc-2021/chapter/2/definitions#approved_\">approved</a> fire department connection with hose connections at each floor level above or below the lowest level of fire department access. Standpipe systems shall be installed in accordance with the <i>North Carolina Building Code</i>. Standpipes systems shall be provided for high-rise buildings as required by North Carolina General Statute 143-138, Section (i).\n<div class=\"uc_exception\"><span class=\"u-font-bold\">Exception:</span> The interconnection of multiple standpipe risers shall not be required.</div>",
+                                        "depth": 2,
+                                        "diagrams": [],
+                                        "displayRef": "904.3",
+                                        "displayTitle": "904.3 Standpipes",
+                                        "hasAssemblies": false,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 0,
+                                        "numDiagramsOnRef": 0,
+                                        "reference": "new_904.3",
+                                        "slug": "alterations-level-3",
+                                        "titleText": "Standpipes",
+                                        "children": []
+                                    }
+                                ]
+                            },
+                            {
+                                "ancestorRefs": [
+                                    "9"
+                                ],
+                                "depth": 1,
+                                "diagrams": [],
+                                "displayRef": null,
+                                "displayTitle": "Section 905 Means of Egress",
+                                "divisionType": "Section",
+                                "hasAssemblies": false,
+                                "isContiguous": true,
+                                "numAssembliesOnRef": 0,
+                                "numBuildingProductsOnRef": 0,
+                                "numDiagramsOnRef": 0,
+                                "reference": "905",
+                                "slug": "alterations-level-3",
+                                "titleText": "Means of Egress",
+                                "children": [
+                                    {
+                                        "amendType": "edit",
+                                        "ancestorRefs": [
+                                            "9",
+                                            "905"
+                                        ],
+                                        "body": "The means of egress shall comply with the requirements of Section <span class=\"code_addition\">805</span> except as specifically required in Sections 905.2 and 905.3.",
+                                        "depth": 2,
+                                        "diagrams": [],
+                                        "displayRef": null,
+                                        "displayTitle": "905.1 General",
+                                        "hasAssemblies": false,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 0,
+                                        "numDiagramsOnRef": 0,
+                                        "reference": "905.1",
+                                        "slug": "alterations-level-3",
+                                        "titleText": "General",
+                                        "children": []
+                                    },
+                                    {
+                                        "ancestorRefs": [
+                                            "9",
+                                            "905"
+                                        ],
+                                        "body": "Means of egress from the highest <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/north_carolina/iebc-2021/chapter/2/definitions#work_area_\">work area</a></span> floor to the floor of exit discharge shall be provided with artificial lighting within the exit enclosure in accordance with the requirements of the <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/north_carolina/ibc-2021\">International Building Code</a></span>.",
+                                        "depth": 2,
+                                        "diagrams": [
+                                            {
+                                                "key": "artificial_light",
+                                                "title": "Artificial Light",
+                                                "descriptionHtml": "<div>Where natural lighting is not provided in spaces intended for human occupancy artificial lighting is required.  The artificial light is required to achieve an average illumination level of 10 footcandles on an imaginary plane 30\" above the entire floor of the space.</div>",
+                                                "topics": [
+                                                    "Electrical"
+                                                ],
+                                                "phases": [
+                                                    "Construction Docs"
+                                                ],
+                                                "supressesChildrenAssociations": false,
+                                                "blacklistJurisdictions": [],
+                                                "whitelistJurisdictions": [],
+                                                "imageType": "svg"
+                                            },
+                                            {
+                                                "key": "means_of_egress_illum",
+                                                "title": "Means of Egress Illumination",
+                                                "descriptionHtml": "<div>The means of egress, path of travel from inside of a structure through the exit to the public way, must be illuminated under normal power, whenever the building is occupied. Illumination must be a minimum of 1 foot candle at the floor. This applies to all occupancy types except for Group U, dwelling and sleeping units in R-1, R-2, R-3, and Group I occupancies. In performance venues, Group A, the minimum foot candle requirement can be reduced to 0.2 in aisles and self-luminous lighting is permitted to be used. In Group-I illumination must be maintained at 1 foot candle throughout the path of egress, through exterior landings and discharge, and into the public way. Upon loss of power, emergency egress illumination must meet 1008.3.</div>",
+                                                "topics": [
+                                                    "Egress",
+                                                    "Electrical"
+                                                ],
+                                                "phases": [
+                                                    "Construction Docs",
+                                                    "Construction Phase"
+                                                ],
+                                                "supressesChildrenAssociations": false,
+                                                "blacklistJurisdictions": [
+                                                    "california",
+                                                    "los_angeles",
+                                                    "san_francisco",
+                                                    "san-jose",
+                                                    "los-angeles-county",
+                                                    "san-diego",
+                                                    "washington",
+                                                    "seattle"
+                                                ],
+                                                "whitelistJurisdictions": [],
+                                                "imageType": "svg"
+                                            }
+                                        ],
+                                        "displayRef": null,
+                                        "displayTitle": "905.2 Means-of-Egress Lighting",
+                                        "hasAssemblies": false,
+                                        "hasDiagrams": true,
+                                        "hasDiagramsOnRef": true,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 0,
+                                        "numDiagramsOnRef": 2,
+                                        "reference": "905.2",
+                                        "slug": "alterations-level-3",
+                                        "titleText": "Means-of-Egress Lighting",
+                                        "children": []
+                                    },
+                                    {
+                                        "ancestorRefs": [
+                                            "9",
+                                            "905"
+                                        ],
+                                        "body": "Means of egress from the highest <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/north_carolina/iebc-2021/chapter/2/definitions#work_area_\">work area</a></span> floor to the floor of exit discharge shall be provided with exit signs in accordance with the requirements of the <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/north_carolina/ibc-2021\">International Building Code</a></span>.",
+                                        "depth": 2,
+                                        "diagrams": [
+                                            {
+                                                "key": "exit_signs_required_locations",
+                                                "title": "Exit Signs: Where Required",
+                                                "descriptionHtml": "<div>Exit signs are required to be posted at exit doors and in the direction of egress. These signs must be visible from any direction. These can be either internally, or externally, illuminated, and must be lighted and visible at all times. The \"EXIT\" lettering must be within the minimum dimensions of this code and is to be in a contrasting color from the background (typically this is red or green lettering on a white background).</div>",
+                                                "topics": [
+                                                    "Egress",
+                                                    "Fire"
+                                                ],
+                                                "phases": [
+                                                    "Construction Docs",
+                                                    "Construction Phase"
+                                                ],
+                                                "supressesChildrenAssociations": false,
+                                                "blacklistJurisdictions": [],
+                                                "whitelistJurisdictions": [],
+                                                "imageType": "svg"
+                                            },
+                                            {
+                                                "key": "exit_signs",
+                                                "title": "Exit Signs: Size Requirements",
+                                                "descriptionHtml": "<div>Exit signs are required to be posted at exit doors and in the direction of egress. These signs must be visible from any direction. These can be either internally, or externally, illuminated, and must be lighted and visible at all times. The \"EXIT\" lettering must be within the minimum dimensions of this code and is to be in a contrasting color from the background (typically this is red or green lettering on a white background). </div>",
+                                                "topics": [
+                                                    "Egress",
+                                                    "Fire"
+                                                ],
+                                                "phases": [
+                                                    "Construction Docs",
+                                                    "Construction Phase"
+                                                ],
+                                                "supressesChildrenAssociations": false,
+                                                "blacklistJurisdictions": [],
+                                                "whitelistJurisdictions": [],
+                                                "imageType": "svg"
+                                            }
+                                        ],
+                                        "displayRef": null,
+                                        "displayTitle": "905.3 Exit Signs",
+                                        "hasAssemblies": false,
+                                        "hasDiagrams": true,
+                                        "hasDiagramsOnRef": true,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 0,
+                                        "numDiagramsOnRef": 2,
+                                        "reference": "905.3",
+                                        "slug": "alterations-level-3",
+                                        "titleText": "Exit Signs",
+                                        "children": []
+                                    },
+                                    {
+                                        "ancestorRefs": [
+                                            "9",
+                                            "905"
+                                        ],
+                                        "body": "In buildings with elevator service, a two-way communication system shall be provided where required by <a class=\"autolink\" href=\"/viewer/north_carolina/ibc-2021/chapter/10/means-of-egress#1009.8\">Section 1009.8</a> of the <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/north_carolina/ibc-2021\">International Building Code</a></span>.",
+                                        "depth": 2,
+                                        "diagrams": [],
+                                        "displayRef": null,
+                                        "displayTitle": "905.4 Two-Way Communications Systems",
+                                        "hasAssemblies": false,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 0,
+                                        "numDiagramsOnRef": 0,
+                                        "reference": "905.4",
+                                        "slug": "alterations-level-3",
+                                        "titleText": "Two-Way Communications Systems",
+                                        "children": []
+                                    }
+                                ]
+                            },
+                            {
+                                "ancestorRefs": [
+                                    "9"
+                                ],
+                                "depth": 1,
+                                "diagrams": [],
+                                "displayRef": null,
+                                "displayTitle": "Section 906 Structural",
+                                "divisionType": "Section",
+                                "hasAssemblies": false,
+                                "isContiguous": true,
+                                "numAssembliesOnRef": 0,
+                                "numBuildingProductsOnRef": 0,
+                                "numDiagramsOnRef": 0,
+                                "reference": "906",
+                                "slug": "alterations-level-3",
+                                "titleText": "Structural",
+                                "children": [
+                                    {
+                                        "amendType": "edit",
+                                        "ancestorRefs": [
+                                            "9",
+                                            "906"
+                                        ],
+                                        "body": "Where buildings are undergoing Level 3 <span class=\"code_addition\"><i><a class=\"autolink\" href=\"/viewer/north_carolina/iebc-2021/chapter/2/definitions#alteration_\">alterations</a></i> including structural</span> <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/north_carolina/iebc-2021/chapter/2/definitions#alteration_\">alterations</a></span>, the provisions of this section shall apply.",
+                                        "depth": 2,
+                                        "diagrams": [],
+                                        "displayRef": null,
+                                        "displayTitle": "[BS]  906.1 General",
+                                        "hasAssemblies": false,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 0,
+                                        "numDiagramsOnRef": 0,
+                                        "reference": "906.1",
+                                        "refPrefix": "[BS]",
+                                        "slug": "alterations-level-3",
+                                        "titleText": "General",
+                                        "children": []
+                                    },
+                                    {
+                                        "amendType": "edit",
+                                        "ancestorRefs": [
+                                            "9",
+                                            "906"
+                                        ],
+                                        "body": "<span class=\"code_addition\">Existing structural elements resisting lateral loads shall comply with <a class=\"autolink\" href=\"/viewer/north_carolina/iebc-2021/chapter/8/alterations-level-2#805.3\">Section 805.3</a>. Sections <a class=\"autolink\" href=\"/viewer/north_carolina/iebc-2021/chapter/5/prescriptive-compliance-method#503.4\">503.4</a> through <a class=\"autolink\" href=\"/viewer/north_carolina/iebc-2021/chapter/5/prescriptive-compliance-method#503.11\">503.11</a> shall apply when existing elements of the lateral force-resisting system have been damaged due to a wind or seismic event. <a class=\"autolink\" href=\"/viewer/north_carolina/iebc-2021/chapter/2/definitions#repair_\">Repair</a> work such as termite or rot damage shall comply with <a class=\"autolink\" href=\"/viewer/north_carolina/iebc-2021/chapter/6/classification-of-work#606.1\">Section 606.1</a>.</span>\n<div class=\"u-mt-4 u-ml-4\">\n<div class=\"u-mb-3\"><span class=\"u-font-bold\">Exceptions: </span></div>\n<ol>\n    <li>\n        Buildings of Group R occupancy with not more than five dwelling or sleeping units used solely for residential purposes that are altered based on the conventional light-frame construction methods of the <span class=\"u-italic\">International Building Code</span> or in compliance with the provisions of the <span class=\"u-italic\">International Residential Code</span>.\n    </li>\n    <li>\n        <span class=\"code_addition\">Deleted.</span>\n    </li>\n</ol>\n</div>",
+                                        "depth": 2,
+                                        "diagrams": [],
+                                        "displayRef": null,
+                                        "displayTitle": "[BS]  906.2 Existing Structural Elements Resisting Lateral Loads",
+                                        "hasAssemblies": false,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 0,
+                                        "numDiagramsOnRef": 0,
+                                        "reference": "906.2",
+                                        "refPrefix": "[BS]",
+                                        "slug": "alterations-level-3",
+                                        "titleText": "Existing Structural Elements Resisting Lateral Loads",
+                                        "children": []
+                                    },
+                                    {
+                                        "amendType": "deletion",
+                                        "ancestorRefs": [
+                                            "9",
+                                            "906"
+                                        ],
+                                        "depth": 2,
+                                        "diagrams": [],
+                                        "displayRef": "<span class=\"code_deletion\">906.3</span>",
+                                        "displayTitle": "[BS]  <span class=\"code_deletion\">906.3</span> <span class=\"code_deletion\">Seismic Design Category F</span>",
+                                        "hasAssemblies": false,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 0,
+                                        "numDiagramsOnRef": 0,
+                                        "reference": "906.3",
+                                        "refPrefix": "[BS]",
+                                        "slug": "alterations-level-3",
+                                        "titleText": "<span class=\"code_deletion\">Seismic Design Category F</span>",
+                                        "children": []
+                                    },
+                                    {
+                                        "amendType": "addition",
+                                        "ancestorRefs": [
+                                            "9",
+                                            "906"
+                                        ],
+                                        "body": "Where required, seismic evaluation or design shall be based on the\nprocedures and criteria in this section.\n<div class=\"uc_exception\"><span class=\"u-font-bold\">Exception:</span>\nSeismic requirements shall not apply to detached one- and two-family dwellings.\n\n</div>",
+                                        "depth": 2,
+                                        "diagrams": [],
+                                        "displayRef": "906.3",
+                                        "displayTitle": "[BS]  906.3 Seismic Evaluation and Design Procedures",
+                                        "hasAssemblies": false,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 0,
+                                        "numDiagramsOnRef": 0,
+                                        "reference": "new_906.3",
+                                        "refPrefix": "[BS]",
+                                        "slug": "alterations-level-3",
+                                        "titleText": "Seismic Evaluation and Design Procedures",
+                                        "children": [
+                                            {
+                                                "amendType": "addition",
+                                                "ancestorRefs": [
+                                                    "9",
+                                                    "906",
+                                                    "new_906.3"
+                                                ],
+                                                "body": "Where compliance requires the use of full <a class=\"autolink\" href=\"/viewer/north_carolina/iebc-2021/chapter/2/definitions#seismic_forces_\">seismic forces</a>, the criteria shall be in accordance with one of the following:\n<ol>\n<li>One-hundred percent of the values in the <i>International Building Code</i>. Where the existing seismic force-resisting system is a type that can be designated as \"Ordinary,\" values of R, \u03a90 and Cd used for analysis in accordance with <a class=\"autolink\" href=\"/viewer/north_carolina/ibc-2021/chapter/16/structural-design#16\">Chapter 16</a> of the <i>International Building Code</i> shall be those specified for structural systems classified as \"Ordinary\" in accordance with Table 12.2-1 of ASCE 7, unless it can be demonstrated that the structural system will provide performance equivalent to that of a \"Detailed,\" \"Intermediate\" or \"Special\" system.</li>\n<li>ASCE 41, using a Tier 3 procedure and the two-level performance objective in Table 906.3.1 for the applicable <i><a class=\"autolink\" href=\"/viewer/north_carolina/iebc-2021/chapter/2/definitions#risk_category_\">risk category</a></i>.</li>\n</ol>\n<table class=\"uc_table uc_all_borders\"><colgroup><col/><col/><col/></colgroup><caption>[BS] <a id=\"table_906.3.1\" href=\"#table_906.3.1\" class=\"autolink_target\">TABLE 906.3.1 </a><br/>PERFORMANCE OBJECTIVES FOR USE IN ASCE 41 FOR COMPLIANCE WITH FULL <a class=\"autolink\" href=\"/viewer/north_carolina/iebc-2021/chapter/2/definitions#seismic_forces_\">SEISMIC FORCES</a></caption>\n<tbody>\n<tr>\n<th>\n<div class=\"u-text-center\"><a class=\"autolink\" href=\"/viewer/north_carolina/iebc-2021/chapter/2/definitions#risk_category_\">RISK CATEGORY</a> (Based on IBC Table 1604.5)</div>\n</th>\n<th>\n<div class=\"u-text-center\">STRUCTURAL PERFORMANCE LEVEL FOR USE WITH BSE-1N EARTHQUAKE HAZARD LEVEL</div>\n</th>\n<th>\n<div class=\"u-text-center\">STRUCTURAL PERFORMANCE LEVEL FOR USE WITH BSE-2N EARTHQUAKE HAZARD LEVEL</div>\n</th>\n</tr>\n<tr>\n<td>\n<div class=\"u-text-center\">I</div>\n</td>\n<td>\n<div class=\"u-text-center\">Life Safety</div>\n<div class=\"u-text-center\">(S-3)&nbsp;</div>\n</td>\n<td>\n<div class=\"u-text-center\">Collapse Prevention (S-5)</div>\n</td>\n</tr>\n<tr>\n<td>\n<div class=\"u-text-center\">II</div>\n</td>\n<td>\n<div class=\"u-text-center\">Life Safety</div>\n<div class=\"u-text-center\">(S-3)&nbsp;</div>\n</td>\n<td>\n<div class=\"u-text-center\">Collapse Prevention (S-5)</div>\n</td>\n</tr>\n<tr>\n<td>\n<div class=\"u-text-center\">III</div>\n</td>\n<td>\n<div class=\"u-text-center\">Damage Control</div>\n<div class=\"u-text-center\">(S-2)</div>\n</td>\n<td>\n<div class=\"u-text-center\">Limited Safety</div>\n<div class=\"u-text-center\">(S-4)</div>\n</td>\n</tr>\n<tr>\n<td>\n<div class=\"u-text-center\">IV</div>\n</td>\n<td>\n<div class=\"u-text-center\">Immediate Occupancy (S-1)</div>\n</td>\n<td>\n<div class=\"u-text-center\">Life Safety</div>\n<div class=\"u-text-center\">(S-3)</div>\n</td>\n</tr>\n</tbody>\n</table>",
+                                                "depth": 3,
+                                                "diagrams": [],
+                                                "displayRef": "906.3.1",
+                                                "displayTitle": "[BS]  906.3.1 Compliance With Full Seismic Forces",
+                                                "hasAssemblies": false,
+                                                "isContiguous": true,
+                                                "numAssembliesOnRef": 0,
+                                                "numBuildingProductsOnRef": 0,
+                                                "numDiagramsOnRef": 0,
+                                                "reference": "new_906.3.1",
+                                                "refPrefix": "[BS]",
+                                                "slug": "alterations-level-3",
+                                                "titleText": "Compliance With Full Seismic Forces",
+                                                "children": []
+                                            },
+                                            {
+                                                "amendType": "addition",
+                                                "ancestorRefs": [
+                                                    "9",
+                                                    "906",
+                                                    "new_906.3"
+                                                ],
+                                                "body": "Where seismic evaluation and design is permitted to use reduced <a class=\"autolink\" href=\"/viewer/north_carolina/iebc-2021/chapter/2/definitions#seismic_forces_\">seismic forces</a>, the criteria used shall be in accordance with one of the following:\n<ol class=\"u-list-decimal-separated\">\n<li>The <i>International Building Code</i> using 75 percent of the prescribed forces. Values of <i>R, \u03a9<sub>0</sub></i> and <i>C<sub>d</sub></i> used for analysis shall be as specified in <a class=\"autolink\" href=\"#new_906.3.1\">Section 906.3.1</a> of this code.</li>\n<li>Structures or portions of structures that comply with the requirements of the applicable chapter in Appendix A as specified in Items 2.1 through 2.4 and subject to the limitations of the respective Appendix A chapters shall be deemed to comply with this section.\n<ol class=\"u-list-decimal-separated\">\n<li>The seismic evaluation and design of <a class=\"autolink\" href=\"/viewer/north_carolina/iebc-2021/chapter/A/guidelines-for-the-seismic-retrofit-of-existing-buildings#unreinforced_masonry_bearing_wall\">unreinforced masonry bearing wall</a> buildings in <i><a class=\"autolink\" href=\"/viewer/north_carolina/iebc-2021/chapter/2/definitions#risk_category_\">Risk Category</a></i> I or II are permitted to be based on the procedures specified in Appendix Chapter A1.</li>\n<li>Seismic evaluation and design of the wall anchorage system in reinforced concrete and reinforced masonry wall buildings with <a class=\"autolink\" href=\"/viewer/north_carolina/iebc-2021/chapter/A/guidelines-for-the-seismic-retrofit-of-existing-buildings#flexible_diaphragm\">flexible diaphragms</a> in <i><a class=\"autolink\" href=\"/viewer/north_carolina/iebc-2021/chapter/2/definitions#risk_category_\">Risk Category</a></i> I or II are permitted to be based on the procedures specified in Chapter A2.</li>\n<li>Seismic evaluation and design of cripple walls and sill plate anchorage in residential buildings of light-frame wood construction in <i><a class=\"autolink\" href=\"/viewer/north_carolina/iebc-2021/chapter/2/definitions#risk_category_\">Risk Category</a></i> I or II are permitted to be based on the procedures specified in Chapter A3.</li>\n<li>Seismic evaluation and design of soft, weak or <a class=\"autolink\" href=\"/viewer/north_carolina/iebc-2021/chapter/A/guidelines-for-the-seismic-retrofit-of-existing-buildings#open_front\">open-front</a> wall conditions in multiple-unit residential buildings of wood construction in <i><a class=\"autolink\" href=\"/viewer/north_carolina/iebc-2021/chapter/2/definitions#risk_category_\">Risk Category</a></i> I or II are permitted to be based on the procedures specified in Chapter A4.</li>\n</ol>\n</li>\n<li>ASCE 41, using the performance objective in Table 906.3.2 for the applicable <i><a class=\"autolink\" href=\"/viewer/north_carolina/iebc-2021/chapter/2/definitions#risk_category_\">risk category</a></i>. <br/><br/>\n<table class=\"uc_table uc_all_borders\"><colgroup><col/><col/><col/></colgroup><caption>[BS] <a id=\"table_906.3.2\" href=\"#table_906.3.2\" class=\"autolink_target\">TABLE 906.3.2</a><br/>PERFORMANCE OBJECTIVES FOR USE IN ASCE 41 FOR COMPLIANCE WITH REDUCED <a class=\"autolink\" href=\"/viewer/north_carolina/iebc-2021/chapter/2/definitions#seismic_forces_\">SEISMIC FORCES</a></caption>\n<tbody>\n<tr>\n<th>\n<div class=\"u-text-center\"><a class=\"autolink\" href=\"/viewer/north_carolina/iebc-2021/chapter/2/definitions#risk_category_\">RISK CATEGORY</a> (Based on IBC Table 1604.5)</div>\n</th>\n<th>\n<div class=\"u-text-center\">STRUCTURAL PERFORMANCE LEVEL FOR USE WITH BSE-1E EARTHQUAKE HAZARD LEVEL</div>\n</th>\n<th>\n<div class=\"u-text-center\">STRUCTURAL PERFORMANCE LEVEL FOR USE WITH BSE-2E EARTHQUAKE HAZARD LEVEL</div>\n</th>\n</tr>\n<tr>\n<td>I</td>\n<td>\n<div class=\"u-text-center\">Life Safety (S-3).</div>\n<div class=\"u-text-center\">See Note a</div>\n</td>\n<td>\n<div class=\"u-text-center\">Collapse Prevention</div>\n<div class=\"u-text-center\">(S-5)</div>\n</td>\n</tr>\n<tr>\n<td>II</td>\n<td>\n<div class=\"u-text-center\">Life Safety (S-3).</div>\n<div class=\"u-text-center\">See Note a</div>\n</td>\n<td>\n<div class=\"u-text-center\">Collapse Prevention</div>\n<div class=\"u-text-center\">(S-5)</div>\n</td>\n</tr>\n<tr>\n<td>III</td>\n<td>\n<div class=\"u-text-center\">Damage Control (S-2).</div>\n<div class=\"u-text-center\">See Note a</div>\n</td>\n<td>\n<div class=\"u-text-center\">Limited Safety (S-4).</div>\n<div class=\"u-text-center\">See Note b</div>\n</td>\n</tr>\n<tr>\n<td>IV</td>\n<td>\n<div class=\"u-text-center\">Immediate Occupancy</div>\n<div class=\"u-text-center\">(S-1)</div>\n</td>\n<td>\n<div class=\"u-text-center\">Life Safety (S-3).</div>\n<div class=\"u-text-center\">See Note c</div>\n</td>\n</tr>\n</tbody>\n</table>\n<ol class=\"u-list-lower-alpha u-text-12px\">\n<li>For <a class=\"autolink\" href=\"/viewer/north_carolina/iebc-2021/chapter/2/definitions#risk_category_\">Risk Categories</a> I, II and III, the Tier 1 and Tier 2 procedures need not be considered for the BSE-1E earthquake hazard level.</li>\n<li>For <a class=\"autolink\" href=\"/viewer/north_carolina/iebc-2021/chapter/2/definitions#risk_category_\">Risk Category</a> III, the Tier 1 screening checklists shall be based on the Collapse Prevention, except that checklist statements using the Quick Check provisions shall be based on <i>MS</i>-factors that are the average of the values for Collapse Prevention and Life Safety.</li>\n<li>For <a class=\"autolink\" href=\"/viewer/north_carolina/iebc-2021/chapter/2/definitions#risk_category_\">Risk Category</a> IV, the Tier 1 screening checklists shall be based on Collapse Prevention, except that checklist statements using the Quick Check provisions shall be based on <i>MS</i>-factors for Life Safety.</li>\n</ol>\n</li>\n</ol>",
+                                                "depth": 3,
+                                                "diagrams": [],
+                                                "displayRef": "906.3.2",
+                                                "displayTitle": "906.3.2 Compliance With Reduced Seismic Forces",
+                                                "hasAssemblies": false,
+                                                "isContiguous": true,
+                                                "numAssembliesOnRef": 0,
+                                                "numBuildingProductsOnRef": 0,
+                                                "numDiagramsOnRef": 0,
+                                                "reference": "new_906.3.2",
+                                                "slug": "alterations-level-3",
+                                                "titleText": "Compliance With Reduced Seismic Forces",
+                                                "children": []
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "amendType": "deletion",
+                                        "ancestorRefs": [
+                                            "9",
+                                            "906"
+                                        ],
+                                        "depth": 2,
+                                        "diagrams": [],
+                                        "displayRef": "<span class=\"code_deletion\">906.4</span>",
+                                        "displayTitle": "[BS]  <span class=\"code_deletion\">906.4</span> <span class=\"code_deletion\">Anchorage for Concrete and Masonry Buildings</span>",
+                                        "hasAssemblies": false,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 0,
+                                        "numDiagramsOnRef": 0,
+                                        "reference": "906.4",
+                                        "refPrefix": "[BS]",
+                                        "slug": "alterations-level-3",
+                                        "titleText": "<span class=\"code_deletion\">Anchorage for Concrete and Masonry Buildings</span>",
+                                        "children": []
+                                    },
+                                    {
+                                        "amendType": "deletion",
+                                        "ancestorRefs": [
+                                            "9",
+                                            "906"
+                                        ],
+                                        "depth": 2,
+                                        "diagrams": [],
+                                        "displayRef": "<span class=\"code_deletion\">906.5</span>",
+                                        "displayTitle": "[BS]  <span class=\"code_deletion\">906.5</span> <span class=\"code_deletion\">Anchorage for Unreinforced Masonry Walls</span>",
+                                        "hasAssemblies": false,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 0,
+                                        "numDiagramsOnRef": 0,
+                                        "reference": "906.5",
+                                        "refPrefix": "[BS]",
+                                        "slug": "alterations-level-3",
+                                        "titleText": "<span class=\"code_deletion\">Anchorage for Unreinforced Masonry Walls</span>",
+                                        "children": []
+                                    },
+                                    {
+                                        "amendType": "deletion",
+                                        "ancestorRefs": [
+                                            "9",
+                                            "906"
+                                        ],
+                                        "depth": 2,
+                                        "diagrams": [],
+                                        "displayRef": "<span class=\"code_deletion\">906.6</span>",
+                                        "displayTitle": "[BS]  <span class=\"code_deletion\">906.6</span> <span class=\"code_deletion\">Bracing for Unreinforced Masonry Parapets</span>",
+                                        "hasAssemblies": false,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 0,
+                                        "numDiagramsOnRef": 0,
+                                        "reference": "906.6",
+                                        "refPrefix": "[BS]",
+                                        "slug": "alterations-level-3",
+                                        "titleText": "<span class=\"code_deletion\">Bracing for Unreinforced Masonry Parapets</span>",
+                                        "children": []
+                                    },
+                                    {
+                                        "amendType": "deletion",
+                                        "ancestorRefs": [
+                                            "9",
+                                            "906"
+                                        ],
+                                        "depth": 2,
+                                        "diagrams": [],
+                                        "displayRef": "<span class=\"code_deletion\">906.7</span>",
+                                        "displayTitle": "[BS]  <span class=\"code_deletion\">906.7</span> <span class=\"code_deletion\">Anchorage of Unreinforced Masonry Partitions</span>",
+                                        "hasAssemblies": false,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 0,
+                                        "numDiagramsOnRef": 0,
+                                        "reference": "906.7",
+                                        "refPrefix": "[BS]",
+                                        "slug": "alterations-level-3",
+                                        "titleText": "<span class=\"code_deletion\">Anchorage of Unreinforced Masonry Partitions</span>",
+                                        "children": []
+                                    }
+                                ]
+                            },
+                            {
+                                "ancestorRefs": [
+                                    "9"
+                                ],
+                                "depth": 1,
+                                "diagrams": [
+                                    {
+                                        "key": "opaque_doors",
+                                        "title": "Opaque Doors (ASHRAE)",
+                                        "descriptionHtml": "<div>All opaque doors shall have a maximum U-factor as specified in Tables 5.5-0 through 5.5-8. Exceptions: non-swinging doors that are horizontally hinged sectional doors with a single row of fenestration whose area is at least 14% and no more than 25% of the total door area shall have an assembly U-factor less than or equal to 0.440 in Climate Zones 0 through 6 for conditioned spaces and in Climate Zones 3 through 6 for semi-heated spaces and less than or equal to 0.360 in Climate Zones 7 and 8, for both conditioned and semi-heated spaces.</div>",
+                                        "topics": [
+                                            "Energy",
+                                            "Envelope"
+                                        ],
+                                        "phases": [
+                                            "Construction Docs"
+                                        ],
+                                        "supressesChildrenAssociations": false,
+                                        "blacklistJurisdictions": [],
+                                        "whitelistJurisdictions": [],
+                                        "imageType": "svg"
+                                    }
+                                ],
+                                "displayRef": null,
+                                "displayTitle": "Section 907 Energy Conservation",
+                                "divisionType": "Section",
+                                "hasAssemblies": false,
+                                "hasDiagrams": true,
+                                "hasDiagramsOnRef": true,
+                                "isContiguous": true,
+                                "numAssembliesOnRef": 0,
+                                "numBuildingProductsOnRef": 1,
+                                "numDiagramsOnRef": 1,
+                                "reference": "907",
+                                "slug": "alterations-level-3",
+                                "titleText": "Energy Conservation",
+                                "children": [
+                                    {
+                                        "amendType": "edit",
+                                        "ancestorRefs": [
+                                            "9",
+                                            "907"
+                                        ],
+                                        "body": "Level 3 <span class=\"u-italic\">alterations</span> to <span class=\"u-italic\">existing buildings</span> or structures are permitted without requiring the entire building or structure to comply with the energy requirements of the <span class=\"u-italic\">International Energy Conservation Code</span> or <span class=\"u-italic\">International Residential Code</span>. The <span class=\"u-italic\">alterations</span> shall conform the energy requirements of the <span class=\"u-italic\">International Energy Conservation Code</span> or <span class=\"u-italic\">International Residential Code</span> as they relate to new construction only.\n<div class=\"uc_meta_note\"><span class=\"code_addition\"><span class=\"u-font-bold\">UpCodes note: </span>The <a data-backup_href=\"https://web.archive.org/web/20241224071148/https://www.oah.nc.gov/bcc-existing-code-final-revised-rules/open\" href=\"https://www.oah.nc.gov/bcc-existing-code-final-revised-rules/open\" target=\"_blank\">2024 NC Existing Building Code modifications</a> amend \"908.1 Minimum Requirements\", but they appear to mean this section (907.1), so we've modified this one.</span></div>",
+                                        "depth": 2,
+                                        "diagrams": [],
+                                        "displayRef": null,
+                                        "displayTitle": "907.1 Minimum Requirements",
+                                        "hasAssemblies": false,
+                                        "hasDiagrams": true,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 0,
+                                        "numDiagramsOnRef": 0,
+                                        "reference": "907.1",
+                                        "slug": "alterations-level-3",
+                                        "titleText": "Minimum Requirements",
+                                        "children": []
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            "chapterReference": "9"
+        },
+        "__N_SSP": true
+    },
+    "page": "/viewer/[urlFormPubOrJurisKey]/[urlFormPub]/chapter/[chapterRef]/[chapterName]",
+    "query": {
+        "urlFormPubOrJurisKey": "north_carolina",
+        "urlFormPub": "iebc-2021",
+        "chapterRef": "9",
+        "chapterName": "alterations-level-3"
+    },
+    "buildId": "aNDb_KMgxj06vGZ7D_0_K",
+    "isFallback": false,
+    "isExperimentalCompile": false,
+    "dynamicIds": [
+        61621,
+        54065
+    ],
+    "gssp": true,
+    "scriptLoader": []
+}

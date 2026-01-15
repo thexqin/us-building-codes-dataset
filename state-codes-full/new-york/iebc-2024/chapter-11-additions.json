@@ -1,0 +1,836 @@
+{
+    "props": {
+        "pageProps": {
+            "missingRequiredLogin": false,
+            "title": "Chapter 11 Additions: Existing Building Code of New York State 2025 | UpCodes",
+            "leanChapterViewerData": {
+                "basePubName": "International Existing Building Code 2024 (IEBC 2024)",
+                "codeGroupingYear": "2025",
+                "codeName": "Existing Building Code of New York State 2025",
+                "codeUuid": "09b34508-f173-4a7d-a9db-66d36d7c4b9c",
+                "codeVersions": [
+                    {
+                        "codeUuid": "09b34508-f173-4a7d-a9db-66d36d7c4b9c",
+                        "name": "Original Adoption",
+                        "effectiveStartDate": "2025-12-31",
+                        "shortformUrlName": "iebc-2024",
+                        "activeStatus": "active"
+                    }
+                ],
+                "ingesterAmendmentsEnabled": false,
+                "ingesterCodeUnitsEnabled": false,
+                "isAmendStylingEnabled": true,
+                "isCorrespondable": true,
+                "jurisKey": "new_york",
+                "jurisName": "New York State",
+                "metaInfoUrl": "/viewer/new_york/iebc-2024",
+                "modelCodeUrl": null,
+                "placeholder": "Search Existing Building Code of New York State 2025",
+                "pubKey": "int_ebc_2024",
+                "pubPrefix": "int_ebc",
+                "shortformPubName": "iebc-2024",
+                "withAmendments": true,
+                "chapterRef": "11",
+                "publisher": "icc",
+                "hasLinkedResources": false,
+                "initialNonChapterTocLines": [
+                    {
+                        "amendType": null,
+                        "children": [
+                            {
+                                "amendType": "edit",
+                                "children": [],
+                                "depth": 2,
+                                "displayTitle": "1101.1 Scope",
+                                "hasExpanderArrow": false,
+                                "href": "#1101.1",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "reference": "1101.1"
+                            },
+                            {
+                                "amendType": "edit",
+                                "children": [],
+                                "depth": 2,
+                                "displayTitle": "1101.2 Creation or Extension of Nonconformity",
+                                "hasExpanderArrow": false,
+                                "href": "#1101.2",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "reference": "1101.2"
+                            },
+                            {
+                                "amendType": "edit",
+                                "children": [],
+                                "depth": 2,
+                                "displayTitle": "1101.3 Risk Category Assignment",
+                                "hasExpanderArrow": false,
+                                "href": "#1101.3",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "reference": "1101.3"
+                            },
+                            {
+                                "amendType": null,
+                                "children": [],
+                                "depth": 2,
+                                "displayTitle": "1101.4 Other Work",
+                                "hasExpanderArrow": false,
+                                "href": "#1101.4",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "reference": "1101.4"
+                            },
+                            {
+                                "amendType": "edit",
+                                "children": [],
+                                "depth": 2,
+                                "displayTitle": "1101.5 Smoke Barriers in Group I-1, Condition 2",
+                                "hasExpanderArrow": false,
+                                "href": "#1101.5",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "reference": "1101.5"
+                            },
+                            {
+                                "amendType": "edit",
+                                "children": [],
+                                "depth": 2,
+                                "displayTitle": "1101.6 <span class=\"code_deletion\">Enhanced Classroom Acoustics</span> <span class=\"code_addition\">Reserved</span>",
+                                "hasExpanderArrow": false,
+                                "href": "#1101.6",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "reference": "1101.6"
+                            },
+                            {
+                                "amendType": "edit",
+                                "children": [],
+                                "depth": 2,
+                                "displayTitle": "1101.7 Occupiable Roofs",
+                                "hasExpanderArrow": false,
+                                "href": "#1101.7",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "reference": "1101.7"
+                            }
+                        ],
+                        "depth": 1,
+                        "displayTitle": "1101 General",
+                        "hasExpanderArrow": true,
+                        "href": "#1101",
+                        "isCodeDivider": false,
+                        "isCodeDividerClickable": false,
+                        "reference": "1101"
+                    },
+                    {
+                        "amendType": null,
+                        "children": [
+                            {
+                                "amendType": "edit",
+                                "children": [],
+                                "depth": 2,
+                                "displayTitle": "1102.1 Height Limitations",
+                                "hasExpanderArrow": false,
+                                "href": "#1102.1",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "reference": "1102.1"
+                            },
+                            {
+                                "amendType": "edit",
+                                "children": [],
+                                "depth": 2,
+                                "displayTitle": "1102.2 Area Limitations",
+                                "hasExpanderArrow": false,
+                                "href": "#1102.2",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "reference": "1102.2"
+                            },
+                            {
+                                "amendType": "edit",
+                                "children": [],
+                                "depth": 2,
+                                "displayTitle": "1102.3 Fire Protection Systems",
+                                "hasExpanderArrow": false,
+                                "href": "#1102.3",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "reference": "1102.3"
+                            }
+                        ],
+                        "depth": 1,
+                        "displayTitle": "1102 Heights and Areas",
+                        "hasExpanderArrow": true,
+                        "href": "#1102",
+                        "isCodeDivider": false,
+                        "isCodeDividerClickable": false,
+                        "reference": "1102"
+                    },
+                    {
+                        "amendType": null,
+                        "children": [
+                            {
+                                "amendType": "edit",
+                                "children": [],
+                                "depth": 2,
+                                "displayTitle": "1103.1 Additional Gravity Loads",
+                                "hasExpanderArrow": false,
+                                "href": "#1103.1",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "reference": "1103.1"
+                            },
+                            {
+                                "amendType": "edit",
+                                "children": [],
+                                "depth": 2,
+                                "displayTitle": "1103.2 Lateral Force-Resisting System",
+                                "hasExpanderArrow": false,
+                                "href": "#1103.2",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "reference": "1103.2"
+                            },
+                            {
+                                "amendType": "edit",
+                                "children": [],
+                                "depth": 2,
+                                "displayTitle": "1103.3 Flood Hazard Areas",
+                                "hasExpanderArrow": false,
+                                "href": "#1103.3",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "reference": "1103.3"
+                            }
+                        ],
+                        "depth": 1,
+                        "displayTitle": "1103 Structural",
+                        "hasExpanderArrow": true,
+                        "href": "#1103",
+                        "isCodeDivider": false,
+                        "isCodeDividerClickable": false,
+                        "reference": "1103"
+                    },
+                    {
+                        "amendType": null,
+                        "children": [
+                            {
+                                "amendType": "edit",
+                                "children": [],
+                                "depth": 2,
+                                "displayTitle": "1104.1 Minimum Requirements",
+                                "hasExpanderArrow": false,
+                                "href": "#1104.1",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "reference": "1104.1"
+                            }
+                        ],
+                        "depth": 1,
+                        "displayTitle": "1104 Energy Conservation",
+                        "hasExpanderArrow": true,
+                        "href": "#1104",
+                        "isCodeDivider": false,
+                        "isCodeDividerClickable": false,
+                        "reference": "1104"
+                    }
+                ],
+                "title": "Chapter 11 Additions: Existing Building Code of New York State 2025 | UpCodes",
+                "leanChapterLines": [
+                    {
+                        "amendType": "edit",
+                        "displayTitle": "Chapter 1 Scope and Administration",
+                        "isExpandable": true,
+                        "reference": "1",
+                        "slug": "scope-and-administration"
+                    },
+                    {
+                        "displayTitle": "Chapter 2 Definitions",
+                        "isExpandable": true,
+                        "reference": "2",
+                        "slug": "definitions"
+                    },
+                    {
+                        "amendType": "edit",
+                        "displayTitle": "Chapter 3 Provisions for All Compliance Methods",
+                        "isExpandable": true,
+                        "reference": "3",
+                        "slug": "provisions-for-all-compliance-methods"
+                    },
+                    {
+                        "displayTitle": "Chapter 4 Repairs",
+                        "isExpandable": true,
+                        "reference": "4",
+                        "slug": "repairs"
+                    },
+                    {
+                        "displayTitle": "Chapter 5 Prescriptive Compliance Method",
+                        "isExpandable": true,
+                        "reference": "5",
+                        "slug": "prescriptive-compliance-method"
+                    },
+                    {
+                        "displayTitle": "Chapter 6 Classification of Work",
+                        "isExpandable": true,
+                        "reference": "6",
+                        "slug": "classification-of-work"
+                    },
+                    {
+                        "displayTitle": "Chapter 7 Alterations\u2014Level 1",
+                        "isExpandable": true,
+                        "reference": "7",
+                        "slug": "alterations-level-1"
+                    },
+                    {
+                        "displayTitle": "Chapter 8 Alterations\u2014Level 2",
+                        "isExpandable": true,
+                        "reference": "8",
+                        "slug": "alterations-level-2"
+                    },
+                    {
+                        "displayTitle": "Chapter 9 Alterations\u2014Level 3",
+                        "isExpandable": true,
+                        "reference": "9",
+                        "slug": "alterations-level-3"
+                    },
+                    {
+                        "amendType": "edit",
+                        "displayTitle": "Chapter 10 Change of Occupancy",
+                        "isExpandable": true,
+                        "reference": "10",
+                        "slug": "change-of-occupancy"
+                    },
+                    {
+                        "displayTitle": "Chapter 11 Additions",
+                        "isExpandable": true,
+                        "reference": "11",
+                        "slug": "additions"
+                    },
+                    {
+                        "displayTitle": "Chapter 12 Historic Buildings",
+                        "isExpandable": true,
+                        "reference": "12",
+                        "slug": "historic-buildings"
+                    },
+                    {
+                        "displayTitle": "Chapter 13 Performance Compliance Methods",
+                        "isExpandable": true,
+                        "reference": "13",
+                        "slug": "performance-compliance-methods"
+                    },
+                    {
+                        "amendType": "edit",
+                        "displayTitle": "Chapter 14 Relocated or Moved Buildings",
+                        "isExpandable": true,
+                        "reference": "14",
+                        "slug": "relocated-or-moved-buildings"
+                    },
+                    {
+                        "amendType": "edit",
+                        "displayTitle": "Chapter 15 Construction Safeguards",
+                        "isExpandable": true,
+                        "reference": "15",
+                        "slug": "construction-safeguards"
+                    },
+                    {
+                        "amendType": "edit",
+                        "displayTitle": "Chapter 16 Referenced Standards",
+                        "reference": "16",
+                        "slug": "referenced-standards"
+                    },
+                    {
+                        "displayTitle": "Appendix A Guidelines for the Seismic Retrofit of Existing Buildings",
+                        "hasChapterAdoption": true,
+                        "isExpandable": true,
+                        "reference": "A",
+                        "slug": "guidelines-for-the-seismic-retrofit-of-existing-buildings"
+                    },
+                    {
+                        "amendType": "edit",
+                        "disabled": true,
+                        "displayTitle": "Appendix B Supplementary Accessibility Requirements for Existing Buildings and Facilities",
+                        "reference": "B",
+                        "slug": "supplementary-accessibility-requirements-for-existing-buildings-and-facilities"
+                    },
+                    {
+                        "amendType": "edit",
+                        "disabled": true,
+                        "displayTitle": "Appendix C Guidelines for the Wind Retrofit of Existing Buildings",
+                        "reference": "C",
+                        "slug": "guidelines-for-the-wind-retrofit-of-existing-buildings"
+                    },
+                    {
+                        "amendType": "edit",
+                        "disabled": true,
+                        "displayTitle": "<span class=\"code_addition\">[NY]</span> Appendix D <span class=\"code_deletion\">Board of Appeals</span> <span class=\"code_addition\">Reserved</span>",
+                        "reference": "D",
+                        "slug": "board-of-appeals"
+                    },
+                    {
+                        "amendType": "edit",
+                        "displayTitle": "Appendix E Temporary Emergency Uses",
+                        "hasChapterAdoption": true,
+                        "isExpandable": true,
+                        "reference": "E",
+                        "slug": "temporary-emergency-uses"
+                    },
+                    {
+                        "amendType": "addition",
+                        "displayTitle": "[NY] Appendix F Diaper Changing Stations",
+                        "isExpandable": true,
+                        "reference": "new_F",
+                        "slug": "diaper-changing-stations"
+                    },
+                    {
+                        "amendType": "edit",
+                        "displayTitle": "Resource A Guidelines on Fire Ratings of Archaic Materials and Assemblies",
+                        "hasChapterAdoption": true,
+                        "isExpandable": true,
+                        "reference": "resource_A",
+                        "slug": "guidelines-on-fire-ratings-of-archaic-materials-and-assemblies"
+                    }
+                ],
+                "leanCodeSectionsTree": [
+                    {
+                        "ancestorRefs": [],
+                        "body": "<div class=\"u-mt-4\"><div class=\"u-mt-3 u-font-bold u-mb-3\">User notes:</div><div class=\"u-mt-3 u-mb-3\"><span class=\"u-italic\"><span class=\"u-font-bold\">About this chapter:                                 </span>Chapter 11 provides the requirements for <a class=\"autolink\" href=\"/viewer/new_york/iebc-2024/chapter/2/definitions#addition_\">additions</a>, which                                 correlate to the code requirements for new construction. There are,                                 however, some exceptions that are specifically stated within this                                 chapter. An \"<a class=\"autolink\" href=\"/viewer/new_york/iebc-2024/chapter/2/definitions#addition_\">Addition</a>\" is                                 defined in <a class=\"autolink\" href=\"/viewer/new_york/iebc-2024/chapter/2/definitions#2\">Chapter 2</a> as \"an extension or increase in the floor area,                                 number of stories or height of a building or structure.\" Chapter 11                                 contains the minimum requirements for an <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/new_york/iebc-2024/chapter/2/definitions#addition_\">addition</a></span> that is not separated from the <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/new_york/iebc-2024/chapter/2/definitions#existing_building_\">existing building</a></span> by a fire                                 wall.</span></div></div>",
+                        "depth": 0,
+                        "diagrams": [],
+                        "displayRef": null,
+                        "displayTitle": "Chapter 11 Additions",
+                        "divisionType": "Chapter",
+                        "hasAssemblies": false,
+                        "isContiguous": true,
+                        "numAssembliesOnRef": 0,
+                        "numBuildingProductsOnRef": 0,
+                        "numDiagramsOnRef": 0,
+                        "reference": "11",
+                        "slug": "additions",
+                        "titleText": "Additions",
+                        "children": [
+                            {
+                                "ancestorRefs": [
+                                    "11"
+                                ],
+                                "depth": 1,
+                                "diagrams": [],
+                                "displayRef": null,
+                                "displayTitle": "Section 1101 General",
+                                "divisionType": "Section",
+                                "hasAssemblies": false,
+                                "isContiguous": true,
+                                "numAssembliesOnRef": 0,
+                                "numBuildingProductsOnRef": 0,
+                                "numDiagramsOnRef": 0,
+                                "reference": "1101",
+                                "slug": "additions",
+                                "titleText": "General",
+                                "children": [
+                                    {
+                                        "amendType": "edit",
+                                        "ancestorRefs": [
+                                            "11",
+                                            "1101"
+                                        ],
+                                        "body": "<div>An <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/new_york/iebc-2024/chapter/2/definitions#addition_\">addition</a></span> to a building or structure shall comply with the <i><span class=\"code_addition\">Uniform</span> Code</i> as adopted for new construction without requiring the <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/new_york/iebc-2024/chapter/2/definitions#existing_building_\">existing building</a></span> or structure to comply with any requirements of those codes or of these provisions, except as required by this chapter. Where an <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/new_york/iebc-2024/chapter/2/definitions#addition_\">addition</a></span> impacts the <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/new_york/iebc-2024/chapter/2/definitions#existing_building_\">existing building</a></span> or structure, that portion shall comply with this code.</div>",
+                                        "depth": 2,
+                                        "diagrams": [
+                                            {
+                                                "key": "dwelling_additions_emergency_escape",
+                                                "title": "Dwelling Additions - Emergency Escape",
+                                                "descriptionHtml": "<div><strong>Emergency Escape and Rescue Opening:</strong> An operable window, door or similar device that provides for a means of escape and access for rescue in the event of an emergency. </div><br/>",
+                                                "topics": [
+                                                    "Residential",
+                                                    "Egress"
+                                                ],
+                                                "phases": [
+                                                    "Construction Docs",
+                                                    "Construction Phase",
+                                                    "Design Development"
+                                                ],
+                                                "supressesChildrenAssociations": false,
+                                                "blacklistJurisdictions": [
+                                                    "ohio"
+                                                ],
+                                                "whitelistJurisdictions": [],
+                                                "imageType": "svg"
+                                            }
+                                        ],
+                                        "displayRef": null,
+                                        "displayTitle": "1101.1 Scope",
+                                        "hasAssemblies": false,
+                                        "hasDiagrams": true,
+                                        "hasDiagramsOnRef": true,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 0,
+                                        "numDiagramsOnRef": 1,
+                                        "reference": "1101.1",
+                                        "slug": "additions",
+                                        "titleText": "Scope",
+                                        "children": []
+                                    },
+                                    {
+                                        "amendType": "edit",
+                                        "ancestorRefs": [
+                                            "11",
+                                            "1101"
+                                        ],
+                                        "body": "<div>An <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/new_york/iebc-2024/chapter/2/definitions#addition_\">addition</a></span> shall not create or extend any nonconformity in the <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/new_york/iebc-2024/chapter/2/definitions#existing_building_\">existing building</a></span> to which the <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/new_york/iebc-2024/chapter/2/definitions#addition_\">addition</a></span> is being made with regard to accessibility, structural strength, supports and attachments for  nonstructural components, fire safety, means of egress or the capacity of mechanical, plumbing or electrical systems. <div class=\"uc_exception\"><span class=\"u-font-bold\">Exception:</span>\nNonconforming supports and attachments for nonstructural  components that serve the <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/new_york/iebc-2024/chapter/2/definitions#addition_\">addition</a></span> from within the <a class=\"autolink\" href=\"/viewer/new_york/iebc-2024/chapter/2/definitions#existing_building_\">existing building</a> need not be altered to comply with <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/new_york/ibc-2024\">Building Code</a> <span class=\"code_addition\">of New York State</span></span>  Section 1613 unless the components are part of the <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/new_york/iebc-2024/chapter/2/definitions#addition_\">addition</a></span>'s life safety system or are required to serve an <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/new_york/iebc-2024/chapter/2/definitions#addition_\">addition</a></span> assigned to <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/new_york/iebc-2024/chapter/2/definitions#risk_category_\">Risk Category</a></span> IV.</div></div>",
+                                        "depth": 2,
+                                        "diagrams": [],
+                                        "displayRef": null,
+                                        "displayTitle": "1101.2 Creation or Extension of Nonconformity",
+                                        "hasAssemblies": false,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 0,
+                                        "numDiagramsOnRef": 0,
+                                        "reference": "1101.2",
+                                        "slug": "additions",
+                                        "titleText": "Creation or Extension of Nonconformity",
+                                        "children": []
+                                    },
+                                    {
+                                        "amendType": "edit",
+                                        "ancestorRefs": [
+                                            "11",
+                                            "1101"
+                                        ],
+                                        "body": "<div>Where the <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/new_york/iebc-2024/chapter/2/definitions#addition_\">addition</a></span> and the <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/new_york/iebc-2024/chapter/2/definitions#existing_building_\">existing building</a></span> have different occupancies, the <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/new_york/iebc-2024/chapter/2/definitions#risk_category_\">risk category</a></span> of each existing and added occupancy shall be determined in accordance with Section 1604.5.1 of the <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/new_york/ibc-2024\">Building Code</a> <span class=\"code_addition\">of New York State</span></span>. Where application of that section results in a higher <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/new_york/iebc-2024/chapter/2/definitions#risk_category_\">risk category</a></span> for the <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/new_york/iebc-2024/chapter/2/definitions#existing_building_\">existing building</a></span> compared <span class=\"code_addition\">with</span> the <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/new_york/iebc-2024/chapter/2/definitions#risk_category_\">risk category</a></span> for the <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/new_york/iebc-2024/chapter/2/definitions#existing_building_\">existing building</a></span> before the <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/new_york/iebc-2024/chapter/2/definitions#addition_\">addition</a></span>, such a change shall be considered a <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/new_york/iebc-2024/chapter/2/definitions#change_of_occupancy_\">change of occupancy</a></span> and shall comply with <a class=\"autolink\" href=\"/viewer/new_york/iebc-2024/chapter/10/change-of-occupancy#10\">Chapter 10</a> of this code. Where application of that section results in a higher <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/new_york/iebc-2024/chapter/2/definitions#risk_category_\">risk category</a></span> for the <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/new_york/iebc-2024/chapter/2/definitions#addition_\">addition</a></span> compared with the <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/new_york/iebc-2024/chapter/2/definitions#risk_category_\">risk category</a></span> for the <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/new_york/iebc-2024/chapter/2/definitions#addition_\">addition</a></span> by itself, the <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/new_york/iebc-2024/chapter/2/definitions#addition_\">addition</a></span> and any systems in the <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/new_york/iebc-2024/chapter/2/definitions#existing_building_\">existing building</a></span> required to serve the <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/new_york/iebc-2024/chapter/2/definitions#addition_\">addition</a></span> shall comply with the requirements of the <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/new_york/ibc-2024\">Building Code</a> <span class=\"code_addition\">of New York State</span></span> for new construction for the higher <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/new_york/iebc-2024/chapter/2/definitions#risk_category_\">risk category</a></span>.</div>",
+                                        "depth": 2,
+                                        "diagrams": [],
+                                        "displayRef": null,
+                                        "displayTitle": "[BS]  1101.3 Risk Category Assignment",
+                                        "hasAssemblies": false,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 0,
+                                        "numDiagramsOnRef": 0,
+                                        "reference": "1101.3",
+                                        "refPrefix": "[BS]",
+                                        "slug": "additions",
+                                        "titleText": "Risk Category Assignment",
+                                        "children": []
+                                    },
+                                    {
+                                        "ancestorRefs": [
+                                            "11",
+                                            "1101"
+                                        ],
+                                        "body": "<div>Any <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/new_york/iebc-2024/chapter/2/definitions#repair_\">repair</a></span> or <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/new_york/iebc-2024/chapter/2/definitions#alteration_\">alteration</a></span> work within an <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/new_york/iebc-2024/chapter/2/definitions#existing_building_\">existing building</a></span> to which an <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/new_york/iebc-2024/chapter/2/definitions#addition_\">addition</a></span> is being made shall comply with                             the applicable requirements for the work as classified in <a class=\"autolink\" href=\"/viewer/new_york/iebc-2024/chapter/6/classification-of-work#6\">Chapter                             6</a>.</div>",
+                                        "depth": 2,
+                                        "diagrams": [],
+                                        "displayRef": null,
+                                        "displayTitle": "1101.4 Other Work",
+                                        "hasAssemblies": false,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 0,
+                                        "numDiagramsOnRef": 0,
+                                        "reference": "1101.4",
+                                        "slug": "additions",
+                                        "titleText": "Other Work",
+                                        "children": []
+                                    },
+                                    {
+                                        "amendType": "edit",
+                                        "ancestorRefs": [
+                                            "11",
+                                            "1101"
+                                        ],
+                                        "body": "<div>Where an <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/new_york/iebc-2024/chapter/2/definitions#addition_\">addition</a></span> to an existing Group I-1, Condition 2 building adds sleeping areas that result in more than 50 care recipients on a story, smoke barriers shall be provided to subdivide such story into not fewer than two smoke compartments in accordance with Section 420.6 of the <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/new_york/ibc-2024\">Building Code</a> <span class=\"code_addition\">of New York State</span></span>. <div class=\"uc_exception\"><span class=\"u-font-bold\">Exception:</span>\nWhere the <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/new_york/iebc-2024/chapter/2/definitions#existing_building_\">existing building</a></span> is divided into smoke compartments and the <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/new_york/iebc-2024/chapter/2/definitions#addition_\">addition</a></span> does not result in any individual smoke compartment exceeding the size and travel distance requirements in Section 420.6 of the <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/new_york/ibc-2024\">Building Code</a> <span class=\"code_addition\">of New York State</span></span>, additional smoke barriers are not required.</div></div>",
+                                        "depth": 2,
+                                        "diagrams": [],
+                                        "displayRef": null,
+                                        "displayTitle": "1101.5 Smoke Barriers in Group I-1, Condition 2",
+                                        "hasAssemblies": false,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 0,
+                                        "numDiagramsOnRef": 0,
+                                        "reference": "1101.5",
+                                        "slug": "additions",
+                                        "titleText": "Smoke Barriers in Group I-1, Condition 2",
+                                        "children": []
+                                    },
+                                    {
+                                        "amendType": "edit",
+                                        "ancestorRefs": [
+                                            "11",
+                                            "1101"
+                                        ],
+                                        "depth": 2,
+                                        "diagrams": [],
+                                        "displayRef": null,
+                                        "displayTitle": "1101.6 <span class=\"code_deletion\">Enhanced Classroom Acoustics</span> <span class=\"code_addition\">Reserved</span>",
+                                        "hasAssemblies": false,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 4,
+                                        "numDiagramsOnRef": 0,
+                                        "reference": "1101.6",
+                                        "slug": "additions",
+                                        "titleText": "<span class=\"code_deletion\">Enhanced Classroom Acoustics</span> <span class=\"code_addition\">Reserved</span>",
+                                        "children": []
+                                    },
+                                    {
+                                        "amendType": "edit",
+                                        "ancestorRefs": [
+                                            "11",
+                                            "1101"
+                                        ],
+                                        "body": "<div>Where a new <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/new_york/iebc-2024/chapter/2/definitions#occupiable_roof_\">occupiable roof</a></span> is added to a building or structure, the <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/new_york/iebc-2024/chapter/2/definitions#occupiable_roof_\">occupiable     roof</a></span> shall comply with the provisions of the <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/new_york/ibc-2024\">Building Code</a> <span class=\"code_addition\">of New York State</span></span>.</div>",
+                                        "depth": 2,
+                                        "diagrams": [],
+                                        "displayRef": null,
+                                        "displayTitle": "1101.7 Occupiable Roofs",
+                                        "hasAssemblies": false,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 0,
+                                        "numDiagramsOnRef": 0,
+                                        "reference": "1101.7",
+                                        "slug": "additions",
+                                        "titleText": "Occupiable Roofs",
+                                        "children": []
+                                    }
+                                ]
+                            },
+                            {
+                                "ancestorRefs": [
+                                    "11"
+                                ],
+                                "depth": 1,
+                                "diagrams": [],
+                                "displayRef": null,
+                                "displayTitle": "Section 1102 Heights and Areas",
+                                "divisionType": "Section",
+                                "hasAssemblies": false,
+                                "isContiguous": true,
+                                "numAssembliesOnRef": 0,
+                                "numBuildingProductsOnRef": 0,
+                                "numDiagramsOnRef": 0,
+                                "reference": "1102",
+                                "slug": "additions",
+                                "titleText": "Heights and Areas",
+                                "children": [
+                                    {
+                                        "amendType": "edit",
+                                        "ancestorRefs": [
+                                            "11",
+                                            "1102"
+                                        ],
+                                        "body": "<div>An <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/new_york/iebc-2024/chapter/2/definitions#addition_\">addition</a></span> shall not increase the  height of an <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/new_york/iebc-2024/chapter/2/definitions#existing_building_\">existing building</a></span> beyond  that permitted under the applicable provisions of <a class=\"autolink\" href=\"/viewer/new_york/ibc-2018/chapter/5/general-building-heights-and-areas#5\">Chapter 5</a> of the <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/new_york/ibc-2024\">Building Code</a> <span class=\"code_addition\">of New York State</span></span> for new buildings.</div>",
+                                        "depth": 2,
+                                        "diagrams": [],
+                                        "displayRef": null,
+                                        "displayTitle": "1102.1 Height Limitations",
+                                        "hasAssemblies": false,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 0,
+                                        "numDiagramsOnRef": 0,
+                                        "reference": "1102.1",
+                                        "slug": "additions",
+                                        "titleText": "Height Limitations",
+                                        "children": []
+                                    },
+                                    {
+                                        "amendType": "edit",
+                                        "ancestorRefs": [
+                                            "11",
+                                            "1102"
+                                        ],
+                                        "body": "<div>An <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/new_york/iebc-2024/chapter/2/definitions#addition_\">addition</a></span> shall not increase the area of an <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/new_york/iebc-2024/chapter/2/definitions#existing_building_\">existing building</a></span> beyond that permitted under the applicable provisions of <a class=\"autolink\" href=\"/viewer/new_york/ibc-2018/chapter/5/general-building-heights-and-areas#5\">Chapter 5</a> of the <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/new_york/ibc-2024\">Building Code</a> <span class=\"code_addition\">of New York State</span></span> for new buildings unless fire separation as required by the <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/new_york/ibc-2024\">Building Code</a> <span class=\"code_addition\">of New York State</span></span> is provided.<div class=\"uc_exception\"><span class=\"u-font-bold\">Exception:</span>\nIn-filling of floor openings and nonoccupiable appendages such as elevator and exit stairway shafts shall be permitted beyond that permitted by the <i><a class=\"autolink\" href=\"/viewer/new_york/ibc-2024\">Building Code</a> <span class=\"code_addition\">of New York State</span></i>.</div></div>",
+                                        "depth": 2,
+                                        "diagrams": [],
+                                        "displayRef": null,
+                                        "displayTitle": "1102.2 Area Limitations",
+                                        "hasAssemblies": false,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 0,
+                                        "numDiagramsOnRef": 0,
+                                        "reference": "1102.2",
+                                        "slug": "additions",
+                                        "titleText": "Area Limitations",
+                                        "children": []
+                                    },
+                                    {
+                                        "amendType": "edit",
+                                        "ancestorRefs": [
+                                            "11",
+                                            "1102"
+                                        ],
+                                        "body": "<div>Existing fire areas increased by the <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/new_york/iebc-2024/chapter/2/definitions#addition_\">addition</a></span> shall comply with <a class=\"autolink\" href=\"/viewer/new_york/ibc-2018/chapter/9/fire-protection-and-life-safety-systems#9\">Chapter 9</a> of the <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/new_york/ibc-2024\">Building Code</a> <span class=\"code_addition\">of New York State</span></span>.<div class=\"uc_exception\"><span class=\"u-font-bold\">Exception:</span>\nNonoccupiable appendages, such as elevator and exit stairway shafts, shall be permitted beyond that permitted by the <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/new_york/ibc-2024\">Building Code</a> <span class=\"code_addition\">of New York State</span>.</span></div></div>",
+                                        "depth": 2,
+                                        "diagrams": [],
+                                        "displayRef": null,
+                                        "displayTitle": "1102.3 Fire Protection Systems",
+                                        "hasAssemblies": false,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 0,
+                                        "numDiagramsOnRef": 0,
+                                        "reference": "1102.3",
+                                        "slug": "additions",
+                                        "titleText": "Fire Protection Systems",
+                                        "children": []
+                                    }
+                                ]
+                            },
+                            {
+                                "ancestorRefs": [
+                                    "11"
+                                ],
+                                "depth": 1,
+                                "diagrams": [],
+                                "displayRef": null,
+                                "displayTitle": "Section 1103 Structural",
+                                "divisionType": "Section",
+                                "hasAssemblies": false,
+                                "isContiguous": true,
+                                "numAssembliesOnRef": 0,
+                                "numBuildingProductsOnRef": 0,
+                                "numDiagramsOnRef": 0,
+                                "reference": "1103",
+                                "slug": "additions",
+                                "titleText": "Structural",
+                                "children": [
+                                    {
+                                        "amendType": "edit",
+                                        "ancestorRefs": [
+                                            "11",
+                                            "1103"
+                                        ],
+                                        "body": "<div>Any existing gravity load-carrying structural element for which an <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/new_york/iebc-2024/chapter/2/definitions#addition_\">addition</a></span> and its related <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/new_york/iebc-2024/chapter/2/definitions#alteration_\">alterations</a></span> cause an increase in design dead, live or snow load, including snow drift effects, of more than 5 percent shall be replaced or altered as needed to carry    the gravity loads required by the <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/new_york/ibc-2024\">Building Code</a> <span class=\"code_addition\">of New York State</span></span> for new structures.   Any existing gravity load-carrying structural element whose gravity load-carrying capacity is decreased as part of the <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/new_york/iebc-2024/chapter/2/definitions#addition_\">addition</a></span> and its related <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/new_york/iebc-2024/chapter/2/definitions#alteration_\">alterations</a></span> shall be considered to be an altered element subject to the requirements of <a class=\"autolink\" href=\"/viewer/new_york/iebc-2024/chapter/8/alterations-level-2#805.2\">Section 805.2</a>. Any existing element that will form part of the lateral load path for any part of the <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/new_york/iebc-2024/chapter/2/definitions#addition_\">addition</a></span> shall be considered to be an existing lateral load-carrying structural element subject to the requirements of <a class=\"autolink\" href=\"#1103.2\">Section 1103.2</a>.<div class=\"uc_exception\"><span class=\"u-font-bold\">Exception:</span>\nBuildings of Group R occupancy with not more than five dwelling units or sleeping units used solely for residential purposes where the <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/new_york/iebc-2024/chapter/2/definitions#existing_building_\">existing building</a></span> and the <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/new_york/iebc-2024/chapter/2/definitions#addition_\">addition</a></span> together comply with the conventional light-frame construction methods of the <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/new_york/ibc-2024\">Building Code</a> <span class=\"code_addition\">of New York State</span></span> or the provisions of the <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/new_york/irc-2024\">Residential Code</a> <span class=\"code_addition\">of New York State</span></span>.</div></div>",
+                                        "depth": 2,
+                                        "diagrams": [],
+                                        "displayRef": null,
+                                        "displayTitle": "[BS]  1103.1 Additional Gravity Loads",
+                                        "hasAssemblies": false,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 0,
+                                        "numDiagramsOnRef": 0,
+                                        "reference": "1103.1",
+                                        "refPrefix": "[BS]",
+                                        "slug": "additions",
+                                        "titleText": "Additional Gravity Loads",
+                                        "children": []
+                                    },
+                                    {
+                                        "amendType": "edit",
+                                        "ancestorRefs": [
+                                            "11",
+                                            "1103"
+                                        ],
+                                        "body": "<div>Where the <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/new_york/iebc-2024/chapter/2/definitions#addition_\">addition</a></span> is structurally independent of the <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/new_york/iebc-2024/chapter/2/definitions#existing_structure_\">existing structure</a></span>, existing lateral load-carrying structural elements shall be permitted to remain unaltered. Where the <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/new_york/iebc-2024/chapter/2/definitions#addition_\">addition</a></span> is not structurally independent of the <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/new_york/iebc-2024/chapter/2/definitions#existing_structure_\">existing structure</a></span>, the lateral force-resisting system of the <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/new_york/iebc-2024/chapter/2/definitions#existing_structure_\">existing  structure</a></span> and its <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/new_york/iebc-2024/chapter/2/definitions#addition_\">addition</a></span> acting together as a single structure shall comply with Section 1609 of the <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/new_york/ibc-2024\">Building Code</a>  <span class=\"code_addition\">of New York State</span></span> and <a class=\"autolink\" href=\"/viewer/new_york/iebc-2024/chapter/3/provisions-for-all-compliance-methods#304.3.1\">Section 304.3.1</a> of this code.<div class=\"uc_exception\"><span class=\"u-font-bold\">Exceptions:</span>\n<ol><li>Buildings of Group R occupancy with not more than five dwelling or sleeping units used solely for residential purposes  where the <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/new_york/iebc-2024/chapter/2/definitions#existing_building_\">existing  building</a></span> and the <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/new_york/iebc-2024/chapter/2/definitions#addition_\">addition</a></span> comply with the conventional light-frame construction methods of the <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/new_york/ibc-2024\">Building Code</a> <span class=\"code_addition\">of New York State</span> or the provis</span>ions of the <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/new_york/irc-2024\">Residential Code</a> <span class=\"code_addition\">of New York State</span></span>.</li><li>Any existing lateral load-carrying structural element whose demand-capacity ratio with the <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/new_york/iebc-2024/chapter/2/definitions#addition_\">addition</a></span> considered is not more than 10 percent greater than its demand-capacity ratio with the <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/new_york/iebc-2024/chapter/2/definitions#addition_\">addition</a></span> ignored shall be permitted to remain unaltered. For purposes of calculating demand-capacity ratios, the demand shall consider applicable load combinations with design lateral loads or forces in accordance with Section 1609 of the <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/new_york/ibc-2024\">Building Code</a> <span class=\"code_addition\">of New York State</span></span> and <a class=\"autolink\" href=\"/viewer/new_york/iebc-2024/chapter/3/provisions-for-all-compliance-methods#304.3.1\">Section 304.3.1</a> of this code<span class=\"u-italic\">. For purposes of this exception, comparisons of demand-capacity ratios and calculation of design lateral loads, forces and capacities shall account for the cumulative effects of <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/new_york/iebc-2024/chapter/2/definitions#addition_\">additions</a></span> and <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/new_york/iebc-2024/chapter/2/definitions#alteration_\">alterations</a></span> since original construction.</span></li></ol></div></div><div class=\"u-indent-6\">When calculating demand-capacity ratios for wind, the date of original construction shall be permitted to be taken as the date of completion of a prior <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/new_york/iebc-2024/chapter/2/definitions#addition_\">addition</a></span>, <a class=\"autolink\" href=\"/viewer/new_york/iebc-2024/chapter/2/definitions#alteration_\">alteration</a> or <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/new_york/iebc-2024/chapter/2/definitions#repair_\">repair</a></span> in compliance with Section 1609 of the <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/new_york/ibc-2024\">Building Code</a> <span class=\"code_addition\">of New York State</span></span> or the code wind forces in effect at the time. When calculating demand-capacity ratios for earthquake, the   date of original construction shall be permitted to be taken as the date of completion of a prior <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/new_york/iebc-2024/chapter/2/definitions#addition_\">addition</a></span>, <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/new_york/iebc-2024/chapter/2/definitions#alteration_\">alteration</a></span> or <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/new_york/iebc-2024/chapter/2/definitions#repair_\">repair</a></span> in compliance with <a class=\"autolink\" href=\"/viewer/new_york/iebc-2024/chapter/3/provisions-for-all-compliance-methods#304.3.1\">Section 304.3.1</a> or the full seismic forces in effect at the time.</div>",
+                                        "depth": 2,
+                                        "diagrams": [],
+                                        "displayRef": null,
+                                        "displayTitle": "[BS]  1103.2 Lateral Force-Resisting System",
+                                        "hasAssemblies": false,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 0,
+                                        "numDiagramsOnRef": 0,
+                                        "reference": "1103.2",
+                                        "refPrefix": "[BS]",
+                                        "slug": "additions",
+                                        "titleText": "Lateral Force-Resisting System",
+                                        "children": []
+                                    },
+                                    {
+                                        "amendType": "edit",
+                                        "ancestorRefs": [
+                                            "11",
+                                            "1103"
+                                        ],
+                                        "body": "<div><span class=\"u-italic\">Additions</span> and <span class=\"u-italic\">foundations</span> in <span class=\"u-italic\">flood hazard areas</span> shall comply with the following requirements:</div>\n<ol class=\"u-list-decimal-separated\"><li>For horizontal <span class=\"u-italic\">additions</span> that are structurally interconnected to the <span class=\"u-italic\">existing building</span>:\n<ol class=\"u-list-decimal-separated\">\n    <li>If the <span class=\"u-italic\">addition</span> and all other proposed work, when combined, constitute <span class=\"u-italic\">substantial improvement</span>, the <span class=\"u-italic\">existing building</span> and the <span class=\"u-italic\">addition</span> shall comply  with Section 1612 of  the <span class=\"u-italic\">Building Code <span class=\"code_addition\">of New York State</span></span>, or Section R306 of the <span class=\"u-italic\">Residential Code <span class=\"code_addition\">of New York State</span></span>, as applicable.</li>\n    <li>If the <span class=\"u-italic\">addition</span> constitutes <span class=\"u-italic\">substantial improvement</span>, the <span class=\"u-italic\">existing building</span> and the <span class=\"u-italic\">addition</span> shall comply  with Section 1612 of  the <span class=\"u-italic\">Building Code <span class=\"code_addition\">of New York State</span></span>, or Section R306 of the <span class=\"u-italic\">Residential Code <span class=\"code_addition\">of New York State</span></span>, as applicable.</li>\n    <li>If the <span class=\"u-italic\">addition</span> does not constitute <span class=\"u-italic\">substantial improvement</span>, the <span class=\"u-italic\">addition</span> is not required to comply with the flood design requirements for new  construction, provided that both of the following apply:\n    <ol class=\"u-list-decimal-separated\">\n        <li><div class=\"u-ml-3\">The <span class=\"u-italic\">addition</span> shall not create or extend any nonconformity of the <span class=\"u-italic\">existing building</span> with the flood-resistant construction  requirements.</div></li>\n        <li><div class=\"u-ml-3\">The <span class=\"u-italic\">lowest floor</span> of the <span class=\"u-italic\">addition</span> shall be at or above the lower of the <span class=\"u-italic\">lowest floor</span> of the <span class=\"u-italic\">existing building</span> or the <span class=\"u-italic\">lowest floor</span> elevation required in Section 1612 of the <span class=\"u-italic\"> Building Code <span class=\"code_addition\">of New York State</span></span>, or Section R306 of the <span class=\"u-italic\">Residential Code <span class=\"code_addition\">of New York State</span></span>, as applicable.</div></li>\n    </ol></li>\n</ol>\n</li><li>For horizontal <span class=\"u-italic\">additions</span> that are not structurally interconnected to the <span class=\"u-italic\">existing building</span>:\n<ol class=\"u-list-decimal-separated\">\n    <li>The <span class=\"u-italic\">addition</span> shall comply with Section 1612 of the <span class=\"u-italic\">Building Code <span class=\"code_addition\">of New York State</span></span>, or Section R306 of the <span class=\"u-italic\">Residential Code <span class=\"code_addition\">of New York State</span></span>, as applicable.</li>\n    <li>If the <span class=\"u-italic\">addition</span> and all other proposed work, when combined, constitute <span class=\"u-italic\">substantial improvement</span>, the <span class=\"u-italic\">existing building</span> and the <span class=\"u-italic\">addition</span> shall comply with Section 1612 of the <span class=\"u-italic\">Building Code <span class=\"code_addition\">of New York State</span></span>, or Section R306 of the <span class=\"u-italic\">Residential Code <span class=\"code_addition\">of New York State</span></span>, as applicable.</li>\n</ol>\n</li><li>For vertical <span class=\"u-italic\">additions</span> and all other proposed work that, when combined, constitute <span class=\"u-italic\">substantial improvement</span>,   the <span class=\"u-italic\">existing building</span> shall comply with Section 1612 of the <span class=\"u-italic\">Building Code <span class=\"code_addition\">of New York State</span></span>, or Section R306 of the <span class=\"u-italic\">Residential Code <span class=\"code_addition\">of New York State</span></span>, as applicable.</li><li>For a new foundation, replacement foundation or a foundation raised or extended upward, the foundation shall comply with Section 1612 of the <span class=\"u-italic\">Building Code <span class=\"code_addition\">of New York State</span>,</span> or Section R306 of the <span class=\"u-italic\">Residential Code <span class=\"code_addition\">of New York State</span></span>, as applicable.</li></ol>",
+                                        "depth": 2,
+                                        "diagrams": [],
+                                        "displayRef": null,
+                                        "displayTitle": "[BS]  1103.3 Flood Hazard Areas",
+                                        "hasAssemblies": false,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 0,
+                                        "numDiagramsOnRef": 0,
+                                        "reference": "1103.3",
+                                        "refPrefix": "[BS]",
+                                        "slug": "additions",
+                                        "titleText": "Flood Hazard Areas",
+                                        "children": []
+                                    }
+                                ]
+                            },
+                            {
+                                "ancestorRefs": [
+                                    "11"
+                                ],
+                                "depth": 1,
+                                "diagrams": [],
+                                "displayRef": null,
+                                "displayTitle": "Section 1104 Energy Conservation",
+                                "divisionType": "Section",
+                                "hasAssemblies": false,
+                                "isContiguous": true,
+                                "numAssembliesOnRef": 0,
+                                "numBuildingProductsOnRef": 0,
+                                "numDiagramsOnRef": 0,
+                                "reference": "1104",
+                                "slug": "additions",
+                                "titleText": "Energy Conservation",
+                                "children": [
+                                    {
+                                        "amendType": "edit",
+                                        "ancestorRefs": [
+                                            "11",
+                                            "1104"
+                                        ],
+                                        "body": "<div><span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/new_york/iebc-2024/chapter/2/definitions#addition_\">Additions</a></span> to <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/new_york/iebc-2024/chapter/2/definitions#existing_building_\">existing buildings</a></span> shall conform to the energy requirements of the <span class=\"u-italic\">Energy Conservation <span class=\"code_addition\">Construction</span> Code <span class=\"code_addition\">of New York State</span></span> as <span class=\"code_addition\">it relates</span> to new   construction.</div>",
+                                        "depth": 2,
+                                        "diagrams": [],
+                                        "displayRef": null,
+                                        "displayTitle": "1104.1 Minimum Requirements",
+                                        "hasAssemblies": false,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 0,
+                                        "numDiagramsOnRef": 0,
+                                        "reference": "1104.1",
+                                        "slug": "additions",
+                                        "titleText": "Minimum Requirements",
+                                        "children": []
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            "chapterReference": "11"
+        },
+        "__N_SSP": true
+    },
+    "page": "/viewer/[urlFormPubOrJurisKey]/[urlFormPub]/chapter/[chapterRef]/[chapterName]",
+    "query": {
+        "urlFormPubOrJurisKey": "new_york",
+        "urlFormPub": "iebc-2024",
+        "chapterRef": "11",
+        "chapterName": "additions"
+    },
+    "buildId": "aNDb_KMgxj06vGZ7D_0_K",
+    "isFallback": false,
+    "isExperimentalCompile": false,
+    "dynamicIds": [
+        61621,
+        54065
+    ],
+    "gssp": true,
+    "scriptLoader": []
+}

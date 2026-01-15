@@ -1,0 +1,1676 @@
+{
+    "props": {
+        "pageProps": {
+            "missingRequiredLogin": false,
+            "title": "Chapter 12 Historic Buildings: Oregon Existing Building Code 2024 | UpCodes",
+            "leanChapterViewerData": {
+                "basePubName": "International Existing Building Code 2024 (IEBC 2024)",
+                "codeGroupingYear": "2025",
+                "codeName": "Oregon Existing Building Code 2024",
+                "codeUuid": "b601c599-d134-4736-adcf-5b4d64c1ea21",
+                "codeVersions": [
+                    {
+                        "codeUuid": "b601c599-d134-4736-adcf-5b4d64c1ea21",
+                        "name": "Original Adoption",
+                        "effectiveStartDate": "2025-10-01",
+                        "shortformUrlName": "iebc-2024",
+                        "activeStatus": "active"
+                    }
+                ],
+                "ingesterAmendmentsEnabled": false,
+                "ingesterCodeUnitsEnabled": false,
+                "isAmendStylingEnabled": true,
+                "isCorrespondable": true,
+                "jurisKey": "oregon",
+                "jurisName": "Oregon",
+                "metaInfoUrl": "/viewer/oregon/iebc-2024",
+                "modelCodeUrl": null,
+                "placeholder": "Search Oregon Existing Building Code 2024",
+                "pubKey": "int_ebc_2024",
+                "pubPrefix": "int_ebc",
+                "shortformPubName": "iebc-2024",
+                "withAmendments": true,
+                "chapterRef": "12",
+                "publisher": "icc",
+                "hasLinkedResources": false,
+                "initialNonChapterTocLines": [
+                    {
+                        "amendType": null,
+                        "children": [
+                            {
+                                "amendType": "edit",
+                                "children": [],
+                                "depth": 2,
+                                "displayTitle": "1201.1 Scope",
+                                "hasExpanderArrow": false,
+                                "href": "#1201.1",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "reference": "1201.1"
+                            },
+                            {
+                                "amendType": "deletion",
+                                "children": [],
+                                "depth": 2,
+                                "displayTitle": "<span class=\"code_deletion\">1201.2</span> <span class=\"code_deletion\">Report</span>",
+                                "hasExpanderArrow": false,
+                                "href": "#1201.2",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "reference": "1201.2"
+                            },
+                            {
+                                "amendType": "addition",
+                                "children": [],
+                                "depth": 2,
+                                "displayTitle": "1201.2 Preservation, Restoration, Rehabilitation or Continued Use",
+                                "hasExpanderArrow": false,
+                                "href": "#new_1201.2",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "reference": "new_1201.2"
+                            },
+                            {
+                                "amendType": "edit",
+                                "children": [],
+                                "depth": 2,
+                                "displayTitle": "1201.3 Special Occupancy Exceptions<span class=\"code_deletion\">\u2014Museums</span>",
+                                "hasExpanderArrow": false,
+                                "href": "#1201.3",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "reference": "1201.3"
+                            },
+                            {
+                                "amendType": "edit",
+                                "children": [],
+                                "depth": 2,
+                                "displayTitle": "1201.4 Flood Hazard Areas",
+                                "hasExpanderArrow": false,
+                                "href": "#1201.4",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "reference": "1201.4"
+                            },
+                            {
+                                "amendType": "deletion",
+                                "children": [],
+                                "depth": 2,
+                                "displayTitle": "<span class=\"code_deletion\">1201.5</span> <span class=\"code_deletion\">Unsafe Conditions</span>",
+                                "hasExpanderArrow": false,
+                                "href": "#1201.5",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "reference": "1201.5"
+                            }
+                        ],
+                        "depth": 1,
+                        "displayTitle": "1201 General",
+                        "hasExpanderArrow": true,
+                        "href": "#1201",
+                        "isCodeDivider": false,
+                        "isCodeDividerClickable": false,
+                        "reference": "1201"
+                    },
+                    {
+                        "amendType": null,
+                        "children": [
+                            {
+                                "amendType": "edit",
+                                "children": [],
+                                "depth": 2,
+                                "displayTitle": "1202.1 General",
+                                "hasExpanderArrow": false,
+                                "href": "#1202.1",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "reference": "1202.1"
+                            },
+                            {
+                                "amendType": "edit",
+                                "children": [],
+                                "depth": 2,
+                                "displayTitle": "1202.2 Replacement",
+                                "hasExpanderArrow": false,
+                                "href": "#1202.2",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "reference": "1202.2"
+                            },
+                            {
+                                "amendType": "addition",
+                                "children": [],
+                                "depth": 2,
+                                "displayTitle": "1202.3 Substantial Structural Damage",
+                                "hasExpanderArrow": false,
+                                "href": "#new_1202.3",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "reference": "new_1202.3"
+                            }
+                        ],
+                        "depth": 1,
+                        "displayTitle": "1202 Repairs",
+                        "hasExpanderArrow": true,
+                        "href": "#1202",
+                        "isCodeDivider": false,
+                        "isCodeDividerClickable": false,
+                        "reference": "1202"
+                    },
+                    {
+                        "amendType": null,
+                        "children": [
+                            {
+                                "amendType": "edit",
+                                "children": [],
+                                "depth": 2,
+                                "displayTitle": "1203.1 Scope",
+                                "hasExpanderArrow": false,
+                                "href": "#1203.1",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "reference": "1203.1"
+                            },
+                            {
+                                "amendType": "edit",
+                                "children": [],
+                                "depth": 2,
+                                "displayTitle": "1203.2 General",
+                                "hasExpanderArrow": false,
+                                "href": "#1203.2",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "reference": "1203.2"
+                            },
+                            {
+                                "amendType": "edit",
+                                "children": [],
+                                "depth": 2,
+                                "displayTitle": "1203.3 Means of Egress",
+                                "hasExpanderArrow": false,
+                                "href": "#1203.3",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "reference": "1203.3"
+                            },
+                            {
+                                "amendType": null,
+                                "children": [],
+                                "depth": 2,
+                                "displayTitle": "1203.4 Transoms",
+                                "hasExpanderArrow": false,
+                                "href": "#1203.4",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "reference": "1203.4"
+                            },
+                            {
+                                "amendType": null,
+                                "children": [],
+                                "depth": 2,
+                                "displayTitle": "1203.5 Interior Finishes",
+                                "hasExpanderArrow": false,
+                                "href": "#1203.5",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "reference": "1203.5"
+                            },
+                            {
+                                "amendType": null,
+                                "children": [],
+                                "depth": 2,
+                                "displayTitle": "1203.6 Stairway Enclosure",
+                                "hasExpanderArrow": false,
+                                "href": "#1203.6",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "reference": "1203.6"
+                            },
+                            {
+                                "amendType": null,
+                                "children": [],
+                                "depth": 2,
+                                "displayTitle": "1203.7 One-Hour Fire-Resistant Assemblies",
+                                "hasExpanderArrow": false,
+                                "href": "#1203.7",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "reference": "1203.7"
+                            },
+                            {
+                                "amendType": null,
+                                "children": [],
+                                "depth": 2,
+                                "displayTitle": "1203.8 Glazing in Fire-Resistance-Rated Systems",
+                                "hasExpanderArrow": false,
+                                "href": "#1203.8",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "reference": "1203.8"
+                            },
+                            {
+                                "amendType": null,
+                                "children": [],
+                                "depth": 2,
+                                "displayTitle": "1203.9 Stairway Railings",
+                                "hasExpanderArrow": false,
+                                "href": "#1203.9",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "reference": "1203.9"
+                            },
+                            {
+                                "amendType": null,
+                                "children": [
+                                    {
+                                        "amendType": null,
+                                        "children": [],
+                                        "depth": 3,
+                                        "displayTitle": "1203.10.1 Height",
+                                        "hasExpanderArrow": false,
+                                        "href": "#1203.10.1",
+                                        "isCodeDivider": false,
+                                        "isCodeDividerClickable": false,
+                                        "reference": "1203.10.1"
+                                    },
+                                    {
+                                        "amendType": null,
+                                        "children": [],
+                                        "depth": 3,
+                                        "displayTitle": "1203.10.2 Guard Openings",
+                                        "hasExpanderArrow": false,
+                                        "href": "#1203.10.2",
+                                        "isCodeDivider": false,
+                                        "isCodeDividerClickable": false,
+                                        "reference": "1203.10.2"
+                                    }
+                                ],
+                                "depth": 2,
+                                "displayTitle": "1203.10 Guards",
+                                "hasExpanderArrow": true,
+                                "href": "#1203.10",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "reference": "1203.10"
+                            },
+                            {
+                                "amendType": "edit",
+                                "children": [],
+                                "depth": 2,
+                                "displayTitle": "1203.11 Exit Signs",
+                                "hasExpanderArrow": false,
+                                "href": "#1203.11",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "reference": "1203.11"
+                            },
+                            {
+                                "amendType": "edit",
+                                "children": [],
+                                "depth": 2,
+                                "displayTitle": "1203.12 Automatic Sprinkler Systems",
+                                "hasExpanderArrow": false,
+                                "href": "#1203.12",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "reference": "1203.12"
+                            }
+                        ],
+                        "depth": 1,
+                        "displayTitle": "1203 Fire Safety",
+                        "hasExpanderArrow": true,
+                        "href": "#1203",
+                        "isCodeDivider": false,
+                        "isCodeDividerClickable": false,
+                        "reference": "1203"
+                    },
+                    {
+                        "amendType": null,
+                        "children": [
+                            {
+                                "amendType": null,
+                                "children": [],
+                                "depth": 2,
+                                "displayTitle": "1204.1 General",
+                                "hasExpanderArrow": false,
+                                "href": "#1204.1",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "reference": "1204.1"
+                            },
+                            {
+                                "amendType": "edit",
+                                "children": [],
+                                "depth": 2,
+                                "displayTitle": "1204.2 Building Area",
+                                "hasExpanderArrow": false,
+                                "href": "#1204.2",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "reference": "1204.2"
+                            },
+                            {
+                                "amendType": null,
+                                "children": [],
+                                "depth": 2,
+                                "displayTitle": "1204.3 Location on Property",
+                                "hasExpanderArrow": false,
+                                "href": "#1204.3",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "reference": "1204.3"
+                            },
+                            {
+                                "amendType": null,
+                                "children": [],
+                                "depth": 2,
+                                "displayTitle": "1204.4 Occupancy Separation",
+                                "hasExpanderArrow": false,
+                                "href": "#1204.4",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "reference": "1204.4"
+                            },
+                            {
+                                "amendType": null,
+                                "children": [],
+                                "depth": 2,
+                                "displayTitle": "1204.5 Roof Covering",
+                                "hasExpanderArrow": false,
+                                "href": "#1204.5",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "reference": "1204.5"
+                            },
+                            {
+                                "amendType": "edit",
+                                "children": [],
+                                "depth": 2,
+                                "displayTitle": "1204.6 Means of Egress",
+                                "hasExpanderArrow": false,
+                                "href": "#1204.6",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "reference": "1204.6"
+                            },
+                            {
+                                "amendType": "edit",
+                                "children": [],
+                                "depth": 2,
+                                "displayTitle": "1204.7 Door Swing",
+                                "hasExpanderArrow": false,
+                                "href": "#1204.7",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "reference": "1204.7"
+                            },
+                            {
+                                "amendType": null,
+                                "children": [],
+                                "depth": 2,
+                                "displayTitle": "1204.8 Transoms",
+                                "hasExpanderArrow": false,
+                                "href": "#1204.8",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "reference": "1204.8"
+                            },
+                            {
+                                "amendType": "edit",
+                                "children": [],
+                                "depth": 2,
+                                "displayTitle": "1204.9 Interior Finishes",
+                                "hasExpanderArrow": false,
+                                "href": "#1204.9",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "reference": "1204.9"
+                            },
+                            {
+                                "amendType": null,
+                                "children": [],
+                                "depth": 2,
+                                "displayTitle": "1204.10 One-Hour Fire-Resistant Assemblies",
+                                "hasExpanderArrow": false,
+                                "href": "#1204.10",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "reference": "1204.10"
+                            },
+                            {
+                                "amendType": "edit",
+                                "children": [],
+                                "depth": 2,
+                                "displayTitle": "1204.11 Stairways and Guards",
+                                "hasExpanderArrow": false,
+                                "href": "#1204.11",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "reference": "1204.11"
+                            },
+                            {
+                                "amendType": "edit",
+                                "children": [],
+                                "depth": 2,
+                                "displayTitle": "1204.12 Exit Signs",
+                                "hasExpanderArrow": false,
+                                "href": "#1204.12",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "reference": "1204.12"
+                            },
+                            {
+                                "amendType": null,
+                                "children": [],
+                                "depth": 2,
+                                "displayTitle": "1204.13 Exit Stair Live Load",
+                                "hasExpanderArrow": false,
+                                "href": "#1204.13",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "reference": "1204.13"
+                            },
+                            {
+                                "amendType": "edit",
+                                "children": [],
+                                "depth": 2,
+                                "displayTitle": "1204.14 Natural Light",
+                                "hasExpanderArrow": false,
+                                "href": "#1204.14",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "reference": "1204.14"
+                            }
+                        ],
+                        "depth": 1,
+                        "displayTitle": "1204 Change of Occupancy",
+                        "hasExpanderArrow": true,
+                        "href": "#1204",
+                        "isCodeDivider": false,
+                        "isCodeDividerClickable": false,
+                        "reference": "1204"
+                    },
+                    {
+                        "amendType": null,
+                        "children": [
+                            {
+                                "amendType": "edit",
+                                "children": [],
+                                "depth": 2,
+                                "displayTitle": "1205.1 General",
+                                "hasExpanderArrow": false,
+                                "href": "#1205.1",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "reference": "1205.1"
+                            },
+                            {
+                                "amendType": "deletion",
+                                "children": [],
+                                "depth": 2,
+                                "displayTitle": "<span class=\"code_deletion\">1205.2</span> <span class=\"code_deletion\">Dangerous Conditions</span>",
+                                "hasExpanderArrow": false,
+                                "href": "#1205.2",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "reference": "1205.2"
+                            }
+                        ],
+                        "depth": 1,
+                        "displayTitle": "1205 Structural",
+                        "hasExpanderArrow": true,
+                        "href": "#1205",
+                        "isCodeDivider": false,
+                        "isCodeDividerClickable": false,
+                        "reference": "1205"
+                    },
+                    {
+                        "amendType": null,
+                        "children": [
+                            {
+                                "amendType": "edit",
+                                "children": [],
+                                "depth": 2,
+                                "displayTitle": "1206.1 Relocated Buildings",
+                                "hasExpanderArrow": false,
+                                "href": "#1206.1",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "reference": "1206.1"
+                            }
+                        ],
+                        "depth": 1,
+                        "displayTitle": "1206 Relocated Buildings",
+                        "hasExpanderArrow": true,
+                        "href": "#1206",
+                        "isCodeDivider": false,
+                        "isCodeDividerClickable": false,
+                        "reference": "1206"
+                    }
+                ],
+                "title": "Chapter 12 Historic Buildings: Oregon Existing Building Code 2024 | UpCodes",
+                "leanChapterLines": [
+                    {
+                        "displayTitle": "Chapter 1 Scope and Administration",
+                        "isExpandable": true,
+                        "reference": "1",
+                        "slug": "scope-and-administration"
+                    },
+                    {
+                        "displayTitle": "Chapter 2 Definitions",
+                        "isExpandable": true,
+                        "reference": "2",
+                        "slug": "definitions"
+                    },
+                    {
+                        "displayTitle": "Chapter 3 Provisions for All Compliance Methods",
+                        "isExpandable": true,
+                        "reference": "3",
+                        "slug": "provisions-for-all-compliance-methods"
+                    },
+                    {
+                        "displayTitle": "Chapter 4 Repairs",
+                        "isExpandable": true,
+                        "reference": "4",
+                        "slug": "repairs"
+                    },
+                    {
+                        "displayTitle": "Chapter 5 Prescriptive Compliance Method",
+                        "isExpandable": true,
+                        "reference": "5",
+                        "slug": "prescriptive-compliance-method"
+                    },
+                    {
+                        "displayTitle": "Chapter 6 Classification of Work",
+                        "isExpandable": true,
+                        "reference": "6",
+                        "slug": "classification-of-work"
+                    },
+                    {
+                        "displayTitle": "Chapter 7 Alterations\u2014Level 1",
+                        "isExpandable": true,
+                        "reference": "7",
+                        "slug": "alterations-level-1"
+                    },
+                    {
+                        "displayTitle": "Chapter 8 Alterations\u2014Level 2",
+                        "isExpandable": true,
+                        "reference": "8",
+                        "slug": "alterations-level-2"
+                    },
+                    {
+                        "displayTitle": "Chapter 9 Alterations\u2014Level 3",
+                        "isExpandable": true,
+                        "reference": "9",
+                        "slug": "alterations-level-3"
+                    },
+                    {
+                        "displayTitle": "Chapter 10 Change of Occupancy",
+                        "isExpandable": true,
+                        "reference": "10",
+                        "slug": "change-of-occupancy"
+                    },
+                    {
+                        "displayTitle": "Chapter 11 Additions",
+                        "isExpandable": true,
+                        "reference": "11",
+                        "slug": "additions"
+                    },
+                    {
+                        "displayTitle": "Chapter 12 Historic Buildings",
+                        "isExpandable": true,
+                        "reference": "12",
+                        "slug": "historic-buildings"
+                    },
+                    {
+                        "displayTitle": "Chapter 13 Performance Compliance Methods",
+                        "isExpandable": true,
+                        "reference": "13",
+                        "slug": "performance-compliance-methods"
+                    },
+                    {
+                        "displayTitle": "Chapter 14 Relocated or Moved Buildings",
+                        "isExpandable": true,
+                        "reference": "14",
+                        "slug": "relocated-or-moved-buildings"
+                    },
+                    {
+                        "displayTitle": "Chapter 15 Construction Safeguards",
+                        "isExpandable": true,
+                        "reference": "15",
+                        "slug": "construction-safeguards"
+                    },
+                    {
+                        "displayTitle": "Chapter 16 Referenced Standards",
+                        "reference": "16",
+                        "slug": "referenced-standards"
+                    },
+                    {
+                        "disabled": true,
+                        "displayTitle": "Appendix A Guidelines for the Seismic Retrofit of Existing Buildings",
+                        "reference": "A",
+                        "slug": "guidelines-for-the-seismic-retrofit-of-existing-buildings"
+                    },
+                    {
+                        "disabled": true,
+                        "displayTitle": "Appendix B Supplementary Accessibility Requirements for Existing Buildings and Facilities",
+                        "reference": "B",
+                        "slug": "supplementary-accessibility-requirements-for-existing-buildings-and-facilities"
+                    },
+                    {
+                        "disabled": true,
+                        "displayTitle": "Appendix C Guidelines for the Wind Retrofit of Existing Buildings",
+                        "reference": "C",
+                        "slug": "guidelines-for-the-wind-retrofit-of-existing-buildings"
+                    },
+                    {
+                        "disabled": true,
+                        "displayTitle": "Appendix D Board of Appeals",
+                        "reference": "D",
+                        "slug": "board-of-appeals"
+                    },
+                    {
+                        "disabled": true,
+                        "displayTitle": "Appendix E Temporary Emergency Uses",
+                        "reference": "E",
+                        "slug": "temporary-emergency-uses"
+                    },
+                    {
+                        "disabled": true,
+                        "displayTitle": "Resource A Guidelines on Fire Ratings of Archaic Materials and Assemblies",
+                        "reference": "resource_A",
+                        "slug": "guidelines-on-fire-ratings-of-archaic-materials-and-assemblies"
+                    }
+                ],
+                "leanCodeSectionsTree": [
+                    {
+                        "ancestorRefs": [],
+                        "body": "<div class=\"u-mt-4\"><div class=\"u-mt-3 u-font-bold u-mb-3\">User notes:</div><div class=\"u-mt-3 u-mb-3\"><span class=\"u-italic\"><span class=\"u-font-bold\">About this chapter</span>:                                 Chapter 12 provides some exceptions from code requirements when the                                 building in question has historic value. The most important                                 criterion for application of this chapter is that the building must                                 be essentially accredited as being of historic significance by a                                 state or local authority after careful review of the historical                                 value of the building. Most, if not all, states have such                                 authorities, as do many local jurisdictions. The agencies with such                                 authority can be located at the state or local government level or                                 through the local chapter of the American Institute of Architects                                 (AIA). Other considerations include the structural condition of the                                 building (i.e., is the building structurally sound), its proposed                                 use, its impact on life safety and how the intent of the code, if                                 not the letter, will be achieved.</span></div></div>",
+                        "depth": 0,
+                        "diagrams": [],
+                        "displayRef": null,
+                        "displayTitle": "Chapter 12 Historic Buildings",
+                        "divisionType": "Chapter",
+                        "hasAssemblies": false,
+                        "isContiguous": true,
+                        "numAssembliesOnRef": 0,
+                        "numBuildingProductsOnRef": 0,
+                        "numDiagramsOnRef": 0,
+                        "reference": "12",
+                        "slug": "historic-buildings",
+                        "titleText": "Historic Buildings",
+                        "children": [
+                            {
+                                "ancestorRefs": [
+                                    "12"
+                                ],
+                                "depth": 1,
+                                "diagrams": [],
+                                "displayRef": null,
+                                "displayTitle": "Section 1201 General",
+                                "divisionType": "Section",
+                                "hasAssemblies": false,
+                                "isContiguous": true,
+                                "numAssembliesOnRef": 0,
+                                "numBuildingProductsOnRef": 0,
+                                "numDiagramsOnRef": 0,
+                                "reference": "1201",
+                                "slug": "historic-buildings",
+                                "titleText": "General",
+                                "children": [
+                                    {
+                                        "amendType": "edit",
+                                        "ancestorRefs": [
+                                            "12",
+                                            "1201"
+                                        ],
+                                        "body": "<div>This chapter is intended to provide means for the preservation of <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/oregon/iebc-2024/chapter/2/definitions#historic_building_\">historic buildings</a>.</span> <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/oregon/iebc-2024/chapter/2/definitions#historic_building_\">Historic buildings</a></span> shall comply with the provisions of this chapter relating to their <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/oregon/iebc-2024/chapter/2/definitions#repair_\">repair</a></span>, <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/oregon/iebc-2024/chapter/2/definitions#alteration_\">alteration</a> </span>and <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/oregon/iebc-2024/chapter/2/definitions#change_of_occupancy_\">change of occupancy</a></span>.</div>",
+                                        "depth": 2,
+                                        "diagrams": [],
+                                        "displayRef": null,
+                                        "displayTitle": "1201.1 Scope",
+                                        "hasAssemblies": false,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 0,
+                                        "numDiagramsOnRef": 0,
+                                        "reference": "1201.1",
+                                        "slug": "historic-buildings",
+                                        "titleText": "Scope",
+                                        "children": []
+                                    },
+                                    {
+                                        "amendType": "deletion",
+                                        "ancestorRefs": [
+                                            "12",
+                                            "1201"
+                                        ],
+                                        "depth": 2,
+                                        "diagrams": [],
+                                        "displayRef": "<span class=\"code_deletion\">1201.2</span>",
+                                        "displayTitle": "[BS]  <span class=\"code_deletion\">1201.2</span> <span class=\"code_deletion\">Report</span>",
+                                        "hasAssemblies": false,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 0,
+                                        "numDiagramsOnRef": 0,
+                                        "reference": "1201.2",
+                                        "refPrefix": "[BS]",
+                                        "slug": "historic-buildings",
+                                        "titleText": "<span class=\"code_deletion\">Report</span>",
+                                        "children": []
+                                    },
+                                    {
+                                        "amendType": "addition",
+                                        "ancestorRefs": [
+                                            "12",
+                                            "1201"
+                                        ],
+                                        "body": "<i><a class=\"autolink\" href=\"/viewer/oregon/iebc-2024/chapter/2/definitions#alteration_\">Alterations</a></i> and <i><a class=\"autolink\" href=\"/viewer/oregon/iebc-2024/chapter/2/definitions#addition_\">additions</a></i> necessary for the preservation, restoration, rehabilitation or continued use of a building or structure may be made without conformance to all the requirements of this code when authorized by the <i>building official</i>, provided that:\n<ol>\n<li>The building or structure has been designated by official action of the legally constituted authority of the <i>municipality</i> as having special historical or architectural significance.</li>\n<li>Any <i><a class=\"autolink\" href=\"/viewer/oregon/iebc-2024/chapter/2/definitions#unsafe_\">unsafe</a></i> conditions are corrected.</li>\n<li>The restored building or structure will be no more hazardous based on life safety, fire safety and sanitation than the <i><a class=\"autolink\" href=\"/viewer/oregon/iebc-2024/chapter/2/definitions#existing_building_\">existing building</a></i>.</li>\n<li>The <i>building official</i> seeks the advice of the State of Oregon historic preservation officer. In case of appeals related to <i><a class=\"autolink\" href=\"/viewer/oregon/iebc-2024/chapter/2/definitions#historic_building_\">historic buildings</a></i>, the local appeals board or the appropriate state appeals board shall seek the advice of the State of Oregon historic preservation officer.</li>\n</ol>",
+                                        "depth": 2,
+                                        "diagrams": [],
+                                        "displayRef": "1201.2",
+                                        "displayTitle": "1201.2 Preservation, Restoration, Rehabilitation or Continued Use",
+                                        "hasAssemblies": false,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 0,
+                                        "numDiagramsOnRef": 0,
+                                        "reference": "new_1201.2",
+                                        "slug": "historic-buildings",
+                                        "titleText": "Preservation, Restoration, Rehabilitation or Continued Use",
+                                        "children": []
+                                    },
+                                    {
+                                        "amendType": "edit",
+                                        "ancestorRefs": [
+                                            "12",
+                                            "1201"
+                                        ],
+                                        "body": "<div>Where a building in Group R-3 is used for Group A, B or M purposes <span class=\"code_addition\">including</span> exhibits and other public assembly activities, or for museums less than 3,000 square feet (279 m<sup>2</sup>) per floor and a maximum of three stories, the occupancy shall be classified as Group B where life safety conditions are <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/oregon/iebc-2024/chapter/2/definitions#approved_\">approved</a></span> by the <span class=\"u-italic\"><span class=\"code_addition\">building</span> official</span> in accordance with <a class=\"autolink\" href=\"#new_1201.2\">Section 1201.2</a>. Adequate means of egress in such buildings, including, but not limited to, a means of maintaining doors in an unlocked position to permit egress, a limit on building occupancy to an occupant load permitted by the means of egress capacity, a limit on occupancy of certain areas or floors, or supervision by a person knowledgeable in the emergency exiting procedures, shall be provided.</div>",
+                                        "depth": 2,
+                                        "diagrams": [],
+                                        "displayRef": null,
+                                        "displayTitle": "1201.3 Special Occupancy Exceptions<span class=\"code_deletion\">\u2014Museums</span>",
+                                        "hasAssemblies": false,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 0,
+                                        "numDiagramsOnRef": 0,
+                                        "reference": "1201.3",
+                                        "slug": "historic-buildings",
+                                        "titleText": "Special Occupancy Exceptions<span class=\"code_deletion\">\u2014Museums</span>",
+                                        "children": []
+                                    },
+                                    {
+                                        "amendType": "edit",
+                                        "ancestorRefs": [
+                                            "12",
+                                            "1201"
+                                        ],
+                                        "body": "<div>\n<div class=\"u-mt-3 u-mb-3\">In <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/oregon/iebc-2024/chapter/2/definitions#flood_hazard_area_\">flood hazard areas</a></span><span class=\"code_addition\"> established by the <i>flood plain administrator</i></span>, if all proposed work, including <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/oregon/iebc-2024/chapter/2/definitions#repair_\">repairs</a></span>, work required because of a <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/oregon/iebc-2024/chapter/2/definitions#change_of_occupancy_\">change of occupancy</a></span>, and <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/oregon/iebc-2024/chapter/2/definitions#alteration_\">alterations</a></span>, constitutes <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/oregon/iebc-2024/chapter/2/definitions#substantial_improvement_\">substantial improvement</a></span>, then the <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/oregon/iebc-2024/chapter/2/definitions#existing_building_\">existing building</a></span> shall comply with Section 1612.</div>\n<div class=\"u-ml-4\">\n<div class=\"u-mt-3 u-mb-3\"><span class=\"u-font-bold\">Exception: </span> If a <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/oregon/iebc-2024/chapter/2/definitions#historic_building_\">historic building</a></span> will continue to be a <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/oregon/iebc-2024/chapter/2/definitions#historic_building_\">historic building</a></span> after the proposed work is completed, then the proposed work is not considered a <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/oregon/iebc-2024/chapter/2/definitions#substantial_improvement_\">substantial improvement</a></span>. For the purposes of this exception, a <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/oregon/iebc-2024/chapter/2/definitions#historic_building_\">historic building</a></span> is any of the following:</div>\n<ol class=\"u-text-left\">\n<li>Listed or preliminarily determined to be eligible for listing in the National Register of Historic Places.</li>\n<li>Determined by the Secretary of the US Department of <span class=\"code_addition\">the</span> Interior to contribute to the historical significance of a registered historic district or a district preliminarily determined to qualify as a historic district.</li>\n<li>Designated as historic under a state or local historic preservation program that is <a class=\"autolink\" href=\"/viewer/oregon/iebc-2024/chapter/2/definitions#approved_\">approved</a> by the Department of <span class=\"code_addition\">the</span> Interior.</li>\n<li class=\"code_addition\">Designated by official action of the legally constituted authority of the <i>municipality</i> as having special historical or architectural significance.</li>\n</ol>\n</div>\n</div>",
+                                        "depth": 2,
+                                        "diagrams": [],
+                                        "displayRef": null,
+                                        "displayTitle": "[BS]  1201.4 Flood Hazard Areas",
+                                        "hasAssemblies": false,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 0,
+                                        "numDiagramsOnRef": 0,
+                                        "reference": "1201.4",
+                                        "refPrefix": "[BS]",
+                                        "slug": "historic-buildings",
+                                        "titleText": "Flood Hazard Areas",
+                                        "children": []
+                                    },
+                                    {
+                                        "amendType": "deletion",
+                                        "ancestorRefs": [
+                                            "12",
+                                            "1201"
+                                        ],
+                                        "depth": 2,
+                                        "diagrams": [],
+                                        "displayRef": "<span class=\"code_deletion\">1201.5</span>",
+                                        "displayTitle": "<span class=\"code_deletion\">1201.5</span> <span class=\"code_deletion\">Unsafe Conditions</span>",
+                                        "hasAssemblies": false,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 0,
+                                        "numDiagramsOnRef": 0,
+                                        "reference": "1201.5",
+                                        "slug": "historic-buildings",
+                                        "titleText": "<span class=\"code_deletion\">Unsafe Conditions</span>",
+                                        "children": []
+                                    }
+                                ]
+                            },
+                            {
+                                "ancestorRefs": [
+                                    "12"
+                                ],
+                                "depth": 1,
+                                "diagrams": [],
+                                "displayRef": null,
+                                "displayTitle": "Section 1202 Repairs",
+                                "divisionType": "Section",
+                                "hasAssemblies": false,
+                                "isContiguous": true,
+                                "numAssembliesOnRef": 0,
+                                "numBuildingProductsOnRef": 0,
+                                "numDiagramsOnRef": 0,
+                                "reference": "1202",
+                                "slug": "historic-buildings",
+                                "titleText": "Repairs",
+                                "children": [
+                                    {
+                                        "amendType": "edit",
+                                        "ancestorRefs": [
+                                            "12",
+                                            "1202"
+                                        ],
+                                        "body": "<div><i><a class=\"autolink\" href=\"/viewer/oregon/iebc-2024/chapter/2/definitions#repair_\">Repairs</a></i> to any portion of a <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/oregon/iebc-2024/chapter/2/definitions#historic_building_\">historic building</a></span> or structure shall be permitted with original or like materials and original methods of construction, subject to the provisions of this <span class=\"code_addition\">section</span>. <span class=\"code_addition\">Where it becomes necessary to <a class=\"autolink\" href=\"/viewer/oregon/iebc-2024/chapter/2/definitions#repair_\">repair</a> all or a portion of a legally existing <i><a class=\"autolink\" href=\"/viewer/oregon/iebc-2024/chapter/2/definitions#historic_building_\">historic building</a></i> that has been damaged by a cause outside of the control of the building owner including but not limited to fire, wind, flood, earthquake and other similar damage where, prior to the damage, the legally <i><a class=\"autolink\" href=\"/viewer/oregon/iebc-2024/chapter/2/definitions#existing_building_\">existing building</a></i> did not contain <i><a class=\"autolink\" href=\"/viewer/oregon/iebc-2024/chapter/2/definitions#unsafe_\">unsafe</a></i> conditions, the building may be reconstructed exactly as it existed prior to the damage, where the requirements of this subsection are met.</span> Hazardous materials, such as asbestos and lead-based paint, shall not be used where <span class=\"code_addition\">their use in buildings of similar occupancy, purpose and location would not be permitted in</span> the new construction <span class=\"code_addition\">provisions of this code</span>.</div>",
+                                        "depth": 2,
+                                        "diagrams": [],
+                                        "displayRef": null,
+                                        "displayTitle": "1202.1 General",
+                                        "hasAssemblies": false,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 0,
+                                        "numDiagramsOnRef": 0,
+                                        "reference": "1202.1",
+                                        "slug": "historic-buildings",
+                                        "titleText": "General",
+                                        "children": []
+                                    },
+                                    {
+                                        "amendType": "edit",
+                                        "ancestorRefs": [
+                                            "12",
+                                            "1202"
+                                        ],
+                                        "body": "<div>\n<div class=\"u-mt-3 u-mb-3\">Replacement of existing or missing features using original materials shall be permitted. Partial replacement for <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/oregon/iebc-2024/chapter/2/definitions#repair_\">repairs</a></span> that match the original in configuration, height and size shall be permitted.</div>\n<div class=\"u-mt-3 u-indent-6 u-mb-3\">Replacement glazing in hazardous locations shall comply with the safety glazing requirements of Chapter 24.</div>\n<div class=\"u-mt-3 u-ml-4 u-mb-3\"><span class=\"u-font-bold\">Exception: </span> Glass block walls, louvered windows and jalousies repaired with like materials.</div>\n</div>",
+                                        "depth": 2,
+                                        "diagrams": [],
+                                        "displayRef": null,
+                                        "displayTitle": "1202.2 Replacement",
+                                        "hasAssemblies": false,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 0,
+                                        "numDiagramsOnRef": 0,
+                                        "reference": "1202.2",
+                                        "slug": "historic-buildings",
+                                        "titleText": "Replacement",
+                                        "children": []
+                                    },
+                                    {
+                                        "amendType": "addition",
+                                        "ancestorRefs": [
+                                            "12",
+                                            "1202"
+                                        ],
+                                        "body": "<i><a class=\"autolink\" href=\"/viewer/oregon/iebc-2024/chapter/2/definitions#repair_\">Repair</a></i> of <i><a class=\"autolink\" href=\"/viewer/oregon/iebc-2024/chapter/2/definitions#substantial_structural_damage_\">substantial structural damage</a></i> shall be in accordance with <a class=\"autolink\" href=\"/viewer/oregon/iebc-2024/chapter/4/repairs#405.2.1\">Section 405.2.1</a>.",
+                                        "depth": 2,
+                                        "diagrams": [],
+                                        "displayRef": "1202.3",
+                                        "displayTitle": "1202.3 Substantial Structural Damage",
+                                        "hasAssemblies": false,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 0,
+                                        "numDiagramsOnRef": 0,
+                                        "reference": "new_1202.3",
+                                        "slug": "historic-buildings",
+                                        "titleText": "Substantial Structural Damage",
+                                        "children": []
+                                    }
+                                ]
+                            },
+                            {
+                                "ancestorRefs": [
+                                    "12"
+                                ],
+                                "depth": 1,
+                                "diagrams": [],
+                                "displayRef": null,
+                                "displayTitle": "Section 1203 Fire Safety",
+                                "divisionType": "Section",
+                                "hasAssemblies": false,
+                                "isContiguous": true,
+                                "numAssembliesOnRef": 0,
+                                "numBuildingProductsOnRef": 0,
+                                "numDiagramsOnRef": 0,
+                                "reference": "1203",
+                                "slug": "historic-buildings",
+                                "titleText": "Fire Safety",
+                                "children": [
+                                    {
+                                        "amendType": "edit",
+                                        "ancestorRefs": [
+                                            "12",
+                                            "1203"
+                                        ],
+                                        "body": "<div><span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/oregon/iebc-2024/chapter/2/definitions#historic_building_\">Historic buildings</a></span> undergoing <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/oregon/iebc-2024/chapter/2/definitions#alteration_\">alterations</a></span> <span class=\"code_addition\">or</span> <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/oregon/iebc-2024/chapter/2/definitions#change_of_occupancy_\">changes of occupancy</a></span> shall comply with <a class=\"autolink\" href=\"#1203\">Section 1203</a>.</div>",
+                                        "depth": 2,
+                                        "diagrams": [],
+                                        "displayRef": null,
+                                        "displayTitle": "1203.1 Scope",
+                                        "hasAssemblies": false,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 0,
+                                        "numDiagramsOnRef": 0,
+                                        "reference": "1203.1",
+                                        "slug": "historic-buildings",
+                                        "titleText": "Scope",
+                                        "children": []
+                                    },
+                                    {
+                                        "amendType": "edit",
+                                        "ancestorRefs": [
+                                            "12",
+                                            "1203"
+                                        ],
+                                        "body": "<div>Every <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/oregon/iebc-2024/chapter/2/definitions#historic_building_\">historic building</a></span> that does not conform to the construction requirements specified in this <span class=\"code_addition\">chapter</span> for the occupancy or use and that constitutes a distinct fire hazard as defined herein shall be provided with an <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/oregon/iebc-2024/chapter/2/definitions#approved_\">approved</a></span> automatic sprinkler system as determined appropriate by the <span class=\"u-italic\"><span class=\"code_addition\">building</span> official</span>. However, an automatic sprinkler system shall not be used to substitute for, or act as an alternative to, the required number of exits from any <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/oregon/iebc-2024/chapter/2/definitions#facility_\">facility</a></span>.</div>",
+                                        "depth": 2,
+                                        "diagrams": [],
+                                        "displayRef": null,
+                                        "displayTitle": "1203.2 General",
+                                        "hasAssemblies": false,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 0,
+                                        "numDiagramsOnRef": 0,
+                                        "reference": "1203.2",
+                                        "slug": "historic-buildings",
+                                        "titleText": "General",
+                                        "children": []
+                                    },
+                                    {
+                                        "amendType": "edit",
+                                        "ancestorRefs": [
+                                            "12",
+                                            "1203"
+                                        ],
+                                        "body": "<div>Where, in the opinion of the <span class=\"u-italic\"><span class=\"code_addition\">building</span> official</span>, there is sufficient width and height for a person to pass through the opening or traverse the means of egress, existing door openings and corridor and stairway widths are not required to meet the widths required by the <span class=\"code_addition\">provisions of </span>this code<span class=\"code_addition\"> for new construction</span>.</div>\n<div class=\"u-mt-3 u-indent-6\">Where <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/oregon/iebc-2024/chapter/2/definitions#approved_\">approved</a></span> by the <span class=\"u-italic\"><span class=\"code_addition\">building</span> official</span>, the front or main exit doors need not swing in the direction of the path of exit travel, provided that other <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/oregon/iebc-2024/chapter/2/definitions#approved_\">approved</a></span> means of egress having sufficient capacity to serve the total occupant load are provided.</div>",
+                                        "depth": 2,
+                                        "diagrams": [],
+                                        "displayRef": null,
+                                        "displayTitle": "1203.3 Means of Egress",
+                                        "hasAssemblies": false,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 0,
+                                        "numDiagramsOnRef": 0,
+                                        "reference": "1203.3",
+                                        "slug": "historic-buildings",
+                                        "titleText": "Means of Egress",
+                                        "children": []
+                                    },
+                                    {
+                                        "ancestorRefs": [
+                                            "12",
+                                            "1203"
+                                        ],
+                                        "body": "<div>In buildings&nbsp;with automatic sprinkler systems of Group R-1, R-2 or R-3,                             existing transoms in corridors and other fire-resistance-rated walls may                             be maintained if fixed in the closed position. A sprinkler shall be                             installed on each side of the transom.</div>",
+                                        "depth": 2,
+                                        "diagrams": [],
+                                        "displayRef": null,
+                                        "displayTitle": "1203.4 Transoms",
+                                        "hasAssemblies": false,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 0,
+                                        "numDiagramsOnRef": 0,
+                                        "reference": "1203.4",
+                                        "slug": "historic-buildings",
+                                        "titleText": "Transoms",
+                                        "children": []
+                                    },
+                                    {
+                                        "ancestorRefs": [
+                                            "12",
+                                            "1203"
+                                        ],
+                                        "body": "<div>The existing interior finishes shall be accepted where it is                             demonstrated that they are the historic finishes.</div>",
+                                        "depth": 2,
+                                        "diagrams": [],
+                                        "displayRef": null,
+                                        "displayTitle": "1203.5 Interior Finishes",
+                                        "hasAssemblies": false,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 0,
+                                        "numDiagramsOnRef": 0,
+                                        "reference": "1203.5",
+                                        "slug": "historic-buildings",
+                                        "titleText": "Interior Finishes",
+                                        "children": []
+                                    },
+                                    {
+                                        "ancestorRefs": [
+                                            "12",
+                                            "1203"
+                                        ],
+                                        "body": "<div>In buildings of three stories or less, exit enclosure construction                             shall limit the spread of smoke by the use of tight-fitting doors and                             solid elements. Such elements are not required to have a fire-resistance                             rating.</div>",
+                                        "depth": 2,
+                                        "diagrams": [],
+                                        "displayRef": null,
+                                        "displayTitle": "1203.6 Stairway Enclosure",
+                                        "hasAssemblies": false,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 0,
+                                        "numDiagramsOnRef": 0,
+                                        "reference": "1203.6",
+                                        "slug": "historic-buildings",
+                                        "titleText": "Stairway Enclosure",
+                                        "children": []
+                                    },
+                                    {
+                                        "ancestorRefs": [
+                                            "12",
+                                            "1203"
+                                        ],
+                                        "body": "<div>Where 1-hour fire-resistance-rated construction is required by these                             provisions, it need not be provided, regardless of construction or                             occupancy, where the existing wall and ceiling finish is wood or metal                             lath and plaster.</div>",
+                                        "depth": 2,
+                                        "diagrams": [],
+                                        "displayRef": null,
+                                        "displayTitle": "1203.7 One-Hour Fire-Resistant Assemblies",
+                                        "hasAssemblies": false,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 0,
+                                        "numDiagramsOnRef": 0,
+                                        "reference": "1203.7",
+                                        "slug": "historic-buildings",
+                                        "titleText": "One-Hour Fire-Resistant Assemblies",
+                                        "children": []
+                                    },
+                                    {
+                                        "ancestorRefs": [
+                                            "12",
+                                            "1203"
+                                        ],
+                                        "body": "<div>Historic glazing materials are permitted in interior walls required to                             have a 1-hour fire-resistance rating where the opening is provided with                                 <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/oregon/iebc-2024/chapter/2/definitions#approved_\">approved</a></span> smoke seals and the area                             affected is provided with an automatic sprinkler system.</div>",
+                                        "depth": 2,
+                                        "diagrams": [],
+                                        "displayRef": null,
+                                        "displayTitle": "1203.8 Glazing in Fire-Resistance-Rated Systems",
+                                        "hasAssemblies": false,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 0,
+                                        "numDiagramsOnRef": 0,
+                                        "reference": "1203.8",
+                                        "slug": "historic-buildings",
+                                        "titleText": "Glazing in Fire-Resistance-Rated Systems",
+                                        "children": []
+                                    },
+                                    {
+                                        "ancestorRefs": [
+                                            "12",
+                                            "1203"
+                                        ],
+                                        "body": "<div>Grand stairways shall be accepted without complying with the handrail                             and guard requirements. Existing handrails and guards at all stairways                             shall be permitted to remain, provided they are not structurally <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/oregon/iebc-2024/chapter/2/definitions#dangerous_\">dangerous</a></span>.</div>",
+                                        "depth": 2,
+                                        "diagrams": [],
+                                        "displayRef": null,
+                                        "displayTitle": "1203.9 Stairway Railings",
+                                        "hasAssemblies": false,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 0,
+                                        "numDiagramsOnRef": 0,
+                                        "reference": "1203.9",
+                                        "slug": "historic-buildings",
+                                        "titleText": "Stairway Railings",
+                                        "children": []
+                                    },
+                                    {
+                                        "ancestorRefs": [
+                                            "12",
+                                            "1203"
+                                        ],
+                                        "body": "<div>Guards shall comply with Sections <a class=\"autolink\" href=\"#1203.10.1\">1203.10.1</a> and <a class=\"autolink\" href=\"#1203.10.2\">1203.10.2</a>.</div>",
+                                        "depth": 2,
+                                        "diagrams": [],
+                                        "displayRef": null,
+                                        "displayTitle": "1203.10 Guards",
+                                        "hasAssemblies": false,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 0,
+                                        "numDiagramsOnRef": 0,
+                                        "reference": "1203.10",
+                                        "slug": "historic-buildings",
+                                        "titleText": "Guards",
+                                        "children": [
+                                            {
+                                                "ancestorRefs": [
+                                                    "12",
+                                                    "1203",
+                                                    "1203.10"
+                                                ],
+                                                "body": "<div>Existing guards shall comply with the requirements of <a class=\"autolink\" href=\"/viewer/oregon/iebc-2024/chapter/4/repairs#404\">Section                                     404</a>.</div>",
+                                                "depth": 3,
+                                                "diagrams": [],
+                                                "displayRef": null,
+                                                "displayTitle": "1203.10.1 Height",
+                                                "hasAssemblies": false,
+                                                "isContiguous": true,
+                                                "numAssembliesOnRef": 0,
+                                                "numBuildingProductsOnRef": 0,
+                                                "numDiagramsOnRef": 0,
+                                                "reference": "1203.10.1",
+                                                "slug": "historic-buildings",
+                                                "titleText": "Height",
+                                                "children": []
+                                            },
+                                            {
+                                                "ancestorRefs": [
+                                                    "12",
+                                                    "1203",
+                                                    "1203.10"
+                                                ],
+                                                "body": "<div>The spacing between existing intermediate railings or openings in                                 existing ornamental patterns shall be accepted. Missing elements or                                 members of a guard may be replaced in a manner that will preserve                                 the historic appearance of the building or structure.</div>",
+                                                "depth": 3,
+                                                "diagrams": [],
+                                                "displayRef": null,
+                                                "displayTitle": "1203.10.2 Guard Openings",
+                                                "hasAssemblies": false,
+                                                "isContiguous": true,
+                                                "numAssembliesOnRef": 0,
+                                                "numBuildingProductsOnRef": 0,
+                                                "numDiagramsOnRef": 0,
+                                                "reference": "1203.10.2",
+                                                "slug": "historic-buildings",
+                                                "titleText": "Guard Openings",
+                                                "children": []
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "amendType": "edit",
+                                        "ancestorRefs": [
+                                            "12",
+                                            "1203"
+                                        ],
+                                        "body": "<div>Where exit sign or egress path marking location would damage the historic character of the building, alternative exit signs are permitted with approval of the <span class=\"u-italic\"><span class=\"code_addition\">building</span> official</span>. Alternative signs shall identify the exits and egress path.</div>",
+                                        "depth": 2,
+                                        "diagrams": [],
+                                        "displayRef": null,
+                                        "displayTitle": "1203.11 Exit Signs",
+                                        "hasAssemblies": false,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 0,
+                                        "numDiagramsOnRef": 0,
+                                        "reference": "1203.11",
+                                        "slug": "historic-buildings",
+                                        "titleText": "Exit Signs",
+                                        "children": []
+                                    },
+                                    {
+                                        "amendType": "edit",
+                                        "ancestorRefs": [
+                                            "12",
+                                            "1203"
+                                        ],
+                                        "body": "<div>\n<div class=\"u-mt-3 u-mb-3\">Every <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/oregon/iebc-2024/chapter/2/definitions#historic_building_\">historic building</a></span> that cannot be made to conform to the<span class=\"code_addition\"> new</span> construction requirements <span class=\"code_addition\">of this</span><span class=\"u-italic\"> code</span> for the occupancy or use and that constitutes a distinct fire hazard shall be deemed to be in compliance if provided with an <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/oregon/iebc-2024/chapter/2/definitions#approved_\">approved</a></span> automatic sprinkler system.</div>\n<div class=\"u-mt-3 u-ml-4 u-mb-3\"><span class=\"u-font-bold\">Exception: </span> Where the <span class=\"u-italic\"><span class=\"code_addition\">building</span> official</span> approves an alternative life-safety system.</div>\n</div>",
+                                        "depth": 2,
+                                        "diagrams": [],
+                                        "displayRef": null,
+                                        "displayTitle": "1203.12 Automatic Sprinkler Systems",
+                                        "hasAssemblies": false,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 0,
+                                        "numDiagramsOnRef": 0,
+                                        "reference": "1203.12",
+                                        "slug": "historic-buildings",
+                                        "titleText": "Automatic Sprinkler Systems",
+                                        "children": []
+                                    }
+                                ]
+                            },
+                            {
+                                "ancestorRefs": [
+                                    "12"
+                                ],
+                                "depth": 1,
+                                "diagrams": [],
+                                "displayRef": null,
+                                "displayTitle": "Section 1204 Change of Occupancy",
+                                "divisionType": "Section",
+                                "hasAssemblies": false,
+                                "isContiguous": true,
+                                "numAssembliesOnRef": 0,
+                                "numBuildingProductsOnRef": 0,
+                                "numDiagramsOnRef": 0,
+                                "reference": "1204",
+                                "slug": "historic-buildings",
+                                "titleText": "Change of Occupancy",
+                                "children": [
+                                    {
+                                        "ancestorRefs": [
+                                            "12",
+                                            "1204"
+                                        ],
+                                        "body": "<div><span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/oregon/iebc-2024/chapter/2/definitions#historic_building_\">Historic buildings</a></span> undergoing a <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/oregon/iebc-2024/chapter/2/definitions#change_of_occupancy_\">change of occupancy</a></span> shall comply with                             the applicable provisions of <a class=\"autolink\" href=\"/viewer/oregon/iebc-2024/chapter/10/change-of-occupancy#10\">Chapter 10</a>, except as specifically                             permitted in this chapter. Where <a class=\"autolink\" href=\"/viewer/oregon/iebc-2024/chapter/10/change-of-occupancy#10\">Chapter 10</a> requires compliance with                             specific requirements of <a class=\"autolink\" href=\"/viewer/oregon/iebc-2024/chapter/7/alterations-level-1#7\">Chapter 7</a>, <a class=\"autolink\" href=\"/viewer/oregon/iebc-2024/chapter/8/alterations-level-2#8\">Chapter 8</a> or <a class=\"autolink\" href=\"/viewer/oregon/iebc-2024/chapter/9/alterations-level-3#9\">Chapter 9</a> and                             where those requirements are subject to the exceptions in <a class=\"autolink\" href=\"#1202\">Section                                 1202</a>, the same exceptions shall apply to this section.</div>",
+                                        "depth": 2,
+                                        "diagrams": [],
+                                        "displayRef": null,
+                                        "displayTitle": "1204.1 General",
+                                        "hasAssemblies": false,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 0,
+                                        "numDiagramsOnRef": 0,
+                                        "reference": "1204.1",
+                                        "slug": "historic-buildings",
+                                        "titleText": "General",
+                                        "children": []
+                                    },
+                                    {
+                                        "amendType": "edit",
+                                        "ancestorRefs": [
+                                            "12",
+                                            "1204"
+                                        ],
+                                        "body": "<div>The allowable floor area for <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/oregon/iebc-2024/chapter/2/definitions#historic_building_\">historic buildings</a></span> undergoing a <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/oregon/iebc-2024/chapter/2/definitions#change_of_occupancy_\">change of occupancy</a></span> shall be permitted to exceed by 20 percent the allowable areas specified in <a class=\"autolink\" href=\"/viewer/oregon/iebc-2024/chapter/5/prescriptive-compliance-method#5\">Chapter 5</a>.</div>",
+                                        "depth": 2,
+                                        "diagrams": [],
+                                        "displayRef": null,
+                                        "displayTitle": "1204.2 Building Area",
+                                        "hasAssemblies": false,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 0,
+                                        "numDiagramsOnRef": 0,
+                                        "reference": "1204.2",
+                                        "slug": "historic-buildings",
+                                        "titleText": "Building Area",
+                                        "children": []
+                                    },
+                                    {
+                                        "ancestorRefs": [
+                                            "12",
+                                            "1204"
+                                        ],
+                                        "body": "<div>Historic structures undergoing a <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/oregon/iebc-2024/chapter/2/definitions#change_of_use_\">change of                                 use</a></span> to a higher-hazard category in accordance with <a class=\"autolink\" href=\"/viewer/oregon/iebc-2024/chapter/10/change-of-occupancy#1011.7\">Section                                 1011.7</a> may use alternative methods to comply with the                             fire-resistance and exterior opening protective requirements. Such                             alternatives shall comply with <a class=\"autolink\" href=\"#1201.2\">Section 1201.2</a>.</div>",
+                                        "depth": 2,
+                                        "diagrams": [],
+                                        "displayRef": null,
+                                        "displayTitle": "1204.3 Location on Property",
+                                        "hasAssemblies": false,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 0,
+                                        "numDiagramsOnRef": 0,
+                                        "reference": "1204.3",
+                                        "slug": "historic-buildings",
+                                        "titleText": "Location on Property",
+                                        "children": []
+                                    },
+                                    {
+                                        "ancestorRefs": [
+                                            "12",
+                                            "1204"
+                                        ],
+                                        "body": "<div>Required occupancy separations of 1 hour may be omitted where the                             building is provided with an <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/oregon/iebc-2024/chapter/2/definitions#approved_\">approved</a></span>                             automatic sprinkler system throughout.</div>",
+                                        "depth": 2,
+                                        "diagrams": [],
+                                        "displayRef": null,
+                                        "displayTitle": "1204.4 Occupancy Separation",
+                                        "hasAssemblies": false,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 0,
+                                        "numDiagramsOnRef": 0,
+                                        "reference": "1204.4",
+                                        "slug": "historic-buildings",
+                                        "titleText": "Occupancy Separation",
+                                        "children": []
+                                    },
+                                    {
+                                        "ancestorRefs": [
+                                            "12",
+                                            "1204"
+                                        ],
+                                        "body": "<div>Regardless of occupancy or use group, roof-covering materials not less                             than Class C, where tested in accordance with ASTM E108 or UL 790, shall be                             permitted where a fire-retardant roof covering is required.</div>",
+                                        "depth": 2,
+                                        "diagrams": [],
+                                        "displayRef": null,
+                                        "displayTitle": "1204.5 Roof Covering",
+                                        "hasAssemblies": false,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 0,
+                                        "numDiagramsOnRef": 0,
+                                        "reference": "1204.5",
+                                        "slug": "historic-buildings",
+                                        "titleText": "Roof Covering",
+                                        "children": []
+                                    },
+                                    {
+                                        "amendType": "edit",
+                                        "ancestorRefs": [
+                                            "12",
+                                            "1204"
+                                        ],
+                                        "body": "<div>Existing door openings and corridor and stairway widths less than those that would be acceptable for nonhistoric buildings under these provisions shall be <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/oregon/iebc-2024/chapter/2/definitions#approved_\">approved</a></span>, provided that, in the opinion of the <span class=\"u-italic\"><span class=\"code_addition\">building</span> official</span>, there is sufficient width and height for a person to pass through the opening or traverse the exit and that the capacity of the exit system is adequate for the occupant load, or where other operational controls to limit occupancy are <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/oregon/iebc-2024/chapter/2/definitions#approved_\">approved</a></span>.</div>",
+                                        "depth": 2,
+                                        "diagrams": [],
+                                        "displayRef": null,
+                                        "displayTitle": "1204.6 Means of Egress",
+                                        "hasAssemblies": false,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 0,
+                                        "numDiagramsOnRef": 0,
+                                        "reference": "1204.6",
+                                        "slug": "historic-buildings",
+                                        "titleText": "Means of Egress",
+                                        "children": []
+                                    },
+                                    {
+                                        "amendType": "edit",
+                                        "ancestorRefs": [
+                                            "12",
+                                            "1204"
+                                        ],
+                                        "body": "<div>Where <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/oregon/iebc-2024/chapter/2/definitions#approved_\">approved</a></span> by the <span class=\"u-italic\"><span class=\"code_addition\">building</span> official</span>, existing front doors need not swing in the direction of exit travel, provided that other <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/oregon/iebc-2024/chapter/2/definitions#approved_\">approved</a></span> exits having sufficient capacity to serve the total occupant load are provided.</div>",
+                                        "depth": 2,
+                                        "diagrams": [],
+                                        "displayRef": null,
+                                        "displayTitle": "1204.7 Door Swing",
+                                        "hasAssemblies": false,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 0,
+                                        "numDiagramsOnRef": 0,
+                                        "reference": "1204.7",
+                                        "slug": "historic-buildings",
+                                        "titleText": "Door Swing",
+                                        "children": []
+                                    },
+                                    {
+                                        "ancestorRefs": [
+                                            "12",
+                                            "1204"
+                                        ],
+                                        "body": "<div><div class=\"u-mt-3 u-mb-3\">In corridor walls required by these provisions to be fire-resistance                                 rated, existing transoms may be maintained if fixed in the closed                                 position, and fixed wired glass set in a steel frame or other <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/oregon/iebc-2024/chapter/2/definitions#approved_\">approved</a></span> glazing shall be installed                                 on one side of the transom.</div><div class=\"u-mt-3 u-ml-4 u-mb-3\"><span class=\"u-font-bold\">Exception:  </span> Transoms conforming to <a class=\"autolink\" href=\"#1203.4\">Section 1203.4</a> shall                                     be accepted.</div></div>",
+                                        "depth": 2,
+                                        "diagrams": [],
+                                        "displayRef": null,
+                                        "displayTitle": "1204.8 Transoms",
+                                        "hasAssemblies": false,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 0,
+                                        "numDiagramsOnRef": 0,
+                                        "reference": "1204.8",
+                                        "slug": "historic-buildings",
+                                        "titleText": "Transoms",
+                                        "children": []
+                                    },
+                                    {
+                                        "amendType": "edit",
+                                        "ancestorRefs": [
+                                            "12",
+                                            "1204"
+                                        ],
+                                        "body": "<div>\n<div class=\"u-mt-3 u-mb-3\">Where interior finish materials are required to comply with the fire test requirements of <a class=\"autolink\" href=\"/viewer/oregon/iebc-2024/chapter/8/alterations-level-2#803.1\">Section 803.1</a>, existing nonconforming materials shall be permitted to be surfaced with an <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/oregon/iebc-2024/chapter/2/definitions#approved_\">approved</a></span> fire-retardant coating to achieve the required classification. Compliance with this section shall be demonstrated by testing the fire-retardant coating on the same material and achieving the required fire classification. Where the same material is not available, it shall be permitted to test on a similar material.</div>\n<div class=\"u-mt-3 u-ml-4 u-mb-3\"><span class=\"u-font-bold\">Exception: </span> Existing nonconforming materials need not be surfaced with an <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/oregon/iebc-2024/chapter/2/definitions#approved_\">approved</a></span> fire-retardant coating where the building is equipped throughout with an automatic sprinkler system installed in accordance with <span class=\"code_addition\"><a class=\"autolink\" href=\"/viewer/oregon/iebc-2024/chapter/9/alterations-level-3#9\">Chapter 9</a></span> and the nonconforming materials can be substantiated as being historic in character.</div>\n</div>",
+                                        "depth": 2,
+                                        "diagrams": [],
+                                        "displayRef": null,
+                                        "displayTitle": "1204.9 Interior Finishes",
+                                        "hasAssemblies": false,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 0,
+                                        "numDiagramsOnRef": 0,
+                                        "reference": "1204.9",
+                                        "slug": "historic-buildings",
+                                        "titleText": "Interior Finishes",
+                                        "children": []
+                                    },
+                                    {
+                                        "ancestorRefs": [
+                                            "12",
+                                            "1204"
+                                        ],
+                                        "body": "<div>Where 1-hour fire-resistance-rated construction is required by these                             provisions, it need not be provided, regardless of construction or                             occupancy, where the existing wall and ceiling finish is wood lath and                             plaster.</div>",
+                                        "depth": 2,
+                                        "diagrams": [],
+                                        "displayRef": null,
+                                        "displayTitle": "1204.10 One-Hour Fire-Resistant Assemblies",
+                                        "hasAssemblies": false,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 0,
+                                        "numDiagramsOnRef": 0,
+                                        "reference": "1204.10",
+                                        "slug": "historic-buildings",
+                                        "titleText": "One-Hour Fire-Resistant Assemblies",
+                                        "children": []
+                                    },
+                                    {
+                                        "amendType": "edit",
+                                        "ancestorRefs": [
+                                            "12",
+                                            "1204"
+                                        ],
+                                        "body": "<div>\n<div class=\"u-mt-3 u-mb-3\">Existing stairways shall comply with the requirements of these provisions. The <span class=\"u-italic\"><span class=\"code_addition\">building</span> official</span> shall grant alternatives for stairways and guards if alternative stairways are found to be acceptable or are judged to meet the intent of these provisions. Existing stairways shall comply with <a class=\"autolink\" href=\"#1203\">Section 1203</a>.</div>\n<div class=\"u-mt-3 u-ml-4 u-mb-3\"><span class=\"u-font-bold\">Exception: </span> For buildings less than 3,000 square feet (279 m<sup>2</sup>), existing conditions are permitted to remain at all stairways and guards.</div>\n</div>",
+                                        "depth": 2,
+                                        "diagrams": [],
+                                        "displayRef": null,
+                                        "displayTitle": "1204.11 Stairways and Guards",
+                                        "hasAssemblies": false,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 0,
+                                        "numDiagramsOnRef": 0,
+                                        "reference": "1204.11",
+                                        "slug": "historic-buildings",
+                                        "titleText": "Stairways and Guards",
+                                        "children": []
+                                    },
+                                    {
+                                        "amendType": "edit",
+                                        "ancestorRefs": [
+                                            "12",
+                                            "1204"
+                                        ],
+                                        "body": "<div>The <span class=\"u-italic\"><span class=\"code_addition\">building</span> official</span> may accept alternative exit sign locations where the location of such signs would damage the historic character of the building or structure. Such signs shall identify the exits and exit path.</div>",
+                                        "depth": 2,
+                                        "diagrams": [],
+                                        "displayRef": null,
+                                        "displayTitle": "1204.12 Exit Signs",
+                                        "hasAssemblies": false,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 0,
+                                        "numDiagramsOnRef": 0,
+                                        "reference": "1204.12",
+                                        "slug": "historic-buildings",
+                                        "titleText": "Exit Signs",
+                                        "children": []
+                                    },
+                                    {
+                                        "ancestorRefs": [
+                                            "12",
+                                            "1204"
+                                        ],
+                                        "body": "<div>Existing historic stairways in buildings changed to a Group R-1 or R-2                             occupancy shall be accepted where it can be shown that the stairway can                             support a 75-pounds-per-square-foot (366 kg/m<sup>2</sup>) live                             load.</div>",
+                                        "depth": 2,
+                                        "diagrams": [],
+                                        "displayRef": null,
+                                        "displayTitle": "[BS]  1204.13 Exit Stair Live Load",
+                                        "hasAssemblies": false,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 0,
+                                        "numDiagramsOnRef": 0,
+                                        "reference": "1204.13",
+                                        "refPrefix": "[BS]",
+                                        "slug": "historic-buildings",
+                                        "titleText": "Exit Stair Live Load",
+                                        "children": []
+                                    },
+                                    {
+                                        "amendType": "edit",
+                                        "ancestorRefs": [
+                                            "12",
+                                            "1204"
+                                        ],
+                                        "body": "<div>Where it is determined by the <span class=\"u-italic\"><span class=\"code_addition\">building</span> official</span> that compliance with the natural light requirements of <a class=\"autolink\" href=\"/viewer/oregon/iebc-2024/chapter/10/change-of-occupancy#1010.1\">Section 1010.1</a> will lead to loss of historic character or historic materials in the building, the existing level of natural lighting shall be considered to be acceptable.</div>",
+                                        "depth": 2,
+                                        "diagrams": [],
+                                        "displayRef": null,
+                                        "displayTitle": "1204.14 Natural Light",
+                                        "hasAssemblies": false,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 0,
+                                        "numDiagramsOnRef": 0,
+                                        "reference": "1204.14",
+                                        "slug": "historic-buildings",
+                                        "titleText": "Natural Light",
+                                        "children": []
+                                    }
+                                ]
+                            },
+                            {
+                                "ancestorRefs": [
+                                    "12"
+                                ],
+                                "depth": 1,
+                                "diagrams": [],
+                                "displayRef": null,
+                                "displayTitle": "Section 1205 Structural",
+                                "divisionType": "Section",
+                                "hasAssemblies": false,
+                                "isContiguous": true,
+                                "numAssembliesOnRef": 0,
+                                "numBuildingProductsOnRef": 0,
+                                "numDiagramsOnRef": 0,
+                                "reference": "1205",
+                                "slug": "historic-buildings",
+                                "titleText": "Structural",
+                                "children": [
+                                    {
+                                        "amendType": "edit",
+                                        "ancestorRefs": [
+                                            "12",
+                                            "1205"
+                                        ],
+                                        "body": "<div>\n<div class=\"u-mt-3 u-mb-3\"><span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/oregon/iebc-2024/chapter/2/definitions#historic_building_\">Historic buildings</a></span> shall comply with the applicable structural provisions for the work as classified in <a class=\"autolink\" href=\"/viewer/oregon/iebc-2024/chapter/6/classification-of-work#6\">Chapter 6</a>.</div>\n<div class=\"u-ml-4\">\n<div class=\"u-mt-3 u-mb-3\"><span class=\"u-font-bold\">Exceptions: </span></div>\n<ol class=\"u-text-left\">\n<li>The <span class=\"u-italic\"><span class=\"code_addition\">building</span> official</span> shall be authorized to accept existing floor and previously <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/oregon/iebc-2024/chapter/2/definitions#approved_\">approved</a></span> live loads and roof live loads and to approve operational controls that limit the live load or roof live load.</li>\n<li>Regardless of the level of damage, structural <span class=\"u-italic\"><a class=\"autolink\" href=\"/viewer/oregon/iebc-2024/chapter/2/definitions#repair_\">repairs</a></span> shall be permitted to return the building to its predamage condition without additional work.</li>\n</ol>\n</div>\n</div>",
+                                        "depth": 2,
+                                        "diagrams": [],
+                                        "displayRef": null,
+                                        "displayTitle": "[BS]  1205.1 General",
+                                        "hasAssemblies": false,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 0,
+                                        "numDiagramsOnRef": 0,
+                                        "reference": "1205.1",
+                                        "refPrefix": "[BS]",
+                                        "slug": "historic-buildings",
+                                        "titleText": "General",
+                                        "children": []
+                                    },
+                                    {
+                                        "amendType": "deletion",
+                                        "ancestorRefs": [
+                                            "12",
+                                            "1205"
+                                        ],
+                                        "depth": 2,
+                                        "diagrams": [],
+                                        "displayRef": "<span class=\"code_deletion\">1205.2</span>",
+                                        "displayTitle": "[BS]  <span class=\"code_deletion\">1205.2</span> <span class=\"code_deletion\">Dangerous Conditions</span>",
+                                        "hasAssemblies": false,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 0,
+                                        "numDiagramsOnRef": 0,
+                                        "reference": "1205.2",
+                                        "refPrefix": "[BS]",
+                                        "slug": "historic-buildings",
+                                        "titleText": "<span class=\"code_deletion\">Dangerous Conditions</span>",
+                                        "children": []
+                                    }
+                                ]
+                            },
+                            {
+                                "ancestorRefs": [
+                                    "12"
+                                ],
+                                "depth": 1,
+                                "diagrams": [],
+                                "displayRef": null,
+                                "displayTitle": "Section 1206 Relocated Buildings",
+                                "divisionType": "Section",
+                                "hasAssemblies": false,
+                                "isContiguous": true,
+                                "numAssembliesOnRef": 0,
+                                "numBuildingProductsOnRef": 0,
+                                "numDiagramsOnRef": 0,
+                                "reference": "1206",
+                                "slug": "historic-buildings",
+                                "titleText": "Relocated Buildings",
+                                "children": [
+                                    {
+                                        "amendType": "edit",
+                                        "ancestorRefs": [
+                                            "12",
+                                            "1206"
+                                        ],
+                                        "body": "Relocated <i><a class=\"autolink\" href=\"/viewer/oregon/iebc-2024/chapter/2/definitions#historic_building_\">historic buildings</a></i> shall comply with <span class=\"code_addition\"><a class=\"autolink\" href=\"/viewer/oregon/iebc-2024/chapter/14/relocated-or-moved-buildings#14\">Chapter 14</a></span>.",
+                                        "depth": 2,
+                                        "diagrams": [],
+                                        "displayRef": null,
+                                        "displayTitle": "1206.1 Relocated Buildings",
+                                        "hasAssemblies": false,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 0,
+                                        "numDiagramsOnRef": 0,
+                                        "reference": "1206.1",
+                                        "slug": "historic-buildings",
+                                        "titleText": "Relocated Buildings",
+                                        "children": []
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            "chapterReference": "12"
+        },
+        "__N_SSP": true
+    },
+    "page": "/viewer/[urlFormPubOrJurisKey]/[urlFormPub]/chapter/[chapterRef]/[chapterName]",
+    "query": {
+        "urlFormPubOrJurisKey": "oregon",
+        "urlFormPub": "iebc-2024",
+        "chapterRef": "12",
+        "chapterName": "historic-buildings"
+    },
+    "buildId": "aNDb_KMgxj06vGZ7D_0_K",
+    "isFallback": false,
+    "isExperimentalCompile": false,
+    "dynamicIds": [
+        61621,
+        54065
+    ],
+    "gssp": true,
+    "scriptLoader": []
+}

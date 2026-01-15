@@ -1,0 +1,732 @@
+{
+    "props": {
+        "pageProps": {
+            "missingRequiredLogin": false,
+            "title": "Chapter 34 <span class=\"code_deletion\">Reserved</span> <span class=\"code_addition\">Existing Buildings</span>: Georgia Building Code 2024 | UpCodes",
+            "leanChapterViewerData": {
+                "basePubName": "International Building Code 2024 (IBC 2024)",
+                "codeGroupingYear": "2026",
+                "codeName": "Georgia Building Code 2024",
+                "codeUuid": "cb80ec51-9613-4da5-8c8c-7123ec36b593",
+                "codeVersions": [
+                    {
+                        "codeUuid": "cb80ec51-9613-4da5-8c8c-7123ec36b593",
+                        "name": "Original Adoption",
+                        "effectiveStartDate": "2026-01-01",
+                        "shortformUrlName": "ibc-2024",
+                        "activeStatus": "active"
+                    }
+                ],
+                "ingesterAmendmentsEnabled": false,
+                "ingesterCodeUnitsEnabled": false,
+                "isAmendStylingEnabled": true,
+                "isCorrespondable": true,
+                "jurisKey": "georgia",
+                "jurisName": "Georgia",
+                "metaInfoUrl": "/viewer/georgia/ibc-2024",
+                "modelCodeUrl": null,
+                "placeholder": "Search Georgia Building Code 2024",
+                "pubKey": "int_building_code_2024",
+                "pubPrefix": "int_building_code",
+                "shortformPubName": "ibc-2024",
+                "withAmendments": true,
+                "chapterRef": "34",
+                "publisher": "icc",
+                "hasLinkedResources": false,
+                "initialNonChapterTocLines": [
+                    {
+                        "amendType": "addition",
+                        "children": [
+                            {
+                                "amendType": "addition",
+                                "children": [],
+                                "depth": 2,
+                                "displayTitle": "3401.1 Scope",
+                                "hasExpanderArrow": false,
+                                "href": "#new_3401.1",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "reference": "new_3401.1"
+                            },
+                            {
+                                "amendType": "addition",
+                                "children": [],
+                                "depth": 2,
+                                "displayTitle": "3401.2 Alternative Compliance",
+                                "hasExpanderArrow": false,
+                                "href": "#new_3401.2",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "reference": "new_3401.2"
+                            },
+                            {
+                                "amendType": "addition",
+                                "children": [],
+                                "depth": 2,
+                                "displayTitle": "3401.3 Existing Systems Conformance",
+                                "hasExpanderArrow": false,
+                                "href": "#new_3401.3",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "reference": "new_3401.3"
+                            }
+                        ],
+                        "depth": 1,
+                        "displayTitle": "3401 General",
+                        "hasExpanderArrow": true,
+                        "href": "#new_3401",
+                        "isCodeDivider": false,
+                        "isCodeDividerClickable": false,
+                        "reference": "new_3401"
+                    },
+                    {
+                        "amendType": "addition",
+                        "children": [
+                            {
+                                "amendType": "addition",
+                                "children": [],
+                                "depth": 2,
+                                "displayTitle": "3402.1 Definitions",
+                                "hasExpanderArrow": false,
+                                "href": "#new_3402.1",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "reference": "new_3402.1"
+                            }
+                        ],
+                        "depth": 1,
+                        "displayTitle": "3402 Definitions",
+                        "hasExpanderArrow": true,
+                        "href": "#new_3402",
+                        "isCodeDivider": false,
+                        "isCodeDividerClickable": false,
+                        "reference": "new_3402"
+                    },
+                    {
+                        "amendType": "addition",
+                        "children": [
+                            {
+                                "amendType": "addition",
+                                "children": [
+                                    {
+                                        "amendType": "addition",
+                                        "children": [],
+                                        "depth": 3,
+                                        "displayTitle": "3403.1.1 Assisted Living Communities",
+                                        "hasExpanderArrow": false,
+                                        "href": "#new_3403.1.1",
+                                        "isCodeDivider": false,
+                                        "isCodeDividerClickable": false,
+                                        "reference": "new_3403.1.1"
+                                    }
+                                ],
+                                "depth": 2,
+                                "displayTitle": "3403.1 Applicability",
+                                "hasExpanderArrow": true,
+                                "href": "#new_3403.1",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "reference": "new_3403.1"
+                            },
+                            {
+                                "amendType": "addition",
+                                "children": [],
+                                "depth": 2,
+                                "displayTitle": "3403.2 Construction Safeguards",
+                                "hasExpanderArrow": false,
+                                "href": "#new_3403.2",
+                                "isCodeDivider": false,
+                                "isCodeDividerClickable": false,
+                                "reference": "new_3403.2"
+                            }
+                        ],
+                        "depth": 1,
+                        "displayTitle": "3403 Provisions",
+                        "hasExpanderArrow": true,
+                        "href": "#new_3403",
+                        "isCodeDivider": false,
+                        "isCodeDividerClickable": false,
+                        "reference": "new_3403"
+                    }
+                ],
+                "title": "Chapter 34 <span class=\"code_deletion\">Reserved</span> <span class=\"code_addition\">Existing Buildings</span>: Georgia Building Code 2024 | UpCodes",
+                "leanChapterLines": [
+                    {
+                        "amendType": "deletion",
+                        "displayTitle": "Chapter <span class=\"code_deletion\">1</span> <span class=\"code_deletion\">Scope and Administration</span>",
+                        "reference": "1",
+                        "slug": "scope-and-administration"
+                    },
+                    {
+                        "amendType": "addition",
+                        "displayTitle": "Chapter 1 Scope and Administration",
+                        "reference": "new_1",
+                        "slug": "scope-and-administration"
+                    },
+                    {
+                        "displayTitle": "Chapter 2 Definitions",
+                        "isExpandable": true,
+                        "reference": "2",
+                        "slug": "definitions"
+                    },
+                    {
+                        "displayTitle": "Chapter 3 Occupancy Classification and Use",
+                        "isExpandable": true,
+                        "reference": "3",
+                        "slug": "occupancy-classification-and-use"
+                    },
+                    {
+                        "displayTitle": "Chapter 4 Special Detailed Requirements Based on Occupancy and Use",
+                        "isExpandable": true,
+                        "reference": "4",
+                        "slug": "special-detailed-requirements-based-on-occupancy-and-use"
+                    },
+                    {
+                        "displayTitle": "Chapter 5 General Building Heights and Areas",
+                        "isExpandable": true,
+                        "reference": "5",
+                        "slug": "general-building-heights-and-areas"
+                    },
+                    {
+                        "displayTitle": "Chapter 6 Types of Construction",
+                        "isExpandable": true,
+                        "reference": "6",
+                        "slug": "types-of-construction"
+                    },
+                    {
+                        "displayTitle": "Chapter 7 Fire and Smoke Protection Features",
+                        "isExpandable": true,
+                        "reference": "7",
+                        "slug": "fire-and-smoke-protection-features"
+                    },
+                    {
+                        "displayTitle": "Chapter 8 Interior Finishes",
+                        "isExpandable": true,
+                        "reference": "8",
+                        "slug": "interior-finishes"
+                    },
+                    {
+                        "displayTitle": "Chapter 9 Fire Protection and Life Safety Systems",
+                        "isExpandable": true,
+                        "reference": "9",
+                        "slug": "fire-protection-and-life-safety-systems"
+                    },
+                    {
+                        "displayTitle": "Chapter 10 Means of Egress",
+                        "isExpandable": true,
+                        "reference": "10",
+                        "slug": "means-of-egress"
+                    },
+                    {
+                        "alwaysShowDeletionAmend": true,
+                        "amendType": "deletion",
+                        "displayTitle": "Chapter <span class=\"code_deletion\">11</span> <span class=\"code_deletion\">Accessibility</span>",
+                        "reference": "11",
+                        "slug": "accessibility"
+                    },
+                    {
+                        "amendType": "edit",
+                        "displayTitle": "Chapter 12 Interior Environment",
+                        "isExpandable": true,
+                        "reference": "12",
+                        "slug": "interior-environment"
+                    },
+                    {
+                        "displayTitle": "Chapter 13 Energy Efficiency",
+                        "isExpandable": true,
+                        "reference": "13",
+                        "slug": "energy-efficiency"
+                    },
+                    {
+                        "displayTitle": "Chapter 14 Exterior Walls",
+                        "isExpandable": true,
+                        "reference": "14",
+                        "slug": "exterior-walls"
+                    },
+                    {
+                        "displayTitle": "Chapter 15 Roof Assemblies and Rooftop Structures",
+                        "isExpandable": true,
+                        "reference": "15",
+                        "slug": "roof-assemblies-and-rooftop-structures"
+                    },
+                    {
+                        "displayTitle": "Chapter 16 Structural Design",
+                        "isExpandable": true,
+                        "reference": "16",
+                        "slug": "structural-design"
+                    },
+                    {
+                        "displayTitle": "Chapter 17 Special Inspections and Tests",
+                        "isExpandable": true,
+                        "reference": "17",
+                        "slug": "special-inspections-and-tests"
+                    },
+                    {
+                        "displayTitle": "Chapter 18 Soils and Foundations",
+                        "isExpandable": true,
+                        "reference": "18",
+                        "slug": "soils-and-foundations"
+                    },
+                    {
+                        "displayTitle": "Chapter 19 Concrete",
+                        "isExpandable": true,
+                        "reference": "19",
+                        "slug": "concrete"
+                    },
+                    {
+                        "displayTitle": "Chapter 20 Aluminum",
+                        "isExpandable": true,
+                        "reference": "20",
+                        "slug": "aluminum"
+                    },
+                    {
+                        "displayTitle": "Chapter 21 Masonry",
+                        "isExpandable": true,
+                        "reference": "21",
+                        "slug": "masonry"
+                    },
+                    {
+                        "displayTitle": "Chapter 22 Steel",
+                        "isExpandable": true,
+                        "reference": "22",
+                        "slug": "steel"
+                    },
+                    {
+                        "displayTitle": "Chapter 23 Wood",
+                        "isExpandable": true,
+                        "reference": "23",
+                        "slug": "wood"
+                    },
+                    {
+                        "displayTitle": "Chapter 24 Glass and Glazing",
+                        "isExpandable": true,
+                        "reference": "24",
+                        "slug": "glass-and-glazing"
+                    },
+                    {
+                        "displayTitle": "Chapter 25 Gypsum Panel Products and Plaster",
+                        "isExpandable": true,
+                        "reference": "25",
+                        "slug": "gypsum-panel-products-and-plaster"
+                    },
+                    {
+                        "displayTitle": "Chapter 26 Plastic",
+                        "isExpandable": true,
+                        "reference": "26",
+                        "slug": "plastic"
+                    },
+                    {
+                        "displayTitle": "Chapter 27 Electrical",
+                        "isExpandable": true,
+                        "reference": "27",
+                        "slug": "electrical"
+                    },
+                    {
+                        "displayTitle": "Chapter 28 Mechanical Systems",
+                        "isExpandable": true,
+                        "reference": "28",
+                        "slug": "mechanical-systems"
+                    },
+                    {
+                        "displayTitle": "Chapter 29 Plumbing Systems",
+                        "isExpandable": true,
+                        "reference": "29",
+                        "slug": "plumbing-systems"
+                    },
+                    {
+                        "displayTitle": "Chapter 30 Elevators and Conveying Systems",
+                        "isExpandable": true,
+                        "reference": "30",
+                        "slug": "elevators-and-conveying-systems"
+                    },
+                    {
+                        "displayTitle": "Chapter 31 Special Construction",
+                        "isExpandable": true,
+                        "reference": "31",
+                        "slug": "special-construction"
+                    },
+                    {
+                        "displayTitle": "Chapter 32 Encroachments Into the Public Right-of-Way",
+                        "isExpandable": true,
+                        "reference": "32",
+                        "slug": "encroachments-into-the-public-right-of-way"
+                    },
+                    {
+                        "displayTitle": "Chapter 33 Safeguards During Construction",
+                        "isExpandable": true,
+                        "reference": "33",
+                        "slug": "safeguards-during-construction"
+                    },
+                    {
+                        "amendType": "edit",
+                        "displayTitle": "Chapter 34 <span class=\"code_deletion\">Reserved</span> <span class=\"code_addition\">Existing Buildings</span>",
+                        "isExpandable": true,
+                        "reference": "34",
+                        "slug": "reserved"
+                    },
+                    {
+                        "amendType": "edit",
+                        "displayTitle": "Chapter 35 Referenced Standards",
+                        "reference": "35",
+                        "slug": "referenced-standards"
+                    },
+                    {
+                        "disabled": true,
+                        "displayTitle": "Appendix A Employee Qualifications",
+                        "reference": "A",
+                        "slug": "employee-qualifications"
+                    },
+                    {
+                        "disabled": true,
+                        "displayTitle": "Appendix B Board of Appeals",
+                        "reference": "B",
+                        "slug": "board-of-appeals"
+                    },
+                    {
+                        "disabled": true,
+                        "displayTitle": "Appendix C Group U\u2014Agricultural Buildings",
+                        "reference": "C",
+                        "slug": "group-u-agricultural-buildings"
+                    },
+                    {
+                        "disabled": true,
+                        "displayTitle": "Appendix D Fire Districts",
+                        "reference": "D",
+                        "slug": "fire-districts"
+                    },
+                    {
+                        "disabled": true,
+                        "displayTitle": "[BE] Appendix E Supplementary Accessibility Requirements",
+                        "reference": "E",
+                        "slug": "supplementary-accessibility-requirements"
+                    },
+                    {
+                        "disabled": true,
+                        "displayTitle": "Appendix F Rodentproofing",
+                        "reference": "F",
+                        "slug": "rodentproofing"
+                    },
+                    {
+                        "disabled": true,
+                        "displayTitle": "Appendix G Flood-Resistant Construction",
+                        "reference": "G",
+                        "slug": "flood-resistant-construction"
+                    },
+                    {
+                        "disabled": true,
+                        "displayTitle": "Appendix H Signs",
+                        "reference": "H",
+                        "slug": "signs"
+                    },
+                    {
+                        "disabled": true,
+                        "displayTitle": "Appendix I Patio Covers",
+                        "reference": "I",
+                        "slug": "patio-covers"
+                    },
+                    {
+                        "disabled": true,
+                        "displayTitle": "Appendix J Grading",
+                        "reference": "J",
+                        "slug": "grading"
+                    },
+                    {
+                        "disabled": true,
+                        "displayTitle": "Appendix K Administrative Provisions",
+                        "reference": "K",
+                        "slug": "administrative-provisions"
+                    },
+                    {
+                        "disabled": true,
+                        "displayTitle": "Appendix L Earthquake Recording Instrumentation",
+                        "reference": "L",
+                        "slug": "earthquake-recording-instrumentation"
+                    },
+                    {
+                        "disabled": true,
+                        "displayTitle": "Appendix M Tsunami-Generated Flood Hazards",
+                        "reference": "M",
+                        "slug": "tsunami-generated-flood-hazards"
+                    },
+                    {
+                        "disabled": true,
+                        "displayTitle": "Appendix N Replicable Buildings",
+                        "reference": "N",
+                        "slug": "replicable-buildings"
+                    },
+                    {
+                        "disabled": true,
+                        "displayTitle": "[A] Appendix O Performance-Based Application",
+                        "reference": "O",
+                        "slug": "performance-based-application"
+                    },
+                    {
+                        "disabled": true,
+                        "displayTitle": "Appendix P Sleeping Lofts",
+                        "reference": "P",
+                        "slug": "sleeping-lofts"
+                    },
+                    {
+                        "amendType": "addition",
+                        "displayTitle": "Appendix Q Disaster Resilient Construction",
+                        "isExpandable": true,
+                        "reference": "new_Q",
+                        "slug": "disaster-resilient-construction"
+                    }
+                ],
+                "leanCodeSectionsTree": [
+                    {
+                        "amendType": "edit",
+                        "ancestorRefs": [],
+                        "body": "<div class=\"u-text-center\"><span class=\"u-italic\">Action taken during the 2012 Code                             Development Process removed Chapter 34, <a class=\"autolink\" href=\"/viewer/georgia/ibc-2024/chapter/2/definitions#existing_structure_\">Existing Structures</a>, from the                             IBC. The provisions of this chapter are contained in the </span>International                             Existing Building Code<span class=\"u-italic\">. See Section                                 101.4.7.</span></div>\n<div class=\"u-mt-3 code_addition\">(Effective January 1, 2026; GAC 110-11-1-.24)</div>",
+                        "depth": 0,
+                        "diagrams": [],
+                        "displayRef": null,
+                        "displayTitle": "Chapter 34 <span class=\"code_deletion\">Reserved</span> <span class=\"code_addition\">Existing Buildings</span>",
+                        "divisionType": "Chapter",
+                        "hasAssemblies": false,
+                        "isContiguous": true,
+                        "numAssembliesOnRef": 0,
+                        "numBuildingProductsOnRef": 0,
+                        "numDiagramsOnRef": 0,
+                        "reference": "34",
+                        "slug": "reserved",
+                        "titleText": "<span class=\"code_deletion\">Reserved</span> <span class=\"code_addition\">Existing Buildings</span>",
+                        "children": [
+                            {
+                                "amendType": "addition",
+                                "ancestorRefs": [
+                                    "34"
+                                ],
+                                "body": "(Effective January 1, 2026; GAC 110-11-1-.24)",
+                                "depth": 1,
+                                "diagrams": [],
+                                "displayRef": "3401",
+                                "displayTitle": "3401 General",
+                                "hasAssemblies": false,
+                                "isContiguous": true,
+                                "numAssembliesOnRef": 0,
+                                "numBuildingProductsOnRef": 0,
+                                "numDiagramsOnRef": 0,
+                                "reference": "new_3401",
+                                "slug": "reserved",
+                                "titleText": "General",
+                                "children": [
+                                    {
+                                        "amendType": "addition",
+                                        "ancestorRefs": [
+                                            "34",
+                                            "new_3401"
+                                        ],
+                                        "body": "The provisions of this chapter shall control the <i><a class=\"autolink\" href=\"/viewer/georgia/ibc-2024/chapter/2/definitions#repair_\">repair</a>, <a class=\"autolink\" href=\"/viewer/georgia/ibc-2024/chapter/2/definitions#alteration_\">alteration</a>, <a class=\"autolink\" href=\"/viewer/georgia/ibc-2024/chapter/2/definitions#change_of_occupancy_\">change of occupancy</a>, <a class=\"autolink\" href=\"/viewer/georgia/ibc-2024/chapter/2/definitions#addition_\">addition</a></i> and relocation of <a class=\"autolink\" href=\"/viewer/georgia/ibc-2024/chapter/2/definitions#existing_building_\">existing buildings</a> and structures. \n<div class=\"uc_exception\"><span class=\"u-font-bold\">Exception:</span>\nDetached one and two-family <a class=\"autolink\" href=\"/viewer/georgia/ibc-2024/chapter/2/definitions#dwelling_\">dwellings</a> and <a class=\"autolink\" href=\"/viewer/georgia/ibc-2024/chapter/2/definitions#townhouse_\">townhouses</a> not more than three <a class=\"autolink\" href=\"/viewer/georgia/ibc-2024/chapter/2/definitions#grade_plane_story_above_\">stories above grade plane</a> in height, shall comply with this chapter or the <i><a class=\"autolink\" href=\"/viewer/georgia/irc-2024\">International Residential Code</a></i>.\n</div>\n<div class=\"u-mt-3\">(Effective January 1, 2026; GAC 110-11-1-.24)</div>",
+                                        "depth": 2,
+                                        "diagrams": [],
+                                        "displayRef": "3401.1",
+                                        "displayTitle": "3401.1 Scope",
+                                        "hasAssemblies": false,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 0,
+                                        "numDiagramsOnRef": 0,
+                                        "reference": "new_3401.1",
+                                        "slug": "reserved",
+                                        "titleText": "Scope",
+                                        "children": []
+                                    },
+                                    {
+                                        "amendType": "addition",
+                                        "ancestorRefs": [
+                                            "34",
+                                            "new_3401"
+                                        ],
+                                        "body": "When <i><a class=\"autolink\" href=\"/viewer/georgia/ibc-2024/chapter/2/definitions#approved_\">approved</a></i> by the <i><a class=\"autolink\" href=\"/viewer/georgia/ibc-2024/chapter/2/definitions#building_official_\">building official</a></i>, work performed in accordance with the <i>International Existing Building Code</i> shall be deemed to comply with the provisions of this chapter. \n<div class=\"u-mt-3\">(Effective January 1, 2026; GAC 110-11-1-.24)</div>",
+                                        "depth": 2,
+                                        "diagrams": [],
+                                        "displayRef": "3401.2",
+                                        "displayTitle": "3401.2 Alternative Compliance",
+                                        "hasAssemblies": false,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 0,
+                                        "numDiagramsOnRef": 0,
+                                        "reference": "new_3401.2",
+                                        "slug": "reserved",
+                                        "titleText": "Alternative Compliance",
+                                        "children": []
+                                    },
+                                    {
+                                        "amendType": "addition",
+                                        "ancestorRefs": [
+                                            "34",
+                                            "new_3401"
+                                        ],
+                                        "body": "The extent to which the existing mechanical, electrical, plumbing and <a class=\"autolink\" href=\"/viewer/georgia/ibc-2024/chapter/2/definitions#life_safety_systems_\">life safety systems</a> shall be made to conform to the requirements of the State Minimum Standard Codes for new construction shall be as follows unless otherwise required by this section: \n<ol>\n    <li>When the estimated cost of the new work is less than fifty percent (50%) of the replacement cost of the existing system, the new work shall be brought into conformance with the requirements of the State Minimum Standard Codes for new construction. </li>\n    <li>When the estimated cost of the new work is equal to or greater than fifty percent (50%) of the replacement cost of the existing system, the entire system shall be made to conform to the requirements of the State Minimum Standard Codes for new construction. </li>\n    <li>For essential service <a class=\"autolink\" href=\"/viewer/georgia/ibc-2024/chapter/2/definitions#facility_\">facilities</a> Occupancy Category IV type buildings as defined by <a class=\"autolink\" href=\"/viewer/georgia/ibc-2024/chapter/16/structural-design#table_1604.5\">Table 1604.5</a>, when the estimated cost of the new work is equal to or greater than thirty percent (30%) of the replacement cost of the existing system, the entire system shall be made to conform to the requirements of the State Minimum Standard Codes for new construction. </li>\n</ol>\n<div>(Effective January 1, 2026; GAC 110-11-1-.24)</div>",
+                                        "depth": 2,
+                                        "diagrams": [],
+                                        "displayRef": "3401.3",
+                                        "displayTitle": "3401.3 Existing Systems Conformance",
+                                        "hasAssemblies": false,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 0,
+                                        "numDiagramsOnRef": 0,
+                                        "reference": "new_3401.3",
+                                        "slug": "reserved",
+                                        "titleText": "Existing Systems Conformance",
+                                        "children": []
+                                    }
+                                ]
+                            },
+                            {
+                                "amendType": "addition",
+                                "ancestorRefs": [
+                                    "34"
+                                ],
+                                "body": "<span class=\"u-text-12px\">(Effective January 1, 2026; GAC 110-11-1-.24)</span>",
+                                "depth": 1,
+                                "diagrams": [],
+                                "displayRef": "3402",
+                                "displayTitle": "3402 Definitions",
+                                "hasAssemblies": false,
+                                "isContiguous": true,
+                                "numAssembliesOnRef": 0,
+                                "numBuildingProductsOnRef": 0,
+                                "numDiagramsOnRef": 0,
+                                "reference": "new_3402",
+                                "slug": "reserved",
+                                "titleText": "Definitions",
+                                "children": [
+                                    {
+                                        "amendType": "addition",
+                                        "ancestorRefs": [
+                                            "34",
+                                            "new_3402"
+                                        ],
+                                        "body": "Unless otherwise expressly stated, words and terms shall, for the purpose of this chapter, have the meanings shown in Chapter 2 of the <i>International Existing Building Code</i>.\n<div class=\"u-mt-3\">(Effective January 1, 2026; GAC 110-11-1-.24)</div>",
+                                        "depth": 2,
+                                        "diagrams": [],
+                                        "displayRef": "3402.1",
+                                        "displayTitle": "3402.1 Definitions",
+                                        "hasAssemblies": false,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 0,
+                                        "numDiagramsOnRef": 0,
+                                        "reference": "new_3402.1",
+                                        "slug": "reserved",
+                                        "titleText": "Definitions",
+                                        "children": []
+                                    }
+                                ]
+                            },
+                            {
+                                "amendType": "addition",
+                                "ancestorRefs": [
+                                    "34"
+                                ],
+                                "body": "<span class=\"u-text-12px\">(Effective January 1, 2026; GAC 110-11-1-.24)</span>",
+                                "depth": 1,
+                                "diagrams": [],
+                                "displayRef": "3403",
+                                "displayTitle": "3403 Provisions",
+                                "hasAssemblies": false,
+                                "isContiguous": true,
+                                "numAssembliesOnRef": 0,
+                                "numBuildingProductsOnRef": 0,
+                                "numDiagramsOnRef": 0,
+                                "reference": "new_3403",
+                                "slug": "reserved",
+                                "titleText": "Provisions",
+                                "children": [
+                                    {
+                                        "amendType": "addition",
+                                        "ancestorRefs": [
+                                            "34",
+                                            "new_3403"
+                                        ],
+                                        "body": "The <i><a class=\"autolink\" href=\"/viewer/georgia/ibc-2024/chapter/2/definitions#repair_\">repair</a>, <a class=\"autolink\" href=\"/viewer/georgia/ibc-2024/chapter/2/definitions#alteration_\">alteration</a>, <a class=\"autolink\" href=\"/viewer/georgia/ibc-2024/chapter/2/definitions#change_of_occupancy_\">change of occupancy</a>, <a class=\"autolink\" href=\"/viewer/georgia/ibc-2024/chapter/2/definitions#addition_\">addition</a></i> and relocation of <a class=\"autolink\" href=\"/viewer/georgia/ibc-2024/chapter/2/definitions#existing_building_\">existing buildings</a> and structures shall comply with Chapters 3, 4, 5, 13, 14 and 16 of the <i>International Existing Building Code</i>. Provisions in Appendices A through E shall not apply unless specifically adopted or referenced. \n<div class=\"uc_exception\"><span class=\"u-font-bold\">Exception:</span>\nSection 301.3.2 shall not apply unless specifically adopted or <i><a class=\"autolink\" href=\"/viewer/georgia/ibc-2024/chapter/2/definitions#approved_\">approved</a></i>.\n</div>\n<div class=\"u-mt-3\">(Effective January 1, 2026; GAC 110-11-1-.24)</div>",
+                                        "depth": 2,
+                                        "diagrams": [],
+                                        "displayRef": "3403.1",
+                                        "displayTitle": "3403.1 Applicability",
+                                        "hasAssemblies": false,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 0,
+                                        "numDiagramsOnRef": 0,
+                                        "reference": "new_3403.1",
+                                        "slug": "reserved",
+                                        "titleText": "Applicability",
+                                        "children": [
+                                            {
+                                                "amendType": "addition",
+                                                "ancestorRefs": [
+                                                    "34",
+                                                    "new_3403",
+                                                    "new_3403.1"
+                                                ],
+                                                "body": "<a class=\"autolink\" href=\"/viewer/georgia/ibc-2024/chapter/2/definitions#existing_building_\">Existing buildings</a> or portions of buildings proposed as a <a class=\"autolink\" href=\"/viewer/georgia/ibc-2024/chapter/2/definitions#change_of_occupancy_\">change of occupancy</a> to Assisted Living Communities, licensed by the State, housing twenty-five or more persons, shall be allowed to meet the Georgia State Fire Marshal's Office Life Safety Code requirements for primary equivalent compliance to the International Building Code Chapters <a class=\"autolink\" href=\"/viewer/georgia/ibc-2024/chapter/3/occupancy-classification-and-use#3\">3</a>, <a class=\"autolink\" href=\"/viewer/georgia/ibc-2024/chapter/4/special-detailed-requirements-based-on-occupancy-and-use#4\">4</a>, <a class=\"autolink\" href=\"/viewer/georgia/ibc-2024/chapter/8/interior-finishes#8\">8</a>, <a class=\"autolink\" href=\"/viewer/georgia/ibc-2024/chapter/9/fire-protection-and-life-safety-systems#9\">9</a>, and <a class=\"autolink\" href=\"/viewer/georgia/ibc-2024/chapter/10/means-of-egress#10\">10</a>. \n<div class=\"u-mt-3\">(Effective January 1, 2026; GAC 110-11-1-.24)</div>",
+                                                "depth": 3,
+                                                "diagrams": [],
+                                                "displayRef": "3403.1.1",
+                                                "displayTitle": "3403.1.1 Assisted Living Communities",
+                                                "hasAssemblies": false,
+                                                "isContiguous": true,
+                                                "numAssembliesOnRef": 0,
+                                                "numBuildingProductsOnRef": 0,
+                                                "numDiagramsOnRef": 0,
+                                                "reference": "new_3403.1.1",
+                                                "slug": "reserved",
+                                                "titleText": "Assisted Living Communities",
+                                                "children": []
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "amendType": "addition",
+                                        "ancestorRefs": [
+                                            "34",
+                                            "new_3403"
+                                        ],
+                                        "body": "Safety during construction and protection of adjacent public and private properties shall comply with <a class=\"autolink\" href=\"/viewer/georgia/ibc-2024/chapter/33/safeguards-during-construction#33\">Chapter 33</a> of this code. \n<div class=\"u-mt-3\">(Effective January 1, 2026; GAC 110-11-1-.24)</div>",
+                                        "depth": 2,
+                                        "diagrams": [],
+                                        "displayRef": "3403.2",
+                                        "displayTitle": "3403.2 Construction Safeguards",
+                                        "hasAssemblies": false,
+                                        "isContiguous": true,
+                                        "numAssembliesOnRef": 0,
+                                        "numBuildingProductsOnRef": 0,
+                                        "numDiagramsOnRef": 0,
+                                        "reference": "new_3403.2",
+                                        "slug": "reserved",
+                                        "titleText": "Construction Safeguards",
+                                        "children": []
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            "chapterReference": "34"
+        },
+        "__N_SSP": true
+    },
+    "page": "/viewer/[urlFormPubOrJurisKey]/[urlFormPub]/chapter/[chapterRef]/[chapterName]",
+    "query": {
+        "urlFormPubOrJurisKey": "georgia",
+        "urlFormPub": "ibc-2024",
+        "chapterRef": "34",
+        "chapterName": "reserved"
+    },
+    "buildId": "aNDb_KMgxj06vGZ7D_0_K",
+    "isFallback": false,
+    "isExperimentalCompile": false,
+    "dynamicIds": [
+        61621,
+        54065
+    ],
+    "gssp": true,
+    "scriptLoader": []
+}
