@@ -1,5 +1,8 @@
 # US Building Codes Dataset Pipeline
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=thexqin&hide_rank=true&show_icons=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=thexqin&langs_count=10&layout=compact)
+
 This repository contains a comprehensive, multi-stage pipeline designed to scrape, parse, and enrich US building codes (IBC, IRC, IEBC) and ADA standards. By combining programmatic parsing with LLM-based (OpenAI/Gemini) inference, this project transforms complex, hierarchical web data into structured, analysis-ready datasets.
 
 ## 🏗 Data Pipeline Architecture
